@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_electrolysis_1_f48c76",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Distinction between metallic and electrolytic conduction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Metals conduct electricity without undergoing chemical decomposition, whereas electrolytes undergo chemical change during conduction. **Reason (R):** Metallic conduction involves the flow of delocalised free electrons, whereas electrolytic conduction involves the migration and discharge of mobile ions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. In metals, electrons carry current through the lattice with no mass transfer. In electrolytes, ions carry current and discharge at electrodes, causing chemical reactions.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2111d339ac355e010af91957e97dd7ee1e2892bbe5960c297b460113a86b9333",
+    "question_skeleton": "assertion a metals conduct electricity without undergoing chemical decomposition whereas electrolytes undergo chemical change during conduction reason r metallic conduction involves the flow of delocalised free electrons whereas electrolytic conduction involves the migration and discharge of mobile ions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_2_cbfbca",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electrolytic dissociation in solid vs molten state",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Solid lead bromide is a non-electrolyte, but molten lead bromide is a strong electrolyte. **Reason (R):** In the solid state, electrostatic forces lock ions in fixed lattice positions; melting provides thermal energy to overcome these forces and release mobile Pb²⁺ and Br⁻ ions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Conduction requires mobile ions; solid crystals have no mobile ions.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c66a893dac78885cd5081f989fab5ffa1a737328db76b17d8bbe0e60d33a7603",
+    "question_skeleton": "assertion a solid lead bromide is a non electrolyte but molten lead bromide is a strong electrolyte reason r in the solid state electrostatic forces lock ions in fixed lattice positions melting provides thermal energy to overcome these forces and release mobile pb and br ions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_3_25401c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electrolysis of molten lead bromide apparatus material",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A silica crucible is used to heat and electrolyse molten lead bromide in the laboratory. **Reason (R):** Silica is chemically inert to hot lead bromide, resists thermal shock, and is a non-conductor of electricity. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. A silica crucible withstands high heat without cracking and does not react with corrosive PbBr₂ or bromine vapors.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dbbac1c7e4e1f4dd73af12d55cfd97e537895aad482481cee3ef9e6590d50ca4",
+    "question_skeleton": "assertion a a silica crucible is used to heat and electrolyse molten lead bromide in the laboratory reason r silica is chemically inert to hot lead bromide resists thermal shock and is a non conductor of electricity choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_4_6c13df",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electrodes in electrolysis of molten lead bromide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Graphite electrodes are preferred over metal electrodes for the electrolysis of molten lead bromide. **Reason (R):** Graphite is chemically inert and unaffected by the highly corrosive bromine vapor evolved at the anode. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Reactive metals like copper or iron would react with evolved bromine to form metal bromides.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9b7a15ae8b53f2e72440e325ac6ac431513b1414466b0e128120d32ba4cf8bb1",
+    "question_skeleton": "assertion a graphite electrodes are preferred over metal electrodes for the electrolysis of molten lead bromide reason r graphite is chemically inert and unaffected by the highly corrosive bromine vapor evolved at the anode choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_5_e9b255",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electrolysis of molten PbBr2 electrode reactions",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** During the electrolysis of molten PbBr₂, silvery-grey beads of lead form at the cathode, while reddish-brown bromine vapors evolve at the anode. **Reason (R):** Pb²⁺ ions gain electrons at the cathode (reduction: Pb²⁺ + 2e⁻ → Pb), and Br⁻ ions lose electrons at the anode (oxidation: 2Br⁻ → Br₂ + 2e⁻). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Cations migrate to the cathode to undergo reduction; anions migrate to the anode to undergo oxidation.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5b35d69905802907e0c992151111afd02c2b5efce60f2a26568d00a2cc8438c2",
+    "question_skeleton": "assertion a during the electrolysis of molten pbbr silvery grey beads of lead form at the cathode while reddish brown bromine vapors evolve at the anode reason r pb ions gain electrons at the cathode reduction pb e pb and br ions lose electrons at the anode oxidation br br e choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_6_70eeb1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electrolysis of acidified water volume ratio",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the electrolysis of acidified water, the volume of hydrogen collected at the cathode is twice the volume of oxygen collected at the anode. **Reason (R):** The stoichiometric decomposition of water is 2H₂O → 2H₂ + O₂, producing two moles of hydrogen gas for every one mole of oxygen gas. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. By Avogadro law, 2 moles of H₂ gas occupy twice the volume of 1 mole of O₂ gas at the same T and P.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "67625022f3ad20476081c35abd9b671817add5f6c051a527dc9e38dbb833f0be",
+    "question_skeleton": "assertion a in the electrolysis of acidified water the volume of hydrogen collected at the cathode is twice the volume of oxygen collected at the anode reason r the stoichiometric decomposition of water is h o h o producing two moles of hydrogen gas for every one mole of oxygen gas choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_7_108ef5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Why pure water is a non-electrolyte",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Pure distilled water is a very poor conductor of electricity. **Reason (R):** Water is a covalent compound that undergoes very slight self-ionisation (only 1 in 10⁷ molecules dissociates into H⁺ and OH⁻ ions). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Without sufficient mobile ions, pure water cannot conduct current; adding a few drops of dilute H₂SO₄ catalyzes conductivity.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "39a33155eb6bfe9f88c2114cd7338c6b81df9d93958b1f191f79542ab687a21e",
+    "question_skeleton": "assertion a pure distilled water is a very poor conductor of electricity reason r water is a covalent compound that undergoes very slight self ionisation only # in # molecules dissociates into h and oh ions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_8_f1e39a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Why dilute H2SO4 is preferred over dilute HCl to acidify water",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Dilute sulphuric acid is preferred over dilute hydrochloric acid for acidifying water in the electrolysis experiment. **Reason (R):** Sulphuric acid is non-volatile and its sulphate ions are not discharged at the anode, whereas chloride ions from HCl would discharge and evolve chlorine gas. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. SO₄²⁻ is not discharged because OH⁻ has a lower discharge potential. HCl would release toxic Cl₂ instead of pure O₂.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5ab11775083719a326b1c54f53abb04a101c9a64b44d93f788372ee6cc55a7a5",
+    "question_skeleton": "assertion a dilute sulphuric acid is preferred over dilute hydrochloric acid for acidifying water in the electrolysis experiment reason r sulphuric acid is non volatile and its sulphate ions are not discharged at the anode whereas chloride ions from hcl would discharge and evolve chlorine gas choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_9_dd487a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electrolysis of aqueous CuSO4 using platinum electrodes",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When aqueous copper sulphate is electrolysed using inert platinum electrodes, the blue color of the solution gradually fades. **Reason (R):** Cu²⁺ ions are discharged as red-brown copper at the cathode while OH⁻ ions discharge as oxygen at the anode, leaving behind colorless sulphuric acid (H₂SO₄). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. As Cu²⁺ ions are depleted from solution without replenishment, the blue color fades to clear colorless H₂SO₄.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dcca1a8299f2e47a86e92dcf3437f38a12792a842fd3f6f42f56fa3648cb9c30",
+    "question_skeleton": "assertion a when aqueous copper sulphate is electrolysed using inert platinum electrodes the blue color of the solution gradually fades reason r cu ions are discharged as red brown copper at the cathode while oh ions discharge as oxygen at the anode leaving behind colorless sulphuric acid h so choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_10_25cf82",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electrolysis of aqueous CuSO4 using copper electrodes",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When aqueous copper sulphate is electrolysed using active copper electrodes, the blue color of the solution remains unchanged. **Reason (R):** For every Cu²⁺ ion deposited at the cathode, a Cu atom dissolves from the active copper anode into solution as a Cu²⁺ ion. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Cu(anode) - 2e⁻ → Cu²⁺; the concentration of Cu²⁺ ions in the electrolyte remains constant.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8b0e9a50b9663f80a32fc8080e3c20bf1b821f5cff0beb55c290775e1ab7fd4b",
+    "question_skeleton": "assertion a when aqueous copper sulphate is electrolysed using active copper electrodes the blue color of the solution remains unchanged reason r for every cu ion deposited at the cathode a cu atom dissolves from the active copper anode into solution as a cu ion choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_11_e4e0c0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Mass changes at electrodes with active copper electrodes",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the electrolysis of CuSO₄ with copper electrodes, the loss in mass of the anode equals the gain in mass of the cathode. **Reason (R):** Copper atoms from the anode dissolve into solution as Cu²⁺ ions at the exact same rate that Cu²⁺ ions discharge onto the cathode. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Mass transfer occurs directly from the impure/active anode to the cathode with 100% current efficiency.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "85f4c466275e214962c04d4ab30ccbb269b41647d5691517c8f2b8775302b35d",
+    "question_skeleton": "assertion a in the electrolysis of cuso with copper electrodes the loss in mass of the anode equals the gain in mass of the cathode reason r copper atoms from the anode dissolve into solution as cu ions at the exact same rate that cu ions discharge onto the cathode choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_12_cb693a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Preferential discharge of cations in electrochemical series",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In a solution containing both H⁺ and Cu²⁺ ions, Cu²⁺ ions are preferentially discharged at the cathode. **Reason (R):** Copper lies below hydrogen in the electrochemical series and has a higher reduction potential, gaining electrons more readily than H⁺. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Ions lower in the electrochemical activity series discharge in preference to ions higher up.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e2fc3e3449293dcf416c68c0d7c030bf889188ca93c6a4341f2800388b9b89b8",
+    "question_skeleton": "assertion a in a solution containing both h and cu ions cu ions are preferentially discharged at the cathode reason r copper lies below hydrogen in the electrochemical series and has a higher reduction potential gaining electrons more readily than h choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_13_5c4b57",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Preferential discharge of anions at the anode",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the electrolysis of dilute sodium chloride solution, OH⁻ ions are discharged at the anode in preference to SO₄²⁻ or NO₃⁻ ions. **Reason (R):** Hydroxide ions (OH⁻) have a lower standard oxidation potential (lower discharge potential) than sulphate and nitrate ions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The ease of discharge follows: SO₄²⁻ < NO₃⁻ < Cl⁻ < Br⁻ < I⁻ < OH⁻. OH⁻ is discharged as O₂ gas.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "16bb254a9b026424aa88fba3799a06e5adae98c2e02a3173f635fe58e58e6968",
+    "question_skeleton": "assertion a in the electrolysis of dilute sodium chloride solution oh ions are discharged at the anode in preference to so or no ions reason r hydroxide ions oh have a lower standard oxidation potential lower discharge potential than sulphate and nitrate ions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_14_36450a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Effect of concentration on preferential discharge",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** During the electrolysis of concentrated sodium chloride solution (brine), chlorine gas is evolved at the anode instead of oxygen. **Reason (R):** The extremely high concentration of Cl⁻ ions overcomes the slight difference in discharge potential, causing chloride ions to discharge preferentially. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. When concentration of an ion is sufficiently high, concentration effect overrides normal electrochemical series order.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0b7803473ec099435b03dae2726338fe8fa80b2190eb1913ce3d1c82b2b631a9",
+    "question_skeleton": "assertion a during the electrolysis of concentrated sodium chloride solution brine chlorine gas is evolved at the anode instead of oxygen reason r the extremely high concentration of cl ions overcomes the slight difference in discharge potential causing chloride ions to discharge preferentially choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_15_9cd505",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electroplating article position",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In electroplating an iron spoon with silver, the spoon must always be connected to the negative terminal (cathode). **Reason (R):** Reduction occurs at the cathode, where positive metal cations gain electrons and deposit as a smooth metallic coating. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Ag⁺ + e⁻ → Ag(deposited on spoon). If connected to the anode, the spoon would dissolve instead.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7570992d1af01fcee897e3e47772e95056a8e0de573eb5f1a38631e964ef478a",
+    "question_skeleton": "assertion a in electroplating an iron spoon with silver the spoon must always be connected to the negative terminal cathode reason r reduction occurs at the cathode where positive metal cations gain electrons and deposit as a smooth metallic coating choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_16_5a5269",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electroplating anode composition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In silver plating, the anode is made of a block of pure silver metal. **Reason (R):** The active silver anode dissolves into the electrolyte at the same rate that silver ions deposit onto the cathode, maintaining electrolyte concentration. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Ag(anode) - e⁻ → Ag⁺(aq); replaces silver ions consumed at the cathode.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1b9a3cda03aa60a1afc889092683ea844ba432ba1df082465339689f21f3504f",
+    "question_skeleton": "assertion a in silver plating the anode is made of a block of pure silver metal reason r the active silver anode dissolves into the electrolyte at the same rate that silver ions deposit onto the cathode maintaining electrolyte concentration choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_17_623e78",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electroplating electrolyte requirement",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Sodium dicyanoargentate(I), Na[Ag(CN)₂], is preferred over silver nitrate (AgNO₃) as the electrolyte for silver plating. **Reason (R):** Sodium dicyanoargentate(I) ionises slowly, furnishing a low, steady concentration of Ag⁺ ions that yields a smooth, uniform, adherent electroplate. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. AgNO₃ ionises too rapidly, producing a brittle, loose, uneven coating of silver crystals.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6a0b912beba575844e0f5ea35ea76473f12c8ba0b8301c2f9bc488678aacb7eb",
+    "question_skeleton": "assertion a sodium dicyanoargentate i na ag cn is preferred over silver nitrate agno as the electrolyte for silver plating reason r sodium dicyanoargentate i ionises slowly furnishing a low steady concentration of ag ions that yields a smooth uniform adherent electroplate choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_18_e769cf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Current requirements for electroplating",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Electroplating requires a low direct current (DC) passed for a prolonged duration. **Reason (R):** A high current causes rapid, uneven deposition of metal with poor adhesion and burning of the electroplated film. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Low DC current ensures steady, uniform crystal growth across the article surface.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "28fc96770977b4c2e525fd70c5d1bf0b58f3e98e96de8dd96e20bf33362d3b71",
+    "question_skeleton": "assertion a electroplating requires a low direct current dc passed for a prolonged duration reason r a high current causes rapid uneven deposition of metal with poor adhesion and burning of the electroplated film choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_19_9f1463",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Why AC cannot be used for electroplating",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Alternating current (AC) cannot be used for electroplating or electrolysis. **Reason (R):** Alternating current rapidly reverses polarity (50 times per second), causing metal to deposit in one half-cycle and dissolve in the next, resulting in zero net deposition. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Electroplating requires unidirectional direct current (DC) so the cathode remains constantly negative.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "813a4df198472836ef8ea3cc5c0121de585c34de77d969c8b44dd02895e0bc05",
+    "question_skeleton": "assertion a alternating current ac cannot be used for electroplating or electrolysis reason r alternating current rapidly reverses polarity # times per second causing metal to deposit in one half cycle and dissolve in the next resulting in zero net deposition choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_20_94e9ac",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electro-refining of blister copper",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the electrolytic refining of copper, impure blister copper is made the anode and a thin strip of pure copper is made the cathode. **Reason (R):** Copper atoms from the impure anode dissolve as Cu²⁺ ions and plate out onto the pure copper cathode, leaving impurities behind as anode mud. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Valuable noble metals like gold and silver settle beneath the anode as insoluble anode mud.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0020f58a0f69a9e7e153a746fde420be04ce2b2372d48d9a6eb88da4ff432e7f",
+    "question_skeleton": "assertion a in the electrolytic refining of copper impure blister copper is made the anode and a thin strip of pure copper is made the cathode reason r copper atoms from the impure anode dissolve as cu ions and plate out onto the pure copper cathode leaving impurities behind as anode mud choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_21_94ff1d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Anode mud composition in copper refining",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Anode mud collected during copper refining contains precious metals like silver, gold, and platinum. **Reason (R):** Metals less electropositive than copper do not dissolve at the potential used and settle to the bottom of the cell as insoluble sludge. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Ag, Au, and Pt are below Cu in the activity series and cannot be oxidised at the refining voltage.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "690eb5b690dc0e9636a180fa8413453c1ad08b43ffa8fa15bd022a34180ffa9e",
+    "question_skeleton": "assertion a anode mud collected during copper refining contains precious metals like silver gold and platinum reason r metals less electropositive than copper do not dissolve at the potential used and settle to the bottom of the cell as insoluble sludge choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_22_a14481",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Oxidation definition in terms of electrons",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In an electrolytic cell, oxidation always takes place at the anode. **Reason (R):** Anions migrate to the anode and lose electrons (de-electronation) to become neutral atoms. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Oxidation is the loss of electrons (OIL RIG); anode is the electrode where oxidation occurs.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "42ea03b9d402bfa4812934c93aaffdb30a0a4064aad85fa2c9b438c9375b43da",
+    "question_skeleton": "assertion a in an electrolytic cell oxidation always takes place at the anode reason r anions migrate to the anode and lose electrons de electronation to become neutral atoms choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_23_58596d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Reduction definition in terms of electrons",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In an electrolytic cell, reduction always takes place at the cathode. **Reason (R):** Cations migrate to the cathode and gain electrons (electronation) to become neutral atoms. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Reduction is the gain of electrons; cathode is the electron-rich negative electrode.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c633b4576da3ca4c830aecb3e7c49e0fde758a539fa91b793b5b5f613c1634e1",
+    "question_skeleton": "assertion a in an electrolytic cell reduction always takes place at the cathode reason r cations migrate to the cathode and gain electrons electronation to become neutral atoms choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_24_e8c628",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Role of cryolite in Hall-Heroult process",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the extraction of aluminium by Hall-Héroult process, cryolite (Na₃AlF₆) is added to pure alumina (Al₂O₃). **Reason (R):** Cryolite lowers the melting point of alumina from ~2050°C to ~950°C and increases the electrical conductivity of the molten bath. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Pure alumina melts above 2000°C and is a poor conductor; cryolite and fluorspar make the electrolysis economically viable.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1e41b2f897b41089f74a0a6a438a89ee42a6cef6d55d65a889e039d059972266",
+    "question_skeleton": "assertion a in the extraction of aluminium by hall h roult process cryolite na alf is added to pure alumina al o reason r cryolite lowers the melting point of alumina from # c to # c and increases the electrical conductivity of the molten bath choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_25_ec2c44",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Role of fluorspar in Hall-Heroult process",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Fluorspar (CaF₂) is added along with cryolite to the electrolytic bath for aluminium extraction. **Reason (R):** Fluorspar acts as a solvent that further lowers the fusion mixture temperature and enhances the mobility of ions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The mixture of 20% Al₂O₃, 60% Na₃AlF₆, and 20% CaF₂ melts easily around 950°C.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0540f25f58d1fb5a61fc2afbca92facb9ada7fae50840786d0d94a1597e13b80",
+    "question_skeleton": "assertion a fluorspar caf is added along with cryolite to the electrolytic bath for aluminium extraction reason r fluorspar acts as a solvent that further lowers the fusion mixture temperature and enhances the mobility of ions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_26_97c238",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Why carbon anodes are periodically replaced in aluminium extraction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The carbon (graphite) anodes in the Hall-Héroult cell must be replaced periodically. **Reason (R):** Oxygen gas evolved at the high operating temperature (950°C) reacts with carbon anodes to form carbon dioxide, burning the anodes away. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. C + O₂ → CO₂↑. For every 1 kg of aluminium produced, roughly 0.5 kg of carbon anode is consumed.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "adf8430038de42336ac0f0a5a8d005d03a18c0f1115d448fbff54a7bdf03dd82",
+    "question_skeleton": "assertion a the carbon graphite anodes in the hall h roult cell must be replaced periodically reason r oxygen gas evolved at the high operating temperature # c reacts with carbon anodes to form carbon dioxide burning the anodes away choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_27_f4ba3f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Why alumina is covered with coke powder in Hall-Heroult cell",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A layer of powdered coke is sprinkled over the surface of the molten electrolytic bath in aluminium extraction. **Reason (R):** The coke layer prevents radiation heat loss and protects the carbon anodes from burning in atmospheric oxygen. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The insulating blanket of coke conserves thermal energy and reduces oxidation of anode blocks.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bd2f1ddb5b20344218a6b3b98cc723236210781273975b69ac61827fd70e2697",
+    "question_skeleton": "assertion a a layer of powdered coke is sprinkled over the surface of the molten electrolytic bath in aluminium extraction reason r the coke layer prevents radiation heat loss and protects the carbon anodes from burning in atmospheric oxygen choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_28_c7066a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Why aluminium cannot be extracted by aqueous electrolysis",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Aluminium metal cannot be prepared by the electrolysis of an aqueous solution of aluminium salts. **Reason (R):** Aluminium is more electropositive than hydrogen; H⁺ ions from water discharge preferentially at the cathode, liberating hydrogen gas instead of aluminium. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Standard reduction potential of Al³⁺ (-1.66 V) is much lower than H⁺ (0.0 V), so water is reduced instead of aluminium.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ec7af4157b87e56d3512d3b9acaaa4f8e5e27b72e54c90321e7cd8eb31c38c88",
+    "question_skeleton": "assertion a aluminium metal cannot be prepared by the electrolysis of an aqueous solution of aluminium salts reason r aluminium is more electropositive than hydrogen h ions from water discharge preferentially at the cathode liberating hydrogen gas instead of aluminium choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_29_6c128e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electrolysis of molten NaCl vs aqueous NaCl",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Electrolysis of molten sodium chloride yields sodium metal at the cathode, but electrolysis of aqueous NaCl yields hydrogen gas. **Reason (R):** In aqueous solution, H⁺ ions have a higher discharge potential than Na⁺ ions and undergo reduction preferentially. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 2H⁺ + 2e⁻ → H₂↑. Sodium can only be discharged in the complete absence of water (molten state in Downs cell).",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c44a8eb64ecb83d5e08ccd05caf809650573e3e2b0800c0cfddc66b43b75b8e6",
+    "question_skeleton": "assertion a electrolysis of molten sodium chloride yields sodium metal at the cathode but electrolysis of aqueous nacl yields hydrogen gas reason r in aqueous solution h ions have a higher discharge potential than na ions and undergo reduction preferentially choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_30_853dd4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electrolysis of dilute vs concentrated sulphuric acid",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** During the electrolysis of dilute sulphuric acid, the products are hydrogen at the cathode and oxygen at the anode in a 2:1 volume ratio. **Reason (R):** Electrolysis of dilute H₂SO₄ is essentially the electrolysis of water, with sulphuric acid merely acting as a conducting medium. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. H⁺ discharges at the cathode and OH⁻ discharges at the anode; SO₄²⁻ remains unchanged in solution.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4f44376755efdae62b586f008ab9e8cb8eb42e670aabed13c061067b52dcfa7b",
+    "question_skeleton": "assertion a during the electrolysis of dilute sulphuric acid the products are hydrogen at the cathode and oxygen at the anode in a # # volume ratio reason r electrolysis of dilute h so is essentially the electrolysis of water with sulphuric acid merely acting as a conducting medium choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_31_a74df8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Strong vs weak electrolyte conductivity",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A 0.1 M solution of hydrochloric acid conducts electricity better and shows higher lamp brightness than a 0.1 M solution of acetic acid. **Reason (R):** Hydrochloric acid is a strong electrolyte that is completely ionised into mobile H⁺ and Cl⁻ ions, whereas acetic acid is only partially ionised. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Electrical conductivity is proportional to the concentration of mobile charge carriers (ions).",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "544297c2e477df91fa9d2e28e6d99823979e0c5baf0622d5466e049c46678cf8",
+    "question_skeleton": "assertion a a # m solution of hydrochloric acid conducts electricity better and shows higher lamp brightness than a # m solution of acetic acid reason r hydrochloric acid is a strong electrolyte that is completely ionised into mobile h and cl ions whereas acetic acid is only partially ionised choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_32_b45011",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Why sugar solution is a non-electrolyte",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An aqueous solution of cane sugar (sucrose) does not conduct electricity. **Reason (R):** Sugar is a covalent compound that dissolves as neutral molecules without undergoing ionisation or dissociation into ions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Without free mobile ions or electrons, no electric current can flow through the solution.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f0ce6974e75db07add6dbe0860e11d2ce1927c0fb2be6f09eed6896faaf547ea",
+    "question_skeleton": "assertion a an aqueous solution of cane sugar sucrose does not conduct electricity reason r sugar is a covalent compound that dissolves as neutral molecules without undergoing ionisation or dissociation into ions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_33_3b9c9f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Faraday concept of ions",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Electric current does not create ions; it merely directs existing ions towards oppositely charged electrodes. **Reason (R):** According to Arrhenius theory of electrolytic dissociation, electrolytes dissociate into ions spontaneously when dissolved in water or melted. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Ions already exist in the electrolyte; the applied potential difference establishes an electric field that causes directional migration.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a0896376f94bdeac03ff1b07b9c0106db299a633726826c98cbf5b6002a4149c",
+    "question_skeleton": "assertion a electric current does not create ions it merely directs existing ions towards oppositely charged electrodes reason r according to arrhenius theory of electrolytic dissociation electrolytes dissociate into ions spontaneously when dissolved in water or melted choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_34_cf6dec",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Nickel plating conditions",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In nickel plating, the electrolyte is a solution of nickel ammonium sulphate or nickel sulphate. **Reason (R):** A clean nickel plate is used as the anode to replenish Ni²⁺ ions discharged onto the cathode. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Ni(anode) - 2e⁻ → Ni²⁺(aq); ensures a continuous and uniform supply of nickel ions.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a5157a91b7c96c0e34b961eb9c5298a1eb2ce52dfdd358b2d3317ce53019830e",
+    "question_skeleton": "assertion a in nickel plating the electrolyte is a solution of nickel ammonium sulphate or nickel sulphate reason r a clean nickel plate is used as the anode to replenish ni ions discharged onto the cathode choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_35_bc77ae",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Cleaning of article before electroplating",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An article to be electroplated must be thoroughly cleaned with acid and washed with distilled water before immersion in the plating bath. **Reason (R):** Grease, oxide films, and dirt prevent the electrodeposited metal from adhering firmly, causing the plating to peel off. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. A pristine metal surface is essential for proper metallic bonding and crystal adherence.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6471a669190f9944761a174dda969be97cc4094751095f623a47a5224753f0ed",
+    "question_skeleton": "assertion a an article to be electroplated must be thoroughly cleaned with acid and washed with distilled water before immersion in the plating bath reason r grease oxide films and dirt prevent the electrodeposited metal from adhering firmly causing the plating to peel off choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_36_6f9084",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electrode polarity in electrolytic vs galvanic cell",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In an electrolytic cell, the cathode is the negative electrode, but in a galvanic (voltaic) cell, the cathode is the positive electrode. **Reason (R):** In both cells, reduction occurs at the cathode; in an electrolytic cell, electrons are pushed onto the cathode by an external battery. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. By definition, reduction occurs at the cathode in both cells. The sign depends on whether the cell consumes or produces electricity.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "29acb0f2d92ff5d3a5fe2e09e56838f7d6116be51cdb4af41fd11d1ba4477e25",
+    "question_skeleton": "assertion a in an electrolytic cell the cathode is the negative electrode but in a galvanic voltaic cell the cathode is the positive electrode reason r in both cells reduction occurs at the cathode in an electrolytic cell electrons are pushed onto the cathode by an external battery choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_37_414d21",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Role of platinum in inert electrodes",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Platinum and graphite are commonly used as inert electrodes in laboratory electrolysis. **Reason (R):** Inert electrodes conduct electricity but do not participate chemically in the electrode reactions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. They merely act as electron sources (cathode) or electron sinks (anode) without dissolving into solution.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b7c451795253a5757cd91db8163b15ff8871d166f182f853fae61b8ee0230ec9",
+    "question_skeleton": "assertion a platinum and graphite are commonly used as inert electrodes in laboratory electrolysis reason r inert electrodes conduct electricity but do not participate chemically in the electrode reactions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_38_142d68",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electrolysis of lead bromide temperature maintenance",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The crucible containing lead bromide must be heated continuously throughout the electrolysis process. **Reason (R):** Lead bromide has a melting point of 373°C; if heating is stopped, it solidifies into a non-conducting crystalline solid. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Conduction is only possible as long as lead bromide remains in the molten state.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b18b7bd8e643a51d25585c075c0a8390b36b2eae445959e80b7fa54671710676",
+    "question_skeleton": "assertion a the crucible containing lead bromide must be heated continuously throughout the electrolysis process reason r lead bromide has a melting point of # c if heating is stopped it solidifies into a non conducting crystalline solid choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_39_4fd48b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Direction of electron flow in external circuit",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In an electrolytic cell, electrons flow through the external wire from the anode to the cathode. **Reason (R):** Anions lose electrons at the anode, and these electrons travel through the external circuit to the battery positive terminal, then from the negative terminal to the cathode. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Electrons enter the external wire at the anode (oxidation) and leave the wire at the cathode (reduction).",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5b8b7bf1714fd2dc43e3b7d288aa75db453cc00536beb28111f8940fd8a8fe3d",
+    "question_skeleton": "assertion a in an electrolytic cell electrons flow through the external wire from the anode to the cathode reason r anions lose electrons at the anode and these electrons travel through the external circuit to the battery positive terminal then from the negative terminal to the cathode choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electrolysis_40_73e8b3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electrolysis",
+    "title": "Assertion–Reason: Electrolysis of molten sodium chloride produces chlorine at cathode",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** During the electrolysis of molten sodium chloride, chlorine gas is evolved at the cathode. **Reason (R):** Negatively charged chloride ions (Cl⁻) are attracted to the negatively charged cathode. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false; chlorine gas is evolved at the ANODE (positive electrode), not cathode. Reason is false; negatively charged chloride ions are attracted to the positively charged anode.",
+    "concept_name": "Electrolysis",
+    "concept_tag": "electrolysis assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0c635dfd944c5422f7c77c2ee59478c3fbd49d2cfe1ea5101efe35107aa2dc00",
+    "question_skeleton": "assertion a during the electrolysis of molten sodium chloride chlorine gas is evolved at the cathode reason r negatively charged chloride ions cl are attracted to the negatively charged cathode choose the correct option"
+  }
+]

@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_spectrum_1_ac331f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Dispersion of white light cause",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** White light passing through a glass prism splits into seven constituent spectral colors. **Reason (R):** The speed of light in glass depends on wavelength, causing different colors to refract through different angles. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and wavelength-dependent speed (dispersion) explains the angular separation of spectral components.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9075d0a288945be9a49d85ee7da493850a63e1c9ba8d693184e4e59f0cf7f5e8",
+    "question_skeleton": "assertion a white light passing through a glass prism splits into seven constituent spectral colors reason r the speed of light in glass depends on wavelength causing different colors to refract through different angles choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_2_1be574",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Deviation of violet vs red light",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Violet light undergoes maximum deviation and red light undergoes minimum deviation when white light passes through a prism. **Reason (R):** Violet light has the shortest wavelength in the visible spectrum and travels slowest in glass, experiencing the highest refractive index. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Cauchy's formula shows μ decreases with increasing λ, so violet has maximum μ and maximum deviation.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ae887d0fbc3512a8a63b0da85ae221e61ba20eaae63c3bec56ee9c3f259bc428",
+    "question_skeleton": "assertion a violet light undergoes maximum deviation and red light undergoes minimum deviation when white light passes through a prism reason r violet light has the shortest wavelength in the visible spectrum and travels slowest in glass experiencing the highest refractive index choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_3_fc62f3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Infrared radiation detection",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Infrared radiation can be detected by using a sensitive blackened-bulb thermometer or a thermopile. **Reason (R):** Infrared radiation has a strong heating effect, and a blackened surface absorbs thermal radiation most efficiently. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the strong heating effect absorbed by blackened surfaces is the standard method for detecting infrared.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2a780a5d782da98fb465a8ee87d964893ec2a075c1320fd4dcb483620eb9faec",
+    "question_skeleton": "assertion a infrared radiation can be detected by using a sensitive blackened bulb thermometer or a thermopile reason r infrared radiation has a strong heating effect and a blackened surface absorbs thermal radiation most efficiently choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_4_110734",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Rock salt prism for infrared spectrum",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A rock-salt (NaCl) prism is used instead of a glass prism to study the infrared spectrum. **Reason (R):** Ordinary glass absorbs infrared radiation, whereas rock salt is transparent to infrared rays. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and rock salt's transparency to infrared wavelengths explains why glass cannot be used.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5527b94f67de1691a732613ec3ec548c3c3baabd4e3c24000ebd10f00f2bf3e2",
+    "question_skeleton": "assertion a a rock salt nacl prism is used instead of a glass prism to study the infrared spectrum reason r ordinary glass absorbs infrared radiation whereas rock salt is transparent to infrared rays choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_5_c35777",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Quartz prism for ultraviolet spectrum",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A quartz prism is employed to obtain the ultraviolet spectrum. **Reason (R):** Ordinary glass is opaque to ultraviolet radiation, whereas quartz allows ultraviolet rays to transmit without absorption. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the opacity of glass to UV compared to quartz transparency justifies its use.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dead3817c0eafccbde5179c759af7f72659d4965ba382fecd0bed095c6f1fc19",
+    "question_skeleton": "assertion a a quartz prism is employed to obtain the ultraviolet spectrum reason r ordinary glass is opaque to ultraviolet radiation whereas quartz allows ultraviolet rays to transmit without absorption choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_6_1783e1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Scattering of light Rayleigh's law",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Blue light is scattered much more strongly by atmospheric gas molecules than red light. **Reason (R):** According to Rayleigh's scattering law, the intensity of scattered light is inversely proportional to the fourth power of wavelength (I ∝ 1/λ⁴). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since λ_blue ≈ ½ λ_red, (λ_red / λ_blue)⁴ ≈ 16, so blue is scattered roughly 16 times more than red.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e7c077b6342e9985551b9345754b32668578cf237583ffe9f5637eb549d14117",
+    "question_skeleton": "assertion a blue light is scattered much more strongly by atmospheric gas molecules than red light reason r according to rayleigh s scattering law the intensity of scattered light is inversely proportional to the fourth power of wavelength i # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_7_e0c38f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Blue color of the sky",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The sky appears blue on a clear sunny day when viewed from the surface of the Earth. **Reason (R):** Air molecules scatter the shorter wavelengths (blue and violet) of sunlight in all directions into the observer's eyes. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and preferential Rayleigh scattering of blue wavelengths explains the color of the daytime sky.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cf8128769bdbef502ada969fcf1bf8a8a71c307393c53f39ca6c6edc278c8e22",
+    "question_skeleton": "assertion a the sky appears blue on a clear sunny day when viewed from the surface of the earth reason r air molecules scatter the shorter wavelengths blue and violet of sunlight in all directions into the observer s eyes choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_8_c72a64",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Sky appearance from the Moon",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An astronaut standing on the Moon sees a completely dark, black sky even during the daytime. **Reason (R):** The Moon has no atmosphere, so there are no air molecules or particles to scatter sunlight. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the complete absence of atmospheric scattering on the Moon makes the sky appear black.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "594799d08a441731219126734829220c983e6d8d66a783b31bf98902cdc3523d",
+    "question_skeleton": "assertion a an astronaut standing on the moon sees a completely dark black sky even during the daytime reason r the moon has no atmosphere so there are no air molecules or particles to scatter sunlight choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_9_dff99c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Red danger signals",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Danger signals and brake lights on vehicles are universally made red. **Reason (R):** Red light has the longest wavelength in the visible spectrum and undergoes minimum scattering by fog and smoke, making it visible from the greatest distance. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and minimum scattering due to large wavelength ensures red penetrates farthest through fog and dust.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a88dad74b889dc1ab01c4782d0572b3b9039e6890229f37c7d4549fe18aef3ee",
+    "question_skeleton": "assertion a danger signals and brake lights on vehicles are universally made red reason r red light has the longest wavelength in the visible spectrum and undergoes minimum scattering by fog and smoke making it visible from the greatest distance choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_10_bb2246",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Reddish appearance of Sun at sunrise and sunset",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The Sun appears distinctly reddish at sunrise and sunset. **Reason (R):** At sunrise and sunset, sunlight travels through a much thicker layer of atmosphere; shorter blue wavelengths are scattered away, leaving mostly red light to reach the eye. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the long atmospheric path scattering away blue light explains the surviving red transmission.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d2bac331b92c429269c369ad43539dcd0bedeebe3dc5a09e7c06e0452e6ebf97",
+    "question_skeleton": "assertion a the sun appears distinctly reddish at sunrise and sunset reason r at sunrise and sunset sunlight travels through a much thicker layer of atmosphere shorter blue wavelengths are scattered away leaving mostly red light to reach the eye choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_11_8078b2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: White appearance of clouds",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Rain-free daytime clouds appear brilliant white. **Reason (R):** Cloud water droplets are much larger than the wavelength of light, scattering all visible wavelengths equally without wavelength bias. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. When scattering particle size d >> λ, non-selective scattering occurs, and all colors scatter equally to produce white.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bd91e6b3bc6e29dd3f0292871ef6b14fc218c5c263e38c6ce65ff2e1bccc5d46",
+    "question_skeleton": "assertion a rain free daytime clouds appear brilliant white reason r cloud water droplets are much larger than the wavelength of light scattering all visible wavelengths equally without wavelength bias choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_12_080435",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Electromagnetic spectrum speed in vacuum",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Gamma rays, X-rays, visible light, and radio waves all travel at the exact same speed in a vacuum. **Reason (R):** All electromagnetic waves travel through free space at the universal speed of light, c ≈ 3 × 10⁸ m s⁻¹. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the universal velocity c for all EM waves in vacuum validates the assertion.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a5d84599dbeed8b57c4ded7686ede80a36e1cfc3d9d78c4892f3f285a7a85c7b",
+    "question_skeleton": "assertion a gamma rays x rays visible light and radio waves all travel at the exact same speed in a vacuum reason r all electromagnetic waves travel through free space at the universal speed of light c # # m s choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_13_912317",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Ultraviolet rays fluorescence effect",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ultraviolet radiation causes certain minerals and chemical dyes to glow visibly (fluorescence). **Reason (R):** Fluorescent substances absorb high-energy ultraviolet photons and re-emit photons of lower energy in the visible spectrum. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Stokes shift re-emitting lower-energy visible photons explains UV-induced fluorescence.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b3e81ef9118a8c96c986e3e260b1481b796ad0bab6fae2ff1b08d018fe9c0223",
+    "question_skeleton": "assertion a ultraviolet radiation causes certain minerals and chemical dyes to glow visibly fluorescence reason r fluorescent substances absorb high energy ultraviolet photons and re emit photons of lower energy in the visible spectrum choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_14_e6ba52",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Infrared radiation photography in fog",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Special infrared cameras can capture clear photographs of distant landscapes even through dense haze and fog. **Reason (R):** Infrared radiation has longer wavelengths than visible light and is scattered much less by fine fog particles. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and reduced scattering of long-wavelength infrared allows it to penetrate haze cleanly.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f43a2308412f5db89780a9f2dc2861eceeef6390bf0ddb361901fc2af83f98a5",
+    "question_skeleton": "assertion a special infrared cameras can capture clear photographs of distant landscapes even through dense haze and fog reason r infrared radiation has longer wavelengths than visible light and is scattered much less by fine fog particles choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_15_bb85a2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Greenhouse effect mechanism",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A glass greenhouse traps heat and maintains a warmer interior than the outside environment. **Reason (R):** Glass allows shorter-wavelength solar radiation to enter, but is opaque to the longer-wavelength infrared radiation re-emitted by the warm interior. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and differential transmission (transparent to short-wave IR, opaque to long-wave thermal IR) explains heat trapping.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d5891c24c0e67f2a2d362785180bc106dfae16381c1bce2438a1b359e4597dec",
+    "question_skeleton": "assertion a a glass greenhouse traps heat and maintains a warmer interior than the outside environment reason r glass allows shorter wavelength solar radiation to enter but is opaque to the longer wavelength infrared radiation re emitted by the warm interior choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_16_74cb1a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Ultraviolet rays health hazard",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Excessive exposure to ultraviolet radiation can cause skin cancer and severe damage to eye retinas. **Reason (R):** Ultraviolet photons possess higher frequency and energy than visible light, capable of ionizing chemical bonds in living tissue. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and high photon energy (E = hf) breaking biological molecular bonds explains tissue damage.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f69daf5b923e085681a4729777305f29d207c6a8811cb8736e7d3472a642f33f",
+    "question_skeleton": "assertion a excessive exposure to ultraviolet radiation can cause skin cancer and severe damage to eye retinas reason r ultraviolet photons possess higher frequency and energy than visible light capable of ionizing chemical bonds in living tissue choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_17_e4887b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Ozone layer protective shield",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The ozone layer in the stratosphere is vital for the survival of life on Earth. **Reason (R):** Ozone gas strongly absorbs lethal high-energy ultraviolet-C and ultraviolet-B radiation from solar rays. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and stratospheric ozone absorbing ionizing UV radiation protects the biosphere.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "de92b2f805b8fd0afe7d4f67af1e1b7495ec03b8ed42a592d4473c7c4b655866",
+    "question_skeleton": "assertion a the ozone layer in the stratosphere is vital for the survival of life on earth reason r ozone gas strongly absorbs lethal high energy ultraviolet c and ultraviolet b radiation from solar rays choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_18_be082f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Color of opaque object reflection",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A red rose appears bright red when viewed under white light, but appears black when illuminated by pure green light. **Reason (R):** An opaque object appears in the color of the light it reflects; a red rose absorbs green light and reflects nothing. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The rose reflects only red wavelengths; when green light shines on it, all light is absorbed and none reflected, appearing black.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a1df43732351fab2ed18b4df8c30cc3e49c5ccb9c2ef009ed513ccfc44bedf4b",
+    "question_skeleton": "assertion a a red rose appears bright red when viewed under white light but appears black when illuminated by pure green light reason r an opaque object appears in the color of the light it reflects a red rose absorbs green light and reflects nothing choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_19_33c5a7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Newton's color disc recombining",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When Newton's seven-colored disc is spun rapidly, it appears greyish-white. **Reason (R):** The persistence of vision (about 1/16th of a second) causes the sensation of the seven spectral colors to blend on the retina. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and retinal persistence blending the rapidly cycling colors produces the perception of white.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9c5bbd1cdcc3d95b1ce9123e683aa4421cde4a8f7930b82fd767511374d3414c",
+    "question_skeleton": "assertion a when newton s seven colored disc is spun rapidly it appears greyish white reason r the persistence of vision about # th of a second causes the sensation of the seven spectral colors to blend on the retina choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_20_d0c596",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Gamma rays penetrating power",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Gamma rays possess the greatest penetrating power among all electromagnetic radiations. **Reason (R):** Gamma rays have the highest frequency and shortest wavelength, giving their photons the highest energy and zero rest mass/charge. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and extremely high photon energy with zero electric charge enables deep penetration through matter.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "18aa58e564e6823b9ab4e61147f1ddca0e78f526583ef8541699e1644c8c09f5",
+    "question_skeleton": "assertion a gamma rays possess the greatest penetrating power among all electromagnetic radiations reason r gamma rays have the highest frequency and shortest wavelength giving their photons the highest energy and zero rest mass charge choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_21_ae6f7e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Microwave oven heating water molecules",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Microwave ovens heat food containing moisture rapidly from within. **Reason (R):** Microwave frequencies resonate with the rotational energy levels of polar water molecules, causing rapid friction heating. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and dielectric heating resonant with water dipole rotation explains microwave efficiency.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "239ed8f03667abc209663ce6a4589edce12f1c2a75c5b046fdad725d449cbde5",
+    "question_skeleton": "assertion a microwave ovens heat food containing moisture rapidly from within reason r microwave frequencies resonate with the rotational energy levels of polar water molecules causing rapid friction heating choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_22_d30722",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Infrared therapy lamps",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Infrared heating lamps are widely used for medical heat therapy in muscle strains. **Reason (R):** Infrared rays penetrate superficial skin layers and produce deep localized warmth, increasing blood circulation. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and localized thermal penetration relieving muscular soreness explains their clinical use.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "739255d1da27fb27b06929d75efdded18dddd916d58d1b74dac63e34a8885044",
+    "question_skeleton": "assertion a infrared heating lamps are widely used for medical heat therapy in muscle strains reason r infrared rays penetrate superficial skin layers and produce deep localized warmth increasing blood circulation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_23_f9687c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Monochromatic light dispersion",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A beam of pure yellow sodium light splits into multiple colors when passed through a glass prism. **Reason (R):** A prism disperses all light waves regardless of whether they are monochromatic or composite. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Both Assertion and Reason are false. Monochromatic light contains only one wavelength and cannot be dispersed into other colors; it only undergoes deviation.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ae7b59dadf27ee9d986dee206d47a1c1afad7fbc9fd771334ba6497b02381f18",
+    "question_skeleton": "assertion a a beam of pure yellow sodium light splits into multiple colors when passed through a glass prism reason r a prism disperses all light waves regardless of whether they are monochromatic or composite choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_24_a07d3e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Angle of minimum deviation condition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** At the angle of minimum deviation, a ray of light passes symmetrically through an equilateral prism parallel to its base. **Reason (R):** At minimum deviation, the angle of incidence equals the angle of emergence (i = e), making the refracted ray inside parallel to the base. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and i = e symmetry mathematically enforces that the internal ray runs parallel to the base.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "33655d5e44bf63fdf6c20cacfa6a8a3cafac8ccb32c334c46710ceb3c8365df2",
+    "question_skeleton": "assertion a at the angle of minimum deviation a ray of light passes symmetrically through an equilateral prism parallel to its base reason r at minimum deviation the angle of incidence equals the angle of emergence i e making the refracted ray inside parallel to the base choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_25_96e1f5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Ultraviolet rays detection with silver chloride",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ultraviolet rays can be detected by their action on photographic paper coated with silver chloride. **Reason (R):** Ultraviolet radiation causes chemical reduction of silver chloride, turning it rapidly dark/black. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and photochemical decomposition of AgCl is a classic chemical detection method for UV.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e70168910f33753e96b2889bc47e6af727748cc715ba100f5daf2a03e7152e31",
+    "question_skeleton": "assertion a ultraviolet rays can be detected by their action on photographic paper coated with silver chloride reason r ultraviolet radiation causes chemical reduction of silver chloride turning it rapidly dark black choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_26_bc7d29",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Radio waves propagation wavelength",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Radio waves can bend around large hills and obstacles to transmit signals over long horizons. **Reason (R):** Radio waves have the longest wavelengths in the electromagnetic spectrum, exhibiting noticeable diffraction around large terrestrial obstacles. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and large wavelength comparable to hill dimensions enables diffraction around obstacles.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7b2422e846aa856c73deff23a33e50c8ea67914ef488bdd20e206f6855217397",
+    "question_skeleton": "assertion a radio waves can bend around large hills and obstacles to transmit signals over long horizons reason r radio waves have the longest wavelengths in the electromagnetic spectrum exhibiting noticeable diffraction around large terrestrial obstacles choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_27_7aaa57",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: X-rays diagnostic bone imaging",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** X-rays are routinely used to detect bone fractures in medicine. **Reason (R):** X-rays penetrate soft biological tissues like skin and muscle, but are absorbed by dense bones containing calcium. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and differential absorption between dense calcium bone and soft tissue creates clear shadowgrams.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a703d257c70cc9c536248c543ea9f52e58762a22c7d7d33fc62814f6e2066721",
+    "question_skeleton": "assertion a x rays are routinely used to detect bone fractures in medicine reason r x rays penetrate soft biological tissues like skin and muscle but are absorbed by dense bones containing calcium choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_28_424404",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Pure spectrum requirements",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** To obtain a pure spectrum on a screen, an achromatic convex lens must be placed before and after the dispersing prism. **Reason (R):** The first lens produces a parallel beam of light, and the second lens focuses each parallel monochromatic colored beam onto a distinct position on the screen. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and parallel beam illumination followed by chromatic focusing prevents overlapping of colors.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "975211c16e917919d690c93b8a882f88f50341229e95cf90b01fc2328cf5b7a5",
+    "question_skeleton": "assertion a to obtain a pure spectrum on a screen an achromatic convex lens must be placed before and after the dispersing prism reason r the first lens produces a parallel beam of light and the second lens focuses each parallel monochromatic colored beam onto a distinct position on the screen choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_29_01ce07",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Refractive index of glass for red vs violet",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The refractive index of crown glass for violet light (1.53) is greater than that for red light (1.51). **Reason (R):** The speed of violet light in glass is less than the speed of red light in glass (v = c/μ). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and lower speed for violet directly corresponds to a higher refractive index.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "129e677887e94f1faa3a251ffbfe7d7ee66a8de28a16c2833bd477f167571c3c",
+    "question_skeleton": "assertion a the refractive index of crown glass for violet light # is greater than that for red light # reason r the speed of violet light in glass is less than the speed of red light in glass v c choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_30_13ca5c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Ultraviolet water sterilization",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ultraviolet lamps are commonly installed in domestic water purifiers. **Reason (R):** Ultraviolet-C radiation destroys the DNA of bacteria and viruses, rendering them inactive without adding chemicals. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and germicidal UV-C disrupting microbial nucleic acid explains chemical-free sterilization.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "876c7035c271648c680797288f3d66048e94ccc9825589245f20e1f30c277b3b",
+    "question_skeleton": "assertion a ultraviolet lamps are commonly installed in domestic water purifiers reason r ultraviolet c radiation destroys the dna of bacteria and viruses rendering them inactive without adding chemicals choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_31_35538c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Infrared remote control operation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Television remote control units typically use infrared light rather than visible light. **Reason (R):** Infrared pulses cannot be seen by the human eye, preventing distracting flashes during TV viewing, and operate with low power consumption. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and invisible operation with easy LED modulation justifies infrared remote controls.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f1f8e0194e80059b0ff07e6f7efe954e2aaedcbe9aa24b7be8583d63e095101e",
+    "question_skeleton": "assertion a television remote control units typically use infrared light rather than visible light reason r infrared pulses cannot be seen by the human eye preventing distracting flashes during tv viewing and operate with low power consumption choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_32_9ed8bb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Sun appearance at noon",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The Sun overhead at noon appears dazzling white rather than red. **Reason (R):** At noon, sunlight travels the shortest vertical path through the atmosphere, so very little scattering of any color occurs. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and minimal scattering over the short perpendicular path allows all colors to reach the eye together as white.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b4caffcc415bc1bb65ac3cb9742bf7d9675c032430418ba42313f220947acd38",
+    "question_skeleton": "assertion a the sun overhead at noon appears dazzling white rather than red reason r at noon sunlight travels the shortest vertical path through the atmosphere so very little scattering of any color occurs choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_33_0e347a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Invisible spectrum boundaries",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The full spectrum of sunlight extends far beyond the red and violet visible limits. **Reason (R):** Solar radiation contains infrared rays beyond the red end and ultraviolet rays beyond the violet end. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the presence of infrared and ultraviolet extensions defines the invisible solar spectrum.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cd63afa7104e3a017a391a102e999c00c3e62c6a8d5b0b90b145ba35090a633b",
+    "question_skeleton": "assertion a the full spectrum of sunlight extends far beyond the red and violet visible limits reason r solar radiation contains infrared rays beyond the red end and ultraviolet rays beyond the violet end choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_34_2525e7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Visible spectrum wavelength range",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The human eye is sensitive to electromagnetic radiation having wavelengths between approximately 400 nm and 700 nm. **Reason (R):** Photoreceptors in the human retina (rods and cones) absorb photons only within the 400–700 nm range to trigger optic nerve signals. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the photochemical absorption range of retinal pigments defines the visible spectrum.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "abad9386913c7851815a0ed0eeb635395e2b685f36dc380cbcf0d3965321a09a",
+    "question_skeleton": "assertion a the human eye is sensitive to electromagnetic radiation having wavelengths between approximately # nm and # nm reason r photoreceptors in the human retina rods and cones absorb photons only within the # # nm range to trigger optic nerve signals choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_35_07711d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Dispersion in raindrops rainbow",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A rainbow is formed by sunlight interacting with suspended raindrops in the sky. **Reason (R):** Raindrops act as tiny prisms, causing refraction, dispersion, and internal reflection of sunlight. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the combination of dispersion, refraction, and internal reflection inside raindrops produces the rainbow.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a8d428d0b903fed314b4873d5e5434eda7027933bf8c21e96f0afc711e285d98",
+    "question_skeleton": "assertion a a rainbow is formed by sunlight interacting with suspended raindrops in the sky reason r raindrops act as tiny prisms causing refraction dispersion and internal reflection of sunlight choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_36_e0cd23",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Thermopile working principle",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A thermopile generates a measurable electric current when exposed to infrared radiation. **Reason (R):** A thermopile consists of multiple thermocouples connected in series that produce an EMF via the Seebeck thermoelectric effect when heated. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the Seebeck thermoelectric effect in series thermocouples explains thermopile detection.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6334121f0f22540029ead14e6f392b4879382180000f7b2624f0129c2b6b0e8c",
+    "question_skeleton": "assertion a a thermopile generates a measurable electric current when exposed to infrared radiation reason r a thermopile consists of multiple thermocouples connected in series that produce an emf via the seebeck thermoelectric effect when heated choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_37_a563d8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Infrared photography for forged paintings",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Infrared reflectography is used by art historians to discover underlying sketch drawings in historic paintings. **Reason (R):** Infrared rays can penetrate surface layers of paint and reflect off carbon-based underdrawings. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and differential transmission through pigment layers to reveal carbon sketches explains art authentication.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "613d142f71863adc7801807d0ba933c93c366518c94fbbb5a12b544e45ea446c",
+    "question_skeleton": "assertion a infrared reflectography is used by art historians to discover underlying sketch drawings in historic paintings reason r infrared rays can penetrate surface layers of paint and reflect off carbon based underdrawings choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_38_42f90f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Total internal reflection prism in spectrometer",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Spectrometers often use totally reflecting prisms to redirect light beams without chromatic dispersion. **Reason (R):** Total internal reflection is an internal boundary phenomenon that does not disperse light into constituent wavelengths. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and reflection at 100% efficiency without chromatic splitting preserves beam purity.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9d1672848583fe77b714880e2ad199936388c16fff5b42f15008d6f64923f43c",
+    "question_skeleton": "assertion a spectrometers often use totally reflecting prisms to redirect light beams without chromatic dispersion reason r total internal reflection is an internal boundary phenomenon that does not disperse light into constituent wavelengths choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_39_b391c6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Cosmic rays in electromagnetic spectrum",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Cosmic rays are electromagnetic waves having frequencies higher than gamma rays. **Reason (R):** Electromagnetic waves consist of oscillating electric and magnetic fields traveling at the speed of light. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because cosmic rays are not electromagnetic waves; they are high-energy subatomic charged particles (mostly protons and atomic nuclei). Reason is true.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cb00ae02d78ac2d6869cf9625016fef2330cb0f77fdd997ceae3797fa063ce11",
+    "question_skeleton": "assertion a cosmic rays are electromagnetic waves having frequencies higher than gamma rays reason r electromagnetic waves consist of oscillating electric and magnetic fields traveling at the speed of light choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_spectrum_40_5b270b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: Ultraviolet rays vitamin D synthesis",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Moderate exposure of the human skin to morning sunlight promotes the natural synthesis of vitamin D. **Reason (R):** Ultraviolet-B radiation triggers a photochemical reaction in the skin that converts 7-dehydrocholesterol into vitamin D3. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the photochemical conversion of provitamin D by UV-B explains biological synthesis.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0a60e0503e68a865ad0cacc07137dce8979b79a15f9b4e30cbf6bcbb925e2d4b",
+    "question_skeleton": "assertion a moderate exposure of the human skin to morning sunlight promotes the natural synthesis of vitamin d reason r ultraviolet b radiation triggers a photochemical reaction in the skin that converts # dehydrocholesterol into vitamin d choose the correct option"
+  }
+]

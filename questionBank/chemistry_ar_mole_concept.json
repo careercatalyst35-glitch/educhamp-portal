@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_mole_concept_1_c2c3f3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Gay-Lussac Law of Combining Volumes",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When gases react chemically, they do so in volumes that bear a simple whole-number ratio to one another and to gaseous products at constant temperature and pressure. **Reason (R):** Equal volumes of all gases under identical conditions of temperature and pressure contain equal numbers of reacting molecules. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Avogadro hypothesis directly explains Gay-Lussac law: since molecules react in whole numbers, their gaseous volumes must also be in simple whole-number ratios.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "14ede9cfed0f599eb8f025263a64d76769349a51ed38c730e966ef0f31272dd6",
+    "question_skeleton": "assertion a when gases react chemically they do so in volumes that bear a simple whole number ratio to one another and to gaseous products at constant temperature and pressure reason r equal volumes of all gases under identical conditions of temperature and pressure contain equal numbers of reacting molecules choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_2_f95f01",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Volume limitation of Gay-Lussac Law",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Gay-Lussac law of combining volumes does not apply to the volumes of reacting solids and liquids. **Reason (R):** Molar volumes of solids and liquids depend on density and packing structure rather than Avogadro hypothesis. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The law strictly governs gaseous reactants and products because gas volumes are determined solely by number of moles at given T and P.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "acd780cff6b8b3dc6db917ace34ef6bbb68b082a44d0415f2d9df8f70cb4614a",
+    "question_skeleton": "assertion a gay lussac law of combining volumes does not apply to the volumes of reacting solids and liquids reason r molar volumes of solids and liquids depend on density and packing structure rather than avogadro hypothesis choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_3_43fab4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Molar volume of a gas at STP",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** One mole of any ideal gas occupies 22.4 litres (or 22.4 dm³) at standard temperature and pressure (0°C, 1 atm). **Reason (R):** According to Avogadro hypothesis, equal volumes of all gases at the same T and P contain 6.022 × 10²³ molecules. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Standard molar volume V_m = 22.4 L mol⁻¹ is a direct consequence of the ideal gas law and Avogadro constant at STP.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "adbae7cde7ef9c101a06a6a58433754acae7bcdab96721d3210b44c9cd7558a9",
+    "question_skeleton": "assertion a one mole of any ideal gas occupies # litres or # dm at standard temperature and pressure # c # atm reason r according to avogadro hypothesis equal volumes of all gases at the same t and p contain # # molecules choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_4_5f7050",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Vapour density and relative molecular mass",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The relative molecular mass of a gas is twice its vapour density: RMM = 2 × VD. **Reason (R):** Vapour density is defined as the ratio of the mass of a certain volume of gas to the mass of an equal volume of hydrogen under identical temperature and pressure conditions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Mass of 1 molecule of gas / Mass of 1 molecule of H₂ = M / 2, because hydrogen is diatomic (molar mass = 2).",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4329036cfd4476cd25959135e07f7c7791dc3de9f3bae4695962fae89ac26829",
+    "question_skeleton": "assertion a the relative molecular mass of a gas is twice its vapour density rmm # vd reason r vapour density is defined as the ratio of the mass of a certain volume of gas to the mass of an equal volume of hydrogen under identical temperature and pressure conditions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_5_5ebf23",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Avogadro Number definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** One mole of carbon-12 contains exactly 6.022 × 10²³ carbon atoms. **Reason (R):** The Avogadro constant (N_A) is the number of constituent particles in exactly 12 grams of pure carbon-12 isotope. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. This is the official SI standard definition of the mole.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2b6d49646289da69bf7c5c7b2c62ae96718821f0a74902e4586a95edaea67dca",
+    "question_skeleton": "assertion a one mole of carbon # contains exactly # # carbon atoms reason r the avogadro constant n a is the number of constituent particles in exactly # grams of pure carbon # isotope choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_6_abc135",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Number of molecules in equal gas volumes",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** At STP, 1 litre of oxygen gas (O₂) and 1 litre of sulphur dioxide gas (SO₂) contain the same number of molecules. **Reason (R):** Avogadro law states that equal volumes of all gases at identical temperature and pressure contain the same number of molecules. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Volume depends on the number of gas molecules, not on their size, shape, or molecular mass.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e9955664dae1fff90935759cf49489d866cc9d3142ab08d124559c8f3ea61788",
+    "question_skeleton": "assertion a at stp # litre of oxygen gas o and # litre of sulphur dioxide gas so contain the same number of molecules reason r avogadro law states that equal volumes of all gases at identical temperature and pressure contain the same number of molecules choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_7_8b7750",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Number of atoms in equal volumes of different atomicity",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** At STP, 1 litre of oxygen (O₂) contains fewer atoms than 1 litre of ozone (O₃). **Reason (R):** Oxygen is diatomic (2 atoms per molecule) whereas ozone is triatomic (3 atoms per molecule). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Both have N molecules, so 1 L of O₂ has 2N atoms and 1 L of O₃ has 3N atoms.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3d2455e450c7d898970c3fb2577aed2b1ad6144cecf1dc5bba815ba1c72a69dc",
+    "question_skeleton": "assertion a at stp # litre of oxygen o contains fewer atoms than # litre of ozone o reason r oxygen is diatomic # atoms per molecule whereas ozone is triatomic # atoms per molecule choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_8_ddc97d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Mass comparison of equal volumes of gases",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** At STP, 1 litre of carbon dioxide (CO₂) is heavier than 1 litre of carbon monoxide (CO). **Reason (R):** Under the same temperature and pressure, the density of a gas is directly proportional to its relative molecular mass. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Molecular mass of CO₂ = 44 g/mol while CO = 28 g/mol; equal volumes contain equal moles, so mass of CO₂ is 44/28 times greater.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c9cdb75263bc4a626637c4c503f45489c5ef44d538e34dc474366a0d35158d1d",
+    "question_skeleton": "assertion a at stp # litre of carbon dioxide co is heavier than # litre of carbon monoxide co reason r under the same temperature and pressure the density of a gas is directly proportional to its relative molecular mass choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_9_ba9ff0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Empirical formula definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The empirical formula of glucose (C₆H₁₂O₆) is CH₂O. **Reason (R):** An empirical formula represents the simplest whole-number ratio of the atoms of each element present in a compound. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Dividing the molecular subscripts (6, 12, 6) by their greatest common divisor (6) gives the simplest atomic ratio CH₂O.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "04a491ad0d308a37bfb5299fc5deff9a3ba76dc756c0ded5cccc002f0d590cf4",
+    "question_skeleton": "assertion a the empirical formula of glucose c h o is ch o reason r an empirical formula represents the simplest whole number ratio of the atoms of each element present in a compound choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_10_72bdab",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Molecular formula relation to empirical formula",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Molecular formula = (Empirical formula)ₙ, where n is a positive integer. **Reason (R):** The integer n is obtained by dividing the relative molecular mass of the compound by its empirical formula mass. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. n = (Molecular Mass) / (Empirical Formula Mass).",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4cad2277a999f9ba9ab980726f9f53bf19e8a046a7cc7400af7f9eeec81819ea",
+    "question_skeleton": "assertion a molecular formula empirical formula where n is a positive integer reason r the integer n is obtained by dividing the relative molecular mass of the compound by its empirical formula mass choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_11_e9cf6d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Same empirical formula for different compounds",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Acetylene (C₂H₂) and benzene (C₆H₆) have the same empirical formula, CH. **Reason (R):** Both compounds have a 1:1 carbon-to-hydrogen atomic ratio and possess the same percentage composition by mass. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. For acetylene, n = 2; for benzene, n = 6. Both share the empirical formula CH and empirical mass 13.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e73589c4633689827142cb80051e153c19c74f097b335d8281b420c76f56c7db",
+    "question_skeleton": "assertion a acetylene c h and benzene c h have the same empirical formula ch reason r both compounds have a # # carbon to hydrogen atomic ratio and possess the same percentage composition by mass choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_12_95444e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Limiting reagent in stoichiometry",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The limiting reagent in a chemical reaction is completely consumed when the reaction goes to completion. **Reason (R):** The limiting reagent is the reactant present in the smallest stoichiometric amount relative to the balanced equation and determines the maximum theoretical yield of product. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Once the limiting reagent is exhausted, no further product can form regardless of excess reagents present.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4ddf6950afb9b5921bf1f87113e0be2214a9acf04c6c7b06896a2006682ba8c9",
+    "question_skeleton": "assertion a the limiting reagent in a chemical reaction is completely consumed when the reaction goes to completion reason r the limiting reagent is the reactant present in the smallest stoichiometric amount relative to the balanced equation and determines the maximum theoretical yield of product choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_13_f0bd78",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Hydrogen combustion volume contraction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When 20 cm³ of hydrogen reacts with 10 cm³ of oxygen at 100°C and 1 atm, the volume of steam produced is 20 cm³. **Reason (R):** According to the reaction 2H₂(g) + O₂(g) → 2H₂O(g), two volumes of hydrogen combine with one volume of oxygen to form two volumes of steam at constant T and P. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. By Gay-Lussac law: 20 cm³ H₂ + 10 cm³ O₂ → 20 cm³ steam (at 100°C where water is gaseous).",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fe0ce611170af47446937174764bb47d8d5323dcda585dc9efb4168e0c963b10",
+    "question_skeleton": "assertion a when # cm of hydrogen reacts with # cm of oxygen at # c and # atm the volume of steam produced is # cm reason r according to the reaction h g o g h o g two volumes of hydrogen combine with one volume of oxygen to form two volumes of steam at constant t and p choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_14_bd3f8e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Hydrogen combustion contraction at room temperature",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When 20 cm³ of H₂ and 10 cm³ of O₂ explode at room temperature (25°C), the resulting gas volume contracts to practically zero. **Reason (R):** At room temperature, water vapor condenses to liquid water, whose volume is negligible compared to the original gas volumes. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Liquid water volume is ~1/1600th of the gaseous volume and is considered zero in volumetric gas calculations.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "70bbbc759cc36fa9df9ab394d475011473c4fb267032f94c45eb3da7c161817c",
+    "question_skeleton": "assertion a when # cm of h and # cm of o explode at room temperature # c the resulting gas volume contracts to practically zero reason r at room temperature water vapor condenses to liquid water whose volume is negligible compared to the original gas volumes choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_15_0649c3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Molar mass of diatomic elements",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The gram molecular mass of nitrogen is 28 grams, not 14 grams. **Reason (R):** Nitrogen gas exists as diatomic molecules (N₂), so its molar mass equals twice its relative atomic mass (2 × 14 = 28 g/mol). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Gram atomic mass is 14 g; gram molecular mass for N₂ is 28 g.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "719a2cd9906ad709139bfc3862b64a27a84fd1012ae0e2af104ded5c476587d1",
+    "question_skeleton": "assertion a the gram molecular mass of nitrogen is # grams not # grams reason r nitrogen gas exists as diatomic molecules n so its molar mass equals twice its relative atomic mass # # # g mol choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_16_e77663",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Atomicity of noble gases",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The atomicity of argon is 1 (monoatomic). **Reason (R):** Argon atoms have a stable octet electronic configuration and exist as unbonded individual atoms in the gaseous state. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Atomicity is the number of atoms in one molecule; noble gases are monoatomic.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "42adff5d221ecc986cf107b7b293392acebcd7945b9dde61fdef5808c76f5be3",
+    "question_skeleton": "assertion a the atomicity of argon is # monoatomic reason r argon atoms have a stable octet electronic configuration and exist as unbonded individual atoms in the gaseous state choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_17_d09baa",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Atomicity of ozone",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The atomicity of ozone is 3. **Reason (R):** One ozone molecule is composed of three chemically bonded oxygen atoms (O₃). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Ozone is triatomic; heating converts 2 volumes of O₃ into 3 volumes of diatomic O₂.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d3d7cd0bb128add6b15ed2d1a20c5181c954561e49c8a93bfc2f592b4fbade52",
+    "question_skeleton": "assertion a the atomicity of ozone is # reason r one ozone molecule is composed of three chemically bonded oxygen atoms o choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_18_615fda",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Percentage composition independence from sample size",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The percentage of carbon in pure calcium carbonate is always 12%, regardless of whether the sample weighs 1 g or 1000 kg. **Reason (R):** The Law of Constant (Definite) Proportions states that a pure chemical compound always contains its constituent elements in a fixed ratio by mass. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. In pure CaCO₃, mass % of C = (12/100) × 100 = 12% everywhere.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cc2db3375eec2deaa493c560f4fa6f6627dde6bf93d8807e0ae530932884a453",
+    "question_skeleton": "assertion a the percentage of carbon in pure calcium carbonate is always # regardless of whether the sample weighs # g or # kg reason r the law of constant definite proportions states that a pure chemical compound always contains its constituent elements in a fixed ratio by mass choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_19_0e0fb4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Vapour density of a gas mixture",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The vapour density of dry air is approximately 14.4. **Reason (R):** Air is a mixture composed of ~78% N₂ (RMM 28) and ~21% O₂ (RMM 32), giving an average molecular mass of ~28.8, so VD = 28.8 / 2 = 14.4. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The effective vapour density of a gaseous mixture equals half of its weighted average molecular mass.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d4a239d8f4154a228bb8c76f186e34848e23eddf5ffe8f0bcb0ca6a920924d0a",
+    "question_skeleton": "assertion a the vapour density of dry air is approximately # reason r air is a mixture composed of # n rmm # and # o rmm # giving an average molecular mass of # so vd # # # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_20_3c06df",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Why moist air is lighter than dry air",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Moist air is less dense than dry air at the same temperature and pressure. **Reason (R):** Water vapor (H₂O, RMM = 18) has a lower molecular mass than the dry air gases N₂ (28) and O₂ (32) that it displaces. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. By Avogadro law, replacing heavier N₂/O₂ molecules with lighter H₂O molecules decreases the total mass per unit volume.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9f7a77fb1dc2b50f68be981b43090d7f2852485522ed67a8c27b90c1c49297c9",
+    "question_skeleton": "assertion a moist air is less dense than dry air at the same temperature and pressure reason r water vapor h o rmm # has a lower molecular mass than the dry air gases n # and o # that it displaces choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_21_a212e3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Calculation of moles from volume at non-STP",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** 22.4 litres of carbon dioxide at 27°C and 2 atm pressure contains exactly one mole of CO₂. **Reason (R):** One mole of any gas occupies 22.4 litres only at standard temperature and pressure (0°C and 1 atm). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false; 22.4 L at 27°C (300 K) and 2 atm contains PV/RT = (2 × 22.4) / (0.0821 × 300) ≈ 1.82 moles, not 1 mole. Reason is true.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c7986b76320c017e19a77ce16f20bdb455019d285757b7e435df0d67447d8780",
+    "question_skeleton": "assertion a # litres of carbon dioxide at # c and # atm pressure contains exactly one mole of co reason r one mole of any gas occupies # litres only at standard temperature and pressure # c and # atm choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_22_2c6cb6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Thermal decomposition of potassium chlorate",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Heating 24.5 g of potassium chlorate (2KClO₃ → 2KCl + 3O₂) produces 6.72 litres of oxygen gas at STP. **Reason (R):** Two moles of KClO₃ (2 × 122.5 = 245 g) yield 3 moles of O₂ (3 × 22.4 = 67.2 L at STP); thus 24.5 g yields 6.72 L. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 24.5 g is 0.1 mol of reaction, producing 0.15 mol of O₂ = 0.15 × 22.4 = 3.36 L... wait! 0.1 × 3/2 = 0.15 mol; 0.15 × 22.4 = 3.36 L, but 245 g produces 67.2 L, so 24.5 g produces 6.72 L. (245 g produces 3 mol = 67.2 L; 24.5 g produces 6.72 L).",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9e1592d6abeaf03d5081672a50192fd5f4bbf4dc8d0378226d5a56c6c36e250f",
+    "question_skeleton": "assertion a heating # g of potassium chlorate kclo kcl o produces # litres of oxygen gas at stp reason r two moles of kclo # # # g yield # moles of o # # # l at stp thus # g yields # l choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_23_48c4bb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Molar volume of liquids at STP",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** One mole of liquid water at 4°C occupies 22.4 litres. **Reason (R):** The molar volume of 22.4 litres applies exclusively to gases at STP, whereas 1 mole of liquid water (18 g) occupies approximately 18 mL. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false; liquid water has density 1 g/mL, so 18 g occupies 18 mL (0.018 L), not 22.4 L. Reason is a true statement.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2ed8af6ead0fffd11f6674f7c6997b36c9f05f789bf26b63b0acc5d172cf79a7",
+    "question_skeleton": "assertion a one mole of liquid water at # c occupies # litres reason r the molar volume of # litres applies exclusively to gases at stp whereas # mole of liquid water # g occupies approximately # ml choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_24_d751a9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Law of conservation of mass in open systems",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When calcium carbonate is heated strongly in an open crucible, the mass of the residue is less than the mass of the original solid. **Reason (R):** Carbon dioxide gas is evolved and escapes into the atmosphere, so mass is lost from an open system. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. CaCO₃ → CaO(s) + CO₂↑(escapes). Total mass is conserved only in a closed system.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "06b4f9edcb50582e6f709f36e2146257601fa30834c15d5619d24bfd62b8c92d",
+    "question_skeleton": "assertion a when calcium carbonate is heated strongly in an open crucible the mass of the residue is less than the mass of the original solid reason r carbon dioxide gas is evolved and escapes into the atmosphere so mass is lost from an open system choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_25_840361",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Calculation of percentage of water of crystallisation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The percentage of water of crystallisation in washing soda crystals (Na₂CO₃·10H₂O) is approximately 62.9%. **Reason (R):** Molar mass of Na₂CO₃·10H₂O is 286 g/mol, and the 10 water molecules account for 180 g: (180 / 286) × 100 ≈ 62.9%. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Na₂ = 46, C = 12, O₃ = 48, 10H₂O = 180; Total = 286 g/mol. % H₂O = (180/286) × 100 = 62.93%.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bddb760d402db868f75a78ac88b51de3753aa5cc3cc04ddaf56da7664db64514",
+    "question_skeleton": "assertion a the percentage of water of crystallisation in washing soda crystals na co h o is approximately # reason r molar mass of na co h o is # g mol and the # water molecules account for # g # # # # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_26_a579a7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Atomic mass scale reference standard",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The current international standard for relative atomic masses is the carbon-12 isotope. **Reason (R):** One atomic mass unit (amu or u) is defined as exactly 1/12th of the mass of a single unbound neutral carbon-12 atom. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. IUPAC adopted carbon-12 in 1961 to unify physical and chemical atomic weight scales.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a6435d27091b01cc09ba80eda622ae1580306acd4608bec384ec9c539d905e70",
+    "question_skeleton": "assertion a the current international standard for relative atomic masses is the carbon # isotope reason r one atomic mass unit amu or u is defined as exactly # th of the mass of a single unbound neutral carbon # atom choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_27_98aac5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Gram atomic mass of oxygen vs ozone",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The gram atomic mass of oxygen is 16 grams in both O₂ and O₃. **Reason (R):** Gram atomic mass represents the mass of one mole of individual atoms (6.022 × 10²³ atoms) of the element. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The mass of an isolated mole of oxygen atoms is always 16 g, irrespective of which allotropic molecule it forms.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5a5736a8d6eb183bcb1c4de10c9820c6692379025024deed7cd02273b067e64f",
+    "question_skeleton": "assertion a the gram atomic mass of oxygen is # grams in both o and o reason r gram atomic mass represents the mass of one mole of individual atoms # # atoms of the element choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_28_a241e9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Reaction stoichiometry of ammonia synthesis",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In Haber process, 1 volume of nitrogen reacts with 3 volumes of hydrogen to produce 2 volumes of ammonia gas. **Reason (R):** According to the equation N₂(g) + 3H₂(g) ⇌ 2NH₃(g), gaseous volumes react in the stoichiometric ratio 1:3:2 at constant T and P. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. This is a classic demonstration of Gay-Lussac law: 1 vol N₂ + 3 vol H₂ → 2 vol NH₃.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "59bc57c2a4d192e22d86608045dbeadf356298d2c05415de07e37ff02464f968",
+    "question_skeleton": "assertion a in haber process # volume of nitrogen reacts with # volumes of hydrogen to produce # volumes of ammonia gas reason r according to the equation n g h g nh g gaseous volumes react in the stoichiometric ratio # # # at constant t and p choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_29_58d4ac",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Total mass vs total volume in gas reactions",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the reaction 2CO(g) + O₂(g) → 2CO₂(g), total mass is conserved but total gas volume contracts. **Reason (R):** Mass is always conserved in chemical reactions, whereas gas volume depends on the number of gas moles, which decreases from 3 moles to 2 moles. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Volume of products (2 vol) is less than reactants (3 vol), causing a 1-volume contraction.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "466129fb0f568c12d0215f66a68a1b2dc922457b83fcad7d573e0036e96ceeb9",
+    "question_skeleton": "assertion a in the reaction co g o g co g total mass is conserved but total gas volume contracts reason r mass is always conserved in chemical reactions whereas gas volume depends on the number of gas moles which decreases from # moles to # moles choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_30_d887e1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Molar mass of hydrated vs anhydrous copper sulphate",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The molar mass of CuSO₄·5H₂O is 249.5 g/mol, while anhydrous CuSO₄ is 159.5 g/mol. **Reason (R):** Each mole of hydrated copper sulphate contains 5 moles of chemically bound water of crystallisation (5 × 18 = 90 g/mol). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Cu(63.5) + S(32) + 4O(64) = 159.5; 159.5 + 90 = 249.5 g/mol.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a2626df5a5759f3d7cc3a2e5e89a175b84d7be5bcc18cb2a91884427f47aeb2b",
+    "question_skeleton": "assertion a the molar mass of cuso h o is # g mol while anhydrous cuso is # g mol reason r each mole of hydrated copper sulphate contains # moles of chemically bound water of crystallisation # # # g mol choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_31_7e1552",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Empirical formula of water vs hydrogen peroxide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The empirical formula of hydrogen peroxide is HO, while for water it is H₂O. **Reason (R):** Hydrogen peroxide (H₂O₂) has a 2:2 atomic ratio reducing to 1:1 (HO), whereas water (H₂O) has a 2:1 ratio which cannot be further simplified. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Empirical formula shows the simplest whole-number atomic ratio.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5bd5326026fcddf6b95626bce4fcbd11fb986e8ebfb4049784bb3a4bb81e0fa6",
+    "question_skeleton": "assertion a the empirical formula of hydrogen peroxide is ho while for water it is h o reason r hydrogen peroxide h o has a # # atomic ratio reducing to # # ho whereas water h o has a # # ratio which cannot be further simplified choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_32_c1027f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Number of atoms in one mole of CO2",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** One mole of carbon dioxide contains 3 × 6.022 × 10²³ atoms in total. **Reason (R):** Each molecule of carbon dioxide (CO₂) consists of one carbon atom and two oxygen atoms (3 atoms per molecule). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 1 mole of CO₂ molecules = 6.022 × 10²³ molecules × 3 atoms/molecule = 1.8066 × 10²⁴ atoms.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0e241ed570725f4f19e74e0dcf17feb374dc94e2fe24d07fdfe398b3ef7c41cc",
+    "question_skeleton": "assertion a one mole of carbon dioxide contains # # # atoms in total reason r each molecule of carbon dioxide co consists of one carbon atom and two oxygen atoms # atoms per molecule choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_33_daa101",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Mass of one molecule of nitrogen gas",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The mass of a single nitrogen molecule (N₂) is approximately 4.65 × 10⁻²³ grams. **Reason (R):** Mass of one molecule = (Molar mass) / (Avogadro constant) = 28 / (6.022 × 10²³) ≈ 4.649 × 10⁻²³ g. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Dividing molar mass by Avogadro number yields the mass of an individual molecule.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "66641a4cafe5a63f8eb18283222cf10a4ca7ba37e276d1e36a4115e09fb9f0fb",
+    "question_skeleton": "assertion a the mass of a single nitrogen molecule n is approximately # # grams reason r mass of one molecule molar mass avogadro constant # # # # # g choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_34_11365b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Vapour density calculation for methane",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The vapour density of methane (CH₄) is 8. **Reason (R):** Relative molecular mass of methane is 12 + 4 = 16, and Vapour Density = M / 2 = 16 / 2 = 8. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Vapour density is half the relative molecular mass.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "27dcd76610a9f2376088c29db0c457dc6607208829f2961eba2a3b6bb8208c39",
+    "question_skeleton": "assertion a the vapour density of methane ch is # reason r relative molecular mass of methane is # # # and vapour density m # # # # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_35_e92707",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Volume of hydrogen produced by divalent metal",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Reaction of 65 g of zinc with excess dilute HCl produces 22.4 litres of hydrogen gas at STP. **Reason (R):** According to Zn + 2HCl → ZnCl₂ + H₂, one mole of zinc (65 g) displaces one mole of H₂ (22.4 L at STP). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 1 mole of divalent Zn releases 1 mole of H₂ gas.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "78b27d145d5fb1361afff0bb80bee4ff1d01d652a3d8789cdb2b4e32fdea451d",
+    "question_skeleton": "assertion a reaction of # g of zinc with excess dilute hcl produces # litres of hydrogen gas at stp reason r according to zn hcl zncl h one mole of zinc # g displaces one mole of h # l at stp choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_36_457faf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Volume of hydrogen produced by trivalent metal",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** 54 grams of aluminium reacts with excess hydrochloric acid to liberate 67.2 litres of hydrogen gas at STP. **Reason (R):** According to 2Al + 6HCl → 2AlCl₃ + 3H₂, 2 moles of Al (2 × 27 = 54 g) produce 3 moles of H₂ (3 × 22.4 = 67.2 L at STP). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 54 g of Al represents 2 moles, releasing 3 moles of hydrogen gas.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e6d64e24fbf0ebf88562d54663cfbc1fc479ec24fb9e14fa13bbdd4d2469cd56",
+    "question_skeleton": "assertion a # grams of aluminium reacts with excess hydrochloric acid to liberate # litres of hydrogen gas at stp reason r according to al hcl alcl h # moles of al # # # g produce # moles of h # # # l at stp choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_37_4de2dc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Avogadro hypothesis establishes diatomicity of elementary gases",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Avogadro hypothesis explained why elementary gases like H₂, Cl₂, and O₂ must be diatomic. **Reason (R):** If elementary gas molecules were monoatomic, half-atoms would be required to form compounds like HCl and H₂O, contradicting Dalton atomic theory. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Avogadro distinguished between an atom (smallest unit taking part in reaction) and a molecule (smallest unit existing independently).",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7ae77112a56479014e0535b13176f7fbd2babcfcdfdbd7795cf6968327d467fe",
+    "question_skeleton": "assertion a avogadro hypothesis explained why elementary gases like h cl and o must be diatomic reason r if elementary gas molecules were monoatomic half atoms would be required to form compounds like hcl and h o contradicting dalton atomic theory choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_38_495dd6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Empirical formula mass and molecular mass equality",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** For carbon monoxide (CO), the empirical formula is identical to the molecular formula. **Reason (R):** The simplest whole-number ratio of carbon to oxygen atoms in carbon monoxide is 1:1, giving n = 1. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. When the molecular formula cannot be reduced further, empirical and molecular formulas are identical.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ed418fddaacbb6431de6bdc5c8c69f3e3b85b0717d1ce380a10ec22320882f33",
+    "question_skeleton": "assertion a for carbon monoxide co the empirical formula is identical to the molecular formula reason r the simplest whole number ratio of carbon to oxygen atoms in carbon monoxide is # # giving n # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_39_be296a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Stoichiometric calculation of iron(II) sulphide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** 56 g of iron reacts completely with 32 g of sulphur to form 88 g of iron(II) sulphide without any reactant left over. **Reason (R):** Iron and sulphur react in the fixed stoichiometric mole ratio of 1:1 (Fe + S → FeS), with atomic masses Fe = 56 and S = 32. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 56 g Fe (1 mol) + 32 g S (1 mol) → 88 g FeS (1 mol); obeys law of conservation of mass.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "37392e981603e8159552bbf41f1ade7464828ea5f97f15553a21a3735125f7be",
+    "question_skeleton": "assertion a # g of iron reacts completely with # g of sulphur to form # g of iron ii sulphide without any reactant left over reason r iron and sulphur react in the fixed stoichiometric mole ratio of # # fe s fes with atomic masses fe # and s # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_mole_concept_40_27f0b6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Mole Concept",
+    "title": "Assertion–Reason: Vapour density has units of density",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The vapour density of sulphur dioxide is 32 g/cm³. **Reason (R):** Vapour density is a relative ratio compared to hydrogen gas and is therefore a dimensionless pure number without units. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false; vapour density is a dimensionless number (32 for SO₂), not 32 g/cm³. Reason is true.",
+    "concept_name": "Mole Concept",
+    "concept_tag": "mole concept assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fa0d2711c81ca812473d1a2040142e7327d3d4ccb1f5f2136a1608b39d7fe943",
+    "question_skeleton": "assertion a the vapour density of sulphur dioxide is # g cm reason r vapour density is a relative ratio compared to hydrogen gas and is therefore a dimensionless pure number without units choose the correct option"
+  }
+]

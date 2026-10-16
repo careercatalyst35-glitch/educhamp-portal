@@ -1,0 +1,1352 @@
+[
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_1_nkntx",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Previous Board Question, 2019 Iron(III) chloride, FeCl₃, can be prepared by direct combination of its constituent elements. Which equation represents this method correctly?",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Previous Board Question, 2019 Iron(III) chloride, FeCl₃, can be prepared by direct combination of its constituent elements. Which equation represents this method correctly?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fe+Cl₂→ FeCl₂"
+      },
+      {
+        "key": "B",
+        "text": "Fe+2HCl→ FeCl₂+H₂"
+      },
+      {
+        "key": "C",
+        "text": "2Fe+3Cl₂→ 2FeCl₃"
+      },
+      {
+        "key": "D",
+        "text": "Fe_2O₃+6HCl→ 2FeCl₃+3H_2O"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Direct combination involves iron reacting directly with chlorine gas. The balanced equation is:\n\n\n2Fe+3Cl₂→ 2FeCl₃\n\n\nThe other equations either produce iron(II) chloride or represent a different method of preparation.\n\n---\n\n### Section B — Advanced Multi-Step and Trap-Based Questions",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "5cf65f20257cbbb370e49b170b41ddf4abc664d1d13cbc35e0f93ccd50601842",
+    "question_skeleton": "previous board question 2019 iron iii chloride mathrm fecl 3 can be prepared by direct combination of its constituent elements which equation represents this method correctly"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_2_oxoei",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Selecting the correct preparation of iron(II) chloride",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Two methods are proposed for preparing iron(II) chloride, FeCl₂. **Method P** Iron filings react with dilute hydrochloric acid. **Method Q** Iron reacts directly with chlorine gas. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both methods necessarily give FeCl₃ because iron always forms the +3 oxidation state."
+      },
+      {
+        "key": "B",
+        "text": "Method P can produce FeCl₂ and hydrogen; direct combination with chlorine under suitable conditions is generally associated with FeCl₃, not a reliable preparation of FeCl₂."
+      },
+      {
+        "key": "C",
+        "text": "Method P produces iron(III) chloride and oxygen."
+      },
+      {
+        "key": "D",
+        "text": "Method Q produces iron(II) chloride and hydrogen because chlorine displaces hydrogen from iron."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Iron reacts with dilute hydrochloric acid to form iron(II) chloride and hydrogen.\n\n\nFe+2HCl→ FeCl₂+H_2uparrow\n\n\nDirect combination of iron with chlorine generally produces iron(III) chloride under ordinary chlorination conditions:\n\n\n2Fe+3Cl₂→2FeCl₃\n\n\nThe trap is assuming that every preparation route involving iron and chlorine produces the same oxidation state.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "823edf8e8415d5514f04d8614950d7d047fcaa2a3b3fbedfca45b00c82d95225",
+    "question_skeleton": "figure two methods are proposed for preparing iron ii chloride fecl 2 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display flex flex wrap wrap gap 8px align items center asyncimage query iron filings reacting with dilute hydrochloric acid in test tube hydrogen gas bubbles chemistry laboratory illustration aspectratio 4 3 maxwidth 145px div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 method p span iron filings react with dilute hydrochloric acid span div div hr style border 0 border top 1px solid e2e8f0 margin 8px 0 div style display flex flex wrap wrap gap 8px align items center asyncimage query iron wool heated in stream of dry chlorine gas chemistry laboratory reaction apparatus labelled educational diagram aspectratio 4 3 maxwidth 145px div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 method q span iron reacts directly with chlorine gas span div div div which statement is correct"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_3_kh6j2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Interpreting a dilution graph",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Two curves represent the pH of a strong acid, hydrochloric acid, HCl(aq), and a strong base, sodium hydroxide, NaOH(aq), as each is progressively diluted with water. The acid curve rises towards pH 7; the base curve falls towards pH 7. Conceptual illustration: dilution moves both solutions towards neutrality, but in opposite directions. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Diluting an acid always makes its pH greater than 7."
+      },
+      {
+        "key": "B",
+        "text": "Dilution reduces the concentration of the acid's hydrogen ions or the base's hydroxide ions, moving the pH towards 7."
+      },
+      {
+        "key": "C",
+        "text": "Diluting a strong acid converts it into a weak acid because its concentration decreases."
+      },
+      {
+        "key": "D",
+        "text": "Dilution cannot affect pH because the chemical identity of the solute remains unchanged."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Dilution decreases the concentration of the ions responsible for acidity or alkalinity. A strong acid remains a strong acid after dilution; its strength refers to its degree of ionisation, not simply its concentration.\n\nFor example, a tenfold dilution of an ideal strong acid initially at pH 2 gives approximately pH 3, provided the solution remains sufficiently acidic and the simple concentration approximation applies.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "d9d2776b25b27cbf8402d86da54828d409f7c63c545de516098cfef7d75006a8",
+    "question_skeleton": "figure two curves represent the ph of a strong acid hydrochloric acid hcl aq and a strong base sodium hydroxide naoh aq as each is progressively diluted with water the acid curve rises towards ph 7 the base curve falls towards ph 7 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 330 210 width 100 xmlns http www w3 org 2000 svg line x1 42 y1 15 x2 42 y2 178 stroke currentcolor strokewidth 1 4 line x1 42 y1 178 x2 312 y2 178 stroke currentcolor strokewidth 1 4 each 0 2 4 6 7 8 10 12 14 as p line x1 42 y1 178 p 11 x2 312 y2 178 p 11 stroke currentcolor strokeopacity 0 13 span p span each path d m50 31 c110 43 180 65 300 89 fill none stroke d62828 strokewidth 2 5 path d m50 24 c110 37 180 58 300 89 fill none stroke d62828 strokewidth 0 path d m50 34 c95 74 170 109 300 113 fill none stroke 277da1 strokewidth 2 5 transform translate 0 0 scale 1 1 path d m50 25 c100 45 170 70 300 90 fill none stroke d62828 strokewidth 0 span acid ph rises span span base ph falls span span increasing dilution span svg span conceptual illustration dilution moves both solutions towards neutrality but in opposite directions span div which statement is correct"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_4_awsjf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "A student mixes aqueous barium chloride, BaCl₂, and sodium sulphate, Na_2SO₄. Which statement best explains why the reaction is suitable for preparing barium sulphate, BaSO₄?",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student mixes aqueous barium chloride, BaCl₂, and sodium sulphate, Na_2SO₄. Which statement best explains why the reaction is suitable for preparing barium sulphate, BaSO₄?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "All products are insoluble, so the entire mixture precipitates."
+      },
+      {
+        "key": "B",
+        "text": "Barium chloride decomposes spontaneously in water."
+      },
+      {
+        "key": "C",
+        "text": "Sodium sulphate releases hydrogen gas on mixing."
+      },
+      {
+        "key": "D",
+        "text": "Insoluble barium sulphate forms while sodium chloride remains dissolved, allowing separation by filtration."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The balanced reaction is:\n\n\nBaCl₂+Na_2SO₄→ BaSO_4downarrow+2NaCl\n\n\nThe insoluble precipitate is separated by filtration, washed and dried.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "70f9eee1e16101b53b266676ca098b346a84ec59fdcc4d08c31225052777e7d5",
+    "question_skeleton": "a student mixes aqueous barium chloride mathrm bacl 2 and sodium sulphate mathrm na 2so 4 which statement best explains why the reaction is suitable for preparing barium sulphate mathrm baso 4"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_5_eg0b8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Equal volumes of dilute hydrochloric acid, HCl, and dilute ethanoic acid, CH_3COOH, have the same concentration. Which statement is most accurate?",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Equal volumes of dilute hydrochloric acid, HCl, and dilute ethanoic acid, CH_3COOH, have the same concentration. Which statement is most accurate?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrochloric acid generally has a lower pH because it ionises much more extensively."
+      },
+      {
+        "key": "B",
+        "text": "Ethanoic acid must have a lower pH because it is an organic acid."
+      },
+      {
+        "key": "C",
+        "text": "Both must have identical pH because their concentrations are equal."
+      },
+      {
+        "key": "D",
+        "text": "Neither solution contains ions."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Concentration and strength are different concepts. Hydrochloric acid is a strong acid and ionises almost completely, while ethanoic acid is weak and ionises partially. At equal concentrations, hydrochloric acid therefore generally produces a higher hydrogen-ion concentration and a lower pH.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "a73a85454f9a808b6339de18b9e8bb3a3ee3c75fe3b2c477e803e626d28bca4f",
+    "question_skeleton": "equal volumes of dilute hydrochloric acid mathrm hcl and dilute ethanoic acid mathrm ch 3cooh have the same concentration which statement is most accurate"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_6_pwpha",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Choosing the correct method for preparing an insoluble carbonate",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student wants to prepare calcium carbonate, CaCO₃, as a pure precipitate. Which combination of reactants and separation steps is most appropriate?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Calcium metal, Ca, and dilute hydrochloric acid, HCl, followed by collection of hydrogen."
+      },
+      {
+        "key": "B",
+        "text": "Calcium oxide, CaO, and dilute sulphuric acid, H_2SO₄, followed by crystallisation of calcium carbonate."
+      },
+      {
+        "key": "C",
+        "text": "Calcium hydroxide, Ca(OH)₂, and hydrochloric acid, HCl, followed by filtration of calcium carbonate."
+      },
+      {
+        "key": "D",
+        "text": "Aqueous calcium chloride, CaCl₂(aq), and aqueous sodium carbonate, Na_2CO₃(aq), followed by filtration and washing of the precipitate."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Mixing suitable soluble salts produces insoluble calcium carbonate.\n\n\nCaCl₂+Na_2CO₃→ CaCO_3downarrow+2NaCl\n\n\nThe calcium carbonate precipitate is separated by filtration and washed with distilled water to remove soluble impurities. Crystallisation is not the appropriate method for recovering this insoluble salt.\n\n---\n\n**Batch 5 complete: Theoretical (Conceptual) Questions 1–30.**\n\nReply **YES** for the final batch: **Complex Questions 1–30**, including exactly 10 verified previous ICSE board questions where the original question and year can be established reliably. Unverified questions will be labelled **[Board-style]**, without inventing examination years.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "5bfe49efde74c13b748612f38fae883c6ac99ceea3fb1c3bfc9c6eba540bfa52",
+    "question_skeleton": "a student wants to prepare calcium carbonate caco 3 as a pure precipitate which combination of reactants and separation steps is most appropriate"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_7_rua9w",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Testing hydrogen evolved from a metal",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Zinc granules react with dilute hydrochloric acid in a conical flask. A delivery tube carries the gas into an inverted test tube over water. A burning splint is brought near the mouth of the collected test tube. The diagram shows gas generation, collection over water and testing with a burning splint. Which observation and equation correctly describe the experiment?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The gas extinguishes the flame and turns limewater milky; Zn+2HCl→ ZnCl₂+CO₂."
+      },
+      {
+        "key": "B",
+        "text": "The gas burns with a characteristic pop; Zn+2HCl→ ZnCl₂+H₂."
+      },
+      {
+        "key": "C",
+        "text": "The gas relights a glowing splint; Zn+2HCl→ ZnCl₂+O₂."
+      },
+      {
+        "key": "D",
+        "text": "The gas turns moist blue litmus red; Zn+HCl→ ZnCl+H₂."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Zinc displaces hydrogen from dilute hydrochloric acid. The evolved hydrogen burns with a characteristic pop when tested with a burning splint.\n\n\nZn+2HCl→ ZnCl₂+H_2uparrow\n\n\nOption A confuses hydrogen with carbon dioxide, which turns limewater milky.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "ef32f2ddf05aaab623c8c4c7c086371734846e9d90d8d1299380888d971ce770",
+    "question_skeleton": "figure zinc granules react with dilute hydrochloric acid in a conical flask a delivery tube carries the gas into an inverted test tube over water a burning splint is brought near the mouth of the collected test tube div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 asyncimage query labelled chemistry laboratory diagram preparation hydrogen gas zinc granules dilute hydrochloric acid conical flask delivery tube water trough inverted gas jar burning splint aspectratio 5 4 width 100 span the diagram shows gas generation collection over water and testing with a burning splint span div which observation and equation correctly describe the experiment"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_8_8rjca",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Distinguishing the effects of dilute acids on sulphites and sulphides",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Two reaction flasks are fitted with delivery tubes. Flask P contains sodium sulphite, Na_2SO₃, and dilute hydrochloric acid, HCl. Flask Q contains iron(II) sulphide, FeS, and dilute hydrochloric acid. **Flask P** Acid + sodium sulphite Gas produced: sulphur dioxide, SO₂ **Flask Q** Acid + iron(II) sulphide Gas produced: hydrogen sulphide, H_2S Which pair of equations correctly represents the reactions?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Na_2SO₃+2HCl→2NaCl+H_2O+SO₂, and FeS+2HCl→ FeCl₂+H_2S."
+      },
+      {
+        "key": "B",
+        "text": "Na_2SO₃+HCl→ NaCl+H₂, and FeS+HCl→ FeCl₂+O₂."
+      },
+      {
+        "key": "C",
+        "text": "Na_2SO₃+2HCl→2NaCl+H_2O+H₂, and FeS+2HCl→ FeCl₂+CO₂."
+      },
+      {
+        "key": "D",
+        "text": "Na_2SO₃+2HCl→ Na_2Cl₂+SO₃, and FeS+2HCl→ FeCl₂+H₂."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Acids react with sulphites to produce a salt, water and sulphur dioxide. Acids react with metal sulphides to produce a salt and hydrogen sulphide.\n\n\nNa_2SO₃+2HCl→2NaCl+H_2O+SO_2uparrow\n\n\n\nFeS+2HCl→ FeCl₂+H_2Suparrow\n\n\nThe key trap is confusing the gases produced by sulphites and sulphides.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "542a71de9e10883371120ee59a50f10dcdbbbaa1c243fe2f2135063249f66bbe",
+    "question_skeleton": "figure two reaction flasks are fitted with delivery tubes flask p contains sodium sulphite na 2so 3 and dilute hydrochloric acid hcl flask q contains iron ii sulphide fes and dilute hydrochloric acid div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display flex flex wrap wrap gap 8px align items center asyncimage query laboratory chemistry apparatus sodium sulfite dilute hydrochloric acid sulfur dioxide gas generation flask delivery tube labelled diagram aspectratio 4 3 maxwidth 145px div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 flask p span acid sodium sulphite span span gas produced sulphur dioxide so 2 span div div hr style border 0 border top 1px solid e2e8f0 margin 8px 0 div style display flex flex wrap wrap gap 8px align items center asyncimage query laboratory chemistry apparatus iron sulfide dilute hydrochloric acid hydrogen sulfide gas preparation flask delivery tube labelled diagram aspectratio 4 3 maxwidth 145px div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 flask q span acid iron ii sulphide span span gas produced hydrogen sulphide h 2s span div div div which pair of equations correctly represents the reactions"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_9_mtc28",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Previous Board Question, 2019 Which method is appropriate for preparing sodium nitrate, NaNO₃, when both the acid and alkali are soluble and the product must be obtained in pure crystals?",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Previous Board Question, 2019 Which method is appropriate for preparing sodium nitrate, NaNO₃, when both the acid and alkali are soluble and the product must be obtained in pure crystals?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Precipitation"
+      },
+      {
+        "key": "B",
+        "text": "Titration followed by concentration and crystallisation"
+      },
+      {
+        "key": "C",
+        "text": "Direct combination of sodium and nitrogen dioxide"
+      },
+      {
+        "key": "D",
+        "text": "Adding excess sodium metal to dilute nitric acid"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sodium nitrate is soluble, so precipitation is unsuitable. The acid and alkali are reacted in measured quantities by titration, and the resulting solution is concentrated and crystallised. Sodium metal is not used because its reaction with acids is dangerously vigorous.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "126556b3f0ce9192e86a739a9a60d764a9663afeaa7391f7202c41dd642771ea",
+    "question_skeleton": "previous board question 2019 which method is appropriate for preparing sodium nitrate mathrm nano 3 when both the acid and alkali are soluble and the product must be obtained in pure crystals"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_10_rgs1s",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Equal volumes of two solutions are mixed. Solution X contains dilute hydrochloric acid, HCl, at pH 2; solution Y contains sodium hydroxide, NaOH, at pH 12. Assume ideal dilute solutions at the same temperature and that the acid and base react completely. What is the expected nature of the final mixture?",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Equal volumes of two solutions are mixed. Solution X contains dilute hydrochloric acid, HCl, at pH 2; solution Y contains sodium hydroxide, NaOH, at pH 12. Assume ideal dilute solutions at the same temperature and that the acid and base react completely. What is the expected nature of the final mixture?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Acidic, because hydrochloric acid is a strong acid"
+      },
+      {
+        "key": "B",
+        "text": "Alkaline, because sodium hydroxide is a strong base"
+      },
+      {
+        "key": "C",
+        "text": "Neutral, because equal volumes contain equal amounts of H⁺ and OH⁻"
+      },
+      {
+        "key": "D",
+        "text": "Impossible to determine even with the stated pH values and equal volumes"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "At pH 2, [H⁺]=10^{-2},mol,L^{-1}. At pH 12, pOH is 2, so [OH⁻]=10^{-2},mol,L^{-1}. Equal volumes therefore contain equal amounts of these ions, which neutralise:\n\n\nH⁺+OH⁻→ H_2O\n\n\nUnder the stated assumptions, the final solution is neutral.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "2df96d129b35310569462685282cb113fc45fcc9fc922e46f33362d248ff8486",
+    "question_skeleton": "equal volumes of two solutions are mixed solution x contains dilute hydrochloric acid mathrm hcl at ph 2 solution y contains sodium hydroxide mathrm naoh at ph 12 assume ideal dilute solutions at the same temperature and that the acid and base react completely what is the expected nature of the final mixture"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_11_6kv23",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "A student adds excess solid copper(II) oxide, CuO, to dilute sulphuric acid, H_2SO₄, warms the mixture and filters it. Which procedure best obtains copper(II) sulphate crystals, CuSO₄, while minimising contamination?",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student adds excess solid copper(II) oxide, CuO, to dilute sulphuric acid, H_2SO₄, warms the mixture and filters it. Which procedure best obtains copper(II) sulphate crystals, CuSO₄, while minimising contamination?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Filter off excess CuO, concentrate the filtrate to the crystallisation point, cool it and collect the crystals"
+      },
+      {
+        "key": "B",
+        "text": "Evaporate the entire mixture to dryness without filtering"
+      },
+      {
+        "key": "C",
+        "text": "Add excess sodium hydroxide, NaOH, before filtration"
+      },
+      {
+        "key": "D",
+        "text": "Filter first, then add more CuO to the clear filtrate and collect the solid immediately"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The excess insoluble oxide is removed by filtration. The filtrate contains copper(II) sulphate solution, which can be concentrated and cooled to crystallise the salt.\n\n\nCuO+H_2SO₄→ CuSO₄+H_2O\n\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "a48887c64675675b3098229ed6d158be5c06db0864f64873b924d95ad7f6b203",
+    "question_skeleton": "a student adds excess solid copper ii oxide mathrm cuo to dilute sulphuric acid mathrm h 2so 4 warms the mixture and filters it which procedure best obtains copper ii sulphate crystals mathrm cuso 4 while minimising contamination"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_12_ho7uo",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "A student wants to prepare pure sodium sulphate, Na_2SO₄, from dilute sulphuric acid, H_2SO₄, and sodium hydroxide, NaOH. Why is titration followed by crystallisation preferable to adding excess solid sodium hydroxide and filtering?",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student wants to prepare pure sodium sulphate, Na_2SO₄, from dilute sulphuric acid, H_2SO₄, and sodium hydroxide, NaOH. Why is titration followed by crystallisation preferable to adding excess solid sodium hydroxide and filtering?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium sulphate is insoluble, so it precipitates during titration."
+      },
+      {
+        "key": "B",
+        "text": "Sodium hydroxide cannot react with sulphuric acid in aqueous solution."
+      },
+      {
+        "key": "C",
+        "text": "Sodium sulphate decomposes immediately when heated."
+      },
+      {
+        "key": "D",
+        "text": "Both reactants and the product are soluble, so filtration cannot separate excess sodium hydroxide from the product reliably."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Soluble sodium sulphate remains in solution, as does any excess sodium hydroxide. Titration determines the exact neutralising quantities:\n\n\nH_2SO₄+2NaOH→ Na_2SO₄+2H_2O\n\n\nThe solution can then be concentrated and crystallised.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "5c9ed742196a2952171948aa420075015825578386aba619e0e81181a1c7f8a5",
+    "question_skeleton": "a student wants to prepare pure sodium sulphate mathrm na 2so 4 from dilute sulphuric acid mathrm h 2so 4 and sodium hydroxide mathrm naoh why is titration followed by crystallisation preferable to adding excess solid sodium hydroxide and filtering"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_13_kruz4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Four separate experiments are performed:",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "1. Dilute hydrochloric acid, HCl, reacts with zinc, Zn. 2. Dilute hydrochloric acid reacts with sodium carbonate, Na_2CO₃. 3. Hydrochloric acid reacts with sodium hydroxide, NaOH. 4. Hydrochloric acid reacts with copper(II) oxide, CuO. Which option correctly matches the products in experiments 1–4, respectively?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrogen; carbon dioxide and water; salt and water; salt and water"
+      },
+      {
+        "key": "B",
+        "text": "Carbon dioxide; hydrogen; salt and oxygen; hydrogen and salt"
+      },
+      {
+        "key": "C",
+        "text": "Hydrogen; oxygen; salt and hydrogen; carbon dioxide and water"
+      },
+      {
+        "key": "D",
+        "text": "Salt and water; hydrogen; carbon dioxide; salt and oxygen"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Each reaction follows a different acid-reaction pattern.\n\n1. Metal + acid:\n\n\nZn+2HCl→ ZnCl₂+H_2uparrow\n\n\n2. Carbonate + acid:\n\n\nNa_2CO₃+2HCl→ 2NaCl+H_2O+CO_2uparrow\n\n\n3. Alkali + acid:\n\n\nHCl+NaOH→ NaCl+H_2O\n\n\n4. Basic oxide + acid:\n\n\nCuO+2HCl→ CuCl₂+H_2O\n\n\nThe first reaction produces hydrogen, the second carbon dioxide, and the last two produce salt and water.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "61a53f03ff8241b641083b1eb3e6beb56b90a5915500aac254fab6e62494060c",
+    "question_skeleton": "1 dilute hydrochloric acid mathrm hcl reacts with zinc mathrm zn 2 dilute hydrochloric acid reacts with sodium carbonate mathrm na 2co 3 3 hydrochloric acid reacts with sodium hydroxide mathrm naoh 4 hydrochloric acid reacts with copper ii oxide mathrm cuo which option correctly matches the products in experiments 1 4 respectively"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_14_9hfpf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Interpreting a base-dissociation diagram",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A beaker contains aqueous calcium hydroxide, Ca(OH)₂(aq). A particle diagram shows each formula unit represented by one Ca^ ion and two OH⁻ ions after dissociation. Which statement correctly interprets the diagram?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Each formula unit produces one Ca⁺ and one OH²⁻ ion."
+      },
+      {
+        "key": "B",
+        "text": "Calcium hydroxide produces hydrogen ions because it contains hydrogen atoms."
+      },
+      {
+        "key": "C",
+        "text": "Each formula unit that dissociates produces one Ca²⁺ and two OH⁻ ions."
+      },
+      {
+        "key": "D",
+        "text": "Calcium hydroxide ionises to form CaO and hydrogen gas."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Calcium hydroxide dissociates in water into calcium and hydroxide ions.\n\n\nCa(OH)₂→ Ca²⁺+2OH⁻\n\n\nThe two hydroxide ions per formula unit explain why calcium hydroxide is a diacidic base. The equation is written for the portion that dissolves and dissociates in water.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "e4be8f4291e08c8479138be235ba2d73870dc6a64587ef16dc0f5c6c429d7b4c",
+    "question_skeleton": "figure a beaker contains aqueous calcium hydroxide ca oh 2 aq a particle diagram shows each formula unit represented by one ca 2 ion and two oh ions after dissociation div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 asyncimage query chemistry particle diagram calcium hydroxide dissociation ca2 and two hydroxide oh minus ions in aqueous solution labelled educational diagram aspectratio 5 4 width 100 div which statement correctly interprets the diagram"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_15_muas9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Selecting the correct method to prepare zinc sulphate",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A flow chart offers three possible starting materials for preparing zinc sulphate, ZnSO₄, using dilute sulphuric acid, H_2SO₄: **Target: ZnSO₄** **Route P** Zinc metal, Zn **Route Q** Zinc oxide, ZnO **Route R** Zinc carbonate, ZnCO₃ All three routes can produce zinc sulphate when the appropriate conditions and purification steps are used. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Only route P works because acids react exclusively with metals."
+      },
+      {
+        "key": "B",
+        "text": "Only route Q works because metal oxides form salts without water."
+      },
+      {
+        "key": "C",
+        "text": "Only route R works because carbonates are the only substances that neutralise acids."
+      },
+      {
+        "key": "D",
+        "text": "All three routes can work; excess insoluble ZnO or ZnCO₃ can be filtered off before concentrating the solution and crystallising ZnSO₄."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Each starting material reacts with dilute sulphuric acid to produce zinc sulphate.\n\n\nZn+H_2SO₄→ ZnSO₄+H_2uparrow\n\n\n\nZnO+H_2SO₄→ ZnSO₄+H_2O\n\n\n\nZnCO₃+H_2SO₄→ ZnSO₄+H_2O+CO_2uparrow\n\n\nFor the oxide or carbonate routes, using excess insoluble reactant ensures that the acid is consumed. The unreacted solid is removed by filtration, and the filtrate is concentrated to the crystallisation point before cooling.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "e86ac5cc0a13ac8f58121fe57e4bb44a5f673e86cd6efd31bc111a320bbe1395",
+    "question_skeleton": "figure a flow chart offers three possible starting materials for preparing zinc sulphate znso 4 using dilute sulphuric acid h 2so 4 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 target znso 4 div div style display flex flex wrap wrap gap 8px align items center icon name arrow down size lg div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 route p span zinc metal zn span div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 route q span zinc oxide zno span div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 route r span zinc carbonate znco 3 span div div div span all three routes can produce zinc sulphate when the appropriate conditions and purification steps are used span div which statement is correct"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_16_f7p23",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Identifying the correct reaction of an alkali with an ammonium salt",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A test tube contains ammonium chloride, NH_4Cl, and sodium hydroxide solution, NaOH(aq). The mixture is warmed gently, and the evolved gas is directed towards moist red litmus paper. Which statement correctly predicts the observation and explains the reaction?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrogen gas evolves and turns moist red litmus blue."
+      },
+      {
+        "key": "B",
+        "text": "Carbon dioxide evolves and turns moist red litmus blue."
+      },
+      {
+        "key": "C",
+        "text": "Ammonia gas evolves and turns moist red litmus blue because it produces an alkaline solution on dissolving in water."
+      },
+      {
+        "key": "D",
+        "text": "Chlorine gas evolves and turns moist red litmus blue."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "An ammonium salt reacts with a strong base on warming to release ammonia gas.\n\n\nNH_4Cl+NaOH→ NaCl+NH_3uparrow+H_2O\n\n\nAmmonia dissolves in the moisture on the litmus paper and produces an alkaline solution. Under the Arrhenius framework used here, the aqueous reaction can be represented as:\n\n\nNH₃+H_2O⇌ NH₄⁺+OH⁻\n\n\nThe hydroxide ions account for the change of moist red litmus to blue.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "d1f60e64ca92cd6347766e39451df4063e71b47c54081fb6426d26b85c3ae7f8",
+    "question_skeleton": "figure a test tube contains ammonium chloride nh 4cl and sodium hydroxide solution naoh aq the mixture is warmed gently and the evolved gas is directed towards moist red litmus paper div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 asyncimage query labelled chemistry experiment ammonium chloride sodium hydroxide warm test tube ammonia gas moist red litmus paper turns blue laboratory diagram aspectratio 5 4 width 100 div which statement correctly predicts the observation and explains the reaction"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_17_cjj44",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Distinguishing acidic and basic oxides experimentally",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Two gases are passed separately into aqueous sodium hydroxide, NaOH(aq), and dilute hydrochloric acid, HCl(aq), respectively. The gases are carbon dioxide, CO₂, and carbon monoxide, CO. **Setup P** Carbon dioxide is passed into sodium hydroxide solution. **Setup Q** Carbon monoxide is brought into contact with dilute hydrochloric acid under ordinary conditions. Which statement correctly classifies the oxides and interprets the reactions?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both are acidic oxides because both contain carbon and oxygen."
+      },
+      {
+        "key": "B",
+        "text": "CO₂ is an acidic oxide and reacts with NaOH; CO is a neutral oxide and does not normally react with dilute HCl."
+      },
+      {
+        "key": "C",
+        "text": "CO₂ is a neutral oxide, while CO is amphoteric."
+      },
+      {
+        "key": "D",
+        "text": "CO is a basic oxide because it reacts with every acid."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Carbon dioxide is an acidic oxide that reacts with sodium hydroxide:\n\n\nCO₂+2NaOH→ Na_2CO₃+H_2O\n\n\nCarbon monoxide is classified as a neutral oxide at this level and does not undergo the usual acid–base reaction with dilute hydrochloric acid. The presence of oxygen in an oxide does not automatically make it acidic.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "fcc0bd812ee8678f0e54d167f7fff78d15a0f495615b931167efa1d92c9fe5f8",
+    "question_skeleton": "figure two gases are passed separately into aqueous sodium hydroxide naoh aq and dilute hydrochloric acid hcl aq respectively the gases are carbon dioxide co 2 and carbon monoxide co div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display flex flex wrap wrap gap 8px align items center asyncimage query carbon dioxide gas bubbled into sodium hydroxide solution laboratory chemistry apparatus labelled acidic oxide aspectratio 4 3 maxwidth 140px div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 setup p span carbon dioxide is passed into sodium hydroxide solution span div div hr style border 0 border top 1px solid e2e8f0 margin 8px 0 div style display flex flex wrap wrap gap 8px align items center asyncimage query carbon monoxide gas laboratory apparatus gas delivery tube dilute hydrochloric acid educational chemistry schematic aspectratio 4 3 maxwidth 140px div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 setup q span carbon monoxide is brought into contact with dilute hydrochloric acid under ordinary conditions span div div div which statement correctly classifies the oxides and interprets the reactions"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_18_ooj2w",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Understanding the reaction of a base with a non-metal oxide",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Carbon dioxide, CO₂, is passed into two separate vessels. Vessel P contains sodium hydroxide solution, NaOH(aq), and vessel Q contains water. **Vessel P** Carbon dioxide reacts with aqueous sodium hydroxide. **Vessel Q** Carbon dioxide dissolves in water and forms an acidic solution. Which statement correctly compares the two vessels?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "CO₂ is a basic oxide because it reacts with sodium hydroxide."
+      },
+      {
+        "key": "B",
+        "text": "CO₂ is a neutral oxide because it dissolves in water."
+      },
+      {
+        "key": "C",
+        "text": "CO₂ is an acidic oxide; it reacts with sodium hydroxide to form a salt and water, while its reaction with water produces carbonic acid."
+      },
+      {
+        "key": "D",
+        "text": "CO₂ is amphoteric because it reacts with both water and sodium hydroxide."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Carbon dioxide is an acidic oxide. Its reaction with sodium hydroxide can produce sodium carbonate and water.\n\n\nCO₂+2NaOH→ Na_2CO₃+H_2O\n\n\nIn water, carbon dioxide forms carbonic acid:\n\n\nCO₂+H_2O⇌ H_2CO₃\n\n\nReacting with water and reacting with an alkali do not make an oxide amphoteric. Amphoteric oxides react with both acids and bases.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "9106e2fd179b547dc4d8d31ac2220e2a3461ba4dcad22fded14c28f95346fc9e",
+    "question_skeleton": "figure carbon dioxide co 2 is passed into two separate vessels vessel p contains sodium hydroxide solution naoh aq and vessel q contains water div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display flex flex wrap wrap gap 8px align items center asyncimage query carbon dioxide gas bubbled into sodium hydroxide solution chemistry laboratory apparatus labelled diagram aspectratio 4 3 maxwidth 145px div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 vessel p span carbon dioxide reacts with aqueous sodium hydroxide span div div hr style border 0 border top 1px solid e2e8f0 margin 8px 0 div style display flex flex wrap wrap gap 8px align items center asyncimage query carbon dioxide gas bubbling through water in laboratory gas delivery apparatus chemistry illustration aspectratio 4 3 maxwidth 145px div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 vessel q span carbon dioxide dissolves in water and forms an acidic solution span div div div which statement correctly compares the two vessels"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_19_u7kk5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Which statement correctly distinguishes the basicity of an acid from the acidity of a base?",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement correctly distinguishes the basicity of an acid from the acidity of a base?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both terms refer only to the pH of a concentrated solution."
+      },
+      {
+        "key": "B",
+        "text": "The basicity of an acid is the number of hydroxide ions it releases."
+      },
+      {
+        "key": "C",
+        "text": "The basicity of an acid is the number of ionisable hydrogen ions per molecule; the acidity of a base is the number of ionisable hydroxide ions per formula unit."
+      },
+      {
+        "key": "D",
+        "text": "Both terms refer to the number of oxygen atoms in the compound."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Hydrochloric acid, HCl, is monobasic; sulphuric acid, H_2SO₄, is dibasic. Sodium hydroxide, NaOH, is monoacidic as a base, while calcium hydroxide, Ca(OH)₂, is diacidic.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "54b83bfdcd806c3e4ad24ff8534387ad299a3bd70bd6ff87015784ff9df180cd",
+    "question_skeleton": "which statement correctly distinguishes the basicity of an acid from the acidity of a base"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_20_nrqm0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Interpreting a pH scale",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A horizontal pH scale at room temperature is marked from 0 to 14. The following solutions are placed at their respective positions: Marked solutions: P at pH 2, Q at pH 7, R at pH 11 and S at pH 5. Which comparison is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "S is more acidic than P because its pH is closer to 7."
+      },
+      {
+        "key": "B",
+        "text": "Q contains no hydrogen ions because it is neutral."
+      },
+      {
+        "key": "C",
+        "text": "R is alkaline, while P is more acidic than S."
+      },
+      {
+        "key": "D",
+        "text": "P and R are both acidic because neither has pH 7."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "At room temperature, pH below 7 indicates an acidic solution, pH 7 indicates neutrality, and pH above 7 indicates an alkaline solution. Therefore, P (pH 2) is more acidic than S (pH 5), while R (pH 11) is alkaline. Neutral water still contains hydrogen ions, represented in aqueous solution as hydronium ions, H_3O⁺, and hydroxide ions, OH⁻, in equal concentrations. Neutral does not mean ion-free.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "d0bac9557ac67a6c2557bdc106e6ca1b5293e523a4a62f54cf8bf3399a6f4d34",
+    "question_skeleton": "figure a horizontal ph scale at room temperature is marked from 0 to 14 the following solutions are placed at their respective positions div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 330 115 width 100 xmlns http www w3 org 2000 svg defs lineargradient id phg x1 0 y1 0 x2 100 y2 0 stop offset 0 stopcolor d62828 stop offset 24 stopcolor f77f00 stop offset 48 stopcolor f9c74f stop offset 50 stopcolor 43aa8b stop offset 76 stopcolor 277da1 stop offset 100 stopcolor 6930c3 lineargradient defs rect x 15 y 39 width 300 height 17 rx 3 fill url phg each 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 as n line x1 15 n 300 14 y1 56 x2 15 n 300 14 y2 62 stroke currentcolor strokewidth 0 8 span n span each line x1 15 7 300 14 y1 24 x2 15 7 300 14 y2 39 stroke currentcolor strokewidth 1 4 span neutral point span span acidic span span alkaline span span increasing ph span svg hr style border 0 border top 1px solid e2e8f0 margin 8px 0 span marked solutions p at ph 2 q at ph 7 r at ph 11 and s at ph 5 span div which comparison is correct"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_21_ojgv5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Reading a qualitative pH-versus-base graph",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A graph plots pH on the vertical axis against the volume of sodium hydroxide, NaOH(aq), added to a fixed volume of hydrochloric acid, HCl(aq). The curve starts at low pH, rises gradually, increases steeply near the equivalence region, and then levels off at high pH. Schematic curve; the horizontal position of the equivalence region depends on the quantities and concentrations used. Which interpretation is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The initial solution is alkaline because its pH is low."
+      },
+      {
+        "key": "B",
+        "text": "The steep rise means that sodium hydroxide has stopped reacting with hydrochloric acid."
+      },
+      {
+        "key": "C",
+        "text": "The solution must have pH 7 before any sodium hydroxide is added."
+      },
+      {
+        "key": "D",
+        "text": "Before the equivalence point, acid remains in excess; at equivalence, the strong acid and strong base have reacted in stoichiometric proportions."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Initially, hydrochloric acid is in excess and the pH is low. As sodium hydroxide is added, hydrogen ions are neutralised.\n\n\nH⁺+OH⁻→ H_2O\n\n\nThe overall reaction is:\n\n\nHCl+NaOH→ NaCl+H_2O\n\n\nAt the equivalence point, the acid and base have reacted in the correct stoichiometric ratio. For a strong acid–strong base titration at room temperature, the equivalence pH is approximately 7.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "42df3983fcd33e9d4f6578c17d4738ad5a63f9c1cbbec8c96fbe85529a2fdda8",
+    "question_skeleton": "figure a graph plots ph on the vertical axis against the volume of sodium hydroxide naoh aq added to a fixed volume of hydrochloric acid hcl aq the curve starts at low ph rises gradually increases steeply near the equivalence region and then levels off at high ph div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 330 220 width 100 xmlns http www w3 org 2000 svg line x1 45 y1 15 x2 45 y2 185 stroke currentcolor strokewidth 1 4 line x1 45 y1 185 x2 310 y2 185 stroke currentcolor strokewidth 1 4 each 0 2 4 6 7 8 10 12 14 as p line x1 45 y1 185 p 12 x2 310 y2 185 p 12 stroke currentcolor strokeopacity 0 13 span p span each path d m50 170 c95 170 130 167 153 158 c169 152 176 127 181 96 c184 67 188 43 198 31 c213 18 250 17 305 17 stroke 2878b5 strokewidth 2 5 fill none line x1 183 y1 15 x2 183 y2 185 stroke b45309 strokedasharray 4 4 span equivalence span span region span span volume of naoh added span span ph span svg span schematic curve the horizontal position of the equivalence region depends on the quantities and concentrations used span div which interpretation is correct"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_22_rteqc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Calculating pH from hydrogen-ion concentration",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student obtains an aqueous solution of hydrochloric acid, HCl, with a hydrogen-ion concentration of 10^ mol,L^. Assuming the simple concentration-based pH treatment prescribed for this level, what is its pH?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "3"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The hydrogen-ion concentration is 10^{-4} mol,L^{-1}, corresponding to pH 4 in the simple power-of-ten treatment.\n\n\n[H⁺]=10^{-4}quadRightarrowquad pH=4\n\n\nThe solution is acidic because its pH is below 7. A pH of 10 would indicate an alkaline solution, while pH 7 indicates neutrality.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "7df4b382b657ecf4e5e426d8114bd741e8bf3b486696b8f1efce3f0db619f5b7",
+    "question_skeleton": "a student obtains an aqueous solution of hydrochloric acid hcl with a hydrogen ion concentration of 10 4 mathrm mol l 1 assuming the simple concentration based ph treatment prescribed for this level what is its ph"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_23_ytic0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Predicting pH after tenfold dilution",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A strong hydrochloric acid solution, HCl(aq), initially has pH 2. It is diluted tenfold with water. Assuming ideal strong-acid behaviour and that the diluted solution remains sufficiently acidic, what is the approximate final pH?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "3"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A tenfold dilution reduces the hydrogen-ion concentration by a factor of 10.\n\nInitially:\n\n\n[H⁺]=10^{-2} mol,L^{-1}\n\n\nAfter tenfold dilution:\n\n\n[H⁺]=10^{-3} mol,L^{-1}\n\n\nTherefore, the approximate final pH is 3. Dilution raises the pH of an acid towards 7; it does not make the solution alkaline.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "4969fb2c7e742ba446da9fd9826b637305299d13ba3eb85d638877bca43eeffe",
+    "question_skeleton": "a strong hydrochloric acid solution hcl aq initially has ph 2 it is diluted tenfold with water assuming ideal strong acid behaviour and that the diluted solution remains sufficiently acidic what is the approximate final ph"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_24_lrlpj",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Predicting pH after hundredfold dilution",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A strong sodium hydroxide solution, NaOH(aq), initially has pH 13. It is diluted one hundredfold with water. Under the simple concentration-based approximation at room temperature, what is its approximate final pH?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "11"
+      },
+      {
+        "key": "B",
+        "text": "12"
+      },
+      {
+        "key": "C",
+        "text": "13"
+      },
+      {
+        "key": "D",
+        "text": "2"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The initial pOH is:\n\n\npOH=14-13=1\n\n\nThus, the initial hydroxide-ion concentration is 10^{-1} mol,L^{-1}. A hundredfold dilution reduces it to 10^{-3} mol,L^{-1}, so the pOH becomes 3.\n\n\npH=14-3=11\n\n\nThe solution remains alkaline because its pH is above 7.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "14234a4b404f45bc9f993576b694b1f0a3882c89f349b41fa680907f36545222",
+    "question_skeleton": "a strong sodium hydroxide solution naoh aq initially has ph 13 it is diluted one hundredfold with water under the simple concentration based approximation at room temperature what is its approximate final ph"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_25_bk301",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Calculating the volume of hydrogen produced by zinc",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student reacts 6.5 g of zinc, Zn, with excess dilute hydrochloric acid, HCl. Given that the molar mass of zinc is 65 g,mol^ and the molar gas volume at STP is 22.4 L,mol^, what volume of hydrogen is produced at STP?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2.24 L"
+      },
+      {
+        "key": "B",
+        "text": "4.48 L"
+      },
+      {
+        "key": "C",
+        "text": "1.12 L"
+      },
+      {
+        "key": "D",
+        "text": "22.4 L"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The balanced equation is:\n\n\nZn+2HCl→ ZnCl₂+H₂\n\n\nMoles of zinc:\n\n\nn(Zn)=(6.5 / 65)=0.10 mol\n\n\nThe mole ratio Zn:H₂ is 1:1. Therefore, hydrogen produced is 0.10 mol.\n\n\nV(H₂)=0.10×22.4=2.24 L\n\n\nThe answer assumes that hydrochloric acid is in excess and the reaction goes to completion.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "ec4299cfe399f6c223967df7a3af49c08d2d7c8cf8485d3ae2c6b0cab816679b",
+    "question_skeleton": "a student reacts 6 5 mathrm g of zinc zn with excess dilute hydrochloric acid hcl given that the molar mass of zinc is 65 mathrm g mol 1 and the molar gas volume at stp is 22 4 mathrm l mol 1 what volume of hydrogen is produced at stp"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_26_r0a77",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Calculating carbon dioxide from a carbonate",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A sample of calcium carbonate, CaCO₃, of mass 25 g reacts completely with excess dilute hydrochloric acid, HCl. Given M_r(CaCO₃)=100 and a molar gas volume of 22.4 L,mol^ at STP, what volume of carbon dioxide is produced?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "11.2 L"
+      },
+      {
+        "key": "B",
+        "text": "2.24 L"
+      },
+      {
+        "key": "C",
+        "text": "5.6 L"
+      },
+      {
+        "key": "D",
+        "text": "22.4 L"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The balanced equation is:\n\n\nCaCO₃+2HCl→ CaCl₂+H_2O+CO₂\n\n\nMoles of calcium carbonate:\n\n\nn(CaCO₃)=(25 / 100)=0.25 mol\n\n\nThe mole ratio CaCO₃:CO₂ is 1:1. Therefore,\n\n\nV(CO₂)=0.25×22.4=5.6 L\n\n\nThe volume is calculated at STP, with hydrochloric acid in excess.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "8259d30989dbc5a2eb6d1834bf298fbe5cfce6c236a6c6cdcce7224ce2f44765",
+    "question_skeleton": "a sample of calcium carbonate caco 3 of mass 25 mathrm g reacts completely with excess dilute hydrochloric acid hcl given m r caco 3 100 and a molar gas volume of 22 4 mathrm l mol 1 at stp what volume of carbon dioxide is produced"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_27_lac0d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Calculating the mass of salt formed in neutralisation",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A solution containing 4.0 g of sodium hydroxide, NaOH, reacts completely with excess hydrochloric acid, HCl. Given M_r(NaOH)=40 and M_r(NaCl)=58.5, what mass of sodium chloride is formed?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2.34 g"
+      },
+      {
+        "key": "B",
+        "text": "5.85 g"
+      },
+      {
+        "key": "C",
+        "text": "4.00 g"
+      },
+      {
+        "key": "D",
+        "text": "5.00 g"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The balanced equation is:\n\n\nNaOH+HCl→ NaCl+H_2O\n\n\nMoles of sodium hydroxide:\n\n\nn(NaOH)=(4.0 / 40)=0.10 mol\n\n\nThe mole ratio NaOH:NaCl is 1:1. Therefore,\n\n\nm(NaCl)=0.10×58.5=5.85 g\n\n\nThe hydrochloric acid is in excess, so sodium hydroxide determines the quantity of salt formed.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "4849a8d5e8bc6b681e7192c0af6c3bc11916f8fefc8902769f11fcd6939b6868",
+    "question_skeleton": "a solution containing 4 0 mathrm g of sodium hydroxide naoh reacts completely with excess hydrochloric acid hcl given m r naoh 40 and m r nacl 58 5 what mass of sodium chloride is formed"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_28_gbpgw",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Finding the volume ratio for complete neutralisation",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Sulphuric acid, H_2SO₄, reacts with sodium hydroxide, NaOH. Both solutions have the same molar concentration. What volume ratio of sulphuric acid to sodium hydroxide is required for complete neutralisation?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1:1"
+      },
+      {
+        "key": "B",
+        "text": "2:1"
+      },
+      {
+        "key": "C",
+        "text": "1:3"
+      },
+      {
+        "key": "D",
+        "text": "1:2"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The balanced equation is:\n\n\nH_2SO₄+2NaOH→ Na_2SO₄+2H_2O\n\n\nOne mole of sulphuric acid reacts with two moles of sodium hydroxide. Since the solutions have equal molar concentrations, the volume ratio is the same as the mole ratio.\n\n\nV(H_2SO₄):V(NaOH)=1:2\n\n\nThe acid is dibasic, so two moles of sodium hydroxide are needed per mole of sulphuric acid.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "78bd0df58249bf4e75ddc33ec5af6f026779bf886b0aa9fa422564c5d7a840e1",
+    "question_skeleton": "sulphuric acid h 2so 4 reacts with sodium hydroxide naoh both solutions have the same molar concentration what volume ratio of sulphuric acid to sodium hydroxide is required for complete neutralisation"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_29_tnw5l",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Calculating the mass of an insoluble precipitate",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student mixes 0.10 mol of barium chloride, BaCl₂, with 0.15 mol of sodium sulphate, Na_2SO₄. Assuming complete precipitation, what mass of barium sulphate, BaSO₄, is formed? Take M_r(BaSO₄)=233.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "23.3 g"
+      },
+      {
+        "key": "B",
+        "text": "34.95 g"
+      },
+      {
+        "key": "C",
+        "text": "46.6 g"
+      },
+      {
+        "key": "D",
+        "text": "11.65 g"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The balanced equation is:\n\n\nBaCl₂+Na_2SO₄→ BaSO_4downarrow+2NaCl\n\n\nThe mole ratio is 1:1. The available amounts are 0.10 mol of barium chloride and 0.15 mol of sodium sulphate, so barium chloride is the limiting reactant.\n\n\nn(BaSO₄)=0.10 mol\n\n\n\nm(BaSO₄)=0.10×233=23.3 g\n\n\nThe excess sodium sulphate remains in solution.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "2f43482f0a73ffe47ff6e90571feb5ad5050f3538aaa6cebb100d4c9b03c0f48",
+    "question_skeleton": "a student mixes 0 10 mol of barium chloride bacl 2 with 0 15 mol of sodium sulphate na 2so 4 assuming complete precipitation what mass of barium sulphate baso 4 is formed take m r baso 4 233"
+  },
+  {
+    "globalId": "qb_hots_acids_bases_and_salts_30_lyysm",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Calculating the volume of carbon dioxide from a smaller carbonate sample",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A 5.0 g sample of calcium carbonate, CaCO₃, reacts completely with excess dilute hydrochloric acid, HCl. Given M_r(CaCO₃)=100 and a molar gas volume of 22.4 L,mol^ at STP, what volume of carbon dioxide is produced?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2.24 L"
+      },
+      {
+        "key": "B",
+        "text": "1.12 L"
+      },
+      {
+        "key": "C",
+        "text": "0.56 L"
+      },
+      {
+        "key": "D",
+        "text": "5.60 L"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The balanced equation is:\n\n\nCaCO₃+2HCl→ CaCl₂+H_2O+CO₂\n\n\nMoles of calcium carbonate:\n\n\nn(CaCO₃)=(5.0 / 100)=0.05 mol\n\n\nThe mole ratio CaCO₃:CO₂ is 1:1.\n\n\nV(CO₂)=0.05×22.4=1.12 L\n\n\n**Correction to the options:** The calculation gives 1.12 L, so the correct answer is **B**, not C.\n\n---",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids_bases_and_salts numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "5600108db50b4b39202ce78838aade86895c9bbaa8301361dae4d80adeed5adf",
+    "question_skeleton": "a 5 0 mathrm g sample of calcium carbonate caco 3 reacts completely with excess dilute hydrochloric acid hcl given m r caco 3 100 and a molar gas volume of 22 4 mathrm l mol 1 at stp what volume of carbon dioxide is produced"
+  }
+]

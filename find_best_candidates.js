@@ -1,0 +1,163 @@
+const fs = require('fs');
+
+const chaptersConfig = [
+  { step: 4612, link: 1, key: 'periodic_table', name: 'Periodic Table' },
+  { step: 4614, link: 2, key: 'chemical_bonding', name: 'Chemical Bonding' },
+  { step: 4616, link: 3, key: 'acids_bases_and_salts', name: 'Acids, Bases and Salts' },
+  { step: 4618, link: 4, key: 'analytical_chemistry', name: 'Analytical Chemistry' },
+  { step: 4620, link: 5, key: 'mole_concept', name: 'Mole Concept' },
+  { step: 4622, link: 6, key: 'electrolysis', name: 'Electrolysis' },
+  { step: 4624, link: 7, key: 'metallurgy', name: 'Metallurgy' },
+  { step: 4626, link: 8, key: 'hydrogen_chloride', name: 'Hydrochloric Acid' },
+];
+
+function extractEnqueues(step) {
+  const p = `C:/Users/25car/.gemini/antigravity/brain/576231d8-6ff3-4005-81c9-c8f9969277f8/.system_generated/steps/${step}/content.md`;
+  if (!fs.existsSync(p)) return [];
+  const text = fs.readFileSync(p, 'utf8');
+
+  const needle = 'window.__reactRouterContext.streamController.enqueue(';
+  const results = [];
+  let pos = 0;
+  while (true) {
+    const idx = text.indexOf(needle, pos);
+    if (idx === -1) break;
+    const start = idx + needle.length;
+    const endScript = text.indexOf('</script>', start);
+    if (endScript === -1) break;
+    let end = endScript;
+    while (end > start && text[end] !== ')') end--;
+    results.push(text.substring(start, end).trim());
+    pos = endScript;
+  }
+  return results;
+}
+
+function unpack(data, idx, seen = new Map()) {
+  if (typeof idx !== 'number') return idx;
+  if (idx < 0) {
+    if (idx === -1) return undefined;
+    if (idx === -2) return null;
+    if (idx === -3) return NaN;
+    if (idx === -4) return Infinity;
+    if (idx === -5) return undefined;
+    return null;
+  }
+  if (seen.has(idx)) return seen.get(idx);
+
+  const raw = data[idx];
+  if (raw === null || typeof raw !== 'object') {
+    return raw;
+  }
+
+  if (Array.isArray(raw)) {
+    const arr = [];
+    seen.set(idx, arr);
+    for (const item of raw) {
+      arr.push(unpack(data, item, seen));
+    }
+    return arr;
+  }
+
+  const obj = {};
+  seen.set(idx, obj);
+  for (const [k, v] of Object.entries(raw)) {
+    if (k.startsWith('_')) {
+      const keyIdx = parseInt(k.substring(1), 10);
+      const keyName = data[keyIdx];
+      obj[keyName] = unpack(data, v, seen);
+    } else {
+      obj[keyName || k] = unpack(data, v, seen);
+    }
+  }
+  return obj;
+}
+
+function parseQuestions(text) {
+  const qRegex = /(?:^|\n)(?:###|##|\*\*|)\s*(?:Q|Question)\s*(\d+)[\.:\s\-—]+([^\n\r]*)/gi;
+  const matches = [...text.matchAll(qRegex)];
+  const questions = [];
+
+  for (let i = 0; i < matches.length; i++) {
+    const m = matches[i];
+    const qNum = parseInt(m[1], 10);
+    const qTitle = m[2].replace(/\*\*/g, '').trim();
+    const startIndex = m.index + m[0].length;
+    const endIndex = i + 1 < matches.length ? matches[i + 1].index : text.length;
+    const body = text.substring(startIndex, endIndex).trim();
+
+    questions.push({
+      num: qNum,
+      title: qTitle,
+      body: body
+    });
+  }
+  return questions;
+}
+
+chaptersConfig.forEach(ch => {
+  const enqueues = extractEnqueues(ch.step);
+  const data = JSON.parse(JSON.parse(enqueues[0]));
+  const root = unpack(data, 0);
+  const conv = root.loaderData?.['routes/share.$shareId.($action)']?.serverResponse?.data;
+  const msgs = conv.linear_conversation
+    .map((item, idx) => ({ idx, message: item.message }))
+    .filter(m => m.message && (m.message.author?.role === 'assistant' || m.message.role === 'assistant'))
+    .map(m => {
+      const text = (m.message.content?.parts || []).filter(p => typeof p === 'string').join('\n');
+      return { idx: m.idx, text, len: text.length };
+    })
+    .filter(m => m.len > 500);
+
+  console.log(`\n======================================================`);
+  console.log(`Chapter: ${ch.name} (Step ${ch.step})`);
+  console.log(`======================================================`);
+
+  // We want:
+  // Batch 1: diag 1..20
+  // Batch 2: diag 21..40
+  // Batch 3: num 1..20
+  // Batch 4: num 21..40
+  // Batch 5: theo 1..30
+  // Batch 6: comp 1..30
+
+  for (let b = 1; b <= 6; b++) {
+    const isDiag1 = b === 1;
+    const isDiag2 = b === 2;
+    const isNum1 = b === 3;
+    const isNum2 = b === 4;
+    const isTheo = b === 5;
+    const isComp = b === 6;
+
+    const minTarget = (isDiag1 || isNum1 || isTheo || isComp) ? 1 : 21;
+    const maxTarget = (isDiag1 || isNum1) ? 20 : (isDiag2 || isNum2) ? 40 : 30;
+    const expectedCount = (isTheo || isComp) ? 30 : 20;
+
+    // Find candidate messages for this batch
+    const candidates = [];
+    msgs.forEach(m => {
+      const qs = parseQuestions(m.text);
+      if (qs.length === 0) return;
+      const nums = qs.map(q => q.num);
+      const minNum = Math.min(...nums);
+      const maxNum = Math.max(...nums);
+
+      // Check if matches batch header or numbers
+      const hasBatchKeyword = m.text.includes(`Batch ${b}`) || m.text.includes(`Batch ${b} `) || m.text.includes(`batch ${b}`) || m.text.includes(`Batch ${b}:`);
+      const hasRange = minNum <= minTarget && maxNum >= maxTarget;
+
+      if (hasBatchKeyword || (minNum === minTarget && maxNum === maxTarget)) {
+        candidates.push({
+          msgIdx: m.idx,
+          len: m.len,
+          count: qs.length,
+          minNum,
+          maxNum,
+          hasBatchKeyword
+        });
+      }
+    });
+
+    console.log(`  Batch ${b} (${expectedCount} Qs expected, Q${minTarget}..Q${maxTarget}): found ${candidates.length} candidates:`, candidates.map(c => `Msg#${c.msgIdx} (${c.count} Qs, len ${c.len})`).join('; '));
+  }
+});

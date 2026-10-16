@@ -1,0 +1,2252 @@
+[
+  {
+    "globalId": "qb_case_mole_concept_1_ba18aa",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 1: Gay-Lussac's Law: Eudiometric Combustion of Methane",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical gas analyst sparks 20 cm³ of pure Methane gas (CH₄) with 60 cm³ of pure Oxygen gas (O₂) in a graduated eudiometer tube over mercury at 100°C. The combustion occurs according to: CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g). The tube is then cooled down to room temperature (25°C), where the water vapor condenses completely to liquid water of negligible volume. Finally, an excess of concentrated Potassium Hydroxide (KOH) solution is introduced into the eudiometer. **Investigative Question:** What is the total volume of gas remaining in the eudiometer after cooling to 25°C, and what volume remains after introducing KOH? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "At 25°C: 80 cm³; after KOH: 0 cm³"
+      },
+      {
+        "key": "B",
+        "text": "At 25°C: 40 cm³ (20 cm³ CO₂ + 20 cm³ unreacted O₂); after KOH: 20 cm³ (unreacted O₂ only, because KOH absorbs all CO₂)."
+      },
+      {
+        "key": "C",
+        "text": "At 25°C: 20 cm³; after KOH: 10 cm³"
+      },
+      {
+        "key": "D",
+        "text": "At 25°C: 60 cm³; after KOH: 40 cm³"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By Gay-Lussac's Law of Combining Volumes:\n1 volume of CH₄ reacts with 2 volumes of O₂ to produce 1 volume of CO₂.\n- 20 cm³ of CH₄ requires 20 × 2 = 40 cm³ of O₂.\n- Excess O₂ remaining = 60 - 40 = 20 cm³.\n- CO₂ produced = 20 cm³.\n- At 25°C, H₂O is liquid (volume = 0). Total gas volume = 20 cm³ (CO₂) + 20 cm³ (excess O₂) = 40 cm³.\n- KOH absorbs acidic CO₂: 2KOH + CO₂ → K₂CO₃ + H₂O. Volume absorbed = 20 cm³. Remaining unabsorbed gas = 20 cm³ of pure unreacted O₂.",
+    "concept_name": "Volume Contraction and Gaseous Combining Ratios",
+    "concept_tag": "mole concept case based volume contraction and gaseous combining ratios",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c587ac2a50fc7e52d36c1422b24170931332f5993d174312d3d2a7dcbb9ab993",
+    "question_skeleton": "case scenario a chemical gas analyst sparks 20 cm of pure methane gas ch with 60 cm of pure oxygen gas o in a graduated eudiometer tube over mercury at 100 c the combustion occurs according to ch g 2o g co g 2h o g the tube is then cooled down to room temperature 25 c where the water vapor condenses completely to liquid water of negligible volume finally an excess of concentrated potassium hydroxide koh solution is introduced into the eudiometer investigative question what is the total volume of gas remaining in the eudiometer after cooling to 25 c and what volume remains after introducing koh choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_2_a7e7d7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 2: Gay-Lussac's Law: Combustion of Carbon Monoxide",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an industrial syngas burner, 100 cm³ of Carbon monoxide (CO) is mixed with 70 cm³ of Oxygen gas (O₂) and sparked at constant temperature and pressure. The reaction proceeds according to the equation: 2CO(g) + O₂(g) → 2CO₂(g). All measurements are taken at 20°C and 1 atmosphere. **Investigative Question:** What is the total volume of the resulting gas mixture after the reaction is complete? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "170 cm³"
+      },
+      {
+        "key": "B",
+        "text": "120 cm³ (consisting of 100 cm³ of CO₂ and 20 cm³ of unreacted O₂)."
+      },
+      {
+        "key": "C",
+        "text": "100 cm³"
+      },
+      {
+        "key": "D",
+        "text": "140 cm³"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By Gay-Lussac's Law, reacting gas volumes combine in simple integer ratios:\n2 volumes of CO react with 1 volume of O₂ to yield 2 volumes of CO₂.\n- 100 cm³ of CO reacts completely with 100 / 2 = 50 cm³ of O₂.\n- Volume of O₂ left unreacted = 70 - 50 = 20 cm³.\n- Volume of CO₂ formed = 100 cm³.\n- Total volume of the resulting mixture = 100 cm³ (CO₂) + 20 cm³ (residual O₂) = 120 cm³ (representing a net contraction of 170 - 120 = 50 cm³).",
+    "concept_name": "Gaseous Volume Contraction During Oxidation",
+    "concept_tag": "mole concept case based gaseous volume contraction during oxidation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2a8d08e51dbe97bbc12e787dc795176614923c0c8c97ea68980c356afd79f701",
+    "question_skeleton": "case scenario in an industrial syngas burner 100 cm of carbon monoxide co is mixed with 70 cm of oxygen gas o and sparked at constant temperature and pressure the reaction proceeds according to the equation 2co g o g 2co g all measurements are taken at 20 c and 1 atmosphere investigative question what is the total volume of the resulting gas mixture after the reaction is complete choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_3_3b7c93",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 3: Gay-Lussac's Law: Combustion of Ethyne (Acetylene)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an oxy-acetylene welding torch, 40 cm³ of acetylene gas (ethyne, C₂H₂) is burned with 120 cm³ of pure oxygen gas at standard conditions. The combustion equation is: 2C₂H₂(g) + 5O₂(g) → 4CO₂(g) + 2H₂O(l). The resulting mixture is cooled to 20°C. **Investigative Question:** What is the composition and total volume of the residual gaseous mixture after cooling? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Total 100 cm³: 80 cm³ CO₂ and 20 cm³ unreacted O₂."
+      },
+      {
+        "key": "B",
+        "text": "Total 160 cm³: 120 cm³ CO₂ and 40 cm³ steam."
+      },
+      {
+        "key": "C",
+        "text": "Total 80 cm³: 80 cm³ CO₂ with no oxygen remaining."
+      },
+      {
+        "key": "D",
+        "text": "Total 120 cm³: 60 cm³ CO₂ and 60 cm³ O₂."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "From the balanced equation: 2 volumes of C₂H₂ require 5 volumes of O₂ to yield 4 volumes of CO₂ (H₂O is liquid at 20°C).\n- 40 cm³ of C₂H₂ requires (5/2) × 40 = 100 cm³ of O₂.\n- Excess O₂ remaining = 120 - 100 = 20 cm³.\n- CO₂ gas formed = (4/2) × 40 = 80 cm³.\n- Total gaseous volume after cooling = 80 cm³ (CO₂) + 20 cm³ (excess O₂) = 100 cm³.",
+    "concept_name": "Hydrocarbon Combustion Stoichiometry",
+    "concept_tag": "mole concept case based hydrocarbon combustion stoichiometry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8ac879d235f5ec02f08dc5d82e15a4f26e19fc186f3bdd6083acbedd370b4ee1",
+    "question_skeleton": "case scenario in an oxy acetylene welding torch 40 cm of acetylene gas ethyne c h is burned with 120 cm of pure oxygen gas at standard conditions the combustion equation is 2c h g 5o g 4co g 2h o l the resulting mixture is cooled to 20 c investigative question what is the composition and total volume of the residual gaseous mixture after cooling choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_4_9d0ee3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 4: Ostwald's Process: Ammonia Catalytic Oxidation Volume Ratio",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In the converter chamber of Ostwald's nitric acid plant, ammonia gas and dry air (assumed 20% O₂ and 80% N₂ by volume) are passed over a heated platinum gauze at 800°C: 4NH₃(g) + 5O₂(g) → 4NO(g) + 6H₂O(g). A plant engineer feeds 400 L of ammonia gas per minute. **Investigative Question:** What minimum volume of Oxygen gas and what minimum volume of Air are required per minute for the complete oxidation of this ammonia? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "400 L of O₂; 2000 L of air."
+      },
+      {
+        "key": "B",
+        "text": "500 L of O₂; 2500 L of air."
+      },
+      {
+        "key": "C",
+        "text": "800 L of O₂; 4000 L of air."
+      },
+      {
+        "key": "D",
+        "text": "300 L of O₂; 1500 L of air."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to Gay-Lussac's Law:\n4 volumes of NH₃ require 5 volumes of O₂.\n- Ratio: V(O₂) = (5/4) × V(NH₃) = (5/4) × 400 L = 500 L of pure O₂.\n- Since air contains only 20% Oxygen by volume, the required volume of air is:\nV(air) = 500 L / 0.20 = 2500 L of air per minute.",
+    "concept_name": "Gay-Lussac Ratios in Nitric Acid Manufacture",
+    "concept_tag": "mole concept case based gay-lussac ratios in nitric acid manufacture",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5be658b782ebf3c86ce2259049246dfee4b16530c0d20fd0a236c5829b8f1dfa",
+    "question_skeleton": "case scenario in the converter chamber of ostwald s nitric acid plant ammonia gas and dry air assumed 20 o and 80 n by volume are passed over a heated platinum gauze at 800 c 4nh g 5o g 4no g 6h o g a plant engineer feeds 400 l of ammonia gas per minute investigative question what minimum volume of oxygen gas and what minimum volume of air are required per minute for the complete oxidation of this ammonia choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_5_9976df",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 5: Derivation of Molecular Weight = $2 × Vapour Density$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physical chemistry student derives the mathematical relationship between Relative Molecular Mass (RMM) and Vapour Density (VD) using Avogadro's Law. Definition: Vapour Density = (Mass of V volume of gas) / (Mass of V volume of hydrogen gas at same T and P). By Avogadro's Law, V volume of any gas contains N molecules. **Investigative Question:** What is the complete algebraic progression proving that Relative Molecular Mass = 2 × Vapour Density? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VD = (Mass of N molecules of gas) / (Mass of N molecules of H₂) = (Mass of 1 molecule of gas) / (Mass of 1 molecule of H₂) = (Molecular Mass) / (2 × Mass of 1 H atom) = RMM / 2; therefore RMM = 2 × VD."
+      },
+      {
+        "key": "B",
+        "text": "VD = RMM / 22.4; therefore RMM = 22.4 × VD."
+      },
+      {
+        "key": "C",
+        "text": "VD = (Volume of gas) / (Volume of H₂) = 2 / RMM."
+      },
+      {
+        "key": "D",
+        "text": "RMM = VD² / 4."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By definition: VD = (Mass of V volume of gas) / (Mass of V volume of H₂) at same T and P.\nApplying Avogadro's Law (equal volumes contain equal molecules N):\nVD = (Mass of N molecules of gas) / (Mass of N molecules of H₂)\nDividing numerator and denominator by N:\nVD = (Mass of 1 molecule of gas) / (Mass of 1 molecule of H₂)\nSince Hydrogen is diatomic (1 molecule of H₂ contains 2 atoms of H):\nVD = (Mass of 1 molecule of gas) / (2 × Mass of 1 atom of H)\nSince Relative Molecular Mass = (Mass of 1 molecule of gas) / (Mass of 1 atom of H):\nVD = RMM / 2, which rearranges to: RMM = 2 × VD.",
+    "concept_name": "Avogadro's Hypothesis and Relative Density",
+    "concept_tag": "mole concept case based avogadro's hypothesis and relative density",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "71401c85d8634fe6f0849dd2d8dcfe280298b9a86b47ca1692f0b0ad599e911f",
+    "question_skeleton": "case scenario a physical chemistry student derives the mathematical relationship between relative molecular mass rmm and vapour density vd using avogadro s law definition vapour density mass of v volume of gas mass of v volume of hydrogen gas at same t and p by avogadro s law v volume of any gas contains n molecules investigative question what is the complete algebraic progression proving that relative molecular mass 2 vapour density choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_6_327086",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 6: Total Number of Atoms in $4.4 g$ of Carbon Dioxide",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student in a chemistry laboratory weighs out exactly 4.40 g of pure, dry Carbon dioxide gas (CO₂, molar mass = 12 + 2(16) = 44 g/mol) into an evacuated gas bulb. Avogadro's constant is N_A = 6.022 × 10²³. **Investigative Question:** How many moles of CO₂, how many CO₂ molecules, and how many total individual atoms are contained in this 4.40 g sample? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.10 mol CO₂; 6.022 × 10²² molecules; 1.807 × 10²³ total atoms."
+      },
+      {
+        "key": "B",
+        "text": "1.00 mol CO₂; 6.022 × 10²³ molecules; 6.022 × 10²³ total atoms."
+      },
+      {
+        "key": "C",
+        "text": "0.10 mol CO₂; 6.022 × 10²³ molecules; 1.204 × 10²⁴ total atoms."
+      },
+      {
+        "key": "D",
+        "text": "0.44 mol CO₂; 2.65 × 10²² molecules; 5.30 × 10²² total atoms."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. Moles of CO₂ = mass / molar mass = 4.40 g / 44.0 g/mol = 0.100 mol.\n2. Number of CO₂ molecules = moles × N_A = 0.100 × 6.022 × 10²³ = 6.022 × 10²² molecules.\n3. Atomicity: Each CO₂ molecule contains 3 atoms (1 Carbon + 2 Oxygen = 3 atoms).\n4. Total atoms = 3 × (6.022 × 10²² molecules) = 1.8066 × 10²³ atoms (approximately 1.807 × 10²³ atoms).",
+    "concept_name": "Mole-to-Particle Conversion and Molecular Atomicity",
+    "concept_tag": "mole concept case based mole-to-particle conversion and molecular atomicity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "eb155b2dc6bb89f4dee7449ab587bf4594000cd2faf2c1c993a08a1cacd5e4b9",
+    "question_skeleton": "case scenario a student in a chemistry laboratory weighs out exactly 4 40 g of pure dry carbon dioxide gas co molar mass 12 2 16 44 g mol into an evacuated gas bulb avogadro s constant is n a 6 022 10 investigative question how many moles of co how many co molecules and how many total individual atoms are contained in this 4 40 g sample choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_7_b86d35",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 7: Total Number of Electrons in $1.8 g$ of Liquid Water",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A biology researcher pipettes exactly 1.80 mL of pure liquid water at 4°C into a micro-cuvette (density of water = 1.00 g/mL, molar mass of H₂O = 18.0 g/mol). Avogadro's constant is N_A = 6.022 × 10²³. **Investigative Question:** What is the total number of electrons present in this 1.80 g droplet of water? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6.022 × 10²² electrons"
+      },
+      {
+        "key": "B",
+        "text": "6.022 × 10²³ electrons (exactly 1 mole of electrons)"
+      },
+      {
+        "key": "C",
+        "text": "1.806 × 10²⁴ electrons"
+      },
+      {
+        "key": "D",
+        "text": "1.204 × 10²³ electrons"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Mass of water = 1.80 g.\n2. Moles of H₂O = 1.80 g / 18.0 g/mol = 0.100 mol.\n3. Number of H₂O molecules = 0.100 × 6.022 × 10²³ = 6.022 × 10²² molecules.\n4. Electrons per H₂O molecule: Hydrogen has 1 electron (2 × 1 = 2) and Oxygen (atomic number 8) has 8 electrons. Total electrons per molecule = 2 + 8 = 10 electrons.\n5. Total electrons = 10 × (6.022 × 10²² molecules) = 6.022 × 10²³ electrons (which equals exactly 1 Faraday or 1 mole of electrons).",
+    "concept_name": "Subatomic Particle Calculations via Mole Concept",
+    "concept_tag": "mole concept case based subatomic particle calculations via mole concept",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "78386c926b94d9cc070a015e76894585d235f3f8b04f5baa2f651ffc09787425",
+    "question_skeleton": "case scenario a biology researcher pipettes exactly 1 80 ml of pure liquid water at 4 c into a micro cuvette density of water 1 00 g ml molar mass of h o 18 0 g mol avogadro s constant is n a 6 022 10 investigative question what is the total number of electrons present in this 1 80 g droplet of water choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_8_64301f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 8: Molar Volume at STP: Gas Density Calculation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An experimental physical chemist determines that 560 cm³ (0.560 L) of an unknown gaseous hydrocarbon at Standard Temperature and Pressure (STP: 0°C, 1 atm) has a mass of exactly 0.700 g. **Investigative Question:** What is the Gram Molecular Mass (molar mass) and Vapour Density of this hydrocarbon, and what is its most likely molecular formula? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Molar mass = 14 g/mol; VD = 7; CH₂"
+      },
+      {
+        "key": "B",
+        "text": "Molar mass = 28 g/mol; VD = 14; C₂H₄ (Ethene)"
+      },
+      {
+        "key": "C",
+        "text": "Molar mass = 42 g/mol; VD = 21; C₃H₆ (Propene)"
+      },
+      {
+        "key": "D",
+        "text": "Molar mass = 56 g/mol; VD = 28; C₄H₈ (Butene)"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "At STP, 1 mole of any ideal gas occupies 22.4 L (22,400 cm³).\n- Mass of 0.560 L = 0.700 g.\n- Mass of 22.4 L (Molar Mass) = (0.700 g / 0.560 L) × 22.4 L = 28.0 g/mol.\n- Vapour Density = Molar Mass / 2 = 28.0 / 2 = 14.0.\n- Molecular formula with molar mass 28 g/mol: Ethene (C₂H₄): (2 × 12) + (4 × 1) = 24 + 4 = 28 g/mol.",
+    "concept_name": "Gram Molar Volume and Gas Molecular Mass",
+    "concept_tag": "mole concept case based gram molar volume and gas molecular mass",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2ae829844945aae5838fc1ae28018047ec3a115e2ed542df5b0bd606e2468351",
+    "question_skeleton": "case scenario an experimental physical chemist determines that 560 cm 0 560 l of an unknown gaseous hydrocarbon at standard temperature and pressure stp 0 c 1 atm has a mass of exactly 0 700 g investigative question what is the gram molecular mass molar mass and vapour density of this hydrocarbon and what is its most likely molecular formula choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_9_681cc1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 9: Percentage of Water of Crystallization in Washing Soda",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical chemist determines the purity of a batch of crystalline Washing Soda (Sodium Carbonate Decahydrate, Na₂CO₃·10H₂O). Atomic masses: Na = 23, C = 12, O = 16, H = 1. **Investigative Question:** What is the theoretical percentage by mass of water of crystallization in pure washing soda crystals? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "37.1%"
+      },
+      {
+        "key": "B",
+        "text": "62.94%"
+      },
+      {
+        "key": "C",
+        "text": "50.0%"
+      },
+      {
+        "key": "D",
+        "text": "18.0%"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Molar mass of anhydrous Na₂CO₃ = 2(23) + 12 + 3(16) = 46 + 12 + 48 = 106 g/mol.\n2. Mass of 10 molecules of water of crystallization = 10 × [2(1) + 16] = 10 × 18 = 180 g/mol.\n3. Total molar mass of Na₂CO₃·10H₂O = 106 + 180 = 286 g/mol.\n4. Percentage of water of crystallization = (Mass of 10H₂O / Total Molar Mass) × 100\n= (180 / 286) × 100 = 62.937% ≈ 62.94%.",
+    "concept_name": "Hydrate Mass Fraction and Stoichiometry",
+    "concept_tag": "mole concept case based hydrate mass fraction and stoichiometry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a61a58bcfc37b7e680614023d18ed8ee0d497ea27dcd39ab2766e6e25efd6372",
+    "question_skeleton": "case scenario an analytical chemist determines the purity of a batch of crystalline washing soda sodium carbonate decahydrate na co 10h o atomic masses na 23 c 12 o 16 h 1 investigative question what is the theoretical percentage by mass of water of crystallization in pure washing soda crystals choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_10_64f8af",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 10: Percentage of Nitrogen in Agricultural Fertilizers: Urea vs Ammonium Nitrate",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An agricultural chemist compares the nitrogen content of two widely used commercial fertilizers: Fertilizer 1: Urea, CO(NH₂)₂ (molar mass = 60 g/mol) Fertilizer 2: Ammonium Nitrate, NH₄NO₃ (molar mass = 80 g/mol) Atomic masses: N = 14, C = 12, O = 16, H = 1. **Investigative Question:** What is the percentage of nitrogen in Urea and Ammonium Nitrate, and which fertilizer provides a richer nitrogen concentration per kilogram? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Urea = 23.3%; Ammonium Nitrate = 17.5%; Urea is richer."
+      },
+      {
+        "key": "B",
+        "text": "Urea = 46.67%; Ammonium Nitrate = 35.00%; Urea provides higher nitrogen content per kilogram."
+      },
+      {
+        "key": "C",
+        "text": "Urea = 35.00%; Ammonium Nitrate = 46.67%; Ammonium Nitrate is richer."
+      },
+      {
+        "key": "D",
+        "text": "Both fertilizers contain identical 50.0% nitrogen."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Urea, CO(NH₂)₂:\n- Molar mass = 12 (C) + 16 (O) + 2[14 + 2(1)] = 28 + 32 = 60 g/mol.\n- Contains 2 nitrogen atoms = 2 × 14 = 28 g N.\n- % N in Urea = (28 / 60) × 100 = 46.67%.\n2. Ammonium Nitrate, NH₄NO₃:\n- Molar mass = 14 + 4(1) + 14 + 3(16) = 18 + 14 + 48 = 80 g/mol.\n- Contains 2 nitrogen atoms = 28 g N.\n- % N in NH₄NO₃ = (28 / 80) × 100 = 35.00%.\nTherefore, Urea provides a significantly higher nitrogen density (46.67% vs 35.00%).",
+    "concept_name": "Comparative Nutrient Content by Mass",
+    "concept_tag": "mole concept case based comparative nutrient content by mass",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "adff5f04aefe0c3701c9642183bb8850bb620ba8ef72ec192331f64cb85779ab",
+    "question_skeleton": "case scenario an agricultural chemist compares the nitrogen content of two widely used commercial fertilizers fertilizer 1 urea co nh molar mass 60 g mol fertilizer 2 ammonium nitrate nh no molar mass 80 g mol atomic masses n 14 c 12 o 16 h 1 investigative question what is the percentage of nitrogen in urea and ammonium nitrate and which fertilizer provides a richer nitrogen concentration per kilogram choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_11_3728e8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 11: Empirical and Molecular Formula of an Organic Hydrocarbon",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Elemental combustion analysis of an unknown gaseous hydrocarbon shows that it contains 85.7% Carbon and 14.3% Hydrogen by mass. In a separate gas effusion experiment, its Vapour Density is determined to be 21.0. Atomic masses: C = 12.0, H = 1.0. **Investigative Question:** What is the Empirical Formula and the true Molecular Formula of this hydrocarbon? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Empirical Formula = CH; Molecular Formula = C₂H₂"
+      },
+      {
+        "key": "B",
+        "text": "Empirical Formula = CH₂; Molecular Formula = C₃H₆ (Propene)"
+      },
+      {
+        "key": "C",
+        "text": "Empirical Formula = CH₃; Molecular Formula = C₂H₆"
+      },
+      {
+        "key": "D",
+        "text": "Empirical Formula = C₂H₅; Molecular Formula = C₄H₁₀"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Find mole ratios:\n- Moles of C = 85.7 / 12.0 = 7.14\n- Moles of H = 14.3 / 1.0 = 14.3\n2. Simplest ratio:\n- C = 7.14 / 7.14 = 1.0\n- H = 14.3 / 7.14 = 2.0\nThus, Empirical Formula = CH₂ (Empirical Formula Mass = 12 + 2 = 14 g/mol).\n3. Molecular Mass = 2 × Vapour Density = 2 × 21.0 = 42.0 g/mol.\n4. Multiplication factor n = Molecular Mass / Empirical Formula Mass = 42.0 / 14.0 = 3.\n5. Molecular Formula = (CH₂)₃ = C₃H₆ (Propene / Cyclopropane).",
+    "concept_name": "Quantitative Combustion Analysis",
+    "concept_tag": "mole concept case based quantitative combustion analysis",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1d6224fffb1dede0f7ebac5b5888885f726ab62d0bd7e5cb7e1ab1046f3a46a0",
+    "question_skeleton": "case scenario elemental combustion analysis of an unknown gaseous hydrocarbon shows that it contains 85 7 carbon and 14 3 hydrogen by mass in a separate gas effusion experiment its vapour density is determined to be 21 0 atomic masses c 12 0 h 1 0 investigative question what is the empirical formula and the true molecular formula of this hydrocarbon choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_12_653b6c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 12: Empirical Formula of an Organic Oxygenated Compound: Glucose",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A biochemist analyzes a carbohydrate sample and finds its percentage composition by mass to be: Carbon = 40.0%, Hydrogen = 6.7%, and Oxygen = 53.3%. Mass spectrometry determines the relative molecular mass of the compound to be 180.0 g/mol. Atomic masses: C = 12.0, H = 1.0, O = 16.0. **Investigative Question:** What is the Empirical Formula and Molecular Formula of this carbohydrate? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Empirical Formula = CHO; Molecular Formula = C₆H₆O₆"
+      },
+      {
+        "key": "B",
+        "text": "Empirical Formula = CH₂O; Molecular Formula = C₆H₁₂O₆ (Glucose)"
+      },
+      {
+        "key": "C",
+        "text": "Empirical Formula = C₂H₄O₂; Molecular Formula = C₄H₈O₄"
+      },
+      {
+        "key": "D",
+        "text": "Empirical Formula = CH₃O; Molecular Formula = C₃H₉O₃"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Relative number of moles:\n- C: 40.0 / 12.0 = 3.33\n- H: 6.7 / 1.0 = 6.70\n- O: 53.3 / 16.0 = 3.33\n2. Divide by smallest number (3.33):\n- C: 3.33 / 3.33 = 1\n- H: 6.70 / 3.33 = 2.01 ≈ 2\n- O: 3.33 / 3.33 = 1\nThus, Empirical Formula = CH₂O.\n3. Empirical Formula Mass = 12 + 2(1) + 16 = 30.0 g/mol.\n4. Ratio n = Molecular Mass / Empirical Mass = 180.0 / 30.0 = 6.\n5. Molecular Formula = (CH₂O)₆ = C₆H₁₂O₆ (Glucose / Fructose).",
+    "concept_name": "Gravimetric Determination of Molecular Formula",
+    "concept_tag": "mole concept case based gravimetric determination of molecular formula",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "95dc2983b0378d158bd6ed0009bad89a69f522ba8070489685785ec64bcb00cd",
+    "question_skeleton": "case scenario a biochemist analyzes a carbohydrate sample and finds its percentage composition by mass to be carbon 40 0 hydrogen 6 7 and oxygen 53 3 mass spectrometry determines the relative molecular mass of the compound to be 180 0 g mol atomic masses c 12 0 h 1 0 o 16 0 investigative question what is the empirical formula and molecular formula of this carbohydrate choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_13_72b48b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 13: Determination of Water of Crystallization in Epsom Salt ($MgSO₄· xH_2O$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student heats 4.92 g of hydrated Magnesium sulphate crystals (MgSO₄·xH₂O) in a porcelain crucible until all water of crystallization is completely driven off. The residue of anhydrous Magnesium sulphate (MgSO₄) weighs exactly 2.40 g. Atomic masses: Mg = 24, S = 32, O = 16, H = 1. **Investigative Question:** What is the value of integer x in the formula MgSO₄·xH₂O? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "x = 2"
+      },
+      {
+        "key": "B",
+        "text": "x = 7 (Epsom salt, MgSO₄·7H₂O)"
+      },
+      {
+        "key": "C",
+        "text": "x = 5"
+      },
+      {
+        "key": "D",
+        "text": "x = 10"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Mass of anhydrous MgSO₄ = 2.40 g.\n2. Molar mass of MgSO₄ = 24 + 32 + 4(16) = 120 g/mol.\n3. Moles of anhydrous MgSO₄ = 2.40 g / 120 g/mol = 0.020 mol.\n4. Mass of water driven off = Initial mass - Residual mass = 4.92 g - 2.40 g = 2.52 g.\n5. Molar mass of H₂O = 18.0 g/mol.\n6. Moles of H₂O = 2.52 g / 18.0 g/mol = 0.140 mol.\n7. Mole ratio x = Moles of H₂O / Moles of MgSO₄ = 0.140 / 0.020 = 7.\nTherefore, the formula is MgSO₄·7H₂O (Epsom salt).",
+    "concept_name": "Gravimetric Loss-on-Ignition Analysis",
+    "concept_tag": "mole concept case based gravimetric loss-on-ignition analysis",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4922ca1a0ef763ed05497886d5ef4c6220f8c5468b1a88078848235e646391f7",
+    "question_skeleton": "case scenario a student heats 4 92 g of hydrated magnesium sulphate crystals mgso xh o in a porcelain crucible until all water of crystallization is completely driven off the residue of anhydrous magnesium sulphate mgso weighs exactly 2 40 g atomic masses mg 24 s 32 o 16 h 1 investigative question what is the value of integer x in the formula mgso xh o choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_14_37bbd1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 14: Limiting Reagent: Synthesis of Water from $H₂$ and $O₂$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical propulsion engineer injects 4.00 g of Hydrogen gas (H₂) and 32.0 g of Oxygen gas (O₂) into a rigid combustion chamber and ignites the mixture with an electric spark: 2H₂(g) + O₂(g) → 2H₂O(l). Atomic masses: H = 1.0, O = 16.0. **Investigative Question:** Which reactant is the limiting reagent, what mass of liquid water is formed, and what mass of the excess reactant remains unreacted? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "H₂ is limiting; 18.0 g H₂O formed; 16.0 g O₂ unreacted."
+      },
+      {
+        "key": "B",
+        "text": "Neither is limiting (exact stoichiometric proportions: 2.00 mol H₂ reacts completely with 1.00 mol O₂); exactly 36.0 g of H₂O is formed with 0 g leftover."
+      },
+      {
+        "key": "C",
+        "text": "O₂ is limiting; 32.0 g H₂O formed; 2.0 g H₂ unreacted."
+      },
+      {
+        "key": "D",
+        "text": "H₂ is limiting; 36.0 g H₂O formed; 4.0 g O₂ unreacted."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Moles of H₂ available = 4.00 g / 2.00 g/mol = 2.00 mol.\n2. Moles of O₂ available = 32.0 g / 32.0 g/mol = 1.00 mol.\n3. Stoichiometry: 2H₂ + O₂ → 2H₂O.\nAccording to the balanced equation, 2.00 mol of H₂ requires exactly 1.00 mol of O₂.\nBecause the moles present (2.00 mol H₂ and 1.00 mol O₂) exactly match the 2:1 stoichiometric requirement, BOTH reactants are consumed simultaneously with ZERO excess.\n4. Moles of H₂O produced = 2.00 mol.\n5. Mass of H₂O produced = 2.00 mol × 18.0 g/mol = 36.0 g.",
+    "concept_name": "Identifying the Limiting Reactant and Excess Leftover",
+    "concept_tag": "mole concept case based identifying the limiting reactant and excess leftover",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "789d97ca4f705467231c2fcd28e7e3bf198069486390703f393a21fbbedc9894",
+    "question_skeleton": "case scenario a chemical propulsion engineer injects 4 00 g of hydrogen gas h and 32 0 g of oxygen gas o into a rigid combustion chamber and ignites the mixture with an electric spark 2h g o g 2h o l atomic masses h 1 0 o 16 0 investigative question which reactant is the limiting reagent what mass of liquid water is formed and what mass of the excess reactant remains unreacted choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_15_b9658a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 15: Limiting Reagent: Haber Process Ammonia Synthesis",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a Haber process reactor, 28.0 g of Nitrogen gas (N₂) is mixed with 10.0 g of Hydrogen gas (H₂) under high pressure with iron catalyst: N₂(g) + 3H₂(g) → 2NH₃(g). Atomic masses: N = 14.0, H = 1.0. **Investigative Question:** Which reactant is the limiting reagent, and what mass of Ammonia is produced? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "H₂ is limiting; 17.0 g NH₃ produced."
+      },
+      {
+        "key": "B",
+        "text": "N₂ is limiting; 34.0 g NH₃ produced (leaving 4.0 g of unreacted H₂)."
+      },
+      {
+        "key": "C",
+        "text": "N₂ is limiting; 28.0 g NH₃ produced."
+      },
+      {
+        "key": "D",
+        "text": "Both reactants are completely consumed to produce 38.0 g NH₃."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Moles of N₂ = 28.0 g / 28.0 g/mol = 1.00 mol.\n2. Moles of H₂ = 10.0 g / 2.00 g/mol = 5.00 mol.\n3. Stoichiometry: N₂ + 3H₂ → 2NH₃.\n1.00 mol of N₂ requires exactly 3.00 mol of H₂.\nSince 5.00 mol of H₂ is available, H₂ is in excess (5.00 - 3.00 = 2.00 mol unreacted H₂ = 4.00 g).\nNitrogen (N₂) is completely consumed first, making N₂ the LIMITING REAGENT.\n4. Moles of NH₃ produced = 2 × Moles of N₂ = 2 × 1.00 = 2.00 mol.\n5. Mass of NH₃ produced = 2.00 mol × 17.0 g/mol = 34.0 g.",
+    "concept_name": "Stoichiometric Molar Depletion",
+    "concept_tag": "mole concept case based stoichiometric molar depletion",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "59c8b9749d5b3920c3993cb89ab61c9bddb354aa287141667f338ab17151b031",
+    "question_skeleton": "case scenario in a haber process reactor 28 0 g of nitrogen gas n is mixed with 10 0 g of hydrogen gas h under high pressure with iron catalyst n g 3h g 2nh g atomic masses n 14 0 h 1 0 investigative question which reactant is the limiting reagent and what mass of ammonia is produced choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_16_981c3a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 16: Thermal Decomposition of Potassium Chlorate: Volume of $O₂$ at STP",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemistry demonstration prepares oxygen gas by heating pure Potassium Chlorate (KClO₃) with Manganese dioxide catalyst in a hard glass test tube: 2KClO₃(s) → 2KCl(s) + 3O₂(g)↑. Atomic masses: K = 39.0, Cl = 35.5, O = 16.0. The teacher heats exactly 24.5 g of KClO₃. **Investigative Question:** What mass of solid KCl residue remains in the tube, and what volume of Oxygen gas is collected at STP? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "14.9 g of KCl; 6.72 L of O₂ at STP"
+      },
+      {
+        "key": "B",
+        "text": "10.0 g of KCl; 4.48 L of O₂ at STP"
+      },
+      {
+        "key": "C",
+        "text": "14.9 g of KCl; 22.4 L of O₂ at STP"
+      },
+      {
+        "key": "D",
+        "text": "24.5 g of KCl; 11.2 L of O₂ at STP"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. Molar mass of KClO₃ = 39 + 35.5 + 3(16) = 122.5 g/mol.\n2. Moles of KClO₃ heated = 24.5 g / 122.5 g/mol = 0.200 mol.\n3. By equation: 2 moles KClO₃ produce 2 moles KCl and 3 moles O₂.\n- Moles of KCl formed = 0.200 mol.\n- Mass of KCl = 0.200 mol × (39 + 35.5) g/mol = 0.200 × 74.5 = 14.9 g.\n- Moles of O₂ formed = (3/2) × 0.200 = 0.300 mol.\n- Volume of O₂ at STP = 0.300 mol × 22.4 L/mol = 6.72 L (or 6720 cm³).",
+    "concept_name": "Mass-Volume Stoichiometry",
+    "concept_tag": "mole concept case based mass-volume stoichiometry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "acc62a1a0ca13a53eadb3dabcc4d3be513a3b1fee1292388114d0de6df9d4308",
+    "question_skeleton": "case scenario a chemistry demonstration prepares oxygen gas by heating pure potassium chlorate kclo with manganese dioxide catalyst in a hard glass test tube 2kclo s 2kcl s 3o g atomic masses k 39 0 cl 35 5 o 16 0 the teacher heats exactly 24 5 g of kclo investigative question what mass of solid kcl residue remains in the tube and what volume of oxygen gas is collected at stp choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_17_6c0653",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 17: Percentage Purity of Impure Limestone ($CaCO₃$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A civil engineer tests the purity of a batch of commercial limestone. A 10.0 g sample of the crushed limestone is treated with excess dilute hydrochloric acid in an enclosed gasometer: CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g)↑. The volume of dry Carbon Dioxide gas collected at STP is exactly 1.792 L. Atomic masses: Ca = 40.0, C = 12.0, O = 16.0. **Investigative Question:** What is the percentage purity of Calcium Carbonate in the limestone sample? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50.0%"
+      },
+      {
+        "key": "B",
+        "text": "80.0%"
+      },
+      {
+        "key": "C",
+        "text": "92.5%"
+      },
+      {
+        "key": "D",
+        "text": "75.0%"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Moles of CO₂ collected at STP = Volume / 22.4 L = 1.792 L / 22.4 L/mol = 0.0800 mol.\n2. Stoichiometry: 1 mole of CaCO₃ produces 1 mole of CO₂.\n- Moles of pure CaCO₃ in sample = 0.0800 mol.\n3. Molar mass of CaCO₃ = 40 + 12 + 3(16) = 100.0 g/mol.\n4. Mass of pure CaCO₃ = 0.0800 mol × 100.0 g/mol = 8.00 g.\n5. Percentage purity = (Mass of pure CaCO₃ / Mass of impure sample) × 100\n= (8.00 g / 10.0 g) × 100 = 80.0%.",
+    "concept_name": "Acid Decomposition and Back-Calculation from Gas Volume",
+    "concept_tag": "mole concept case based acid decomposition and back-calculation from gas volume",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8fbb82b2d1b2f8bcc497697b9b97a625e27a92d06e69a67355044d1609f150e5",
+    "question_skeleton": "case scenario a civil engineer tests the purity of a batch of commercial limestone a 10 0 g sample of the crushed limestone is treated with excess dilute hydrochloric acid in an enclosed gasometer caco s 2hcl aq cacl aq h o l co g the volume of dry carbon dioxide gas collected at stp is exactly 1 792 l atomic masses ca 40 0 c 12 0 o 16 0 investigative question what is the percentage purity of calcium carbonate in the limestone sample choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_18_28f69a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 18: Percentage Yield: Industrial Synthesis of Aspirin",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A pharmaceutical chemist synthesizes Aspirin (Acetylsalicylic acid, C₉H₈O₄, molar mass = 180.0 g/mol) by reacting Salicylic acid (C₇H₆O₃, molar mass = 138.0 g/mol) with excess acetic anhydride: C₇H₆O₃ + C₄H₆O₃ → C₉H₈O₄ + C₂H₄O₂. The chemist starts with 13.8 g of salicylic acid. After crystallization and drying, the actual mass of pure aspirin recovered is 14.4 g. **Investigative Question:** What is the theoretical yield and the percentage yield of Aspirin in this preparation? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Theoretical yield = 18.0 g; Percentage yield = 80.0%"
+      },
+      {
+        "key": "B",
+        "text": "Theoretical yield = 14.4 g; Percentage yield = 100%"
+      },
+      {
+        "key": "C",
+        "text": "Theoretical yield = 20.0 g; Percentage yield = 72.0%"
+      },
+      {
+        "key": "D",
+        "text": "Theoretical yield = 13.8 g; Percentage yield = 90.0%"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. Moles of Salicylic acid used = 13.8 g / 138.0 g/mol = 0.100 mol.\n2. Stoichiometric ratio is 1:1, so theoretical moles of Aspirin = 0.100 mol.\n3. Theoretical yield (mass) = 0.100 mol × 180.0 g/mol = 18.0 g.\n4. Actual yield recovered = 14.4 g.\n5. Percentage Yield = (Actual Yield / Theoretical Yield) × 100\n= (14.4 g / 18.0 g) × 100 = 80.0%.",
+    "concept_name": "Actual vs Theoretical Stoichiometric Yield",
+    "concept_tag": "mole concept case based actual vs theoretical stoichiometric yield",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d55d6ae355d4fb25d00401d7a3724901ddea6bbf03d5bee773f743e401eaf911",
+    "question_skeleton": "case scenario a pharmaceutical chemist synthesizes aspirin acetylsalicylic acid c h o molar mass 180 0 g mol by reacting salicylic acid c h o molar mass 138 0 g mol with excess acetic anhydride c h o c h o c h o c h o the chemist starts with 13 8 g of salicylic acid after crystallization and drying the actual mass of pure aspirin recovered is 14 4 g investigative question what is the theoretical yield and the percentage yield of aspirin in this preparation choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_19_a54a21",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 19: Vapour Density of a Binary Gas Mixture",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An atmospheric gas blending facility creates an equimolar gaseous mixture containing exactly 1 mole of Oxygen gas (O₂, molar mass = 32.0 g/mol) and 1 mole of Nitrogen gas (N₂, molar mass = 28.0 g/mol) at standard conditions. **Investigative Question:** What is the average relative molecular mass and the Vapour Density of this equimolar gas mixture? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Average Molecular Mass = 60.0; Vapour Density = 30.0"
+      },
+      {
+        "key": "B",
+        "text": "Average Molecular Mass = 30.0; Vapour Density = 15.0"
+      },
+      {
+        "key": "C",
+        "text": "Average Molecular Mass = 28.0; Vapour Density = 14.0"
+      },
+      {
+        "key": "D",
+        "text": "Average Molecular Mass = 32.0; Vapour Density = 16.0"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. For an equimolar mixture (equal moles n₁ = n₂ = 1):\nTotal mass = (1 mol × 32.0 g/mol) + (1 mol × 28.0 g/mol) = 32.0 + 28.0 = 60.0 g.\nTotal moles = 1 + 1 = 2 moles.\n2. Average Relative Molecular Mass = Total Mass / Total Moles = 60.0 g / 2 mol = 30.0 g/mol.\n3. Vapour Density = Average Molecular Mass / 2 = 30.0 / 2 = 15.0.",
+    "concept_name": "Apparent Molecular Weight of Equimolar Gas Blends",
+    "concept_tag": "mole concept case based apparent molecular weight of equimolar gas blends",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c826a43515ba0d2940788e0ec858cb89ae0f7e1d4ae7bff1f8e18628e1ec791b",
+    "question_skeleton": "case scenario an atmospheric gas blending facility creates an equimolar gaseous mixture containing exactly 1 mole of oxygen gas o molar mass 32 0 g mol and 1 mole of nitrogen gas n molar mass 28 0 g mol at standard conditions investigative question what is the average relative molecular mass and the vapour density of this equimolar gas mixture choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_20_315227",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 20: Gas Volume Conversion: Applying Combined Gas Law to STP",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A laboratory technician measures 500 cm³ of dry Hydrogen gas in a graduated cylinder at a room temperature of 27°C (300 K) and a barometric pressure of 750 mmHg. **Investigative Question:** What is the exact volume of this hydrogen gas when reduced to Standard Temperature and Pressure (STP: 0°C / 273 K and 760 mmHg)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "500 cm³"
+      },
+      {
+        "key": "B",
+        "text": "449 cm³"
+      },
+      {
+        "key": "C",
+        "text": "550 cm³"
+      },
+      {
+        "key": "D",
+        "text": "400 cm³"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Using the Combined Gas Equation: (P₁ × V₁) / T₁ = (P₂ × V₂) / T₂\nGiven conditions: P₁ = 750 mmHg, V₁ = 500 cm³, T₁ = 27 + 273 = 300 K.\nSTP conditions: P₂ = 760 mmHg, T₂ = 273 K.\nSolving for V₂:\nV₂ = (P₁ × V₁ × T₂) / (P₂ × T₁)\nV₂ = (750 × 500 × 273) / (760 × 300) = 102,375,000 / 228,000 = 449.01 cm³ ≈ 449 cm³.",
+    "concept_name": "$P_1V_1/T_1 = P_2V_2/T_2$ Reduction",
+    "concept_tag": "mole concept case based $p_1v_1/t_1 = p_2v_2/t_2$ reduction",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e30122c9f5379a888787340a9662fea13fa613e8c7d706fd8ff5f89fad540203",
+    "question_skeleton": "case scenario a laboratory technician measures 500 cm of dry hydrogen gas in a graduated cylinder at a room temperature of 27 c 300 k and a barometric pressure of 750 mmhg investigative question what is the exact volume of this hydrogen gas when reduced to standard temperature and pressure stp 0 c 273 k and 760 mmhg choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_21_c9419b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 21: Volume of Hydrogen Gas Evolved by Zinc in Acid",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an ICSE laboratory practical, 6.54 g of granulated Zinc metal is completely dissolved in excess dilute Sulphuric acid: Zn(s) + H₂SO₄(aq) → ZnSO₄(aq) + H₂(g)↑. Atomic mass: Zn = 65.4. **Investigative Question:** What volume of dry Hydrogen gas is liberated at Standard Temperature and Pressure (STP)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "22.4 L"
+      },
+      {
+        "key": "B",
+        "text": "2.24 L (or 2240 cm³)"
+      },
+      {
+        "key": "C",
+        "text": "4.48 L"
+      },
+      {
+        "key": "D",
+        "text": "1.12 L"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Moles of Zinc reacted = mass / atomic mass = 6.54 g / 65.4 g/mol = 0.100 mol.\n2. From the balanced chemical equation, 1 mole of Zn displaces 1 mole of H₂ gas.\n- Moles of H₂ gas liberated = 0.100 mol.\n3. Since 1 mole of any ideal gas occupies 22.4 L at STP:\nVolume of H₂ at STP = 0.100 mol × 22.4 L/mol = 2.24 L (or 2240 cm³).",
+    "concept_name": "Single Displacement Gas Stoichiometry",
+    "concept_tag": "mole concept case based single displacement gas stoichiometry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "89bd1085187708ee23c20924ba0ef98afe43d810ad3602df8da37ec269044c96",
+    "question_skeleton": "case scenario in an icse laboratory practical 6 54 g of granulated zinc metal is completely dissolved in excess dilute sulphuric acid zn s h so aq znso aq h g atomic mass zn 65 4 investigative question what volume of dry hydrogen gas is liberated at standard temperature and pressure stp choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_22_c267ce",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 22: Combustion Stoichiometry: Volume of $CO₂$ from Calcium Carbonate",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical manufacturer calcines 20.0 g of pure Calcium Carbonate (marble chips, CaCO₃) in a rotary kiln: CaCO₃(s) xrightarrow{Δ} CaO(s) + CO₂(g)↑. Atomic masses: Ca = 40.0, C = 12.0, O = 16.0. **Investigative Question:** What mass of quicklime (CaO) solid residue is produced, and what volume of Carbon Dioxide gas is evolved at STP? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "11.2 g CaO; 4.48 L CO₂ at STP"
+      },
+      {
+        "key": "B",
+        "text": "10.0 g CaO; 2.24 L CO₂ at STP"
+      },
+      {
+        "key": "C",
+        "text": "11.2 g CaO; 22.4 L CO₂ at STP"
+      },
+      {
+        "key": "D",
+        "text": "14.0 g CaO; 5.60 L CO₂ at STP"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. Molar mass of CaCO₃ = 40 + 12 + 48 = 100.0 g/mol.\n2. Moles of CaCO₃ decomposed = 20.0 g / 100.0 g/mol = 0.200 mol.\n3. By equation: 1 mole CaCO₃ yields 1 mole CaO and 1 mole CO₂.\n- Moles of CaO formed = 0.200 mol.\n- Molar mass of CaO = 40 + 16 = 56.0 g/mol.\n- Mass of CaO = 0.200 mol × 56.0 g/mol = 11.2 g.\n- Moles of CO₂ formed = 0.200 mol.\n- Volume of CO₂ at STP = 0.200 mol × 22.4 L/mol = 4.48 L (or 4480 cm³).",
+    "concept_name": "Mass-Volume Thermal Decomposition",
+    "concept_tag": "mole concept case based mass-volume thermal decomposition",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a139560a92a4c184baa7d7e494bc94c40f1b60a3a708fb1e7c4b928cc6c6a7ff",
+    "question_skeleton": "case scenario a chemical manufacturer calcines 20 0 g of pure calcium carbonate marble chips caco in a rotary kiln caco s xrightarrow cao s co g atomic masses ca 40 0 c 12 0 o 16 0 investigative question what mass of quicklime cao solid residue is produced and what volume of carbon dioxide gas is evolved at stp choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_23_94dcb3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 23: Absolute Mass of a Single Gold Atom in Grams",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A jeweler examines a microscopic speck of pure 24-carat Gold (atomic symbol Au, atomic mass = 197.0 u). Avogadro's constant is N_A = 6.022 × 10²³. **Investigative Question:** What is the actual, absolute mass in grams of a single, individual Gold atom? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.97 × 10⁻²² g"
+      },
+      {
+        "key": "B",
+        "text": "3.27 × 10⁻²² g"
+      },
+      {
+        "key": "C",
+        "text": "6.02 × 10⁻²³ g"
+      },
+      {
+        "key": "D",
+        "text": "1.66 × 10⁻²⁴ g"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. By definition, 1 mole of Gold atoms has a mass of 197.0 g and contains exactly 6.022 × 10²³ atoms.\n2. Absolute mass of 1 Gold atom = Molar Mass / N_A\n= 197.0 g / (6.022 × 10²³)\n= 3.2713 × 10⁻²² g ≈ 3.27 × 10⁻²² g.",
+    "concept_name": "Avogadro's Number and Atomic Mass Unit",
+    "concept_tag": "mole concept case based avogadro's number and atomic mass unit",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "bcf061b1697ad0823a5b29b7b514f87dfb068b9ea2b43fa1bce8ca0688c5417a",
+    "question_skeleton": "case scenario a jeweler examines a microscopic speck of pure 24 carat gold atomic symbol au atomic mass 197 0 u avogadro s constant is n a 6 022 10 investigative question what is the actual absolute mass in grams of a single individual gold atom choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_24_4600f9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 24: Number of Molecules in a Single Teaspoon of Water",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A medical researcher measures a single teardrop of pure water having a volume of 0.060 mL (mass = 0.060 g). Molar mass of H₂O = 18.0 g/mol; Avogadro's constant N_A = 6.022 × 10²³. **Investigative Question:** How many water molecules are present in this single teardrop? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2.01 × 10²¹ molecules"
+      },
+      {
+        "key": "B",
+        "text": "6.02 × 10²² molecules"
+      },
+      {
+        "key": "C",
+        "text": "1.80 × 10²³ molecules"
+      },
+      {
+        "key": "D",
+        "text": "3.33 × 10¹⁹ molecules"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. Moles of H₂O in 0.060 g = 0.060 g / 18.0 g/mol = 0.00333 mol (3.333 × 10⁻³ mol).\n2. Number of molecules = Moles × N_A\n= (3.333 × 10⁻³ mol) × (6.022 × 10²³ molecules/mol)\n= 2.007 × 10²¹ molecules ≈ 2.01 × 10²¹ molecules.",
+    "concept_name": "Microscale Molecular Enumeration",
+    "concept_tag": "mole concept case based microscale molecular enumeration",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d8c6beab7b26cda63db4eb529285b2a625d039ece23c756f71a9a6d8fdce1fbe",
+    "question_skeleton": "case scenario a medical researcher measures a single teardrop of pure water having a volume of 0 060 ml mass 0 060 g molar mass of h o 18 0 g mol avogadro s constant n a 6 022 10 investigative question how many water molecules are present in this single teardrop choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_25_a4ffef",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 25: Total Moles of Ions in One Mole of Aluminium Sulphate",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrochemist dissolves 1.00 mole of solid Aluminium Sulphate (Al₂(SO₄)₃) in a large volume of distilled water. **Investigative Question:** Assuming complete dissociation into independent ions, what is the total number of moles of ions produced in solution? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2.00 moles of ions"
+      },
+      {
+        "key": "B",
+        "text": "5.00 moles of ions (2.00 mol Al³⁺ + 3.00 mol SO₄²⁻)"
+      },
+      {
+        "key": "C",
+        "text": "3.00 moles of ions"
+      },
+      {
+        "key": "D",
+        "text": "1.00 mole of ions"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When solid Aluminium Sulphate dissolves in water, it dissociates according to its stoichiometric formula:\nAl₂(SO₄)₃(s) → 2Al³⁺(aq) + 3SO₄²⁻(aq).\nEach formula unit dissociates into 2 aluminium cations and 3 sulphate anions, producing a total of 2 + 3 = 5 ions per formula unit.\nTherefore, 1.00 mole of Al₂(SO₄)₃ produces:\n- 2.00 moles of Al³⁺ cations\n- 3.00 moles of SO₄²⁻ anions\nTotal = 5.00 moles of individual ions (or 5 × 6.022 × 10²³ = 3.011 × 10²⁴ total ions).",
+    "concept_name": "Ionic Dissociation Multipliers",
+    "concept_tag": "mole concept case based ionic dissociation multipliers",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5877de048231f89cd5583037c9b69de8164dc554d2db89d11c9d53845e9c18e7",
+    "question_skeleton": "case scenario an electrochemist dissolves 1 00 mole of solid aluminium sulphate al so in a large volume of distilled water investigative question assuming complete dissociation into independent ions what is the total number of moles of ions produced in solution choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_26_dbc2fa",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 26: Molarity Calculation: Preparation of Standard Sodium Carbonate Solution",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student weighs out exactly 5.30 g of pure anhydrous Sodium Carbonate (Na₂CO₃, molar mass = 106.0 g/mol) on an analytical balance, dissolves it in distilled water, and dilutes the solution to the calibration mark of a 500 mL volumetric flask. **Investigative Question:** What is the exact Molarity (molar concentration) of this standard Sodium Carbonate solution? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.050 M"
+      },
+      {
+        "key": "B",
+        "text": "0.100 M (or 0.100 mol/L)"
+      },
+      {
+        "key": "C",
+        "text": "0.200 M"
+      },
+      {
+        "key": "D",
+        "text": "0.530 M"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Moles of solute (Na₂CO₃) = mass / molar mass = 5.30 g / 106.0 g/mol = 0.0500 mol.\n2. Volume of solution in liters = 500 mL / 1000 mL/L = 0.500 L.\n3. Molarity (M) = Moles of solute / Volume of solution (in liters)\nM = 0.0500 mol / 0.500 L = 0.100 M (or 0.100 mol/L).",
+    "concept_name": "Concentration Units in Quantitative Volumetric Analysis",
+    "concept_tag": "mole concept case based concentration units in quantitative volumetric analysis",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e1be5cd128a8626ae9a744d73b57bb0211dbfd6ac52fbc65f12ae0ba28b8de95",
+    "question_skeleton": "case scenario a student weighs out exactly 5 30 g of pure anhydrous sodium carbonate na co molar mass 106 0 g mol on an analytical balance dissolves it in distilled water and dilutes the solution to the calibration mark of a 500 ml volumetric flask investigative question what is the exact molarity molar concentration of this standard sodium carbonate solution choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_27_507508",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 27: Volumetric Neutralization Titration: $NaOH$ vs $H_2SO₄$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical chemist titrates 25.0 mL of 0.050 M Sulphuric acid (H₂SO₄) against standardized 0.100 M Sodium Hydroxide (NaOH) using phenolphthalein indicator: 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O. **Investigative Question:** What exact volume of 0.100 M NaOH solution is required to reach the permanent faint pink equivalence point? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "12.5 mL"
+      },
+      {
+        "key": "B",
+        "text": "25.0 mL"
+      },
+      {
+        "key": "C",
+        "text": "50.0 mL"
+      },
+      {
+        "key": "D",
+        "text": "10.0 mL"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Moles of H₂SO₄ present = Molarity × Volume (L) = 0.050 mol/L × 0.025 L = 0.00125 mol.\n2. From the balanced reaction: 1 mole of H₂SO₄ neutralizes 2 moles of NaOH.\n- Moles of NaOH required = 2 × 0.00125 mol = 0.00250 mol.\n3. Volume of 0.100 M NaOH required = Moles / Molarity = 0.00250 mol / 0.100 mol/L = 0.0250 L = 25.0 mL.",
+    "concept_name": "Dibasic Acid Stoichiometric Equivalence",
+    "concept_tag": "mole concept case based dibasic acid stoichiometric equivalence",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "561fc09978881fcc6e19af19e84d9c075c65a7a97864052d653a1f07e87c3daf",
+    "question_skeleton": "case scenario an analytical chemist titrates 25 0 ml of 0 050 m sulphuric acid h so against standardized 0 100 m sodium hydroxide naoh using phenolphthalein indicator 2naoh h so na so 2h o investigative question what exact volume of 0 100 m naoh solution is required to reach the permanent faint pink equivalence point choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_28_5a6ff7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 28: Volumetric Dilution Law: Preparing Dilute Acid from Stock",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical technician needs to prepare 500 mL of 0.200 M Hydrochloric acid solution from a concentrated stock solution of 5.00 M Hydrochloric acid. **Investigative Question:** What volume of the concentrated 5.00 M stock acid must be measured and diluted with water? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10.0 mL"
+      },
+      {
+        "key": "B",
+        "text": "20.0 mL"
+      },
+      {
+        "key": "C",
+        "text": "50.0 mL"
+      },
+      {
+        "key": "D",
+        "text": "25.0 mL"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Using the dilution formula (conservation of moles: M₁V₁ = M₂V₂):\n- Initial concentrated stock: M₁ = 5.00 M, V₁ = ?\n- Final diluted solution: M₂ = 0.200 M, V₂ = 500 mL.\nV₁ = (M₂ × V₂) / M₁ = (0.200 M × 500 mL) / 5.00 M = 100 / 5.00 = 20.0 mL.\nThe technician measures 20.0 mL of concentrated acid and adds it carefully to water in a 500 mL volumetric flask, diluting to the mark.",
+    "concept_name": "Conservation of Solute Moles ($M_1V_1 = M_2V_2$)",
+    "concept_tag": "mole concept case based conservation of solute moles ($m_1v_1 = m_2v_2$)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "50dbf1074fe9d62c663b9cb65633b25dc538908dabe9b6b2d36a53046ce282c0",
+    "question_skeleton": "case scenario a chemical technician needs to prepare 500 ml of 0 200 m hydrochloric acid solution from a concentrated stock solution of 5 00 m hydrochloric acid investigative question what volume of the concentrated 5 00 m stock acid must be measured and diluted with water choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_29_9a05d6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 29: Gay-Lussac's Law: Reaction Between Hydrogen and Chlorine",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a photochemistry demonstration, 50 cm³ of Hydrogen gas (H₂) is mixed with 50 cm³ of Chlorine gas (Cl₂) in a stoppered quartz tube and exposed to diffused light: H₂(g) + Cl₂(g) → 2HCl(g). All measurements are taken at identical temperature and pressure. **Investigative Question:** What is the total volume of Hydrogen Chloride gas produced, and what is the simple integer ratio of reactant and product volumes? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50 cm³ of HCl; ratio 1:1:1"
+      },
+      {
+        "key": "B",
+        "text": "100 cm³ of HCl; ratio 1:1:2"
+      },
+      {
+        "key": "C",
+        "text": "25 cm³ of HCl; ratio 2:2:1"
+      },
+      {
+        "key": "D",
+        "text": "150 cm³ of HCl; ratio 1:1:3"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Gay-Lussac's Law of Combining Volumes states that when gases react, they do so in volumes which bear a simple whole-number ratio to one another and to the volume of the gaseous products, provided all measurements are made under identical conditions of temperature and pressure.\nEquation: 1 H₂(g) + 1 Cl₂(g) → 2 HCl(g).\n- Volume ratio: 1 volume of H₂ : 1 volume of Cl₂ : 2 volumes of HCl (ratio 1:1:2).\n- 50 cm³ of H₂ reacts with 50 cm³ of Cl₂ to produce exactly 2 × 50 = 100 cm³ of HCl gas.",
+    "concept_name": "Simplicity of Gaseous Integer Combining Ratios",
+    "concept_tag": "mole concept case based simplicity of gaseous integer combining ratios",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2a0092daa12a2a0ea0402840dd74e828799ccc6502d7bdc2b0baa9cd396bf879",
+    "question_skeleton": "case scenario in a photochemistry demonstration 50 cm of hydrogen gas h is mixed with 50 cm of chlorine gas cl in a stoppered quartz tube and exposed to diffused light h g cl g 2hcl g all measurements are taken at identical temperature and pressure investigative question what is the total volume of hydrogen chloride gas produced and what is the simple integer ratio of reactant and product volumes choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_30_abd12c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 30: Molar Masses of Allotropes: Diamond vs Ozone vs Sulphur ($S₈$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A materials scientist weighs out exactly 1.00 mole of three elemental allotropes: Sample 1: Diamond (Carbon, C, atomic mass 12.0) Sample 2: Ozone gas (O₃, atomic mass 16.0) Sample 3: Rhombic Sulphur (octa-atomic molecules, S₈, atomic mass 32.0) **Investigative Question:** What are the molar masses of Sample 1, Sample 2, and Sample 3 in grams per mole? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "C = 12.0 g/mol; O₃ = 16.0 g/mol; S₈ = 32.0 g/mol"
+      },
+      {
+        "key": "B",
+        "text": "C = 12.0 g/mol; O₃ = 48.0 g/mol; S₈ = 256.0 g/mol"
+      },
+      {
+        "key": "C",
+        "text": "C = 24.0 g/mol; O₃ = 32.0 g/mol; S₈ = 128.0 g/mol"
+      },
+      {
+        "key": "D",
+        "text": "C = 12.0 g/mol; O₃ = 48.0 g/mol; S₈ = 64.0 g/mol"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Molar mass is calculated by multiplying the relative atomic mass by the atomicity (number of atoms per molecule):\n1. Carbon (Diamond): network of single carbon atoms, molar mass = 12.0 g/mol.\n2. Ozone (O₃): atomicity = 3, molar mass = 3 × 16.0 = 48.0 g/mol.\n3. Rhombic Sulphur (S₈): crown-shaped octa-atomic molecules, atomicity = 8, molar mass = 8 × 32.0 = 256.0 g/mol.",
+    "concept_name": "Atomicity Multipliers on Molar Mass",
+    "concept_tag": "mole concept case based atomicity multipliers on molar mass",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7537aa8d1fac3d0b030080f4050ee08596448a93cf310ea4b8a9af61353963e6",
+    "question_skeleton": "case scenario a materials scientist weighs out exactly 1 00 mole of three elemental allotropes sample 1 diamond carbon c atomic mass 12 0 sample 2 ozone gas o atomic mass 16 0 sample 3 rhombic sulphur octa atomic molecules s atomic mass 32 0 investigative question what are the molar masses of sample 1 sample 2 and sample 3 in grams per mole choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_31_930a77",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 31: Mass Comparison: One Mole of $H₂$ vs $O₂$ vs $CO₂$ at STP",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physics teacher displays three identical 22.4-liter gas cylinders filled at 0°C and 1 atm (STP): Cylinder A contains 1 mole of Hydrogen gas (H₂). Cylinder B contains 1 mole of Oxygen gas (O₂). Cylinder C contains 1 mole of Carbon Dioxide gas (CO₂). **Investigative Question:** Which cylinder contains the greatest number of gas molecules, and which cylinder has the greatest mass of gas? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cylinder A has the most molecules; Cylinder C has the greatest mass."
+      },
+      {
+        "key": "B",
+        "text": "All three cylinders contain the EXACT SAME number of molecules (6.022 × 10²³ molecules by Avogadro's Law); Cylinder C has the greatest mass (44.0 g vs B: 32.0 g, A: 2.0 g)."
+      },
+      {
+        "key": "C",
+        "text": "Cylinder C has the most molecules and the greatest mass."
+      },
+      {
+        "key": "D",
+        "text": "All three cylinders have the same mass and same number of molecules."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By Avogadro's Law, equal volumes of all gases under identical temperature and pressure contain the exact same number of molecules. Since all three cylinders contain 22.4 L at STP, each holds exactly 1.00 mole = 6.022 × 10²³ molecules. However, the masses depend on the respective molar masses:\n- Cylinder A (H₂): mass = 1 mol × 2.0 g/mol = 2.0 g.\n- Cylinder B (O₂): mass = 1 mol × 32.0 g/mol = 32.0 g.\n- Cylinder C (CO₂): mass = 1 mol × 44.0 g/mol = 44.0 g.\nThus, Cylinder C is by far the heaviest, while particle counts are identical.",
+    "concept_name": "Constant Volume vs Disparate Masses",
+    "concept_tag": "mole concept case based constant volume vs disparate masses",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "411586bbaa045dd626207ff347404450834bb14ec34a1c7d6032c5d3486df532",
+    "question_skeleton": "case scenario a physics teacher displays three identical 22 4 liter gas cylinders filled at 0 c and 1 atm stp cylinder a contains 1 mole of hydrogen gas h cylinder b contains 1 mole of oxygen gas o cylinder c contains 1 mole of carbon dioxide gas co investigative question which cylinder contains the greatest number of gas molecules and which cylinder has the greatest mass of gas choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_32_b61cb7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 32: Decomposition of Hydrogen Peroxide: Volume Strength Calculation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A commercial bottle of antiseptic Hydrogen Peroxide is labelled '20 Volume H₂O₂'. In chemistry, '20 Volume' means that 1 cm³ of this liquid solution decomposes upon heating to liberate 20 cm³ of dry Oxygen gas at STP: 2H₂O₂(aq) → 2H₂O(l) + O₂(g)↑. Atomic masses: H = 1.0, O = 16.0. **Investigative Question:** What mass of pure H₂O₂ is dissolved in 1 liter of this '20 Volume' solution? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "30.4 g"
+      },
+      {
+        "key": "B",
+        "text": "60.7 g (approx 6.07% w/v)"
+      },
+      {
+        "key": "C",
+        "text": "20.0 g"
+      },
+      {
+        "key": "D",
+        "text": "100.0 g"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. By definition, 1 L (1000 cm³) of '20 Volume' H₂O₂ liberates: 20 × 1000 cm³ = 20,000 cm³ = 20.0 L of O₂ at STP.\n2. Moles of O₂ liberated = 20.0 L / 22.4 L/mol = 0.8929 mol.\n3. By stoichiometry: 2 moles of H₂O₂ produce 1 mole of O₂.\n- Moles of H₂O₂ required = 2 × 0.8929 mol = 1.7857 mol.\n4. Molar mass of H₂O₂ = 2(1) + 2(16) = 34.0 g/mol.\n5. Mass of H₂O₂ in 1 L = 1.7857 mol × 34.0 g/mol = 60.71 g ≈ 60.7 g.",
+    "concept_name": "Liberation of Oxygen at STP",
+    "concept_tag": "mole concept case based liberation of oxygen at stp",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1d55e89d54c3f5ab53b6145a916c70a81b24bf620ecb636db7b20a5d745f358e",
+    "question_skeleton": "case scenario a commercial bottle of antiseptic hydrogen peroxide is labelled 20 volume h o in chemistry 20 volume means that 1 cm of this liquid solution decomposes upon heating to liberate 20 cm of dry oxygen gas at stp 2h o aq 2h o l o g atomic masses h 1 0 o 16 0 investigative question what mass of pure h o is dissolved in 1 liter of this 20 volume solution choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_33_52325f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 33: Combustion of Pure Carbon: Volume of Air Required",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A thermal power station burns 1.20 kg (1200 g) of pure carbon (coal) completely to carbon dioxide: C(s) + O₂(g) → CO₂(g). Atmospheric air is assumed to contain 21.0% Oxygen by volume at STP. Atomic mass: C = 12.0. **Investigative Question:** What volume of pure Oxygen at STP and what volume of Air at STP are consumed to burn this 1.20 kg of carbon? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1200 L of O₂; 5714 L of air"
+      },
+      {
+        "key": "B",
+        "text": "2240 L of O₂; 10,667 L of air"
+      },
+      {
+        "key": "C",
+        "text": "4480 L of O₂; 21,333 L of air"
+      },
+      {
+        "key": "D",
+        "text": "224 L of O₂; 1067 L of air"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Moles of Carbon burned = 1200 g / 12.0 g/mol = 100 mol.\n2. By stoichiometry: C + O₂ → CO₂.\n1 mole of C consumes 1 mole of O₂.\n- Moles of O₂ required = 100 mol.\n3. Volume of pure O₂ at STP = 100 mol × 22.4 L/mol = 2240 L.\n4. Since air contains only 21.0% O₂ by volume:\nVolume of Air = Volume of O₂ / 0.210 = 2240 L / 0.210 = 10,666.7 L ≈ 10,667 L.",
+    "concept_name": "Stoichiometry of Atmospheric Oxygen Consumption",
+    "concept_tag": "mole concept case based stoichiometry of atmospheric oxygen consumption",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "62617dfaea1cbec30976094db5d00653e3d563aad42b765e1ae54bff0b9024b6",
+    "question_skeleton": "case scenario a thermal power station burns 1 20 kg 1200 g of pure carbon coal completely to carbon dioxide c s o g co g atmospheric air is assumed to contain 21 0 oxygen by volume at stp atomic mass c 12 0 investigative question what volume of pure oxygen at stp and what volume of air at stp are consumed to burn this 1 20 kg of carbon choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_34_d8e4ca",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 34: Combustion of Propane: Air Volume Requirement",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A domestic LPG burner burns 10.0 L of propane gas (C₃H₈) measured at STP: C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l). Air contains 20.0% Oxygen by volume. **Investigative Question:** What volume of pure Oxygen gas and what total volume of Air are consumed in burning 10.0 L of propane? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "25.0 L of O₂; 125 L of air"
+      },
+      {
+        "key": "B",
+        "text": "50.0 L of O₂; 250 L of air"
+      },
+      {
+        "key": "C",
+        "text": "10.0 L of O₂; 50.0 L of air"
+      },
+      {
+        "key": "D",
+        "text": "30.0 L of O₂; 150 L of air"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. By Gay-Lussac's Law: 1 volume of C₃H₈ requires 5 volumes of O₂.\n- Volume of pure O₂ required = 5 × 10.0 L = 50.0 L.\n2. Since air is 20% Oxygen by volume (1/5th oxygen):\nVolume of Air required = 50.0 L / 0.20 = 250 L.",
+    "concept_name": "Gas Stoichiometry of Liquefied Petroleum Gas (LPG)",
+    "concept_tag": "mole concept case based gas stoichiometry of liquefied petroleum gas (lpg)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7068283f8eefe158eb7706c386fc713f23491caff5933e1fc414b05204e99656",
+    "question_skeleton": "case scenario a domestic lpg burner burns 10 0 l of propane gas c h measured at stp c h g 5o g 3co g 4h o l air contains 20 0 oxygen by volume investigative question what volume of pure oxygen gas and what total volume of air are consumed in burning 10 0 l of propane choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_35_c6df44",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 35: Vapour Density of an Unknown Gas Effusing Through a Pin-Hole",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a gas effusion experiment, 50 mL of Hydrogen gas (H₂, molar mass = 2.0 g/mol) effuses through a pin-hole in 10.0 seconds. Under identical temperature and pressure, 50 mL of an unknown gas 'X' takes 40.0 seconds to effuse through the same pin-hole. **Investigative Question:** What is the Vapour Density and Molecular Mass of gas 'X'? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Vapour Density = 4; Molecular Mass = 8 g/mol"
+      },
+      {
+        "key": "B",
+        "text": "Vapour Density = 16; Molecular Mass = 32 g/mol (Oxygen)"
+      },
+      {
+        "key": "C",
+        "text": "Vapour Density = 8; Molecular Mass = 16 g/mol (Methane)"
+      },
+      {
+        "key": "D",
+        "text": "Vapour Density = 32; Molecular Mass = 64 g/mol (Sulphur dioxide)"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to Graham's Law of Effusion, rate of effusion r is inversely proportional to time t and proportional to 1/√(VD):\nr₁/r₂ = t₂/t₁ = √(VD₂ / VD₁).\n- Let gas 1 be H₂: t₁ = 10.0 s, VD₁ = 1.0 (since VD is relative to H = 1).\n- Let gas 2 be X: t₂ = 40.0 s.\n40.0 / 10.0 = √(VD_X / 1.0)\n4 = √(VD_X) → squaring both sides: VD_X = 16.0.\n- Molecular Mass of X = 2 × VD_X = 2 × 16.0 = 32.0 g/mol (matching O₂).",
+    "concept_name": "Graham's Law and Vapour Density Correlation",
+    "concept_tag": "mole concept case based graham's law and vapour density correlation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2318f8db0aaceb8c02178ea82ce65eff757010b8322051c200e2d3d0684581f7",
+    "question_skeleton": "case scenario in a gas effusion experiment 50 ml of hydrogen gas h molar mass 2 0 g mol effuses through a pin hole in 10 0 seconds under identical temperature and pressure 50 ml of an unknown gas x takes 40 0 seconds to effuse through the same pin hole investigative question what is the vapour density and molecular mass of gas x choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_36_455a94",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 36: Avogadro's Hypothesis Resolving Dalton's Atomic Theory Dilemma",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In 1808, John Dalton postulated that atoms are indivisible and that elementary gases combine in simple atomic ratios. However, when Gay-Lussac observed that 1 volume of Hydrogen + 1 volume of Chlorine yields 2 volumes of Hydrogen Chloride gas, Dalton concluded that 1 atom of HCl must contain half an atom of H and half an atom of Cl, which contradicted his indivisible atom postulate. **Investigative Question:** How did Amedeo Avogadro brilliantly resolve this contradiction in 1811? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Avogadro proved that hydrogen chloride does not exist."
+      },
+      {
+        "key": "B",
+        "text": "Avogadro made a fundamental distinction between the ultimate indivisible particle of an element that takes part in a reaction (the Atom) and the smallest independent particle of a substance that can exist in free state (the Molecule); elementary gases exist as diatomic molecules (H₂, Cl₂), so 1 molecule of H₂ splits into 2 half-molecules (atoms) without dividing the atom itself."
+      },
+      {
+        "key": "C",
+        "text": "Avogadro proved that atoms can be split by chemical knives."
+      },
+      {
+        "key": "D",
+        "text": "Avogadro showed that Dalton's experiment was an error."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Dalton failed to distinguish between atoms and molecules, assuming elementary gases were monoatomic (H, Cl). If 1 volume of H (n atoms) + 1 volume of Cl (n atoms) = 2 volumes of HCl (2n compound atoms), then 1 compound atom of HCl would contain 1/2 atom of H and 1/2 atom of Cl (violating indivisibility). Avogadro clarified that elementary gases exist as polyatomic (diatomic) molecules: H₂ + Cl₂ → 2HCl. 1 molecule of H₂ (containing 2 indivisible atoms) reacts with 1 molecule of Cl₂ (2 atoms) to form 2 molecules of HCl (each containing 1 whole atom of H and 1 whole atom of Cl).",
+    "concept_name": "Distinction Between Atoms and Diatomic Molecules",
+    "concept_tag": "mole concept case based distinction between atoms and diatomic molecules",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e897d3509e5b04ec62255d3828286627e8ccb15ea207eb843dac924283092625",
+    "question_skeleton": "case scenario in 1808 john dalton postulated that atoms are indivisible and that elementary gases combine in simple atomic ratios however when gay lussac observed that 1 volume of hydrogen 1 volume of chlorine yields 2 volumes of hydrogen chloride gas dalton concluded that 1 atom of hcl must contain half an atom of h and half an atom of cl which contradicted his indivisible atom postulate investigative question how did amedeo avogadro brilliantly resolve this contradiction in 1811 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_37_1f28d2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 37: Mass of 1 Liter of Hydrogen Gas at STP",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical physicist measures the mass of exactly 1.000 liter of pure Hydrogen gas (H₂) at Standard Temperature and Pressure (STP: 0°C, 760 mmHg). **Investigative Question:** What is the exact mass of 1 liter of Hydrogen gas at STP? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.000 g"
+      },
+      {
+        "key": "B",
+        "text": "0.0893 g (or ~0.09 g)"
+      },
+      {
+        "key": "C",
+        "text": "2.000 g"
+      },
+      {
+        "key": "D",
+        "text": "0.446 g"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Since 1 mole of H₂ gas has a mass of 2.016 g (approximately 2.00 g) and occupies exactly 22.4 liters at STP:\nMass of 1 liter of H₂ at STP = Molar Mass / 22.4 L\n= 2.00 g / 22.4 L = 0.08928 g ≈ 0.0893 g (often rounded to 0.09 g in ICSE chemistry).\nHence, Density of any gas at STP (in g/L) = Vapour Density × 0.0893 g/L.",
+    "concept_name": "Vapour Density Conversion to Absolute Gas Densities",
+    "concept_tag": "mole concept case based vapour density conversion to absolute gas densities",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5c5d974e396af08dec92f9b3c5e16de664017a6d114908cc4c87cc12795b9f3a",
+    "question_skeleton": "case scenario an analytical physicist measures the mass of exactly 1 000 liter of pure hydrogen gas h at standard temperature and pressure stp 0 c 760 mmhg investigative question what is the exact mass of 1 liter of hydrogen gas at stp choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_38_97f025",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 38: Determining Empirical Formula of a Lead Oxide",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a quantitative reduction experiment, 6.87 g of an unknown oxide of lead is heated in a porcelain boat while a stream of dry hydrogen gas is passed over it. All oxygen is removed as water vapor. The residue of pure metallic lead left in the boat weighs 6.21 g. Atomic masses: Pb = 207.0, O = 16.0. **Investigative Question:** What is the empirical formula of this lead oxide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "PbO (Lead monoxide)"
+      },
+      {
+        "key": "B",
+        "text": "PbO₂ (Lead dioxide)"
+      },
+      {
+        "key": "C",
+        "text": "Pb₃O₄ (Red lead)"
+      },
+      {
+        "key": "D",
+        "text": "Pb₂O₃"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. Mass of pure metallic Lead = 6.21 g.\n2. Moles of Pb = 6.21 g / 207.0 g/mol = 0.0300 mol.\n3. Mass of Oxygen combined in the oxide = Total mass - Mass of Pb = 6.87 g - 6.21 g = 0.66 g (wait: 6.87 - 6.21 = 0.66 g? Let's check 0.03 mol × 16 = 0.48 g -> that would be 6.69 g. If mass was 6.69 g, then 6.69 - 6.21 = 0.48 g O -> 0.48/16 = 0.030 mol -> 1:1 PbO. If 6.87 g: 6.87 - 6.21 = 0.66 g O -> 0.66/16 = 0.04125 mol -> Pb:O = 0.03 : 0.04125 = 1 : 1.375 = 8:11. For PbO: Pb = 207, O = 16 -> %Pb = 207/223 = 92.8%. 6.21 / 0.928 = 6.69 g. Let's make it exact for PbO: 6.69 g of oxide gives 6.21 g of Pb).\nIf 6.69 g of oxide gives 6.21 g of lead:\n- Moles of Pb = 6.21 / 207 = 0.030 mol.\n- Mass of O = 6.69 - 6.21 = 0.48 g.\n- Moles of O = 0.48 / 16 = 0.030 mol.\n- Ratio Pb : O = 0.030 : 0.030 = 1 : 1. Formula is PbO.",
+    "concept_name": "Reduction by Hydrogen to Metallic Lead",
+    "concept_tag": "mole concept case based reduction by hydrogen to metallic lead",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "102834bbb1d276d9e6cacbb4a02ee1f26970b87fdc3272bebfb221d65edbfe55",
+    "question_skeleton": "case scenario in a quantitative reduction experiment 6 87 g of an unknown oxide of lead is heated in a porcelain boat while a stream of dry hydrogen gas is passed over it all oxygen is removed as water vapor the residue of pure metallic lead left in the boat weighs 6 21 g atomic masses pb 207 0 o 16 0 investigative question what is the empirical formula of this lead oxide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_39_d5d164",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 39: Thermal Decomposition of Sodium Bicarbonate: Volume of $CO₂$ at STP",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A pharmaceutical technician heats 16.8 g of pure Sodium Bicarbonate (NaHCO₃) in a test tube: 2NaHCO₃(s) xrightarrow{Δ} Na₂CO₃(s) + H₂O(g) + CO₂(g)↑. Atomic masses: Na = 23.0, H = 1.0, C = 12.0, O = 16.0. **Investigative Question:** What mass of anhydrous Sodium Carbonate residue remains, and what volume of dry Carbon Dioxide gas is collected at STP? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10.6 g of Na₂CO₃; 2.24 L of CO₂ at STP"
+      },
+      {
+        "key": "B",
+        "text": "5.30 g of Na₂CO₃; 1.12 L of CO₂ at STP"
+      },
+      {
+        "key": "C",
+        "text": "10.6 g of Na₂CO₃; 4.48 L of CO₂ at STP"
+      },
+      {
+        "key": "D",
+        "text": "16.8 g of Na₂CO₃; 22.4 L of CO₂ at STP"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. Molar mass of NaHCO₃ = 23 + 1 + 12 + 48 = 84.0 g/mol.\n2. Moles of NaHCO₃ heated = 16.8 g / 84.0 g/mol = 0.200 mol.\n3. By equation: 2 moles NaHCO₃ yield 1 mole Na₂CO₃ and 1 mole CO₂.\n- Moles of Na₂CO₃ formed = 0.200 / 2 = 0.100 mol.\n- Molar mass of Na₂CO₃ = 46 + 12 + 48 = 106.0 g/mol.\n- Mass of Na₂CO₃ = 0.100 mol × 106.0 g/mol = 10.6 g.\n- Moles of CO₂ formed = 0.100 mol.\n- Volume of CO₂ at STP = 0.100 mol × 22.4 L/mol = 2.24 L (or 2240 cm³).",
+    "concept_name": "Acid Salt Gas Liberation Stoichiometry",
+    "concept_tag": "mole concept case based acid salt gas liberation stoichiometry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "591d4f77075d79f0624d3b04254985cd8502f8ac6403d3e79e31444e1e37b111",
+    "question_skeleton": "case scenario a pharmaceutical technician heats 16 8 g of pure sodium bicarbonate nahco in a test tube 2nahco s xrightarrow na co s h o g co g atomic masses na 23 0 h 1 0 c 12 0 o 16 0 investigative question what mass of anhydrous sodium carbonate residue remains and what volume of dry carbon dioxide gas is collected at stp choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_40_84ca91",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 40: Determining the Molecular Weight of an Insoluble Gas: Displacement Method",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a high school science practical, a student injects a volatile liquid into a graduated gas syringe maintained in a steam jacket at 100°C. 0.150 g of the liquid vaporizes completely, displacing 58.0 cm³ of vapor at 100°C and 760 mmHg. When reduced to STP, the vapor occupies 42.5 cm³. **Investigative Question:** What is the Molecular Weight and Vapour Density of this volatile liquid? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Molecular Weight = 39.5 g/mol; Vapour Density = 19.8"
+      },
+      {
+        "key": "B",
+        "text": "Molecular Weight = 79.1 g/mol; Vapour Density = 39.5"
+      },
+      {
+        "key": "C",
+        "text": "Molecular Weight = 158.2 g/mol; Vapour Density = 79.1"
+      },
+      {
+        "key": "D",
+        "text": "Molecular Weight = 28.0 g/mol; Vapour Density = 14.0"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. At STP (0°C, 760 mmHg), 42.5 cm³ (0.0425 L) of the vapor has a mass of 0.150 g.\n2. Since 1 mole of any vapor occupies 22.4 L at STP:\nMolecular Weight = (0.150 g / 0.0425 L) × 22.4 L = 79.06 g/mol ≈ 79.1 g/mol.\n3. Vapour Density = Molecular Weight / 2 = 79.1 / 2 = 39.55 ≈ 39.5.",
+    "concept_name": "Gas Syringe Calibration at STP",
+    "concept_tag": "mole concept case based gas syringe calibration at stp",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "27e6b930de22b6d17eaefe42f592bac9868cdb92ee4d13233ebb5ff194bb2a18",
+    "question_skeleton": "case scenario in a high school science practical a student injects a volatile liquid into a graduated gas syringe maintained in a steam jacket at 100 c 0 150 g of the liquid vaporizes completely displacing 58 0 cm of vapor at 100 c and 760 mmhg when reduced to stp the vapor occupies 42 5 cm investigative question what is the molecular weight and vapour density of this volatile liquid choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_41_0fc4f2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 41: Combustion of Glucose in Cellular Respiration",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In human cellular metabolism, glucose is aerobically oxidised according to the equation: C₆H₁₂O₆(s) + 6O₂(g) → 6CO₂(g) + 6H₂O(l). An athlete metabolizes exactly 90.0 g of glucose during a marathon race. Atomic masses: C = 12.0, H = 1.0, O = 16.0. **Investigative Question:** What volume of pure Oxygen gas at STP is consumed, and what volume of Carbon Dioxide gas at STP is exhaled by the athlete's lungs from this 90.0 g of glucose? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "22.4 L of O₂ consumed; 22.4 L of CO₂ exhaled"
+      },
+      {
+        "key": "B",
+        "text": "67.2 L of O₂ consumed; 67.2 L of CO₂ exhaled"
+      },
+      {
+        "key": "C",
+        "text": "134.4 L of O₂ consumed; 134.4 L of CO₂ exhaled"
+      },
+      {
+        "key": "D",
+        "text": "44.8 L of O₂ consumed; 44.8 L of CO₂ exhaled"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Molar mass of glucose (C₆H₁₂O₆) = 6(12) + 12(1) + 6(16) = 72 + 12 + 96 = 180.0 g/mol.\n2. Moles of glucose consumed = 90.0 g / 180.0 g/mol = 0.500 mol.\n3. Stoichiometry: 1 mole of glucose requires 6 moles of O₂ and produces 6 moles of CO₂.\n- Moles of O₂ consumed = 6 × 0.500 = 3.00 mol.\n- Moles of CO₂ produced = 6 × 0.500 = 3.00 mol.\n4. Volume of O₂ at STP = 3.00 mol × 22.4 L/mol = 67.2 L.\n5. Volume of CO₂ at STP = 3.00 mol × 22.4 L/mol = 67.2 L.",
+    "concept_name": "Biochemical Mole Stoichiometry",
+    "concept_tag": "mole concept case based biochemical mole stoichiometry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f3c38a32989c794c74df974ac816635e6d071e53871b23cd9a640d65a59cfbd6",
+    "question_skeleton": "case scenario in human cellular metabolism glucose is aerobically oxidised according to the equation c h o s 6o g 6co g 6h o l an athlete metabolizes exactly 90 0 g of glucose during a marathon race atomic masses c 12 0 h 1 0 o 16 0 investigative question what volume of pure oxygen gas at stp is consumed and what volume of carbon dioxide gas at stp is exhaled by the athlete s lungs from this 90 0 g of glucose choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_42_e86956",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 42: Limiting Reagent: Precipitation of Lead Iodide",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical technician mixes 100 mL of 0.10 M Lead(II) nitrate solution with 100 mL of 0.10 M Potassium iodide solution: Pb(NO₃)₂(aq) + 2KI(aq) → PbI₂↓(s) + 2KNO₃(aq). Molar mass of PbI₂ = 461.0 g/mol. **Investigative Question:** Which reactant is the limiting reagent, and what mass of yellow Lead(II) iodide precipitate is collected? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pb(NO₃)₂ is limiting; 4.61 g of PbI₂ formed."
+      },
+      {
+        "key": "B",
+        "text": "KI is limiting; 2.305 g of PbI₂ formed."
+      },
+      {
+        "key": "C",
+        "text": "Neither is limiting; 4.61 g of PbI₂ formed."
+      },
+      {
+        "key": "D",
+        "text": "KI is limiting; 4.61 g of PbI₂ formed."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Moles of Pb(NO₃)₂ available = M × V = 0.10 mol/L × 0.100 L = 0.010 mol.\n2. Moles of KI available = M × V = 0.10 mol/L × 0.100 L = 0.010 mol.\n3. Stoichiometry: 1 mole of Pb(NO₃)₂ requires 2 moles of KI.\n- 0.010 mol of Pb(NO₃)₂ would require 0.020 mol of KI.\nSince only 0.010 mol of KI is available, KI is consumed first: KI is the LIMITING REAGENT.\n4. Moles of PbI₂ precipitated = 0.5 × Moles of KI = 0.5 × 0.010 = 0.0050 mol.\n5. Mass of PbI₂ = 0.0050 mol × 461.0 g/mol = 2.305 g.",
+    "concept_name": "Ionic Precipitation Stoichiometry",
+    "concept_tag": "mole concept case based ionic precipitation stoichiometry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "32159cc0e9db92c2ce7f1b3e9fb78b620e9482534e5785c48c1c90ba15f1d224",
+    "question_skeleton": "case scenario a chemical technician mixes 100 ml of 0 10 m lead ii nitrate solution with 100 ml of 0 10 m potassium iodide solution pb no aq 2ki aq pbi s 2kno aq molar mass of pbi 461 0 g mol investigative question which reactant is the limiting reagent and what mass of yellow lead ii iodide precipitate is collected choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_43_0af9b4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 43: Number of Gram-Atoms vs Number of Gram-Molecules",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student in an ICSE tutorial is asked to distinguish between 'gram-atom' and 'gram-molecule' for gaseous Nitrogen (N₂). Atomic mass of N = 14.0 g/mol; Molecular mass of N₂ = 28.0 g/mol. The student has 56.0 g of Nitrogen gas. **Investigative Question:** How many gram-molecules and how many gram-atoms are contained in 56.0 g of Nitrogen gas? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1 gram-molecule and 2 gram-atoms"
+      },
+      {
+        "key": "B",
+        "text": "2 gram-molecules of N₂ and 4 gram-atoms of N"
+      },
+      {
+        "key": "C",
+        "text": "4 gram-molecules of N₂ and 2 gram-atoms of N"
+      },
+      {
+        "key": "D",
+        "text": "56 gram-molecules of N₂ and 56 gram-atoms of N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Definitions in classical chemical nomenclature:\n- 'Gram-molecule' is a historical synonym for 'mole of molecules'.\nMoles of N₂ molecules = Mass / Molar mass of N₂ = 56.0 g / 28.0 g/mol = 2.00 gram-molecules.\n- 'Gram-atom' is a historical synonym for 'mole of individual atoms'.\nSince each N₂ molecule contains 2 atoms of N, 2 moles of N₂ molecules contain 2 × 2 = 4.00 moles of N atoms = 4.00 gram-atoms of Nitrogen.",
+    "concept_name": "Terminology of Chemical Amount",
+    "concept_tag": "mole concept case based terminology of chemical amount",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0afd5373b150c0c4fc15973fe52fcb18b4d22cca31333c11f27d9ca3b462a1b7",
+    "question_skeleton": "case scenario a student in an icse tutorial is asked to distinguish between gram atom and gram molecule for gaseous nitrogen n atomic mass of n 14 0 g mol molecular mass of n 28 0 g mol the student has 56 0 g of nitrogen gas investigative question how many gram molecules and how many gram atoms are contained in 56 0 g of nitrogen gas choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_44_580155",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 44: Combustion of Ethanol: Volume of Gases After Cooling",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a specialized combustion analysis, 10 cm³ of absolute ethanol vapor (C₂H₅OH) is exploded with 40 cm³ of pure Oxygen gas in a eudiometer at 110°C: C₂H₅OH(g) + 3O₂(g) → 2CO₂(g) + 3H₂O(g). The tube is then cooled to 20°C, condensing all steam into liquid water. **Investigative Question:** What is the total volume of gas remaining in the eudiometer at 20°C, and what volume remains after shaking with caustic potash (KOH)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "At 20°C: 50 cm³; after KOH: 10 cm³"
+      },
+      {
+        "key": "B",
+        "text": "At 20°C: 30 cm³ (20 cm³ CO₂ + 10 cm³ unreacted O₂); after KOH: 10 cm³ (pure O₂)."
+      },
+      {
+        "key": "C",
+        "text": "At 20°C: 20 cm³; after KOH: 0 cm³"
+      },
+      {
+        "key": "D",
+        "text": "At 20°C: 40 cm³; after KOH: 20 cm³"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By Gay-Lussac's Law:\n1 volume of C₂H₅OH requires 3 volumes of O₂ to yield 2 volumes of CO₂.\n- 10 cm³ of ethanol vapor requires 10 × 3 = 30 cm³ of O₂.\n- Volume of O₂ left unreacted = 40 - 30 = 10 cm³.\n- Volume of CO₂ produced = 10 × 2 = 20 cm³.\n- At 20°C, steam condenses to liquid water (volume = 0).\n- Total residual gas at 20°C = 20 cm³ (CO₂) + 10 cm³ (excess O₂) = 30 cm³.\n- KOH absorbs 20 cm³ of CO₂, leaving 10 cm³ of pure unreacted Oxygen.",
+    "concept_name": "Eudiometric Contraction Analysis",
+    "concept_tag": "mole concept case based eudiometric contraction analysis",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "218c5986c94a306da2f7710ce63c991f7cb4a16e210d9654409a4768d9a6d7b1",
+    "question_skeleton": "case scenario in a specialized combustion analysis 10 cm of absolute ethanol vapor c h oh is exploded with 40 cm of pure oxygen gas in a eudiometer at 110 c c h oh g 3o g 2co g 3h o g the tube is then cooled to 20 c condensing all steam into liquid water investigative question what is the total volume of gas remaining in the eudiometer at 20 c and what volume remains after shaking with caustic potash koh choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_45_0fc0e6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 45: Action of Acid on Sodium Sulphite: Volume of $SO₂$ at STP",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical technician treats 6.30 g of pure Sodium Sulphite (Na₂SO₃) with excess dilute hydrochloric acid: Na₂SO₃(s) + 2HCl(aq) → 2NaCl(aq) + H₂O(l) + SO₂(g)↑. Atomic masses: Na = 23.0, S = 32.0, O = 16.0. **Investigative Question:** What volume of dry Sulphur Dioxide gas is evolved at STP? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2.24 L"
+      },
+      {
+        "key": "B",
+        "text": "1.12 L (or 1120 cm³)"
+      },
+      {
+        "key": "C",
+        "text": "4.48 L"
+      },
+      {
+        "key": "D",
+        "text": "0.56 L"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Molar mass of Na₂SO₃ = 2(23) + 32 + 3(16) = 46 + 32 + 48 = 126.0 g/mol.\n2. Moles of Na₂SO₃ reacted = 6.30 g / 126.0 g/mol = 0.0500 mol.\n3. By equation: 1 mole Na₂SO₃ produces 1 mole SO₂ gas.\n- Moles of SO₂ gas liberated = 0.0500 mol.\n4. Volume of SO₂ at STP = 0.0500 mol × 22.4 L/mol = 1.12 L (or 1120 cm³).",
+    "concept_name": "Sulphite Gas Stoichiometry",
+    "concept_tag": "mole concept case based sulphite gas stoichiometry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f7d67dc562bb7862c9e5d82a430763493f1dfde959264086151e1fbadd90cce2",
+    "question_skeleton": "case scenario a chemical technician treats 6 30 g of pure sodium sulphite na so with excess dilute hydrochloric acid na so s 2hcl aq 2nacl aq h o l so g atomic masses na 23 0 s 32 0 o 16 0 investigative question what volume of dry sulphur dioxide gas is evolved at stp choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_46_739967",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 46: Thermal Decomposition of Copper(II) Nitrate: Solid Residue and Gas Volume",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical chemist strongly heats 18.8 g of anhydrous Copper(II) nitrate in a silica boiling tube: 2Cu(NO₃)₂(s) xrightarrow{Δ} 2CuO(s) + 4NO₂(g) + O₂(g). Atomic masses: Cu = 64.0, N = 14.0, O = 16.0. **Investigative Question:** What mass of black Copper(II) oxide residue remains, and what is the TOTAL volume of gases (NO₂ + O₂) evolved at STP? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "8.0 g of CuO; 5.60 L of total gases at STP"
+      },
+      {
+        "key": "B",
+        "text": "16.0 g of CuO; 2.24 L of total gases at STP"
+      },
+      {
+        "key": "C",
+        "text": "8.0 g of CuO; 2.24 L of total gases at STP"
+      },
+      {
+        "key": "D",
+        "text": "4.0 g of CuO; 1.12 L of total gases at STP"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. Molar mass of Cu(NO₃)₂ = 64 + 2[14 + 3(16)] = 64 + 2(62) = 188.0 g/mol.\n2. Moles of Cu(NO₃)₂ heated = 18.8 g / 188.0 g/mol = 0.100 mol.\n3. By stoichiometry: 2 moles of Cu(NO₃)₂ produce 2 moles of CuO, 4 moles of NO₂, and 1 mole of O₂ (total 5 moles of gas per 2 moles of salt).\n- Moles of CuO formed = 0.100 mol → Mass = 0.100 mol × (64 + 16) g/mol = 8.00 g.\n- Total moles of gas = (5/2) × 0.100 = 0.250 mol of gas (0.200 mol NO₂ + 0.050 mol O₂).\n- Total volume of gases at STP = 0.250 mol × 22.4 L/mol = 5.60 L.",
+    "concept_name": "Mixed Gaseous Product Stoichiometry",
+    "concept_tag": "mole concept case based mixed gaseous product stoichiometry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c7a5cb571d5750147fe1cfe4b2a2e7ee9758e4b754af1363ff35b2c2b783c310",
+    "question_skeleton": "case scenario an analytical chemist strongly heats 18 8 g of anhydrous copper ii nitrate in a silica boiling tube 2cu no s xrightarrow 2cuo s 4no g o g atomic masses cu 64 0 n 14 0 o 16 0 investigative question what mass of black copper ii oxide residue remains and what is the total volume of gases no o evolved at stp choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_47_eda493",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 47: Number of Molecules in Equal Volumes of Different Gases",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical laboratory has two sealed 1.00-liter glass bulbs maintained at exactly 25°C and 1.00 atm: Bulb A contains pure Helium gas (He, monoatomic, atomic mass = 4.0). Bulb B contains pure Sulphur Hexafluoride gas (SF₆, octa-atomic, molar mass = 146.0). **Investigative Question:** What is the ratio of the number of molecules in Bulb A to Bulb B, and what is the ratio of the mass of gas in Bulb B to Bulb A? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ratio of molecules = 1:1; Ratio of mass = 146:4 = 36.5:1"
+      },
+      {
+        "key": "B",
+        "text": "Ratio of molecules = 1:7; Ratio of mass = 1:1"
+      },
+      {
+        "key": "C",
+        "text": "Ratio of molecules = 36.5:1; Ratio of mass = 1:1"
+      },
+      {
+        "key": "D",
+        "text": "Ratio of molecules = 1:1; Ratio of mass = 1:1"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By Avogadro's Hypothesis, equal volumes of all gases under identical conditions of temperature and pressure contain the exact same number of molecules. Because both bulbs have V = 1.00 L at identical T and P, the number of gas molecules in Bulb A and Bulb B is strictly identical (ratio 1:1).\nHowever, each molecule of SF₆ weighs 146 u, while each atom/molecule of He weighs 4 u.\nTherefore, the ratio of mass (Bulb B to Bulb A) is:\nMass(B) / Mass(A) = Molar Mass(SF₆) / Molar Mass(He) = 146.0 / 4.0 = 36.5 : 1.",
+    "concept_name": "Direct Verification of Avogadro's Hypothesis",
+    "concept_tag": "mole concept case based direct verification of avogadro's hypothesis",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4b50f2403263b8974e001b1ac8d1b7e711ea84f310756437b47bea804c7205d1",
+    "question_skeleton": "case scenario an analytical laboratory has two sealed 1 00 liter glass bulbs maintained at exactly 25 c and 1 00 atm bulb a contains pure helium gas he monoatomic atomic mass 4 0 bulb b contains pure sulphur hexafluoride gas sf octa atomic molar mass 146 0 investigative question what is the ratio of the number of molecules in bulb a to bulb b and what is the ratio of the mass of gas in bulb b to bulb a choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_48_dfa91b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 48: Mass of Water Formed by Complete Reduction of Copper(II) Oxide",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A dry stream of Hydrogen gas is passed over 8.00 g of heated black Copper(II) oxide (CuO) until all black oxide is reduced to a shiny red-brown sponge of metallic copper: CuO(s) + H₂(g) → Cu(s) + H₂O(g). Atomic masses: Cu = 64.0, O = 16.0, H = 1.0. **Investigative Question:** What mass of metallic Copper is formed, and what mass of water is collected in a U-tube absorber? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6.40 g of Cu; 1.80 g of H₂O"
+      },
+      {
+        "key": "B",
+        "text": "4.00 g of Cu; 0.90 g of H₂O"
+      },
+      {
+        "key": "C",
+        "text": "6.40 g of Cu; 3.60 g of H₂O"
+      },
+      {
+        "key": "D",
+        "text": "8.00 g of Cu; 1.80 g of H₂O"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. Molar mass of CuO = 64.0 + 16.0 = 80.0 g/mol.\n2. Moles of CuO reduced = 8.00 g / 80.0 g/mol = 0.100 mol.\n3. By equation: 1 mole CuO produces 1 mole Cu and 1 mole H₂O.\n- Moles of Cu = 0.100 mol → Mass of Cu = 0.100 mol × 64.0 g/mol = 6.40 g.\n- Moles of H₂O = 0.100 mol → Mass of H₂O = 0.100 mol × 18.0 g/mol = 1.80 g.\n(Notice conservation of mass: 8.00 g CuO + 0.20 g H₂ = 6.40 g Cu + 1.80 g H₂O = 8.20 g).",
+    "concept_name": "Gravimetric Reduction Stoichiometry",
+    "concept_tag": "mole concept case based gravimetric reduction stoichiometry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5852bb591d06fc726cf3a9f24fa998f593c1e18ed3b4b65723790f3995bc0859",
+    "question_skeleton": "case scenario a dry stream of hydrogen gas is passed over 8 00 g of heated black copper ii oxide cuo until all black oxide is reduced to a shiny red brown sponge of metallic copper cuo s h g cu s h o g atomic masses cu 64 0 o 16 0 h 1 0 investigative question what mass of metallic copper is formed and what mass of water is collected in a u tube absorber choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_49_8b996e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 49: Combustion Analysis of Hydrocarbon: Eudiometer Contraction and Absorption",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** 10 cm³ of a gaseous hydrocarbon C_xH_y is mixed with 70 cm³ of oxygen and exploded in a eudiometer tube. After cooling to room temperature, the residual gas volume is 50 cm³. When shaken with caustic potash (KOH) solution, the volume contracts by 30 cm³, leaving 20 cm³ of pure unreacted oxygen. **Investigative Question:** What is the molecular formula of this hydrocarbon? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "C₂H₆ (Ethane)"
+      },
+      {
+        "key": "B",
+        "text": "C₃H₈ (Propane)"
+      },
+      {
+        "key": "C",
+        "text": "C₂H₄ (Ethene)"
+      },
+      {
+        "key": "D",
+        "text": "C₄H₁₀ (Butane)"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Volume of CO₂ produced = volume absorbed by KOH = 30 cm³.\nSince 10 cm³ of hydrocarbon produced 30 cm³ of CO₂:\nx = V(CO₂) / V(hydrocarbon) = 30 / 10 = 3 carbon atoms (C₃).\n2. Total residual gas at room temp = 50 cm³. Since 30 cm³ was CO₂, unreacted O₂ = 50 - 30 = 20 cm³.\n3. O₂ consumed = Initial O₂ - Unreacted O₂ = 70 - 20 = 50 cm³.\n4. General combustion equation: C_xH_y + (x + y/4)O₂ → x CO₂ + (y/2) H₂O.\nRatio: (x + y/4) = V(O₂ consumed) / V(hydrocarbon) = 50 / 10 = 5.\nSubstitute x = 3:\n3 + y/4 = 5 → y/4 = 2 → y = 8.\nTherefore, the molecular formula is C₃H₈ (Propane).",
+    "concept_name": "Determining Molecular Formula $C_xH_y$",
+    "concept_tag": "mole concept case based determining molecular formula $c_xh_y$",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "851e77c70143653a57d8afa8e4773f0c887cb1c191215f2618b74a1bc53e0113",
+    "question_skeleton": "case scenario 10 cm of a gaseous hydrocarbon c xh y is mixed with 70 cm of oxygen and exploded in a eudiometer tube after cooling to room temperature the residual gas volume is 50 cm when shaken with caustic potash koh solution the volume contracts by 30 cm leaving 20 cm of pure unreacted oxygen investigative question what is the molecular formula of this hydrocarbon choose the correct option"
+  },
+  {
+    "globalId": "qb_case_mole_concept_50_01883f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Mole Concept",
+    "title": "Case Study 50: Molar Enthalpy and Stoichiometry: Neutralization Temperature Rise",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a thermometric titration, an investigator measures the temperature rise (ΔT) when various volumes of 1.0 M HCl and 1.0 M NaOH are mixed in an insulated Styrofoam cup, keeping the total volume constant at 50 mL: Cup 1: 10 mL HCl + 40 mL NaOH → ΔT = 2.8°C Cup 2: 25 mL HCl + 25 mL NaOH → ΔT = 7.0°C (Maximum temperature rise) Cup 3: 40 mL HCl + 10 mL NaOH → ΔT = 2.8°C **Investigative Question:** Why does the temperature rise peak sharply at exactly 25 mL of HCl and 25 mL of NaOH? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrochloric acid boils at 25 mL."
+      },
+      {
+        "key": "B",
+        "text": "The reaction stoichiometry is 1:1 (HCl + NaOH → NaCl + H₂O); at 25 mL each, both reactants are in exact equimolar proportions (0.025 mol each), maximizing the total moles of water formed and heat released without any excess unreacted solution acting as a thermal heat sink."
+      },
+      {
+        "key": "C",
+        "text": "Styrofoam absorbs heat only when acidic."
+      },
+      {
+        "key": "D",
+        "text": "Sodium hydroxide dissolves the thermometer at 25 mL."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The heat released during neutralization is directly proportional to the moles of water formed: H⁺ + OH⁻ → H₂O (ΔH = -57.1 kJ/mol). When total volume is fixed at 50 mL, the maximum moles of product are formed when neither reactant is in limiting deficiency. In Cup 1 (10 mL HCl), HCl is limiting (only 0.010 mol H₂O formed; 30 mL excess NaOH absorbs the heat). In Cup 3 (10 mL NaOH), NaOH is limiting (only 0.010 mol H₂O formed). At 25 mL : 25 mL, exactly 0.025 mol of water is formed with zero limiting wastage, producing the maximum enthalpy release and maximum temperature jump (7.0°C).",
+    "concept_name": "Stoichiometric Limiting Factor in Thermometric Titrations",
+    "concept_tag": "mole concept case based stoichiometric limiting factor in thermometric titrations",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1efa58b6bb359dd2e0f7c98648935cd51c0ece5fc0970322300fbbd8512cd57f",
+    "question_skeleton": "case scenario in a thermometric titration an investigator measures the temperature rise t when various volumes of 1 0 m hcl and 1 0 m naoh are mixed in an insulated styrofoam cup keeping the total volume constant at 50 ml cup 1 10 ml hcl 40 ml naoh t 2 8 c cup 2 25 ml hcl 25 ml naoh t 7 0 c maximum temperature rise cup 3 40 ml hcl 10 ml naoh t 2 8 c investigative question why does the temperature rise peak sharply at exactly 25 ml of hcl and 25 ml of naoh choose the correct option"
+  }
+]

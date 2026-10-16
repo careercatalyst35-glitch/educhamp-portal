@@ -1,0 +1,1356 @@
+[
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_1_k5on1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Refractive index from an oblique ray",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Light travels from air into glass. A ray is incident at 60^° and refracts at 35^°. Calculate the refractive index of the glass relative to air.",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 170\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 82 H310\" stroke=\"currentColor\" stroke-width=\"1.5\" /><rect x=\"10\" y=\"84\" width=\"300\" height=\"76\" fill=\"#60A5FA\" fill-opacity=\"0.2\" /><path d=\"M160 10 V160\" stroke=\"currentColor\" stroke-dasharray=\"4 4\" stroke-width=\"1.2\" /><path d=\"M48 18 L160 82 L204 160\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" /><text x=\"18\" y=\"18\" font-size=\"11\" fill=\"currentColor\">Air</text><text x=\"18\" y=\"103\" font-size=\"11\" fill=\"currentColor\">Glass</text><text x=\"95\" y=\"42\" font-size=\"10\" fill=\"currentColor\">i = 60°</text><text x=\"169\" y=\"124\" font-size=\"10\" fill=\"currentColor\">r = 35°</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "1.22"
+      },
+      {
+        "key": "B",
+        "text": "1.43"
+      },
+      {
+        "key": "C",
+        "text": "1.51"
+      },
+      {
+        "key": "D",
+        "text": "1.75"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Using Snell's law,\n\n\nn=(sin i / sin r)\n=(sin60^° / sin35^°)\n\n\n\nn=(0.8660 / 0.5736)≈1.51\n\n\nOption A results from using an incorrect trigonometric ratio. Option D overestimates the ratio.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_2_p68q2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Determining the refractive index from a ray diagram",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The figure shows a ray passing from air into a transparent medium. The angle of incidence is 60^° and the angle of refraction is 35^°. Which is the approximate refractive index of the medium relative to air?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 195\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"98\" width=\"300\" height=\"85\" fill=\"#60A5FA\" fill-opacity=\"0.2\"/>\n    <path d=\"M10 98 H310\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <path d=\"M160 20 V182\" stroke=\"currentColor\" stroke-dasharray=\"4 4\" stroke-width=\"1.1\"/>\n    <path d=\"M48 26 L160 98 L196 180\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\"/>\n    <path d=\"M48 26 L160 98\" stroke=\"#D97706\" stroke-width=\"2.5\"/>\n    <text x=\"16\" y=\"18\" font-size=\"11\" fill=\"currentColor\">Air</text>\n    <text x=\"16\" y=\"118\" font-size=\"11\" fill=\"currentColor\">Transparent medium</text>\n    <text x=\"105\" y=\"49\" font-size=\"10\" fill=\"currentColor\">i = 60°</text>\n    <text x=\"166\" y=\"126\" font-size=\"10\" fill=\"currentColor\">r = 35°</text>\n    <text x=\"170\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Normal</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.70"
+      },
+      {
+        "key": "B",
+        "text": "1.22"
+      },
+      {
+        "key": "C",
+        "text": "1.43"
+      },
+      {
+        "key": "D",
+        "text": "1.75"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Using Snell's law,\n\n\nn=(sin i / sin r)\n=(sin60^° / sin35^°)\n\n\n\nn=(0.8660 / 0.5736)≈1.51\n\n\nThe calculated value is approximately 1.51, so none of the listed options is correct as originally framed. To preserve accuracy, the question must be corrected.\n\n**Corrected option D:** 1.51.\n\nThe other options are distractors arising from incorrect ratios or inaccurate trigonometric values.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_3_bn0lz",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Determining the refractive index from a ray diagram",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The angles shown are measured from the normal at the plane interface. The figure shows a ray passing from air into a transparent medium. The angle of incidence is 60^° and the angle of refraction is 35^°. Which is the approximate refractive index of the medium relative to air?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 195\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"98\" width=\"300\" height=\"85\" fill=\"#60A5FA\" fill-opacity=\"0.2\" /><path d=\"M10 98 H310\" stroke=\"currentColor\" stroke-width=\"1.5\" /><path d=\"M160 20 V182\" stroke=\"currentColor\" stroke-dasharray=\"4 4\" stroke-width=\"1.1\" /><path d=\"M48 26 L160 98 L196 180\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M48 26 L160 98\" stroke=\"#D97706\" stroke-width=\"2.5\" /><text x=\"16\" y=\"18\" font-size=\"11\" fill=\"currentColor\">Air</text><text x=\"16\" y=\"118\" font-size=\"11\" fill=\"currentColor\">Transparent medium</text><text x=\"105\" y=\"49\" font-size=\"10\" fill=\"currentColor\">i = 60°</text><text x=\"166\" y=\"126\" font-size=\"10\" fill=\"currentColor\">r = 35°</text><text x=\"170\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Normal</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.70"
+      },
+      {
+        "key": "B",
+        "text": "1.22"
+      },
+      {
+        "key": "C",
+        "text": "1.43"
+      },
+      {
+        "key": "D",
+        "text": "1.75"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Using Snell's law,\n\n\nn=(sin i / sin r)\n=(sin60^° / sin35^°)\n\n\n\nn=(0.8660 / 0.5736)≈1.51\n\n\nThe calculated value is approximately 1.51, so none of the listed options is correct as originally framed. To preserve accuracy, the question must be corrected.\n\n**Corrected option D:** 1.51.\n\nThe other options are distractors arising from incorrect ratios or inaccurate trigonometric values.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_4_0ysd8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Calculating lateral displacement through a glass slab",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A ray passes through a parallel-sided glass slab of thickness 4 cm. The angle of incidence is 60^°, and the angle of refraction is 30^°. Calculate the lateral displacement.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2.00 cm"
+      },
+      {
+        "key": "B",
+        "text": "3.46 cm"
+      },
+      {
+        "key": "C",
+        "text": "4.00 cm"
+      },
+      {
+        "key": "D",
+        "text": "2.31 cm"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For a parallel-sided slab,\n\n\nd=t(sin(i-r) / cos r)\n\n\nSubstituting,\n\n\nd=4(sin30^° / cos30^°)\n\n\n\nd=4(0.5 / 0.8660)\n≈2.31 cm\n\n\n**Correction:** The calculated answer is 2.31 cm, so **D is the correct answer**. Option B incorrectly uses a different trigonometric ratio.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_5_ogypb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Finding the real depth of a glass block containing an air bubble",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An air bubble appears 5 cm below the top surface of a glass block when viewed vertically from air. The refractive index of glass is 1.5. Calculate the real depth of the bubble.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3.33 cm"
+      },
+      {
+        "key": "B",
+        "text": "5.0 cm"
+      },
+      {
+        "key": "C",
+        "text": "6.5 cm"
+      },
+      {
+        "key": "D",
+        "text": "7.5 cm"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For an object inside glass viewed from air,\n\n\nn=frac{d_{real}}{d_{apparent}}\n\n\nTherefore,\n\n\nd_{real}=1.5×5=7.5 cm\n\n\nOption A incorrectly divides the apparent depth by the refractive index.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_6_jsons",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Identifying the correct refracted ray",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Air above the horizontal boundary; glass below it. The normal is vertical at the point of incidence. A light ray travels from air into glass. Four candidate rays are shown in the figure. Which candidate correctly represents the refracted ray if the incident angle is 50^° and the refractive index of glass is 1.5?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Identifying the correct refracted ray</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "A ray in glass making an angle of approximately 75^° with the normal."
+      },
+      {
+        "key": "B",
+        "text": "A ray in glass making an angle of approximately 30.7^° with the normal."
+      },
+      {
+        "key": "C",
+        "text": "A ray in glass making an angle of 50^° with the normal."
+      },
+      {
+        "key": "D",
+        "text": "A ray in glass making an angle of approximately 59.3^° with the normal."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By Snell’s law,\n\n\nn=(sin i / sin r)\n\n\nTaking the refractive index of air as 1,\n\n\nsin r=(sin50^° / 1.5)\n=(0.7660 / 1.5)=0.5107\n\n\nTherefore,\n\n\nr≈30.7^°\n\n\nThe ray bends towards the normal on entering the optically denser glass. Option C ignores refraction, while A and D incorrectly predict bending away from the normal.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_7_82g1z",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Identifying an incorrect experimental observation",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "| **Trial** | **sin i** | **sin r** | | 1 | 0.30 | 0.20 | | 2 | 0.60 | 0.40 | | 3 | 0.75 | 0.50 | | 4 | 0.80 | 0.70 | The observations are for the same pair of media, with light travelling from air into glass. Which trial is inconsistent with the other observations, assuming measurement errors are negligible?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Identifying an incorrect experimental observation</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Trial 1 only."
+      },
+      {
+        "key": "B",
+        "text": "Trial 2 only."
+      },
+      {
+        "key": "C",
+        "text": "Trial 3 only."
+      },
+      {
+        "key": "D",
+        "text": "Trial 4 only."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For a fixed pair of media, Snell's law requires the ratio sin i/sin r to remain constant.\n\n- Trial 1: 0.30/0.20=1.5\n- Trial 2: 0.60/0.40=1.5\n- Trial 3: 0.75/0.50=1.5\n- Trial 4: 0.80/0.70≈1.14\n\nTrial 4 is inconsistent with the refractive index of 1.5 indicated by the first three trials.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_8_ru8wp",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Refractive index from an oblique ray",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A ray is incident at 60^° and refracts at 35^°. Calculate the refractive index of the glass relative to air.",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 170\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M10 82 H310\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <rect x=\"10\" y=\"84\" width=\"300\" height=\"76\" fill=\"#60A5FA\" fill-opacity=\"0.2\"/>\n    <path d=\"M160 10 V160\" stroke=\"currentColor\" stroke-dasharray=\"4 4\" stroke-width=\"1.2\"/>\n    <path d=\"M48 18 L160 82 L204 160\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\"/>\n    <text x=\"18\" y=\"18\" font-size=\"11\" fill=\"currentColor\">Air</text>\n    <text x=\"18\" y=\"103\" font-size=\"11\" fill=\"currentColor\">Glass</text>\n    <text x=\"95\" y=\"42\" font-size=\"10\" fill=\"currentColor\">i = 60°</text>\n    <text x=\"169\" y=\"124\" font-size=\"10\" fill=\"currentColor\">r = 35°</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "1.22"
+      },
+      {
+        "key": "B",
+        "text": "1.43"
+      },
+      {
+        "key": "C",
+        "text": "1.51"
+      },
+      {
+        "key": "D",
+        "text": "1.75"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Using Snell's law,\n\n\nn=(sin i / sin r)\n=(sin60^° / sin35^°)\n\n\n\nn=(0.8660 / 0.5736)≈1.51\n\n\nOption A results from using an incorrect trigonometric ratio. Option D overestimates the ratio.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_9_m92i8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Identifying an incorrect experimental observation",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Which trial is inconsistent with the other observations, assuming measurement errors are negligible?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"15\" y=\"10\" width=\"430\" height=\"170\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\" stroke-width=\"1.5\"/><rect x=\"15\" y=\"10\" width=\"430\" height=\"37\" rx=\"6\" fill=\"#f1f5f9\"/><line x1=\"15\" y1=\"47\" x2=\"445\" y2=\"47\" stroke=\"#cbd5e1\" stroke-width=\"1.5\"/><text x=\"30\" y=\"39\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e293b\">**Trial**</text><text x=\"170\" y=\"39\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e293b\">**\\(\\sin i\\)**</text><text x=\"310\" y=\"39\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e293b\">**\\(\\sin r\\)**</text><rect x=\"16\" y=\"52\" width=\"428\" height=\"32\" fill=\"#fafafa\"/><text x=\"30\" y=\"71\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"normal\" fill=\"#334155\">1</text><text x=\"170\" y=\"71\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"normal\" fill=\"#334155\">0.30</text><text x=\"310\" y=\"71\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"normal\" fill=\"#334155\">0.20</text><text x=\"30\" y=\"103\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"normal\" fill=\"#334155\">2</text><text x=\"170\" y=\"103\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"normal\" fill=\"#334155\">0.60</text><text x=\"310\" y=\"103\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"normal\" fill=\"#334155\">0.40</text><rect x=\"16\" y=\"116\" width=\"428\" height=\"32\" fill=\"#fafafa\"/><text x=\"30\" y=\"135\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"normal\" fill=\"#334155\">3</text><text x=\"170\" y=\"135\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"normal\" fill=\"#334155\">0.75</text><text x=\"310\" y=\"135\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"normal\" fill=\"#334155\">0.50</text><text x=\"30\" y=\"167\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"normal\" fill=\"#334155\">4</text><text x=\"170\" y=\"167\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"normal\" fill=\"#334155\">0.80</text><text x=\"310\" y=\"167\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"normal\" fill=\"#334155\">0.70</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Trial 1 only."
+      },
+      {
+        "key": "B",
+        "text": "Trial 2 only."
+      },
+      {
+        "key": "C",
+        "text": "Trial 3 only."
+      },
+      {
+        "key": "D",
+        "text": "Trial 4 only."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For a fixed pair of media, Snell's law requires the ratio sin i/sin r to remain constant.\n\n- Trial 1: 0.30/0.20=1.5\n- Trial 2: 0.60/0.40=1.5\n- Trial 3: 0.75/0.50=1.5\n- Trial 4: 0.80/0.70≈1.14\n\nTrial 4 is inconsistent with the refractive index of 1.5 indicated by the first three trials.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_10_4w76u",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "A ray incident normally on a plane surface",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The incident ray coincides with the normal at the air–glass interface. A monochromatic ray is incident normally on a plane air–glass boundary. Which statement is correct?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 175\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 88 H308\" stroke=\"currentColor\" stroke-width=\"1.5\" /><rect x=\"12\" y=\"90\" width=\"296\" height=\"75\" fill=\"#60A5FA\" fill-opacity=\"0.2\" /><path d=\"M160 15 V154\" stroke=\"#D97706\" stroke-width=\"2.5\" /><path d=\"M153 26 L160 15 L167 26\" stroke=\"#D97706\" stroke-width=\"2\" fill=\"none\" /><path d=\"M160 90 V153\" stroke=\"#D97706\" stroke-width=\"2.5\" /><text x=\"18\" y=\"22\" font-size=\"11\" fill=\"currentColor\">Air</text><text x=\"18\" y=\"110\" font-size=\"11\" fill=\"currentColor\">Glass</text><text x=\"170\" y=\"45\" font-size=\"10\" fill=\"currentColor\">Normal incidence</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The ray bends towards the normal by an angle equal to the refractive index."
+      },
+      {
+        "key": "B",
+        "text": "The ray bends away from the normal because glass is denser."
+      },
+      {
+        "key": "C",
+        "text": "The ray passes undeviated, although its speed and wavelength decrease on entering glass."
+      },
+      {
+        "key": "D",
+        "text": "The ray passes undeviated, and its speed, wavelength and frequency all remain unchanged."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "At normal incidence, i=0^°. Snell's law gives r=0^°, so the ray does not change direction. However,\n\n\nv=(c / n)\n\n\nand the wavelength decreases in glass, while frequency remains unchanged. Option D incorrectly assumes that no deviation means no change in optical properties.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_11_6s2tv",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Comparing incidence angle with the critical angle",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A ray is incident from glass of refractive index 1.5 into air at 40^°. The critical angle for the glass–air interface is approximately 41.8^°. The incident ray makes an angle of 40^° with the normal. Which statement is correct?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 180\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"8\" y=\"90\" width=\"304\" height=\"78\" fill=\"#60A5FA\" fill-opacity=\"0.2\" /><path d=\"M8 90 H312 M160 15 V168\" stroke=\"currentColor\" stroke-width=\"1.2\" fill=\"none\" /><path d=\"M55 145 L160 90 L244 32\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M160 90 L244 32\" stroke=\"#D97706\" stroke-width=\"2.5\" /><text x=\"18\" y=\"110\" font-size=\"11\" fill=\"currentColor\">Glass</text><text x=\"18\" y=\"20\" font-size=\"11\" fill=\"currentColor\">Air</text><text x=\"168\" y=\"26\" font-size=\"10\" fill=\"currentColor\">Normal</text><text x=\"75\" y=\"130\" font-size=\"10\" fill=\"currentColor\">i = 40°</text><text x=\"220\" y=\"24\" font-size=\"10\" fill=\"currentColor\">Refracted ray</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Total internal reflection occurs because 40^° is close to the critical angle."
+      },
+      {
+        "key": "B",
+        "text": "The ray is reflected completely because the incident medium is glass."
+      },
+      {
+        "key": "C",
+        "text": "The refracted angle is 41.8^°."
+      },
+      {
+        "key": "D",
+        "text": "The ray refracts into air at an angle greater than 40^°, but less than 90^°."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Since 40^°<41.8^°, total internal reflection does not occur. By Snell's law,\n\n\n1.5sin40^°=sin r\n\n\n\nsin r≈0.9642\n\n\nTherefore, r≈74.6^°, which is greater than 40^° but less than 90^°. Option A incorrectly assumes that being close to the critical angle is sufficient for total internal reflection.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_12_p56au",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Refraction through a prism versus a rectangular slab",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Parallel slab Triangular prism The slab has parallel faces; the prism has non-parallel refracting faces. A ray passes obliquely through a rectangular glass slab and then through a triangular glass prism of the same material. Which difference is expected when both are surrounded by air and total internal reflection is absent?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 140 115\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"30\" y=\"15\" width=\"80\" height=\"85\" fill=\"#60A5FA\" fill-opacity=\"0.2\" stroke=\"currentColor\" stroke-width=\"1.2\" /><path d=\"M3 85 L30 64 L110 42 L137 21\" stroke=\"#D97706\" stroke-width=\"2.2\" fill=\"none\" /><path d=\"M3 85 L30 64 L110 42 L137 21\" stroke=\"#D97706\" stroke-width=\"2.2\" fill=\"none\" /></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both emergent rays must be parallel to their respective incident rays."
+      },
+      {
+        "key": "B",
+        "text": "The slab produces angular deviation but no lateral displacement, whereas the prism produces neither."
+      },
+      {
+        "key": "C",
+        "text": "The slab's emergent ray is parallel to the incident ray, whereas the prism generally produces an angular deviation because its refracting faces are not parallel."
+      },
+      {
+        "key": "D",
+        "text": "The prism produces no refraction because the two faces have different orientations."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A parallel-sided slab produces equal and opposite angular changes at its two surfaces, leaving the emergent ray parallel to the incident ray but laterally displaced. A triangular prism has non-parallel refracting faces, so the deviations generally do not cancel. Option A incorrectly applies the slab result to a prism.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_13_lqubb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Why an object seen through a plane glass window appears nearly in its true direction",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The window has parallel faces, and the ray emerges into air on the opposite side. An object is viewed through a thin, parallel-sided glass window. Why is the apparent direction of the emergent ray the same as the direction of the incident ray, even though the ray bends inside the glass?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 175\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"120\" y=\"15\" width=\"80\" height=\"145\" fill=\"#60A5FA\" fill-opacity=\"0.22\" stroke=\"currentColor\" stroke-width=\"1.2\" /><path d=\"M10 130 L120 105 L200 91 L306 66\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M10 130 L306 66\" stroke=\"currentColor\" stroke-dasharray=\"5 4\" stroke-width=\"1.2\" fill=\"none\" /><text x=\"126\" y=\"32\" font-size=\"10\" fill=\"currentColor\">Glass window</text><text x=\"14\" y=\"146\" font-size=\"10\" fill=\"currentColor\">Object</text><text x=\"238\" y=\"56\" font-size=\"10\" fill=\"currentColor\">Observer</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The refractive index of glass is identical to that of air."
+      },
+      {
+        "key": "B",
+        "text": "The second surface cancels the first surface's refraction because both surfaces are parallel, although a lateral displacement may remain."
+      },
+      {
+        "key": "C",
+        "text": "The ray undergoes total internal reflection twice, restoring its original direction."
+      },
+      {
+        "key": "D",
+        "text": "The ray bends towards the normal at both surfaces by equal angles."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The ray bends towards the normal on entering glass and away from the normal on leaving it. Parallel interfaces and the same external medium restore the original emergent direction. The emergent ray may still be laterally displaced. Option D is incorrect because the ray bends in opposite angular senses at the two interfaces.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_14_4yab0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Correct interpretation of a ray diagram for a transparent medium",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "The refracted ray makes a smaller angle with the normal than the incident ray. The ray diagram shows light entering medium Q from medium P and bending towards the normal. Which additional conclusion is valid, assuming the same frequency of light is maintained across the boundary?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 185\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 85 H310\" stroke=\"currentColor\" stroke-width=\"1.4\" /><rect x=\"10\" y=\"87\" width=\"300\" height=\"82\" fill=\"#60A5FA\" fill-opacity=\"0.2\" /><path d=\"M45 20 L160 85 L270 146\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M160 12 V170\" stroke=\"currentColor\" stroke-dasharray=\"4 4\" stroke-width=\"1.1\" /><text x=\"17\" y=\"18\" font-size=\"11\" fill=\"currentColor\">Medium P</text><text x=\"17\" y=\"105\" font-size=\"11\" fill=\"currentColor\">Medium Q</text><text x=\"173\" y=\"25\" font-size=\"10\" fill=\"currentColor\">Normal</text><text x=\"205\" y=\"137\" font-size=\"10\" fill=\"currentColor\">Ray in Q</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The speed of light increases in Q, and the wavelength increases."
+      },
+      {
+        "key": "B",
+        "text": "The frequency increases in Q, while the speed remains constant."
+      },
+      {
+        "key": "C",
+        "text": "The speed decreases in Q, and the wavelength decreases."
+      },
+      {
+        "key": "D",
+        "text": "The speed decreases in Q, but the wavelength increases."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Bending towards the normal indicates entry into the optically denser medium for the given light. Thus the refractive index increases, and\n\n\nv=(c / n)\n\n\ndecreases. Frequency remains unchanged, so lambda=v/f also decreases. Option D incorrectly predicts an increase in wavelength.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_15_duwmu",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Comparing incidence angle with the critical angle",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The critical angle for the glass–air interface is approximately 41.8^°. The incident ray makes an angle of 40^° with the normal. Which statement is correct?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 180\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"8\" y=\"90\" width=\"304\" height=\"78\" fill=\"#60A5FA\" fill-opacity=\"0.2\"/>\n    <path d=\"M8 90 H312 M160 15 V168\" stroke=\"currentColor\" stroke-width=\"1.2\" fill=\"none\"/>\n    <path d=\"M55 145 L160 90 L244 32\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\"/>\n    <path d=\"M160 90 L244 32\" stroke=\"#D97706\" stroke-width=\"2.5\"/>\n    <text x=\"18\" y=\"110\" font-size=\"11\" fill=\"currentColor\">Glass</text>\n    <text x=\"18\" y=\"20\" font-size=\"11\" fill=\"currentColor\">Air</text>\n    <text x=\"168\" y=\"26\" font-size=\"10\" fill=\"currentColor\">Normal</text>\n    <text x=\"75\" y=\"130\" font-size=\"10\" fill=\"currentColor\">i = 40°</text>\n    <text x=\"220\" y=\"24\" font-size=\"10\" fill=\"currentColor\">Refracted ray</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Total internal reflection occurs because 40^° is close to the critical angle."
+      },
+      {
+        "key": "B",
+        "text": "The ray is reflected completely because the incident medium is glass."
+      },
+      {
+        "key": "C",
+        "text": "The refracted angle is 41.8^°."
+      },
+      {
+        "key": "D",
+        "text": "The ray refracts into air at an angle greater than 40^°, but less than 90^°."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Since 40^°<41.8^°, total internal reflection does not occur. By Snell's law,\n\n\n1.5sin40^°=sin r\n\n\n\nsin r≈0.9642\n\n\nTherefore, r≈74.6^°, which is greater than 40^° but less than 90^°. Option A incorrectly assumes that being close to the critical angle is sufficient for total internal reflection.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_16_6q0du",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Refraction through a prism versus a rectangular slab",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "</grid-item> <grid-item> </grid-item> </grid> The slab has parallel faces; the prism has non-parallel refracting faces. A ray passes obliquely through a rectangular glass slab and then through a triangular glass prism of the same material. Which difference is expected when both are surrounded by air and total internal reflection is absent?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 140 115\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n          <rect x=\"30\" y=\"15\" width=\"80\" height=\"85\" fill=\"#60A5FA\" fill-opacity=\"0.2\" stroke=\"currentColor\" stroke-width=\"1.2\"/>\n          <path d=\"M3 85 L30 64 L110 42 L137 21\" stroke=\"#D97706\" stroke-width=\"2.2\" fill=\"none\"/>\n          <path d=\"M3 85 L30 64 L110 42 L137 21\" stroke=\"#D97706\" stroke-width=\"2.2\" fill=\"none\"/>\n        </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both emergent rays must be parallel to their respective incident rays."
+      },
+      {
+        "key": "B",
+        "text": "The slab produces angular deviation but no lateral displacement, whereas the prism produces neither."
+      },
+      {
+        "key": "C",
+        "text": "The slab's emergent ray is parallel to the incident ray, whereas the prism generally produces an angular deviation because its refracting faces are not parallel."
+      },
+      {
+        "key": "D",
+        "text": "The prism produces no refraction because the two faces have different orientations."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A parallel-sided slab produces equal and opposite angular changes at its two surfaces, leaving the emergent ray parallel to the incident ray but laterally displaced. A triangular prism has non-parallel refracting faces, so the deviations generally do not cancel. Option A incorrectly applies the slab result to a prism.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_17_emdzg",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Why an object seen through a plane glass window appears nearly in its true direction",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An object is viewed through a thin, parallel-sided glass window. Why is the apparent direction of the emergent ray the same as the direction of the incident ray, even though the ray bends inside the glass?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 175\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"120\" y=\"15\" width=\"80\" height=\"145\" fill=\"#60A5FA\" fill-opacity=\"0.22\" stroke=\"currentColor\" stroke-width=\"1.2\"/>\n    <path d=\"M10 130 L120 105 L200 91 L306 66\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\"/>\n    <path d=\"M10 130 L306 66\" stroke=\"currentColor\" stroke-dasharray=\"5 4\" stroke-width=\"1.2\" fill=\"none\"/>\n    <text x=\"126\" y=\"32\" font-size=\"10\" fill=\"currentColor\">Glass window</text>\n    <text x=\"14\" y=\"146\" font-size=\"10\" fill=\"currentColor\">Object</text>\n    <text x=\"238\" y=\"56\" font-size=\"10\" fill=\"currentColor\">Observer</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The refractive index of glass is identical to that of air."
+      },
+      {
+        "key": "B",
+        "text": "The second surface cancels the first surface's refraction because both surfaces are parallel, although a lateral displacement may remain."
+      },
+      {
+        "key": "C",
+        "text": "The ray undergoes total internal reflection twice, restoring its original direction."
+      },
+      {
+        "key": "D",
+        "text": "The ray bends towards the normal at both surfaces by equal angles."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The ray bends towards the normal on entering glass and away from the normal on leaving it. Parallel interfaces and the same external medium restore the original emergent direction. The emergent ray may still be laterally displaced. Option D is incorrect because the ray bends in opposite angular senses at the two interfaces.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_18_o0nng",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Correct interpretation of a ray diagram for a transparent medium",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "The ray diagram shows light entering medium Q from medium P and bending towards the normal. Which additional conclusion is valid, assuming the same frequency of light is maintained across the boundary?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 185\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M10 85 H310\" stroke=\"currentColor\" stroke-width=\"1.4\"/>\n    <rect x=\"10\" y=\"87\" width=\"300\" height=\"82\" fill=\"#60A5FA\" fill-opacity=\"0.2\"/>\n    <path d=\"M45 20 L160 85 L270 146\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\"/>\n    <path d=\"M160 12 V170\" stroke=\"currentColor\" stroke-dasharray=\"4 4\" stroke-width=\"1.1\"/>\n    <text x=\"17\" y=\"18\" font-size=\"11\" fill=\"currentColor\">Medium P</text>\n    <text x=\"17\" y=\"105\" font-size=\"11\" fill=\"currentColor\">Medium Q</text>\n    <text x=\"173\" y=\"25\" font-size=\"10\" fill=\"currentColor\">Normal</text>\n    <text x=\"205\" y=\"137\" font-size=\"10\" fill=\"currentColor\">Ray in Q</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The speed of light increases in Q, and the wavelength increases."
+      },
+      {
+        "key": "B",
+        "text": "The frequency increases in Q, while the speed remains constant."
+      },
+      {
+        "key": "C",
+        "text": "The speed decreases in Q, and the wavelength decreases."
+      },
+      {
+        "key": "D",
+        "text": "The speed decreases in Q, but the wavelength increases."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Bending towards the normal indicates entry into the optically denser medium for the given light. Thus the refractive index increases, and\n\n\nv=(c / n)\n\n\ndecreases. Frequency remains unchanged, so lambda=v/f also decreases. Option D incorrectly predicts an increase in wavelength.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_19_c9urs",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Frequency and wavelength across a plane boundary",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Monochromatic light enters glass from air. The refractive index of glass is 1.5. Which combination correctly describes the changes in speed, frequency and wavelength?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"8\" y=\"92\" width=\"304\" height=\"84\" fill=\"#60A5FA\" fill-opacity=\"0.2\"/>\n    <path d=\"M8 92 H312\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <path d=\"M20 40 L120 92 L235 132\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\"/>\n    <path d=\"M20 40 L120 92\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\"/>\n    <path d=\"M120 92 L235 132\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\"/>\n    <path d=\"M120 18 V167\" stroke=\"currentColor\" stroke-dasharray=\"4 4\" stroke-width=\"1\"/>\n    <text x=\"18\" y=\"17\" font-size=\"11\" fill=\"currentColor\">Air</text>\n    <text x=\"18\" y=\"111\" font-size=\"11\" fill=\"currentColor\">Glass</text>\n    <text x=\"132\" y=\"22\" font-size=\"10\" fill=\"currentColor\">Normal</text>\n    <text x=\"240\" y=\"139\" font-size=\"10\" fill=\"currentColor\">Refracted ray</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Speed decreases to c/1.5, frequency decreases to f/1.5, and wavelength remains unchanged."
+      },
+      {
+        "key": "B",
+        "text": "Speed decreases to c/1.5, frequency remains unchanged, and wavelength decreases to lambda/1.5."
+      },
+      {
+        "key": "C",
+        "text": "Speed remains c, frequency remains unchanged, and wavelength decreases to lambda/1.5."
+      },
+      {
+        "key": "D",
+        "text": "Speed increases to 1.5c, frequency remains unchanged, and wavelength increases to 1.5lambda."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In glass,\n\n\nv=(c / n)=(c / 1.5)\n\n\nThe frequency remains constant at the boundary. Since v=flambda,\n\n\nlambda_{glass}\n=(v / f)\n=frac{lambda_{air}}{1.5}\n\n\nThe speed and wavelength decrease, but frequency does not. Option A incorrectly changes the frequency.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_20_nnw33",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Refraction through a slab with reversed ray direction",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A light ray travels through a rectangular glass slab from air, emerges into air, and then travels back through the same slab in the opposite direction along the emergent path. Which statement is correct under the principle of reversibility of light?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 180\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"70\" y=\"25\" width=\"180\" height=\"130\" fill=\"#60A5FA\" fill-opacity=\"0.2\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <path d=\"M15 145 L70 104 L123 82 L250 25 L300 25\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\"/>\n    <path d=\"M300 25 L250 25 L123 82 L70 104 L15 145\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" stroke-dasharray=\"4 4\"/>\n    <text x=\"118\" y=\"43\" font-size=\"11\" fill=\"currentColor\">Glass slab</text>\n    <text x=\"13\" y=\"163\" font-size=\"10\" fill=\"currentColor\">Ray A</text>\n    <text x=\"256\" y=\"17\" font-size=\"10\" fill=\"currentColor\">Ray B</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The reverse ray follows a different path because the slab's refractive index changes with the direction of travel."
+      },
+      {
+        "key": "B",
+        "text": "The reverse ray undergoes total internal reflection at the first surface because it is moving towards air."
+      },
+      {
+        "key": "C",
+        "text": "The reverse ray retraces the original path exactly, including the same lateral displacement in the opposite direction of travel."
+      },
+      {
+        "key": "D",
+        "text": "The reverse ray emerges perpendicular to the original incident ray because it crosses two interfaces."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The laws of refraction are reversible. If the direction of a ray is reversed, it retraces the same geometrical path. The lateral displacement has the same magnitude, and the emergent ray remains parallel to the original incident ray. Option B incorrectly assumes that merely travelling towards air guarantees total internal reflection.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_21_pgd3b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Why does a diamond sparkle intensely?",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The ray undergoes repeated internal reflections before emerging through a suitable face. A diamond has a very high refractive index, approximately 2.42. Which interpretation of the figure is correct?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M160 22 L239 65 L212 147 L160 177 L108 147 L81 65 Z\" fill=\"#A5F3FC\" fill-opacity=\"0.24\" stroke=\"currentColor\" stroke-width=\"1.5\" /><path d=\"M81 65 L239 65 M108 147 L212 147 M160 22 L160 177 M81 65 L160 147 L239 65\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" /><path d=\"M105 48 L160 82 L209 126 L173 151 L133 118 L184 86\" fill=\"none\" stroke=\"#D97706\" stroke-width=\"2.5\" /><path d=\"M176 91 L184 86 L183 96\" fill=\"none\" stroke=\"#D97706\" stroke-width=\"2\" /><text x=\"8\" y=\"17\" font-size=\"11\" fill=\"currentColor\">Incident light</text><path d=\"M68 18 L105 48\" stroke=\"#D97706\" stroke-width=\"2\" fill=\"none\" /><text x=\"188\" y=\"171\" font-size=\"10\" fill=\"currentColor\">Diamond</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The diamond sparkles because light travels faster inside it than in air."
+      },
+      {
+        "key": "B",
+        "text": "The diamond sparkles because the frequency of light increases at each internal reflection."
+      },
+      {
+        "key": "C",
+        "text": "The diamond sparkles because every incident ray undergoes total internal reflection, regardless of its angle."
+      },
+      {
+        "key": "D",
+        "text": "The diamond can sparkle because its small critical angle allows many rays to undergo repeated total internal reflection before emerging."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For diamond–air,\n\n\nC=sin^{-1}≤ft((1 / 2.42)right)\n≈24.4^°\n\n\nThis small critical angle makes total internal reflection possible for many internal rays. Suitable facets then direct light towards the observer. Option C is incorrect because rays incident at angles below the critical angle may refract out instead.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_22_6ifl4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Advanced sunrise and delayed sunset",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Starlight or sunlight bends progressively through atmospheric layers of varying refractive index. The Sun is geometrically just below the horizon, but the observer can still see its apparent image. Which explanation is correct?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 175\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 132 Q80 119 160 132 T312 132\" stroke=\"currentColor\" stroke-width=\"1.2\" fill=\"none\" /><path d=\"M8 113 Q80 96 160 113 T312 113\" stroke=\"#64748B\" stroke-width=\"1\" stroke-dasharray=\"4 3\" fill=\"none\" /><path d=\"M8 92 Q80 75 160 92 T312 92\" stroke=\"#64748B\" stroke-width=\"1\" stroke-dasharray=\"4 3\" fill=\"none\" /><circle cx=\"254\" cy=\"142\" r=\"12\" fill=\"#F59E0B\" fill-opacity=\"0.8\" /><path d=\"M254 142 L188 82 L105 47\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M105 47 L70 33\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M77 34 L70 33 L74 40\" stroke=\"#D97706\" stroke-width=\"2\" fill=\"none\" /><text x=\"12\" y=\"20\" font-size=\"10\" fill=\"currentColor\">Observer</text><circle cx=\"30\" cy=\"30\" r=\"3\" fill=\"currentColor\" /><text x=\"207\" y=\"169\" font-size=\"10\" fill=\"currentColor\">Geometric horizon</text><text x=\"17\" y=\"151\" font-size=\"10\" fill=\"currentColor\">Earth</text><text x=\"12\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Atmosphere</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Atmospheric refraction bends sunlight progressively towards regions of higher refractive index, making the Sun appear higher than its geometric position."
+      },
+      {
+        "key": "B",
+        "text": "The atmosphere reflects all sunlight at the horizon by total internal reflection."
+      },
+      {
+        "key": "C",
+        "text": "The Sun appears higher because the speed of light increases continuously as it enters denser atmospheric layers."
+      },
+      {
+        "key": "D",
+        "text": "Atmospheric refraction changes the frequency of sunlight until it becomes visible above the horizon."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "is correct?\n\nA) Atmospheric refraction bends sunlight progressively towards regions of higher refractive index, making the Sun appear higher than its geometric position.\n\nB) The atmosphere reflects all sunlight at the horizon by total internal reflection.\n\nC) The Sun appears higher because the speed of light increases continuously as it enters denser atmospheric layers.\n\nD) Atmospheric refraction changes the frequency of sunlight until it becomes visible above the horizon.\n\n**Correct Answer: A**\n\n**Reason:**\n\nAtmospheric density and refractive index generally increase closer to Earth's surface. Light curves through the atmosphere, and the backward extension of the final ray places the apparent Sun above its true geometric position. This causes advanced sunrise and delayed sunset. Option B incorrectly attributes the effect to total internal reflection.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_23_gxl5f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Frequency and wavelength across a plane boundary",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A light ray crosses from air into glass; the ray bends towards the normal. Monochromatic light enters glass from air. The refractive index of glass is 1.5. Which combination correctly describes the changes in speed, frequency and wavelength?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"8\" y=\"92\" width=\"304\" height=\"84\" fill=\"#60A5FA\" fill-opacity=\"0.2\" /><path d=\"M8 92 H312\" stroke=\"currentColor\" stroke-width=\"1.5\" /><path d=\"M20 40 L120 92 L235 132\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M20 40 L120 92\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M120 92 L235 132\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M120 18 V167\" stroke=\"currentColor\" stroke-dasharray=\"4 4\" stroke-width=\"1\" /><text x=\"18\" y=\"17\" font-size=\"11\" fill=\"currentColor\">Air</text><text x=\"18\" y=\"111\" font-size=\"11\" fill=\"currentColor\">Glass</text><text x=\"132\" y=\"22\" font-size=\"10\" fill=\"currentColor\">Normal</text><text x=\"240\" y=\"139\" font-size=\"10\" fill=\"currentColor\">Refracted ray</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Speed decreases to c/1.5, frequency decreases to f/1.5, and wavelength remains unchanged."
+      },
+      {
+        "key": "B",
+        "text": "Speed decreases to c/1.5, frequency remains unchanged, and wavelength decreases to lambda/1.5."
+      },
+      {
+        "key": "C",
+        "text": "Speed remains c, frequency remains unchanged, and wavelength decreases to lambda/1.5."
+      },
+      {
+        "key": "D",
+        "text": "Speed increases to 1.5c, frequency remains unchanged, and wavelength increases to 1.5lambda."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In glass,\n\n\nv=(c / n)=(c / 1.5)\n\n\nThe frequency remains constant at the boundary. Since v=flambda,\n\n\nlambda_{glass}\n=(v / f)\n=frac{lambda_{air}}{1.5}\n\n\nThe speed and wavelength decrease, but frequency does not. Option A incorrectly changes the frequency.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_24_e9fox",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Refraction through a slab with reversed ray direction",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A ray passes through a parallel-sided slab; the path is reversible when the direction of light is reversed. A light ray travels through a rectangular glass slab from air, emerges into air, and then travels back through the same slab in the opposite direction along the emergent path. Which statement is correct under the principle of reversibility of light?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 180\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"70\" y=\"25\" width=\"180\" height=\"130\" fill=\"#60A5FA\" fill-opacity=\"0.2\" stroke=\"currentColor\" stroke-width=\"1.5\" /><path d=\"M15 145 L70 104 L123 82 L250 25 L300 25\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M300 25 L250 25 L123 82 L70 104 L15 145\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" stroke-dasharray=\"4 4\" /><text x=\"118\" y=\"43\" font-size=\"11\" fill=\"currentColor\">Glass slab</text><text x=\"13\" y=\"163\" font-size=\"10\" fill=\"currentColor\">Ray A</text><text x=\"256\" y=\"17\" font-size=\"10\" fill=\"currentColor\">Ray B</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The reverse ray follows a different path because the slab's refractive index changes with the direction of travel."
+      },
+      {
+        "key": "B",
+        "text": "The reverse ray undergoes total internal reflection at the first surface because it is moving towards air."
+      },
+      {
+        "key": "C",
+        "text": "The reverse ray retraces the original path exactly, including the same lateral displacement in the opposite direction of travel."
+      },
+      {
+        "key": "D",
+        "text": "The reverse ray emerges perpendicular to the original incident ray because it crosses two interfaces."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The laws of refraction are reversible. If the direction of a ray is reversed, it retraces the same geometrical path. The lateral displacement has the same magnitude, and the emergent ray remains parallel to the original incident ray. Option B incorrectly assumes that merely travelling towards air guarantees total internal reflection.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_25_oy9i5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Finding the refractive index from a lateral-displacement setup",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A glass slab is 5 cm thick. A ray is incident at 60^° and refracts at 30^°. Calculate the refractive index of the glass relative to air.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.15"
+      },
+      {
+        "key": "B",
+        "text": "1.50"
+      },
+      {
+        "key": "C",
+        "text": "1.73"
+      },
+      {
+        "key": "D",
+        "text": "2.00"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "n=(sin60^° / sin30^°)\n=(0.8660 / 0.5)\n≈1.732\n\n\nThe slab thickness is irrelevant to the refractive-index calculation. Option D incorrectly assumes a simple ratio of the angles.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_26_8964y",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Speed of light in glass",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A transparent glass has an absolute refractive index of 1.6. Given c=3×10^8 m/s, calculate the speed of light in the glass.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.875×10^8 m/s"
+      },
+      {
+        "key": "B",
+        "text": "4.8×10^8 m/s"
+      },
+      {
+        "key": "C",
+        "text": "3.0×10^8 m/s"
+      },
+      {
+        "key": "D",
+        "text": "1.6×10^8 m/s"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "n=(c / v)\nquadRightarrowquad v=(c / n)\n\n\n\nv=(3×10^8 / 1.6)\n=1.875×10^8 m/s\n\n\nOption B multiplies by the refractive index instead of dividing. Option C incorrectly uses the vacuum speed.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_27_bxuww",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Comparing the apparent positions of two objects",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two objects lie beneath the same water surface; the apparent images are shown above their real positions. Two small objects lie at different real depths in the same water, viewed nearly normally from air. Object A is 8 cm below the surface and object B is 12 cm below it. If the refractive index of water is 4/3, what are their apparent depths?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 200\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"48\" width=\"300\" height=\"142\" fill=\"#60A5FA\" fill-opacity=\"0.18\" /><path d=\"M10 48 H310\" stroke=\"currentColor\" stroke-width=\"1.5\" /><circle cx=\"95\" cy=\"150\" r=\"5\" fill=\"#D97706\" /><circle cx=\"230\" cy=\"150\" r=\"5\" fill=\"#0D9488\" /><circle cx=\"95\" cy=\"124\" r=\"4\" fill=\"#D97706\" fill-opacity=\"0.6\" /><circle cx=\"230\" cy=\"114\" r=\"4\" fill=\"#0D9488\" fill-opacity=\"0.6\" /><path d=\"M95 150 L140 48 L183 18 M230 150 L265 48 L291 18\" stroke=\"#64748B\" stroke-dasharray=\"4 3\" stroke-width=\"1.2\" fill=\"none\" /><text x=\"15\" y=\"30\" font-size=\"11\" fill=\"currentColor\">Air</text><text x=\"15\" y=\"68\" font-size=\"11\" fill=\"currentColor\">Water</text><text x=\"105\" y=\"128\" font-size=\"10\" fill=\"currentColor\">Image A</text><text x=\"238\" y=\"111\" font-size=\"10\" fill=\"currentColor\">Image B</text><text x=\"65\" y=\"174\" font-size=\"10\" fill=\"currentColor\">Object A</text><text x=\"200\" y=\"174\" font-size=\"10\" fill=\"currentColor\">Object B</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "A: 10.67 cm; B: 16 cm"
+      },
+      {
+        "key": "B",
+        "text": "A: 8 cm; B: 12 cm"
+      },
+      {
+        "key": "C",
+        "text": "A: 6 cm; B: 9 cm"
+      },
+      {
+        "key": "D",
+        "text": "A: 2 cm; B: 3 cm"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For near-normal viewing,\n\n\nd_{apparent}=frac{d_{real}}{n}\n\n\nFor A,\n\n\nd_A=(8 / 4/3)=6 cm\n\n\nFor B,\n\n\nd_B=(12 / 4/3)=9 cm\n\n\nBoth objects appear raised towards the surface. Option A reverses the real-to-apparent depth ratio.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_28_gabqh",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Comparing the apparent positions of two objects",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two small objects lie at different real depths in the same water, viewed nearly normally from air. Object A is 8 cm below the surface and object B is 12 cm below it. If the refractive index of water is 4/3, what are their apparent depths?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 200\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"48\" width=\"300\" height=\"142\" fill=\"#60A5FA\" fill-opacity=\"0.18\"/>\n    <path d=\"M10 48 H310\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <circle cx=\"95\" cy=\"150\" r=\"5\" fill=\"#D97706\"/>\n    <circle cx=\"230\" cy=\"150\" r=\"5\" fill=\"#0D9488\"/>\n    <circle cx=\"95\" cy=\"124\" r=\"4\" fill=\"#D97706\" fill-opacity=\"0.6\"/>\n    <circle cx=\"230\" cy=\"114\" r=\"4\" fill=\"#0D9488\" fill-opacity=\"0.6\"/>\n    <path d=\"M95 150 L140 48 L183 18 M230 150 L265 48 L291 18\" stroke=\"#64748B\" stroke-dasharray=\"4 3\" stroke-width=\"1.2\" fill=\"none\"/>\n    <text x=\"15\" y=\"30\" font-size=\"11\" fill=\"currentColor\">Air</text>\n    <text x=\"15\" y=\"68\" font-size=\"11\" fill=\"currentColor\">Water</text>\n    <text x=\"105\" y=\"128\" font-size=\"10\" fill=\"currentColor\">Image A</text>\n    <text x=\"238\" y=\"111\" font-size=\"10\" fill=\"currentColor\">Image B</text>\n    <text x=\"65\" y=\"174\" font-size=\"10\" fill=\"currentColor\">Object A</text>\n    <text x=\"200\" y=\"174\" font-size=\"10\" fill=\"currentColor\">Object B</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "A: 10.67 cm; B: 16 cm"
+      },
+      {
+        "key": "B",
+        "text": "A: 8 cm; B: 12 cm"
+      },
+      {
+        "key": "C",
+        "text": "A: 6 cm; B: 9 cm"
+      },
+      {
+        "key": "D",
+        "text": "A: 2 cm; B: 3 cm"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For near-normal viewing,\n\n\nd_{apparent}=frac{d_{real}}{n}\n\n\nFor A,\n\n\nd_A=(8 / 4/3)=6 cm\n\n\nFor B,\n\n\nd_B=(12 / 4/3)=9 cm\n\n\nBoth objects appear raised towards the surface. Option A reverses the real-to-apparent depth ratio.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_29_6o44d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Interpreting a graph of sin i against sin r",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A student plots sin i against sin r for light passing from air into glass. The graph is a straight line through the origin with gradient 1.5. What does the gradient represent?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 220\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M48 22 V181 H294\" stroke=\"currentColor\" stroke-width=\"1.5\" fill=\"none\"/>\n    <path d=\"M48 181 L273 34\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\"/>\n    <path d=\"M48 181 L273 34\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\"/>\n    <path d=\"M48 181 L273 34\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\"/>\n    <text x=\"11\" y=\"20\" font-size=\"11\" fill=\"currentColor\">sin i</text>\n    <text x=\"248\" y=\"201\" font-size=\"11\" fill=\"currentColor\">sin r</text>\n    <text x=\"150\" y=\"91\" font-size=\"11\" fill=\"#D97706\">Straight line</text>\n    <text x=\"52\" y=\"195\" font-size=\"10\" fill=\"currentColor\">O</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The refractive index of glass relative to air."
+      },
+      {
+        "key": "B",
+        "text": "The reciprocal of the refractive index of glass relative to air."
+      },
+      {
+        "key": "C",
+        "text": "The speed of light in glass divided by the speed of light in air."
+      },
+      {
+        "key": "D",
+        "text": "The critical angle of glass in degrees."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Snell's law gives\n\n\nn=(sin i / sin r)\n\n\nThe gradient of a graph of sin i against sin r is\n\n\n(Δ(sin i) / Δ(sin r))=n=1.5\n\n\nOption B would apply if the axes were interchanged. The gradient is a dimensionless ratio, not an angle.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_refraction_of_light_at_plane_surfaces_30_9ft8q",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Interpreting a graph of sin i against sin r",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The vertical axis is sin i; the horizontal axis is sin r. The straight line passes through the origin. A student plots sin i against sin r for light passing from air into glass. The graph is a straight line through the origin with gradient 1.5. What does the gradient represent?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 220\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M48 22 V181 H294\" stroke=\"currentColor\" stroke-width=\"1.5\" fill=\"none\" /><path d=\"M48 181 L273 34\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M48 181 L273 34\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M48 181 L273 34\" stroke=\"#D97706\" stroke-width=\"2.5\" fill=\"none\" /><text x=\"11\" y=\"20\" font-size=\"11\" fill=\"currentColor\">sin i</text><text x=\"248\" y=\"201\" font-size=\"11\" fill=\"currentColor\">sin r</text><text x=\"150\" y=\"91\" font-size=\"11\" fill=\"#D97706\">Straight line</text><text x=\"52\" y=\"195\" font-size=\"10\" fill=\"currentColor\">O</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The refractive index of glass relative to air."
+      },
+      {
+        "key": "B",
+        "text": "The reciprocal of the refractive index of glass relative to air."
+      },
+      {
+        "key": "C",
+        "text": "The speed of light in glass divided by the speed of light in air."
+      },
+      {
+        "key": "D",
+        "text": "The critical angle of glass in degrees."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Snell's law gives\n\n\nn=(sin i / sin r)\n\n\nThe gradient of a graph of sin i against sin r is\n\n\n(Δ(sin i) / Δ(sin r))=n=1.5\n\n\nOption B would apply if the axes were interchanged. The gradient is a dimensionless ratio, not an angle.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "globalId": "qb_hots_hydrogen_chloride_1_uet88",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Multiple-stage stoichiometry",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A sample of 23.4 g of NaCl is used in the first-stage laboratory preparation of HCl. Assume complete reaction with excess concentrated H₂SO₄. Which set gives the moles of HCl formed, mass of NaHSO₄ formed and volume of HCl at STP, respectively?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.4 mol, 48.0 g, 8.96 L"
+      },
+      {
+        "key": "B",
+        "text": "0.2 mol, 24.0 g, 4.48 L"
+      },
+      {
+        "key": "C",
+        "text": "0.4 mol, 56.8 g, 8.96 L"
+      },
+      {
+        "key": "D",
+        "text": "0.8 mol, 48.0 g, 17.92 L"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "n(NaCl)=(23.4 / 58.5)=0.4 mol\n\n\nThe first-stage equation produces 0.4 mol HCl and 0.4 mol NaHSO₄.\n\n\nm(NaHSO₄)=0.4×120=48.0 g\n\n\n\nV(HCl)=0.4×22.4=8.96 L\n\n\nOption C incorrectly uses 142 g mol⁻¹, the molar mass of Na₂SO₄, instead of 120 g mol⁻¹ for NaHSO₄.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "e4242871a5ad4346942eb1de4a20cd1c388bec1050a7e35d206254d7a4de8bc9",
+    "question_skeleton": "a sample of 23 4 g of nacl is used in the first stage laboratory preparation of hcl assume complete reaction with excess concentrated h so which set gives the moles of hcl formed mass of nahso formed and volume of hcl at stp respectively"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_2_wthd6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Limiting reagent and gas volume",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A mixture contains 13.0 g of Zn and 7.30 g of HCl. The reaction is Zn+2HCl→ ZnCl₂+H₂ What volume of hydrogen is produced at STP?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4.48 L"
+      },
+      {
+        "key": "B",
+        "text": "2.24 L"
+      },
+      {
+        "key": "C",
+        "text": "1.12 L"
+      },
+      {
+        "key": "D",
+        "text": "8.96 L"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "n(Zn)=(13 / 65)=0.2 mol\n\n\n\nn(HCl)=(7.30 / 36.5)=0.2 mol\n\n\nTwo moles of HCl are required per mole of Zn. HCl is therefore the limiting reagent.\n\n\nn(H₂)=(0.2 / 2)=0.1 mol\n\n\n\nV(H₂)=0.1×22.4=2.24 L\n\n\nOption A incorrectly assumes that all 0.2 mol of Zn reacts.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "6da4a03cc6d2942d316dc23afac3cb480ade5c3be7a11862667f40268441b1a6",
+    "question_skeleton": "a mixture contains 13 0 g of zn and 7 30 g of hcl the reaction is mathrm zn 2hcl rightarrow zncl 2 h 2 what volume of hydrogen is produced at stp"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_3_v2cp4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Reaction stoichiometry with two products",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A 12.7 g sample of copper(II) oxide reacts completely with excess HCl: CuO+2HCl→ CuCl₂+H_2O Using Cu = 63.5, calculate the mass of HCl consumed and the mass of CuCl₂ formed, respectively.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "7.3 g and 13.5 g"
+      },
+      {
+        "key": "B",
+        "text": "14.6 g and 13.5 g"
+      },
+      {
+        "key": "C",
+        "text": "7.3 g and 27.0 g"
+      },
+      {
+        "key": "D",
+        "text": "14.6 g and 27.0 g"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Molar mass of CuO:\n\n\n63.5+16=79.5 g mol^{-1}\n\n\n\nn(CuO)=(12.7 / 79.5)≈0.15975 mol\n\n\nHCl consumed:\n\n\nm(HCl)≈2(0.15975)(36.5)\n≈11.66 g\n\n\nCuCl₂ formed:\n\n\nm(CuCl₂)≈0.15975(63.5+71)\n≈21.49 g\n\n\n**Correction:** These calculated values do not match any option. The question's options are therefore invalid. This item should be replaced rather than used for scoring.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "0039e52fd1d871d92d4080608559623e2184f8651546a2a8e371b05983ba0d35",
+    "question_skeleton": "a 12 7 g sample of copper ii oxide reacts completely with excess hcl mathrm cuo 2hcl rightarrow cucl 2 h 2o using cu 63 5 calculate the mass of hcl consumed and the mass of cucl formed respectively"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_4_pe1kl",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Reaction of sodium bicarbonate with hydrochloric acid",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A 8.4 g sample of pure sodium bicarbonate (NaHCO₃) reacts completely with excess dilute HCl: NaHCO₃+HCl→ NaCl+H_2O+CO₂ Calculate the volume of CO₂ at STP and the mass of NaCl formed, respectively.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4.48 L and 11.7 g"
+      },
+      {
+        "key": "B",
+        "text": "2.24 L and 11.7 g"
+      },
+      {
+        "key": "C",
+        "text": "2.24 L and 5.85 g"
+      },
+      {
+        "key": "D",
+        "text": "1.12 L and 5.85 g"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Molar mass of NaHCO₃:\n\n\n23+1+12+3(16)=84\n\n\nMoles of NaHCO₃:\n\n\nn=(8.4 / 84)=0.1 mol\n\n\nThe equation gives a 1:1 ratio between NaHCO₃ and CO₂, and between NaHCO₃ and NaCl.\n\n\nV(CO₂)=0.1×22.4=2.24 L\n\n\n\nm(NaCl)=0.1×58.5\n=5.85 g\n\n\nOption B doubles the calculated salt mass. The carbonate and bicarbonate reactions both produce carbon dioxide, but their stoichiometry must be applied to the correct formula.\n\n---\n\n**Batch 4 complete: Numerical Questions 21–40.**\n\nReply **YES** for the next batch: **Theoretical (Conceptual) Questions 1–30**, covering assertion–reason, statement analysis, incorrect statements, matching and multi-step conceptual traps.",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "469488e0f0dc7df0be20abb6962774b9eba2807981109467d29f1e236f965ab6",
+    "question_skeleton": "a 8 4 g sample of pure sodium bicarbonate nahco reacts completely with excess dilute hcl mathrm nahco 3 hcl rightarrow nacl h 2o co 2 calculate the volume of co at stp and the mass of nacl formed respectively"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_5_nul0k",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Comparing the two chloride precipitation tests",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Equal amounts of chloride ions are tested separately with excess AgNO₃ and Pb(NO₃)₂. Which statement correctly identifies the precipitates and their characteristic behaviour?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "AgCl is white and dissolves in NH₄OH; PbCl₂ is white and dissolves on heating."
+      },
+      {
+        "key": "B",
+        "text": "AgCl is white and dissolves in dilute HNO₃; PbCl₂ is black and insoluble on heating."
+      },
+      {
+        "key": "C",
+        "text": "AgCl is blue and insoluble in NH₄OH; PbCl₂ is white and dissolves in cold water."
+      },
+      {
+        "key": "D",
+        "text": "AgCl is white and dissolves on heating; PbCl₂ is white and dissolves in NH₄OH."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "AgNO₃ produces white curdy AgCl, which is insoluble in dilute HNO₃ but soluble in NH₄OH. Lead nitrate produces white PbCl₂, which dissolves on heating. Option D incorrectly assigns the characteristic solubility observations.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "cbc6c87453c55f397526e64f20e3f90779a8ad363eb056007b19cde11457d194",
+    "question_skeleton": "equal amounts of chloride ions are tested separately with excess agno and pb no which statement correctly identifies the precipitates and their characteristic behaviour"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_6_7jzr7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style A multi-step chloride test",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "An aqueous solution is treated with AgNO₃, producing a white curdy precipitate. The precipitate remains after dilute HNO₃ is added but dissolves when NH₄OH is added. A separate portion of the original solution gives a white precipitate with Pb(NO₃)₂ that dissolves on heating. Which conclusion is best supported?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both precipitates are AgCl, and both must dissolve in dilute HNO₃."
+      },
+      {
+        "key": "B",
+        "text": "The first precipitate is PbCl₂ and the second is AgCl."
+      },
+      {
+        "key": "C",
+        "text": "The observations are consistent with chloride ions: AgCl is insoluble in dilute HNO₃ but soluble in NH₄OH, while PbCl₂ dissolves on heating."
+      },
+      {
+        "key": "D",
+        "text": "The first precipitate is Ag₂O and the second is PbO, proving that the solution contains no chloride ions."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The two tests have distinct characteristic behaviours. AgNO₃ gives white curdy AgCl, insoluble in dilute HNO₃ and soluble in NH₄OH. Lead nitrate gives white PbCl₂, which dissolves on heating. The observations are consistent with chloride ions.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "41cd89ef6d2e18b78fca67b9e8cc8917ff401f72f3fd25954f8a4660e96988f3",
+    "question_skeleton": "an aqueous solution is treated with agno producing a white curdy precipitate the precipitate remains after dilute hno is added but dissolves when nh oh is added a separate portion of the original solution gives a white precipitate with pb no that dissolves on heating which conclusion is best supported"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_7_7rwlh",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Combined precipitate calculations",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "An aqueous solution containing 0.20 mol of HCl is divided into two equal portions. Excess AgNO₃ is added to the first portion and excess Pb(NO₃)₂ to the second. What masses of AgCl and PbCl₂ are theoretically formed, respectively?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "28.7 g and 27.8 g"
+      },
+      {
+        "key": "B",
+        "text": "14.35 g and 27.8 g"
+      },
+      {
+        "key": "C",
+        "text": "14.35 g and 13.9 g"
+      },
+      {
+        "key": "D",
+        "text": "7.175 g and 13.9 g"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Each portion contains\n\n\n0.20/2=0.10 mol HCl\n\n\nFor the first portion:\n\n\nAgNO₃+HCl→ AgCl+HNO₃\n\n\n\nm(AgCl)=0.10×143.5=14.35 g\n\n\nFor the second portion:\n\n\nPb(NO₃)₂+2HCl→ PbCl₂+2HNO₃\n\n\n\nn(PbCl₂)=0.10/2=0.05 mol\n\n\n\nm(PbCl₂)=0.05×278=13.9 g\n\n\nOption B incorrectly uses all the HCl in the second portion as though the PbCl₂ reaction were 1:1.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "e012041895ba11a43a36b8e609f0e8fb9e478764cae58a15e83764f810a71803",
+    "question_skeleton": "an aqueous solution containing 0 20 mol of hcl is divided into two equal portions excess agno is added to the first portion and excess pb no to the second what masses of agcl and pbcl are theoretically formed respectively"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_8_oufvd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Integrated final challenge",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student prepares HCl by heating NaCl with concentrated H₂SO₄ below 200°C, dries the gas with concentrated H₂SO₄, collects it by upward delivery, and then dissolves a portion in water. The aqueous solution is tested with blue litmus and AgNO₃. Which sequence of conclusions is entirely correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Na₂SO₄ forms in the first stage; HCl is collected over water; dry blue litmus turns red; AgNO₃ gives a black precipitate."
+      },
+      {
+        "key": "B",
+        "text": "NaHSO₄ forms in the first stage; HCl is lighter than air; aqueous blue litmus remains blue; AgCl dissolves in dilute HNO₃."
+      },
+      {
+        "key": "C",
+        "text": "NaHSO₄ forms in the first stage; HCl is dried with quicklime; dry blue litmus turns red; AgNO₃ produces PbCl₂."
+      },
+      {
+        "key": "D",
+        "text": "NaHSO₄ forms in the first stage; HCl is dried with concentrated H₂SO₄ and collected by upward delivery; dry blue litmus remains blue, aqueous blue litmus turns red, and AgNO₃ gives white curdy AgCl insoluble in dilute HNO₃."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The first-stage reaction is\n\n\nNaCl+H_2SO₄(conc.)→ NaHSO₄+HCl\n\n\nConcentrated H₂SO₄ dries HCl, which is collected by upward delivery because it is heavier than air. Dry HCl does not turn dry blue litmus red, but aqueous HCl does. Silver nitrate produces white curdy AgCl, insoluble in dilute HNO₃. Option C uses an unsuitable drying agent and incorrectly predicts the litmus result.\n\n---\n\n## Final quality note\n\nThe complex set above contains useful board-style practice, but **Q21 has invalid answer options and must not be used for assessment**. Also, in Q15, the correct numerical result is 6.022×10^{22} ions of each type, corresponding to option **C**. Please use these corrections when compiling the final question bank.",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "42c2535460b8f1a84230d8906a13c21c908c1803dbdbe1d904dd3b9df4ca2826",
+    "question_skeleton": "a student prepares hcl by heating nacl with concentrated h so below 200 c dries the gas with concentrated h so collects it by upward delivery and then dissolves a portion in water the aqueous solution is tested with blue litmus and agno which sequence of conclusions is entirely correct"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_9_xtaju",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Aqua regia composition and total volume",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student mixes 90 mL of concentrated HCl with 30 mL of concentrated HNO₃. Assuming the volumes are additive for this calculation, which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The mixture has the required 3:1 volume ratio and a total volume of 120 mL."
+      },
+      {
+        "key": "B",
+        "text": "The mixture has the required 1:3 ratio and a total volume of 120 mL."
+      },
+      {
+        "key": "C",
+        "text": "The mixture has a 3:1 ratio and a total volume of 90 mL."
+      },
+      {
+        "key": "D",
+        "text": "The mixture has a 1:1 ratio and a total volume of 120 mL."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "(V(HCl) / V(HNO₃))\n=(90 / 30)=3\n\n\nThe required ratio is 3:1, and the total volume under the stated assumption is\n\n\n90+30=120 mL\n\n\nOption B reverses the acid proportions.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "d98b3e8502a0cc93f3a1bbe209c0fbf716e43896be192d5c2fb4ba29bb0102ea",
+    "question_skeleton": "a student mixes 90 ml of concentrated hcl with 30 ml of concentrated hno assuming the volumes are additive for this calculation which statement is correct"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_10_zatcj",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Aqua regia and its chemical action",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement correctly explains why aqua regia can dissolve gold and platinum?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It contains three volumes of concentrated HNO₃ and one volume of concentrated HCl, and nitric acid alone dissolves both metals."
+      },
+      {
+        "key": "B",
+        "text": "It contains equal volumes of the two acids, and hydrogen produced in the mixture converts the metals into soluble hydrides."
+      },
+      {
+        "key": "C",
+        "text": "It contains one volume of concentrated HCl and three volumes of concentrated HNO₃, and chlorine is absent from the reaction."
+      },
+      {
+        "key": "D",
+        "text": "It contains three volumes of concentrated HCl and one volume of concentrated HNO₃; chlorine and nitrosyl chloride formed convert gold and platinum into soluble chlorides."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Aqua regia uses the volume ratio HCl:HNO₃ = 3:1. The chlorine and nitrosyl chloride formed are responsible for converting gold and platinum into soluble chlorides. Option A reverses the required proportions.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "06fdf438d017333746aee37bd95bd8fa6ac7526ea84fe3b302731a9998500db4",
+    "question_skeleton": "which statement correctly explains why aqua regia can dissolve gold and platinum"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_11_3ddzu",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Interpreting the fountain experiment",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "(Image reference: Figure 7: Explanations of the fountain experiment)* Consider these statements: - **Statement A:** The fountain demonstrates the extreme solubility of HCl in water. - **Statement B:** The fountain forms because HCl is heavier than air. Which option evaluates the statements correctly?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Statement A is false, but Statement B is true."
+      },
+      {
+        "key": "B",
+        "text": "Statement A is true, but Statement B is false."
+      },
+      {
+        "key": "C",
+        "text": "Both statements are true."
+      },
+      {
+        "key": "D",
+        "text": "Both statements are false."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rapid dissolution of HCl creates the conditions for water to enter the flask and form the fountain. The experiment also demonstrates the acidic nature of the resulting solution when blue litmus turns red. The density of HCl explains its collection by downward displacement of air, not the fountain phenomenon. Therefore, Statement B is the tempting but incorrect explanation.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "9bab54212c6e396ff28024ac2693bf131fdce99685f6903c3ebcf282008eb80f",
+    "question_skeleton": "figure the observed fountain is red because blue litmus water enters the flask of hcl gas two possible explanations are shown beside the apparatus image reference figure 7 explanations of the fountain experiment consider these statements statement a the fountain demonstrates the extreme solubility of hcl in water statement b the fountain forms because hcl is heavier than air which option evaluates the statements correctly"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_12_m0d1i",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Percentage purity of an impure NaCl sample",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "An impure 12.6 g sample containing NaCl is treated with excess concentrated H₂SO₄ below 200°C. The HCl obtained is collected as 4.48 L of dry gas at STP. Assuming the NaCl is the only source of HCl and the reaction proceeds completely, what is the percentage purity of the original sample?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "46.43%"
+      },
+      {
+        "key": "B",
+        "text": "100%"
+      },
+      {
+        "key": "C",
+        "text": "92.86%"
+      },
+      {
+        "key": "D",
+        "text": "85.00%"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "First calculate the moles of HCl:\n\n\nn(HCl)=(4.48 / 22.4)=0.2 mol\n\n\nFrom the first-stage equation, NaCl:HCl = 1:1.\n\n\nn(NaCl)=0.2 mol\n\n\nMass of pure NaCl present:\n\n\nm=0.2×58.5=11.7 g\n\n\nPercentage purity:\n\n\nbegin{aligned}\n% purity\n&=(mass of pure NaCl / mass of impure sample)×100\n&=(11.7 / 12.6)×100\n&=92.86%\nend{aligned}\n\n\nOption B assumes the whole sample is pure NaCl, while option A incorrectly uses the mass of HCl as the mass of NaCl.\n\n---\n\n**Batch 3 complete: Numerical Questions 1–20.**\n\nThe next batch will contain **Numerical Questions 21–40**, with further multi-step calculations and trickier stoichiometric applications.",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "bd5e28b965ff21b1c083d8dedc498aec51b41c3d9fc6ce60bf2495a73f3ca78f",
+    "question_skeleton": "an impure 12 6 g sample containing nacl is treated with excess concentrated h so below 200 c the hcl obtained is collected as 4 48 l of dry gas at stp assuming the nacl is the only source of hcl and the reaction proceeds completely what is the percentage purity of the original sample"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_13_ejz0h",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Limiting reagent in the second stage of laboratory preparation",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "At about 500°C, 24.0 g of sodium hydrogen sulphate (NaHSO₄) is heated with 8.775 g of sodium chloride (NaCl). The reaction is NaHSO₄+NaCl→ Na_2SO₄+HCl Assuming complete reaction of the limiting reagent, which result is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4.48 L HCl is formed, and 12.0 g NaHSO₄ remains."
+      },
+      {
+        "key": "B",
+        "text": "3.36 L HCl is formed, 21.3 g Na₂SO₄ is formed, and 6.0 g NaHSO₄ remains."
+      },
+      {
+        "key": "C",
+        "text": "2.24 L HCl is formed, and no NaHSO₄ remains."
+      },
+      {
+        "key": "D",
+        "text": "3.36 L HCl is formed, 14.2 g Na₂SO₄ is formed, and no NaHSO₄ remains."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Molar masses:\n\n\nM(NaHSO₄)=120,quad M(NaCl)=58.5\n\n\nMoles of reactants:\n\n\nn(NaHSO₄)=(24 / 120)=0.2\n\n\n\nn(NaCl)=(8.775 / 58.5)=0.15\n\n\nThe reaction ratio is 1:1, so NaCl is the limiting reagent.\n\nHCl formed:\n\n\nV=0.15×22.4=3.36 L\n\n\nNa₂SO₄ formed:\n\n\nm=0.15×142=21.3 g\n\n\nNaHSO₄ remaining:\n\n\n(0.2-0.15)×120=6.0 g\n\n\nOption D incorrectly assumes all NaHSO₄ reacts despite insufficient NaCl.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "abe96dc05be237d841b7ac57993eb98351c418861043bf588294a6a30450b324",
+    "question_skeleton": "at about 500 c 24 0 g of sodium hydrogen sulphate nahso is heated with 8 775 g of sodium chloride nacl the reaction is mathrm nahso 4 nacl rightarrow na 2so 4 hcl assuming complete reaction of the limiting reagent which result is correct"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_14_aebi3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Selecting the correct statements about concentrated HCl",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Consider these statements: I. Concentrated HCl reacts with MnO₂ on heating to produce Cl₂. II. Concentrated HCl is itself an oxidising agent. III. The reaction also produces MnCl₂ and water. IV. The balanced equation requires four moles of HCl per mole of MnO₂. Which set is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I and II only"
+      },
+      {
+        "key": "B",
+        "text": "II and III only"
+      },
+      {
+        "key": "C",
+        "text": "I, III and IV only"
+      },
+      {
+        "key": "D",
+        "text": "I, II, III and IV"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The balanced equation is\n\n\nMnO₂+4HCl→ MnCl₂+2H_2O+Cl₂\n\n\nStatements I, III and IV are correct. Statement II is false because concentrated HCl is not itself an oxidising agent.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "6fa3e22c9690ea6768c5d11bfcf2754017c091bd49d3504da53ed960f9263528",
+    "question_skeleton": "consider these statements i concentrated hcl reacts with mno on heating to produce cl ii concentrated hcl is itself an oxidising agent iii the reaction also produces mncl and water iv the balanced equation requires four moles of hcl per mole of mno which set is correct"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_15_cttpr",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Industrial preparation and absorption of HCl",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "(Image reference: Figure 16: Industrial preparation of hydrochloric acid)* Why is water arranged to flow against the direction of the HCl gas in the absorption tower?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Counter-current flow promotes contact between the gas and water, supporting the absorption of highly soluble HCl and the production of hydrochloric acid solution."
+      },
+      {
+        "key": "B",
+        "text": "The opposite flow converts HCl into chlorine before it reaches the water."
+      },
+      {
+        "key": "C",
+        "text": "Water must travel with the gas because HCl is almost insoluble in it."
+      },
+      {
+        "key": "D",
+        "text": "Counter-current flow makes HCl lighter than air, allowing collection over water."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "HCl gas is absorbed in water to produce hydrochloric acid. Opposing the flow of water and gas allows effective contact during absorption. The direct-combination reaction is H₂ + Cl₂ → 2HCl. Option C is incorrect because HCl is extremely soluble in water.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "3f66715d7c272be2ef233968a8b499e996f87bc5e51ba152fcd97677e3cb9221",
+    "question_skeleton": "figure hydrogen and chlorine combine in a reaction chamber to form hcl gas the gas enters an absorption tower where the gas stream travels upwards while water flows downwards image reference figure 16 industrial preparation of hydrochloric acid why is water arranged to flow against the direction of the hcl gas in the absorption tower"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_16_82jrx",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Correct sequence in laboratory preparation",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "(Image reference: Figure 17: Flow chart for the laboratory preparation of HCl)* Which correction is necessary for the flow chart to represent the correct laboratory sequence?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Collect HCl over water first, then dry the collected solution using CaO."
+      },
+      {
+        "key": "B",
+        "text": "Heat the mixture to about 500°C after collecting HCl, then pass the gas through dilute H₂SO₄."
+      },
+      {
+        "key": "C",
+        "text": "Replace the drying stage with an NH₄OH wash before collecting HCl."
+      },
+      {
+        "key": "D",
+        "text": "After generating HCl, pass it through concentrated H₂SO₄ to dry it and then collect it by upward delivery."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The generated HCl gas must pass through the concentrated H₂SO₄ drying bottle before it reaches the collection jar. Because the gas is extremely soluble in water, collection over water is unsuitable. Option A incorrectly proposes collecting HCl over water and using quicklime to dry it.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "97b9db80b3594b95d883e893d9e6d998f660575502ac1c79a0ef856eeeaaf484",
+    "question_skeleton": "figure the flow chart begins with nacl and concentrated h so reacting in a flask then shows collection drying with concentrated h so and storage in a gas jar the drying and collection stages are in the wrong order image reference figure 17 flow chart for the laboratory preparation of hcl which correction is necessary for the flow chart to represent the correct laboratory sequence"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_17_fbqxb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Distinguishing gas density from gas solubility",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which interpretation correctly explains why arrangement I is appropriate and arrangement II is unsuitable?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "HCl is lighter than air, but its reaction with water makes it impossible to collect in a trough."
+      },
+      {
+        "key": "B",
+        "text": "HCl is heavier than air and extremely soluble in water, so it is collected by downward displacement of air rather than over water."
+      },
+      {
+        "key": "C",
+        "text": "HCl is heavier than air and insoluble in water, so either arrangement works equally well."
+      },
+      {
+        "key": "D",
+        "text": "HCl is lighter than air and does not support combustion, so it must be collected over water."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "HCl has vapour density 18.25 and is heavier than air. Its extreme solubility in water makes collection over water unsuitable. Option C correctly identifies the density but incorrectly states that HCl is insoluble in water.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "5bd61e08701d217e97bb8d243c649ea56c44470de27c6daeb6eb4c66bc7efa0e",
+    "question_skeleton": "figure two gas jars are shown in arrangement i hcl is collected by downward displacement of air in arrangement ii the delivery tube leads into a trough of water asyncimage query chemistry hydrogen chloride gas collection by downward displacement of air upright gas jar and comparison collection over water labelled diagram aspectratio 5 4 width 100 which interpretation correctly explains why arrangement i is appropriate and arrangement ii is unsuitable"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_18_wb9ip",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Combined gas preparation and mass balance",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A 29.25 g sample of pure NaCl reacts completely with excess concentrated H₂SO₄ below 200°C. The HCl produced is collected at STP, and the corresponding NaHSO₄ remains in the flask. Which pair gives the volume of HCl and mass of NaHSO₄, respectively?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "5.60 L and 30.0 g"
+      },
+      {
+        "key": "B",
+        "text": "11.20 L and 60.0 g"
+      },
+      {
+        "key": "C",
+        "text": "11.20 L and 71.0 g"
+      },
+      {
+        "key": "D",
+        "text": "22.40 L and 60.0 g"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "n(NaCl)=(29.25 / 58.5)=0.5 mol\n\n\nThe first-stage equation gives 0.5 mol each of HCl and NaHSO₄.\n\n\nV(HCl)=0.5×22.4=11.2 L\n\n\n\nm(NaHSO₄)=0.5×120=60.0 g\n\n\nOption C uses the molar mass of Na₂SO₄ rather than NaHSO₄.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "a54808f9ac648c65179de98b69539e9f902bd33949b131e941f9bdb99642a837",
+    "question_skeleton": "a 29 25 g sample of pure nacl reacts completely with excess concentrated h so below 200 c the hcl produced is collected at stp and the corresponding nahso remains in the flask which pair gives the volume of hcl and mass of nahso respectively"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_19_1ywhq",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Distinguishing gas density from molecular mass",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student calculates the molecular mass of HCl as 36.5 and then reports its vapour density as 36.5. Another student reports 18.25. Which evaluation is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The first student is correct because vapour density equals molecular mass."
+      },
+      {
+        "key": "B",
+        "text": "Both students are correct because vapour density depends on temperature."
+      },
+      {
+        "key": "C",
+        "text": "The second student is correct because vapour density relative to hydrogen is half the molecular mass."
+      },
+      {
+        "key": "D",
+        "text": "Neither student is correct because HCl has a molecular mass of 18.25."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "M(HCl)=1+35.5=36.5\n\n\nFor a gas, vapour density relative to hydrogen is\n\n\nVD=(M / 2)=(36.5 / 2)=18.25\n\n\nOption A confuses molecular mass with vapour density.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "1b409f38a786c3973d3a087aa3815fe511ac12b7fca3b857cb1a661017117ec3",
+    "question_skeleton": "a student calculates the molecular mass of hcl as 36 5 and then reports its vapour density as 36 5 another student reports 18 25 which evaluation is correct"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_20_68j8k",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Percentage purity with a gas-volume measurement",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "An impure 11.7 g NaCl sample gives 3.36 L of HCl gas at STP when treated with excess concentrated H₂SO₄ below 200°C. Assume NaCl is the only source of HCl and the reaction is complete. What is the percentage purity of the sample?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50%"
+      },
+      {
+        "key": "B",
+        "text": "75%"
+      },
+      {
+        "key": "C",
+        "text": "100%"
+      },
+      {
+        "key": "D",
+        "text": "62.5%"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "n(HCl)=(3.36 / 22.4)=0.15 mol\n\n\nThe first-stage equation gives a 1:1 ratio of NaCl to HCl.\n\n\nm(NaCl)=0.15×58.5=8.775 g\n\n\nPercentage purity:\n\n\n(8.775 / 11.7)×100=75%\n\n\nOption C assumes the entire sample is pure NaCl, contradicting the measured gas volume.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "8ba21bd4fdd77ba7beb673c6cb86d7499688b884d26c1b02248a4d579d99962b",
+    "question_skeleton": "an impure 11 7 g nacl sample gives 3 36 l of hcl gas at stp when treated with excess concentrated h so below 200 c assume nacl is the only source of hcl and the reaction is complete what is the percentage purity of the sample"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_21_v7jti",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Combined gas volumes and excess reactant",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "At the same temperature and pressure, 11.2 L of H₂ is mixed with 16.8 L of Cl₂. The gases react according to H₂+Cl₂→2HCl What volume of HCl forms, and which gas remains in excess?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "22.4 L HCl; 5.6 L Cl₂ remains."
+      },
+      {
+        "key": "B",
+        "text": "33.6 L HCl; 5.6 L H₂ remains."
+      },
+      {
+        "key": "C",
+        "text": "11.2 L HCl; 5.6 L Cl₂ remains."
+      },
+      {
+        "key": "D",
+        "text": "22.4 L HCl; 5.6 L H₂ remains."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The gases react in a 1:1 volume ratio. Therefore, 11.2 L H₂ consumes 11.2 L Cl₂ and forms\n\n\n2×11.2=22.4 L HCl\n\n\nRemaining Cl₂:\n\n\n16.8-11.2=5.6 L\n\n\nOption D identifies the correct product volume but the wrong excess gas.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "c4aed1726b7c66853210ac770134917b20b676e62969ada5175fa8b99960496e",
+    "question_skeleton": "at the same temperature and pressure 11 2 l of h is mixed with 16 8 l of cl the gases react according to mathrm h 2 cl 2 rightarrow2hcl what volume of hcl forms and which gas remains in excess"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_22_bv3hm",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Distinguishing the two laboratory stages",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A flask containing NaCl and concentrated H₂SO₄ is first heated below 200°C. The mixture is subsequently heated to about 500°C with additional NaCl. Which pair of reactions correctly describes the stages?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "NaCl+H_2SO₄→ Na_2SO₄+HCl, followed by NaHSO₄+NaCl→ NaHSO₄+H₂"
+      },
+      {
+        "key": "B",
+        "text": "NaCl+H_2SO₄→ NaHSO₄+HCl, followed by NaHSO₄+NaCl→ Na_2SO₄+HCl"
+      },
+      {
+        "key": "C",
+        "text": "NaCl+H_2SO₄→ NaHSO₄+Cl₂, followed by NaHSO₄+NaCl→ Na_2SO₄+H₂"
+      },
+      {
+        "key": "D",
+        "text": "NaCl+H_2SO₄→ NaHSO₄+H₂, followed by NaHSO₄+NaCl→ Na_2SO₄+Cl₂"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The first stage produces NaHSO₄ and HCl. At about 500°C, the second stage converts NaHSO₄ and NaCl into Na₂SO₄ and HCl. Option A incorrectly assigns Na₂SO₄ as the first-stage salt product.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "3be47f80e9e9c009da7dc5d3f9aa3bd41ad1848fe0e99640f0837307c5d2d6b5",
+    "question_skeleton": "a flask containing nacl and concentrated h so is first heated below 200 c the mixture is subsequently heated to about 500 c with additional nacl which pair of reactions correctly describes the stages"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_23_7yp3m",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Distinguishing neutralisation from metal reactions",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student mixes dilute HCl separately with Zn, CuO and NaOH. Which set of observations and products is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zn produces CO₂; CuO produces H₂; NaOH produces Cl₂."
+      },
+      {
+        "key": "B",
+        "text": "Zn produces H₂; CuO produces H₂; NaOH produces CO₂."
+      },
+      {
+        "key": "C",
+        "text": "Zn produces H₂; CuO produces CuCl₂ and H₂O; NaOH produces NaCl and H₂O."
+      },
+      {
+        "key": "D",
+        "text": "Zn produces Cl₂; CuO produces NaCl; NaOH produces H₂."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Zinc displaces hydrogen from dilute HCl. Copper(II) oxide reacts with HCl to form copper(II) chloride and water. Sodium hydroxide neutralises HCl to form sodium chloride and water. Option B incorrectly predicts hydrogen production from both CuO and HCl.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "f8e663ca5e769c9c3206f1a50a71bcba2941dc217e466075d6890ef666753979",
+    "question_skeleton": "a student mixes dilute hcl separately with zn cuo and naoh which set of observations and products is correct"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_24_rmfab",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Comparing two gases produced by acids",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Equal masses of Zn and CaCO₃, each 6.5 g, are separately treated with excess dilute HCl. Which statement correctly compares the gas products?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both produce H₂ because all reactions with HCl release hydrogen gas."
+      },
+      {
+        "key": "B",
+        "text": "Zn produces CO₂ and CaCO₃ produces H₂."
+      },
+      {
+        "key": "C",
+        "text": "Both produce CO₂ because both react with an acid."
+      },
+      {
+        "key": "D",
+        "text": "Zn produces H₂, while CaCO₃ produces CO₂."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Zinc reacts with dilute HCl to release hydrogen:\n\n\nZn+2HCl→ ZnCl₂+H₂\n\n\nCalcium carbonate reacts with HCl to release carbon dioxide:\n\n\nCaCO₃+2HCl→ CaCl₂+H_2O+CO₂\n\n\nThe type of reactant determines the characteristic gas. Option A wrongly assumes that every acid reaction produces hydrogen.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "682af0a15f08030f43aad01e0de891e7f0ca4ae16795256fc5506608562eea09",
+    "question_skeleton": "equal masses of zn and caco each 6 5 g are separately treated with excess dilute hcl which statement correctly compares the gas products"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_25_781d2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Combined interpretation of HCl properties",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A gas has molecular mass 36.5, vapour density 18.25, is extremely soluble in water and produces an acidic solution that conducts electricity. Which statement is consistent with all these observations?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It is HCl, but its dry molecules are ionic and conduct electricity."
+      },
+      {
+        "key": "B",
+        "text": "It is HCl, and its high solubility means it should be collected over water."
+      },
+      {
+        "key": "C",
+        "text": "It is HCl, and the acidic nature of the gas is demonstrated by dry blue litmus turning red."
+      },
+      {
+        "key": "D",
+        "text": "It is HCl; its dry state is molecular, while its aqueous solution contains mobile ions and is acidic."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "HCl has molecular mass 36.5 and vapour density 18.25. In the dry state it is covalent and does not conduct electricity or turn dry blue litmus red. In water it ionises into H₃O⁺ and Cl⁻, explaining acidity and conductivity.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "1617adf76b2f706decf8e79c237e47f3e3d67aad8e5d8c4ad970b0e996be1850",
+    "question_skeleton": "a gas has molecular mass 36 5 vapour density 18 25 is extremely soluble in water and produces an acidic solution that conducts electricity which statement is consistent with all these observations"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_26_dp8r3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Excess reactant in direct HCl synthesis",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A mixture contains 8.0 g of H₂ and 71.0 g of Cl₂. They react according to H₂+Cl₂→2HCl Assuming complete reaction of the limiting reagent, what mass of H₂ remains unreacted and what mass of HCl is formed?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6.0 g H₂ and 73.0 g HCl"
+      },
+      {
+        "key": "B",
+        "text": "4.0 g H₂ and 36.5 g HCl"
+      },
+      {
+        "key": "C",
+        "text": "6.0 g H₂ and 36.5 g HCl"
+      },
+      {
+        "key": "D",
+        "text": "No H₂ remains and 146.0 g HCl forms"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Moles of hydrogen:\n\n\nn(H₂)=(8.0 / 2)=4 mol\n\n\nMoles of chlorine:\n\n\nn(Cl₂)=(71 / 71)=1 mol\n\n\nCl₂ is the limiting reagent and consumes 1 mol H₂, which has a mass of 2 g.\n\n\nm(H₂ remaining)=8-2=6 g\n\n\nOne mole of Cl₂ produces two moles of HCl:\n\n\nm(HCl)=2×36.5=73.0 g\n\n\nOption D incorrectly assumes that all 4 mol H₂ can react with just 1 mol Cl₂.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "13996ba583ebf52211bb4e6739d4c403896ecf0d319d25c76b26a87fcf3b68a3",
+    "question_skeleton": "a mixture contains 8 0 g of h and 71 0 g of cl they react according to mathrm h 2 cl 2 rightarrow2hcl assuming complete reaction of the limiting reagent what mass of h remains unreacted and what mass of hcl is formed"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_27_cduyj",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Interpreting fumes in moist air",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which explanation correctly identifies the visible fumes?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "They are droplets of liquid chlorine formed because HCl supports combustion."
+      },
+      {
+        "key": "B",
+        "text": "They are solid sodium chloride particles released from the gas jar."
+      },
+      {
+        "key": "C",
+        "text": "They are tiny droplets of hydrochloric acid formed when HCl gas encounters moisture in the air."
+      },
+      {
+        "key": "D",
+        "text": "They are water droplets formed because HCl is completely insoluble in water."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "HCl gas is colourless, but in moist air it forms visible fumes consisting of tiny droplets of hydrochloric acid. Option D is incorrect because HCl is extremely soluble in water.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "6946a49812b60a3e45812f6544c094211cbf5da0562fdbe26a73629389783873",
+    "question_skeleton": "figure a gas jar containing colourless hcl gas is opened near a moist surface white fumes appear around the mouth of the jar asyncimage query hydrogen chloride gas dense white fumes in moist air chemistry laboratory demonstration gas jar aspectratio 5 4 width 100 which explanation correctly identifies the visible fumes"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_28_9a23e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Integrated preparation and gas collection",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student heats 11.7 g of NaCl with excess concentrated H₂SO₄ below 200°C. The evolved HCl is passed through a drying bottle and collected at STP. Which combination is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2.24 L HCl; collected over water; Na₂SO₄ forms in the flask."
+      },
+      {
+        "key": "B",
+        "text": "4.48 L HCl; dried with quicklime; collected by downward delivery because HCl is lighter than air."
+      },
+      {
+        "key": "C",
+        "text": "4.48 L HCl; dried using concentrated H₂SO₄; collected by upward delivery; NaHSO₄ forms in the flask."
+      },
+      {
+        "key": "D",
+        "text": "8.96 L HCl; dried using dilute H₂SO₄; collected by upward delivery; NaHSO₄ forms in the flask."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "n(NaCl)=(11.7 / 58.5)=0.2 mol\n\n\nThe first-stage equation gives a 1:1 ratio of NaCl to HCl.\n\n\nV(HCl)=0.2×22.4=4.48 L\n\n\nNaHSO₄ forms below 200°C. Concentrated H₂SO₄ dries HCl, and its greater density than air permits collection by upward delivery. Option B has the right volume but specifies an unsuitable drying agent and the wrong collection direction.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "d64c9d479ed348e84aa0479c305351bd70259992c843de991e0dbfb39a88ac0a",
+    "question_skeleton": "a student heats 11 7 g of nacl with excess concentrated h so below 200 c the evolved hcl is passed through a drying bottle and collected at stp which combination is correct"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_29_umus0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Board-style Industrial preparation and absorption",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Hydrogen and chlorine combine directly to form HCl. If 5.6 L of H₂ reacts completely with 5.6 L of Cl₂ at the same temperature and pressure, what volume of HCl is formed before absorption into water?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "5.6 L"
+      },
+      {
+        "key": "B",
+        "text": "11.2 L"
+      },
+      {
+        "key": "C",
+        "text": "2.8 L"
+      },
+      {
+        "key": "D",
+        "text": "22.4 L"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "H₂+Cl₂→2HCl\n\n\nThe volume ratio at equal temperature and pressure is 1:1:2.\n\n\nV(HCl)=2×5.6=11.2 L\n\n\nOption A forgets that two volumes of HCl form from one volume each of hydrogen and chlorine.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "153d81798830e543ba6bdc770176ba4aec8c6c340e6b7ace4d0650b7d44ac3ed",
+    "question_skeleton": "hydrogen and chlorine combine directly to form hcl if 5 6 l of h reacts completely with 5 6 l of cl at the same temperature and pressure what volume of hcl is formed before absorption into water"
+  },
+  {
+    "globalId": "qb_hots_hydrogen_chloride_30_0u5zm",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Hydrochloric Acid",
+    "title": "Identifying an error in the absorption apparatus",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "(Image reference: Figure 5: Incorrect inverted-funnel arrangement)* What is the principal risk introduced by this incorrect arrangement?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "HCl will become lighter than air and escape upwards through the funnel."
+      },
+      {
+        "key": "B",
+        "text": "The dissolved HCl will change into dry hydrogen chloride gas."
+      },
+      {
+        "key": "C",
+        "text": "The extreme solubility of HCl can cause back suction, allowing water to be drawn into the gas-generating apparatus."
+      },
+      {
+        "key": "D",
+        "text": "The submerged funnel rim prevents HCl from contacting water, so no absorption can occur."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Because HCl dissolves extremely rapidly, the pressure inside the gas-generating apparatus can fall and water may be sucked backwards. Keeping the funnel rim just touching the surface helps minimise this risk. Option D is incorrect because immersion does not prevent contact between HCl and water.\n\n---",
+    "concept_name": "Hydrogen Chloride and Hydrochloric Acid",
+    "concept_tag": "hydrogen_chloride diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "ac0d93ee44f2363d6054ee9e139ab78cfc10061597f48abfd716799a6b300432",
+    "question_skeleton": "figure the inverted funnel is positioned above a beaker containing water but its wide rim is shown well below the water surface rather than just touching it image reference figure 5 incorrect inverted funnel arrangement what is the principal risk introduced by this incorrect arrangement"
+  }
+]

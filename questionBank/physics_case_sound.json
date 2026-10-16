@@ -1,0 +1,2252 @@
+[
+  {
+    "globalId": "qb_case_sound_1_909540",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 1: Echo Sounding Against a Vertical Mountain Cliff",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A mountaineer stands in a quiet valley at a distance d from a tall vertical granite cliff on a cold morning when the speed of sound in air is v = 340 m/s. The mountaineer fires a starting pistol and hears a clear distinct echo reflected from the cliff exactly 0.80 seconds after firing. **Investigative Question:** What is the distance d between the mountaineer and the cliff, and what is the minimum distance required to perceive a distinct echo in these conditions? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Distance d = 272 m; Minimum distance = 34 m"
+      },
+      {
+        "key": "B",
+        "text": "Distance d = 136 m; Minimum distance = 17 m"
+      },
+      {
+        "key": "C",
+        "text": "Distance d = 68 m; Minimum distance = 17 m"
+      },
+      {
+        "key": "D",
+        "text": "Distance d = 544 m; Minimum distance = 34 m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The total round-trip distance traveled by sound is 2d = v × t. Here, 2d = 340 m/s × 0.80 s = 272 m, so d = 136 m. Human ear persistence of hearing is Δt = 0.10 s. The minimum distance to distinguish an echo from the original sound is d_min = v × Δt / 2 = 340 × 0.10 / 2 = 17 m.",
+    "concept_name": "Echo Distance and Persistence of Hearing",
+    "concept_tag": "sound case based echo distance and persistence of hearing",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "909540686c260bb979105675bd10a6fb1b82c9d54cf0988db7f637ac32caf737",
+    "question_skeleton": "case scenario a mountaineer stands in a quiet valley at a distance d from a tall vertical granite cliff on a cold morning when the speed of sound in air is v 340 m s the mountaineer fires a starting pistol and hears a clear distinct echo reflected from the cliff exactly 0 80 seconds after firing investigative question what is the distance d between the mountaineer and the cliff and what is the minimum distance required to perceive a distinct echo in these conditions choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_2_7421e4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 2: Echoes Between Two Parallel Vertical Cliffs",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A surveyor stands at an asymmetric position between two parallel vertical cliffs separated by a distance D in air where the speed of sound is 330 m/s. When the surveyor claps loudly, the first echo is heard after 1.5 seconds and the second echo is heard after 2.5 seconds. **Investigative Question:** What is the distance between the two cliffs D, and after how much time from the clap will the third echo be heard? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "D = 660 m; Third echo at 4.0 seconds"
+      },
+      {
+        "key": "B",
+        "text": "D = 1320 m; Third echo at 5.0 seconds"
+      },
+      {
+        "key": "C",
+        "text": "D = 660 m; Third echo at 3.0 seconds"
+      },
+      {
+        "key": "D",
+        "text": "D = 330 m; Third echo at 4.0 seconds"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Let distances to Cliff 1 and Cliff 2 be d1 and d2. Round trip 1: 2d1 = v × t1 => d1 = 330 × 1.5 / 2 = 247.5 m. Round trip 2: 2d2 = v × t2 => d2 = 330 × 2.5 / 2 = 412.5 m. Total distance D = d1 + d2 = 247.5 + 412.5 = 660 m. The third echo represents sound that reflects off Cliff 1 then Cliff 2 (or vice versa), traveling a total distance of 2(d1 + d2) = 2D; its time is t3 = t1 + t2 = 1.5 s + 2.5 s = 4.0 s.",
+    "concept_name": "Dual Echo Intervals Between Parallel Reflectors",
+    "concept_tag": "sound case based dual echo intervals between parallel reflectors",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7421e4420f217445c57183c7d1d3ce87b63c6816fc6e13bed4ed80dffb109154",
+    "question_skeleton": "case scenario a surveyor stands at an asymmetric position between two parallel vertical cliffs separated by a distance d in air where the speed of sound is 330 m s when the surveyor claps loudly the first echo is heard after 1 5 seconds and the second echo is heard after 2 5 seconds investigative question what is the distance between the two cliffs d and after how much time from the clap will the third echo be heard choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_3_e73036",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 3: Oceanographic Bathymetry Using SONAR Echo Sounding",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An oceanographic survey vessel mapping the continental shelf uses a hull-mounted SONAR transducer emitting ultrasonic pulses at a frequency of 50 kHz. The speed of sound in seawater is measured as 1500 m/s. A pulse transmitted vertically downward returns as an echo from the ocean floor after 3.2 seconds. **Investigative Question:** What is the depth of the ocean floor at this station, and why are ultrasonic waves preferred over audible sound waves in SONAR? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Depth = 4800 m; ultrasonic waves are audible to deep-sea fish."
+      },
+      {
+        "key": "B",
+        "text": "Depth = 2400 m; ultrasonic waves have high frequency, short wavelength, can be focused into narrow directional beams, and suffer low absorption in water."
+      },
+      {
+        "key": "C",
+        "text": "Depth = 1200 m; ultrasonic waves travel five times faster than audible sound."
+      },
+      {
+        "key": "D",
+        "text": "Depth = 2400 m; ultrasonic waves travel as transverse waves in water."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Depth h = v × t / 2 = (1500 m/s × 3.2 s) / 2 = 2400 m. Ultrasonic waves (f > 20 kHz) have extremely short wavelengths, allowing them to form tight directional pencil beams with minimal diffraction spread. They also penetrate seawater with low attenuation and do not interfere with human audible communications.",
+    "concept_name": "SONAR Principles and Ultrasonic Wave Selection",
+    "concept_tag": "sound case based sonar principles and ultrasonic wave selection",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e73036ab4aed2efca9eb7d9b5d4974548c6c7be26675fe2fcd0917fcbee81810",
+    "question_skeleton": "case scenario an oceanographic survey vessel mapping the continental shelf uses a hull mounted sonar transducer emitting ultrasonic pulses at a frequency of 50 khz the speed of sound in seawater is measured as 1500 m s a pulse transmitted vertically downward returns as an echo from the ocean floor after 3 2 seconds investigative question what is the depth of the ocean floor at this station and why are ultrasonic waves preferred over audible sound waves in sonar choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_4_6e44ab",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 4: Medical Ultrasound Imaging of Abdominal Organs",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A medical sonographer applies acoustic coupling gel to a patient's abdomen before scanning the liver with a 3.5 MHz piezoelectric ultrasound probe. The transducer measures the time delay and amplitude of echoes reflected from boundaries between different soft tissue layers. **Investigative Question:** What is the function of the coupling gel, and why is ultrasound used instead of X-rays for prenatal fetal examinations? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The gel sterilizes the skin; ultrasound is used because it charges fetal blood cells."
+      },
+      {
+        "key": "B",
+        "text": "The gel eliminates the thin air gap between transducer and skin (preventing 99.9% reflection due to impedance mismatch); ultrasound is non-ionizing mechanical radiation with zero carcinogenic risk to the fetus."
+      },
+      {
+        "key": "C",
+        "text": "The gel increases the sound velocity to 300,000 km/s; ultrasound is used because X-rays cannot penetrate skin."
+      },
+      {
+        "key": "D",
+        "text": "The gel dissolves grease; ultrasound produces thermal cauterization of tissues."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The acoustic impedance Z = ρv of air is ~400 Rayls, while skin is ~1.5 × 10⁶ Rayls. Without gel, almost 100% of the acoustic energy is reflected back at the air-skin boundary. Coupling gel matches the acoustic impedance, enabling smooth transmission. Ultrasound uses non-ionizing mechanical pressure waves, causing no DNA breaks or mutation risks, unlike ionizing X-rays.",
+    "concept_name": "Acoustic Impedance and Ultrasonic Non-Invasiveness",
+    "concept_tag": "sound case based acoustic impedance and ultrasonic non-invasiveness",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6e44abd31b01d1a524e344876c56917f5bb8fb1370324df810a700832f57af63",
+    "question_skeleton": "case scenario a medical sonographer applies acoustic coupling gel to a patient s abdomen before scanning the liver with a 3 5 mhz piezoelectric ultrasound probe the transducer measures the time delay and amplitude of echoes reflected from boundaries between different soft tissue layers investigative question what is the function of the coupling gel and why is ultrasound used instead of x rays for prenatal fetal examinations choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_5_efae7a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 5: Free Vibrations of a Tuning Fork in a Vacuum Bell Jar",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A steel tuning fork marked '512 Hz' is struck against a rubber pad and held inside an airtight bell jar connected to a high-vacuum mechanical pump. As air is pumped out to a high vacuum, the acoustic sound ceases completely, but laser interferometry shows the tines still vibrating at exactly 512 Hz for an extended period. **Investigative Question:** What determines the 512 Hz frequency of the tuning fork, and how does the vacuum affect its damping? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The striking force determines 512 Hz; in vacuum it stops instantly."
+      },
+      {
+        "key": "B",
+        "text": "The natural frequency depends strictly on the physical dimensions, shape, density, and elastic modulus of the steel; in vacuum, the absence of air resistance eliminates viscous damping, allowing vibrations to persist much longer with constant frequency."
+      },
+      {
+        "key": "C",
+        "text": "The bell jar glass induces 512 Hz; the fork vibrates at a higher frequency in vacuum."
+      },
+      {
+        "key": "D",
+        "text": "Atmospheric pressure creates 512 Hz; in vacuum its frequency drops to zero."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A body set into motion and left to itself executes free vibrations at its intrinsic natural frequency, governed solely by its inertia and stiffness (dimensions, mass, and elasticity). When struck, the tines oscillate at 512 Hz regardless of strike amplitude. In a vacuum, air drag is removed, eliminating fluid friction damping so the oscillations decay extremely slowly.",
+    "concept_name": "Natural Frequency and Free Vibrations",
+    "concept_tag": "sound case based natural frequency and free vibrations",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "efae7aa0ef515806ea727d09366d546146c4e9253748e2b837c780d2b6acf628",
+    "question_skeleton": "case scenario a steel tuning fork marked 512 hz is struck against a rubber pad and held inside an airtight bell jar connected to a high vacuum mechanical pump as air is pumped out to a high vacuum the acoustic sound ceases completely but laser interferometry shows the tines still vibrating at exactly 512 hz for an extended period investigative question what determines the 512 hz frequency of the tuning fork and how does the vacuum affect its damping choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_6_f58d02",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 6: Exponential Amplitude Decay in Damped Mechanical Vibrations",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A simple pendulum consisting of a 100 g brass bob suspended by a 1.0 m light thread is set into oscillation in air with an initial amplitude of 10.0 cm. A motion sensor records its amplitude at subsequent intervals: after 20 cycles it is 6.5 cm, and after 50 cycles it is 2.5 cm, while the period remains constant at 2.0 seconds. **Investigative Question:** What classification of vibration is demonstrated, and what happens to the mechanical energy of the pendulum? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Forced vibration; energy is converted into gravitational mass."
+      },
+      {
+        "key": "B",
+        "text": "Damped vibration; mechanical energy is continuously dissipated as thermal energy in the air and pivot due to viscous friction, causing amplitude to decrease exponentially while frequency remains invariant."
+      },
+      {
+        "key": "C",
+        "text": "Resonant vibration; energy increases with time."
+      },
+      {
+        "key": "D",
+        "text": "Natural free vibration; energy is perfectly conserved indefinitely."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Vibrations executed in a resisting medium with continuously decreasing amplitude are damped vibrations. Frictional resistance of surrounding air and bending losses at the suspension convert the mechanical energy (kinetic + potential) into microscopic heat. Crucially, the period and frequency of oscillation remain essentially constant throughout the decay.",
+    "concept_name": "Damped Vibrations and Energy Dissipation",
+    "concept_tag": "sound case based damped vibrations and energy dissipation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f58d02d3d9b825d876c6f33b379fecf058b385eb3ec54bacaf5da039afb517be",
+    "question_skeleton": "case scenario a simple pendulum consisting of a 100 g brass bob suspended by a 1 0 m light thread is set into oscillation in air with an initial amplitude of 10 0 cm a motion sensor records its amplitude at subsequent intervals after 20 cycles it is 6 5 cm and after 50 cycles it is 2 5 cm while the period remains constant at 2 0 seconds investigative question what classification of vibration is demonstrated and what happens to the mechanical energy of the pendulum choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_7_45b2dc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 7: Forced Vibrations of a Laboratory Tabletop Under a Tuning Fork",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A vibrating tuning fork of natural frequency 256 Hz is held in air; its sound is barely audible to students in the third row. When the stem of the vibrating fork is pressed firmly against the wooden surface of the large laboratory demonstration table, the sound suddenly becomes loud and clearly audible across the entire lecture theater. **Investigative Question:** Why does the tabletop produce a much louder sound, and at what frequency does the tabletop vibrate? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The tabletop vibrates at its own natural frequency of 1000 Hz, amplifying the energy."
+      },
+      {
+        "key": "B",
+        "text": "The vibrating fork exerts an external periodic force on the tabletop, forcing its large surface area to vibrate at 256 Hz; the larger surface area sets a much greater volume of air into motion."
+      },
+      {
+        "key": "C",
+        "text": "The tabletop undergoes resonance because its natural frequency is exactly 256 Hz."
+      },
+      {
+        "key": "D",
+        "text": "Sound travels through wood as light waves, which travel faster and louder."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "This is an example of forced vibration. The tabletop is driven by the periodic force from the fork stem to vibrate at the driving frequency (256 Hz), not its own natural frequency. Because the tabletop has a massive surface area compared to the thin tines of the fork, it displaces a much greater volume of air molecules per cycle, transmitting far greater acoustic power (loudness).",
+    "concept_name": "Forced Oscillations Under an External Driving Force",
+    "concept_tag": "sound case based forced oscillations under an external driving force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "45b2dc0cfebe5f3ab3a3f328851b80c14fb30076d22c6ef6be0b582ecf73dbaf",
+    "question_skeleton": "case scenario a vibrating tuning fork of natural frequency 256 hz is held in air its sound is barely audible to students in the third row when the stem of the vibrating fork is pressed firmly against the wooden surface of the large laboratory demonstration table the sound suddenly becomes loud and clearly audible across the entire lecture theater investigative question why does the tabletop produce a much louder sound and at what frequency does the tabletop vibrate choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_8_69d989",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 8: Acoustic Resonance in Two Identical Mounted Tuning Forks",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Two identical tuning forks A and B, each having a natural frequency of 440 Hz, are mounted on separate hollow wooden resonance sound boxes placed 50 cm apart with their open ends facing each other. Tuning fork A is struck with a rubber mallet and allowed to vibrate for 5 seconds. The experimenter then touches the tines of fork A with their fingers to completely stop its vibration. **Investigative Question:** What observation is made regarding tuning fork B, and what physical principle is demonstrated? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fork B remains completely silent because air cannot transmit energy across 50 cm."
+      },
+      {
+        "key": "B",
+        "text": "Fork B is heard vibrating clearly and loudly at 440 Hz; demonstrating acoustic resonance because the natural frequency of B matches the driving frequency emitted by A."
+      },
+      {
+        "key": "C",
+        "text": "Fork B vibrates at 880 Hz due to octave doubling."
+      },
+      {
+        "key": "D",
+        "text": "Fork B's wooden box splits open due to shockwaves."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Resonance is a special case of forced vibration where the frequency of the external periodic driving force matches the natural frequency of the receiver (f_A = f_B = 440 Hz). Periodic compressions and rarefactions transmitted through the air and sound boxes deliver impulses in exact phase with fork B's natural mode, causing a rapid transfer of energy and large-amplitude resonant oscillations.",
+    "concept_name": "Acoustic Resonance Between Matching Frequencies",
+    "concept_tag": "sound case based acoustic resonance between matching frequencies",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "69d989df14016ef2c292f1f778092f3f09076cda881b510e4c92c962963b24f2",
+    "question_skeleton": "case scenario two identical tuning forks a and b each having a natural frequency of 440 hz are mounted on separate hollow wooden resonance sound boxes placed 50 cm apart with their open ends facing each other tuning fork a is struck with a rubber mallet and allowed to vibrate for 5 seconds the experimenter then touches the tines of fork a with their fingers to completely stop its vibration investigative question what observation is made regarding tuning fork b and what physical principle is demonstrated choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_9_633c1e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 9: Why Soldiers Must Break Step While Crossing a Suspension Bridge",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Military field manuals strictly mandate that a company of soldiers marching in cadence must break step (march out of rhythm) before crossing any suspension or truss bridge. **Investigative Question:** What catastrophic physics phenomenon is this military order designed to prevent? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cadence marching wears out the asphalt paving of the bridge deck."
+      },
+      {
+        "key": "B",
+        "text": "If the frequency of periodic footfalls happens to match the natural mechanical frequency of the bridge structure, resonance will occur, causing violently increasing oscillation amplitudes that could exceed structural elastic limits and collapse the bridge."
+      },
+      {
+        "key": "C",
+        "text": "Synchronized marching creates high air pressure underneath the bridge that lifts it off its piers."
+      },
+      {
+        "key": "D",
+        "text": "Rhythmic vibrations demagnetize the steel suspension cables, making them brittle."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Every bridge has intrinsic natural modes and frequencies of vibration. If a column of soldiers marches in cadence at a stepping frequency matching one of the bridge's natural frequencies, the bridge enters mechanical resonance. Each synchronized footstep adds energy in phase, driving the oscillation amplitude to destructive levels, as occurred in the catastrophic collapse of the Broughton Suspension Bridge (1831).",
+    "concept_name": "Structural Resonance and Bridge Collapse Hazard",
+    "concept_tag": "sound case based structural resonance and bridge collapse hazard",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "633c1ed7fba0a55da100e38cf2e0bbadb4fe1b07ea8f1aa4e36fbdd1b2de6bcc",
+    "question_skeleton": "case scenario military field manuals strictly mandate that a company of soldiers marching in cadence must break step march out of rhythm before crossing any suspension or truss bridge investigative question what catastrophic physics phenomenon is this military order designed to prevent choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_10_9d5dce",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 10: Resonance in an Air Column of a Variable-Length Resonance Tube",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a physics laboratory, a resonance tube apparatus consists of a vertical glass tube partially filled with water, forming a closed air column of adjustable length L. A tuning fork of frequency f = 512 Hz is vibrated over the open top of the tube. As the water level is slowly lowered, a first deafening boom of sound is heard when L = 16.0 cm, and a second loud resonance occurs when L = 49.0 cm. The speed of sound in the laboratory air is calculated. **Investigative Question:** What is the acoustic condition for the first resonance in a closed pipe, and what is the experimental speed of sound? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "First resonance occurs at L ≈ λ/2; speed of sound = 164 m/s"
+      },
+      {
+        "key": "B",
+        "text": "First resonance occurs at L + e = λ/4; wavelength λ = 2(L2 - L1) = 66.0 cm; speed of sound v = f × λ = 512 × 0.660 ≈ 338 m/s"
+      },
+      {
+        "key": "C",
+        "text": "First resonance occurs at L = λ; speed of sound = 680 m/s"
+      },
+      {
+        "key": "D",
+        "text": "First resonance occurs at L = 2λ; speed of sound = 512 m/s"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "An air column closed at one end by water forms a displacement node at the water surface and an antinode near the open top. The fundamental resonance occurs when the column length equals approximately one-quarter wavelength: L1 + e = λ/4. The second resonance occurs at L2 + e = 3λ/4. Subtracting eliminates end correction: L2 - L1 = λ/2 => λ = 2(49.0 - 16.0) = 66.0 cm = 0.66 m. Speed v = f × λ = 512 × 0.66 ≈ 338 m/s.",
+    "concept_name": "Quarter-Wave Acoustic Resonance in a Closed Tube",
+    "concept_tag": "sound case based quarter-wave acoustic resonance in a closed tube",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9d5dce265892ea225a935a4a67eded1d69a8427a5bab4b7dc317c75b5eacdb5f",
+    "question_skeleton": "case scenario in a physics laboratory a resonance tube apparatus consists of a vertical glass tube partially filled with water forming a closed air column of adjustable length l a tuning fork of frequency f 512 hz is vibrated over the open top of the tube as the water level is slowly lowered a first deafening boom of sound is heard when l 16 0 cm and a second loud resonance occurs when l 49 0 cm the speed of sound in the laboratory air is calculated investigative question what is the acoustic condition for the first resonance in a closed pipe and what is the experimental speed of sound choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_11_054f01",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 11: Chladni Plate Nodal Patterns and Resonant Modes",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A square brass plate is clamped at its center and sprinkled uniformly with fine dry silica sand. A violin bow is drawn vertically against one edge while a finger lightly touches a corner node. The plate emits a piercing musical tone, and the sand immediately bounces away from vigorously vibrating antinodal areas, gathering into intricate geometric white line patterns. **Investigative Question:** What do the sand lines on a Chladni plate physically represent? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Points of maximum vibration amplitude (antinodes)."
+      },
+      {
+        "key": "B",
+        "text": "Nodal lines of zero vibration displacement where the plate remains stationary during resonance."
+      },
+      {
+        "key": "C",
+        "text": "Lines of maximum magnetic flux generated by the brass."
+      },
+      {
+        "key": "D",
+        "text": "Paths of sound waves escaping into the air."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Chladni figures demonstrate two-dimensional standing wave vibrational modes. The sand grains are violently thrown away from regions of maximum vertical oscillation (antinodes) and settle stably along lines where the displacement amplitude is identically zero (nodal lines). Different bowing points and nodal constraints produce distinct resonant frequencies and characteristic geometric patterns.",
+    "concept_name": "Two-Dimensional Acoustic Resonant Modes and Chladni Figures",
+    "concept_tag": "sound case based two-dimensional acoustic resonant modes and chladni figures",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "054f0174b60dc438872b39404ece99f3b8c46ba767d39a998e0a3d65f7b0075c",
+    "question_skeleton": "case scenario a square brass plate is clamped at its center and sprinkled uniformly with fine dry silica sand a violin bow is drawn vertically against one edge while a finger lightly touches a corner node the plate emits a piercing musical tone and the sand immediately bounces away from vigorously vibrating antinodal areas gathering into intricate geometric white line patterns investigative question what do the sand lines on a chladni plate physically represent choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_12_d9b785",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 12: Rattling of Rearview Mirror at a Specific Engine RPM",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A motorist notices that when the car idles at 800 RPM or accelerates at 3000 RPM, the car interior is quiet. However, whenever the engine tachometer passes exactly 1800 RPM (a piston firing frequency of 60 Hz), the interior rearview mirror vibrates violently and blurs, stopping as soon as the speed increases to 2000 RPM. **Investigative Question:** What explains why the mirror shakes violently only at 1800 RPM and not at higher or lower speeds? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The engine produces maximum horsepower at 1800 RPM."
+      },
+      {
+        "key": "B",
+        "text": "The natural mechanical frequency of the mirror mounting assembly is exactly 60 Hz; at 1800 RPM the engine vibration frequency matches this natural frequency, inducing resonant oscillation."
+      },
+      {
+        "key": "C",
+        "text": "At 1800 RPM, the car's alternator produces reverse electric current."
+      },
+      {
+        "key": "D",
+        "text": "Sound waves from the exhaust reflect off the windshield into the mirror."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The mirror assembly forms an elastic mechanical oscillating system with a specific natural resonant frequency (60 Hz). At 1800 RPM, the periodic mechanical vibrations transmitted through the chassis match 60 Hz. Under this resonance condition, maximum energy is transferred into the mirror, producing large visual oscillations. At other RPMs, the forced vibration is non-resonant and of negligible amplitude.",
+    "concept_name": "Mechanical Resonance Induced by Engine RPM",
+    "concept_tag": "sound case based mechanical resonance induced by engine rpm",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d9b785aff081b6299727948bc6a8cb05491d30379fb1d6ac60b8835fdb34d659",
+    "question_skeleton": "case scenario a motorist notices that when the car idles at 800 rpm or accelerates at 3000 rpm the car interior is quiet however whenever the engine tachometer passes exactly 1800 rpm a piston firing frequency of 60 hz the interior rearview mirror vibrates violently and blurs stopping as soon as the speed increases to 2000 rpm investigative question what explains why the mirror shakes violently only at 1800 rpm and not at higher or lower speeds choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_13_6fcc92",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 13: Loudness vs Intensity: Subjective Sensation vs Objective Measurement",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An acoustic engineer uses a calibrated sound level meter to measure two sound waves in an auditorium. Sound 1 has a measured physical intensity of I₁ = 10⁻⁴ W/m², while Sound 2 has an intensity of I₂ = 10⁻² W/m² (100 times greater intensity). **Investigative Question:** What is the difference between loudness and intensity, and how many decibels louder is Sound 2 compared to Sound 1? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Intensity is a subjective sensation; Sound 2 is 100 dB louder."
+      },
+      {
+        "key": "B",
+        "text": "Intensity is an objective physical quantity (energy per second per unit area, W/m²), whereas loudness is the subjective physiological sensation perceived by the ear; Sound 2 has a sound level 20 dB higher than Sound 1."
+      },
+      {
+        "key": "C",
+        "text": "Loudness and intensity are identical physical quantities measured in Joules; Sound 2 is 2 dB louder."
+      },
+      {
+        "key": "D",
+        "text": "Sound 2 is 10,000 dB louder by Weber-Fechner law."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Intensity is an objective, physically measurable quantity: I = P/A (W/m²), independent of the human ear. Loudness is subjective, depending on intensity and the ear's auditory sensitivity (Weber-Fechner law: L ∝ log₁₀ I). The difference in sound intensity level is Δβ = 10 log₁₀(I₂ / I₁) = 10 log₁₀(10⁻² / 10⁻⁴) = 10 log₁₀(100) = 10 × 2 = 20 dB.",
+    "concept_name": "Loudness, Intensity, and Decibel Scale",
+    "concept_tag": "sound case based loudness, intensity, and decibel scale",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6fcc92092327ae3c9630a75eca5596a593e018224f9075bbaf3ac9a6638057a2",
+    "question_skeleton": "case scenario an acoustic engineer uses a calibrated sound level meter to measure two sound waves in an auditorium sound 1 has a measured physical intensity of i 1 10 w m while sound 2 has an intensity of i 2 10 w m 100 times greater intensity investigative question what is the difference between loudness and intensity and how many decibels louder is sound 2 compared to sound 1 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_14_c98ef5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 14: Inverse Square Law of Sound Intensity in Open Air",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** At an outdoor music festival, a sound engineer measures the acoustic intensity of a spherical point source loudspeaker at a distance of r1 = 10 m to be 0.16 W/m² in a free field without reflecting surfaces. **Investigative Question:** What is the sound intensity at a distance of r2 = 40 m from the loudspeaker? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.08 W/m²"
+      },
+      {
+        "key": "B",
+        "text": "0.04 W/m²"
+      },
+      {
+        "key": "C",
+        "text": "0.01 W/m²"
+      },
+      {
+        "key": "D",
+        "text": "0.005 W/m²"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "In a free open field, sound energy spreads out spherically across a surface area A = 4πr². Total acoustic power P is conserved, so intensity follows the inverse square law: I ∝ 1/r². Thus: I₂ / I₁ = (r₁ / r₂)² = (10 / 40)² = (1/4)² = 1/16. Therefore, I₂ = 0.16 W/m² / 16 = 0.01 W/m².",
+    "concept_name": "Sound Intensity Variation with Distance from a Point Source",
+    "concept_tag": "sound case based sound intensity variation with distance from a point source",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c98ef5924014e1b103eadcf638c208d2aece8e5f759a16012cace7aee851ad28",
+    "question_skeleton": "case scenario at an outdoor music festival a sound engineer measures the acoustic intensity of a spherical point source loudspeaker at a distance of r1 10 m to be 0 16 w m in a free field without reflecting surfaces investigative question what is the sound intensity at a distance of r2 40 m from the loudspeaker choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_15_72bf7b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 15: Loudness Dependence on Amplitude of Vibration",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A drummer strikes a bass drum lightly, producing a vibration amplitude of A1 = 1.0 mm. Later, for a dramatic climax, the drummer strikes the drumhead with great force, increasing the vibration amplitude to A2 = 3.0 mm at the same fundamental pitch. **Investigative Question:** By what factor does the acoustic energy intensity emitted by the drumhead increase? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Increases by a factor of 3"
+      },
+      {
+        "key": "B",
+        "text": "Increases by a factor of 6"
+      },
+      {
+        "key": "C",
+        "text": "Increases by a factor of 9"
+      },
+      {
+        "key": "D",
+        "text": "Increases by a factor of 27"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The intensity of a sound wave is directly proportional to the square of the amplitude of vibration: I ∝ A² (specifically I = 2π²ρvf²A²). When the amplitude increases from 1.0 mm to 3.0 mm (a threefold increase), the intensity increases by (A₂ / A₁)² = (3 / 1)² = 9 times. This produces a vastly louder sound.",
+    "concept_name": "Intensity Proportionality to Square of Amplitude",
+    "concept_tag": "sound case based intensity proportionality to square of amplitude",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "72bf7b4b36d769b84213c21f5b3d48e7d95f144c7037dbc1f4895b379c046613",
+    "question_skeleton": "case scenario a drummer strikes a bass drum lightly producing a vibration amplitude of a1 1 0 mm later for a dramatic climax the drummer strikes the drumhead with great force increasing the vibration amplitude to a2 3 0 mm at the same fundamental pitch investigative question by what factor does the acoustic energy intensity emitted by the drumhead increase choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_16_cac04b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 16: Pitch Variation Between Male Voice and Female/Child Voice",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A speech scientist analyzes voice recordings on an oscilloscope. The adult male voice has a fundamental frequency of 120 Hz, whereas the adult female voice has a fundamental frequency of 240 Hz and a child's voice has a fundamental frequency of 350 Hz. **Investigative Question:** Which characteristic of sound distinguishes the higher-pitched female/child voice from the grave male voice, and why do their vocal cords differ? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Loudness; male vocal cords are longer and thinner."
+      },
+      {
+        "key": "B",
+        "text": "Pitch; the pitch of a sound is determined by its frequency. Female and child vocal cords are shorter, thinner, and under greater tension, producing higher frequency vibrations and hence a shriller, higher-pitched sound."
+      },
+      {
+        "key": "C",
+        "text": "Timbre; male vocal cords vibrate with electromagnetic waves."
+      },
+      {
+        "key": "D",
+        "text": "Velocity; female sound travels faster through air than male sound."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Pitch is the sensation that allows sounds to be classified on a musical scale from low (grave/bass) to high (shrill/treble), and it depends directly on frequency (f). The vocal cords in adult males are thicker and longer (~17–25 mm), producing lower fundamental frequencies. Women and children have shorter, lighter vocal cords (~12–17 mm) that vibrate at higher frequencies, yielding higher pitch.",
+    "concept_name": "Pitch and Fundamental Frequency",
+    "concept_tag": "sound case based pitch and fundamental frequency",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "cac04b2d5893e5354612e44370ac52edc93b23055ef0ec8e25ce354282c75c2f",
+    "question_skeleton": "case scenario a speech scientist analyzes voice recordings on an oscilloscope the adult male voice has a fundamental frequency of 120 hz whereas the adult female voice has a fundamental frequency of 240 hz and a child s voice has a fundamental frequency of 350 hz investigative question which characteristic of sound distinguishes the higher pitched female child voice from the grave male voice and why do their vocal cords differ choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_17_3ae8b3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 17: Quality or Timbre of Musical Instruments: Violin vs Flute",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A violinist and a flutist in an orchestra both play middle C (frequency f = 256 Hz) at the exact same loudness of 70 dB. Even with their eyes closed, an audience member can effortlessly distinguish the violin from the flute. **Investigative Question:** Which characteristic of sound enables this identification, and what is its underlying physical basis? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Velocity of sound; violin sound travels faster than flute sound."
+      },
+      {
+        "key": "B",
+        "text": "Quality (or Timbre); which is determined by the number, relative frequencies, and amplitudes of subsidiary harmonics (overtones) accompanying the fundamental note, resulting in a distinct complex waveform."
+      },
+      {
+        "key": "C",
+        "text": "Pitch; because the violin has a higher frequency than the flute."
+      },
+      {
+        "key": "D",
+        "text": "Loudness; because strings displace more air than open pipes."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Quality (timbre) is that subjective characteristic by which two musical notes of the same pitch (frequency) and loudness (intensity) can be distinguished. While both instruments play 256 Hz, a flute emits an almost pure tone with few weak upper harmonics, producing a smooth sine-like wave. A violin produces numerous rich, prominent odd and even harmonics, yielding a complex sawtooth-like waveform.",
+    "concept_name": "Timbre, Harmonics, and Waveform",
+    "concept_tag": "sound case based timbre, harmonics, and waveform",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3ae8b30136824601a0aea874da922ee13ad47d48046f46e04903ce246c9a6034",
+    "question_skeleton": "case scenario a violinist and a flutist in an orchestra both play middle c frequency f 256 hz at the exact same loudness of 70 db even with their eyes closed an audience member can effortlessly distinguish the violin from the flute investigative question which characteristic of sound enables this identification and what is its underlying physical basis choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_18_237601",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 18: String Tension and Pitch in a Sonometer Wire",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student tunes a sonometer wire of fixed length L = 50 cm. Initially, the wire is stretched by a suspended mass of M1 = 4.0 kg, vibrating in its fundamental mode at a frequency of f1 = 200 Hz. The student then increases the suspended mass to M2 = 16.0 kg while keeping the vibrating length constant. **Investigative Question:** What will be the new fundamental frequency f2 of the sonometer wire? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "f2 = 100 Hz"
+      },
+      {
+        "key": "B",
+        "text": "f2 = 400 Hz"
+      },
+      {
+        "key": "C",
+        "text": "f2 = 800 Hz"
+      },
+      {
+        "key": "D",
+        "text": "f2 = 50 Hz"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The fundamental frequency of a stretched string is given by Mersenne's laws: f = (1 / 2L) × √(T / m), where T is the tension (T = Mg) and m is linear mass density. Thus, frequency is directly proportional to the square root of tension: f ∝ √T. When the hanging mass increases from 4 kg to 16 kg (a 4-fold increase in tension), the frequency increases by a factor of √4 = 2. Therefore, f₂ = 200 Hz × 2 = 400 Hz.",
+    "concept_name": "Frequency Dependence on Tension: f ∝ √T",
+    "concept_tag": "sound case based frequency dependence on tension: f ∝ √t",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "237601ba7fb12375f8165ed0d26f465f2e0ba7af4bb18ca248d4111acb6a1407",
+    "question_skeleton": "case scenario a student tunes a sonometer wire of fixed length l 50 cm initially the wire is stretched by a suspended mass of m1 4 0 kg vibrating in its fundamental mode at a frequency of f1 200 hz the student then increases the suspended mass to m2 16 0 kg while keeping the vibrating length constant investigative question what will be the new fundamental frequency f2 of the sonometer wire choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_19_0a5f8a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 19: String Length and Pitch in a Sonometer Wire",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A guitarist presses their finger against a guitar fret, shortening the vibrating length of an E-string from L1 = 64 cm to L2 = 48 cm while keeping the wire tension and linear density constant. The original open string frequency was f1 = 330 Hz. **Investigative Question:** What is the new vibrating frequency f2 of the stopped guitar string? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "f2 = 247.5 Hz"
+      },
+      {
+        "key": "B",
+        "text": "f2 = 440 Hz"
+      },
+      {
+        "key": "C",
+        "text": "f2 = 660 Hz"
+      },
+      {
+        "key": "D",
+        "text": "f2 = 165 Hz"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By Mersenne's first law of strings, the fundamental frequency of vibration of a stretched wire is inversely proportional to its vibrating length: f ∝ 1/L (when tension T and mass per unit length m are held constant). Therefore: f₁ × L₁ = f₂ × L₂ => f₂ = f₁ × (L₁ / L₂) = 330 Hz × (64 cm / 48 cm) = 330 × (4 / 3) = 440 Hz (concert pitch A4).",
+    "concept_name": "Frequency Dependence on Length: f ∝ 1/L",
+    "concept_tag": "sound case based frequency dependence on length: f ∝ 1/l",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0a5f8afb704e4aa9ed40707d8df2543ddeec7138fb85e1a39a0ef2bfb82c1a50",
+    "question_skeleton": "case scenario a guitarist presses their finger against a guitar fret shortening the vibrating length of an e string from l1 64 cm to l2 48 cm while keeping the wire tension and linear density constant the original open string frequency was f1 330 hz investigative question what is the new vibrating frequency f2 of the stopped guitar string choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_20_a1d551",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 20: String Thickness / Linear Density and Pitch",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A cello manufacturer constructs two strings of identical length L and made of the same steel alloy under the exact same tension T. String A has a radius of r_A = 0.5 mm, while String B has a radius of r_B = 1.0 mm (twice as thick). **Investigative Question:** How does the fundamental frequency of String B compare to String A? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "String B vibrates at twice the frequency of String A."
+      },
+      {
+        "key": "B",
+        "text": "String B vibrates at half the frequency of String A."
+      },
+      {
+        "key": "C",
+        "text": "String B vibrates at four times the frequency of String A."
+      },
+      {
+        "key": "D",
+        "text": "Both strings vibrate at identical frequencies."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Linear mass density is m = πr²ρ. Substituting into Mersenne's formula yields f = (1 / 2Lr) × √(T / πρ), meaning frequency is inversely proportional to the radius (thickness) of the string: f ∝ 1/r. String B has twice the radius of String A, so its fundamental frequency is halved: f_B = f_A / 2. Thicker strings produce deeper, lower-pitched bass notes.",
+    "concept_name": "Frequency Dependence on Radius and Density: f ∝ 1/r",
+    "concept_tag": "sound case based frequency dependence on radius and density: f ∝ 1/r",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a1d551a2f2581561536cead703991a1e4329ac16463174dd7554774a9698096f",
+    "question_skeleton": "case scenario a cello manufacturer constructs two strings of identical length l and made of the same steel alloy under the exact same tension t string a has a radius of r a 0 5 mm while string b has a radius of r b 1 0 mm twice as thick investigative question how does the fundamental frequency of string b compare to string a choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_21_41c1e2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 21: Speed of Sound in Air vs Steel vs Water",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A demolition worker strikes a long continuous structural steel water pipeline with a sledgehammer at a distance of 1530 m from an observer. The observer places their ear against the steel pipe and also listens to the air. **Investigative Question:** In what order does the observer receive the sound through steel (v_steel ≈ 5100 m/s), water inside the pipe (v_water ≈ 1500 m/s), and air (v_air ≈ 340 m/s)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Through air first (0.3 s), water second (1.0 s), steel last (4.5 s)."
+      },
+      {
+        "key": "B",
+        "text": "Through steel first (0.3 s), water second (1.02 s), air last (4.5 s)."
+      },
+      {
+        "key": "C",
+        "text": "All three arrive simultaneously at 1.5 seconds."
+      },
+      {
+        "key": "D",
+        "text": "Through water first because water is incompressible."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Speed of sound is governed by Newton-Laplace formula v = √(E/ρ), where E is elasticity modulus. Solids have vastly higher elastic moduli (Young's modulus Y) than liquids (bulk modulus K) and gases (adiabatic bulk modulus γP), far outweighing density differences. Speed in steel (~5100 m/s) > water (~1500 m/s) > air (~340 m/s). Travel times: t_steel = 1530/5100 = 0.3 s; t_water = 1530/1500 = 1.02 s; t_air = 1530/340 = 4.5 s.",
+    "concept_name": "Speed of Sound in Solids, Liquids, and Gases",
+    "concept_tag": "sound case based speed of sound in solids, liquids, and gases",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "41c1e276f6033522ce2ce0936523384ec03584ad76714077faeebfd94abe2405",
+    "question_skeleton": "case scenario a demolition worker strikes a long continuous structural steel water pipeline with a sledgehammer at a distance of 1530 m from an observer the observer places their ear against the steel pipe and also listens to the air investigative question in what order does the observer receive the sound through steel v steel 5100 m s water inside the pipe v water 1500 m s and air v air 340 m s choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_22_11ea00",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 22: Effect of Temperature on Speed of Sound in Air",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** On a freezing winter day when ambient temperature is 0°C (273 K), the speed of sound in air is measured as 332 m/s. On a scorching summer afternoon in the same city, the air temperature rises to 40°C (313 K). **Investigative Question:** What is the speed of sound at 40°C (using the temperature coefficient of 0.61 m/s per °C)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "332.0 m/s"
+      },
+      {
+        "key": "B",
+        "text": "356.4 m/s"
+      },
+      {
+        "key": "C",
+        "text": "307.6 m/s"
+      },
+      {
+        "key": "D",
+        "text": "400.0 m/s"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The speed of sound in a gas is directly proportional to the square root of its absolute temperature: v ∝ √T. For small temperature changes from 0°C, the speed increases by approximately 0.61 m/s for each 1°C rise in temperature: v_t = v₀ + 0.61 × t. At 40°C: v₄₀ = 332 + (0.61 × 40) = 332 + 24.4 = 356.4 m/s.",
+    "concept_name": "Temperature Dependence: v ∝ √T",
+    "concept_tag": "sound case based temperature dependence: v ∝ √t",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "11ea0010e4a4f6ee2fdaaf1e90dd8d430625035c949535dc048e302d385a11c0",
+    "question_skeleton": "case scenario on a freezing winter day when ambient temperature is 0 c 273 k the speed of sound in air is measured as 332 m s on a scorching summer afternoon in the same city the air temperature rises to 40 c 313 k investigative question what is the speed of sound at 40 c using the temperature coefficient of 0 61 m s per c choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_23_3929de",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 23: Effect of Humidity on Speed of Sound in Air",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** During the monsoon season, a weather station records that the relative humidity of air increases from 20% to 95% at a constant temperature of 30°C and atmospheric pressure of 1 atm. **Investigative Question:** How does high humidity affect the speed of sound in air, and what is the underlying physical reason? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "High humidity decreases the speed of sound because water droplets create drag."
+      },
+      {
+        "key": "B",
+        "text": "High humidity increases the speed of sound because moist air has a lower density than dry air (water vapor molecular mass 18 g/mol is less than dry air 28.9 g/mol)."
+      },
+      {
+        "key": "C",
+        "text": "Humidity has zero effect on sound speed because sound travels only in nitrogen."
+      },
+      {
+        "key": "D",
+        "text": "Sound speed drops to zero when humidity exceeds 80%."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Water vapor (H₂O) has a molecular weight of 18 g/mol, which is lighter than the effective molecular weight of dry air (~28.96 g/mol, predominantly N₂ and O₂). Adding moisture lowers the density ρ of the air mixture at constant pressure and temperature. By the Laplace formula v = √(γP/ρ), a decrease in density causes an increase in the speed of sound.",
+    "concept_name": "Moisture Content and Molar Mass of Air",
+    "concept_tag": "sound case based moisture content and molar mass of air",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3929de3af17ff4bfbe009b8d8f5d6b45f0b49ce28b18b0eb0ee4262b95cad31a",
+    "question_skeleton": "case scenario during the monsoon season a weather station records that the relative humidity of air increases from 20 to 95 at a constant temperature of 30 c and atmospheric pressure of 1 atm investigative question how does high humidity affect the speed of sound in air and what is the underlying physical reason choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_24_436f04",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 24: Effect of Pressure on the Speed of Sound in Air",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A mountaineer measures the speed of sound at sea level (pressure P = 76 cm Hg, temperature T = 20°C). The mountaineer then ascends to a high mountain plateau where atmospheric pressure drops by 30% to P = 53.2 cm Hg, but the temperature is artificially kept at the same 20°C. **Investigative Question:** How does the speed of sound at the mountain plateau compare to that at sea level? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It decreases by 30% because there are fewer air molecules."
+      },
+      {
+        "key": "B",
+        "text": "It remains completely unchanged because at constant temperature, pressure and density change in the exact same proportion (P/ρ = constant)."
+      },
+      {
+        "key": "C",
+        "text": "It increases by 30% due to less atmospheric drag."
+      },
+      {
+        "key": "D",
+        "text": "Sound cannot propagate below 60 cm Hg."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to the ideal gas law, P/ρ = RT/M. Substituting into Laplace's equation v = √(γP/ρ) gives v = √(γRT/M). This shows that the speed of sound in an ideal gas depends solely on temperature and gas composition, and is completely independent of pressure. When pressure drops at constant temperature, density decreases in the exact same proportion, leaving the ratio P/ρ and sound speed constant.",
+    "concept_name": "Invariance of Sound Speed with Atmospheric Pressure",
+    "concept_tag": "sound case based invariance of sound speed with atmospheric pressure",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "436f04aa551b90555e68a1702c9f198af539270c94b57b1e93370f65d78e98d7",
+    "question_skeleton": "case scenario a mountaineer measures the speed of sound at sea level pressure p 76 cm hg temperature t 20 c the mountaineer then ascends to a high mountain plateau where atmospheric pressure drops by 30 to p 53 2 cm hg but the temperature is artificially kept at the same 20 c investigative question how does the speed of sound at the mountain plateau compare to that at sea level choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_25_574895",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 25: Echo from a Moving Ship Approaching a Cliff",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A cruise ship traveling at a constant speed of u = 20 m/s directly toward a vertical sea cliff sounds its foghorn. An echo from the cliff is heard by the ship's navigator after t = 4.0 seconds. The speed of sound in air is v = 340 m/s. **Investigative Question:** What was the distance of the ship from the cliff at the moment the foghorn was sounded? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "680 m"
+      },
+      {
+        "key": "B",
+        "text": "720 m"
+      },
+      {
+        "key": "C",
+        "text": "640 m"
+      },
+      {
+        "key": "D",
+        "text": "1360 m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Let the initial distance of the ship from the cliff be D. In t seconds, the ship moves toward the cliff by a distance x = u × t = 20 × 4.0 = 80 m. The sound travels to the cliff and back to the moving ship, covering a total distance: 2D - x = v × t. Thus: 2D - 80 = 340 × 4.0 = 1360 m => 2D = 1440 m => D = 720 m.",
+    "concept_name": "Echo Timing with Source Movement",
+    "concept_tag": "sound case based echo timing with source movement",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5748955a39b4dbd6f4a9203b38394584abf2b6cdff050154c834c284f39fa823",
+    "question_skeleton": "case scenario a cruise ship traveling at a constant speed of u 20 m s directly toward a vertical sea cliff sounds its foghorn an echo from the cliff is heard by the ship s navigator after t 4 0 seconds the speed of sound in air is v 340 m s investigative question what was the distance of the ship from the cliff at the moment the foghorn was sounded choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_26_7a9506",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 26: Acoustic Reflection in an Empty Hall vs Carpeted Auditorium",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** When a speaker talks in an unfurnished empty concrete hall with bare walls, speech sounds muddy, muffled, and unintelligible due to excessive overlapping echoes. When thick velvet draperies, plush carpet, and perforated acoustic ceiling tiles are installed, speech becomes crisp, clear, and perfectly intelligible. **Investigative Question:** What acoustic defect was present in the empty hall, and how did furnishings eliminate it? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sound was undergoing total internal reflection; carpets cool the air."
+      },
+      {
+        "key": "B",
+        "text": "Excessive reverberation due to repeated reflections from hard non-porous surfaces; porous furnishings absorb sound energy, rapidly damping reflections and reducing reverberation time to an optimal level."
+      },
+      {
+        "key": "C",
+        "text": "The empty hall suffered from destructive resonance of carbon dioxide."
+      },
+      {
+        "key": "D",
+        "text": "Hard walls convert sound into ultrasonic waves."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Reverberation is the persistence of sound in an enclosure due to repeated multiple reflections from rigid, non-porous walls (concrete, plaster). If reverberation time is too long, syllables overlap, causing severe loss of speech clarity. Porous acoustic materials (carpets, draperies, perforated acoustic tiles) absorb acoustic energy via viscous air friction in pores, reducing reverberation time to an optimum value (~1 second).",
+    "concept_name": "Reverberation and Sound Absorbing Materials",
+    "concept_tag": "sound case based reverberation and sound absorbing materials",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7a9506c319bbcec03f38a6cdee7a7bcb866c91cd5871cad0a2e349f5562fa5ee",
+    "question_skeleton": "case scenario when a speaker talks in an unfurnished empty concrete hall with bare walls speech sounds muddy muffled and unintelligible due to excessive overlapping echoes when thick velvet draperies plush carpet and perforated acoustic ceiling tiles are installed speech becomes crisp clear and perfectly intelligible investigative question what acoustic defect was present in the empty hall and how did furnishings eliminate it choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_27_2d1cc3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 27: Bat Echolocation in Complete Darkness",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A microbat hunting nocturnal moths in pitch-black forest glades emits rapid ultrasonic frequency sweeps ranging from 20 kHz to 120 kHz. The bat detects a tiny fluttering moth 3.4 meters away and intercepts it in mid-air. **Investigative Question:** How does the bat determine the distance and wing-beat flutter of the insect? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "By detecting the heat emitted by the moth's wings."
+      },
+      {
+        "key": "B",
+        "text": "By calculating round-trip transit time delay (t = 2d/v) to measure distance and observing Doppler frequency shifts in returning echoes to detect wing flutter."
+      },
+      {
+        "key": "C",
+        "text": "By emitting laser beams from its eyes that reflect off moth wings."
+      },
+      {
+        "key": "D",
+        "text": "By sniffing the pheromones vibrating in the air."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Bats use biological sonar (echolocation). By timing the delay between emitting an ultrasonic pulse and receiving its echo, the bat's auditory cortex computes distance: d = v × t / 2. High ultrasonic frequencies provide millimeter-scale wavelengths needed to resolve tiny insects. Furthermore, Doppler frequency modulation in the returning echo reveals the target's relative velocity and fluttering wing-beat rate.",
+    "concept_name": "Ultrasonic Bio-Sonar in Insect Hunting",
+    "concept_tag": "sound case based ultrasonic bio-sonar in insect hunting",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2d1cc31277fdf5c07920372fe3dd3ed0b0e0dd63280607a4028c46948f059662",
+    "question_skeleton": "case scenario a microbat hunting nocturnal moths in pitch black forest glades emits rapid ultrasonic frequency sweeps ranging from 20 khz to 120 khz the bat detects a tiny fluttering moth 3 4 meters away and intercepts it in mid air investigative question how does the bat determine the distance and wing beat flutter of the insect choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_28_0ac69d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 28: Flaw Detection in Steel Rails Using Ultrasonic Testing (UT)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Railway maintenance engineers inspect a section of high-speed steel railway track for internal fatigue cracks. A handheld ultrasonic transducer sends a 4 MHz pulse into the top rail head. The screen displays a transmission pulse at t = 0 μs, an echo from an internal fatigue fissure at t = 20 μs, and the back-wall bottom echo at t = 50 μs. Speed of sound in steel is 5000 m/s. **Investigative Question:** At what depth from the rail surface is the internal fatigue crack located? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "100 mm"
+      },
+      {
+        "key": "B",
+        "text": "50 mm"
+      },
+      {
+        "key": "C",
+        "text": "25 mm"
+      },
+      {
+        "key": "D",
+        "text": "12.5 mm"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In ultrasonic pulse-echo non-destructive testing (NDT), ultrasound reflects wherever there is an acoustic impedance mismatch, such as an internal air crack or void. Depth d = v × t / 2. Here v = 5000 m/s = 5 mm/μs. The crack echo arrives at t = 20 μs. Depth d = (5000 m/s × 20 × 10⁻⁶ s) / 2 = 0.05 m = 50 mm.",
+    "concept_name": "Non-Destructive Testing via Ultrasonic Pulse-Echo",
+    "concept_tag": "sound case based non-destructive testing via ultrasonic pulse-echo",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0ac69d01f5ca43139024a62ab41e0aa9e4e3a6af2d6ddc4d010a1afff680f3d4",
+    "question_skeleton": "case scenario railway maintenance engineers inspect a section of high speed steel railway track for internal fatigue cracks a handheld ultrasonic transducer sends a 4 mhz pulse into the top rail head the screen displays a transmission pulse at t 0 s an echo from an internal fatigue fissure at t 20 s and the back wall bottom echo at t 50 s speed of sound in steel is 5000 m s investigative question at what depth from the rail surface is the internal fatigue crack located choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_29_ab183e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 29: Acoustic Resonance in Stem Glasses (Breaking Glass with Voice)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A trained opera singer sings a sustained, piercing pure note directly into a delicate lead crystal wine glass. A strobe light reveals the circular rim of the glass deforming violently into an ellipse. When the singer increases volume while holding the exact note, the glass suddenly shatters into fragments. **Investigative Question:** Under what precise physics condition does the wine glass shatter? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "When the singer sings at an ultrasonic frequency exceeding 50 kHz."
+      },
+      {
+        "key": "B",
+        "text": "When the singing frequency precisely matches the natural vibrational frequency of the wine glass and the acoustic power is high enough that resonant displacement exceeds the glass's ultimate tensile strain."
+      },
+      {
+        "key": "C",
+        "text": "When sound waves melt the lead crystal by acoustic cavitation."
+      },
+      {
+        "key": "D",
+        "text": "When air pressure inside the glass drops to a total vacuum."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A crystal glass has a high acoustic Q-factor (very low internal damping) and a sharp natural resonance frequency. When an acoustic wave strikes it at precisely this resonant frequency, energy accumulates continuously with each cycle. If the acoustic intensity is sufficiently high, the antinodal displacement amplitude grows until dynamic bending stresses exceed the ultimate tensile strength of brittle crystal, shattering it.",
+    "concept_name": "Resonance Threshold and Brittle Fracture",
+    "concept_tag": "sound case based resonance threshold and brittle fracture",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ab183e40e3928a8dc23e34281ac78736992fcb77aaef8c71908b452d0e42bdc2",
+    "question_skeleton": "case scenario a trained opera singer sings a sustained piercing pure note directly into a delicate lead crystal wine glass a strobe light reveals the circular rim of the glass deforming violently into an ellipse when the singer increases volume while holding the exact note the glass suddenly shatters into fragments investigative question under what precise physics condition does the wine glass shatter choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_30_b48024",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 30: Sound Box Function in an Acoustic Guitar or Cello",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A solid-body electric guitar unplugged from its amplifier produces an extremely faint plinking sound when strummed. In contrast, an acoustic guitar with a hollow wooden body and soundhole produces a rich, room-filling sound. **Investigative Question:** What is the mechanical role of the acoustic guitar's hollow wooden body and soundboard? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The hollow body creates electricity via piezoelectric wood fibers."
+      },
+      {
+        "key": "B",
+        "text": "The thin string has a tiny surface area and displaces very little air; the string vibrations are transferred via the bridge to the large wooden soundboard and trapped air volume, forcing them into forced vibration and displacing a massive volume of air."
+      },
+      {
+        "key": "C",
+        "text": "The wooden body stores sound waves for several seconds before releasing them."
+      },
+      {
+        "key": "D",
+        "text": "The guitar body speeds up the sound wave from 340 m/s to 1500 m/s."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A vibrating string has minute cross-sectional area and simply cuts through air with minimal displacement of air molecules, yielding very low acoustic intensity. The bridge couples the string's vibration to the expansive wooden top plate (soundboard) and internal air cavity. The soundboard acts as an acoustic transformer, forcing a large surface area of air into vibration, vastly amplifying radiated sound power.",
+    "concept_name": "Forced Vibration of Soundboard and Air Volume",
+    "concept_tag": "sound case based forced vibration of soundboard and air volume",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b48024617f490dfd5162fee42337ce49bf874ead69a4149de3ede8073de7923e",
+    "question_skeleton": "case scenario a solid body electric guitar unplugged from its amplifier produces an extremely faint plinking sound when strummed in contrast an acoustic guitar with a hollow wooden body and soundhole produces a rich room filling sound investigative question what is the mechanical role of the acoustic guitar s hollow wooden body and soundboard choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_31_e6576e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 31: Waveform Differences: Pure Musical Tone vs Industrial Noise",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An audio oscilloscope displays two sound inputs: Input A is produced by a tuning fork vibrating at 440 Hz, showing a smooth, regular, repeating sinusoidal wave. Input B is produced by an pneumatic jackhammer breaking asphalt, showing a completely irregular, jagged, non-repeating chaotic waveform. **Investigative Question:** What distinguishes a musical sound from noise based on waveform and perception? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A musical sound has an irregular waveform; noise has a strictly periodic waveform."
+      },
+      {
+        "key": "B",
+        "text": "A musical sound is produced by regular, periodic vibrations that produce a pleasing sensation on the ear; noise is produced by irregular, non-periodic, discontinuous vibrations that produce a harsh, jarring sensation."
+      },
+      {
+        "key": "C",
+        "text": "Noise travels twice as fast as musical sound in air."
+      },
+      {
+        "key": "D",
+        "text": "Musical sound has zero harmonics while noise has only one harmonic."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The distinction between musical sound and noise lies in periodicity and regularity. Musical sounds result from continuous, periodic oscillations of a vibrating source (strings, air columns, tines), displaying a repeating periodic waveform and pleasant auditory sensation. Noise is generated by sudden, non-periodic, chaotic pressure transients with no definite pitch or harmonic structure.",
+    "concept_name": "Periodic vs Non-Periodic Complex Acoustic Waveforms",
+    "concept_tag": "sound case based periodic vs non-periodic complex acoustic waveforms",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e6576ef2b6eb587c35566dd62ce02cdfef50d6b65f5a6ee12275ea7ae7be6f3c",
+    "question_skeleton": "case scenario an audio oscilloscope displays two sound inputs input a is produced by a tuning fork vibrating at 440 hz showing a smooth regular repeating sinusoidal wave input b is produced by an pneumatic jackhammer breaking asphalt showing a completely irregular jagged non repeating chaotic waveform investigative question what distinguishes a musical sound from noise based on waveform and perception choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_32_633817",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 32: Whistling of Wind Through Overhead Transmission Cables",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** During a winter gale, high-voltage overhead transmission power cables strung between pylons emit a loud, eerie musical humming or whistling tone known as an Aeolian harp tone. **Investigative Question:** What fluid dynamic phenomenon causes cables to vibrate and hum in the wind? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Electricity leaking from the high voltage line into the wind."
+      },
+      {
+        "key": "B",
+        "text": "Periodic alternating vortex shedding (von Kármán vortex street) behind the cylindrical wire exerts alternating lift forces; when the shedding frequency matches the wire's natural harmonic, resonant singing occurs."
+      },
+      {
+        "key": "C",
+        "text": "Frictional heating between air molecules and aluminum conductors."
+      },
+      {
+        "key": "D",
+        "text": "Electromagnetic repulsion between wind ions and transmission electrons."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "As air flows past a cylindrical cable at velocity U, alternating vortices peel off the top and bottom surfaces in a staggered wake known as a von Kármán vortex street. Each shed vortex induces an alternating transverse aerodynamic lift force on the wire at Strouhal frequency f = St × U / D. When this shedding frequency coincides with a natural structural mode of the wire, intense resonant Aeolian vibration occurs.",
+    "concept_name": "Aeolian Tones and Vortex Shedding Resonance",
+    "concept_tag": "sound case based aeolian tones and vortex shedding resonance",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "633817e99e1aa8ee73fdbff266a92351be0a39cc03ba56f1017bc119385a8127",
+    "question_skeleton": "case scenario during a winter gale high voltage overhead transmission power cables strung between pylons emit a loud eerie musical humming or whistling tone known as an aeolian harp tone investigative question what fluid dynamic phenomenon causes cables to vibrate and hum in the wind choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_33_c3f98e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 33: Acoustic Shadowing Behind a Concrete Noise Barrier",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Highway authorities install a 4-meter-tall solid concrete noise barrier along an expressway adjacent to a residential suburb. Residents notice that low-frequency rumbling truck exhaust (100 Hz, λ ≈ 3.4 m) easily bends over the top of the barrier, while high-frequency tire hissing (4000 Hz, λ ≈ 0.085 m) is blocked effectively. **Investigative Question:** Why does the sound barrier block high-pitched sound far more effectively than low-pitched rumble? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "High-frequency sound has greater photon mass and cannot lift over concrete."
+      },
+      {
+        "key": "B",
+        "text": "Diffraction is pronounced only when the wavelength is comparable to or larger than the obstacle height; long wavelengths (low pitch) readily diffract over the barrier edge, while short wavelengths (high pitch) travel rectilinearly and cast a sharp acoustic shadow."
+      },
+      {
+        "key": "C",
+        "text": "Concrete absorbs only high frequencies and reflects low frequencies."
+      },
+      {
+        "key": "D",
+        "text": "Low-frequency sound travels through the concrete by nuclear transmission."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Wave diffraction (bending around obstacles) is significant only when obstacle dimensions are comparable to the wavelength: λ ~ d. For low-frequency rumble (100 Hz), λ ≈ 3.4 m, which is comparable to the 4 m wall, causing extensive diffraction into the acoustic shadow zone. For high frequencies (4 kHz), λ ≈ 8.5 cm ≪ 4 m, so the waves travel in straight ray paths, casting a deep acoustic shadow.",
+    "concept_name": "Diffraction of Sound Waves vs Wavelength",
+    "concept_tag": "sound case based diffraction of sound waves vs wavelength",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c3f98e94555fe1f0cd05641f14e668ebb532fc4b6d90aba4353591204483176f",
+    "question_skeleton": "case scenario highway authorities install a 4 meter tall solid concrete noise barrier along an expressway adjacent to a residential suburb residents notice that low frequency rumbling truck exhaust 100 hz 3 4 m easily bends over the top of the barrier while high frequency tire hissing 4000 hz 0 085 m is blocked effectively investigative question why does the sound barrier block high pitched sound far more effectively than low pitched rumble choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_34_b6379f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 34: Open Pipe vs Closed Pipe Musical Harmonics",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An organ builder constructs two organ pipes of the exact same physical length L = 1.0 m: Pipe A is open at both ends, while Pipe B is open at one end and closed at the other by a wooden stopper. Air temperature gives sound speed v = 340 m/s. **Investigative Question:** What are the fundamental frequencies and available harmonic series of Pipe A and Pipe B? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pipe A: f1 = 170 Hz (all integer harmonics 1, 2, 3...); Pipe B: f1 = 85 Hz (only odd harmonics 1, 3, 5...)"
+      },
+      {
+        "key": "B",
+        "text": "Pipe A: f1 = 85 Hz (only odd harmonics); Pipe B: f1 = 170 Hz (all harmonics)"
+      },
+      {
+        "key": "C",
+        "text": "Pipe A and Pipe B both have f1 = 170 Hz and all harmonics."
+      },
+      {
+        "key": "D",
+        "text": "Pipe A has f1 = 340 Hz; Pipe B has f1 = 85 Hz."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For an open pipe of length L, antinodes form at both ends; fundamental λ = 2L, so f₁ = v / 2L = 340 / 2 = 170 Hz, and it supports all integer harmonics (f, 2f, 3f, 4f...). For a closed pipe, a node forms at the closed end and an antinode at the open end; fundamental λ = 4L, so f₁ = v / 4L = 340 / 4 = 85 Hz, and it produces only odd harmonics (f, 3f, 5f...), giving closed pipes a darker, hollower timbre.",
+    "concept_name": "Harmonic Series of Open and Closed Acoustic Cylinders",
+    "concept_tag": "sound case based harmonic series of open and closed acoustic cylinders",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b6379f4cc03dd5c5a04b5e3aa179df20023f7bfa628ef847d279cb132ab52700",
+    "question_skeleton": "case scenario an organ builder constructs two organ pipes of the exact same physical length l 1 0 m pipe a is open at both ends while pipe b is open at one end and closed at the other by a wooden stopper air temperature gives sound speed v 340 m s investigative question what are the fundamental frequencies and available harmonic series of pipe a and pipe b choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_35_847544",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 35: Pitch Rise While Filling a Bucket with Water from a Tap",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A person places an empty tall plastic bucket under a running water tap. Even without looking at the bucket, the person can clearly tell when the bucket is nearly full because the pitch of the gurgling sound rises continuously from a deep hollow rumble to a shrill high pitch. **Investigative Question:** Why does the pitch of the sound rise as the bucket fills with water? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Water temperature drops as more water enters."
+      },
+      {
+        "key": "B",
+        "text": "The bucket acts as a closed acoustic tube; as water fills the bucket, the length L of the vibrating air column above the water decreases, and since frequency f ∝ 1/L, the pitch rises continuously."
+      },
+      {
+        "key": "C",
+        "text": "The velocity of sound in air increases due to water splash energy."
+      },
+      {
+        "key": "D",
+        "text": "The plastic walls of the bucket become thicker under water weight."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The air column between the rising water surface and the bucket lip behaves as an acoustic pipe closed at one end (water surface). The fundamental frequency of a closed pipe is f = v / 4L. As the bucket fills, the height of the air column L steadily decreases. Since frequency is inversely proportional to column length (f ∝ 1/L), the emitted fundamental resonant frequency and perceived pitch steadily rise.",
+    "concept_name": "Decreasing Air Column Length and Frequency Elevation",
+    "concept_tag": "sound case based decreasing air column length and frequency elevation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "847544ba264909411cc3d7ae02cf82ae414ddf5fea64df77a70e605afb320069",
+    "question_skeleton": "case scenario a person places an empty tall plastic bucket under a running water tap even without looking at the bucket the person can clearly tell when the bucket is nearly full because the pitch of the gurgling sound rises continuously from a deep hollow rumble to a shrill high pitch investigative question why does the pitch of the sound rise as the bucket fills with water choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_36_ce9954",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 36: Acoustic Tuning with a Variable Resonance Water Tube",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an acoustic resonance experiment with a 500 Hz tuning fork, the first resonance length is measured at L1 = 16.2 cm and the second resonance length at L2 = 50.2 cm. The lab manual instructs the student to account for the antinode extending slightly beyond the open end of the tube by an 'end correction' e. **Investigative Question:** What is the end correction e for this resonance tube apparatus? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "e = 0.8 cm"
+      },
+      {
+        "key": "B",
+        "text": "e = 1.6 cm"
+      },
+      {
+        "key": "C",
+        "text": "e = 2.4 cm"
+      },
+      {
+        "key": "D",
+        "text": "e = 0.4 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "At first resonance: L1 + e = λ/4. At second resonance: L2 + e = 3λ/4. Subtracting gives L2 - L1 = λ/2 => λ = 2(50.2 - 16.2) = 2 × 34.0 = 68.0 cm. Therefore λ/4 = 17.0 cm. Substituting into the first equation: 16.2 cm + e = 17.0 cm => e = 17.0 - 16.2 = 0.8 cm.",
+    "concept_name": "Determining End Correction in Resonance Experiments",
+    "concept_tag": "sound case based determining end correction in resonance experiments",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ce99541834787f47f798b9b47f8c0034e3daf400225c2b4712acd119976aab07",
+    "question_skeleton": "case scenario in an acoustic resonance experiment with a 500 hz tuning fork the first resonance length is measured at l1 16 2 cm and the second resonance length at l2 50 2 cm the lab manual instructs the student to account for the antinode extending slightly beyond the open end of the tube by an end correction e investigative question what is the end correction e for this resonance tube apparatus choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_37_a327cb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 37: Auditory Threshold of Hearing and Pain in Human Ears",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An audiologist tests a patient's hearing using an audiometer. The patient can hear tones between 20 Hz and 20,000 Hz, with maximum sensitivity around 3000–4000 Hz. The quietest audible sound at 1000 Hz corresponds to 0 dB (I₀ = 10⁻¹² W/m²), while sounds at 120 dB (I = 1 W/m²) cause acute physical discomfort and pain. **Investigative Question:** By what factor does sound intensity increase between the threshold of hearing (0 dB) and the threshold of pain (120 dB)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "120 times"
+      },
+      {
+        "key": "B",
+        "text": "1,200 times"
+      },
+      {
+        "key": "C",
+        "text": "1,000,000 times (10⁶)"
+      },
+      {
+        "key": "D",
+        "text": "1,000,000,000,000 times (10¹²)"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The decibel scale is logarithmic: β = 10 log₁₀(I / I₀). At the threshold of pain (120 dB): 120 = 10 log₁₀(I / I₀) => log₁₀(I / I₀) = 12 => I / I₀ = 10¹². The acoustic intensity at the threshold of pain is one trillion (10¹²) times greater than the threshold of hearing, demonstrating the astonishing dynamic range of the human auditory system.",
+    "concept_name": "Audible Frequency Band and Decibel Dynamic Range",
+    "concept_tag": "sound case based audible frequency band and decibel dynamic range",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a327cb5e2613feaff101a6e5d483f9e53f8f50f308ab92482693f7bb23e749d0",
+    "question_skeleton": "case scenario an audiologist tests a patient s hearing using an audiometer the patient can hear tones between 20 hz and 20 000 hz with maximum sensitivity around 3000 4000 hz the quietest audible sound at 1000 hz corresponds to 0 db i 10 w m while sounds at 120 db i 1 w m cause acute physical discomfort and pain investigative question by what factor does sound intensity increase between the threshold of hearing 0 db and the threshold of pain 120 db choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_38_057d11",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 38: Galton's Whistle for Dog Training",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A dog trainer blows into a small metallic Galton's whistle. To the human handler and bystanders, the whistle produces no audible sound whatsoever, yet a search-and-rescue dog 200 meters away immediately perks its ears and runs to the trainer. **Investigative Question:** Why can the dog hear the whistle while humans cannot? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The whistle produces ultrasonic sound at frequencies above 20,000 Hz (e.g., 30 kHz); dogs can detect frequencies up to ~45,000 Hz, whereas human adult hearing is capped at 20,000 Hz."
+      },
+      {
+        "key": "B",
+        "text": "The whistle emits electromagnetic radio waves that stimulate dog fur."
+      },
+      {
+        "key": "C",
+        "text": "The whistle produces infrasonic sound at 5 Hz which travels only along the ground."
+      },
+      {
+        "key": "D",
+        "text": "Dogs hear sound through their paws via seismic shear waves."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Human hearing is limited to the sonic frequency range between 20 Hz and 20,000 Hz. Canines have evolved wider auditory bandwidth, hearing up to ~45 kHz. A Galton's whistle is an acoustic pipe with an adjustable resonant chamber calibrated to produce ultrasonic frequencies (~25–35 kHz). This frequency is inaudible to human ears but loud and clear to dogs.",
+    "concept_name": "Infrasonic, Sonic, and Ultrasonic Frequencies",
+    "concept_tag": "sound case based infrasonic, sonic, and ultrasonic frequencies",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "057d11ac3e0826799a1ee6ae212d066e506574a63ea3d47df03320e86fe9737f",
+    "question_skeleton": "case scenario a dog trainer blows into a small metallic galton s whistle to the human handler and bystanders the whistle produces no audible sound whatsoever yet a search and rescue dog 200 meters away immediately perks its ears and runs to the trainer investigative question why can the dog hear the whistle while humans cannot choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_39_8adc35",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 39: Infrasonic Waves Emitted by Earthquakes and Tsunamis",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Before the catastrophic arrival of giant tsunami waves following a sub-sea megathrust earthquake, coastal villagers observed wild elephants, birds, and zoo animals displaying extreme agitation and fleeing to high ground inland minutes before humans noticed anything unusual. **Investigative Question:** What physical acoustic waves alerted the animals before the water hit the coast? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ultrasonic waves emitted by boiling seabed rocks."
+      },
+      {
+        "key": "B",
+        "text": "Infrasonic pressure waves (frequency f < 20 Hz) generated by massive seabed displacement; infrasound suffers minimal atmospheric attenuation and travels long distances, detectable by animals with low-frequency auditory adaptations."
+      },
+      {
+        "key": "C",
+        "text": "Electromagnetic gamma radiation leaking from underwater faults."
+      },
+      {
+        "key": "D",
+        "text": "Microscopic gravity pulses created by mantle shifting."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Infrasonic waves are acoustic pressure oscillations with frequencies below 20 Hz (often 0.1 to 10 Hz). Due to their very long wavelengths, infrasonic waves suffer virtually zero absorption in air or ground, propagating for hundreds of kilometers. Animals like elephants and birds possess specialized infrasound receptors (Pacinian corpuscles in feet and inner ear structures), alerting them to seismic disturbances.",
+    "concept_name": "Infrasound Characteristics and Animal Early Warning",
+    "concept_tag": "sound case based infrasound characteristics and animal early warning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8adc35bfbf89000d8d47cd67c15d99e7d596c8f39078998df8450803748f4f67",
+    "question_skeleton": "case scenario before the catastrophic arrival of giant tsunami waves following a sub sea megathrust earthquake coastal villagers observed wild elephants birds and zoo animals displaying extreme agitation and fleeing to high ground inland minutes before humans noticed anything unusual investigative question what physical acoustic waves alerted the animals before the water hit the coast choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_40_331232",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 40: Acoustic Reflection from a Concave Parabolic Whisper Dish",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a science museum, two large concave parabolic metallic dishes (diameter 2 m) are placed facing each other across an expansive exhibition hall 50 meters apart. A visitor placing their ear at the focal point of Dish A can clearly hear a tiny faint whisper spoken at the focal point of Dish B, while visitors standing in the middle of the hall hear nothing. **Investigative Question:** What acoustic reflection principle explains this whisper gallery effect? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Parabolic dishes convert acoustic pressure into electrical radio signals."
+      },
+      {
+        "key": "B",
+        "text": "Sound diverging from the focus of Dish B reflects as a parallel beam of sound; traversing the hall with minimal geometric divergence, it strikes Dish A and reflects inward, converging all acoustic energy into the focus of Dish A."
+      },
+      {
+        "key": "C",
+        "text": "Sound travels through the museum floor via subterranean resonance."
+      },
+      {
+        "key": "D",
+        "text": "Dish B amplifies sound using nuclear crystal resonance."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sound waves obey the same laws of reflection as light (angle of incidence = angle of reflection). A parabolic reflector has the geometric property that rays originating at its focus reflect as a collimated parallel beam. This plane wave crosses the 50 m hall with negligible 1/r² spreading loss. Upon striking the receiving parabolic dish, the parallel wavefronts reflect and converge precisely onto its focal point.",
+    "concept_name": "Geometric Focusing of Reflected Acoustic Waves",
+    "concept_tag": "sound case based geometric focusing of reflected acoustic waves",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "33123234f55b71da3c89605047763c3bd89cd86dea61040621937268395e51c6",
+    "question_skeleton": "case scenario in a science museum two large concave parabolic metallic dishes diameter 2 m are placed facing each other across an expansive exhibition hall 50 meters apart a visitor placing their ear at the focal point of dish a can clearly hear a tiny faint whisper spoken at the focal point of dish b while visitors standing in the middle of the hall hear nothing investigative question what acoustic reflection principle explains this whisper gallery effect choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_41_a7bb92",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 41: Why Sound is Louder at Night than During the Day",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Residents living 3 kilometers from an active railway switching yard notice that during hot sunny afternoons the train horns are faint and barely audible, whereas on calm, clear cold nights the exact same train horns sound remarkably loud and close. **Investigative Question:** What atmospheric acoustic phenomenon causes sound to carry much further at night? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Air molecules stop moving at night, offering zero resistance to sound."
+      },
+      {
+        "key": "B",
+        "text": "At night, Earth's surface cools rapidly by radiation, creating a temperature inversion where cold air lies beneath warm air; because sound travels faster in warm air, acoustic wavefronts refract (bend) downward back toward the ground instead of escaping into the upper atmosphere."
+      },
+      {
+        "key": "C",
+        "text": "The absence of sunlight allows sound waves to double their frequency."
+      },
+      {
+        "key": "D",
+        "text": "Train horns use higher electrical voltage at night."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "During the day, ground heating creates a lapse rate (hot air near ground, cold air aloft); since v ∝ √T, sound travels faster near the ground, bending wavefronts upward away from surface listeners. At night, radiative cooling produces a temperature inversion (cold air near ground, warmer air above). Sound speed increases with height, refracting sound rays continuously downward back toward the ground, acting as an atmospheric acoustic duct.",
+    "concept_name": "Atmospheric Temperature Inversion and Acoustic Refraction",
+    "concept_tag": "sound case based atmospheric temperature inversion and acoustic refraction",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a7bb926b53221897ab857f995c0ca57233e1c1094a00a5084d1d8a5cc6ff623f",
+    "question_skeleton": "case scenario residents living 3 kilometers from an active railway switching yard notice that during hot sunny afternoons the train horns are faint and barely audible whereas on calm clear cold nights the exact same train horns sound remarkably loud and close investigative question what atmospheric acoustic phenomenon causes sound to carry much further at night choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_42_aa2e72",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 42: Determining the Frequency of a Tuning Fork Using a Sonometer",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student determines the unknown frequency f_x of a tuning fork using a sonometer wire under constant tension. The student places a tiny paper rider at the midpoint of the wire between two movable bridges. When the vibrating fork is held on the sonometer base and the bridge distance is adjusted to L = 25.0 cm, the paper rider vigorously flies off the wire. **Investigative Question:** Why does the paper rider fly off at L = 25.0 cm, and what state has the wire achieved? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The paper rider is blown off by wind from the student's breath."
+      },
+      {
+        "key": "B",
+        "text": "The wire is in resonance with the tuning fork, establishing a standing wave with maximum vibration amplitude (an antinode) at its center, which throws off the paper rider."
+      },
+      {
+        "key": "C",
+        "text": "The wire melts under the acoustic heat."
+      },
+      {
+        "key": "D",
+        "text": "The paper rider becomes electrically charged and repels the steel wire."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When the natural fundamental frequency of the wire segment matches the frequency of the tuning fork, acoustic resonance occurs. The wire oscillates with large standing-wave amplitude. At the midpoint between bridges, a displacement antinode forms. The vigorous vertical acceleration at the antinode easily exceeds gravitational acceleration (g), projecting the light paper rider into the air.",
+    "concept_name": "Unison Tuning and Beat Elimination",
+    "concept_tag": "sound case based unison tuning and beat elimination",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "aa2e72a199f091bb8ab5b78c0a3a6be715c6da9bcc0647f6770733012a102a67",
+    "question_skeleton": "case scenario a student determines the unknown frequency f x of a tuning fork using a sonometer wire under constant tension the student places a tiny paper rider at the midpoint of the wire between two movable bridges when the vibrating fork is held on the sonometer base and the bridge distance is adjusted to l 25 0 cm the paper rider vigorously flies off the wire investigative question why does the paper rider fly off at l 25 0 cm and what state has the wire achieved choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_43_38b73c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 43: Acoustic Cavitation in Ultrasonic Cleaning Baths",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A jeweler cleans an intricate gold necklace encrusted with polishing compound by immersing it in an ultrasonic cleaning tank filled with aqueous detergent solution vibrating at 40 kHz. Within 60 seconds, all dirt, oil, and grime are stripped away from microscopic crevices without scratching the metal. **Investigative Question:** What physical phenomenon responsible for cleaning occurs in the liquid bath under high-intensity 40 kHz ultrasound? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The liquid heats up to 500°C, melting all dirt away."
+      },
+      {
+        "key": "B",
+        "text": "Acoustic cavitation: alternating cycles of rarefaction create millions of microscopic vapor bubbles that violently collapse during compression cycles, generating localized high-energy shock waves and micro-jets that mechanically scrub surfaces."
+      },
+      {
+        "key": "C",
+        "text": "Ultrasonic waves dissolve gold into liquid colloid."
+      },
+      {
+        "key": "D",
+        "text": "The detergent molecules undergo nuclear fission, blasting dirt away."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "High-frequency, high-intensity ultrasonic pressure waves produce intense alternating rarefactions (negative pressure) that tear the liquid apart, creating microscopic vapor-filled cavities (acoustic cavitation). During subsequent positive compression phases, these bubbles implode violently in nanoseconds, creating localized shock waves (pressures > 1000 atm and temperatures > 5000 K on a micro-scale) that blast contaminants off surfaces.",
+    "concept_name": "Cavitation Bubbles and Surface Degreasing",
+    "concept_tag": "sound case based cavitation bubbles and surface degreasing",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "38b73c940ac199659aca024433a91c57449b774439bb39990e8af11442c4ad0b",
+    "question_skeleton": "case scenario a jeweler cleans an intricate gold necklace encrusted with polishing compound by immersing it in an ultrasonic cleaning tank filled with aqueous detergent solution vibrating at 40 khz within 60 seconds all dirt oil and grime are stripped away from microscopic crevices without scratching the metal investigative question what physical phenomenon responsible for cleaning occurs in the liquid bath under high intensity 40 khz ultrasound choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_44_1b366b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 44: Echo Reflection Off a Seafloor Trench: Minimum Timing",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A submarine at depth 200 m sends an ultrasonic pulse vertically down to the ocean floor. The pulse reflects from the seabed and is detected by the submarine's hydrophone after 1.6 seconds. The speed of sound in seawater is 1500 m/s. **Investigative Question:** What is the total water depth from the ocean surface to the seabed at that position? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1200 m"
+      },
+      {
+        "key": "B",
+        "text": "1400 m"
+      },
+      {
+        "key": "C",
+        "text": "2400 m"
+      },
+      {
+        "key": "D",
+        "text": "600 m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The distance between the submarine and the seabed is d_sub = v × t / 2 = (1500 m/s × 1.6 s) / 2 = 1200 m. Since the submarine is already submerged at a depth of 200 m below the ocean surface, the total water depth from surface to seabed is H = 200 m + 1200 m = 1400 m.",
+    "concept_name": "Depth Calculation with Angled Reflector",
+    "concept_tag": "sound case based depth calculation with angled reflector",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1b366b63823cdfa8f322e3c2e7622c668fcdf16bd0e2168390fbfe2609471617",
+    "question_skeleton": "case scenario a submarine at depth 200 m sends an ultrasonic pulse vertically down to the ocean floor the pulse reflects from the seabed and is detected by the submarine s hydrophone after 1 6 seconds the speed of sound in seawater is 1500 m s investigative question what is the total water depth from the ocean surface to the seabed at that position choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_45_005036",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 45: Difference in Fundamental Pitch Between Open and Stopped Flutes",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A pan flute pipe closed at one end has a fundamental resonance frequency of 220 Hz (A3). The musician removes the bottom plug, converting the pipe into an open-ended acoustic pipe of the same length. **Investigative Question:** What will be the new fundamental frequency of the pipe after opening the end? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "110 Hz"
+      },
+      {
+        "key": "B",
+        "text": "440 Hz"
+      },
+      {
+        "key": "C",
+        "text": "330 Hz"
+      },
+      {
+        "key": "D",
+        "text": "220 Hz"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For a closed pipe: f_closed = v / 4L = 220 Hz. For an open pipe of the same length L: f_open = v / 2L = 2 × (v / 4L) = 2 × f_closed. Therefore, the new fundamental frequency doubles to 2 × 220 Hz = 440 Hz (concert pitch A4, exactly one musical octave higher).",
+    "concept_name": "Effect of Opening the Lower End of a Pipe",
+    "concept_tag": "sound case based effect of opening the lower end of a pipe",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0050366cc33d79e1f075e778a1ca4536cb4bbe92eb42ac05423340bfc00dea3e",
+    "question_skeleton": "case scenario a pan flute pipe closed at one end has a fundamental resonance frequency of 220 hz a3 the musician removes the bottom plug converting the pipe into an open ended acoustic pipe of the same length investigative question what will be the new fundamental frequency of the pipe after opening the end choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_46_d6cf18",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 46: Acoustic Damping Using Sorbothane and Viscoelastic Isolators",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** High-end audiophile turntables are mounted on hemispherical isolation feet made of Sorbothane (a viscoelastic polyurethane polymer) rather than rigid steel springs. When struck with an impact, vibrations die out in 0.05 seconds instead of ringing for 3 seconds. **Investigative Question:** Why is viscoelastic Sorbothane superior to steel springs for damping mechanical vibrations? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sorbothane creates an anti-gravity field that levitates the turntable."
+      },
+      {
+        "key": "B",
+        "text": "Steel springs store energy elastically and oscillate for a long time; viscoelastic polymers possess high internal damping hysteresis, converting vibration mechanical energy directly into internal molecular friction heat rapidly."
+      },
+      {
+        "key": "C",
+        "text": "Sorbothane conducts acoustic vibrations into the electrical ground wire."
+      },
+      {
+        "key": "D",
+        "text": "Sorbothane reflects all sound waves back into the earth."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Purely elastic materials (like steel springs) store mechanical deformation energy with minimal loss, resulting in prolonged underdamped ringing. Viscoelastic materials exhibit high mechanical hysteresis: during deformation and recovery, internal long-chain polymer molecules slide against each other, dissipating the kinetic energy of vibration directly into microscopic thermal energy, achieving critical or near-critical damping.",
+    "concept_name": "Viscoelastic Damping and Kinetic Dissipation",
+    "concept_tag": "sound case based viscoelastic damping and kinetic dissipation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d6cf1898424babfcd879b01eb0d20e88ef40904ebeda6224dedf52c4845b7568",
+    "question_skeleton": "case scenario high end audiophile turntables are mounted on hemispherical isolation feet made of sorbothane a viscoelastic polyurethane polymer rather than rigid steel springs when struck with an impact vibrations die out in 0 05 seconds instead of ringing for 3 seconds investigative question why is viscoelastic sorbothane superior to steel springs for damping mechanical vibrations choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_47_476f89",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 47: Determination of Gunshot Position via Echo Timing",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A forest ranger standing 510 m from a sheer rock cliff hears the direct crack of a poacher's rifle shot, and exactly 2.0 seconds later hears the echo of the shot reflected off the cliff. The speed of sound is 340 m/s. The poacher, the ranger, and the cliff lie along the same straight line. **Investigative Question:** What was the distance between the poacher and the ranger when the rifle was fired? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "170 m"
+      },
+      {
+        "key": "B",
+        "text": "340 m"
+      },
+      {
+        "key": "C",
+        "text": "510 m"
+      },
+      {
+        "key": "D",
+        "text": "680 m"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Let the poacher be at distance x from the cliff, with the ranger between poacher and cliff (or poacher between ranger and cliff). The cliff is at 510 m from the ranger. The echo travels from poacher to cliff (x) and then cliff to ranger (510 m), total distance = x + 510. The direct sound travels directly from poacher to ranger: distance = |510 - x|. The time difference is Δt = [(x + 510) - (510 - x)] / v = 2x / v. 2.0 s = 2x / 340 => x = 340 m from the cliff. The distance between poacher and ranger is 510 m - 340 m = 170 m.",
+    "concept_name": "Echo Distance Triangulation in Forest Clearing",
+    "concept_tag": "sound case based echo distance triangulation in forest clearing",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "476f895801c6701e1b8857f3d30740c745bb32325c503a41bd9ab55899d54214",
+    "question_skeleton": "case scenario a forest ranger standing 510 m from a sheer rock cliff hears the direct crack of a poacher s rifle shot and exactly 2 0 seconds later hears the echo of the shot reflected off the cliff the speed of sound is 340 m s the poacher the ranger and the cliff lie along the same straight line investigative question what was the distance between the poacher and the ranger when the rifle was fired choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_48_328a19",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 48: Loudness Variation with Density of Medium",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A small mechanical electric bell is energized inside a sealed glass vessel under three different gaseous atmospheres at identical pressure and temperature: Gas 1 is hydrogen (density ρ_H ≈ 0.089 kg/m³), Gas 2 is air (ρ_air ≈ 1.20 kg/m³), and Gas 3 is sulfur hexafluoride (ρ_SF6 ≈ 6.13 kg/m³). **Investigative Question:** In which gas does the bell sound noticeably the loudest to an external observer? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gas 1 (hydrogen)"
+      },
+      {
+        "key": "B",
+        "text": "Gas 2 (air)"
+      },
+      {
+        "key": "C",
+        "text": "Gas 3 (sulfur hexafluoride)"
+      },
+      {
+        "key": "D",
+        "text": "The loudness is identical in all three gases."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The intensity of a sound wave is directly proportional to the density of the medium in which it travels: I = 2π²ρvf²A² (where ρ is medium density). A denser medium provides greater inertial coupling and acoustic impedance, allowing the vibrating surface to transfer more mechanical energy per cycle to surrounding gas molecules, resulting in higher acoustic intensity and perceived loudness.",
+    "concept_name": "Acoustic Energy Transfer vs Medium Density",
+    "concept_tag": "sound case based acoustic energy transfer vs medium density",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "328a19b61ee665760e0cc0f900528777720f76a732a6ff7be158c2cec2f990aa",
+    "question_skeleton": "case scenario a small mechanical electric bell is energized inside a sealed glass vessel under three different gaseous atmospheres at identical pressure and temperature gas 1 is hydrogen density h 0 089 kg m gas 2 is air air 1 20 kg m and gas 3 is sulfur hexafluoride sf6 6 13 kg m investigative question in which gas does the bell sound noticeably the loudest to an external observer choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_49_f8953d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 49: Ultrasonic Welding of Thermoplastic Automotive Components",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an automotive manufacturing plant, two molded plastic dashboard panels (polycarbonate) are joined using an ultrasonic welding horn (sonotrode) vibrating at 20 kHz with an amplitude of 30 μm under pneumatic clamping pressure. In 0.4 seconds, a permanent hermetic bond is formed with zero added glue or external heat. **Investigative Question:** What causes the plastic to melt and fuse along the joint line during ultrasonic welding? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "High ultrasonic frequency excites electrons to produce plasma sparks."
+      },
+      {
+        "key": "B",
+        "text": "High-frequency cyclic shear stresses cause intense intermolecular friction and interfacial hysteretic viscoelastic dissipation, generating rapid localized heat that melts the plastic joint interface."
+      },
+      {
+        "key": "C",
+        "text": "Ultrasonic waves chemically alter polymer bonds into metallic bonds."
+      },
+      {
+        "key": "D",
+        "text": "Air trapped between panels undergoes adiabatic compression up to 2000°C."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ultrasonic welding applies high-frequency mechanical vibrations (20–40 kHz) under normal clamping pressure. The cyclical microscopic shear strain causes rapid friction between mating surfaces and internal intermolecular viscoelastic hysteresis within the plastic. This generates intense localized heat at the joint boundary, exceeding the glass transition/melting temperature of the polymer in a fraction of a second.",
+    "concept_name": "Frictional Interfacial Melting via High-Frequency Sonotrodes",
+    "concept_tag": "sound case based frictional interfacial melting via high-frequency sonotrodes",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f8953d6f30f986117f9f3212786bd62e8b87eaf8f1745574bfbd508002291820",
+    "question_skeleton": "case scenario in an automotive manufacturing plant two molded plastic dashboard panels polycarbonate are joined using an ultrasonic welding horn sonotrode vibrating at 20 khz with an amplitude of 30 m under pneumatic clamping pressure in 0 4 seconds a permanent hermetic bond is formed with zero added glue or external heat investigative question what causes the plastic to melt and fuse along the joint line during ultrasonic welding choose the correct option"
+  },
+  {
+    "globalId": "qb_case_sound_50_6533f6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Sound",
+    "title": "Case Study 50: Doppler Effect Observation on Passing Train Siren",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An observer stands on a railway station platform as an express train approaches at 30 m/s with its whistle sounding at 600 Hz. After passing the platform, the train recedes at the same 30 m/s. The speed of sound in air is 330 m/s. **Investigative Question:** What frequencies does the stationary observer perceive as the train approaches and as it recedes? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Approaching: 660 Hz; Receding: 550 Hz"
+      },
+      {
+        "key": "B",
+        "text": "Approaching: 600 Hz; Receding: 600 Hz"
+      },
+      {
+        "key": "C",
+        "text": "Approaching: 550 Hz; Receding: 660 Hz"
+      },
+      {
+        "key": "D",
+        "text": "Approaching: 700 Hz; Receding: 500 Hz"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By the Doppler effect formula for a moving source: f' = f × [v / (v ∓ v_s)]. While approaching: f'_app = 600 × [330 / (330 - 30)] = 600 × (330 / 300) = 600 × 1.1 = 660 Hz (higher pitch). While receding: f'_rec = 600 × [330 / (330 + 30)] = 600 × (330 / 360) = 600 × (11 / 12) = 550 Hz (lower pitch).",
+    "concept_name": "Frequency Shift with Relative Motion",
+    "concept_tag": "sound case based frequency shift with relative motion",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6533f6a08b3fe4f1d7f58b8799a8d83a190e9eda6e01b43b5b6dd0db3eb998cf",
+    "question_skeleton": "case scenario an observer stands on a railway station platform as an express train approaches at 30 m s with its whistle sounding at 600 hz after passing the platform the train recedes at the same 30 m s the speed of sound in air is 330 m s investigative question what frequencies does the stationary observer perceive as the train approaches and as it recedes choose the correct option"
+  }
+]

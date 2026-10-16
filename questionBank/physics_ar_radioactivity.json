@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_radioactivity_1_5b7a73",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Radioactivity as a nuclear phenomenon",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Radioactive decay is completely unaffected by changes in temperature, pressure, or chemical combination. **Reason (R):** Radioactivity is a spontaneous nuclear phenomenon involving the unstable atomic nucleus, independent of orbital valence electrons. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and origin within the nucleus protected from external chemical/physical forces explains independence.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "824b6a07cb2aa0e1996ac11bdfa1d106f7ee71afa2ba5e4e8f913280237dff5b",
+    "question_skeleton": "assertion a radioactive decay is completely unaffected by changes in temperature pressure or chemical combination reason r radioactivity is a spontaneous nuclear phenomenon involving the unstable atomic nucleus independent of orbital valence electrons choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_2_818b83",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Alpha particle nature and charge",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An alpha particle is a doubly ionized helium nucleus carrying a charge of +2e and a mass of approximately 4 atomic mass units. **Reason (R):** An alpha particle consists of two protons and two neutrons bound together tightly (⁴₂He²⁺). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and composition of 2 protons and 2 neutrons defines a doubly charged helium nucleus.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0717c4bec3888e2f94fc92e540d5275a6fd1b4c78dc76d02f8d6db885b5e70d4",
+    "question_skeleton": "assertion a an alpha particle is a doubly ionized helium nucleus carrying a charge of e and a mass of approximately # atomic mass units reason r an alpha particle consists of two protons and two neutrons bound together tightly he choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_3_e0d141",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Beta-minus particle origin in decay",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A beta-minus particle emitted during radioactive decay originates from within the nucleus, not from atomic electron shells. **Reason (R):** Inside an unstable neutron-rich nucleus, a neutron spontaneously transforms into a proton, an electron (beta particle), and an antineutrino. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The nuclear transition n → p + e⁻ + ν_bar creates the beta particle at the instant of decay.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "28e47b42c055c2caba4300ed01dd7670701aa6f519f2e64eecad06f5fc903a77",
+    "question_skeleton": "assertion a a beta minus particle emitted during radioactive decay originates from within the nucleus not from atomic electron shells reason r inside an unstable neutron rich nucleus a neutron spontaneously transforms into a proton an electron beta particle and an antineutrino choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_4_6fed59",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Gamma radiation nature",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Gamma emission does not alter either the atomic number or the mass number of the parent nucleus. **Reason (R):** Gamma radiation consists of uncharged, massless high-frequency electromagnetic photons emitted when an excited nucleus transitions to a lower energy state. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and de-excitation via photon emission leaves proton count Z and nucleon count A completely unchanged.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b2c05761e07d031e90b5069c6c2cfdfa56e83fd37ed9b1fda58998c35d38f1c1",
+    "question_skeleton": "assertion a gamma emission does not alter either the atomic number or the mass number of the parent nucleus reason r gamma radiation consists of uncharged massless high frequency electromagnetic photons emitted when an excited nucleus transitions to a lower energy state choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_5_566430",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Alpha vs beta ionizing power",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Alpha particles have roughly 100 times greater ionizing power than beta particles. **Reason (R):** Alpha particles are much heavier and carry double the positive charge (+2e), interacting much more strongly with atomic electrons in matter. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and larger mass plus +2e charge creates dense Coulomb ionization along the alpha track.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ddc8ffc5aaca21c9f316c9ab2ff9dbc6f18eee6c8a355f41caafee787816bd1f",
+    "question_skeleton": "assertion a alpha particles have roughly # times greater ionizing power than beta particles reason r alpha particles are much heavier and carry double the positive charge e interacting much more strongly with atomic electrons in matter choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_6_9a8a61",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Penetrating power ranking of radiations",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Gamma radiation has the greatest penetrating power, followed by beta particles, while alpha particles have the least. **Reason (R):** Gamma photons carry no electric charge and interact weakly with matter, whereas alpha particles lose kinetic energy rapidly through dense ionization. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and inverse relationship between ionizing density and range explains the penetrating order: γ > β > α.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "56bd61cce62e9cbd181ed68e289a5931e3b11c83f6ea6adb0220200b0e867641",
+    "question_skeleton": "assertion a gamma radiation has the greatest penetrating power followed by beta particles while alpha particles have the least reason r gamma photons carry no electric charge and interact weakly with matter whereas alpha particles lose kinetic energy rapidly through dense ionization choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_7_0aefc9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Alpha particle deflection in magnetic field",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When an alpha particle enters a uniform magnetic field perpendicular to its velocity, it curves into a circular arc. **Reason (R):** A charged particle moving across a magnetic field experiences a perpendicular Lorentz force (F = q·v·B). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and perpendicular Lorentz force acting as centripetal force curves the charged path into a circle.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2be0c2c0b2511997d8945f3d81a3220b7cf00e099d7a6bf348653fbf5b9b541e",
+    "question_skeleton": "assertion a when an alpha particle enters a uniform magnetic field perpendicular to its velocity it curves into a circular arc reason r a charged particle moving across a magnetic field experiences a perpendicular lorentz force f q v b choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_8_596af9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Beta deflection greater than alpha deflection",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the same transverse magnetic or electric field, beta particles are deflected far more noticeably than alpha particles. **Reason (R):** The charge-to-mass ratio (e/m) of a beta particle is approximately 7300 times greater than that of an alpha particle. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and vastly higher charge-to-mass ratio of the light electron causes much sharper curvature.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "713c46ab46a94e0ba2848064e0e60624ff48e312bda58d21da1c27e021c1f080",
+    "question_skeleton": "assertion a in the same transverse magnetic or electric field beta particles are deflected far more noticeably than alpha particles reason r the charge to mass ratio e m of a beta particle is approximately # times greater than that of an alpha particle choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_9_e10129",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Gamma rays zero deflection in fields",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Gamma rays pass through both strong electric fields and strong magnetic fields completely undeflected. **Reason (R):** Gamma rays carry zero electric charge, so neither electrostatic force (F = qE) nor magnetic Lorentz force (F = qvB) acts on them. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and zero electric charge ensures zero electromagnetic force.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a3ebaa65a4335b9a61a386a0d429599c1f9a30fc8845c167efb98b54ffadc011",
+    "question_skeleton": "assertion a gamma rays pass through both strong electric fields and strong magnetic fields completely undeflected reason r gamma rays carry zero electric charge so neither electrostatic force f qe nor magnetic lorentz force f qvb acts on them choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_10_5627f2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Alpha decay displacement law (Soddy-Fajans)",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When a nucleus undergoes alpha decay, its daughter nucleus shifts two places to the left in the Periodic Table. **Reason (R):** Emission of an alpha particle reduces the atomic number Z by 2 and the mass number A by 4 (ᴬ_Z X → ᴬ⁻⁴_ Y + ⁴₂He). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and losing two nuclear protons shifts the element two atomic positions to the left.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f68c404a07e1bbe124a5b9d1355e9f41edb3f8efc251782c8e19a6f013766e3b",
+    "question_skeleton": "assertion a when a nucleus undergoes alpha decay its daughter nucleus shifts two places to the left in the periodic table reason r emission of an alpha particle reduces the atomic number z by # and the mass number a by # z x z # y he choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_11_f57551",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Beta decay displacement law",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When a nucleus emits a beta-minus particle, the daughter nucleus shifts one place to the right in the Periodic Table. **Reason (R):** Beta-minus decay increases the nuclear charge Z by 1 while leaving the mass number A unchanged (ᴬ_Z X → ᴬ_ Y + ⁰₋₁e). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and atomic number increasing by 1 shifts the element one position to the right.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1174bdeefd9acfc8f107dd431f1dc4055fed44795273c14703a6c401e24ad4e1",
+    "question_skeleton": "assertion a when a nucleus emits a beta minus particle the daughter nucleus shifts one place to the right in the periodic table reason r beta minus decay increases the nuclear charge z by # while leaving the mass number a unchanged z x z # y e choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_12_8dd9ae",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Isobars produced by beta decay",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The parent and daughter nuclei in a beta-minus decay are isobars of each other. **Reason (R):** Isobars are nuclides having the same mass number A but different atomic numbers Z. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and invariant mass number A with Z increasing by 1 defines isobars.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0beaecf2e48ecc93b7a1442d031d7020857218576c92fcca53308a3bc606848e",
+    "question_skeleton": "assertion a the parent and daughter nuclei in a beta minus decay are isobars of each other reason r isobars are nuclides having the same mass number a but different atomic numbers z choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_13_236b7a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Radioactive half-life definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The half-life of a radioactive isotope is the time taken for half of the initial radioactive nuclei to decay. **Reason (R):** After n half-lives, the fraction of original radioactive nuclei remaining undecayed is given by N/N₀ = (1/2)ⁿ. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and exponential decay halving population per period defines half-life.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0ea687f00c9de076ff299c7fc9d67d8e67307a81a9def5c4cb905b8d440cc0aa",
+    "question_skeleton": "assertion a the half life of a radioactive isotope is the time taken for half of the initial radioactive nuclei to decay reason r after n half lives the fraction of original radioactive nuclei remaining undecayed is given by n n # # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_14_b0a244",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Carbon-14 dating principle",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Carbon-14 dating is used by archaeologists to estimate the age of ancient organic remains like wood and bone. **Reason (R):** Living organisms assimilate carbon-14 at a constant ratio with carbon-12; after death, carbon-14 decays with a known half-life of 5730 years. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and measuring the surviving ¹⁴C/¹²C ratio against its 5730-year half-life determines time since death.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b88ab536fc5eef8cf00acd1f47d4a0aa8ba9c3314283c33b6a71d5158f790cfc",
+    "question_skeleton": "assertion a carbon # dating is used by archaeologists to estimate the age of ancient organic remains like wood and bone reason r living organisms assimilate carbon # at a constant ratio with carbon # after death carbon # decays with a known half life of # years choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_15_c956d8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Lead containers for radioactive sources",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Radioactive sources in laboratories are always stored inside thick lead containers with a narrow aperture. **Reason (R):** Lead has a high atomic number and high density, providing exceptional absorption of dangerous gamma radiation. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and dense high-Z lead stopping penetrating gamma rays prevents environmental radiation.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5c7cc6132b61c6550a766bf8ea8db933faa9c5434a7115d8a0488fc89c0a0fab",
+    "question_skeleton": "assertion a radioactive sources in laboratories are always stored inside thick lead containers with a narrow aperture reason r lead has a high atomic number and high density providing exceptional absorption of dangerous gamma radiation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_16_57597e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Background radiation presence",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Even in the absence of any radioactive source, a Geiger-Müller counter detects a small continuous count rate. **Reason (R):** Background radiation is permanently present in the environment due to cosmic rays and natural radioactive isotopes in rocks and soil. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and ubiquitous natural terrestrial/cosmic radionuclides explain background radiation.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4abcfafcda266e9490476718134b0c0bdeac37a6e1657682170497783c4f52b6",
+    "question_skeleton": "assertion a even in the absence of any radioactive source a geiger m ller counter detects a small continuous count rate reason r background radiation is permanently present in the environment due to cosmic rays and natural radioactive isotopes in rocks and soil choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_17_96edbc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Dosimeter badge for radiation workers",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Radiologists and nuclear power plant workers wear film badge dosimeters on their lab coats. **Reason (R):** The photographic film inside darkens in proportion to cumulative ionizing radiation exposure, ensuring safety thresholds are not exceeded. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and proportional photochemical film blackening measures occupational radiation dose.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "139318a1908bfdb0d5fe899c0054ca9cedbe12cadbc5ac215ec92d43bbf3e877",
+    "question_skeleton": "assertion a radiologists and nuclear power plant workers wear film badge dosimeters on their lab coats reason r the photographic film inside darkens in proportion to cumulative ionizing radiation exposure ensuring safety thresholds are not exceeded choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_18_57a842",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Radioisotopes in cancer therapy",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Cobalt-60 is widely used in hospital radiotherapy to destroy malignant tumor cells. **Reason (R):** Cobalt-60 emits intense, penetrating gamma rays that damage the DNA of rapidly dividing cancer cells. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and localized high-energy gamma photon irradiation selectively destroying tumors explains radiotherapy.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2b1c0b72670a09eec0ab053e4769b1497de1b2b4457c43b35c442929dc3771c5",
+    "question_skeleton": "assertion a cobalt # is widely used in hospital radiotherapy to destroy malignant tumor cells reason r cobalt # emits intense penetrating gamma rays that damage the dna of rapidly dividing cancer cells choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_19_d6bfae",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Industrial radioactive tracer for pipe leaks",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Radioactive isotopes emitting gamma rays are used to detect leaks in buried underground oil and gas pipelines. **Reason (R):** A radioisotope introduced into the pipeline leaks into surrounding soil at the rupture, emitting gamma rays detectable from above ground. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and surface detection of accumulated gamma emitters over the leak pinpoints pipe rupture.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5e653b3c3e15f94088ae19ccc1254a75a495a782c62dcd54683832971f1314e3",
+    "question_skeleton": "assertion a radioactive isotopes emitting gamma rays are used to detect leaks in buried underground oil and gas pipelines reason r a radioisotope introduced into the pipeline leaks into surrounding soil at the rupture emitting gamma rays detectable from above ground choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_20_a2b1ac",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Alpha particle range in air",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Alpha particles emitted by radioactive sources travel only a few centimeters in ordinary air before coming to rest. **Reason (R):** Alpha particles produce intense ionization along their path, rapidly dissipating all their kinetic energy within 3 to 7 cm of air. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and high specific ionization depleting energy over short distances limits air range.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d31658cdd77f38b87c1e021ea93588000620fe6f3eb0012b9668201489e2a57e",
+    "question_skeleton": "assertion a alpha particles emitted by radioactive sources travel only a few centimeters in ordinary air before coming to rest reason r alpha particles produce intense ionization along their path rapidly dissipating all their kinetic energy within # to # cm of air choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_21_4911d2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Nuclear fission chain reaction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A single thermal neutron striking a Uranium-235 nucleus can trigger an uncontrolled chain reaction. **Reason (R):** Each fission of a Uranium-235 nucleus releases an average of 2 to 3 fast neutrons that can induce further fissions in neighboring nuclei. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and multiplication of emitted neutrons per fission event sustains a self-propagating chain reaction.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "07c81195de2ccb80ada5b4e9c9c6dde7fe444d132e3d3297c9edf23763c4c4d0",
+    "question_skeleton": "assertion a a single thermal neutron striking a uranium # nucleus can trigger an uncontrolled chain reaction reason r each fission of a uranium # nucleus releases an average of # to # fast neutrons that can induce further fissions in neighboring nuclei choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_22_4ac3fd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Moderator in nuclear reactor",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Heavy water (D₂O) or high-purity graphite is used as a moderator in nuclear fission reactors. **Reason (R):** The moderator slows down fast fission neutrons to thermal speeds through elastic collisions without absorbing them. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and thermalizing neutrons to maximize U-235 fission probability explains the moderator role.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4aa73d7ec084fe3fae3fde1e54d1815db934118aa06862e8a606441f1665a37d",
+    "question_skeleton": "assertion a heavy water d o or high purity graphite is used as a moderator in nuclear fission reactors reason r the moderator slows down fast fission neutrons to thermal speeds through elastic collisions without absorbing them choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_23_83474f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Control rods in nuclear reactor",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Cadmium or boron steel rods are inserted into or withdrawn from a nuclear reactor core to regulate power output. **Reason (R):** Cadmium and boron have very high absorption cross-sections for thermal neutrons, controlling the multiplication factor k. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and absorbing excess neutrons to regulate the fission rate defines the role of control rods.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e7e1906e23f933c7198c8cdaff7be110e828b08561f195a3019c8716cfea20ec",
+    "question_skeleton": "assertion a cadmium or boron steel rods are inserted into or withdrawn from a nuclear reactor core to regulate power output reason r cadmium and boron have very high absorption cross sections for thermal neutrons controlling the multiplication factor k choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_24_78f798",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Nuclear fusion vs fission energy yield",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Nuclear fusion produces significantly more energy per unit mass of fuel than nuclear fission. **Reason (R):** The fractional mass defect (Δm/m) involved in fusing light hydrogen nuclei into helium is greater than that in splitting heavy uranium nuclei. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and higher binding energy change per nucleon in fusion produces roughly 4 times more energy per kg.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9a428530a06ba0ba6514265140bba4d00f71154e8e42b8272058f0d737b1bc39",
+    "question_skeleton": "assertion a nuclear fusion produces significantly more energy per unit mass of fuel than nuclear fission reason r the fractional mass defect m m involved in fusing light hydrogen nuclei into helium is greater than that in splitting heavy uranium nuclei choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_25_b1358e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: High temperature requirement for nuclear fusion",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Nuclear fusion reactions occur only at extremely high temperatures of the order of 10⁷ to 10⁸ kelvin (thermonuclear reaction). **Reason (R):** Immense kinetic thermal energy is required for positively charged nuclei to overcome their mutual electrostatic Coulomb repulsion. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and overcoming strong Coulomb barrier forces requires multi-million kelvin thermal velocities.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c6f4451fdf275773e4fd29713e9526309177ffc4fd8fd01dbdc10836bfd4a99a",
+    "question_skeleton": "assertion a nuclear fusion reactions occur only at extremely high temperatures of the order of # to # kelvin thermonuclear reaction reason r immense kinetic thermal energy is required for positively charged nuclei to overcome their mutual electrostatic coulomb repulsion choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_26_49d726",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Solar energy origin in fusion",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The enormous energy radiated by the Sun and stars is generated by thermonuclear fusion reactions. **Reason (R):** In the core of the Sun, hydrogen nuclei continuously fuse into helium nuclei via the proton-proton cycle with a mass defect converted into radiant energy. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and hydrogen-to-helium fusion in the solar core explains solar luminosity.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a4b80418262508a280327b6c9aa83fe74e3ded8378736df111fb0d1ec23ec122",
+    "question_skeleton": "assertion a the enormous energy radiated by the sun and stars is generated by thermonuclear fusion reactions reason r in the core of the sun hydrogen nuclei continuously fuse into helium nuclei via the proton proton cycle with a mass defect converted into radiant energy choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_27_79f118",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Smoke detector americium source",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Domestic ionization smoke detectors contain a tiny fraction of americium-241 (an alpha emitter). **Reason (R):** Alpha particles continuously ionize air molecules between electrodes; smoke particles entering the chamber attach to ions, dropping current and triggering the alarm. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and smoke disruption of alpha-induced ionization current triggers the sensor.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "674a3285db4ab9c8c7d5e5684b289f5c39a8a583db4295b7f7c180ae33f9253a",
+    "question_skeleton": "assertion a domestic ionization smoke detectors contain a tiny fraction of americium # an alpha emitter reason r alpha particles continuously ionize air molecules between electrodes smoke particles entering the chamber attach to ions dropping current and triggering the alarm choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_28_03caf5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Radioisotope half-life independent of initial mass",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A 100 g sample and a 1 g sample of pure Radium-226 have the exact same half-life of 1600 years. **Reason (R):** Half-life is a fundamental nuclear decay constant characteristic of the nuclide, independent of mass, volume, or chemical state. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and half-life T½ = 0.693/λ being an intrinsic nuclear constant confirms mass independence.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8ed5b56700180c0b90d43cccce0e7ee62a9e5b266715a8aa324463ffb0aab420",
+    "question_skeleton": "assertion a a # g sample and a # g sample of pure radium # have the exact same half life of # years reason r half life is a fundamental nuclear decay constant characteristic of the nuclide independent of mass volume or chemical state choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_29_5325a0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Radiation sickness biological effects",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Exposure to high doses of ionizing radiation causes acute radiation sickness and genetic mutations. **Reason (R):** Ionizing radiation creates free radicals that break double-stranded DNA molecules and damage bone marrow and stem cells. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and radiolytic free radical damage to cellular DNA explains somatic and hereditary harm.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4a26848e3be4e542a1059cff2c52deadbe8ed89bcf5e375d414e3ddd42bedd78",
+    "question_skeleton": "assertion a exposure to high doses of ionizing radiation causes acute radiation sickness and genetic mutations reason r ionizing radiation creates free radicals that break double stranded dna molecules and damage bone marrow and stem cells choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_30_f9d82d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Isotopes in periodic table position",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Isotopes of the same chemical element occupy the exact same position in the Mendeleev/Modern Periodic Table. **Reason (R):** Isotopes possess identical atomic numbers Z (same number of protons and electrons), exhibiting identical chemical properties. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and identical atomic number Z places all isotopes in the same periodic slot.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "feea8cad04bc0023315f5e9355f045afabe4ff8b44c09c76aa6226d86288601d",
+    "question_skeleton": "assertion a isotopes of the same chemical element occupy the exact same position in the mendeleev modern periodic table reason r isotopes possess identical atomic numbers z same number of protons and electrons exhibiting identical chemical properties choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_31_06e6bd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Coolant in nuclear power plant",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Liquid sodium or pressurized water is circulated through a nuclear reactor as a coolant. **Reason (R):** The coolant extracts the immense heat generated in the core and transfers it via heat exchangers to boil water and produce high-pressure steam. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and thermal energy removal from core to steam turbine defines the coolant circuit.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d3977c589a4d90ac7ae02a5c1974f79801ea9a8caf564724e0670687c448d60e",
+    "question_skeleton": "assertion a liquid sodium or pressurized water is circulated through a nuclear reactor as a coolant reason r the coolant extracts the immense heat generated in the core and transfers it via heat exchangers to boil water and produce high pressure steam choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_32_1c91f3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Beta-plus (positron) decay",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In positron (beta-plus) decay, the daughter nucleus has an atomic number one less than the parent nucleus. **Reason (R):** In beta-plus decay, a nuclear proton transforms into a neutron, a positron (e⁺), and a neutrino (p → n + e⁺ + ν). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and proton-to-neutron conversion reduces atomic number Z by 1 while leaving mass number A unchanged.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "49758f91a97041305dc5d928995fd58d0fe735d5fc3ccd087ed2882ed645111c",
+    "question_skeleton": "assertion a in positron beta plus decay the daughter nucleus has an atomic number one less than the parent nucleus reason r in beta plus decay a nuclear proton transforms into a neutron a positron e and a neutrino p n e choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_33_3f312e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Nuclear density independence from mass number",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The density of nuclear matter is approximately constant (approx. 2.3 × 10¹⁷ kg m⁻³) across all atomic nuclei from helium to uranium. **Reason (R):** Nuclear radius R is proportional to the cube root of mass number (R = R₀ A¹/³), making nuclear volume directly proportional to mass number A. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since volume V ∝ A and mass m ∝ A, nuclear density ρ = m/V is constant across all nuclei.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "13f9faf0807f0d4a38ccba81c0063bfc5f9d16bed01d4a348cc6cb09dcb5e57e",
+    "question_skeleton": "assertion a the density of nuclear matter is approximately constant approx # # kg m across all atomic nuclei from helium to uranium reason r nuclear radius r is proportional to the cube root of mass number r r a making nuclear volume directly proportional to mass number a choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_34_c72302",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Gamma ray photographic action",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Gamma rays can expose and darken a sealed photographic plate wrapped in black paper. **Reason (R):** Gamma rays penetrate light-tight black paper easily and ionize silver halide crystals on the photographic emulsion. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and high penetration plus silver halide ionization causes photographic darkening.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "80cd2359579151821c0810ec4a093516d9801e5a91c63c816e4cd595417ea456",
+    "question_skeleton": "assertion a gamma rays can expose and darken a sealed photographic plate wrapped in black paper reason r gamma rays penetrate light tight black paper easily and ionize silver halide crystals on the photographic emulsion choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_35_920ea4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Critical mass in nuclear weapons",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A nuclear fission bomb cannot explode unless the fissile core exceeds a specific critical mass. **Reason (R):** In a subcritical mass, too many fission neutrons escape from the surface before inducing further fissions, extinguishing the chain reaction. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and surface neutron leakage exceeding internal neutron production in subcritical geometry prevents chain explosion.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e869cf6b6477b1beb8e63ef7b49d17ba0baf6bf6adb836dd1c2fddb4a8cc67c9",
+    "question_skeleton": "assertion a a nuclear fission bomb cannot explode unless the fissile core exceeds a specific critical mass reason r in a subcritical mass too many fission neutrons escape from the surface before inducing further fissions extinguishing the chain reaction choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_36_64b7c3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Neutron to proton ratio for stability",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Heavy stable nuclei have a neutron-to-proton ratio (N/Z) significantly greater than 1. **Reason (R):** As positive charge Z increases, repulsive Coulomb forces between protons grow, requiring extra neutral neutrons to provide attractive strong nuclear force. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and repulsive Coulomb force requiring additional strong nuclear binding from extra neutrons explains N/Z > 1.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dfc81264f34755830b9fd2776f194865055d6fad87c095ef725f09020bd84a82",
+    "question_skeleton": "assertion a heavy stable nuclei have a neutron to proton ratio n z significantly greater than # reason r as positive charge z increases repulsive coulomb forces between protons grow requiring extra neutral neutrons to provide attractive strong nuclear force choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_37_798939",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Radioactive waste deep geological disposal",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** High-level nuclear waste is vitrified into borosilicate glass cylinders and buried in deep geological repositories hundreds of metres underground. **Reason (R):** Long-lived radioactive actinides remain intensely radioactive for thousands of years, requiring complete isolation from the biosphere and groundwater. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and multi-millennial radiotoxicity requires vitrification and deep geological isolation.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "827d8961345787c396186d6dee8d63fcbac86ea283f81ac1acd5293229d41422",
+    "question_skeleton": "assertion a high level nuclear waste is vitrified into borosilicate glass cylinders and buried in deep geological repositories hundreds of metres underground reason r long lived radioactive actinides remain intensely radioactive for thousands of years requiring complete isolation from the biosphere and groundwater choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_38_ce70a3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Alpha emission recoil velocity",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When a stationary parent nucleus emits an alpha particle, the daughter nucleus recoils in the exact opposite direction. **Reason (R):** The total linear momentum of the isolated system must be conserved before and after decay (p_daughter + p_alpha = 0). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and conservation of linear momentum confirms that the daughter nucleus must recoil backward.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c6eed8a461de663bd8c521b5047718a5a535e492cf901f881c24d166266db12a",
+    "question_skeleton": "assertion a when a stationary parent nucleus emits an alpha particle the daughter nucleus recoils in the exact opposite direction reason r the total linear momentum of the isolated system must be conserved before and after decay p daughter p alpha # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_39_079336",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Uranium-238 decay series end product",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The radioactive decay chain of Uranium-238 terminates permanently at Lead-206 (²⁰⁶₈₂Pb). **Reason (R):** Lead-206 has a completely stable, magic proton-neutron configuration with zero spontaneous alpha or beta radioactivity. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and nuclear stability of Lead-206 halts further spontaneous radioactive disintegrations.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2615d0c552afafb7aee9823157fc504fd123f01d6181a39a56cc2ad7d53fe0f6",
+    "question_skeleton": "assertion a the radioactive decay chain of uranium # terminates permanently at lead # pb reason r lead # has a completely stable magic proton neutron configuration with zero spontaneous alpha or beta radioactivity choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_radioactivity_40_ba54bd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Beta particle continuous energy spectrum",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Beta particles emitted from a radioactive sample exhibit a continuous energy distribution from zero up to a maximum endpoint energy. **Reason (R):** The decay energy is shared simultaneously between the emitted beta particle and an undetectable antineutrino in varying proportions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and three-body decay sharing energy between daughter, electron, and antineutrino explains the continuous beta spectrum.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3e86701706864ff848390df0565f8b9d55707d99636ae5915f1835032e03d167",
+    "question_skeleton": "assertion a beta particles emitted from a radioactive sample exhibit a continuous energy distribution from zero up to a maximum endpoint energy reason r the decay energy is shared simultaneously between the emitted beta particle and an undetectable antineutrino in varying proportions choose the correct option"
+  }
+]

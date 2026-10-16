@@ -1,0 +1,1353 @@
+[
+  {
+    "globalId": "qb_hots_sound_1_kfp0j",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Determining the phase relationship between two particles",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two particles, P and Q, lie on the same sinusoidal progressive wave. Their separation is 0.75 m, and the wavelength is 1.0 m. The wave travels from left to right. Two particles separated by three-quarters of a wavelength What is the phase difference between P and Q?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 155\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15 78 H305\" stroke=\"currentColor\" stroke-width=\"1\" /><path d=\"M15 78 C40 20 65 20 90 78 S140 136 165 78 S215 20 240 78 S290 136 305 78\" stroke=\"#0D9488\" stroke-width=\"2.4\" fill=\"none\" /><circle cx=\"45\" cy=\"43\" r=\"4\" fill=\"#2563eb\" /><circle cx=\"225\" cy=\"43\" r=\"4\" fill=\"#7C3AED\" /><path d=\"M45 43 V78 M225 43 V78\" stroke=\"#64748b\" stroke-dasharray=\"3 3\" /><text x=\"45\" y=\"31\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">P</text><text x=\"225\" y=\"31\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Q</text><path d=\"M45 112 H225 M45 108 V116 M225 108 V116\" stroke=\"currentColor\" stroke-width=\"1\" /><text x=\"135\" y=\"128\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">0.75 m</text><path d=\"M260 142 H302 M296 137 L303 142 L296 147\" stroke=\"currentColor\" stroke-width=\"1.2\" fill=\"none\" /><text x=\"280\" y=\"135\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Wave</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "90^°, and they are always moving in the same direction."
+      },
+      {
+        "key": "B",
+        "text": "180^°, and they are always in opposite phases."
+      },
+      {
+        "key": "C",
+        "text": "270^°, equivalent to a phase difference of 90^° in the opposite sense."
+      },
+      {
+        "key": "D",
+        "text": "360^°, so the particles are in phase."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The phase difference magnitude is\n\n\nΔphi=(2piΔ x / lambda)\n=(2pi(0.75) / 1)= (3pi / 2)=270^°.\n\n\nA phase difference of 270^° is equivalent to -90^° modulo 360^°. Option B incorrectly treats three-quarters of a wavelength as half a wavelength.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_2_3kzrt",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Forced vibration versus resonance",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A vibrating driver is connected to a second mechanical system. The driver frequency can be varied. The graph shows the steady-state amplitude of the second system against the driving frequency, with a sharp maximum at f₀. Amplitude response as driving frequency is varied Which statement is correct at frequencies away from f₀, provided the driver continues operating?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 160\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M32 15 V130 H300\" stroke=\"currentColor\" stroke-width=\"1.2\" fill=\"none\" /><path d=\"M45 121 C85 119 104 112 123 88 S148 25 174 25 S203 88 223 108 S265 121 295 123\" stroke=\"#0D9488\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M174 25 V130\" stroke=\"#64748b\" stroke-dasharray=\"4 4\" /><text x=\"174\" y=\"16\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">f₀</text><text x=\"13\" y=\"18\" font-size=\"10\" fill=\"currentColor\">A</text><text x=\"299\" y=\"146\" text-anchor=\"end\" font-size=\"10\" fill=\"currentColor\">Driving frequency</text><text x=\"174\" y=\"154\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Natural frequency</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The system can undergo forced vibrations, but its amplitude is generally smaller than at resonance."
+      },
+      {
+        "key": "B",
+        "text": "The system must stop vibrating because forced vibrations occur only at resonance."
+      },
+      {
+        "key": "C",
+        "text": "The system undergoes free vibrations at the driver's frequency."
+      },
+      {
+        "key": "D",
+        "text": "The system must vibrate with infinite amplitude at every frequency."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Forced vibrations occur whenever a system is driven periodically. Resonance is the special condition in which the driving frequency matches or is close to the natural frequency, producing a maximum response. Option B incorrectly treats forced vibration and resonance as identical phenomena.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_3_n8ej8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Fundamental frequency of an open pipe versus a closed pipe",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two pipes of equal physical length L are shown. Pipe P is open at both ends, whereas pipe Q is closed at one end and open at the other. End correction is neglected for this idealised comparison. Open and closed pipes of equal length What is the ratio f_/f_ of their fundamental frequencies?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"10\" y=\"22\" font-size=\"11\" fill=\"currentColor\">P: Open pipe</text><path d=\"M35 35 H285 M35 55 H285\" stroke=\"#0D9488\" stroke-width=\"3\" /><path d=\"M35 35 V55 M285 35 V55\" stroke=\"#0D9488\" stroke-width=\"1.5\" stroke-dasharray=\"3 3\" /><text x=\"160\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">L</text><text x=\"10\" y=\"83\" font-size=\"11\" fill=\"currentColor\">Q: Closed pipe</text><path d=\"M35 96 V122 H285 V96\" stroke=\"#2563eb\" stroke-width=\"3\" fill=\"none\" /><path d=\"M35 96 V122\" stroke=\"#2563eb\" stroke-width=\"5\" /><text x=\"160\" y=\"115\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">L</text><text x=\"160\" y=\"141\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Equal physical lengths</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "1/2"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "4"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For an open pipe, the fundamental wavelength is lambda_o=2L, so f_o=v/(2L).\n\nFor a closed pipe, the fundamental wavelength is lambda_c=4L, so f_c=v/(4L).\n\nTherefore,\n\n\n(f_c / f_o)=(v/(4L) / v/(2L))=frac12.\n\n\nOption C incorrectly assumes that equal pipe lengths always produce equal fundamental frequencies, regardless of the end conditions.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_4_codya",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Minimum distance for a distinct echo",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A student stands in front of a rigid wall. The sound travels from the student to the wall and back. The time between producing the sound and hearing its echo must be at least 0.1 s for the echo to be heard distinctly. The echo travels twice the separation between the student and the wall Using the prescribed speed of sound of 330 m s^, what is the minimum separation required?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 135\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><defs><marker id=\"arr6\" markerWidth=\"7\" markerHeight=\"7\" refX=\"5\" refY=\"3\" orient=\"auto\"><path d=\"M0,0 L6,3 L0,6 Z\" fill=\"#2563eb\" /></marker></defs><circle cx=\"40\" cy=\"55\" r=\"10\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" /><path d=\"M40 65 V96 M40 74 L25 88 M40 74 L54 87 M40 96 L28 113 M40 96 L53 113\" stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\" /><path d=\"M280 18 V119\" stroke=\"currentColor\" stroke-width=\"5\" /><path d=\"M55 38 H265\" stroke=\"#2563eb\" stroke-width=\"2\" fill=\"none\" marker-end=\"url(#arr6)\" /><path d=\"M265 52 H55\" stroke=\"#0D9488\" stroke-width=\"2\" fill=\"none\" marker-end=\"url(#arr6)\" /><text x=\"160\" y=\"28\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Sound to wall</text><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Echo returns</text><path d=\"M48 126 H272\" stroke=\"currentColor\" stroke-width=\"1\" /><path d=\"M48 122 V130 M272 122 V130\" stroke=\"currentColor\" /><text x=\"160\" y=\"120\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Distance d</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "16.5 m"
+      },
+      {
+        "key": "B",
+        "text": "33 m"
+      },
+      {
+        "key": "C",
+        "text": "66 m"
+      },
+      {
+        "key": "D",
+        "text": "3.3 m"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. The minimum round-trip time is 0.1 s.\n2. Total distance travelled by sound is vt=330×0.1=33 m.\n3. The wall is only half that distance away: d=33/2=16.5 m.\n4. Option B is the classic trap: it gives the round-trip distance instead of the one-way distance.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_5_akso5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Comparing frequencies of two vibrating strings",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two stretched strings have the same material and are vibrating in their fundamental modes. String P has length L, tension T, and linear density µ. String Q has length 2L, tension 4T, and linear density 2µ. Fundamental vibrations of strings with different lengths, tensions and linear densities What is the ratio f_Q/f_P?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"15\" y=\"20\" font-size=\"11\" fill=\"currentColor\">String P</text><path d=\"M30 48 H150\" stroke=\"currentColor\" stroke-width=\"2\" /><path d=\"M30 48 Q90 8 150 48\" stroke=\"#0D9488\" stroke-width=\"2.5\" fill=\"none\" /><text x=\"90\" y=\"70\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">L, T, μ</text><text x=\"15\" y=\"93\" font-size=\"11\" fill=\"currentColor\">String Q</text><path d=\"M30 120 H270\" stroke=\"currentColor\" stroke-width=\"2\" /><path d=\"M30 120 Q150 80 270 120\" stroke=\"#7C3AED\" stroke-width=\"2.5\" fill=\"none\" /><text x=\"150\" y=\"143\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">2L, 4T, 2μ</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "1/2"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "2"
+      },
+      {
+        "key": "D",
+        "text": "4"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For a stretched string,\n\n\nf=(1 / 2L)√((T / µ)).\n\n\nThus,\n\n\n(f_Q / f_P)\n=(L / 2L)√((4T/(2µ) / T/µ))\n=frac12sqrt2.\n\n\nThe calculated ratio is 1/sqrt2, which is not among the options. The correct ratio is **1/sqrt2**; the options must be corrected before this question is used. The trap is to compare tension alone and ignore both length and linear density.\n\n**Correction to Q15:** Replace option A with 1/sqrt2. The correct answer is A after this correction.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_6_0hv3x",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Free vibrations versus forced vibrations",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A tuning fork is struck and brought near a second tuning fork mounted on a stand. The second fork is initially at rest and begins to vibrate due to the periodic sound waves from the first fork. One tuning fork drives the vibrations of another through air Which description is correct for the second tuning fork?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 155\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M55 30 V65 Q55 75 65 75 Q75 75 75 65 V30 M55 30 V15 M75 30 V15\" stroke=\"#0D9488\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M65 75 V108 M48 108 H82\" stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\" /><path d=\"M245 30 V65 Q245 75 255 75 Q265 75 265 65 V30 M245 30 V15 M265 30 V15\" stroke=\"#2563eb\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M255 75 V108 M238 108 H272\" stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\" /><path d=\"M93 42 Q110 32 127 42 T161 42 T195 42 T229 42\" stroke=\"#64748b\" stroke-width=\"1.6\" fill=\"none\" /><path d=\"M222 36 L232 42 L222 48\" stroke=\"#64748b\" stroke-width=\"1.6\" fill=\"none\" /><text x=\"65\" y=\"130\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Struck fork</text><text x=\"255\" y=\"130\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Initially resting fork</text><text x=\"160\" y=\"20\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Sound waves</text><text x=\"160\" y=\"148\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Assume both forks have the same natural frequency</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It undergoes free vibrations because no direct contact occurs between the forks."
+      },
+      {
+        "key": "B",
+        "text": "It undergoes forced vibrations and may reach a large amplitude because its natural frequency matches the driving frequency."
+      },
+      {
+        "key": "C",
+        "text": "It undergoes damped vibrations only, since every sound wave removes all energy immediately."
+      },
+      {
+        "key": "D",
+        "text": "It remains at rest because sound cannot transfer energy without physical contact."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. The sound waves exert a periodic driving influence on the second fork.\n2. Its motion is therefore forced, not free.\n3. Since the driving frequency matches its natural frequency, resonance can produce a comparatively large amplitude. Option A incorrectly assumes that forced vibrations require direct physical contact.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_7_lut3v",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "String vibration: simultaneous changes in length, tension and linear density",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A sonometer wire is adjusted from state P to state Q. In P, the vibrating length is L, tension is T, and linear density is µ. In Q, the length becomes 2L, tension becomes 8T, and linear density becomes 2µ. One string with three changed parameters What is the ratio f_Q/f_P?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 155\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"12\" y=\"18\" font-size=\"11\" fill=\"currentColor\">State P</text><path d=\"M30 40 H140\" stroke=\"#0D9488\" stroke-width=\"2.5\" /><path d=\"M30 33 V47 M140 33 V47\" stroke=\"currentColor\" stroke-width=\"1.5\" /><text x=\"85\" y=\"61\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">L, T, μ</text><text x=\"12\" y=\"87\" font-size=\"11\" fill=\"currentColor\">State Q</text><path d=\"M30 109 H250\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><path d=\"M30 102 V116 M250 102 V116\" stroke=\"currentColor\" stroke-width=\"1.5\" /><text x=\"140\" y=\"131\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">2L, 8T, 2μ</text><text x=\"160\" y=\"149\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Fundamental mode in both states</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "1/2"
+      },
+      {
+        "key": "D",
+        "text": "4"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For a stretched string,\n\n\nf=(1 / 2L)√((T / µ)).\n\n\nHence,\n\n\n(f_Q / f_P)\n=(L / 2L)\n√((8T/(2µ) / T/µ))\n=frac12sqrt4=1.\n\n\nThe frequency remains unchanged because the doubling of length is exactly offset by the increase in √(T/µ). Option B accounts for tension but neglects both length and linear density.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_8_g1yve",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Comparing Two Strings — Linear Density Trap",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two stretched strings have the same length and tension. String X has linear density µ, while string Y has linear density 4µ. What is the ratio of their fundamental frequencies, f_X:f_Y?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1:4"
+      },
+      {
+        "key": "B",
+        "text": "1:2"
+      },
+      {
+        "key": "C",
+        "text": "2:1"
+      },
+      {
+        "key": "D",
+        "text": "4:1"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For equal length and tension,\n\n\nfproptofrac1{√(µ)}\n\n\nThus,\n\n\nf_X:f_Y\n=frac1{√(µ)}:frac1{√(4µ)}\n=1:frac12=2:1\n\n\nThe heavier string has half the fundamental frequency.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_9_ivi0j",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Comparing two strings with different tensions and densities",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "String P has length L, tension T and linear density µ. String Q has length L/2, tension T/2 and linear density 2µ. Both vibrate in their fundamental modes. If P has a fundamental frequency of 300 Hz, what is the fundamental frequency of Q?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "150 Hz"
+      },
+      {
+        "key": "B",
+        "text": "300 Hz"
+      },
+      {
+        "key": "C",
+        "text": "600 Hz"
+      },
+      {
+        "key": "D",
+        "text": "75 Hz"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Using\n\n\nf=(1 / 2L)√((T / µ)),\n\n\nthe ratio is\n\n\n(f_Q / f_P)\n=(L / L/2)\n√(((T/2)/(2µ) / T/µ))\n=2√(frac14)=1.\n\n\nThus f_Q=300 Hz. Option C incorrectly accounts for the halved length but ignores the reduced tension and increased linear density.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_10_m8n6t",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Frequency ratio of two strings",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two strings have the same length and the same linear density. String P has tension T, while string Q has tension 9T. If P vibrates at 160 Hz, what is the fundamental frequency of Q?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "480 Hz"
+      },
+      {
+        "key": "B",
+        "text": "1440 Hz"
+      },
+      {
+        "key": "C",
+        "text": "53.3 Hz"
+      },
+      {
+        "key": "D",
+        "text": "320 Hz"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For strings of equal length and linear density,\n\n\nfproptosqrt T.\n\n\nTherefore,\n\n\nf_Q=160sqrt9=160(3)=480 Hz.\n\n\nOption B incorrectly assumes frequency is directly proportional to tension.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_11_yiyag",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Wave speed, frequency and wavelength",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A sound wave travels through a medium at 330 m s^. A detector measures 825 complete oscillations in 2.5 seconds. What is the distance between two successive compressions?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.00 m"
+      },
+      {
+        "key": "B",
+        "text": "0.40 m"
+      },
+      {
+        "key": "C",
+        "text": "0.25 m"
+      },
+      {
+        "key": "D",
+        "text": "2.00 m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "First calculate frequency:\n\n\nf=(825 / 2.5)=330 Hz\n\n\nThe distance between successive compressions is one wavelength:\n\n\nlambda=(v / f)=(330 / 330)=1.00 m\n\n\nThe correct result is **1.00 m**, so option A is correct. Option B incorrectly treats the number of oscillations per second as the wavelength calculation.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_12_m5u8t",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Inferring frequency from two wavefront diagrams",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two wavefront diagrams show sound emitted by two sources in the same medium. During the same time interval, source P produces four complete cycles, while source Q produces six complete cycles. Their amplitudes are equal. Wavefronts produced in equal observation intervals If P has a frequency of 200 Hz, what is the frequency of Q?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Inferring frequency from two wavefront diagrams</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "133.3 Hz"
+      },
+      {
+        "key": "B",
+        "text": "200 Hz"
+      },
+      {
+        "key": "C",
+        "text": "300 Hz"
+      },
+      {
+        "key": "D",
+        "text": "400 Hz"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Frequency is the number of complete cycles per second. In equal time intervals, the frequency ratio is the ratio of the number of cycles:\n\n\n(f_Q / f_P)=frac64=frac32.\n\n\nThus f_Q=200×3/2=300 Hz. Equal amplitudes do not imply equal frequencies, which is the trap in option B.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_13_ck5q3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "A megaphone and directional sound",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A speaker is placed at the narrow end of a conical megaphone. The wide opening faces a listener. The sound rays are shown travelling outwards through the opening. A megaphone directs sound towards the audience Which explanation best describes the megaphone's action?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 130\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M25 50 L155 20 L155 100 L25 70 Z\" fill=\"#94a3b8\" fill-opacity=\"0.35\" stroke=\"currentColor\" stroke-width=\"2\" /><circle cx=\"28\" cy=\"60\" r=\"8\" fill=\"#0D9488\" /><path d=\"M155 20 L285 5 M155 60 H300 M155 100 L285 115\" stroke=\"#2563eb\" stroke-width=\"1.8\" fill=\"none\" /><path d=\"M275 1 L287 5 L277 11 M290 55 L302 60 L290 65 M275 109 L287 115 L275 119\" stroke=\"#2563eb\" stroke-width=\"1.5\" fill=\"none\" /><text x=\"85\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Megaphone</text><text x=\"25\" y=\"88\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Source</text><text x=\"240\" y=\"79\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Directed sound</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It increases the frequency by compressing the sound waves."
+      },
+      {
+        "key": "B",
+        "text": "It changes sound into electromagnetic waves, allowing them to travel farther."
+      },
+      {
+        "key": "C",
+        "text": "It makes the sound longitudinal only inside the cone and transverse outside it."
+      },
+      {
+        "key": "D",
+        "text": "Its walls reflect sound so that more acoustic energy is directed forwards, improving audibility in that direction."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "best describes the megaphone's action?\n\nA) It increases the frequency by compressing the sound waves.\n\nB) It changes sound into electromagnetic waves, allowing them to travel farther.\n\nC) It makes the sound longitudinal only inside the cone and transverse outside it.\n\nD) Its walls reflect sound so that more acoustic energy is directed forwards, improving audibility in that direction.\n\n**Correct Answer: D**\n\n**Reason:**\n\nThe conical walls reflect sound towards the opening, concentrating the sound energy in the forward direction. This improves audibility without changing the fundamental nature or frequency of the sound. Option A incorrectly assumes that reflection changes frequency.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_14_kq1mf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Resonance tube and end correction",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A closed resonance tube produces two successive resonances at air-column lengths 16 cm and 50 cm. The open end is not perfectly at the displacement antinode; its end correction is e. Successive resonances in a tube closed by water If the speed of sound is 340 m s^, what is the frequency of the sound?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 160\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M48 18 V130 M82 18 V130\" stroke=\"currentColor\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M50 96 H80 V128 H50 Z\" fill=\"#60A5FA\" fill-opacity=\"0.65\" /><path d=\"M50 96 H80\" stroke=\"#2563eb\" stroke-width=\"2\" /><path d=\"M98 18 V96 M93 18 H103 M93 96 H103\" stroke=\"currentColor\" stroke-width=\"1\" /><text x=\"109\" y=\"61\" font-size=\"10\" fill=\"currentColor\">L₁ = 16 cm</text><path d=\"M210 18 V130 M244 18 V130\" stroke=\"currentColor\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M212 116 H242 V128 H212 Z\" fill=\"#60A5FA\" fill-opacity=\"0.65\" /><path d=\"M212 116 H242\" stroke=\"#2563eb\" stroke-width=\"2\" /><path d=\"M260 18 V116 M255 18 H265 M255 116 H265\" stroke=\"currentColor\" stroke-width=\"1\" /><text x=\"270\" y=\"70\" font-size=\"10\" fill=\"currentColor\">50 cm</text><text x=\"65\" y=\"145\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">First</text><text x=\"227\" y=\"145\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Second</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "500 Hz"
+      },
+      {
+        "key": "B",
+        "text": "250 Hz"
+      },
+      {
+        "key": "C",
+        "text": "1000 Hz"
+      },
+      {
+        "key": "D",
+        "text": "125 Hz"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. Successive resonance lengths differ by half a wavelength: lambda/2=50-16=34 cm.\n2. Thus lambda=68 cm=0.68 m.\n3. f=v/lambda=340/0.68=500 Hz.\n\nThe end correction cancels when taking the difference between successive resonance lengths. Option B incorrectly uses the difference in lengths as a full wavelength.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_15_olco0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Distinguishing amplitude from wavelength",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two waves travel through the same medium at the same speed. Wave P has a crest height of 2 cm and a crest-to-crest distance of 60 cm. Wave Q has a crest height of 4 cm and a crest-to-crest distance of 60 cm. Schematic comparison; both waves have the same wavelength If the waves carry sound and all other relevant conditions are identical, which inference is justified?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 100\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15 52 H305\" stroke=\"currentColor\" stroke-width=\"0.8\" /><path d=\"M15 52 Q30 12 45 52 T75 52 T105 52 T135 52 T165 52 T195 52 T225 52 T255 52 T285 52\" stroke=\"#0D9488\" stroke-width=\"2\" fill=\"none\" /><path d=\"M45 52 V14 M45 14 H62\" stroke=\"currentColor\" stroke-width=\"0.8\" /><text x=\"66\" y=\"18\" font-size=\"10\" fill=\"currentColor\">2 cm</text><text x=\"160\" y=\"92\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Wave P: λ = 60 cm</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Q has twice the frequency and twice the speed of P."
+      },
+      {
+        "key": "B",
+        "text": "Q has twice the frequency but the same amplitude as P."
+      },
+      {
+        "key": "C",
+        "text": "Q has half the frequency and four times the intensity of P."
+      },
+      {
+        "key": "D",
+        "text": "Q has the same frequency and speed as P, but its intensity is four times that of P under the usual intensity–amplitude relation."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "1. The wavelengths are equal, and both waves travel in the same medium, so their speeds are equal.\n2. From v=flambda, equal speeds and wavelengths imply equal frequencies.\n3. For a sound wave under the same conditions, intensity is proportional to amplitude squared: Ipropto A².\n4. Doubling the amplitude gives I_Q/I_P=(4/2)²=4. Option A incorrectly assumes that amplitude determines frequency.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_16_2ykit",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Sonometer: tension and frequency",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A sonometer wire of fixed length L and fixed linear density µ is stretched over two bridges. A movable mass applies tension T. A paper rider rests at the centre of the wire. Sonometer wire with fixed vibrating length and adjustable tension The tension is increased from T to 4T, while the wire's length and mass per unit length remain unchanged. What happens to its fundamental frequency?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M30 84 H290\" stroke=\"currentColor\" stroke-width=\"2\" /><path d=\"M48 66 L58 84 L38 84 Z M262 66 L272 84 L252 84 Z\" fill=\"#64748b\" /><path d=\"M58 84 H262\" stroke=\"#0D9488\" stroke-width=\"2.5\" /><path d=\"M160 84 V60\" stroke=\"#2563eb\" stroke-width=\"1.5\" /><path d=\"M153 60 H167 L160 52 Z\" fill=\"#2563eb\" /><path d=\"M262 84 H295 V103\" stroke=\"currentColor\" stroke-width=\"1.5\" fill=\"none\" /><circle cx=\"295\" cy=\"113\" r=\"9\" fill=\"#64748b\" /><path d=\"M58 104 H262 M58 100 V108 M262 100 V108\" stroke=\"currentColor\" stroke-width=\"1\" /><text x=\"160\" y=\"120\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Fixed vibrating length L</text><text x=\"160\" y=\"43\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Paper rider</text><text x=\"287\" y=\"136\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Mass</text><text x=\"300\" y=\"74\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">T</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It doubles, because fpropto√(T)."
+      },
+      {
+        "key": "B",
+        "text": "It becomes four times as large, because frequency is directly proportional to tension."
+      },
+      {
+        "key": "C",
+        "text": "It halves, because increased tension increases the wavelength."
+      },
+      {
+        "key": "D",
+        "text": "It remains unchanged because the vibrating length is fixed."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For a stretched string,\n\n\nf=(1 / 2L)√((T / µ)).\n\n\nTherefore,\n\n\n(f₂ / f₁)=√((4T / T))=2.\n\n\nThe frequency doubles. Option B incorrectly treats the dependence as directly proportional to T, instead of to sqrt T.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_17_8o333",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Finding frequency from a wave train",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A source produces 1500 complete vibrations in 3.75 s. The resulting sound travels through air at 330 m s^. What is the wavelength?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.825 m"
+      },
+      {
+        "key": "B",
+        "text": "1.21 m"
+      },
+      {
+        "key": "C",
+        "text": "0.550 m"
+      },
+      {
+        "key": "D",
+        "text": "3.30 m"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "f=(1500 / 3.75)=400 Hz\n\n\nThen\n\n\nlambda=(v / f)=(330 / 400)=0.825 m.\n\n\nThe correct answer is **A**, not C. Option C results from using an incorrect frequency.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_18_ozq69",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Stethoscope: multiple reflections",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A stethoscope has a chest piece, a narrow flexible tube and two earpieces. Sound from the patient's chest enters the chest piece and travels through the tube to the listener. Sound travels from the chest piece through the stethoscope tube Which principle is most directly responsible for helping the stethoscope convey weak body sounds to the listener?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 165\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"36\" cy=\"45\" r=\"17\" fill=\"#94a3b8\" stroke=\"currentColor\" stroke-width=\"1.5\" /><path d=\"M53 45 Q95 40 110 75 Q125 110 160 110 Q195 110 210 75 Q225 40 250 45\" stroke=\"#2563eb\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M250 45 L264 32 M250 45 L264 58\" stroke=\"#2563eb\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M264 32 V19 M264 58 V71\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" /><path d=\"M25 68 V90 H47 V68\" stroke=\"currentColor\" stroke-width=\"1.5\" fill=\"none\" /><text x=\"36\" y=\"112\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Chest piece</text><text x=\"158\" y=\"139\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Flexible tube</text><text x=\"276\" y=\"91\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Earpieces</text><path d=\"M65 44 Q95 44 110 75\" stroke=\"#0D9488\" stroke-width=\"1.5\" stroke-dasharray=\"3 3\" fill=\"none\" /></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sound undergoes repeated reflections within the tube, helping guide the sound towards the earpieces."
+      },
+      {
+        "key": "B",
+        "text": "The tube creates new sound energy at every bend."
+      },
+      {
+        "key": "C",
+        "text": "The sound frequency increases continuously as the sound moves through the tube."
+      },
+      {
+        "key": "D",
+        "text": "The tube allows sound to travel without a medium."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The stethoscope provides a confined path in which sound can be transmitted to the ears, with reflections at the tube walls helping guide the sound. The chest piece also couples vibrations from the body into the instrument. Option B violates conservation of energy: the tube does not create sound energy.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_19_smwzk",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Damped vibrations and energy loss",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A vibrating tuning fork is struck once. A microphone records its amplitude over time. The graph shows a gradually decreasing amplitude while the oscillations continue. Oscillations whose amplitude decreases with time Which statement correctly explains the graph?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15 76 H305 M15 18 V132\" stroke=\"currentColor\" stroke-width=\"1.2\" fill=\"none\" /><path d=\"M15 76 C23 15 31 15 39 76 S55 115 63 76 S79 43 87 76 S103 98 111 76 S127 59 135 76 S151 87 159 76 S175 67 183 76 S199 82 207 76 S223 71 231 76 S247 79 255 76 S271 73 279 76 S295 77 305 76\" stroke=\"#2563eb\" stroke-width=\"2\" fill=\"none\" /><path d=\"M15 76 Q55 8 95 76 T175 76 T255 76 T305 76\" stroke=\"#64748b\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\" fill=\"none\" /><path d=\"M15 76 Q55 144 95 76 T175 76 T255 76 T305 76\" stroke=\"#64748b\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\" fill=\"none\" /><text x=\"11\" y=\"12\" font-size=\"10\" fill=\"currentColor\">Amplitude</text><text x=\"302\" y=\"94\" text-anchor=\"end\" font-size=\"10\" fill=\"currentColor\">Time →</text><text x=\"160\" y=\"145\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Decreasing amplitude</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The frequency must decrease to zero immediately, while the amplitude remains constant."
+      },
+      {
+        "key": "B",
+        "text": "The tuning fork undergoes resonance because its amplitude is decreasing."
+      },
+      {
+        "key": "C",
+        "text": "The vibration is damped; energy is transferred to the surroundings, so the amplitude decreases."
+      },
+      {
+        "key": "D",
+        "text": "The graph represents free vibrations without any energy loss."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Damping occurs when energy is lost from the oscillating system, for example through air resistance and sound radiation. The amplitude therefore decreases with time. Option D describes an ideal undamped system, whose amplitude would remain constant.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_20_c2tp1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Distinguishing amplitude from loudness in a waveform",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A microphone records two tones of the same frequency. The first waveform has an amplitude of 1 mm, while the second has an amplitude of 3 mm. Both are recorded with the same microphone under the same conditions. Same frequency, different amplitudes Under otherwise identical conditions, what is the ratio of the sound intensities I_Q/I_P?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 75\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 38 H308\" stroke=\"currentColor\" stroke-width=\"0.6\" /><path d=\"M12 38 C32 18 52 18 72 38 S112 58 132 38 S172 18 192 38 S232 58 252 38 S292 18 308 38\" stroke=\"#0D9488\" stroke-width=\"2\" fill=\"none\" /><text x=\"16\" y=\"12\" font-size=\"10\" fill=\"currentColor\">Tone P: A = 1 mm</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "3"
+      },
+      {
+        "key": "B",
+        "text": "9"
+      },
+      {
+        "key": "C",
+        "text": "1/3"
+      },
+      {
+        "key": "D",
+        "text": "1/9"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sound intensity is proportional to the square of amplitude for otherwise comparable waves:\n\n\n(I_Q / I_P)=≤ft((A_Q / A_P)right)²\n=≤ft(frac31right)²=9.\n\n\nOption A assumes intensity is directly proportional to amplitude rather than amplitude squared.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_21_dx5pr",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Resonance in a sonometer using a tuning fork",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A vibrating tuning fork is held above a sonometer wire. A small paper rider rests on the wire. The wire tension is adjusted until the rider is thrown off most vigorously, indicating resonance between the fork and the wire's fundamental mode. Resonance between a tuning fork and a sonometer wire Which observation most strongly indicates that resonance has occurred?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 155\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M70 20 V50 Q70 60 80 60 Q90 60 90 50 V20 M70 20 V8 M90 20 V8\" stroke=\"#7C3AED\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M80 60 V70\" stroke=\"currentColor\" stroke-width=\"2\" /><path d=\"M35 110 H275\" stroke=\"currentColor\" stroke-width=\"2\" /><path d=\"M52 92 L62 110 L42 110 Z M248 92 L258 110 L238 110 Z\" fill=\"#64748b\" /><path d=\"M62 110 H248\" stroke=\"#0D9488\" stroke-width=\"2.5\" /><path d=\"M155 110 V89\" stroke=\"#2563eb\" stroke-width=\"1.5\" /><path d=\"M149 89 H161 L155 82 Z\" fill=\"#2563eb\" /><text x=\"80\" y=\"79\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Tuning fork</text><text x=\"155\" y=\"75\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Paper rider</text><text x=\"160\" y=\"135\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Sonometer wire</text><text x=\"160\" y=\"149\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Tension adjusted to obtain resonance</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The paper rider is thrown off when the wire's natural frequency matches the tuning fork's frequency."
+      },
+      {
+        "key": "B",
+        "text": "The wire stops vibrating because the tuning fork absorbs its energy."
+      },
+      {
+        "key": "C",
+        "text": "The wire vibrates most strongly when its natural frequency is unrelated to the tuning fork's frequency."
+      },
+      {
+        "key": "D",
+        "text": "The tuning fork's frequency increases until it matches the wire automatically."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "At resonance, the driving frequency matches the wire's natural frequency, producing a large vibration amplitude. The rider may be thrown off as a result. Option C describes a frequency mismatch, which generally produces a smaller response.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_22_m7c5q",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Interpreting a displacement–distance graph",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The graph below represents the displacement of particles in a medium at a particular instant. The horizontal axis represents distance along the direction of propagation, and the vertical axis represents particle displacement. Displacement–distance graph at one instant If the wave travels at 330 m s^ and the horizontal separation between two consecutive crests is 0.75 m, which statement is correct?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><defs><marker id=\"arr1\" markerWidth=\"7\" markerHeight=\"7\" refX=\"5\" refY=\"3\" orient=\"auto\"><path d=\"M0,0 L6,3 L0,6 Z\" fill=\"currentColor\" /></marker></defs><path d=\"M32 92 H300 M32 162 V15\" stroke=\"currentColor\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#arr1)\" /><path d=\"M32 92 H300\" stroke=\"currentColor\" stroke-width=\"0.6\" stroke-dasharray=\"3 3\" /><path d=\"M32 92 C52 92 52 32 82 32 S112 152 142 152 S172 32 202 32 S232 152 262 152 S292 92 300 92\" stroke=\"#0D9488\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M82 32 V92 M202 32 V92\" stroke=\"#64748b\" stroke-dasharray=\"4 3\" /><path d=\"M82 25 H202\" stroke=\"currentColor\" stroke-width=\"1\" /><text x=\"142\" y=\"18\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">λ</text><text x=\"10\" y=\"18\" font-size=\"10\" fill=\"currentColor\">y</text><text x=\"300\" y=\"108\" text-anchor=\"end\" font-size=\"10\" fill=\"currentColor\">Distance x</text><text x=\"22\" y=\"96\" text-anchor=\"end\" font-size=\"9\" fill=\"currentColor\">0</text><text x=\"87\" y=\"104\" font-size=\"9\" fill=\"currentColor\">Crest</text><text x=\"145\" y=\"146\" font-size=\"9\" fill=\"currentColor\">Trough</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The frequency is 247.5 Hz, and the graph directly gives the time period."
+      },
+      {
+        "key": "B",
+        "text": "The frequency is 440 Hz, and the graph gives the amplitude but not the wavelength."
+      },
+      {
+        "key": "C",
+        "text": "The frequency is 440 Hz, and the graph gives the wavelength but not the time period directly."
+      },
+      {
+        "key": "D",
+        "text": "The frequency is 0.00227 Hz, because the wavelength must be divided by the speed."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "1. The distance between consecutive crests is one wavelength: lambda=0.75 m.\n2. Using v=flambda, f=330/0.75=440 Hz.\n3. The graph is a spatial snapshot, so it does not directly provide the time period. The tempting mistake in B is to confuse the graph's wavelength information with the absence of amplitude information: the vertical displacement does show amplitude.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_23_aambv",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Sound board behind a speaker",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two identical sound sources are placed in front of two listeners. Source P has a concave sound-reflecting board behind it, directing more sound towards the listener. Source Q has no board. Schematic comparison of sound reflection and directionality Assuming the source powers are identical, what is the most defensible conclusion?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34 18 Q8 73 34 128\" stroke=\"#64748b\" stroke-width=\"4\" fill=\"none\" /><circle cx=\"54\" cy=\"73\" r=\"10\" fill=\"#0D9488\" /><path d=\"M65 73 Q92 43 121 73 M65 73 Q92 103 121 73\" stroke=\"#0D9488\" stroke-width=\"1.8\" fill=\"none\" /><circle cx=\"137\" cy=\"73\" r=\"9\" fill=\"#2563eb\" /><path d=\"M148 73 H185 M148 73 L180 53 M148 73 L180 93\" stroke=\"#2563eb\" stroke-width=\"1.5\" fill=\"none\" /><circle cx=\"207\" cy=\"73\" r=\"9\" fill=\"#64748b\" /><path d=\"M218 73 H258 M218 73 L251 53 M218 73 L251 93\" stroke=\"#64748b\" stroke-width=\"1.3\" fill=\"none\" /><circle cx=\"280\" cy=\"73\" r=\"10\" fill=\"#64748b\" /><text x=\"54\" y=\"143\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Board + source</text><text x=\"207\" y=\"143\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Source without board</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The board increases the source's frequency, so the sound becomes higher-pitched."
+      },
+      {
+        "key": "B",
+        "text": "The board creates extra sound energy, increasing the total energy produced by the source."
+      },
+      {
+        "key": "C",
+        "text": "The board can direct more sound energy towards the listener, increasing sound intensity in that direction without changing the source frequency."
+      },
+      {
+        "key": "D",
+        "text": "The board converts longitudinal sound waves into transverse waves."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A sound board reflects and directs sound towards the audience, improving audibility in the desired direction. It does not create energy or change the frequency emitted by the source. Option B confuses concentration of sound energy with creation of energy.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_24_rllz0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Combined Wave-Property Trap",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A sound source in air is replaced with another source producing twice the frequency and three times the amplitude. The air temperature and composition remain unchanged. Which set of changes is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Speed doubles, wavelength remains unchanged, intensity triples."
+      },
+      {
+        "key": "B",
+        "text": "Speed remains unchanged, wavelength doubles, intensity increases ninefold."
+      },
+      {
+        "key": "C",
+        "text": "Speed remains unchanged, wavelength halves, intensity increases ninefold."
+      },
+      {
+        "key": "D",
+        "text": "Speed halves, wavelength halves, intensity triples."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "- Sound speed remains approximately constant in the same air.\n- Since v=flambda, doubling frequency halves wavelength.\n- Intensity is proportional to amplitude squared, so tripling amplitude increases intensity by 3²=9.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_25_cro4h",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Comprehensive Conceptual Trap — Sound-Wave Properties",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A source produces a sound wave in air. The source is then changed so that the new sound has a higher frequency and greater amplitude, while the air conditions remain unchanged. Which conclusion is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The new sound has a shorter wavelength and greater intensity, while its speed in air remains approximately unchanged."
+      },
+      {
+        "key": "B",
+        "text": "The new sound has a greater wavelength and greater speed because both frequency and amplitude increased."
+      },
+      {
+        "key": "C",
+        "text": "The new sound has a shorter wavelength but lower intensity because its frequency increased."
+      },
+      {
+        "key": "D",
+        "text": "The new sound has unchanged wavelength and speed, but its time period increases."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In the same air under unchanged conditions, sound speed remains approximately constant. Increasing frequency therefore decreases wavelength, while increasing amplitude increases intensity. The two changes affect different wave properties.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_26_p1mdc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Successive resonances in a closed tube",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A resonance tube gives successive resonance lengths of 21.5 cm and 55.5 cm. The speed of sound is 340 m s^. What is the frequency of the sound?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "250 Hz"
+      },
+      {
+        "key": "B",
+        "text": "500 Hz"
+      },
+      {
+        "key": "C",
+        "text": "1000 Hz"
+      },
+      {
+        "key": "D",
+        "text": "125 Hz"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Successive resonances differ by half a wavelength:\n\n\n(lambda / 2)=55.5-21.5=34.0 cm.\n\n\nThus,\n\n\nlambda=0.68 m.\n\n\nTherefore,\n\n\nf=(340 / 0.68)=500 Hz.\n\n\nOption A is half the correct frequency because it incorrectly treats the difference between successive resonances as a full wavelength.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_27_wks2h",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Finding the new frequency when a string's length changes",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A string vibrates at 480 Hz in its fundamental mode. Its length is increased by 25%, while tension and linear density remain unchanged. What is the new fundamental frequency?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "384 Hz"
+      },
+      {
+        "key": "B",
+        "text": "600 Hz"
+      },
+      {
+        "key": "C",
+        "text": "240 Hz"
+      },
+      {
+        "key": "D",
+        "text": "400 Hz"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For constant tension and linear density,\n\n\nfproptofrac1L.\n\n\nThe new length is 1.25L, so\n\n\nf₂=(480 / 1.25)=384 Hz.\n\n\nOption B incorrectly increases the frequency when the string becomes longer.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_28_gusxe",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Two sound pulses travelling in opposite directions",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two sound pulses are emitted simultaneously from opposite ends of a straight tunnel of length 990 m. Both travel through air at 330 m s^. After how long do they meet?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.0 s"
+      },
+      {
+        "key": "B",
+        "text": "3.0 s"
+      },
+      {
+        "key": "C",
+        "text": "1.5 s"
+      },
+      {
+        "key": "D",
+        "text": "6.0 s"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The closing speed is 330+330=660 m s^{-1}.\n\n\nt=(990 / 660)=1.5 s.\n\n\nOption B calculates the time taken by one pulse to travel the entire tunnel.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_29_6ix9q",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Comparing two frequencies in the same medium",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A sound wave of frequency 250 Hz has a wavelength of 1.32 m. Another sound wave travels in the same medium with a frequency of 550 Hz. What is its wavelength?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.60 m"
+      },
+      {
+        "key": "B",
+        "text": "2.90 m"
+      },
+      {
+        "key": "C",
+        "text": "1.32 m"
+      },
+      {
+        "key": "D",
+        "text": "0.90 m"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The speed in the medium is\n\n\nv=250(1.32)=330 m s^{-1}.\n\n\nFor the second wave,\n\n\nlambda₂=(330 / 550)=0.60 m.\n\n\nOption B incorrectly assumes wavelength increases with frequency in a fixed medium.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_sound_30_gaaj1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Sound",
+    "title": "Comparing sound travel times through two media",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A sound pulse travels through a 660 m steel rail at 5280 m s^. A second pulse travels through 660 m of air at 330 m s^. What is the difference between the two travel times?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.875 s"
+      },
+      {
+        "key": "B",
+        "text": "1.975 s"
+      },
+      {
+        "key": "C",
+        "text": "2.000 s"
+      },
+      {
+        "key": "D",
+        "text": "2.125 s"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Travel time through steel:\n\n\nt_s=(660 / 5280)=0.125 s.\n\n\nTravel time through air:\n\n\nt_a=(660 / 330)=2.00 s.\n\n\nDifference:\n\n\nΔ t=2.00-0.125=1.875 s.\n\n\nThe correct answer is **A**, not B. Option B results from subtracting incorrectly.",
+    "concept_name": "Sound",
+    "concept_tag": "sound",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  }
+]

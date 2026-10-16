@@ -1,0 +1,1352 @@
+[
+  {
+    "globalId": "qb_hots_mole_concept_1_okskp",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Integrating vapour density and molecular mass",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A gas has vapour density 16 relative to hydrogen. Which statement must be true?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Its relative molecular mass is 8."
+      },
+      {
+        "key": "B",
+        "text": "Its relative molecular mass is 16 and its molar mass is 32 g mol⁻¹."
+      },
+      {
+        "key": "C",
+        "text": "Its relative molecular mass is 64."
+      },
+      {
+        "key": "D",
+        "text": "Its relative molecular mass is 32, and its molar mass is approximately 32 g mol⁻¹."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "M_r=2× VD=2(16)=32\n\n\nThe molar mass has the same numerical value in grams per mole:\n\n\n32 g mol^{-1}\n\n\nThe tempting answer B confuses vapour density with relative molecular mass and doubles the value incorrectly.\n\n---\n\n**Batch 5 complete: Theoretical (Conceptual) Questions 1–30.**\n\nReply YES for the final 30: **Complex Questions 1–30**, including exactly 10 questions labelled as previous ICSE board questions only where the original question and year can be established confidently; otherwise, they will be labelled **[Board-style]**.",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "0ea44b2e39a5bfda071f6553c2f7dd7e32f295a0c295f3404ae4a465e80097ee",
+    "question_skeleton": "a gas has vapour density 16 relative to hydrogen which statement must be true"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_2_n1ajl",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Empirical formula from combustion analysis",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A 4.6 g compound containing carbon, hydrogen and oxygen produces 8.8 g of carbon dioxide and 5.4 g of water on complete combustion. Which statement is correct? **Reasoning:** Mass of carbon in the carbon dioxide: m(C)=8.8×(12 / 44)=2.4 g Mass of hydrogen in the water: m(H)=5.4×(2 / 18)=0.6 g The inferred mass of oxygen in the original sample is: m(O)=4.6-2.4-0.6=1.6 g This is **positive**, not negative. Therefore, the original answer choice B is incorrect. Calculate the mole ratio: n(C)=(2.4 / 12)=0.2 n(H)=(0.6 / 1)=0.6 n(O)=(1.6 / 16)=0.1 The ratio is 2:6:1, so the empirical formula is C_2H_6O.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The data are consistent with a compound containing only carbon and hydrogen."
+      },
+      {
+        "key": "B",
+        "text": "The data imply a negative mass of oxygen, so they are inconsistent."
+      },
+      {
+        "key": "C",
+        "text": "The compound has empirical formula CH_2O."
+      },
+      {
+        "key": "D",
+        "text": "The compound has empirical formula C_2H_6O."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "48e1e6f34454cf8acd6b17d89f7d62c21c5274fdeb7ee6a80329f1468370b66d",
+    "question_skeleton": "a 4 6 g compound containing carbon hydrogen and oxygen produces 8 8 g of carbon dioxide and 5 4 g of water on complete combustion which statement is correct reasoning mass of carbon in the carbon dioxide m c 8 8 times frac 12 44 2 4 text g mass of hydrogen in the water m h 5 4 times frac 2 18 0 6 text g the inferred mass of oxygen in the original sample is m o 4 6 2 4 0 6 1 6 text g this is positive not negative therefore the original answer choice b is incorrect calculate the mole ratio n c frac 2 4 12 0 2 n h frac 0 6 1 0 6 n o frac 1 6 16 0 1 the ratio is 2 6 1 so the empirical formula is boxed c 2h 6o"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_3_x6xn8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Mass-to-volume stoichiometry in a decomposition reaction",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "The balanced equation is CaCO_3xrightarrow Given: Ca = 40, C = 12, O = 16; molar volume at STP = 22.4 L mol⁻¹. What volume of CO₂ is produced?",
+    "diagramSvg": "<svg viewBox=\"0 0 340 108\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M31 28 Q31 17 42 17 H105 Q116 17 116 28 V52 Q116 63 105 63 H42 Q31 63 31 52 Z\" fill=\"#DCEBFF\" stroke=\"#4676B9\" strokeWidth=\"1.5\"/>\n    <rect x=\"47\" y=\"29\" width=\"53\" height=\"22\" rx=\"4\" fill=\"#F0E1B5\" stroke=\"#A68B45\"/>\n    <text x=\"73\" y=\"43\" fontSize=\"11\" textAnchor=\"middle\" fill=\"#4B4028\">CaCO₃</text>\n    <path d=\"M116 40 H153 V22 H195 V40 H218\" stroke=\"#68717D\" strokeWidth=\"3\" fill=\"none\"/>\n    <rect x=\"218\" y=\"13\" width=\"111\" height=\"56\" rx=\"5\" fill=\"#E4F5EA\" stroke=\"#43845A\" strokeWidth=\"1.5\"/>\n    <path d=\"M229 48 H317\" stroke=\"#76A68A\" strokeWidth=\"2\"/>\n    <text x=\"273\" y=\"33\" fontSize=\"11.5\" textAnchor=\"middle\" fill=\"#236540\">CO₂</text>\n    <text x=\"273\" y=\"44\" fontSize=\"10.5\" textAnchor=\"middle\" fill=\"#236540\">at STP</text>\n    <path d=\"M55 76 C49 84 50 92 58 93 C66 92 67 84 55 76Z\" fill=\"#E9A34C\"/>\n    <path d=\"M73 76 C67 84 68 92 76 93 C84 92 85 84 73 76Z\" fill=\"#E9A34C\"/>\n    <text x=\"116\" y=\"88\" fontSize=\"10.5\" fill=\"currentColor\">Heat</text>\n    <text x=\"77\" y=\"9\" fontSize=\"10.5\" textAnchor=\"middle\" fill=\"currentColor\">25 g sample</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "5.6 L"
+      },
+      {
+        "key": "B",
+        "text": "2.24 L"
+      },
+      {
+        "key": "C",
+        "text": "11.2 L"
+      },
+      {
+        "key": "D",
+        "text": "22.4 L"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Molar mass of CaCO₃:\n\n\n40+12+3(16)=100 g mol^{-1}\n\n\nMoles of calcium carbonate:\n\n\nn=(25 / 100)=0.25 mol\n\n\nThe equation gives a 1:1 mole ratio between CaCO₃ and CO₂. Therefore,\n\n\nV_{CO₂}=0.25(22.4)=5.6 L\n\n\nThe tempting answer 2.24 L would correspond to 0.1 mol of gas, which is not the amount obtained from 25 g of CaCO₃.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "72ea90b0a2bb6f8e2ea79a478223229b4b0398d08b8be754cef1390cbdb628c0",
+    "question_skeleton": "figure a 25 g sample of calcium carbonate is heated in a decomposition apparatus the evolved carbon dioxide is measured at stp div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 340 108 width 100 xmlns http www w3 org 2000 svg path d m31 28 q31 17 42 17 h105 q116 17 116 28 v52 q116 63 105 63 h42 q31 63 31 52 z fill dcebff stroke 4676b9 strokewidth 1 5 rect x 47 y 29 width 53 height 22 rx 4 fill f0e1b5 stroke a68b45 span caco span path d m116 40 h153 v22 h195 v40 h218 stroke 68717d strokewidth 3 fill none rect x 218 y 13 width 111 height 56 rx 5 fill e4f5ea stroke 43845a strokewidth 1 5 path d m229 48 h317 stroke 76a68a strokewidth 2 span co span span at stp span path d m55 76 c49 84 50 92 58 93 c66 92 67 84 55 76z fill e9a34c path d m73 76 c67 84 68 92 76 93 c84 92 85 84 73 76z fill e9a34c span heat span span 25 g sample span svg div the balanced equation is mathrm caco 3 xrightarrow heat cao co 2 given ca 40 c 12 o 16 molar volume at stp 22 4 l mol what volume of co is produced"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_4_nvu7f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Mass-to-mass stoichiometry using a balanced equation",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "The balanced equation is Fe_2O₃+3CO→2Fe+3CO₂ Given: Fe = 56, C = 12, O = 16. What mass of CO₂ is produced from 24 g of Fe₂O₃?",
+    "diagramSvg": "<svg viewBox=\"0 0 340 120\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"5\" y=\"12\" width=\"103\" height=\"62\" rx=\"6\" fill=\"#E7F1FF\" stroke=\"#4676B9\" strokeWidth=\"1.4\"/>\n    <rect x=\"232\" y=\"12\" width=\"103\" height=\"62\" rx=\"6\" fill=\"#E4F5EA\" stroke=\"#43845A\" strokeWidth=\"1.4\"/>\n    <path d=\"M110 43 H229 M223 37 L230 43 L223 49\" stroke=\"currentColor\" strokeWidth=\"1.6\" fill=\"none\"/>\n    <text x=\"56\" y=\"34\" fontSize=\"11.5\" textAnchor=\"middle\" fill=\"#204E85\">Fe₂O₃</text>\n    <text x=\"56\" y=\"51\" fontSize=\"12\" textAnchor=\"middle\" fill=\"#204E85\">24 g</text>\n    <text x=\"284\" y=\"34\" fontSize=\"11.5\" textAnchor=\"middle\" fill=\"#236540\">CO₂ formed</text>\n    <text x=\"284\" y=\"51\" fontSize=\"12\" textAnchor=\"middle\" fill=\"#236540\">? g</text>\n    <text x=\"170\" y=\"29\" fontSize=\"10\" textAnchor=\"middle\" fill=\"currentColor\">CO</text>\n    <text x=\"170\" y=\"64\" fontSize=\"10\" textAnchor=\"middle\" fill=\"currentColor\">Reaction</text>\n    <text x=\"170\" y=\"94\" fontSize=\"10.5\" textAnchor=\"middle\" fill=\"currentColor\">Enough CO is supplied</text>\n    <text x=\"170\" y=\"108\" fontSize=\"10.5\" textAnchor=\"middle\" fill=\"currentColor\">Mass ratio from balanced equation</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "13.2 g"
+      },
+      {
+        "key": "B",
+        "text": "19.8 g"
+      },
+      {
+        "key": "C",
+        "text": "26.4 g"
+      },
+      {
+        "key": "D",
+        "text": "52.8 g"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Molar mass of Fe₂O₃:\n\n\n2(56)+3(16)=160 g mol^{-1}\n\n\nMoles of Fe₂O₃:\n\n\nn=(24 / 160)=0.15 mol\n\n\nFrom the balanced equation, one mole of Fe₂O₃ produces three moles of CO₂.\n\n\nn_{CO₂}=3(0.15)=0.45 mol\n\n\nMolar mass of CO₂:\n\n\n12+2(16)=44 g mol^{-1}\n\n\nTherefore,\n\n\nm=0.45(44)=19.8 g\n\n\nThe tempting answer A corresponds to calculating the mass of only 0.30 mol of CO₂ rather than the 0.45 mol required by the equation.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "d16689e976c0636bbbea3ae89b4855cec97ac21ed6de343c16895fcd91afc07d",
+    "question_skeleton": "figure the diagram shows the reduction of iron iii oxide by carbon monoxide the sample of fe o is 24 g and co is supplied in sufficient quantity div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 340 120 width 100 xmlns http www w3 org 2000 svg rect x 5 y 12 width 103 height 62 rx 6 fill e7f1ff stroke 4676b9 strokewidth 1 4 rect x 232 y 12 width 103 height 62 rx 6 fill e4f5ea stroke 43845a strokewidth 1 4 path d m110 43 h229 m223 37 l230 43 l223 49 stroke currentcolor strokewidth 1 6 fill none span fe o span span 24 g span span co formed span span g span span co span span reaction span span enough co is supplied span span mass ratio from balanced equation span svg div the balanced equation is mathrm fe 2o 3 3co rightarrow2fe 3co 2 given fe 56 c 12 o 16 what mass of co is produced from 24 g of fe o"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_5_21vd8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Limiting reagent in hydrogen production",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Magnesium reacts with excess dilute hydrochloric acid: Mg+2HCl→ MgCl₂+H₂ If 4.8 g of magnesium reacts completely, what volume of hydrogen is produced at STP? **Reasoning:** n(Mg)=(4.8 / 24)=0.2 mol The mole ratio Mg:H₂=1:1, so 0.2 mol of hydrogen forms. V=0.2×22.4=4.48 L",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2.24 L"
+      },
+      {
+        "key": "B",
+        "text": "4.48 L"
+      },
+      {
+        "key": "C",
+        "text": "1.12 L"
+      },
+      {
+        "key": "D",
+        "text": "8.96 L"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "0d2b1a332ee254f9ae550aabaee5cc49039159dccbfa0bb6b8e9edf03d1adb17",
+    "question_skeleton": "magnesium reacts with excess dilute hydrochloric acid mg 2hcl rightarrow mgcl 2 h 2 if 4 8 g of magnesium reacts completely what volume of hydrogen is produced at stp reasoning n mg frac 4 8 24 0 2 text mol the mole ratio mg h 2 1 1 so 0 2 mol of hydrogen forms v 0 2 times22 4 boxed 4 48 text l"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_6_irbvd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Percentage yield with a limiting reagent",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Hydrogen is prepared using: Zn+2HCl→ ZnCl₂+H₂ A reaction starts with 13 g zinc and 0.30 mol HCl. If 4.48 L of hydrogen is actually collected at STP, what is the percentage yield? **Reasoning:** n(Zn)=(13 / 65)=0.2 mol The 0.2 mol zinc would require 0.4 mol HCl, but only 0.30 mol HCl is available. Thus HCl is limiting. The theoretical amount of hydrogen is: n(H₂)=(0.30 / 2)=0.15 mol V_=0.15×22.4=3.36 L However, the stated actual volume is 4.48 L, which is greater than the theoretical yield. Therefore, the question's data are **physically inconsistent** under the stated assumptions. **Correct conclusion: none of the options is valid.** The actual volume should be no greater than 3.36 L. For example, if the actual volume were 2.24 L, the percentage yield would be 66.7%.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "66.7%"
+      },
+      {
+        "key": "B",
+        "text": "80%"
+      },
+      {
+        "key": "C",
+        "text": "100%"
+      },
+      {
+        "key": "D",
+        "text": "50%"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "591440d4b8bc917dd9459b61467510ed3f3f508a5d0c1cbd3af68e59ce884066",
+    "question_skeleton": "hydrogen is prepared using zn 2hcl rightarrow zncl 2 h 2 a reaction starts with 13 g zinc and 0 30 mol hcl if 4 48 l of hydrogen is actually collected at stp what is the percentage yield reasoning n zn frac 13 65 0 2 text mol the 0 2 mol zinc would require 0 4 mol hcl but only 0 30 mol hcl is available thus hcl is limiting the theoretical amount of hydrogen is n h 2 frac 0 30 2 0 15 text mol v text theoretical 0 15 times22 4 3 36 text l however the stated actual volume is 4 48 l which is greater than the theoretical yield therefore the question s data are physically inconsistent under the stated assumptions correct conclusion none of the options is valid the actual volume should be no greater than 3 36 l for example if the actual volume were 2 24 l the percentage yield would be 66 7"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_7_7onyr",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Integrated stoichiometry and percentage yield",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Aluminium reacts with hydrochloric acid: 2Al+6HCl→2AlCl₃+3H₂ If 5.4 g of aluminium reacts with excess hydrochloric acid, and the reaction has an 80% yield, what volume of hydrogen is actually obtained at STP? **Reasoning:** Moles of aluminium: n(Al)=(5.4 / 27)=0.2 mol From the balanced equation: n(H₂)=0.2×frac32=0.3 mol Theoretical hydrogen volume: V_=0.3×22.4=6.72 L At 80% yield: V_=6.72×0.80 =5.376 L **Correction:** The calculated answer is 5.376 L, which is not listed. Therefore, **none of the options is correct**. Option D (5.60 L) is only an approximation and is not accurate enough for a numerical MCQ. ## Final quality note Several questions in this complex batch exposed inconsistencies between calculated results and the listed choices (Q24, Q26, Q28 and Q30), and the earlier questions Q5 and Q6 also needed option-label corrections. For a reliable exam-ready bank, those questions should be repaired before being used in a test. The underlying calculations and corrections are shown above rather than concealing the discrepancies.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2.24 L"
+      },
+      {
+        "key": "B",
+        "text": "3.36 L"
+      },
+      {
+        "key": "C",
+        "text": "4.48 L"
+      },
+      {
+        "key": "D",
+        "text": "5.60 L"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "c319297d73e2af92e1ed1ed1b66d8a30fbc09ea47ad3246f8c72f184b30dae46",
+    "question_skeleton": "aluminium reacts with hydrochloric acid 2al 6hcl rightarrow2alcl 3 3h 2 if 5 4 g of aluminium reacts with excess hydrochloric acid and the reaction has an 80 yield what volume of hydrogen is actually obtained at stp reasoning moles of aluminium n al frac 5 4 27 0 2 text mol from the balanced equation n h 2 0 2 times frac32 0 3 text mol theoretical hydrogen volume v text theoretical 0 3 times22 4 6 72 text l at 80 yield v text actual 6 72 times0 80 boxed 5 376 text l correction the calculated answer is 5 376 l which is not listed therefore none of the options is correct option d 5 60 l is only an approximation and is not accurate enough for a numerical mcq final quality note several questions in this complex batch exposed inconsistencies between calculated results and the listed choices q24 q26 q28 and q30 and the earlier questions q5 and q6 also needed option label corrections for a reliable exam ready bank those questions should be repaired before being used in a test the underlying calculations and corrections are shown above rather than concealing the discrepancies"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_8_mnon4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Avogadro’s law and the number of atoms",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "All three jars are at identical temperature and pressure. What is the ratio of the total number of atoms in the CO₂ jar to that in the H₂ jar?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1:1"
+      },
+      {
+        "key": "B",
+        "text": "2:3"
+      },
+      {
+        "key": "C",
+        "text": "3:2"
+      },
+      {
+        "key": "D",
+        "text": "3:1"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "By Avogadro’s law, equal gas volumes at the same temperature and pressure contain equal numbers of molecules.\n\nLet each jar contain N molecules.\n\n- H₂ contains 2N atoms.\n- CO₂ contains 3N atoms.\n\nTherefore,\n\n\n(Atoms in CO₂ / Atoms in H₂)\n=(3N / 2N)=frac32\n\n\nThe tempting answer 1:1 confuses equal numbers of molecules with equal numbers of atoms.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "211a1b2aad9abe4eabc4a52980e0df2e815a6387b1b6ce379dac9240c8359826",
+    "question_skeleton": "figure three gas jars each contain 100 cm of gas at the same temperature and pressure the repeated molecular symbols are schematic and each jar represents the same number of molecules div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 340 120 width 100 xmlns http www w3 org 2000 svg rect x 6 y 12 width 100 height 76 rx 6 fill e7f1ff stroke 4676b9 strokewidth 1 5 rect x 120 y 12 width 100 height 76 rx 6 fill e4f5ea stroke 43845a strokewidth 1 5 rect x 234 y 12 width 100 height 76 rx 6 fill fbe8d9 stroke bf7545 strokewidth 1 5 each 0 1 2 as i g circle cx 27 i 26 cy 38 r 5 fill 3569a8 circle cx 38 i 26 cy 38 r 5 fill 85b4f4 line x1 31 i 26 y1 38 x2 34 i 26 y2 38 stroke 2b568c strokewidth 2 g each each 0 1 2 as i g circle cx 141 i 26 cy 38 r 5 fill 23864b circle cx 152 i 26 cy 38 r 5 fill 77c69a line x1 145 i 26 y1 38 x2 148 i 26 y2 38 stroke 226a40 strokewidth 2 g each each 0 1 2 as i g circle cx 251 i 26 cy 38 r 5 fill d86b30 circle cx 261 i 26 cy 38 r 5 fill e5a078 circle cx 271 i 26 cy 38 r 5 fill d86b30 line x1 256 i 26 y1 38 x2 257 i 26 y2 38 stroke 8a431d strokewidth 2 line x1 265 i 26 y1 38 x2 267 i 26 y2 38 stroke 8a431d strokewidth 2 g each span h span span o span span co span span 100 cm span span 100 cm span span 100 cm span svg span all three jars are at identical temperature and pressure span div what is the ratio of the total number of atoms in the co jar to that in the h jar"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_9_6j7ij",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Applying gaseous combining-volume ratios",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "The balanced equation is N₂+3H₂→ 2NH₃ Given: N = 14, H = 1. What volume of ammonia can be formed?",
+    "diagramSvg": "<svg viewBox=\"0 0 340 98\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"8\" y=\"12\" width=\"95\" height=\"51\" rx=\"6\" fill=\"#E7F1FF\" stroke=\"#4676B9\" strokeWidth=\"1.4\"/>\n    <rect x=\"120\" y=\"12\" width=\"95\" height=\"51\" rx=\"6\" fill=\"#FBE6DB\" stroke=\"#C46A3D\" strokeWidth=\"1.4\"/>\n    <path d=\"M104 38 H117 M112 33 L118 38 L112 43 M216 38 H241 M235 33 L242 38 L235 43\" stroke=\"currentColor\" strokeWidth=\"1.5\" fill=\"none\"/>\n    <rect x=\"245\" y=\"12\" width=\"87\" height=\"51\" rx=\"6\" fill=\"#E4F5EA\" stroke=\"#43845A\" strokeWidth=\"1.4\"/>\n    <g fontSize=\"12\" textAnchor=\"middle\" fill=\"currentColor\">\n      <text x=\"55\" y=\"32\">N₂</text><text x=\"55\" y=\"49\" fontSize=\"11\">15 cm³</text>\n      <text x=\"167\" y=\"32\">H₂</text><text x=\"167\" y=\"49\" fontSize=\"11\">30 cm³</text>\n      <text x=\"288\" y=\"32\">NH₃</text><text x=\"288\" y=\"49\" fontSize=\"11\">? cm³</text>\n    </g>\n    <text x=\"170\" y=\"83\" fontSize=\"10.5\" textAnchor=\"middle\" fill=\"currentColor\">Reaction at equal T and P</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "10 cm³"
+      },
+      {
+        "key": "B",
+        "text": "20 cm³"
+      },
+      {
+        "key": "C",
+        "text": "30 cm³"
+      },
+      {
+        "key": "D",
+        "text": "45 cm³"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The volume ratio is 1:3:2.\n\n30 cm³ of H₂ reacts with:\n\n\n(30 / 3)=10 cm³ of N₂\n\n\nThe corresponding ammonia volume is:\n\n\n10×2=20 cm³\n\n\nThe tempting answer 30 cm³ incorrectly treats the hydrogen volume as the ammonia volume. Nitrogen is also left over, but that does not increase the quantity of ammonia formed.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "36c79c2f0f32bfd32a00cce06f28ba6ecc3693affbb15479c7f1907d3c9a3ab2",
+    "question_skeleton": "figure nitrogen and hydrogen are introduced into a reaction vessel in the volumes shown all measurements are made at the same temperature and pressure div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 340 98 width 100 xmlns http www w3 org 2000 svg rect x 8 y 12 width 95 height 51 rx 6 fill e7f1ff stroke 4676b9 strokewidth 1 4 rect x 120 y 12 width 95 height 51 rx 6 fill fbe6db stroke c46a3d strokewidth 1 4 path d m104 38 h117 m112 33 l118 38 l112 43 m216 38 h241 m235 33 l242 38 l235 43 stroke currentcolor strokewidth 1 5 fill none rect x 245 y 12 width 87 height 51 rx 6 fill e4f5ea stroke 43845a strokewidth 1 4 g fontsize 12 textanchor middle fill currentcolor span n span span 15 cm span span h span span 30 cm span span nh span span cm span g span reaction at equal t and p span svg div the balanced equation is mathrm n 2 3h 2 rightarrow 2nh 3 given n 14 h 1 what volume of ammonia can be formed"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_10_vjdrg",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Electrolysis of water: gas volumes and mass of water decomposed",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "The balanced equation is 2H_2O(l)→ 2H₂(g)+O₂(g) Given: H = 1, O = 16; molar volume at STP = 22.4 L mol⁻¹. What mass of water was decomposed?",
+    "diagramSvg": "<svg viewBox=\"0 0 340 120\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"15\" y=\"12\" width=\"108\" height=\"74\" rx=\"6\" fill=\"#E7F1FF\" stroke=\"#4676B9\" strokeWidth=\"1.5\"/>\n    <rect x=\"217\" y=\"12\" width=\"108\" height=\"74\" rx=\"6\" fill=\"#E4F5EA\" stroke=\"#43845A\" strokeWidth=\"1.5\"/>\n    <path d=\"M169 12 V39 M155 39 H183 M169 39 V71 M155 71 H183\" stroke=\"#77818D\" strokeWidth=\"2\" fill=\"none\"/>\n    <path d=\"M123 49 H151 M145 44 L152 49 L145 54 M188 49 H215 M209 44 L216 49 L209 54\" stroke=\"currentColor\" strokeWidth=\"1.4\" fill=\"none\"/>\n    <text x=\"69\" y=\"35\" fontSize=\"12\" fill=\"#204E85\" textAnchor=\"middle\">Hydrogen</text>\n    <text x=\"69\" y=\"54\" fontSize=\"12\" fontWeight=\"bold\" fill=\"#204E85\" textAnchor=\"middle\">224 cm³</text>\n    <text x=\"271\" y=\"35\" fontSize=\"12\" fill=\"#236540\" textAnchor=\"middle\">Oxygen</text>\n    <text x=\"271\" y=\"54\" fontSize=\"12\" fontWeight=\"bold\" fill=\"#236540\" textAnchor=\"middle\">112 cm³</text>\n    <text x=\"169\" y=\"101\" fontSize=\"10.5\" textAnchor=\"middle\" fill=\"currentColor\">Electrolysis of water</text>\n    <text x=\"169\" y=\"114\" fontSize=\"10\" textAnchor=\"middle\" fill=\"currentColor\">Both volumes measured at STP</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.09 g"
+      },
+      {
+        "key": "B",
+        "text": "0.18 g"
+      },
+      {
+        "key": "C",
+        "text": "0.27 g"
+      },
+      {
+        "key": "D",
+        "text": "0.36 g"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Convert the hydrogen volume to litres:\n\n\n224 cm³=0.224 L\n\n\nMoles of hydrogen:\n\n\nn(H₂)=(0.224 / 22.4)=0.01 mol\n\n\nFrom the balanced equation, the mole ratio of water decomposed to hydrogen produced is 1:1. Hence, n(H_2O)=0.01 mol.\n\n\nm(H_2O)=0.01[2(1)+16]\n=0.18 g\n\n\nThe tempting answer 0.09 g incorrectly divides the hydrogen mole amount by two.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "2fd36303a1cd8e27509388df6bef37a754176a804d030b84fd4bbffc45011ea3",
+    "question_skeleton": "figure during electrolysis 224 cm of hydrogen and 112 cm of oxygen are collected separately at stp assume complete collection without loss div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 340 120 width 100 xmlns http www w3 org 2000 svg rect x 15 y 12 width 108 height 74 rx 6 fill e7f1ff stroke 4676b9 strokewidth 1 5 rect x 217 y 12 width 108 height 74 rx 6 fill e4f5ea stroke 43845a strokewidth 1 5 path d m169 12 v39 m155 39 h183 m169 39 v71 m155 71 h183 stroke 77818d strokewidth 2 fill none path d m123 49 h151 m145 44 l152 49 l145 54 m188 49 h215 m209 44 l216 49 l209 54 stroke currentcolor strokewidth 1 4 fill none span hydrogen span span 224 cm span span oxygen span span 112 cm span span electrolysis of water span span both volumes measured at stp span svg div the balanced equation is mathrm 2h 2o l rightarrow 2h 2 g o 2 g given h 1 o 16 molar volume at stp 22 4 l mol what mass of water was decomposed"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_11_hcxn8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Detecting an incorrect point on a volume–mole graph",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Point Amount Recorded volume A 0.25 mol 5.6 L B 0.50 mol 11.2 L C 0.75 mol 16.8 L D 1.00 mol 20.4 L Given: molar volume at STP = 22.4 L mol⁻¹. Which point is incorrect?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The volume should satisfy:\n\n\nV=n×22.4\n\n\nAt 1 mol, the expected volume is 22.4 L, not 20.4 L. Points A, B and C all obey the relationship.\n\nThe tempting error is to assume any approximately proportional plotted value is correct without checking it against the stated molar volume.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "5d257e4ff2aa5d56fd3b080af3e6ca2d56c79fbf0770fa68e3824a2fffc1bd1e",
+    "question_skeleton": "figure a graph shows the volume of a gas against the number of moles at stp exactly one plotted point is inconsistent with the accepted molar volume div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 340 190 width 100 xmlns http www w3 org 2000 svg line x1 43 y1 151 x2 315 y2 151 stroke currentcolor strokewidth 1 3 line x1 43 y1 151 x2 43 y2 13 stroke currentcolor strokewidth 1 3 each 0 5 10 15 20 25 as y line x1 43 y1 151 y 5 x2 307 y2 151 y 5 stroke 9ca3af strokeopacity 0 35 strokewidth 0 8 each path d m309 147 l315 151 l309 155 m39 19 l43 13 l47 19 stroke currentcolor strokewidth 1 2 fill none circle cx 83 cy 123 r 4 5 fill 4676b9 circle cx 123 cy 95 r 4 5 fill 4676b9 circle cx 163 cy 67 r 4 5 fill 4676b9 circle cx 203 cy 49 r 4 5 fill d17736 g fontsize 10 5 fill currentcolor span a span span b span span c span span d span span 0 25 span span 0 50 span span 0 75 span span 1 00 span span amount mol span span volume l span g span d is plotted at 20 4 l span svg table table row table cell point table cell table cell amount table cell table cell recorded volume table cell table row table row table cell a table cell table cell 0 25 mol table cell table cell 5 6 l table cell table row table row table cell b table cell table cell 0 50 mol table cell table cell 11 2 l table cell table row table row table cell c table cell table cell 0 75 mol table cell table cell 16 8 l table cell table row table row table cell d table cell table cell 1 00 mol table cell table cell 20 4 l table cell table row table div given molar volume at stp 22 4 l mol which point is incorrect"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_12_w9dd3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Equal masses do not contain equal numbers of molecules",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Given: C = 12, O = 16; Avogadro’s number =6.022×10^ mol^. What is the ratio of the number of CO₂ molecules to the number of O₂ molecules?",
+    "diagramSvg": "<svg viewBox=\"0 0 340 100\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"8\" y=\"12\" width=\"148\" height=\"62\" rx=\"6\" fill=\"#E7F1FF\" stroke=\"#4676B9\" strokeWidth=\"1.4\"/>\n    <rect x=\"184\" y=\"12\" width=\"148\" height=\"62\" rx=\"6\" fill=\"#FCE5CE\" stroke=\"#C66A24\" strokeWidth=\"1.4\"/>\n    <text x=\"82\" y=\"34\" fontSize=\"12\" textAnchor=\"middle\" fill=\"#204E85\">CO₂</text>\n    <text x=\"82\" y=\"52\" fontSize=\"12\" textAnchor=\"middle\" fill=\"#204E85\">44 g</text>\n    <text x=\"258\" y=\"34\" fontSize=\"12\" textAnchor=\"middle\" fill=\"#8B491F\">O₂</text>\n    <text x=\"258\" y=\"52\" fontSize=\"12\" textAnchor=\"middle\" fill=\"#8B491F\">44 g</text>\n    <text x=\"170\" y=\"91\" fontSize=\"10.5\" textAnchor=\"middle\" fill=\"currentColor\">Same mass · same temperature and pressure</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "8:11"
+      },
+      {
+        "key": "B",
+        "text": "11:8"
+      },
+      {
+        "key": "C",
+        "text": "1:1"
+      },
+      {
+        "key": "D",
+        "text": "3:2"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Molar masses:\n\n\nM(CO₂)=44,qquad M(O₂)=32\n\n\nMoles in each sample:\n\n\nn(CO₂)=(44 / 44)=1\n\n\n\nn(O₂)=(44 / 32)=(11 / 8)\n\n\nThe number of molecules is proportional to the number of moles, so:\n\n\nN_{CO₂}:N_{O₂}\n=1:(11 / 8)=8:11\n\n\nThe tempting answer 1:1 confuses equal mass with equal numbers of molecules.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "3c775b0641c0692a7aa5c3db4829358c80d0334c8b6022d691dc225a7faf7eba",
+    "question_skeleton": "figure two gas samples each have a mass of 44 g one contains carbon dioxide and the other oxygen both samples are at the same temperature and pressure div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 340 100 width 100 xmlns http www w3 org 2000 svg rect x 8 y 12 width 148 height 62 rx 6 fill e7f1ff stroke 4676b9 strokewidth 1 4 rect x 184 y 12 width 148 height 62 rx 6 fill fce5ce stroke c66a24 strokewidth 1 4 span co span span 44 g span span o span span 44 g span span same mass same temperature and pressure span svg div given c 12 o 16 avogadro s number 6 022 times10 23 text mol 1 what is the ratio of the number of co molecules to the number of o molecules"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_13_kd0a9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Mass of solid residue after heating",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "The balanced equation is 2NaHCO_3xrightarrow Given: Na = 23, H = 1, C = 12, O = 16. Assuming complete decomposition, what is the mass of solid residue?",
+    "diagramSvg": "<svg viewBox=\"0 0 340 115\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M28 22 H112 L102 63 Q70 83 38 63 Z\" fill=\"#DCEBFF\" stroke=\"#4676B9\" strokeWidth=\"1.5\"/>\n    <rect x=\"43\" y=\"35\" width=\"54\" height=\"16\" rx=\"4\" fill=\"#B6C9E2\" stroke=\"#4676B9\"/>\n    <text x=\"70\" y=\"47\" fontSize=\"10\" textAnchor=\"middle\" fill=\"#204E85\">NaHCO₃</text>\n    <path d=\"M55 83 C47 91 49 101 56 103 C64 101 65 91 55 83Z\" fill=\"#E6A04B\"/>\n    <path d=\"M76 83 C68 91 70 101 77 103 C85 101 86 91 76 83Z\" fill=\"#E6A04B\"/>\n    <path d=\"M117 42 H157 M151 37 L158 42 L151 47\" stroke=\"currentColor\" strokeWidth=\"1.5\" fill=\"none\"/>\n    <path d=\"M165 22 H247 L237 63 Q205 83 175 63 Z\" fill=\"#FCEEDB\" stroke=\"#BC8B3F\" strokeWidth=\"1.5\"/>\n    <rect x=\"180\" y=\"36\" width=\"53\" height=\"15\" rx=\"4\" fill=\"#D8B27B\" stroke=\"#BC8B3F\"/>\n    <text x=\"206\" y=\"47\" fontSize=\"10\" textAnchor=\"middle\" fill=\"#64441A\">Na₂CO₃</text>\n    <path d=\"M197 20 Q185 11 197 4 M214 20 Q202 11 214 4\" stroke=\"#7AA2BF\" strokeWidth=\"1.5\" fill=\"none\"/>\n    <text x=\"70\" y=\"17\" fontSize=\"10.5\" textAnchor=\"middle\" fill=\"currentColor\">Before</text>\n    <text x=\"205\" y=\"17\" fontSize=\"10.5\" textAnchor=\"middle\" fill=\"currentColor\">After</text>\n    <text x=\"170\" y=\"112\" fontSize=\"10\" textAnchor=\"middle\" fill=\"currentColor\">Heating releases CO₂ and H₂O vapour</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "5.3 g"
+      },
+      {
+        "key": "B",
+        "text": "8.4 g"
+      },
+      {
+        "key": "C",
+        "text": "10.6 g"
+      },
+      {
+        "key": "D",
+        "text": "12.4 g"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Molar masses:\n\n\nM(NaHCO₃)=23+1+12+48=84\n\n\n\nM(Na_2CO₃)=46+12+48=106\n\n\nFrom the balanced equation, 168 g of NaHCO₃ produces 106 g of Na₂CO₃.\n\n\nm(Na_2CO₃)\n=16.8×(106 / 168)\n=10.6 g\n\n\nThe tempting answer 8.4 g incorrectly treats the coefficient of sodium carbonate as a direct mass ratio.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "92e6c5a1ac0c2553622cd4ef61c0d75f04faa6fef73904c4743171017ec474dd",
+    "question_skeleton": "figure a crucible contains 16 8 g of sodium hydrogen carbonate on heating it decomposes into solid sodium carbonate carbon dioxide and water vapour div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 340 115 width 100 xmlns http www w3 org 2000 svg path d m28 22 h112 l102 63 q70 83 38 63 z fill dcebff stroke 4676b9 strokewidth 1 5 rect x 43 y 35 width 54 height 16 rx 4 fill b6c9e2 stroke 4676b9 span nahco span path d m55 83 c47 91 49 101 56 103 c64 101 65 91 55 83z fill e6a04b path d m76 83 c68 91 70 101 77 103 c85 101 86 91 76 83z fill e6a04b path d m117 42 h157 m151 37 l158 42 l151 47 stroke currentcolor strokewidth 1 5 fill none path d m165 22 h247 l237 63 q205 83 175 63 z fill fceedb stroke bc8b3f strokewidth 1 5 rect x 180 y 36 width 53 height 15 rx 4 fill d8b27b stroke bc8b3f span na co span path d m197 20 q185 11 197 4 m214 20 q202 11 214 4 stroke 7aa2bf strokewidth 1 5 fill none span before span span after span span heating releases co and h o vapour span svg div the balanced equation is mathrm 2nahco 3 xrightarrow heat na 2co 3 co 2 h 2o given na 23 h 1 c 12 o 16 assuming complete decomposition what is the mass of solid residue"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_14_h6fke",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "What the coefficients of a balanced equation really mean",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "The balanced equation is N₂+3H₂→2NH₃ Given: N = 14, H = 1. Which interpretation is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 340 115\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"7\" y=\"19\" width=\"91\" height=\"63\" rx=\"6\" fill=\"#E7F1FF\" stroke=\"#4676B9\" strokeWidth=\"1.4\"/>\n    <rect x=\"124\" y=\"19\" width=\"91\" height=\"63\" rx=\"6\" fill=\"#FCE5CE\" stroke=\"#C66A24\" strokeWidth=\"1.4\"/>\n    <path d=\"M99 51 H121 M115 46 L122 51 L115 56\" stroke=\"currentColor\" strokeWidth=\"1.4\" fill=\"none\"/>\n    <rect x=\"241\" y=\"19\" width=\"91\" height=\"63\" rx=\"6\" fill=\"#E4F5EA\" stroke=\"#43845A\" strokeWidth=\"1.4\"/>\n    <path d=\"M216 51 H238 M232 46 L239 51 L232 56\" stroke=\"currentColor\" strokeWidth=\"1.4\" fill=\"none\"/>\n    <g fontSize=\"11.5\" textAnchor=\"middle\" fill=\"currentColor\">\n      <text x=\"52\" y=\"39\">N₂</text><text x=\"52\" y=\"57\">28 g</text>\n      <text x=\"169\" y=\"39\">H₂</text><text x=\"169\" y=\"57\">6 g</text>\n      <text x=\"286\" y=\"39\">NH₃</text><text x=\"286\" y=\"57\">34 g</text>\n    </g>\n    <text x=\"170\" y=\"101\" fontSize=\"10.5\" textAnchor=\"middle\" fill=\"currentColor\">Mass is conserved</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "One mole of N₂ reacts with three moles of H₂ to form two moles of NH₃; the coefficients are not a mass ratio."
+      },
+      {
+        "key": "B",
+        "text": "One gram of N₂ reacts with three grams of H₂ to form two grams of NH₃."
+      },
+      {
+        "key": "C",
+        "text": "The coefficient 3 means that exactly 3 g of hydrogen reacts with 1 g of nitrogen."
+      },
+      {
+        "key": "D",
+        "text": "The product mass must be 2 g because the product coefficient is 2."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The equation gives a mole ratio of 1:3:2.\n\nThe corresponding molar masses are:\n\n\n28 g N₂+3(2 g H₂)\n→2(17 g NH₃)\n\n\nThus,\n\n\n28+6=34 g\n\n\nThe coefficients represent relative numbers of molecules or moles, not directly the masses in grams. Option B incorrectly treats coefficients as masses.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "9e1a1fe18ac9d1c63034dcf2b753c734eb7f1facd316ef42162d0b494b568e8d",
+    "question_skeleton": "figure a mass balance diagram shows the complete reaction of 28 g nitrogen with 6 g hydrogen producing 34 g ammonia div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 340 115 width 100 xmlns http www w3 org 2000 svg rect x 7 y 19 width 91 height 63 rx 6 fill e7f1ff stroke 4676b9 strokewidth 1 4 rect x 124 y 19 width 91 height 63 rx 6 fill fce5ce stroke c66a24 strokewidth 1 4 path d m99 51 h121 m115 46 l122 51 l115 56 stroke currentcolor strokewidth 1 4 fill none rect x 241 y 19 width 91 height 63 rx 6 fill e4f5ea stroke 43845a strokewidth 1 4 path d m216 51 h238 m232 46 l239 51 l232 56 stroke currentcolor strokewidth 1 4 fill none g fontsize 11 5 textanchor middle fill currentcolor span n span span 28 g span span h span span 6 g span span nh span span 34 g span g span mass is conserved span svg div the balanced equation is mathrm n 2 3h 2 rightarrow2nh 3 given n 14 h 1 which interpretation is correct"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_15_vn11c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Gas volume from thermal decomposition",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A sample of 24.5 g of potassium chlorate is heated completely. What volume of oxygen is obtained at STP? The balanced equation is 2KClO_3xrightarrow Given: K = 39, Cl = 35.5, O = 16; molar volume at STP = 22.4 L mol⁻¹.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4.48 L"
+      },
+      {
+        "key": "B",
+        "text": "6.72 L"
+      },
+      {
+        "key": "C",
+        "text": "8.96 L"
+      },
+      {
+        "key": "D",
+        "text": "11.2 L"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Molar mass of potassium chlorate:\n\n\n39+35.5+3(16)=122.5\n\n\nMoles of potassium chlorate:\n\n\nn=(24.5 / 122.5)=0.2 mol\n\n\nFrom the balanced equation:\n\n\nn(O₂)=0.2×frac32=0.3 mol\n\n\nTherefore,\n\n\nV=0.3(22.4)=6.72 L\n\n\nThe tempting answer 4.48 L incorrectly uses a 1:1 mole ratio instead of the required 2:3 ratio.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "6896b14e22860342f6916b081487b0c4bcb4555d16172f2c7a80144214cdfe40",
+    "question_skeleton": "a sample of 24 5 g of potassium chlorate is heated completely what volume of oxygen is obtained at stp the balanced equation is mathrm 2kclo 3 xrightarrow heat 2kcl 3o 2 given k 39 cl 35 5 o 16 molar volume at stp 22 4 l mol"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_16_98mg6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Mass of phosphorus pentoxide from phosphorus",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "6.2 g of phosphorus burns completely in sufficient oxygen. Calculate the mass of phosphorus pentoxide, represented by P_2O₅, formed. Given: P = 31, O = 16. The balanced equation is 4P+5O₂→2P_2O₅",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "7.1 g"
+      },
+      {
+        "key": "B",
+        "text": "14.2 g"
+      },
+      {
+        "key": "C",
+        "text": "28.4 g"
+      },
+      {
+        "key": "D",
+        "text": "31.0 g"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Moles of phosphorus:\n\n\nn(P)=(6.2 / 31)=0.2 mol\n\n\nThe equation shows that four moles of phosphorus produce two moles of P_2O₅:\n\n\nn(P_2O₅)=0.2×frac24=0.1 mol\n\n\nMolar mass of P_2O₅:\n\n\n2(31)+5(16)=142\n\n\nHence,\n\n\nm=0.1(142)=14.2 g\n\n\nThe tempting answer A halves the product mass by incorrectly treating 6.2 g of phosphorus as producing only 0.05 mol of P_2O₅.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "93a2b3346e54a8bf1f9cc5da2e2b8caad6366c98a43589920604ff5c57801e65",
+    "question_skeleton": "6 2 g of phosphorus burns completely in sufficient oxygen calculate the mass of phosphorus pentoxide represented by mathrm p 2o 5 formed given p 31 o 16 the balanced equation is mathrm 4p 5o 2 rightarrow2p 2o 5"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_17_5qb9h",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Mass of water formed from a gas volume",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "5.6 L of hydrogen gas at STP burns completely in sufficient oxygen. Calculate the mass of liquid water formed. Given: H = 1, O = 16; molar volume at STP = 22.4 L mol⁻¹. The balanced equation is 2H₂+O₂→2H_2O(l)",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4.5 g"
+      },
+      {
+        "key": "B",
+        "text": "2.25 g"
+      },
+      {
+        "key": "C",
+        "text": "9.0 g"
+      },
+      {
+        "key": "D",
+        "text": "18.0 g"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Moles of hydrogen:\n\n\nn(H₂)=(5.6 / 22.4)=0.25 mol\n\n\nThe balanced equation gives a 1:1 mole ratio between H₂ and H₂O.\n\n\nn(H_2O)=0.25 mol\n\n\nMolar mass of water:\n\n\n2(1)+16=18\n\n\nThus,\n\n\nm=0.25(18)=4.5 g\n\n\nThe tempting answer B incorrectly halves the hydrogen mole amount even though the balanced equation has a 2:2 ratio between H₂ and H₂O.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "ae7a3ff07f3bf47bac3bfeaab20a457a96af3f8a24f44567a316544c259cdb3a",
+    "question_skeleton": "5 6 l of hydrogen gas at stp burns completely in sufficient oxygen calculate the mass of liquid water formed given h 1 o 16 molar volume at stp 22 4 l mol the balanced equation is mathrm 2h 2 o 2 rightarrow2h 2o l"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_18_byr8a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Identifying the incorrect statement about empirical formulae",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement is incorrect?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The empirical formula expresses the simplest whole-number ratio of atoms."
+      },
+      {
+        "key": "B",
+        "text": "The molecular formula is an integer multiple of the empirical formula."
+      },
+      {
+        "key": "C",
+        "text": "A compound’s molecular formula may be identical to its empirical formula."
+      },
+      {
+        "key": "D",
+        "text": "The empirical formula always contains fewer atoms than the molecular formula."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The empirical formula may be identical to the molecular formula when the molecular subscripts are already in the simplest ratio. For example, water has formula H₂O as both its empirical and molecular formula. Therefore, it is not always true that the empirical formula contains fewer atoms.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "afcb3fe25e0d13301fce8107c4cd09f942062788879567738dab992c27d429a6",
+    "question_skeleton": "which statement is incorrect"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_19_4bs2d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Hydrated salt",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A hydrated salt CuSO₄· xH_2O loses 36% of its mass on heating to remove all its water of crystallisation. What is the most likely value of x? **Reasoning:** For CuSO₄· xH_2O: (18x / 160+18x)×100≈36% For x=5: (90 / 160+90)×100 =(90 / 250)×100=36% Therefore, x=5. ## Section B — Advanced Integrated & Extreme HOTS Questions (11–30)",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "5"
+      },
+      {
+        "key": "D",
+        "text": "7"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "3f4370968a003599125d436195062ffa88a2fb65af365000735e3512c62e572b",
+    "question_skeleton": "a hydrated salt cuso 4 cdot xh 2o loses 36 of its mass on heating to remove all its water of crystallisation what is the most likely value of x reasoning for cuso 4 cdot xh 2o frac 18x 160 18x times100 approx36 for x 5 frac 90 160 90 times100 frac 90 250 times100 36 therefore boxed x 5 section b advanced integrated extreme hots questions 11 30"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_20_a7r95",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Limiting reagent and leftover metal",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "6.5 g of zinc is treated with 0.15 mol of hydrochloric acid. Zn+2HCl→ ZnCl₂+H₂ What is the mass of zinc left unreacted? **Reasoning:** n(Zn)=(6.5 / 65)=0.1 mol To react with 0.1 mol Zn, 0.2 mol HCl would be needed. Only 0.15 mol HCl is available, so HCl is the limiting reagent. Moles of zinc consumed: n(Zn)=(0.15 / 2)=0.075 mol Zinc remaining: 0.1-0.075=0.025 mol m=0.025×65=1.625 g",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.625 g"
+      },
+      {
+        "key": "B",
+        "text": "3.25 g"
+      },
+      {
+        "key": "C",
+        "text": "0 g"
+      },
+      {
+        "key": "D",
+        "text": "4.875 g"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "64354f9714d63c852c398bdb241a5490868901c33b8d852756ed95a35e841743",
+    "question_skeleton": "6 5 g of zinc is treated with 0 15 mol of hydrochloric acid zn 2hcl rightarrow zncl 2 h 2 what is the mass of zinc left unreacted reasoning n zn frac 6 5 65 0 1 text mol to react with 0 1 mol zn 0 2 mol hcl would be needed only 0 15 mol hcl is available so hcl is the limiting reagent moles of zinc consumed n zn frac 0 15 2 0 075 text mol zinc remaining 0 1 0 075 0 025 text mol m 0 025 times65 boxed 1 625 text g"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_21_nhmm2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Relative molecular mass and vapour density from gas data",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A gas sample has a mass of 8.0 g and occupies 5.6 L at STP. Determine its relative molecular mass and vapour density, respectively. Given: H = 1; molar volume at STP = 22.4 L mol⁻¹.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "16 and 8"
+      },
+      {
+        "key": "B",
+        "text": "64 and 32"
+      },
+      {
+        "key": "C",
+        "text": "32 and 16"
+      },
+      {
+        "key": "D",
+        "text": "32 and 32"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Moles of gas:\n\n\nn=(5.6 / 22.4)=0.25 mol\n\n\nMolar mass:\n\n\nM=(8.0 / 0.25)=32 g mol^{-1}\n\n\nVapour density relative to hydrogen:\n\n\nVD=(M / 2)=(32 / 2)=16\n\n\nTherefore, the answer is\n\n\n32, 16\n\n\nThe tempting answer D confuses relative molecular mass with vapour density; vapour density is half the relative molecular mass.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "bc2ca7e1cbc37900793b8fac1597c6ab373246c27d82ff806bd84ca5f902f486",
+    "question_skeleton": "a gas sample has a mass of 8 0 g and occupies 5 6 l at stp determine its relative molecular mass and vapour density respectively given h 1 molar volume at stp 22 4 l mol"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_22_4chex",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Calculating the mass of an element in a compound",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A 19.6 g sample of pure sulfuric acid contains hydrogen, sulfur and oxygen. Calculate the mass of sulfur present. Given: H = 1, S = 32, O = 16.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3.2 g"
+      },
+      {
+        "key": "B",
+        "text": "4.8 g"
+      },
+      {
+        "key": "C",
+        "text": "5.6 g"
+      },
+      {
+        "key": "D",
+        "text": "6.4 g"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Formula of sulfuric acid: H_2SO₄.\n\nMolar mass:\n\n\n2(1)+32+4(16)=98\n\n\nSulfur contributes 32 g per 98 g of the compound.\n\n\nm(S)=19.6×(32 / 98)\n\n\n\nm(S)=6.4 g\n\n\nThe tempting answer C underestimates the sulfur mass by using an incorrect fraction of the molar mass.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "5e227f24750878cefbf3cf0618d8393171505fbd7adb3c867babe0ec77e03034",
+    "question_skeleton": "a 19 6 g sample of pure sulfuric acid contains hydrogen sulfur and oxygen calculate the mass of sulfur present given h 1 s 32 o 16"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_23_2su9j",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Mass of oxygen in potassium chlorate",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Calculate the mass of oxygen present in 24.5 g of pure potassium chlorate, KClO₃. Given: K = 39, Cl = 35.5, O = 16.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4.8 g"
+      },
+      {
+        "key": "B",
+        "text": "6.4 g"
+      },
+      {
+        "key": "C",
+        "text": "9.6 g"
+      },
+      {
+        "key": "D",
+        "text": "12.0 g"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Molar mass of potassium chlorate:\n\n\n39+35.5+3(16)=122.5\n\n\nThe oxygen mass per mole of potassium chlorate is:\n\n\n3(16)=48 g\n\n\nTherefore, the oxygen mass fraction is 48/122.5.\n\n\nm(O)=24.5×(48 / 122.5)\n\n\n\nm(O)=9.6 g\n\n\nThe tempting answer B incorrectly uses the mass of only two oxygen atoms rather than all three.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "692331bc0cd840f0c1d94eb3fa063721ff3aace7d38d508e24f2bc628bca669c",
+    "question_skeleton": "calculate the mass of oxygen present in 24 5 g of pure potassium chlorate mathrm kclo 3 given k 39 cl 35 5 o 16"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_24_ikfpz",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Molar volume at STP",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Assertion (A):** One mole of any ideal gaseous substance occupies 22.4 L at STP under the convention used in this question bank. **Reason (R):** The molar volume of a gas at STP is independent of its chemical identity under the stated ideal-gas convention.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both A and R are true, and R correctly explains A."
+      },
+      {
+        "key": "B",
+        "text": "Both A and R are true, but R does not correctly explain A."
+      },
+      {
+        "key": "C",
+        "text": "A is true, but R is false."
+      },
+      {
+        "key": "D",
+        "text": "A is false, but R is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Under the specified convention, one mole of any ideal gas occupies 22.4 L at STP, defined here as 0°C and 1 atmosphere. Equal molar volumes follow from the common temperature and pressure for ideal gases. This is not a statement that equal gas volumes have equal masses.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "c0de964f8b3bbc878406a36c29471688c3dd6e2db084707a1f99ae6f41af4adf",
+    "question_skeleton": "assertion a one mole of any ideal gaseous substance occupies 22 4 l at stp under the convention used in this question bank reason r the molar volume of a gas at stp is independent of its chemical identity under the stated ideal gas convention"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_25_smvvc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Which one-mole sample contains the most atoms?",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Given: Avogadro’s number =6.022×10^ mol^. Which sample contains the greatest number of individual atoms?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "One mole of helium atoms"
+      },
+      {
+        "key": "B",
+        "text": "One mole of magnesium atoms"
+      },
+      {
+        "key": "C",
+        "text": "All three samples contain equal numbers of atoms."
+      },
+      {
+        "key": "D",
+        "text": "One mole of oxygen molecules"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "One mole of helium atoms contains N_A atoms, and one mole of magnesium atoms also contains N_A atoms.\n\nEach O₂ molecule has two oxygen atoms. Therefore, one mole of O₂ molecules contains:\n\n\n2N_A=2(6.022×10^{23})\n\n\n\n=1.2044×10^{24 atoms}\n\n\nThe tempting answer C confuses an equal number of particles with an equal number of atoms.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "8091238002184691e9b62d4b1f93c7776bdf23bc2766d319c150699c4b1bacc6",
+    "question_skeleton": "figure three containers each hold exactly one mole of the particles indicated helium atoms magnesium atoms and oxygen molecules div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 340 113 width 100 xmlns http www w3 org 2000 svg rect x 5 y 10 width 102 height 72 rx 6 fill e7f1ff stroke 4676b9 strokewidth 1 4 rect x 119 y 10 width 102 height 72 rx 6 fill fff0ce stroke bd8a24 strokewidth 1 4 rect x 233 y 10 width 102 height 72 rx 6 fill e4f5ea stroke 43845a strokewidth 1 4 each 0 1 2 as i circle cx 27 i 28 cy 35 r 5 5 fill 4676b9 each each 0 1 2 as i circle cx 141 i 28 cy 35 r 5 5 fill bd8a24 each each 0 1 2 as i g circle cx 246 i 28 cy 35 r 5 fill 318653 circle cx 257 i 28 cy 35 r 5 fill 8bc9a2 g each g fontsize 11 textanchor middle fill currentcolor span he atoms span span 1 mol span span mg atoms span span 1 mol span span o molecules span span 1 mol span g span choose the largest number of individual atoms span svg div given avogadro s number 6 022 times10 23 text mol 1 which sample contains the greatest number of individual atoms"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_26_n66tc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Relative molecular mass of a compound",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Given C = 12, H = 1 and O = 16, which statement about ethanoic acid, CH_3COOH, is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Its relative molecular mass is 30 because its empirical formula is CH₂O."
+      },
+      {
+        "key": "B",
+        "text": "Its relative molecular mass is 60, and its empirical formula is CH₂O."
+      },
+      {
+        "key": "C",
+        "text": "Its relative molecular mass is 60, and its empirical formula is C₂H₄O₂."
+      },
+      {
+        "key": "D",
+        "text": "Its relative molecular mass is 120 because it contains two carbon atoms."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The molecular formula is C_2H_4O₂.\n\n\nM_r=2(12)+4(1)+2(16)=60\n\n\nDividing all subscripts by two gives the empirical formula CH₂O, with empirical formula mass 30. The tempting option C confuses the molecular formula with the simplest whole-number formula.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "f5bd292ed68e101547eb0d5de94d595d2cc0d66172e1cad98662a1d71944b3f0",
+    "question_skeleton": "given c 12 h 1 and o 16 which statement about ethanoic acid mathrm ch 3cooh is correct"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_27_ybon5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Gram atomic mass and gram molecular mass",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement is correct for oxygen, given O = 16?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The gram atomic mass is 16 g, while the gram molecular mass of O₂ is 32 g; each quantity corresponds to one mole of its specified particles."
+      },
+      {
+        "key": "B",
+        "text": "Both the gram atomic mass and gram molecular mass are 16 g because oxygen has atomic mass 16."
+      },
+      {
+        "key": "C",
+        "text": "The gram molecular mass of O₂ is 16 g because one molecule contains two oxygen atoms."
+      },
+      {
+        "key": "D",
+        "text": "The gram atomic mass of oxygen represents one mole of O₂ molecules."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "One mole of oxygen atoms has a mass of 16 g, while one mole of O₂ molecules has a mass of 2(16)=32 g. The distinction is between atoms and molecules. Option D incorrectly equates one mole of atoms with one mole of diatomic molecules.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "57380a764e1532f9b5174a5c62d56538c27442ca7fb27624369784ac650830e8",
+    "question_skeleton": "which statement is correct for oxygen given o 16"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_28_8gvc4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Interpreting the number of particles in a gas",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement about one mole of chlorine gas, Cl₂, is correct? Given: Cl = 35.5.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It contains one mole of chlorine atoms."
+      },
+      {
+        "key": "B",
+        "text": "It contains two moles of chlorine atoms and has a mass of 71 g."
+      },
+      {
+        "key": "C",
+        "text": "It contains 6.022×10^{23} chlorine atoms and has a mass of 35.5 g."
+      },
+      {
+        "key": "D",
+        "text": "It contains two moles of chlorine molecules and has a mass of 71 g."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "One mole of Cl₂ contains one mole of molecules, but two moles of chlorine atoms. Its molar mass is 2(35.5)=71 g mol^{-1}. The tempting option D confuses two moles of atoms with two moles of molecules.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "dcd0404755f78181f38d88a2351ec14698aec6cc72a79d61a85a0c2123637233",
+    "question_skeleton": "which statement about one mole of chlorine gas mathrm cl 2 is correct given cl 35 5"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_29_qny69",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "Avogadro’s number and ions in a salt",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement correctly describes one mole of magnesium chloride, MgCl₂, after complete dissociation? Given: Avogadro’s number =6.022×10^ mol^.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It produces one mole of ions because it begins as one mole of salt."
+      },
+      {
+        "key": "B",
+        "text": "It produces two moles of ions, all of which are chloride ions."
+      },
+      {
+        "key": "C",
+        "text": "It produces three moles of ions: one mole of Mg²⁺ and two moles of Cl⁻."
+      },
+      {
+        "key": "D",
+        "text": "It produces three moles of formula units, each containing one magnesium ion."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "MgCl₂→ Mg^{2++2Cl⁻}\n\n\nOne mole of magnesium chloride produces one mole of magnesium ions and two moles of chloride ions, giving three moles of ions in total. The tempting answer A confuses the initial amount of formula units with the total amount of ions after dissociation.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "0106f57b3953a1415b40655e42b7b684a2e4ce302905bb2dd86b1598bd922b09",
+    "question_skeleton": "which statement correctly describes one mole of magnesium chloride mathrm mgcl 2 after complete dissociation given avogadro s number 6 022 times10 23 text mol 1"
+  },
+  {
+    "globalId": "qb_hots_mole_concept_30_ff7oc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Mole Concept",
+    "title": "One mole of atoms versus one mole of molecules",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Given: He = 4, H = 1; Avogadro’s number =6.022×10^ mol^. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The helium sample contains twice as many particles as the hydrogen sample."
+      },
+      {
+        "key": "B",
+        "text": "Both samples contain the same number of particles, but the hydrogen sample contains twice as many atoms."
+      },
+      {
+        "key": "C",
+        "text": "Both samples contain the same number of atoms and the same mass."
+      },
+      {
+        "key": "D",
+        "text": "The hydrogen sample contains twice as many molecules as the helium sample."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "One gram atomic mass of helium is 4 g, representing 1 mol of He atoms. One gram molecular mass of hydrogen is 2 g, representing 1 mol of H₂ molecules.\n\nBoth contain:\n\n\n6.022×10^{23} particles\n\n\nHowever, each H₂ molecule has two atoms. Thus, the hydrogen sample has 2N_A atoms, whereas the helium sample has N_A atoms.\n\nThe tempting answer D treats helium atoms as though they were molecules.\n\n---",
+    "concept_name": "Mole Concept and Stoichiometry",
+    "concept_tag": "mole_concept diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "27d47477590a52fc648eb115f504a2429b329f6f96d618fbd38439243f97816e",
+    "question_skeleton": "figure the first vessel contains one gram atomic mass of helium atoms the second contains one gram molecular mass of hydrogen molecules div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 340 106 width 100 xmlns http www w3 org 2000 svg rect x 8 y 12 width 148 height 65 rx 6 fill e7f1ff stroke 4676b9 strokewidth 1 4 rect x 184 y 12 width 148 height 65 rx 6 fill e4f5ea stroke 43845a strokewidth 1 4 each 0 1 2 3 as i circle cx 34 i 31 cy 35 r 6 fill 4676b9 each each 0 1 2 as i g circle cx 210 i 37 cy 35 r 5 5 fill 318653 circle cx 222 i 37 cy 35 r 5 5 fill 86c9a0 g each span 4 g he span span 2 g h span span each sample contains 1 mol of its stated particles span svg div given he 4 h 1 avogadro s number 6 022 times10 23 text mol 1 which statement is correct"
+  }
+]

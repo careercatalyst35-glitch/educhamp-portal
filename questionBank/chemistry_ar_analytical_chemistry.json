@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_analytical_chemistry_1_447c23",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of NaOH on iron(II) salts",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Adding sodium hydroxide solution dropwise to a solution of iron(II) sulphate produces a dirty green precipitate that is insoluble in excess NaOH. **Reason (R):** Iron(II) hydroxide, Fe(OH)₂, is a basic hydroxide that does not react with excess sodium hydroxide. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. FeSO₄ + 2NaOH → Fe(OH)₂↓(dirty green) + Na₂SO₄. Fe(OH)₂ is not amphoteric and cannot dissolve in excess alkali.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a7ba920f343d015197491d27a9523ccaf706844e86ed8ef700b9f0b12d3d1777",
+    "question_skeleton": "assertion a adding sodium hydroxide solution dropwise to a solution of iron ii sulphate produces a dirty green precipitate that is insoluble in excess naoh reason r iron ii hydroxide fe oh is a basic hydroxide that does not react with excess sodium hydroxide choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_2_1cdb85",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of air on iron(II) hydroxide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A dirty green precipitate of Fe(OH)₂ gradually turns reddish-brown on exposure to air. **Reason (R):** Atmospheric oxygen oxidises iron(II) hydroxide to hydrated iron(III) hydroxide, Fe(OH)₃. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 4Fe(OH)₂ + O₂ + 2H₂O → 4Fe(OH)₃ (reddish-brown). Fe²⁺ is readily oxidised to Fe³⁺ by atmospheric oxygen.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5876b23d76aece001fd51e73fbef646dcdb64ad92228efe320cc6b63e9464cbb",
+    "question_skeleton": "assertion a a dirty green precipitate of fe oh gradually turns reddish brown on exposure to air reason r atmospheric oxygen oxidises iron ii hydroxide to hydrated iron iii hydroxide fe oh choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_3_028532",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of NaOH on iron(III) salts",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Adding sodium hydroxide to an iron(III) chloride solution produces a reddish-brown precipitate. **Reason (R):** Iron(III) hydroxide, Fe(OH)₃, precipitates as a reddish-brown gelatinous solid insoluble in excess sodium hydroxide. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. FeCl₃ + 3NaOH → Fe(OH)₃↓(reddish-brown) + 3NaCl. Like Fe(OH)₂, Fe(OH)₃ is purely basic and insoluble in excess alkali.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bb04697a99d8e6582b00935ab4917ae53260bc76f4c61714f08480209efe4db0",
+    "question_skeleton": "assertion a adding sodium hydroxide to an iron iii chloride solution produces a reddish brown precipitate reason r iron iii hydroxide fe oh precipitates as a reddish brown gelatinous solid insoluble in excess sodium hydroxide choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_4_361a30",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of NaOH on copper(II) salts",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Adding sodium hydroxide to a copper(II) sulphate solution yields a pale blue precipitate insoluble in excess NaOH. **Reason (R):** Copper(II) hydroxide, Cu(OH)₂, is an insoluble basic hydroxide with no amphoteric character. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. CuSO₄ + 2NaOH → Cu(OH)₂↓(pale blue) + Na₂SO₄. Cu(OH)₂ does not dissolve in excess NaOH.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f637f2198d1769ba1bf3208d5368c5c76aca30e6810ae4852dffc832e8c886c7",
+    "question_skeleton": "assertion a adding sodium hydroxide to a copper ii sulphate solution yields a pale blue precipitate insoluble in excess naoh reason r copper ii hydroxide cu oh is an insoluble basic hydroxide with no amphoteric character choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_5_e77a14",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of excess NH4OH on copper(II) hydroxide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A pale blue precipitate of Cu(OH)₂ dissolves in excess ammonium hydroxide to form a deep inky-blue solution. **Reason (R):** Excess NH₄OH reacts with Cu(OH)₂ to form the soluble tetraamminecopper(II) complex ion, [Cu(NH₃)₄]²⁺. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Cu(OH)₂ + 4NH₄OH → [Cu(NH₃)₄](OH)₂ + 4H₂O. The deep inky-blue color is characteristic of the complex cation.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d9f2bdb4c6203cf68d965e4f92606dbc37eb6cf6a0ce1a39c8603312133ac201",
+    "question_skeleton": "assertion a a pale blue precipitate of cu oh dissolves in excess ammonium hydroxide to form a deep inky blue solution reason r excess nh oh reacts with cu oh to form the soluble tetraamminecopper ii complex ion cu nh choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_6_d2d561",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of excess NaOH on zinc hydroxide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A gelatinous white precipitate of zinc hydroxide dissolves completely in excess sodium hydroxide solution. **Reason (R):** Zinc hydroxide is an amphoteric hydroxide that reacts with excess strong alkali to form soluble sodium zincate (Na₂ZnO₂). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Zn(OH)₂ + 2NaOH → Na₂ZnO₂ + 2H₂O. The colorless sodium zincate solution confirms the amphoteric nature of zinc.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "97b0c318003238f6093e35d267cceca4f48304254d07551ea4a7689d695cdc2a",
+    "question_skeleton": "assertion a a gelatinous white precipitate of zinc hydroxide dissolves completely in excess sodium hydroxide solution reason r zinc hydroxide is an amphoteric hydroxide that reacts with excess strong alkali to form soluble sodium zincate na zno choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_7_0c7e0e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of excess NH4OH on zinc hydroxide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Gelatinous white zinc hydroxide dissolves in excess ammonium hydroxide. **Reason (R):** Zinc hydroxide forms a soluble coordination complex, tetraamminezinc(II) hydroxide, [Zn(NH₃)₄](OH)₂, with excess ammonia. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Zn(OH)₂ + 4NH₄OH → [Zn(NH₃)₄](OH)₂ + 4H₂O. The precipitate dissolves to yield a clear, colorless solution.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b862f3b2ba74107c8f05f6c5fdac9ad1f8e2d2b326feb43fd077bcc7fceeab59",
+    "question_skeleton": "assertion a gelatinous white zinc hydroxide dissolves in excess ammonium hydroxide reason r zinc hydroxide forms a soluble coordination complex tetraamminezinc ii hydroxide zn nh oh with excess ammonia choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_8_6fe123",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of excess NaOH on lead(II) hydroxide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A chalky white precipitate of lead(II) hydroxide dissolves in excess sodium hydroxide. **Reason (R):** Lead(II) hydroxide is amphoteric and reacts with excess alkali to form soluble sodium plumbite (Na₂PbO₂). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Pb(OH)₂ + 2NaOH → Na₂PbO₂ + 2H₂O. The chalky white precipitate dissolves into a clear solution.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bd515fa9ae3c2d8f8e95de0465d61e1d04b1f14846835d064e38971751584c4b",
+    "question_skeleton": "assertion a a chalky white precipitate of lead ii hydroxide dissolves in excess sodium hydroxide reason r lead ii hydroxide is amphoteric and reacts with excess alkali to form soluble sodium plumbite na pbo choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_9_ae301f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Distinguishing Zinc from Lead using NH4OH",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ammonium hydroxide can be used to distinguish between solutions of zinc nitrate and lead nitrate. **Reason (R):** The white precipitate of Zn(OH)₂ dissolves in excess NH₄OH, whereas the white precipitate of Pb(OH)₂ is insoluble in excess NH₄OH. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. This is the crucial diagnostic test in ICSE qualitative analysis: Zn(OH)₂ dissolves in excess NH₄OH, while Pb(OH)₂ persists.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3c406891f8d55efa50e10163b4fed1b9e70dc67acaaf965c230c297bae87bd2d",
+    "question_skeleton": "assertion a ammonium hydroxide can be used to distinguish between solutions of zinc nitrate and lead nitrate reason r the white precipitate of zn oh dissolves in excess nh oh whereas the white precipitate of pb oh is insoluble in excess nh oh choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_10_d592e8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of NaOH on calcium salts",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Adding sodium hydroxide solution to calcium chloride produces a white precipitate of calcium hydroxide. **Reason (R):** Calcium hydroxide is sparingly soluble in water and precipitates when sodium hydroxide is added in sufficient concentration. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. CaCl₂ + 2NaOH → Ca(OH)₂↓ + 2NaCl. Ca(OH)₂ appears as a milky white precipitate and is insoluble in excess alkali.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "65087c5b000850c19d3e11caef7e6dce32e824abd1d85f9988de1d916f6998e5",
+    "question_skeleton": "assertion a adding sodium hydroxide solution to calcium chloride produces a white precipitate of calcium hydroxide reason r calcium hydroxide is sparingly soluble in water and precipitates when sodium hydroxide is added in sufficient concentration choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_11_53e275",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of NH4OH on calcium salts",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** No precipitate is observed when ammonium hydroxide is added to a solution of calcium chloride. **Reason (R):** Ammonium hydroxide is a weak base with a low degree of ionisation; the concentration of OH⁻ ions is insufficient to exceed the solubility product of Ca(OH)₂. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. [Ca²⁺][OH⁻]² does not exceed the Ksp of calcium hydroxide because of low OH⁻ concentration from weak NH₄OH.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "68fa354db74d592d07ac331642f99a91b92acfeb5f7ef89cc9140592cf859d9c",
+    "question_skeleton": "assertion a no precipitate is observed when ammonium hydroxide is added to a solution of calcium chloride reason r ammonium hydroxide is a weak base with a low degree of ionisation the concentration of oh ions is insufficient to exceed the solubility product of ca oh choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_12_4b1655",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Distinguishing Calcium from Lead using NH4OH",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ammonium hydroxide can distinguish between a calcium salt solution and a lead salt solution. **Reason (R):** Ammonium hydroxide gives a chalky white precipitate with lead salts, but gives no precipitate with calcium salts. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Lead forms insoluble Pb(OH)₂ even with low OH⁻, whereas calcium remains dissolved in solution.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bd7f9f6d18d0c8c177b28668d251e85264422755f8c439031be29dccc360465f",
+    "question_skeleton": "assertion a ammonium hydroxide can distinguish between a calcium salt solution and a lead salt solution reason r ammonium hydroxide gives a chalky white precipitate with lead salts but gives no precipitate with calcium salts choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_13_f7173a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of hot concentrated NaOH on zinc metal",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When granulated zinc is heated with concentrated sodium hydroxide solution, hydrogen gas is evolved. **Reason (R):** Zinc is an amphoteric metal that reacts with strong alkalis to form sodium zincate and hydrogen gas. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Zn + 2NaOH → Na₂ZnO₂ + H₂↑. This reaction demonstrates the acidic reactivity of amphoteric zinc.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a0ee0cb0355a5871c8c346f98a5f792bd2416a29af79b2d7f19f7f6f487e09c7",
+    "question_skeleton": "assertion a when granulated zinc is heated with concentrated sodium hydroxide solution hydrogen gas is evolved reason r zinc is an amphoteric metal that reacts with strong alkalis to form sodium zincate and hydrogen gas choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_14_ce14e3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of hot concentrated NaOH on aluminium metal",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Aluminium reacts vigorously with hot aqueous sodium hydroxide, liberating hydrogen gas. **Reason (R):** Aluminium dissolves in concentrated alkali to form soluble sodium meta-aluminate (NaAlO₂) and hydrogen. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 2Al + 2NaOH + 2H₂O → 2NaAlO₂ + 3H₂↑. Aluminium exhibits amphoteric behavior with hot bases.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6a102dee9eeb569c0927b20541fbf80c39d0c93eecac2e7eeb38abcb1dd6327b",
+    "question_skeleton": "assertion a aluminium reacts vigorously with hot aqueous sodium hydroxide liberating hydrogen gas reason r aluminium dissolves in concentrated alkali to form soluble sodium meta aluminate naalo and hydrogen choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_15_39ba56",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of hot concentrated NaOH on lead metal",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Lead metal reacts slowly with hot concentrated sodium hydroxide solution, releasing hydrogen. **Reason (R):** Lead reacts with alkalis to produce soluble sodium plumbite (Na₂PbO₂) and hydrogen gas. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Pb + 2NaOH → Na₂PbO₂ + H₂↑. Amphoteric lead forms the plumbite oxy-anion [PbO₂]²⁻.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "02f23d6b4e6b7337807437b41db4ee0f95fb8381f47471af97944e3bc0ef3789",
+    "question_skeleton": "assertion a lead metal reacts slowly with hot concentrated sodium hydroxide solution releasing hydrogen reason r lead reacts with alkalis to produce soluble sodium plumbite na pbo and hydrogen gas choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_16_d2d412",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Reaction of amphoteric oxides with alkalis",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Aluminium oxide (Al₂O₃) dissolves in hot aqueous sodium hydroxide. **Reason (R):** Al₂O₃ behaves as an acidic oxide towards strong alkalis, forming soluble sodium meta-aluminate and water. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O. Basic oxides like CuO or Fe₂O₃ do not dissolve in alkalis.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "72dc5a5f10807cb495a203b2b71ba4e008df24fe45e6bab4736f7408ebeb5166",
+    "question_skeleton": "assertion a aluminium oxide al o dissolves in hot aqueous sodium hydroxide reason r al o behaves as an acidic oxide towards strong alkalis forming soluble sodium meta aluminate and water choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_17_e4a2d2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Identification of ammonium salts with alkali",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Warming an ammonium salt with sodium hydroxide solution releases a pungent gas that turns moist red litmus blue. **Reason (R):** Ammonia gas (NH₃) is liberated, which is alkaline in nature and produces dense white fumes with a glass rod dipped in concentrated HCl. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. NH₄Cl + NaOH → NaCl + H₂O + NH₃↑. NH₃ + HCl → NH₄Cl (dense white fumes).",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "655404502785cb61c9660497d9c248d43f6dfa8753270d158e3612236e9e7aa5",
+    "question_skeleton": "assertion a warming an ammonium salt with sodium hydroxide solution releases a pungent gas that turns moist red litmus blue reason r ammonia gas nh is liberated which is alkaline in nature and produces dense white fumes with a glass rod dipped in concentrated hcl choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_18_44ccf3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Potassium iodide test for lead ions",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Adding potassium iodide solution to a lead nitrate solution yields a bright yellow precipitate. **Reason (R):** Lead(II) iodide (PbI₂) is an insoluble yellow salt that dissolves in boiling water and recrystallises as golden-yellow spangles on cooling. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Pb(NO₃)₂ + 2KI → PbI₂↓(yellow) + 2KNO₃. This is the characteristic golden-rain confirmatory test for Pb²⁺.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "11e9fd8c182380cc33e9a619dd731db62cd6efc62e2cc677bf83e0b188e5a244",
+    "question_skeleton": "assertion a adding potassium iodide solution to a lead nitrate solution yields a bright yellow precipitate reason r lead ii iodide pbi is an insoluble yellow salt that dissolves in boiling water and recrystallises as golden yellow spangles on cooling choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_19_235362",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Barium chloride test for sulphate ions",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Adding barium chloride solution to sodium sulphate produces a white precipitate insoluble in dilute hydrochloric acid. **Reason (R):** Barium sulphate (BaSO₄) is completely insoluble in dilute mineral acids. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. BaCl₂ + Na₂SO₄ → BaSO₄↓(white) + 2NaCl. In contrast, barium sulphite (BaSO₃) dissolves in dilute HCl with evolution of SO₂.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "baf0fac75dae22eab09e03818a12b3547b2afc18afa6fac531191832b1b148b9",
+    "question_skeleton": "assertion a adding barium chloride solution to sodium sulphate produces a white precipitate insoluble in dilute hydrochloric acid reason r barium sulphate baso is completely insoluble in dilute mineral acids choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_20_26483a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Silver nitrate test for chloride ions",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Adding silver nitrate solution to dilute hydrochloric acid produces a white curdy precipitate that dissolves in ammonium hydroxide. **Reason (R):** Silver chloride (AgCl) reacts with ammonium hydroxide to form a soluble complex, diamminesilver(I) chloride, [Ag(NH₃)₂]Cl. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. AgCl + 2NH₄OH → [Ag(NH₃)₂]Cl + 2H₂O. The precipitate dissolves completely in excess NH₄OH.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5a1c202195b7643107c85a2b34445deb380a921d406cc42a70c9e8edc7cec895",
+    "question_skeleton": "assertion a adding silver nitrate solution to dilute hydrochloric acid produces a white curdy precipitate that dissolves in ammonium hydroxide reason r silver chloride agcl reacts with ammonium hydroxide to form a soluble complex diamminesilver i chloride ag nh cl choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_21_63b911",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of NaOH on magnesium salts",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Adding sodium hydroxide to a magnesium sulphate solution forms a dull white precipitate insoluble in excess NaOH. **Reason (R):** Magnesium hydroxide, Mg(OH)₂, is a purely basic hydroxide with no amphoteric properties. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. MgSO₄ + 2NaOH → Mg(OH)₂↓(white) + Na₂SO₄. Mg(OH)₂ cannot form a soluble complex or oxyanion with excess alkali.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e8ac123ede374771ddbcf7b7d29e357529c1e9b5929e4c9dadac68ff659b2123",
+    "question_skeleton": "assertion a adding sodium hydroxide to a magnesium sulphate solution forms a dull white precipitate insoluble in excess naoh reason r magnesium hydroxide mg oh is a purely basic hydroxide with no amphoteric properties choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_22_f2bcbd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Action of NH4OH on magnesium salts",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ammonium hydroxide produces a white precipitate of Mg(OH)₂ with magnesium salts, which dissolves upon adding ammonium chloride. **Reason (R):** Adding NH₄Cl suppresses the ionisation of NH₄OH by the common ion effect, lowering [OH⁻] below the solubility product of Mg(OH)₂. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Common ion NH₄⁺ shifts the equilibrium NH₄OH ⇌ NH₄⁺ + OH⁻ to the left, redissolving the precipitate.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "85c92b7c38e8a45071a8ce174d56077e813f405002aa1da5b5c34b0c1dac64ba",
+    "question_skeleton": "assertion a ammonium hydroxide produces a white precipitate of mg oh with magnesium salts which dissolves upon adding ammonium chloride reason r adding nh cl suppresses the ionisation of nh oh by the common ion effect lowering oh below the solubility product of mg oh choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_23_cf9920",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Amphoteric zinc oxide reaction with acid",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Zinc oxide reacts with dilute nitric acid to form zinc nitrate and water. **Reason (R):** In this reaction, zinc oxide behaves as a basic oxide neutralising an acid. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. ZnO + 2HNO₃ → Zn(NO₃)₂ + H₂O. As an amphoteric oxide, ZnO behaves as a base when treated with acids.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6ac0d2ce4d35e09c1951c314e52cff2b5923c9c07700af1a5460bb2bf9750e13",
+    "question_skeleton": "assertion a zinc oxide reacts with dilute nitric acid to form zinc nitrate and water reason r in this reaction zinc oxide behaves as a basic oxide neutralising an acid choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_24_600aa6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Amphoteric zinc oxide reaction with alkali",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Zinc oxide dissolves in hot aqueous potassium hydroxide. **Reason (R):** Zinc oxide acts as an acidic oxide towards strong bases, forming soluble potassium zincate (K₂ZnO₂). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. ZnO + 2KOH → K₂ZnO₂ + H₂O. Amphoteric oxides react with bases to yield complex salts and water.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c00f5edc492e0a5b2e4b5632c0cef9a756615668a5755af342f0d13e1379f378",
+    "question_skeleton": "assertion a zinc oxide dissolves in hot aqueous potassium hydroxide reason r zinc oxide acts as an acidic oxide towards strong bases forming soluble potassium zincate k zno choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_25_9fd1d1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Lead dioxide is not an amphoteric basic anhydride",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Lead dioxide (PbO₂) is classified as a higher neutral/oxidising oxide rather than a true basic oxide. **Reason (R):** PbO₂ reacts with concentrated hydrochloric acid to liberate chlorine gas instead of forming a salt and water only. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. PbO₂ + 4HCl → PbCl₂ + Cl₂↑ + 2H₂O. Because chlorine is liberated, PbO₂ acts as an oxidising agent rather than a typical basic oxide.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8348ac6863ce717a85c6362e37fb18cf894b4b31bc1d01de4661712664a6b7c9",
+    "question_skeleton": "assertion a lead dioxide pbo is classified as a higher neutral oxidising oxide rather than a true basic oxide reason r pbo reacts with concentrated hydrochloric acid to liberate chlorine gas instead of forming a salt and water only choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_26_8b979e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Reactivity of fused alkalis with glass",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Fused sodium hydroxide cannot be stored in ordinary glass containers. **Reason (R):** Hot concentrated alkalis attack silica (SiO₂) in glass to form soluble sodium silicate. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 2NaOH + SiO₂ → Na₂SiO₃ + H₂O. The alkali etches and dissolves the glass apparatus.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6fa2c10114aac2f296031e2d93d037b27f1efb9d19834569517cc7da737d706b",
+    "question_skeleton": "assertion a fused sodium hydroxide cannot be stored in ordinary glass containers reason r hot concentrated alkalis attack silica sio in glass to form soluble sodium silicate choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_27_4b17ab",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Flame test for sodium",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A clean platinum wire dipped in sodium chloride solution gives a persistent golden-yellow flame in a non-luminous Bunsen burner. **Reason (R):** Sodium valence electrons are excited by the flame heat and emit light of wavelength 589 nm upon returning to the ground state. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Persistent golden-yellow flame coloration is the distinctive qualitative test for sodium ions.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ba2d80159725c06db78bc7f3611ed4c4cca71a3243acfb44eca902fa3bf8dfc8",
+    "question_skeleton": "assertion a a clean platinum wire dipped in sodium chloride solution gives a persistent golden yellow flame in a non luminous bunsen burner reason r sodium valence electrons are excited by the flame heat and emit light of wavelength # nm upon returning to the ground state choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_28_25fb22",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Flame test for potassium",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Potassium salts impart a lilac (violet) coloration to a non-luminous flame. **Reason (R):** Excited potassium atoms emit characteristic spectral radiation in the violet region of the visible spectrum. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Viewing through cobalt blue glass filters out any sodium yellow impurities to reveal the lilac hue clearly.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "99836a215d991c155d436c0f50c1dbf1c38f1417053ee412afff555f90c7b697",
+    "question_skeleton": "assertion a potassium salts impart a lilac violet coloration to a non luminous flame reason r excited potassium atoms emit characteristic spectral radiation in the violet region of the visible spectrum choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_29_29a08b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Flame test for calcium",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Calcium chloride imparts a brick-red color to a Bunsen flame. **Reason (R):** Calcium ions are thermally excited and emit light corresponding to a brick-red spectral wavelength. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Brick-red coloration distinguishes calcium from other alkaline earth metals.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f46ab34f4d6672ae4923360ab9bcda76864bb35362dcb8b52ef3ec0ad98d7e5c",
+    "question_skeleton": "assertion a calcium chloride imparts a brick red color to a bunsen flame reason r calcium ions are thermally excited and emit light corresponding to a brick red spectral wavelength choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_30_28a320",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Distinguishing copper(II) oxide from manganese dioxide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Black CuO can be distinguished from black MnO₂ using concentrated hydrochloric acid. **Reason (R):** MnO₂ oxidises concentrated HCl to liberate pungent greenish-yellow chlorine gas, whereas CuO undergoes normal neutralisation to form blue-green CuCl₂ without gas evolution. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. MnO₂ + 4HCl → MnCl₂ + Cl₂↑ + 2H₂O; CuO + 2HCl → CuCl₂ + H₂O.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a4d2fea772fd71e8b994aff4c7ddcd8423886346d0122867738562d86e5c1c56",
+    "question_skeleton": "assertion a black cuo can be distinguished from black mno using concentrated hydrochloric acid reason r mno oxidises concentrated hcl to liberate pungent greenish yellow chlorine gas whereas cuo undergoes normal neutralisation to form blue green cucl without gas evolution choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_31_fd2d09",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Nessler reagent test for ammonia",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ammonia gas turns filter paper dipped in Nessler reagent brown. **Reason (R):** Nessler reagent (alkaline potassium tetraiodomercurate(II)) reacts with trace ammonia to precipitate brown iodide of Millon base. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 2K₂[HgI₄] + NH₃ + 3KOH → H₂N-Hg-O-Hg-I↓(brown) + 7KI + 2H₂O.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6147547fa6ad8d22302ce5ff966fc588dff6ca1468fa063beba02e557bda3871",
+    "question_skeleton": "assertion a ammonia gas turns filter paper dipped in nessler reagent brown reason r nessler reagent alkaline potassium tetraiodomercurate ii reacts with trace ammonia to precipitate brown iodide of millon base choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_32_20441f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Distinguishing carbonate from sulphite",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Both carbonates and sulphites produce effervescence with dilute acids, but their evolved gases can be distinguished using potassium dichromate. **Reason (R):** Carbon dioxide has no effect on acidified potassium dichromate, whereas sulphur dioxide turns it from orange to green. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Both gases turn lime water milky, but only reducing SO₂ reduces orange Cr₂O₇²⁻ to green Cr³⁺.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5b89e2bfbb6cedcda357359f814f241836da7bf231245dd71f9617e28f5eedf8",
+    "question_skeleton": "assertion a both carbonates and sulphites produce effervescence with dilute acids but their evolved gases can be distinguished using potassium dichromate reason r carbon dioxide has no effect on acidified potassium dichromate whereas sulphur dioxide turns it from orange to green choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_33_a37b28",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Distinguishing nitrate from nitrite",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Nitrates produce brown fumes of NO₂ only when heated with concentrated H₂SO₄ and copper turnings. **Reason (R):** Copper reduces nitric acid formed in situ to nitrogen dioxide gas. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Cu + 4HNO₃ → Cu(NO₃)₂ + 2NO₂↑(dense brown fumes) + 2H₂O.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "586cb6444f4a80af08ebaec61a7bbc48889dc1961f4fea86050a4f07982b57a2",
+    "question_skeleton": "assertion a nitrates produce brown fumes of no only when heated with concentrated h so and copper turnings reason r copper reduces nitric acid formed in situ to nitrogen dioxide gas choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_34_56cfdd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Brown ring test for nitrates",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the brown ring test for nitrates, concentrated sulphuric acid is added slowly along the side of the test tube. **Reason (R):** Concentrated H₂SO₄ is denser than the aqueous layer and forms a distinct bottom layer without heating and destroying the unstable brown complex. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The brown ring of nitrosoferrous sulphate, [Fe(H₂O)₅(NO)]SO₄, forms at the liquid junction and decomposes on shaking or warming.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e3d5c0d0283f7ebf2f65733e71d18676bc5f6cade311b62cc989757c68def9bb",
+    "question_skeleton": "assertion a in the brown ring test for nitrates concentrated sulphuric acid is added slowly along the side of the test tube reason r concentrated h so is denser than the aqueous layer and forms a distinct bottom layer without heating and destroying the unstable brown complex choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_35_b213a3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Iron(II) vs Iron(III) reaction with potassium ferrocyanide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Adding potassium ferrocyanide to an iron(III) salt produces a deep Prussian blue precipitate. **Reason (R):** Iron(III) ions react with hexacyanoferrate(II) ions to form insoluble ferric ferrocyanide, Fe₄[Fe(CN)₆]₃. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Prussian blue formation is a highly sensitive confirmatory test for ferric (Fe³⁺) ions.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5d0ff1fe6f2ea0eb97a11cc6d57aa87099e4232b48c67fd1046abcbf5c62baa2",
+    "question_skeleton": "assertion a adding potassium ferrocyanide to an iron iii salt produces a deep prussian blue precipitate reason r iron iii ions react with hexacyanoferrate ii ions to form insoluble ferric ferrocyanide fe fe cn choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_36_3d038a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Ammonium hydroxide precipitation rule",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** All transition metal ions are precipitated as hydroxides by ammonium hydroxide. **Reason (R):** Ammonium hydroxide precipitates metal ions whose hydroxide solubility products are lower than the ionic product in solution. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Hydroxides of Fe²⁺, Fe³⁺, and Cu²⁺ precipitate because their Ksp values are very low.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f9549f3f32c43292bffc18f710c7ce5e604b8fd8314619381a931b49b4cf5385",
+    "question_skeleton": "assertion a all transition metal ions are precipitated as hydroxides by ammonium hydroxide reason r ammonium hydroxide precipitates metal ions whose hydroxide solubility products are lower than the ionic product in solution choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_37_129218",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Solubility of silver chloride in ammonia",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** White AgCl precipitate dissolves in dilute ammonium hydroxide solution. **Reason (R):** Silver ions form a soluble diamminesilver(I) complex cation, [Ag(NH₃)₂]⁺, with ammonia molecules. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. AgCl + 2NH₃ → [Ag(NH₃)₂]⁺ + Cl⁻. The complex is stable and keeps silver in solution.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cf0bb5dc246ae714bea1cbe7052b621be170d7b8f360121be99e54cbb0e07a38",
+    "question_skeleton": "assertion a white agcl precipitate dissolves in dilute ammonium hydroxide solution reason r silver ions form a soluble diamminesilver i complex cation ag nh with ammonia molecules choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_38_589f0c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Why lead sulphate cannot be prepared by titration",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Lead sulphate is prepared by precipitation rather than by titration. **Reason (R):** Both lead oxide and lead sulphate are insoluble in water, making titration impossible. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Titration requires a soluble base and acid. Insoluble salts are always prepared by mixing two soluble salt solutions (precipitation).",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "39624853b3f9b6a59cbd7b277e86a00132e9e58c3febb44db4b25150dfcdc35d",
+    "question_skeleton": "assertion a lead sulphate is prepared by precipitation rather than by titration reason r both lead oxide and lead sulphate are insoluble in water making titration impossible choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_39_3e1675",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Colour of hydrated copper ions",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Anhydrous copper sulphate is white, but its aqueous solution is blue. **Reason (R):** In water, copper(II) ions form hydrated hexaaqua complexes [Cu(H₂O)₆]²⁺ that absorb orange-red light and transmit blue light. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Water ligand coordination causes crystal field splitting in the d-orbitals of Cu²⁺, resulting in d-d electronic transitions that impart a blue color.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c6a17cbc20e22727bd134b0d6dea5b0736386fc7bdb0b5dbaa29d282dd7d4bb6",
+    "question_skeleton": "assertion a anhydrous copper sulphate is white but its aqueous solution is blue reason r in water copper ii ions form hydrated hexaaqua complexes cu h o that absorb orange red light and transmit blue light choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_analytical_chemistry_40_d26c59",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Analytical Chemistry",
+    "title": "Assertion–Reason: Aluminium hydroxide amphoteric solubility",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Aluminium hydroxide dissolves in excess ammonium hydroxide solution. **Reason (R):** Aluminium hydroxide is an amphoteric hydroxide. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false; Al(OH)₃ does NOT dissolve in excess NH₄OH (it only dissolves in excess NaOH). Reason is true; Al(OH)₃ is amphoteric, but NH₄OH is too weak a base to form the aluminate ion.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical chemistry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a7382c1a3e39a412bf831f95059533d061a5311a5d7c29863419a976ae5d2b50",
+    "question_skeleton": "assertion a aluminium hydroxide dissolves in excess ammonium hydroxide solution reason r aluminium hydroxide is an amphoteric hydroxide choose the correct option"
+  }
+]

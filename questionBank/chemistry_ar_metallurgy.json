@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_metallurgy_1_9e9a8a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Minerals vs Ores",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** All ores are minerals, but all minerals are not ores. **Reason (R):** An ore is a mineral from which a metal can be extracted economically, profitably, and conveniently. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason correctly explains Assertion. Bauxite and clay both contain aluminium, but aluminium is extracted only from bauxite commercially.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "39527eada0dff0fb1cd9329a85de1f47c0b281d3680abf30e77ed9ca59219c9d",
+    "question_skeleton": "assertion a all ores are minerals but all minerals are not ores reason r an ore is a mineral from which a metal can be extracted economically profitably and conveniently choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_2_84a5d6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Bauxite as chief ore of aluminium",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Bauxite (Al₂O₃·2H₂O) is the principal ore used for the industrial extraction of aluminium. **Reason (R):** Bauxite contains a high percentage of aluminium and allows economically viable extraction unlike other aluminosilicates like clay. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason is the correct explanation. Clay contains aluminium but extraction is economically unfeasible due to complex aluminosilicate bonds.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "77257ff5a819c50c3a1f1ee24bb52da295b2f407fa3843e0457b11017292ddeb",
+    "question_skeleton": "assertion a bauxite al o h o is the principal ore used for the industrial extraction of aluminium reason r bauxite contains a high percentage of aluminium and allows economically viable extraction unlike other aluminosilicates like clay choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_3_c693ce",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Gravity separation for sulphide ores",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Sulphide ores like zinc blende are concentrated primarily by the gravity separation method. **Reason (R):** Sulphide ores are lighter than gangue and are preferentially wetted by pine oil in the froth floatation process. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false, but Reason is true. Sulphide ores are concentrated by froth floatation, not gravity separation, because pine oil preferentially wets sulphide particles.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "46945366bf3c6bd2809e51a7d323fdb05a8a2f51944d8c35d369aa009332bc48",
+    "question_skeleton": "assertion a sulphide ores like zinc blende are concentrated primarily by the gravity separation method reason r sulphide ores are lighter than gangue and are preferentially wetted by pine oil in the froth floatation process choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_4_aad133",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Froth floatation principle",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Froth floatation is based on the difference in wetting characteristics of ore and gangue particles. **Reason (R):** Pine oil preferentially wets sulphide ore particles making them hydrophobic, while water wets siliceous gangue particles. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason correctly explains the principle of froth floatation used for sulphide ores like ZnS, CuFeS₂, and PbS.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dda6d5a64b5c15dff3b9b01753e1d261e4cc0662c0fae0692e8469f1947e61bf",
+    "question_skeleton": "assertion a froth floatation is based on the difference in wetting characteristics of ore and gangue particles reason r pine oil preferentially wets sulphide ore particles making them hydrophobic while water wets siliceous gangue particles choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_5_c1ea03",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Magnetic separation of haematite",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Magnetic separation can be used to concentrate magnetic iron ores containing non-magnetic siliceous impurities. **Reason (R):** Haematite or magnetite is attracted by the magnetic roller while non-magnetic siliceous gangue falls vertically away. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The difference in magnetic susceptibility separates magnetic ores from non-magnetic gangue particles.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "36db2051900981fcd1a5bb3c749542fa1c49cf91083f96e283796f84bb9d353c",
+    "question_skeleton": "assertion a magnetic separation can be used to concentrate magnetic iron ores containing non magnetic siliceous impurities reason r haematite or magnetite is attracted by the magnetic roller while non magnetic siliceous gangue falls vertically away choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_6_b64994",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Roasting of zinc blende",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Zinc blende (ZnS) is roasted in excess air prior to reduction. **Reason (R):** Roasting converts zinc sulphide into zinc oxide, which can be readily reduced to metal by carbon. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 2ZnS + 3O₂ → 2ZnO + 2SO₂. Sulphides are harder to reduce directly with carbon, so converting to oxide is essential.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "39c157c3d52c00e7d0724d337a09447bc8aeb10fe63c4f521f5dab2124f5c7f8",
+    "question_skeleton": "assertion a zinc blende zns is roasted in excess air prior to reduction reason r roasting converts zinc sulphide into zinc oxide which can be readily reduced to metal by carbon choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_7_cdf1bd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Calcination of calamine",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Calamine (ZnCO₃) is subjected to calcination rather than roasting. **Reason (R):** Calcination decomposes carbonate ores into metal oxides with the expulsion of carbon dioxide in the absence or limited supply of air. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. ZnCO₃ → ZnO + CO₂↑. Carbonate ores require heating in absence of air (calcination) to drive off CO₂.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "feb758892a616efcddfa237e1b7dcf37a4d01c7eaae053899590ff4ab18c742e",
+    "question_skeleton": "assertion a calamine znco is subjected to calcination rather than roasting reason r calcination decomposes carbonate ores into metal oxides with the expulsion of carbon dioxide in the absence or limited supply of air choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_8_bb7a81",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Calcination temperature and pore formation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Calcination expels moisture and volatile organic matter, making the ore porous and easier to reduce. **Reason (R):** Calcination is carried out at temperatures well above the melting point of the metal ore to fuse all particles together. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Assertion is true, but Reason is false. Calcination and roasting are always carried out below the melting point of the ore so that it remains porous and does not melt or fuse.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f8735da4d1d9e54726a7af1ae68acf39a91d4435e536fabb78a191172001a818",
+    "question_skeleton": "assertion a calcination expels moisture and volatile organic matter making the ore porous and easier to reduce reason r calcination is carried out at temperatures well above the melting point of the metal ore to fuse all particles together choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_9_9808dd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Reduction of aluminium oxide with carbon",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Aluminium metal cannot be extracted from alumina by reduction with carbon or coke in a blast furnace. **Reason (R):** Aluminium has a very high chemical affinity for oxygen and forms aluminium carbide at extremely high temperatures instead of metal. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Al sits high in the reactivity series; its strong affinity for oxygen makes carbon reduction impossible at normal reduction temperatures.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f47dbabaa741e22a39b68e130ca1e062ca895c6e4e184008776973b0f2375a2d",
+    "question_skeleton": "assertion a aluminium metal cannot be extracted from alumina by reduction with carbon or coke in a blast furnace reason r aluminium has a very high chemical affinity for oxygen and forms aluminium carbide at extremely high temperatures instead of metal choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_10_640347",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Electrolytic reduction for highly electropositive metals",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Reactive metals like K, Na, Ca, Mg, and Al are extracted exclusively by electrolytic reduction of their fused compounds. **Reason (R):** These electropositive metals have a higher affinity for oxygen than carbon does, so carbon cannot reduce their oxides. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason correctly explains why electrolytic reduction is mandated for Group 1, Group 2, and Group 13 reactive metals.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a52178dbee09da2be0997240c5287f49ccd8500446d67b932fe8a92e130e9e39",
+    "question_skeleton": "assertion a reactive metals like k na ca mg and al are extracted exclusively by electrolytic reduction of their fused compounds reason r these electropositive metals have a higher affinity for oxygen than carbon does so carbon cannot reduce their oxides choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_11_3f9307",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Aqueous solution in aluminium extraction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Aluminium metal is commercially extracted by the electrolysis of an aqueous solution of aluminium sulphate. **Reason (R):** In an aqueous solution of aluminium salts, H⁺ ions from water are discharged at the cathode in preference to Al³⁺ ions because hydrogen has a higher discharge potential. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false, but Reason is true. Aluminium cannot be extracted from aqueous solution because H⁺ ions are discharged preferentially at cathode, evolving H₂ gas instead of Al.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b7cfef07b49cf2a9282a1fc8f91389494ad204c92c7c333ca73b1f621568c7af",
+    "question_skeleton": "assertion a aluminium metal is commercially extracted by the electrolysis of an aqueous solution of aluminium sulphate reason r in an aqueous solution of aluminium salts h ions from water are discharged at the cathode in preference to al ions because hydrogen has a higher discharge potential choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_12_36375e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Baeyer process digestion with NaOH",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In Baeyer's process, finely powdered bauxite is digested with concentrated NaOH solution at 150°C–200°C under pressure. **Reason (R):** Aluminium oxide is an amphoteric oxide that dissolves in hot concentrated NaOH to form soluble sodium aluminate, leaving insoluble basic impurities behind. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Al₂O₃·2H₂O + 2NaOH → 2NaAlO₂ + 3H₂O. The amphoteric property allows selective dissolution of aluminium.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "942c4ee1304935ea09405cce5da4bebfbbeeef4278f3af078b796a291eddbf85",
+    "question_skeleton": "assertion a in baeyer s process finely powdered bauxite is digested with concentrated naoh solution at # c # c under pressure reason r aluminium oxide is an amphoteric oxide that dissolves in hot concentrated naoh to form soluble sodium aluminate leaving insoluble basic impurities behind choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_13_3c9237",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Red mud in Baeyer process",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Red mud residue formed during Baeyer's process consists mainly of iron(III) oxide and silica. **Reason (R):** Iron(III) oxide is an amphoteric oxide that dissolves readily in boiling sodium hydroxide solution. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Assertion is true, but Reason is false. Fe₂O₃ is a basic oxide and remains completely insoluble in NaOH, which is why it separates out as insoluble red mud.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1a02e7b9c4cf0b036385181f2a50587db44498d040890dda027e538f6e9b2b37",
+    "question_skeleton": "assertion a red mud residue formed during baeyer s process consists mainly of iron iii oxide and silica reason r iron iii oxide is an amphoteric oxide that dissolves readily in boiling sodium hydroxide solution choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_14_007854",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Dilution and seeding of sodium aluminate",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The clear sodium aluminate filtrate is diluted with water and seeded with freshly precipitated Al(OH)₃ crystals. **Reason (R):** Seeding lowers the activation energy and provides nucleation sites to hydrolyse sodium aluminate and precipitate aluminium hydroxide. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. NaAlO₂ + 2H₂O → NaOH + Al(OH)₃↓. Fresh Al(OH)₃ seeds induce rapid precipitation of gelatinous aluminium hydroxide.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e7753e9dd158d09dc7e16c836e894a1702f370326dcb30648c7a84f9c2075b07",
+    "question_skeleton": "assertion a the clear sodium aluminate filtrate is diluted with water and seeded with freshly precipitated al oh crystals reason r seeding lowers the activation energy and provides nucleation sites to hydrolyse sodium aluminate and precipitate aluminium hydroxide choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_15_772427",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Calcination of aluminium hydroxide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Precipitated aluminium hydroxide is heated strongly at about 1000°C in a rotary kiln to obtain pure anhydrous alumina. **Reason (R):** Strong heating decomposes aluminium hydroxide into pure Al₂O₃ while driving off chemically combined water. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 2Al(OH)₃ → Al₂O₃ + 3H₂O↑. The process yields pure, dry anhydrous alumina required for the Hall-Héroult cell.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e52a90161f6a8a455727e0ff10874924ee2411e15db862ef7924a0e12ebf4b88",
+    "question_skeleton": "assertion a precipitated aluminium hydroxide is heated strongly at about # c in a rotary kiln to obtain pure anhydrous alumina reason r strong heating decomposes aluminium hydroxide into pure al o while driving off chemically combined water choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_16_4c3e09",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Addition of cryolite in Hall-Heroult cell",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Cryolite (Na₃AlF₆) is added to molten alumina in the Hall-Héroult electrolytic process. **Reason (R):** Cryolite lowers the melting point of pure alumina from ~2050°C to ~950°C and acts as a solvent that enhances electrical conductivity. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Pure alumina melts at 2050°C and conducts electricity poorly; cryolite drastically reduces operating temperature and increases conductivity.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dce131723a4f7a0fa546ef925f9671426622e4e44eb494bdeae4feea404f925c",
+    "question_skeleton": "assertion a cryolite na alf is added to molten alumina in the hall h roult electrolytic process reason r cryolite lowers the melting point of pure alumina from # c to # c and acts as a solvent that enhances electrical conductivity choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_17_b1020c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Role of fluorspar in Hall-Heroult process",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Fluorspar (CaF₂) is added along with cryolite to the electrolytic bath in Hall-Héroult process. **Reason (R):** Fluorspar further decreases the melting point of the mixture and increases its mobility and fluidity. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Addition of fluorspar (CaF₂) lowers melting point, increases fluidity, and aids electrical conductivity of the molten electrolyte.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "840af084a89311e0f16ba66f8186e4809934ae9e2d2b20d8d8236de09e211d22",
+    "question_skeleton": "assertion a fluorspar caf is added along with cryolite to the electrolytic bath in hall h roult process reason r fluorspar further decreases the melting point of the mixture and increases its mobility and fluidity choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_18_2b6e85",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Powdered coke layer on electrolyte",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A layer of powdered coke is sprinkled over the surface of the molten electrolytic bath in the Hall-Héroult cell. **Reason (R):** Powdered coke acts as a thermal insulator to prevent heat loss by radiation and prevents the carbon anode from burning in atmospheric oxygen. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The coke layer keeps the temperature uniform by minimizing radiation losses and shields the carbon rods from open air combustion.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cb5b0cd67aee397a5bcdbb9ba08ca1c43573384314425c9c4e38cade0fd56528",
+    "question_skeleton": "assertion a a layer of powdered coke is sprinkled over the surface of the molten electrolytic bath in the hall h roult cell reason r powdered coke acts as a thermal insulator to prevent heat loss by radiation and prevents the carbon anode from burning in atmospheric oxygen choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_19_6c19ca",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Periodic replacement of carbon anodes",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the Hall-Héroult process, the graphite anodes must be replaced periodically. **Reason (R):** Oxygen gas evolved at the anode reacts with the hot carbon rods at ~950°C to form carbon monoxide and carbon dioxide, consuming the anodes. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 2O²⁻ - 4e⁻ → O₂; C + O₂ → CO₂ and 2C + O₂ → 2CO. Anodes oxidize and wear away continuously.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0dae8f529e42fb1d8f55746847aede99b6b838853be74a3bf3ff9d9521e878d6",
+    "question_skeleton": "assertion a in the hall h roult process the graphite anodes must be replaced periodically reason r oxygen gas evolved at the anode reacts with the hot carbon rods at # c to form carbon monoxide and carbon dioxide consuming the anodes choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_20_2271fd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Cathode reaction in Hall-Heroult cell",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the Hall-Héroult cell, molten aluminium metal is discharged and collects at the cathode. **Reason (R):** Al³⁺ ions migrate to the carbon-lined cathode where they gain three electrons each and are reduced to molten aluminium metal. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Al³⁺ + 3e⁻ → Al(l). Molten aluminium is heavier than the fused electrolyte and sinks to the bottom.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8a77e3d2edf1551ae4f7b41fbba89aa58db67330cbf3a7457c44284e8f0e0184",
+    "question_skeleton": "assertion a in the hall h roult cell molten aluminium metal is discharged and collects at the cathode reason r al ions migrate to the carbon lined cathode where they gain three electrons each and are reduced to molten aluminium metal choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_21_ebeb19",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Collection of molten aluminium",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Molten aluminium collects at the bottom of the Hall-Héroult cell rather than floating to the surface. **Reason (R):** Molten aluminium has a higher density than the molten mixture of cryolite, fluorspar, and alumina. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The density of molten aluminium (~2.3 g/cm³) is greater than the molten electrolyte (~2.1 g/cm³), preventing oxidation by surface air.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ff08a3333fad65787c7ebb77197aa74b46d6e4839e4a9dbee87e4842c8a2a5b2",
+    "question_skeleton": "assertion a molten aluminium collects at the bottom of the hall h roult cell rather than floating to the surface reason r molten aluminium has a higher density than the molten mixture of cryolite fluorspar and alumina choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_22_0f9ae9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Reduction of zinc oxide by coke",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Zinc oxide is reduced to zinc metal by heating with crushed coke in vertical retorts at around 1400°C. **Reason (R):** Carbon has a higher reducing power than zinc at elevated temperatures, reducing ZnO to zinc vapor and carbon monoxide. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. ZnO + C → Zn(g) + CO. The reaction occurs at ~1400°C and zinc boils at 907°C, distilling over as vapor.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2dc348ca992abfc6500e9942ad4b6c8e28a8b6eda42d04aa5afe8c4ec396bae7",
+    "question_skeleton": "assertion a zinc oxide is reduced to zinc metal by heating with crushed coke in vertical retorts at around # c reason r carbon has a higher reducing power than zinc at elevated temperatures reducing zno to zinc vapor and carbon monoxide choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_23_e35341",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Rapid condensation of zinc vapor",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Zinc vapor emerging from the reduction retort must be rapidly condensed without coming into contact with air. **Reason (R):** If zinc vapor encounters atmospheric oxygen or carbon dioxide at high temperatures, it is instantly re-oxidised back to zinc oxide. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Zn + CO₂ ⇌ ZnO + CO is reversible at high temperatures; rapid chilling prevents zinc from turning back into blue powder or ZnO.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "30fe4fc45fb050dec30fb153a0436a988b61519052cd4f9cd2db668ba6695848",
+    "question_skeleton": "assertion a zinc vapor emerging from the reduction retort must be rapidly condensed without coming into contact with air reason r if zinc vapor encounters atmospheric oxygen or carbon dioxide at high temperatures it is instantly re oxidised back to zinc oxide choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_24_f24281",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Composition of spelter",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Spelter obtained directly from zinc condensation is an impure form of zinc. **Reason (R):** Spelter contains small percentages of impurities such as lead, cadmium, and iron. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both Assertion and Reason are true, but Reason is a factual description of the impurities rather than an explanation of the metallurgical origin of the term.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8d2939462540b8f234bd446b0eb7c1cd254a071aa2395d5f82ea3e927e096731",
+    "question_skeleton": "assertion a spelter obtained directly from zinc condensation is an impure form of zinc reason r spelter contains small percentages of impurities such as lead cadmium and iron choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_25_f68fc0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Thermal extraction of mercury from cinnabar",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Mercury is extracted from cinnabar (HgS) simply by roasting in air without using carbon as a reducing agent. **Reason (R):** Mercury is very low in the electrochemical series and its oxide (HgO) is thermally unstable, decomposing into mercury metal and oxygen upon heating. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 2HgS + 3O₂ → 2HgO + 2SO₂; 2HgO → 2Hg + O₂. Due to weak metal-oxygen affinity, heat alone reduces it.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "50432de1067744dc362d68454f987b9707cd546620f6742d22132dacf98f028f",
+    "question_skeleton": "assertion a mercury is extracted from cinnabar hgs simply by roasting in air without using carbon as a reducing agent reason r mercury is very low in the electrochemical series and its oxide hgo is thermally unstable decomposing into mercury metal and oxygen upon heating choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_26_6d1d6b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Addition of limestone in blast furnace",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Limestone (CaCO₃) is added as a flux along with haematite and coke in the blast furnace. **Reason (R):** Limestone decomposes to form basic calcium oxide, which reacts with acidic silica gangue to form easily fusible calcium silicate slag. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. CaCO₃ → CaO + CO₂; CaO + SiO₂ → CaSiO₃ (slag). Flux removes non-fusible gangue as fusible slag.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "78594a35fe61f486136be2282f5a458d860d0795573b7e04e1a492aa63c50147",
+    "question_skeleton": "assertion a limestone caco is added as a flux along with haematite and coke in the blast furnace reason r limestone decomposes to form basic calcium oxide which reacts with acidic silica gangue to form easily fusible calcium silicate slag choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_27_61d19f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: CO as main reducing agent in blast furnace",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the upper reduction zone of a blast furnace, carbon monoxide is the primary reducing agent for haematite. **Reason (R):** Carbon monoxide is a gas that can penetrate porous lumps of haematite ore much more effectively than solid coke at lower temperatures. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Fe₂O₃ + 3CO → 2Fe + 3CO₂ at 400°C–700°C. Gaseous CO provides intimate surface contact with ore.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d390284ad3cb46513f1d8ea33f3569fe5a993c1cf2b06d16d9730ed3e91c79af",
+    "question_skeleton": "assertion a in the upper reduction zone of a blast furnace carbon monoxide is the primary reducing agent for haematite reason r carbon monoxide is a gas that can penetrate porous lumps of haematite ore much more effectively than solid coke at lower temperatures choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_28_65a4a2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Slag floating over molten iron",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the blast furnace hearth, molten calcium silicate slag forms a distinct layer floating above molten iron. **Reason (R):** Molten slag is less dense than molten iron and protects the reduced liquid iron from being re-oxidised by the incoming air blast. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason correctly explains the physical position and protective chemical function of the slag layer.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "905892b66ad691aae97ade009312823498114fbf0086d67990be650768ed9f91",
+    "question_skeleton": "assertion a in the blast furnace hearth molten calcium silicate slag forms a distinct layer floating above molten iron reason r molten slag is less dense than molten iron and protects the reduced liquid iron from being re oxidised by the incoming air blast choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_29_3f3105",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Wrought iron purity vs pig iron",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Wrought iron is the purest commercial form of iron, containing less than 0.25% carbon. **Reason (R):** Pig iron contains the lowest carbon percentage among commercial forms of iron and is exceptionally malleable. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Assertion is true, but Reason is false. Pig iron has the highest carbon content (3%–4%) making it hard and brittle, whereas wrought iron has the lowest (<0.25%).",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bc9ebf1bde148d52a4a69704a9c419fd2786402a303d3b568e14ac16b2bd3e97",
+    "question_skeleton": "assertion a wrought iron is the purest commercial form of iron containing less than # carbon reason r pig iron contains the lowest carbon percentage among commercial forms of iron and is exceptionally malleable choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_30_5c94f0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Tensile strength and hardness of alloys",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An alloy usually has higher tensile strength and greater hardness than its primary constituent metal. **Reason (R):** An alloy is a homogeneous mixture of two or more metals, or a metal with a non-metal, prepared in molten state. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both Assertion and Reason are true, but Reason is merely the definition of an alloy. The real cause for increased hardness is lattice distortion caused by different atomic radii preventing slip planes.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6f6beae24e8e6edbba56e0c4d87616d0055ef0db7c5f93a412353d62808f0361",
+    "question_skeleton": "assertion a an alloy usually has higher tensile strength and greater hardness than its primary constituent metal reason r an alloy is a homogeneous mixture of two or more metals or a metal with a non metal prepared in molten state choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_31_c52b11",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Duralumin in aircraft construction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Duralumin is widely used in the construction of aircraft bodies and frames. **Reason (R):** Duralumin (an alloy of Al, Cu, Mg, and Mn) combines low density with high tensile strength and superior corrosion resistance. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Pure aluminium is too soft; alloying it with Cu, Mg, Mn provides the structural rigidity and lightness required for aerospace frames.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "813d2c025521ae32eb53fa4d65cc42b43be2e63de25fa6855ad0c67e44fea973",
+    "question_skeleton": "assertion a duralumin is widely used in the construction of aircraft bodies and frames reason r duralumin an alloy of al cu mg and mn combines low density with high tensile strength and superior corrosion resistance choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_32_be6fe6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Magnalium for precision balances",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Magnalium is used for manufacturing scientific instruments and precision beam balances. **Reason (R):** Magnalium (95% Al, 5% Mg) is light, hard, corrosion-resistant, and takes a high mirror-like polish. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Its lightweight nature combined with dimensional stability and resistance to corrosion makes it ideal for analytical balances.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5645569b4f05497ee50ec89f8d0b6ea15a289fdcf3b2769b92e394c5d2eeb192",
+    "question_skeleton": "assertion a magnalium is used for manufacturing scientific instruments and precision beam balances reason r magnalium # al # mg is light hard corrosion resistant and takes a high mirror like polish choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_33_0fd5aa",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Brass vs Bronze composition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Brass is an alloy of copper and zinc, whereas bronze is an alloy of copper and tin. **Reason (R):** Zinc has a higher atomic mass than tin, imparting significantly higher density to brass. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Assertion is true, but Reason is false. Zinc has an atomic mass of 65.4 u, while tin (Sn) has an atomic mass of 118.7 u, so tin is heavier than zinc.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3d65396cdd2964082a29a67a37c66a486e429821f46c3a33604ccab3b5e79a83",
+    "question_skeleton": "assertion a brass is an alloy of copper and zinc whereas bronze is an alloy of copper and tin reason r zinc has a higher atomic mass than tin imparting significantly higher density to brass choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_34_989713",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Low melting point of solder",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Solder (an alloy of lead and tin) is widely used for fusing and joining electrical wires. **Reason (R):** Solder has a lower melting point than either of its constituent metals (lead and tin), enabling it to melt easily without damaging copper circuits. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The eutectic mixture of 50% Pb and 50% Sn melts at ~183°C, which is significantly lower than pure lead (327°C) or tin (232°C).",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "00d0852a20da8cf57f36ae37a92847a919a3fa8cfcc530cc64e0e28a7ddd9b1d",
+    "question_skeleton": "assertion a solder an alloy of lead and tin is widely used for fusing and joining electrical wires reason r solder has a lower melting point than either of its constituent metals lead and tin enabling it to melt easily without damaging copper circuits choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_35_767cfb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Stainless steel corrosion resistance",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Stainless steel does not rust when exposed to moisture and atmospheric oxygen. **Reason (R):** Chromium present in stainless steel forms an invisible, self-healing, adherent passive layer of chromium(III) oxide that prevents oxidation of iron. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The presence of ~18% chromium forms a microscopic passivating oxide barrier that stops oxygen and water from attacking iron.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c7bb4ac8468c932a04314eec918595af58602d9b858b01ffee4ab85399c4cb1d",
+    "question_skeleton": "assertion a stainless steel does not rust when exposed to moisture and atmospheric oxygen reason r chromium present in stainless steel forms an invisible self healing adherent passive layer of chromium iii oxide that prevents oxidation of iron choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_36_9735e7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Amalgam formation with iron",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Liquid mercury is transported and stored in iron flasks. **Reason (R):** Iron does not form an amalgam with mercury, preventing corrosion or dissolution of the container. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Most metals form amalgams with mercury, but iron, platinum, and cobalt do not dissolve in mercury, making iron bottles ideal storage.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8b47093b20c9f115c20d321acd781fa905dd5ba735fb725ad8858fea52d05583",
+    "question_skeleton": "assertion a liquid mercury is transported and stored in iron flasks reason r iron does not form an amalgam with mercury preventing corrosion or dissolution of the container choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_37_deea95",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Cast iron brittleness",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Cast iron cannot be welded or forged into shapes by hammering. **Reason (R):** Cast iron contains around 3% to 4% carbon and impurities, making it hard and brittle. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The high percentage of carbon present in cast iron as graphite or cementite causes it to shatter under tension or impact rather than deform.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "33a72031229f5fb8c4676536654af6431fef4fe5144fc9eb43b44d469e07c374",
+    "question_skeleton": "assertion a cast iron cannot be welded or forged into shapes by hammering reason r cast iron contains around # to # carbon and impurities making it hard and brittle choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_38_e8ddac",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Electrolytic refining of copper",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the electrolytic refining of blister copper, the anode is made of impure copper and the cathode of pure copper. **Reason (R):** Copper atoms at the anode lose electrons to form Cu²⁺ ions in solution, which migrate to the cathode and deposit as pure copper metal. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Impure copper anode dissolves (Cu → Cu²⁺ + 2e⁻) and pure copper deposits on cathode (Cu²⁺ + 2e⁻ → Cu).",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8edc6f63778cdadcbeb96a8609065077326e03db7141220da0f7acdefed8a810",
+    "question_skeleton": "assertion a in the electrolytic refining of blister copper the anode is made of impure copper and the cathode of pure copper reason r copper atoms at the anode lose electrons to form cu ions in solution which migrate to the cathode and deposit as pure copper metal choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_39_86e947",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Anode mud in copper refining",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Anode mud collected at the bottom of the copper refining cell contains precious metals like silver, gold, and platinum. **Reason (R):** Silver and gold are less electropositive than copper and do not ionise at the operating cell voltage, settling down as insoluble sludge. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Metals below copper in the electrochemical series do not lose electrons at the anode potential and precipitate as valuable anode slime.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "57a5d4c9d5fae72bb4b6e12ba0563064a7798a6d7cc4716e3c2e267d58ea0e4a",
+    "question_skeleton": "assertion a anode mud collected at the bottom of the copper refining cell contains precious metals like silver gold and platinum reason r silver and gold are less electropositive than copper and do not ionise at the operating cell voltage settling down as insoluble sludge choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_metallurgy_40_f561a7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Metallurgy",
+    "title": "Assertion–Reason: Hoopes process three liquid layers",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the Hoopes electrolytic process for refining aluminium, three distinct liquid layers remain separate without mixing. **Reason (R):** The three layers have different densities: bottom layer of heavy molten impure Al-Cu alloy, middle layer of molten fluorides, and top layer of pure molten aluminium having the lowest density. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Due to density gradation, pure aluminium stays at the top layer and can be drawn off continuously.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "79411041f68fa42afed9aad6117c478cb60d1056fec21d3f668872983da773a6",
+    "question_skeleton": "assertion a in the hoopes electrolytic process for refining aluminium three distinct liquid layers remain separate without mixing reason r the three layers have different densities bottom layer of heavy molten impure al cu alloy middle layer of molten fluorides and top layer of pure molten aluminium having the lowest density choose the correct option"
+  }
+]

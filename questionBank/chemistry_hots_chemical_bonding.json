@@ -1,0 +1,1352 @@
+[
+  {
+    "globalId": "qb_hots_chemical_bonding_1_ph090",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Calcium oxide: distinguishing transfer from sharing",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 125\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"8\" y=\"18\" width=\"100\" height=\"42\" rx=\"9\" fill=\"#FFEDD5\" stroke=\"#EA580C\" strokeWidth=\"2\"/>\n    <text x=\"58\" y=\"35\" fontSize=\"13\" textAnchor=\"middle\" fontWeight=\"bold\" fill=\"#9A3412\">Ca × ×</text>\n    <text x=\"58\" y=\"49\" fontSize=\"10\" textAnchor=\"middle\" fill=\"#9A3412\">2 outer e⁻</text>\n    <rect x=\"212\" y=\"18\" width=\"100\" height=\"42\" rx=\"9\" fill=\"#DBEAFE\" stroke=\"#2563EB\" strokeWidth=\"2\"/>\n    <text x=\"262\" y=\"35\" fontSize=\"13\" textAnchor=\"middle\" fontWeight=\"bold\" fill=\"#1D4ED8\">O ••••••</text>\n    <text x=\"262\" y=\"49\" fontSize=\"10\" textAnchor=\"middle\" fill=\"#1D4ED8\">6 outer e⁻</text>\n    <path d=\"M111 34 H207\" stroke=\"#DC2626\" strokeWidth=\"2.5\" fill=\"none\"/>\n    <path d=\"M199 28 L208 34 L199 40\" stroke=\"#DC2626\" strokeWidth=\"2.5\" fill=\"none\"/>\n    <text x=\"160\" y=\"25\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#DC2626\">2 e⁻</text>\n    <rect x=\"18\" y=\"82\" width=\"116\" height=\"30\" rx=\"7\" fill=\"#FFEDD5\" stroke=\"#EA580C\"/>\n    <text x=\"76\" y=\"102\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#9A3412\">Ca²⁺</text>\n    <rect x=\"186\" y=\"82\" width=\"116\" height=\"30\" rx=\"7\" fill=\"#DBEAFE\" stroke=\"#2563EB\"/>\n    <text x=\"244\" y=\"102\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#1D4ED8\">O²⁻</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Calcium loses two electrons and oxygen gains two, producing Ca²⁺ and O²⁻."
+      },
+      {
+        "key": "B",
+        "text": "Calcium gains two electrons and oxygen loses two, producing Ca²⁻ and O²⁺."
+      },
+      {
+        "key": "C",
+        "text": "Calcium loses one electron and oxygen gains one, producing Ca⁺ and O⁻."
+      },
+      {
+        "key": "D",
+        "text": "Calcium and oxygen share two pairs, producing a neutral covalent molecule."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Calcium loses its two outer electrons; oxygen gains both to complete its octet. The ions have charges +2 and -2, giving the formula CaO. Option D incorrectly treats the transfer of two electrons as the sharing of two pairs.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "bf4c16d7f7dce31c6620ed3b01762b8ec46004d3cd50af1b92f329f50e7c4cd1",
+    "question_skeleton": "figure calcium atomic number 20 configuration 2 8 8 2 transfers two electrons to oxygen atomic number 8 configuration 2 6 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 125 width 100 xmlns http www w3 org 2000 svg rect x 8 y 18 width 100 height 42 rx 9 fill ffedd5 stroke ea580c strokewidth 2 span ca span span 2 outer e span rect x 212 y 18 width 100 height 42 rx 9 fill dbeafe stroke 2563eb strokewidth 2 span o span span 6 outer e span path d m111 34 h207 stroke dc2626 strokewidth 2 5 fill none path d m199 28 l208 34 l199 40 stroke dc2626 strokewidth 2 5 fill none span 2 e span rect x 18 y 82 width 116 height 30 rx 7 fill ffedd5 stroke ea580c span ca span rect x 186 y 82 width 116 height 30 rx 7 fill dbeafe stroke 2563eb span o span svg div which statement is correct"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_2_5vhv8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Ammonia: identifying the non-bonding pair",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement best accounts for nitrogen's stable outer shell?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 142\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <circle cx=\"160\" cy=\"72\" r=\"27\" fill=\"#DBEAFE\" stroke=\"#2563EB\" strokeWidth=\"2\"/>\n    <text x=\"160\" y=\"77\" textAnchor=\"middle\" fontSize=\"16\" fontWeight=\"bold\" fill=\"#1D4ED8\">N</text>\n    <text x=\"160\" y=\"28\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#7E22CE\">Lone pair</text>\n    <circle cx=\"153\" cy=\"36\" r=\"4\" fill=\"#16803D\"/>\n    <text x=\"163\" y=\"40\" fontSize=\"13\" fill=\"#2563EB\">×</text>\n    <path d=\"M160 44 V45\" stroke=\"#64748B\" strokeWidth=\"1.5\"/>\n    <text x=\"160\" y=\"12\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#7E22CE\">••</text>\n    <path d=\"M137 59 L107 38 M183 59 L213 38 M160 99 V113\" stroke=\"#64748B\" strokeWidth=\"2\"/>\n    <text x=\"93\" y=\"36\" fontSize=\"14\" fontWeight=\"bold\" fill=\"#166534\">H</text>\n    <text x=\"220\" y=\"36\" fontSize=\"14\" fontWeight=\"bold\" fill=\"#166534\">H</text>\n    <text x=\"160\" y=\"132\" fontSize=\"14\" fontWeight=\"bold\" textAnchor=\"middle\" fill=\"#166534\">H</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nitrogen transfers three electrons to hydrogen and forms N³⁺."
+      },
+      {
+        "key": "B",
+        "text": "Nitrogen forms three shared pairs with hydrogen and retains one lone pair, giving it eight electrons around the atom."
+      },
+      {
+        "key": "C",
+        "text": "Nitrogen has five lone pairs and no covalent bonds in NH₃."
+      },
+      {
+        "key": "D",
+        "text": "Nitrogen follows the duplet rule because it forms bonds with hydrogen."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Three N–H bond pairs contribute six electrons around nitrogen, and its lone pair contributes two more. Nitrogen therefore attains an octet. Option A incorrectly describes covalent sharing as electron transfer.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "2ca1acc35e2da65b83a9999ddb54aa9333fec2a09ee873defc74e4e3bea61863",
+    "question_skeleton": "figure nitrogen atomic number 7 configuration 2 5 forms three n h bonds and retains one lone pair div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 142 width 100 xmlns http www w3 org 2000 svg circle cx 160 cy 72 r 27 fill dbeafe stroke 2563eb strokewidth 2 span n span span lone pair span circle cx 153 cy 36 r 4 fill 16803d span span path d m160 44 v45 stroke 64748b strokewidth 1 5 span span path d m137 59 l107 38 m183 59 l213 38 m160 99 v113 stroke 64748b strokewidth 2 span h span span h span span h span svg div which statement best accounts for nitrogen s stable outer shell"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_3_mxm72",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Hydrogen chloride: polar covalent or ionic?",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 110\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"15\" y=\"23\" width=\"100\" height=\"54\" rx=\"12\" fill=\"#DCFCE7\" stroke=\"#16803D\" strokeWidth=\"2\"/>\n    <text x=\"65\" y=\"45\" textAnchor=\"middle\" fontSize=\"15\" fontWeight=\"bold\" fill=\"#166534\">H δ⁺</text>\n    <text x=\"65\" y=\"62\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#166534\">1 electron</text>\n    <rect x=\"205\" y=\"23\" width=\"100\" height=\"54\" rx=\"12\" fill=\"#DBEAFE\" stroke=\"#2563EB\" strokeWidth=\"2\"/>\n    <text x=\"255\" y=\"45\" textAnchor=\"middle\" fontSize=\"15\" fontWeight=\"bold\" fill=\"#1D4ED8\">Cl δ⁻</text>\n    <text x=\"255\" y=\"62\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#1D4ED8\">7 valence e⁻</text>\n    <circle cx=\"145\" cy=\"50\" r=\"5\" fill=\"#16803D\"/>\n    <text x=\"158\" y=\"55\" fontSize=\"16\" fill=\"#2563EB\">×</text>\n    <path d=\"M128 85 H190\" stroke=\"#DC2626\" strokeWidth=\"2\" strokeDasharray=\"4 3\"/>\n    <path d=\"M182 79 L191 85 L182 91\" stroke=\"#DC2626\" strokeWidth=\"2\" fill=\"none\"/>\n    <text x=\"160\" y=\"102\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#DC2626\">Unequal sharing</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "HCl is ionic in the gaseous state because chlorine attracts the shared pair more strongly."
+      },
+      {
+        "key": "B",
+        "text": "HCl is covalent with a polar bond; in water, it ionises to produce mobile ions that conduct electricity."
+      },
+      {
+        "key": "C",
+        "text": "HCl is non-polar because the two atoms share a pair of electrons."
+      },
+      {
+        "key": "D",
+        "text": "HCl conducts electricity as a pure gas because its shared electrons move freely between molecules."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In HCl, the electrons are shared unequally, creating partial charges rather than a full electron transfer. In aqueous solution, HCl forms ions, enabling electrical conduction. Option A confuses bond polarity with ionic bonding.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "b87b0dfcca3687320d49be4a9df1a5f53bfe60adb0e3426f986ea8ff1efbf426",
+    "question_skeleton": "figure hydrogen atomic number 1 and chlorine atomic number 17 share one electron pair chlorine attracts the shared pair more strongly so the bond is polar div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 110 width 100 xmlns http www w3 org 2000 svg rect x 15 y 23 width 100 height 54 rx 12 fill dcfce7 stroke 16803d strokewidth 2 span h span span 1 electron span rect x 205 y 23 width 100 height 54 rx 12 fill dbeafe stroke 2563eb strokewidth 2 span cl span span 7 valence e span circle cx 145 cy 50 r 5 fill 16803d span span path d m128 85 h190 stroke dc2626 strokewidth 2 strokedasharray 4 3 path d m182 79 l191 85 l182 91 stroke dc2626 strokewidth 2 fill none span unequal sharing span svg div which statement is correct"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_4_5v494",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Carbon tetrachloride: polar bonds but a non-polar molecule",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "The drawing is a two-dimensional schematic of the four bonds; the actual molecular arrangement is three-dimensional. Which statement is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 160\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <circle cx=\"160\" cy=\"80\" r=\"23\" fill=\"#DBEAFE\" stroke=\"#2563EB\" strokeWidth=\"2\"/>\n    <text x=\"160\" y=\"85\" textAnchor=\"middle\" fontSize=\"15\" fontWeight=\"bold\" fill=\"#1D4ED8\">C</text>\n    <path d=\"M160 57 V26 M137 80 H96 M183 80 H224 M160 103 V132\" stroke=\"#64748B\" strokeWidth=\"2.5\"/>\n    <rect x=\"132\" y=\"5\" width=\"56\" height=\"25\" rx=\"7\" fill=\"#DCFCE7\" stroke=\"#16803D\"/>\n    <text x=\"160\" y=\"22\" textAnchor=\"middle\" fontSize=\"12\" fontWeight=\"bold\" fill=\"#166534\">Cl δ−</text>\n    <rect x=\"7\" y=\"67\" width=\"88\" height=\"26\" rx=\"7\" fill=\"#DCFCE7\" stroke=\"#16803D\"/>\n    <text x=\"51\" y=\"84\" textAnchor=\"middle\" fontSize=\"12\" fontWeight=\"bold\" fill=\"#166534\">Cl δ−</text>\n    <rect x=\"225\" y=\"67\" width=\"88\" height=\"26\" rx=\"7\" fill=\"#DCFCE7\" stroke=\"#16803D\"/>\n    <text x=\"269\" y=\"84\" textAnchor=\"middle\" fontSize=\"12\" fontWeight=\"bold\" fill=\"#166534\">Cl δ−</text>\n    <rect x=\"132\" y=\"131\" width=\"56\" height=\"25\" rx=\"7\" fill=\"#DCFCE7\" stroke=\"#16803D\"/>\n    <text x=\"160\" y=\"148\" textAnchor=\"middle\" fontSize=\"12\" fontWeight=\"bold\" fill=\"#166534\">Cl δ−</text>\n    <text x=\"160\" y=\"115\" textAnchor=\"middle\" fontSize=\"9\" fill=\"#64748B\">Opposing effects cancel</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "CCl₄ is ionic because chlorine attracts electrons more strongly than carbon."
+      },
+      {
+        "key": "B",
+        "text": "CCl₄ is polar because any molecule containing polar bonds must be polar."
+      },
+      {
+        "key": "C",
+        "text": "CCl₄ is non-polar overall because its symmetrical arrangement cancels the individual bond-polarity effects."
+      },
+      {
+        "key": "D",
+        "text": "CCl₄ has four non-polar C–Cl bonds because all four bonds are identical."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Each C–Cl bond is polar, but the symmetrical arrangement cancels the bond-polarity effects overall. Option B is the trap: molecular polarity depends on the combined effect of its bonds, not merely their individual polarity.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "d949bb45184c04ba4891352f89735a92965d4e888956d97ab8e73762e8b3bbb5",
+    "question_skeleton": "figure carbon atomic number 6 is connected to four chlorine atoms atomic number 17 every c cl bond is polar but the four bond polarity effects cancel in the symmetrical three dimensional molecule div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 160 width 100 xmlns http www w3 org 2000 svg circle cx 160 cy 80 r 23 fill dbeafe stroke 2563eb strokewidth 2 span c span path d m160 57 v26 m137 80 h96 m183 80 h224 m160 103 v132 stroke 64748b strokewidth 2 5 rect x 132 y 5 width 56 height 25 rx 7 fill dcfce7 stroke 16803d span cl span rect x 7 y 67 width 88 height 26 rx 7 fill dcfce7 stroke 16803d span cl span rect x 225 y 67 width 88 height 26 rx 7 fill dcfce7 stroke 16803d span cl span rect x 132 y 131 width 56 height 25 rx 7 fill dcfce7 stroke 16803d span cl span span opposing effects cancel span svg span the drawing is a two dimensional schematic of the four bonds the actual molecular arrangement is three dimensional span div which statement is correct"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_5_d20ym",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Hydronium ion: locating the donor and acceptor",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"9\" y=\"30\" width=\"110\" height=\"70\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" strokeWidth=\"2\"/>\n    <text x=\"64\" y=\"49\" textAnchor=\"middle\" fontSize=\"14\" fontWeight=\"bold\" fill=\"#1D4ED8\">H₂O</text>\n    <text x=\"64\" y=\"69\" textAnchor=\"middle\" fontSize=\"16\" fill=\"#7E22CE\">••</text>\n    <text x=\"64\" y=\"87\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#334155\">Lone pair</text>\n    <rect x=\"143\" y=\"42\" width=\"42\" height=\"44\" rx=\"8\" fill=\"#FFEDD5\" stroke=\"#EA580C\" strokeWidth=\"2\"/>\n    <text x=\"164\" y=\"68\" textAnchor=\"middle\" fontSize=\"14\" fontWeight=\"bold\" fill=\"#9A3412\">H⁺</text>\n    <path d=\"M120 64 H139\" stroke=\"#DC2626\" strokeWidth=\"2.5\"/>\n    <path d=\"M132 58 L140 64 L132 70\" stroke=\"#DC2626\" strokeWidth=\"2.5\" fill=\"none\"/>\n    <rect x=\"204\" y=\"30\" width=\"108\" height=\"70\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#16803D\" strokeWidth=\"2\"/>\n    <text x=\"258\" y=\"51\" textAnchor=\"middle\" fontSize=\"15\" fontWeight=\"bold\" fill=\"#166534\">H₃O⁺</text>\n    <text x=\"258\" y=\"69\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#166534\">3 O–H bonds</text>\n    <text x=\"258\" y=\"85\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#166534\">net charge +1</text>\n    <text x=\"160\" y=\"123\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#334155\">Oxygen supplies the electron pair</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Oxygen donates a lone pair to H⁺, forming H₃O⁺ with three O–H bonds and an overall +1 charge."
+      },
+      {
+        "key": "B",
+        "text": "Hydrogen donates a lone pair to oxygen, producing H₃O⁻."
+      },
+      {
+        "key": "C",
+        "text": "Oxygen loses two lone pairs and forms O²⁺, while the three hydrogens remain neutral."
+      },
+      {
+        "key": "D",
+        "text": "The new bond is ionic because the donated electrons originally belonged to oxygen."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Oxygen donates both electrons of one lone pair to H⁺. The resulting hydronium ion has three O–H bonds and a net positive charge. Option D incorrectly assumes that a coordinate bond becomes ionic merely because both bonding electrons came from one atom.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "c2f11d484480bedb8da3ada737bef4635c23445b657202c2cd724b36f471fae6",
+    "question_skeleton": "figure a water molecule donates one of oxygen s lone pairs to a hydrogen ion oxygen initially has two o h bonds and two lone pairs div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 140 width 100 xmlns http www w3 org 2000 svg rect x 9 y 30 width 110 height 70 rx 10 fill dbeafe stroke 2563eb strokewidth 2 span h o span span span span lone pair span rect x 143 y 42 width 42 height 44 rx 8 fill ffedd5 stroke ea580c strokewidth 2 span h span path d m120 64 h139 stroke dc2626 strokewidth 2 5 path d m132 58 l140 64 l132 70 stroke dc2626 strokewidth 2 5 fill none rect x 204 y 30 width 108 height 70 rx 10 fill dcfce7 stroke 16803d strokewidth 2 span h o span span 3 o h bonds span span net charge 1 span span oxygen supplies the electron pair span svg div which statement is correct"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_6_v1yzw",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Counting coordinate bonds in the formation of ammonium",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement correctly describes the bonding immediately after the formation of NH₄⁺?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 156\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <circle cx=\"160\" cy=\"79\" r=\"22\" fill=\"#DBEAFE\" stroke=\"#2563EB\" strokeWidth=\"2\"/>\n    <text x=\"160\" y=\"84\" textAnchor=\"middle\" fontSize=\"15\" fontWeight=\"bold\" fill=\"#1D4ED8\">N</text>\n    <path d=\"M160 57 V33 M140 89 L113 107 M180 89 L207 107\" stroke=\"#64748B\" strokeWidth=\"2.5\"/>\n    <text x=\"160\" y=\"24\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#166534\">H</text>\n    <text x=\"105\" y=\"120\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#166534\">H</text>\n    <text x=\"215\" y=\"120\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#166534\">H</text>\n    <text x=\"160\" y=\"50\" textAnchor=\"middle\" fontSize=\"9\" fill=\"#64748B\">N–H</text>\n    <path d=\"M183 66 L224 43\" stroke=\"#DC2626\" strokeWidth=\"2.5\"/>\n    <path d=\"M215 42 L225 42 L222 51\" stroke=\"#DC2626\" strokeWidth=\"2.5\" fill=\"none\"/>\n    <text x=\"248\" y=\"39\" textAnchor=\"middle\" fontSize=\"13\" fontWeight=\"bold\" fill=\"#9A3412\">H⁺</text>\n    <text x=\"160\" y=\"145\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#334155\">Three ordinary bonds + one coordinate bond initially</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "There are three covalent bonds and one ionic bond, because H⁺ remains attached by electrostatic attraction alone."
+      },
+      {
+        "key": "B",
+        "text": "One coordinate bond has formed; the ion has four N–H bonds, which are treated as equivalent after formation."
+      },
+      {
+        "key": "C",
+        "text": "All four bonds are coordinate bonds because nitrogen is the central atom."
+      },
+      {
+        "key": "D",
+        "text": "There are two coordinate bonds because nitrogen contributes two electrons to the new bond."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Only one coordinate bond is formed when NH₃ accepts H⁺. Nitrogen supplies the entire electron pair for that bond. After formation, all four N–H bonds in NH₄⁺ are treated as equivalent. Option D confuses the two electrons in one pair with two coordinate bonds.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "02703a058368e6671fb9e4d35203b0b195dcbe22d7293b23416a82bec4cbbac7",
+    "question_skeleton": "figure a diagram shows ammonia combining with one h ion the original three n h bonds are solid lines while the newly formed coordinate bond is a red arrow div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 156 width 100 xmlns http www w3 org 2000 svg circle cx 160 cy 79 r 22 fill dbeafe stroke 2563eb strokewidth 2 span n span path d m160 57 v33 m140 89 l113 107 m180 89 l207 107 stroke 64748b strokewidth 2 5 span h span span h span span h span span n h span path d m183 66 l224 43 stroke dc2626 strokewidth 2 5 path d m215 42 l225 42 l222 51 stroke dc2626 strokewidth 2 5 fill none span h span span three ordinary bonds one coordinate bond initially span svg div which statement correctly describes the bonding immediately after the formation of nh"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_7_c8tbb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Comparing ionic and covalent conductors",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement correctly interprets the result?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Solid NaCl conducts better because its ions are closer together."
+      },
+      {
+        "key": "B",
+        "text": "Both samples conduct only through free electrons, not through ions."
+      },
+      {
+        "key": "C",
+        "text": "Aqueous NaCl is a non-electrolyte because water separates the ions."
+      },
+      {
+        "key": "D",
+        "text": "The solid does not conduct because its ions are fixed; the solution conducts because its ions are mobile."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Ionic compounds conduct in aqueous solution because dissolved ions can move and carry charge. In solid NaCl, ions are fixed in the lattice. Option A confuses the presence of ions with their ability to move.\n\n---\n\n## Section C — Polarity, solubility and molecular structures",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "c7ff6371dc951b7469a7f8794ac27a76c39b3954c3fef6fc0f18ad00621440f2",
+    "question_skeleton": "figure a laboratory compares two samples sample p is solid sodium chloride sample q is an aqueous sodium chloride solution both are connected to identical conductivity testers div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 156 width 100 xmlns http www w3 org 2000 svg rect x 10 y 12 width 140 height 132 rx 10 fill f1f5f9 stroke 94a3b8 strokewidth 1 5 span sample p span span solid nacl span each 0 1 2 as r each 0 1 2 as c circle cx 43 c 30 cy 62 r 20 r 6 fill r c 2 0 2563eb dc2626 each each circle cx 80 cy 122 r 11 fill fee2e2 stroke dc2626 strokewidth 1 5 path d m74 116 l86 128 m86 116 l74 128 stroke dc2626 strokewidth 1 5 rect x 170 y 12 width 140 height 132 rx 10 fill dbeafe stroke 2563eb strokewidth 1 5 span sample q span span aqueous nacl span each 0 1 2 3 as i circle cx 194 i 2 65 cy 65 math floor i 2 25 r 6 fill i 2 0 2563eb dc2626 each circle cx 240 cy 122 r 11 fill dcfce7 stroke 16803d strokewidth 1 5 path d m234 122 l238 126 l246 117 stroke 16803d strokewidth 1 5 fill none svg div which statement correctly interprets the result"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_8_kycd2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Identifying an incorrect electron-dot structure for carbon tetrachloride",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement would make the electron-dot description incorrect?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Each C–Cl bond contains one shared pair."
+      },
+      {
+        "key": "B",
+        "text": "Carbon uses four valence electrons to form four covalent bonds."
+      },
+      {
+        "key": "C",
+        "text": "Each chlorine retains three lone pairs after forming its single bond."
+      },
+      {
+        "key": "D",
+        "text": "Each chlorine forms four shared pairs with carbon, giving carbon sixteen electrons in its outer shell."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Carbon forms four single bonds, giving it an octet. Each chlorine contributes one electron to one shared pair and retains three lone pairs. Option D gives an impossible bond count for the stated CCl₄ structure.\n\n---\n\n## Section D — Comparing compounds and interpreting experimental evidence",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "9933d43813e3059b89e44c876b138cfdbb7de0b66c42d6b1b9035c288dc012bb",
+    "question_skeleton": "figure carbon atomic number 6 is placed at the centre and connected to four chlorine atoms atomic number 17 each chlorine should have three lone pairs div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 166 width 100 xmlns http www w3 org 2000 svg circle cx 160 cy 82 r 21 fill dbeafe stroke 2563eb strokewidth 2 span c span path d m160 61 v39 m139 82 h105 m181 82 h215 m160 103 v127 stroke 64748b strokewidth 2 5 each x 160 y 25 x 90 y 82 x 230 y 82 x 160 y 140 as p circle cx p x cy p y r 13 fill dcfce7 stroke 16803d strokewidth 1 5 span cl span each span 3 lone pairs per cl span span four single c cl bonds span svg div which statement would make the electron dot description incorrect"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_9_9nobb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Distinguishing a coordinate bond from ordinary covalent sharing",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Diagram I — Ordinary covalent bond Diagram II — Coordinate bond Which statement correctly distinguishes the two bonds?",
+    "diagramSvg": "<svg viewBox=\"0 0 280 45\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"64\" cy=\"22\" r=\"18\" fill=\"#DCFCE7\" stroke=\"#16803D\" strokeWidth=\"1.5\"/>\n      <text x=\"64\" y=\"27\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#166534\">A</text>\n      <circle cx=\"216\" cy=\"22\" r=\"18\" fill=\"#F3E8FF\" stroke=\"#9333EA\" strokeWidth=\"1.5\"/>\n      <text x=\"216\" y=\"27\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#7E22CE\">B</text>\n      <circle cx=\"129\" cy=\"22\" r=\"5\" fill=\"#16803D\"/>\n      <text x=\"143\" y=\"27\" fontSize=\"15\" fill=\"#2563EB\">×</text>\n      <path d=\"M86 22 H119 M154 22 H194\" stroke=\"#64748B\" strokeWidth=\"1.5\"/>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both are ionic because the electrons are located between two atoms."
+      },
+      {
+        "key": "B",
+        "text": "Diagram I is coordinate because only one atom attracts the electrons, while Diagram II is ionic because both electrons come from A."
+      },
+      {
+        "key": "C",
+        "text": "Diagram II has two coordinate bonds because two electrons are donated."
+      },
+      {
+        "key": "D",
+        "text": "Diagram I shows one electron from each atom; Diagram II shows a shared pair donated entirely by A to B."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Ordinary covalent bonding involves each atom contributing one electron to the shared pair. In coordinate bonding, one atom supplies both electrons. Option C confuses the two donated electrons with two separate bonds.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "473f26b721ea41fcc14e9785502e9c6bef43e1c77755f047c2e255952dea7c30",
+    "question_skeleton": "figure two diagrams depict a shared electron pair in diagram i each atom contributes one electron in diagram ii both electrons in the pair are supplied by atom a div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span diagram i ordinary covalent bond span svg viewbox 0 0 280 45 width 100 xmlns http www w3 org 2000 svg circle cx 64 cy 22 r 18 fill dcfce7 stroke 16803d strokewidth 1 5 span a span circle cx 216 cy 22 r 18 fill f3e8ff stroke 9333ea strokewidth 1 5 span b span circle cx 129 cy 22 r 5 fill 16803d span span path d m86 22 h119 m154 22 h194 stroke 64748b strokewidth 1 5 svg div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span diagram ii coordinate bond span svg viewbox 0 0 280 45 width 100 xmlns http www w3 org 2000 svg circle cx 64 cy 22 r 18 fill dcfce7 stroke 16803d strokewidth 1 5 span a span circle cx 216 cy 22 r 18 fill f3e8ff stroke 9333ea strokewidth 1 5 span b span circle cx 126 cy 22 r 5 fill 16803d circle cx 140 cy 22 r 5 fill 16803d path d m88 22 h116 m150 22 h193 stroke 64748b strokewidth 1 5 path d m179 15 l193 22 l179 29 stroke dc2626 strokewidth 2 fill none svg div div which statement correctly distinguishes the two bonds"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_10_xnpb1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Evaluating the electron-dot structure of oxygen",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement correctly checks the proposed structure?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 114\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"13\" y=\"12\" width=\"294\" height=\"90\" rx=\"12\" fill=\"#F8FAFC\" stroke=\"#CBD5E1\" strokeWidth=\"1.5\"/>\n    <text x=\"75\" y=\"61\" textAnchor=\"middle\" fontSize=\"19\" fontWeight=\"bold\" fill=\"#166534\">O</text>\n    <text x=\"245\" y=\"61\" textAnchor=\"middle\" fontSize=\"19\" fontWeight=\"bold\" fill=\"#1D4ED8\">O</text>\n    <text x=\"160\" y=\"50\" textAnchor=\"middle\" fontSize=\"16\" fill=\"#16803D\">•×</text>\n    <text x=\"160\" y=\"67\" textAnchor=\"middle\" fontSize=\"16\" fill=\"#2563EB\">•×</text>\n    <text x=\"75\" y=\"30\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#16803D\">••</text>\n    <text x=\"75\" y=\"88\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#16803D\">••</text>\n    <text x=\"245\" y=\"30\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#2563EB\">××</text>\n    <text x=\"245\" y=\"88\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#2563EB\">××</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is incorrect because oxygen can form only a single bond with another oxygen."
+      },
+      {
+        "key": "B",
+        "text": "It is incorrect because each oxygen must have three lone pairs after forming a double bond."
+      },
+      {
+        "key": "C",
+        "text": "It is correct: O₂ has a double bond, four shared electrons and two lone pairs on each oxygen."
+      },
+      {
+        "key": "D",
+        "text": "It is incorrect because the two oxygen atoms must transfer electrons and form O²⁺ and O²⁻."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Each oxygen contributes two electrons to the double bond and retains four non-bonding electrons as two lone pairs. Option B assigns too many lone pairs and would give an incorrect electron count.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "cff1812e900a5eee80160beb10ed76491e0fcb601d3a176e1aefa0433692458b",
+    "question_skeleton": "figure two oxygen atoms each have six valence electrons a proposed diagram shows two shared pairs between them and two lone pairs on each oxygen div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 114 width 100 xmlns http www w3 org 2000 svg rect x 13 y 12 width 294 height 90 rx 12 fill f8fafc stroke cbd5e1 strokewidth 1 5 span o span span o span span span span span span span span span span span span span svg div which statement correctly checks the proposed structure"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_11_mvxzs",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Evaluating statements about ionic compounds",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Consider the following statements: I. Ionic compounds generally have high melting points. II. Solid ionic compounds conduct electricity readily because their ions are mobile. III. Molten ionic compounds can conduct electricity. Which combination is correct? **Reasoning:** Statements I and III are generally correct. Statement II is incorrect because ions in a solid ionic lattice are not free to move throughout the solid.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I and III only"
+      },
+      {
+        "key": "B",
+        "text": "II and III only"
+      },
+      {
+        "key": "C",
+        "text": "I and II only"
+      },
+      {
+        "key": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "3e4563d3d04fe634b6bbded175b65d3740605518d26614f952006687bcb69567",
+    "question_skeleton": "consider the following statements i ionic compounds generally have high melting points ii solid ionic compounds conduct electricity readily because their ions are mobile iii molten ionic compounds can conduct electricity which combination is correct reasoning statements i and iii are generally correct statement ii is incorrect because ions in a solid ionic lattice are not free to move throughout the solid"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_12_vfioo",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Identifying the incorrect statement about ammonium",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement about the ammonium ion, NH₄⁺, is incorrect? **Reasoning:** Ammonium carries a +1 charge. Its formation involves donation of a lone pair from ammonia to H⁺.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It forms when ammonia accepts a hydrogen ion."
+      },
+      {
+        "key": "B",
+        "text": "Nitrogen donates a lone pair during its formation."
+      },
+      {
+        "key": "C",
+        "text": "The resulting ion has four N–H bonds."
+      },
+      {
+        "key": "D",
+        "text": "The ammonium ion has a net charge of -1."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "ff4afbf871d55becadc96ef51dee6006b590079e0d35b66f4fb06966cfe2a28a",
+    "question_skeleton": "which statement about the ammonium ion mathrm nh 4 is incorrect reasoning ammonium carries a 1 charge its formation involves donation of a lone pair from ammonia to mathrm h"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_13_lbrsu",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Identifying the correct overall comparison",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement is the most defensible comparison of ionic and simple molecular covalent compounds? **Reasoning:** Mobile ions are the charge carriers in molten ionic compounds. The other statements make absolute claims that are chemically incorrect.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ionic compounds always dissolve in water, while covalent compounds never do."
+      },
+      {
+        "key": "B",
+        "text": "Ionic compounds generally conduct when molten because of mobile ions; simple molecular covalent compounds generally do not conduct well."
+      },
+      {
+        "key": "C",
+        "text": "Covalent compounds always have higher melting points than ionic compounds."
+      },
+      {
+        "key": "D",
+        "text": "Ionic compounds contain no electrons, while covalent compounds do."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "997031fe7e9712a11d83f615881305292ca6c2ecef176b751a699e291cc3b52e",
+    "question_skeleton": "which statement is the most defensible comparison of ionic and simple molecular covalent compounds reasoning mobile ions are the charge carriers in molten ionic compounds the other statements make absolute claims that are chemically incorrect"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_14_z2ke2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Calcium fluoride: deriving the ionic ratio from the diagram",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which formula and charge balance follow from the diagram?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 142\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"108\" y=\"6\" width=\"104\" height=\"34\" rx=\"8\" fill=\"#FFEDD5\" stroke=\"#EA580C\" strokeWidth=\"2\"/>\n    <text x=\"160\" y=\"28\" textAnchor=\"middle\" fontSize=\"14\" fontWeight=\"bold\" fill=\"#9A3412\">Ca × ×</text>\n    <rect x=\"6\" y=\"99\" width=\"108\" height=\"34\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#16803D\" strokeWidth=\"2\"/>\n    <text x=\"60\" y=\"120\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#166534\">F •••••••</text>\n    <rect x=\"206\" y=\"99\" width=\"108\" height=\"34\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#16803D\" strokeWidth=\"2\"/>\n    <text x=\"260\" y=\"120\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#166534\">F •••••••</text>\n    <path d=\"M135 42 L64 92 M185 42 L256 92\" stroke=\"#DC2626\" strokeWidth=\"2.5\"/>\n    <path d=\"M62 84 L64 93 L73 89 M247 89 L256 93 L258 84\" stroke=\"#DC2626\" strokeWidth=\"2.5\" fill=\"none\"/>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "CaF, because one calcium atom combines with one fluorine atom."
+      },
+      {
+        "key": "B",
+        "text": "CaF₂, because one Ca²⁺ ion balances two F⁻ ions."
+      },
+      {
+        "key": "C",
+        "text": "Ca₂F, because calcium must be present in twice the quantity of fluorine."
+      },
+      {
+        "key": "D",
+        "text": "CaF₃, because calcium has three occupied electron shells."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Calcium forms Ca²⁺ by losing two electrons. Each fluorine gains one electron and forms F⁻. Two fluoride ions are needed per calcium ion, so the formula is CaF₂. Option D confuses the number of occupied shells with valency.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "eeb248852af228d27b098c562b175a2f533842e8adb9e965a2ebc5a99c15d9ff",
+    "question_skeleton": "figure one calcium atom atomic number 20 transfers one electron to each of two fluorine atoms atomic number 9 configuration 2 7 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 142 width 100 xmlns http www w3 org 2000 svg rect x 108 y 6 width 104 height 34 rx 8 fill ffedd5 stroke ea580c strokewidth 2 span ca span rect x 6 y 99 width 108 height 34 rx 8 fill dcfce7 stroke 16803d strokewidth 2 span f span rect x 206 y 99 width 108 height 34 rx 8 fill dcfce7 stroke 16803d strokewidth 2 span f span path d m135 42 l64 92 m185 42 l256 92 stroke dc2626 strokewidth 2 5 path d m62 84 l64 93 l73 89 m247 89 l256 93 l258 84 stroke dc2626 strokewidth 2 5 fill none svg div which formula and charge balance follow from the diagram"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_15_untz1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Aluminium oxide: auditing the charge balance",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which conclusion is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Al₂O₃ is neutral because 2(+3)+3(-2)=0."
+      },
+      {
+        "key": "B",
+        "text": "Al₃O₂ is neutral because the subscripts must equal the ionic charges."
+      },
+      {
+        "key": "C",
+        "text": "AlO is neutral because aluminium and oxygen each form one ion."
+      },
+      {
+        "key": "D",
+        "text": "Al₂O₆ is neutral because six electrons are transferred."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Two Al³⁺ ions contribute +6, and three O²⁻ ions contribute -6. The simplest neutral ratio is 2:3. Option D confuses the six transferred electrons with the number of oxygen atoms.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "eb2dd029dfb8a31b97e752abc978ab59abff36cda8cbded2ee0142192d165025",
+    "question_skeleton": "figure two aluminium atoms each with three valence electrons atomic number 13 transfer six electrons in total to three oxygen atoms each needing two electrons atomic number 8 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 144 width 100 xmlns http www w3 org 2000 svg rect x 8 y 10 width 112 height 34 rx 7 fill ffedd5 stroke ea580c strokewidth 2 span 2 al 3 span path d m124 27 h195 stroke dc2626 strokewidth 2 5 path d m187 21 l196 27 l187 33 stroke dc2626 strokewidth 2 5 fill none span 6 e span rect x 200 y 10 width 112 height 34 rx 7 fill dbeafe stroke 2563eb strokewidth 2 span 3 o 2 span each 0 1 2 as i rect x 12 i 103 y 78 width 91 height 36 rx 7 fill f3e8ff stroke 9333ea strokewidth 1 5 span i 2 al o span each span correct ratio 2 al 3 o span svg div which conclusion is correct"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_16_rjevr",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Inferring the bonding type from an unknown element's position",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which conclusion follows?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 133\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"8\" y=\"15\" width=\"116\" height=\"43\" rx=\"9\" fill=\"#FFEDD5\" stroke=\"#EA580C\" strokeWidth=\"2\"/>\n    <text x=\"66\" y=\"32\" textAnchor=\"middle\" fontSize=\"14\" fontWeight=\"bold\" fill=\"#9A3412\">X (2,8,1)</text>\n    <text x=\"66\" y=\"47\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#9A3412\">Metal-like</text>\n    <rect x=\"196\" y=\"15\" width=\"116\" height=\"43\" rx=\"9\" fill=\"#DBEAFE\" stroke=\"#2563EB\" strokeWidth=\"2\"/>\n    <text x=\"254\" y=\"32\" textAnchor=\"middle\" fontSize=\"14\" fontWeight=\"bold\" fill=\"#1D4ED8\">Y (2,8,7)</text>\n    <text x=\"254\" y=\"47\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#1D4ED8\">Non-metal-like</text>\n    <path d=\"M126 37 H191\" stroke=\"#DC2626\" strokeWidth=\"2.5\"/>\n    <path d=\"M183 31 L192 37 L183 43\" stroke=\"#DC2626\" strokeWidth=\"2.5\" fill=\"none\"/>\n    <text x=\"160\" y=\"27\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#DC2626\">1 e⁻</text>\n    <rect x=\"18\" y=\"81\" width=\"126\" height=\"36\" rx=\"8\" fill=\"#FFEDD5\" stroke=\"#EA580C\"/>\n    <text x=\"81\" y=\"103\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#9A3412\">X⁺</text>\n    <rect x=\"176\" y=\"81\" width=\"126\" height=\"36\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\"/>\n    <text x=\"239\" y=\"103\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#1D4ED8\">Y⁻</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "X and Y form a covalent molecule because both elements have eight electrons after bonding."
+      },
+      {
+        "key": "B",
+        "text": "X becomes X⁻ and Y becomes Y⁺ because the non-metal loses the electron."
+      },
+      {
+        "key": "C",
+        "text": "X and Y form an ionic compound because X loses one electron and Y gains one, producing oppositely charged ions."
+      },
+      {
+        "key": "D",
+        "text": "X and Y cannot form a stable compound because neither atom has a complete shell initially."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "X loses one electron to form X⁺, while Y gains it to form Y⁻. Their opposite charges produce ionic attraction. Option A confuses attaining stable electron configurations with sharing electrons.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "c492fa8a5221f266779ba46f24909a659e9abd3b355547095e5edd451b490bf3",
+    "question_skeleton": "figure an unknown element x has electronic configuration 2 8 1 while element y has configuration 2 8 7 the diagram shows x transferring one electron to y div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 133 width 100 xmlns http www w3 org 2000 svg rect x 8 y 15 width 116 height 43 rx 9 fill ffedd5 stroke ea580c strokewidth 2 span x 2 8 1 span span metal like span rect x 196 y 15 width 116 height 43 rx 9 fill dbeafe stroke 2563eb strokewidth 2 span y 2 8 7 span span non metal like span path d m126 37 h191 stroke dc2626 strokewidth 2 5 path d m183 31 l192 37 l183 43 stroke dc2626 strokewidth 2 5 fill none span 1 e span rect x 18 y 81 width 126 height 36 rx 8 fill ffedd5 stroke ea580c span x span rect x 176 y 81 width 126 height 36 rx 8 fill dbeafe stroke 2563eb span y span svg div which conclusion follows"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_17_n9qjo",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Finding the charge on an ion from electron loss",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A neutral magnesium atom has atomic number 12 and electronic configuration 2,8,2. It loses both electrons from its outermost shell. Which combination correctly gives the ion's charge and total number of electrons remaining?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mg⁺; 11 electrons"
+      },
+      {
+        "key": "B",
+        "text": "Mg²⁺; 10 electrons"
+      },
+      {
+        "key": "C",
+        "text": "Mg²⁻; 14 electrons"
+      },
+      {
+        "key": "D",
+        "text": "Mg²⁺; 12 electrons"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. A neutral Mg atom has 12 protons and 12 electrons.\n2. Losing two electrons leaves 10 electrons.\n3. The 12 protons now exceed the electrons by two, giving Mg²⁺.\n\nOption D confuses the number of protons, which remains 12, with the number of electrons after ion formation.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "18b497c2c688a41ac83795e26a0e281fe371f400702d8eac4e45ce549c70a89c",
+    "question_skeleton": "a neutral magnesium atom has atomic number 12 and electronic configuration 2 8 2 it loses both electrons from its outermost shell which combination correctly gives the ion s charge and total number of electrons remaining"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_18_1von0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "A common misconception about ionic bonds",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement about ionic bonding is incorrect? **Reasoning:** Ionic solids typically form extended lattices. A formula such as NaCl expresses the simplest ion ratio rather than an isolated molecule.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Positive and negative ions attract one another electrostatically."
+      },
+      {
+        "key": "B",
+        "text": "Ionic solids generally contain ions arranged in a lattice."
+      },
+      {
+        "key": "C",
+        "text": "An ionic formula represents the simplest ratio of ions, not necessarily a separate molecule."
+      },
+      {
+        "key": "D",
+        "text": "Every ionic compound exists as a collection of isolated two-ion molecules in the solid state."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "66d69f7c9e1ae854d660726e53d7a1f431137c775cbd4432b2b1d21fa87b6410",
+    "question_skeleton": "which statement about ionic bonding is incorrect reasoning ionic solids typically form extended lattices a formula such as mathrm nacl expresses the simplest ion ratio rather than an isolated molecule"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_19_1ruwo",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Identifying an incorrect electron configuration",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which proposed ion and electronic configuration are incorrectly matched? **Reasoning:** Chlorine has 17 electrons as a neutral atom. The chloride ion has gained one, giving 18 electrons and configuration 2,8,8.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Na⁺: 2,8"
+      },
+      {
+        "key": "B",
+        "text": "Mg²⁺: 2,8"
+      },
+      {
+        "key": "C",
+        "text": "Cl⁻: 2,8,7"
+      },
+      {
+        "key": "D",
+        "text": "O²⁻: 2,8"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "8f3ad3d6195780c40ff56563cb06aa4c9a001d155a3ee2bc19c3dec1fa472275",
+    "question_skeleton": "which proposed ion and electronic configuration are incorrectly matched reasoning chlorine has 17 electrons as a neutral atom the chloride ion has gained one giving 18 electrons and configuration 2 8 8"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_20_udbfp",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Inferring a compound from electronic configurations",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Elements P, Q and R have atomic numbers 12, 17 and 8, respectively. Which statement is correct? **Reasoning:** P is magnesium (2,8,2), Q is chlorine (2,8,7), and R is oxygen (2,6). Magnesium forms Mg^; the resulting formulas are MgCl₂ and MgO.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P and Q form PQ, containing a 1:1 ratio of ions."
+      },
+      {
+        "key": "B",
+        "text": "P and R form PR, because both need two electrons to complete their octets."
+      },
+      {
+        "key": "C",
+        "text": "P and Q form PQ₂, while P and R form PR."
+      },
+      {
+        "key": "D",
+        "text": "Q and R form an ionic compound in which both elements lose electrons."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "291f18f283a29a4dc6d2c651b8ded5cfb98163033ab8867588334ccb4a540469",
+    "question_skeleton": "elements p q and r have atomic numbers 12 17 and 8 respectively which statement is correct reasoning p is magnesium 2 8 2 q is chlorine 2 8 7 and r is oxygen 2 6 magnesium forms mathrm mg 2 the resulting formulas are mathrm mgcl 2 and mathrm mgo"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_21_n9gk1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Comparing molecular and ionic formulae",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement correctly distinguishes a formula unit from a molecule? **Reasoning:** Ionic compounds generally form extended lattices. The formula NaCl indicates a 1:1 ratio of ions, not a separate NaCl molecule in the crystal.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Every ionic formula represents an isolated molecule."
+      },
+      {
+        "key": "B",
+        "text": "NaCl represents the simplest ratio of sodium and chloride ions in the ionic solid."
+      },
+      {
+        "key": "C",
+        "text": "A covalent molecule cannot be represented by a chemical formula."
+      },
+      {
+        "key": "D",
+        "text": "Ionic compounds contain no charged particles in their solid state."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "49659a9fd26f4487979129c658147e65b7a815e6a49e982089880e8f0080bf0f",
+    "question_skeleton": "which statement correctly distinguishes a formula unit from a molecule reasoning ionic compounds generally form extended lattices the formula mathrm nacl indicates a 1 1 ratio of ions not a separate nacl molecule in the crystal"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_22_4vqvr",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Sodium chloride: identifying the correct electron transfer",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Schematic electron transfer; the product ions have stable outer shells. Which electron-dot interpretation correctly describes the product?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 142\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <circle cx=\"48\" cy=\"48\" r=\"28\" fill=\"#DCFCE7\" stroke=\"#16803D\" strokeWidth=\"2\"/>\n    <text x=\"48\" y=\"44\" fontSize=\"13\" textAnchor=\"middle\" fill=\"#166534\" fontWeight=\"bold\">Na</text>\n    <text x=\"48\" y=\"60\" fontSize=\"10\" textAnchor=\"middle\" fill=\"#166534\">2,8,1</text>\n    <circle cx=\"84\" cy=\"48\" r=\"7\" fill=\"#16803D\"/>\n    <path d=\"M95 48 H141\" stroke=\"#DC2626\" strokeWidth=\"2.5\" fill=\"none\"/>\n    <path d=\"M134 42 L142 48 L134 54\" stroke=\"#DC2626\" strokeWidth=\"2.5\" fill=\"none\"/>\n    <circle cx=\"187\" cy=\"48\" r=\"28\" fill=\"#DBEAFE\" stroke=\"#2563EB\" strokeWidth=\"2\"/>\n    <text x=\"187\" y=\"44\" fontSize=\"13\" textAnchor=\"middle\" fill=\"#1D4ED8\" fontWeight=\"bold\">Cl</text>\n    <text x=\"187\" y=\"60\" fontSize=\"10\" textAnchor=\"middle\" fill=\"#1D4ED8\">2,8,7</text>\n    <text x=\"111\" y=\"35\" fontSize=\"10\" fill=\"#DC2626\" textAnchor=\"middle\">1 e⁻</text>\n    <rect x=\"16\" y=\"96\" width=\"116\" height=\"34\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#16803D\"/>\n    <text x=\"74\" y=\"117\" fontSize=\"13\" textAnchor=\"middle\" fill=\"#166534\">Na⁺</text>\n    <rect x=\"168\" y=\"96\" width=\"136\" height=\"34\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\"/>\n    <text x=\"236\" y=\"117\" fontSize=\"13\" textAnchor=\"middle\" fill=\"#1D4ED8\">Cl⁻ (octet)</text>\n    <path d=\"M74 76 V91 M236 76 V91\" stroke=\"#64748B\" strokeWidth=\"1.5\" strokeDasharray=\"3 3\"/>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Na⁻ and Cl⁺ form because chlorine transfers one electron to sodium."
+      },
+      {
+        "key": "B",
+        "text": "Na⁺ and Cl⁻ form because sodium loses one electron and chlorine gains one electron."
+      },
+      {
+        "key": "C",
+        "text": "Na²⁺ and Cl²⁻ form because both atoms must transfer two electrons to complete an octet."
+      },
+      {
+        "key": "D",
+        "text": "Na and Cl remain neutral and share one electron pair to form a covalent molecule."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sodium loses one electron to form Na⁺; chlorine gains one electron to form Cl⁻. Their opposite charges attract. Option D confuses electron transfer with covalent sharing.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "7b8b2c5fca1d6b291c0691eafc60353bb07cc690ca7a6c7f4d8f8f517ed17c39",
+    "question_skeleton": "figure sodium atomic number 11 electronic configuration 2 8 1 transfers its outer electron to chlorine atomic number 17 configuration 2 8 7 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 142 width 100 xmlns http www w3 org 2000 svg circle cx 48 cy 48 r 28 fill dcfce7 stroke 16803d strokewidth 2 span na span span 2 8 1 span circle cx 84 cy 48 r 7 fill 16803d path d m95 48 h141 stroke dc2626 strokewidth 2 5 fill none path d m134 42 l142 48 l134 54 stroke dc2626 strokewidth 2 5 fill none circle cx 187 cy 48 r 28 fill dbeafe stroke 2563eb strokewidth 2 span cl span span 2 8 7 span span 1 e span rect x 16 y 96 width 116 height 34 rx 8 fill dcfce7 stroke 16803d span na span rect x 168 y 96 width 136 height 34 rx 8 fill dbeafe stroke 2563eb span cl octet span path d m74 76 v91 m236 76 v91 stroke 64748b strokewidth 1 5 strokedasharray 3 3 svg span schematic electron transfer the product ions have stable outer shells span div which electron dot interpretation correctly describes the product"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_23_pupia",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Methane: verifying carbon's four single bonds",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which interpretation is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <circle cx=\"160\" cy=\"75\" r=\"26\" fill=\"#DBEAFE\" stroke=\"#2563EB\" strokeWidth=\"2\"/>\n    <text x=\"160\" y=\"80\" textAnchor=\"middle\" fontSize=\"16\" fontWeight=\"bold\" fill=\"#1D4ED8\">C</text>\n    <path d=\"M160 49 V26 M136 75 H102 M184 75 H218 M160 101 V124\" stroke=\"#64748B\" strokeWidth=\"2.5\"/>\n    <text x=\"160\" y=\"17\" textAnchor=\"middle\" fontSize=\"14\" fontWeight=\"bold\" fill=\"#166534\">H</text>\n    <text x=\"91\" y=\"80\" textAnchor=\"middle\" fontSize=\"14\" fontWeight=\"bold\" fill=\"#166534\">H</text>\n    <text x=\"229\" y=\"80\" textAnchor=\"middle\" fontSize=\"14\" fontWeight=\"bold\" fill=\"#166534\">H</text>\n    <text x=\"160\" y=\"141\" textAnchor=\"middle\" fontSize=\"14\" fontWeight=\"bold\" fill=\"#166534\">H</text>\n    <circle cx=\"160\" cy=\"37\" r=\"3.5\" fill=\"#2563EB\"/>\n    <text x=\"168\" y=\"39\" fontSize=\"12\" fill=\"#16803D\">×</text>\n    <text x=\"160\" y=\"62\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#334155\">4 single bonds</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Methane contains four shared pairs (eight shared electrons) and no lone pair on carbon."
+      },
+      {
+        "key": "B",
+        "text": "Methane contains four double bonds because carbon requires eight electrons."
+      },
+      {
+        "key": "C",
+        "text": "Methane contains eight bond pairs because each C–H bond has two electrons."
+      },
+      {
+        "key": "D",
+        "text": "Methane forms one ionic bond and three covalent bonds."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Four single bonds give four shared pairs, containing eight electrons in total. Carbon has no lone pair in methane. Option C incorrectly counts each electron as a separate pair.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "f294d20879c5588d95653b9fb05f7685b0155d9e21b66764af9497ff7b3a1f44",
+    "question_skeleton": "figure carbon atomic number 6 configuration 2 4 is connected to four hydrogen atoms each c h bond contains one electron from carbon and one from hydrogen div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 150 width 100 xmlns http www w3 org 2000 svg circle cx 160 cy 75 r 26 fill dbeafe stroke 2563eb strokewidth 2 span c span path d m160 49 v26 m136 75 h102 m184 75 h218 m160 101 v124 stroke 64748b strokewidth 2 5 span h span span h span span h span span h span circle cx 160 cy 37 r 3 5 fill 2563eb span span span 4 single bonds span svg div which interpretation is correct"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_24_0n3oh",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Sodium oxide: distinguishing transferred electrons from oxygen atoms",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which product representation is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 128\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"8\" y=\"8\" width=\"90\" height=\"34\" rx=\"7\" fill=\"#DCFCE7\" stroke=\"#16803D\" strokeWidth=\"2\"/>\n    <text x=\"53\" y=\"29\" textAnchor=\"middle\" fontSize=\"13\" fontWeight=\"bold\" fill=\"#166534\">Na ×</text>\n    <rect x=\"222\" y=\"8\" width=\"90\" height=\"34\" rx=\"7\" fill=\"#DCFCE7\" stroke=\"#16803D\" strokeWidth=\"2\"/>\n    <text x=\"267\" y=\"29\" textAnchor=\"middle\" fontSize=\"13\" fontWeight=\"bold\" fill=\"#166534\">Na ×</text>\n    <rect x=\"111\" y=\"78\" width=\"98\" height=\"38\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" strokeWidth=\"2\"/>\n    <text x=\"160\" y=\"94\" textAnchor=\"middle\" fontSize=\"13\" fontWeight=\"bold\" fill=\"#1D4ED8\">O ••••••</text>\n    <text x=\"160\" y=\"107\" textAnchor=\"middle\" fontSize=\"9\" fill=\"#1D4ED8\">6 valence e⁻</text>\n    <path d=\"M55 44 L124 75 M265 44 L196 75\" stroke=\"#DC2626\" strokeWidth=\"2.5\"/>\n    <path d=\"M116 66 L125 75 L115 77 M205 77 L195 75 L204 66\" stroke=\"#DC2626\" strokeWidth=\"2.5\" fill=\"none\"/>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "NaO, containing Na⁺ and O⁻."
+      },
+      {
+        "key": "B",
+        "text": "Na₂O₂, because the two transferred electrons require two oxygen atoms."
+      },
+      {
+        "key": "C",
+        "text": "Na₂O, containing two Na⁺ ions and one O²⁻ ion."
+      },
+      {
+        "key": "D",
+        "text": "NaO₂, because oxygen has two electrons to gain."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Each sodium loses one electron, so two sodium atoms provide two electrons. Oxygen gains both and becomes O²⁻. The charge balance gives Na₂O. Option B incorrectly equates the number of transferred electrons with the number of oxygen atoms.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "33345d31e27561c3de8244fb2d77df84305f6bbd5311db6c15720b4af5ee19ba",
+    "question_skeleton": "figure two sodium atoms each donate one electron to a single oxygen atom sodium has one valence electron oxygen has six div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 128 width 100 xmlns http www w3 org 2000 svg rect x 8 y 8 width 90 height 34 rx 7 fill dcfce7 stroke 16803d strokewidth 2 span na span rect x 222 y 8 width 90 height 34 rx 7 fill dcfce7 stroke 16803d strokewidth 2 span na span rect x 111 y 78 width 98 height 38 rx 8 fill dbeafe stroke 2563eb strokewidth 2 span o span span 6 valence e span path d m55 44 l124 75 m265 44 l196 75 stroke dc2626 strokewidth 2 5 path d m116 66 l125 75 l115 77 m205 77 l195 75 l204 66 stroke dc2626 strokewidth 2 5 fill none svg div which product representation is correct"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_25_01ois",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Water: counting bond pairs and lone pairs",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which count is correct for the electron pairs associated with oxygen in H₂O?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 138\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <circle cx=\"160\" cy=\"67\" r=\"28\" fill=\"#DBEAFE\" stroke=\"#2563EB\" strokeWidth=\"2\"/>\n    <text x=\"160\" y=\"72\" textAnchor=\"middle\" fontSize=\"16\" fontWeight=\"bold\" fill=\"#1D4ED8\">O</text>\n    <circle cx=\"124\" cy=\"30\" r=\"4\" fill=\"#16803D\"/>\n    <text x=\"135\" y=\"34\" fontSize=\"14\" fill=\"#2563EB\">×</text>\n    <circle cx=\"196\" cy=\"30\" r=\"4\" fill=\"#16803D\"/>\n    <text x=\"207\" y=\"34\" fontSize=\"14\" fill=\"#2563EB\">×</text>\n    <path d=\"M141 47 L119 25 M179 47 L201 25\" stroke=\"#64748B\" strokeWidth=\"2\"/>\n    <text x=\"97\" y=\"21\" fontSize=\"14\" fontWeight=\"bold\" fill=\"#166534\">H</text>\n    <text x=\"215\" y=\"21\" fontSize=\"14\" fontWeight=\"bold\" fill=\"#166534\">H</text>\n    <rect x=\"118\" y=\"92\" width=\"84\" height=\"34\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#9333EA\" strokeWidth=\"1.5\"/>\n    <text x=\"160\" y=\"106\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#7E22CE\">2 lone pairs</text>\n    <text x=\"160\" y=\"119\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#7E22CE\">on oxygen</text>\n    <text x=\"160\" y=\"10\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#334155\">Two O–H shared pairs</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Four bond pairs and no lone pairs."
+      },
+      {
+        "key": "B",
+        "text": "One bond pair and three lone pairs."
+      },
+      {
+        "key": "C",
+        "text": "Two bond pairs and two lone pairs."
+      },
+      {
+        "key": "D",
+        "text": "Two bond pairs and no lone pairs, because hydrogen contributes the remaining electrons."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Oxygen forms two O–H single bonds and retains two lone pairs. Therefore, four electron pairs surround oxygen in total, but only two are bond pairs. Option A incorrectly counts every pair as a bond pair.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "5fc7fea3a1272e4b4eaf41afea9c0a5cab2f086fdda7c305ad73872df5323436",
+    "question_skeleton": "figure oxygen atomic number 8 shares one electron with each of two hydrogen atoms two pairs remain non bonding on oxygen div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 138 width 100 xmlns http www w3 org 2000 svg circle cx 160 cy 67 r 28 fill dbeafe stroke 2563eb strokewidth 2 span o span circle cx 124 cy 30 r 4 fill 16803d span span circle cx 196 cy 30 r 4 fill 16803d span span path d m141 47 l119 25 m179 47 l201 25 stroke 64748b strokewidth 2 span h span span h span rect x 118 y 92 width 84 height 34 rx 8 fill f3e8ff stroke 9333ea strokewidth 1 5 span 2 lone pairs span span on oxygen span span two o h shared pairs span svg div which count is correct for the electron pairs associated with oxygen in h o"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_26_pblx9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Carbon dioxide: checking double bonds and lone pairs",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which count is correct for one CO₂ molecule?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 124\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"7\" y=\"35\" width=\"80\" height=\"52\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#16803D\" strokeWidth=\"2\"/>\n    <text x=\"47\" y=\"65\" textAnchor=\"middle\" fontSize=\"16\" fontWeight=\"bold\" fill=\"#166534\">O</text>\n    <rect x=\"120\" y=\"35\" width=\"80\" height=\"52\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" strokeWidth=\"2\"/>\n    <text x=\"160\" y=\"65\" textAnchor=\"middle\" fontSize=\"16\" fontWeight=\"bold\" fill=\"#1D4ED8\">C</text>\n    <rect x=\"233\" y=\"35\" width=\"80\" height=\"52\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#16803D\" strokeWidth=\"2\"/>\n    <text x=\"273\" y=\"65\" textAnchor=\"middle\" fontSize=\"16\" fontWeight=\"bold\" fill=\"#166534\">O</text>\n    <path d=\"M88 53 H119 M88 68 H119 M201 53 H232 M201 68 H232\" stroke=\"#64748B\" strokeWidth=\"2.5\"/>\n    <text x=\"47\" y=\"23\" textAnchor=\"middle\" fontSize=\"12\" fill=\"#7E22CE\">••  ••</text>\n    <text x=\"273\" y=\"23\" textAnchor=\"middle\" fontSize=\"12\" fill=\"#7E22CE\">••  ••</text>\n    <text x=\"160\" y=\"108\" textAnchor=\"middle\" fontSize=\"11\" fill=\"#334155\">O=C=O · two double bonds</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "One double bond, two single bonds and six lone pairs."
+      },
+      {
+        "key": "B",
+        "text": "Two double bonds, four bond pairs and four lone pairs in total."
+      },
+      {
+        "key": "C",
+        "text": "Two double bonds, eight bond pairs and no lone pairs."
+      },
+      {
+        "key": "D",
+        "text": "Two triple bonds and two lone pairs in total."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Each double bond contains two shared pairs, so the molecule has four bond pairs. Each oxygen has two lone pairs, giving four lone pairs in total. Option C confuses shared electrons with shared pairs and omits the oxygen lone pairs.\n\n---\n\n## Section C — Coordinate bonding, crystal structure and physical properties",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "437f5bb799767d691a3ef82684dbdf2392e1941993ec17f86ab961124bbffe85",
+    "question_skeleton": "figure carbon atomic number 6 forms a double bond with each oxygen atomic number 8 each oxygen retains two lone pairs div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 124 width 100 xmlns http www w3 org 2000 svg rect x 7 y 35 width 80 height 52 rx 10 fill dcfce7 stroke 16803d strokewidth 2 span o span rect x 120 y 35 width 80 height 52 rx 10 fill dbeafe stroke 2563eb strokewidth 2 span c span rect x 233 y 35 width 80 height 52 rx 10 fill dcfce7 stroke 16803d strokewidth 2 span o span path d m88 53 h119 m88 68 h119 m201 53 h232 m201 68 h232 stroke 64748b strokewidth 2 5 span span span span span o c o two double bonds span svg div which count is correct for one co molecule"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_27_i18ug",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Ammonium ion: identifying the coordinate bond",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which explanation correctly describes the formation and bonding of NH₄⁺?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 138\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"8\" y=\"31\" width=\"122\" height=\"73\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" strokeWidth=\"2\"/>\n    <text x=\"69\" y=\"52\" textAnchor=\"middle\" fontSize=\"13\" fontWeight=\"bold\" fill=\"#1D4ED8\">NH₃</text>\n    <text x=\"69\" y=\"73\" textAnchor=\"middle\" fontSize=\"16\" fill=\"#7E22CE\">••</text>\n    <text x=\"69\" y=\"91\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#334155\">N lone pair</text>\n    <rect x=\"151\" y=\"42\" width=\"42\" height=\"44\" rx=\"8\" fill=\"#FFEDD5\" stroke=\"#EA580C\" strokeWidth=\"2\"/>\n    <text x=\"172\" y=\"68\" textAnchor=\"middle\" fontSize=\"14\" fontWeight=\"bold\" fill=\"#9A3412\">H⁺</text>\n    <path d=\"M132 67 H147\" stroke=\"#DC2626\" strokeWidth=\"2.5\"/>\n    <path d=\"M140 61 L148 67 L140 73\" stroke=\"#DC2626\" strokeWidth=\"2.5\" fill=\"none\"/>\n    <rect x=\"210\" y=\"27\" width=\"102\" height=\"76\" rx=\"10\" fill=\"#F3E8FF\" stroke=\"#9333EA\" strokeWidth=\"2\"/>\n    <text x=\"261\" y=\"52\" textAnchor=\"middle\" fontSize=\"15\" fontWeight=\"bold\" fill=\"#7E22CE\">NH₄⁺</text>\n    <text x=\"261\" y=\"70\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#7E22CE\">4 N–H bonds</text>\n    <text x=\"261\" y=\"86\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#7E22CE\">overall +1</text>\n    <text x=\"160\" y=\"124\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#DC2626\">Lone pair donated by N to H⁺</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "H⁺ supplies both electrons of the new bond, so nitrogen acts as the acceptor."
+      },
+      {
+        "key": "B",
+        "text": "Nitrogen transfers one proton to H⁺, producing a neutral NH₄ molecule."
+      },
+      {
+        "key": "C",
+        "text": "Nitrogen donates one electron and H⁺ donates the other; the resulting ion contains an ordinary ionic bond."
+      },
+      {
+        "key": "D",
+        "text": "Nitrogen donates both electrons of its lone pair to H⁺; after formation, the four N–H bonds are treated as equivalent covalent bonds."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Nitrogen is the electron-pair donor and H⁺ is the acceptor. The resulting ammonium ion has an overall charge of +1. Once formed, the coordinate bond is treated as equivalent to the other N–H bonds. Option C incorrectly assigns one electron to H⁺, which has no electron to contribute.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "87b6f1feda809265c290a160aa6c2a53eb0dae12d2b376ae69c173517c1fe402",
+    "question_skeleton": "figure ammonia nh has a lone pair on nitrogen the nitrogen donates both electrons of this pair to h forming nh div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 138 width 100 xmlns http www w3 org 2000 svg rect x 8 y 31 width 122 height 73 rx 10 fill dbeafe stroke 2563eb strokewidth 2 span nh span span span span n lone pair span rect x 151 y 42 width 42 height 44 rx 8 fill ffedd5 stroke ea580c strokewidth 2 span h span path d m132 67 h147 stroke dc2626 strokewidth 2 5 path d m140 61 l148 67 l140 73 stroke dc2626 strokewidth 2 5 fill none rect x 210 y 27 width 102 height 76 rx 10 fill f3e8ff stroke 9333ea strokewidth 2 span nh span span 4 n h bonds span span overall 1 span span lone pair donated by n to h span svg div which explanation correctly describes the formation and bonding of nh"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_28_7zho1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Ammonium ion: identifying the correct donor–acceptor direction",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which diagram correctly represents the formation of the coordinate bond in NH₄⁺?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 148\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"8\" y=\"9\" width=\"304\" height=\"38\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" strokeWidth=\"1.5\"/>\n    <text x=\"20\" y=\"24\" fontSize=\"11\" fill=\"#1D4ED8\" fontWeight=\"bold\">Diagram I</text>\n    <text x=\"160\" y=\"34\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#1D4ED8\">N: → H⁺</text>\n    <rect x=\"8\" y=\"55\" width=\"304\" height=\"38\" rx=\"8\" fill=\"#FEE2E2\" stroke=\"#DC2626\" strokeWidth=\"1.5\"/>\n    <text x=\"20\" y=\"70\" fontSize=\"11\" fill=\"#B91C1C\" fontWeight=\"bold\">Diagram II</text>\n    <text x=\"160\" y=\"80\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#B91C1C\">N ← :H⁺</text>\n    <rect x=\"8\" y=\"101\" width=\"304\" height=\"38\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#9333EA\" strokeWidth=\"1.5\"/>\n    <text x=\"20\" y=\"116\" fontSize=\"11\" fill=\"#7E22CE\" fontWeight=\"bold\">Diagram III</text>\n    <text x=\"160\" y=\"126\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#7E22CE\">N ×• → H⁺</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Diagram II only, because hydrogen must donate the pair."
+      },
+      {
+        "key": "B",
+        "text": "Diagram III only, because the pair must contain one electron from each atom."
+      },
+      {
+        "key": "C",
+        "text": "Diagrams I and III, because both show nitrogen donating a lone pair."
+      },
+      {
+        "key": "D",
+        "text": "Diagram I only, because nitrogen donates both electrons and H⁺ accepts the pair."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The coordinate-bond arrow points from the donor to the acceptor. Nitrogen supplies both electrons of its lone pair; H⁺ supplies none. Diagram III incorrectly represents the donated pair as containing one electron from each atom.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "2c92ccf47415361c9ffcace61a8ad54456518151562201175fb73c33a0154fde",
+    "question_skeleton": "figure nitrogen in ammonia has a lone pair a hydrogen ion has no electrons three possible diagrams show different directions for the arrow used to represent the coordinate bond div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 148 width 100 xmlns http www w3 org 2000 svg rect x 8 y 9 width 304 height 38 rx 8 fill dbeafe stroke 2563eb strokewidth 1 5 span diagram i span span n h span rect x 8 y 55 width 304 height 38 rx 8 fill fee2e2 stroke dc2626 strokewidth 1 5 span diagram ii span span n h span rect x 8 y 101 width 304 height 38 rx 8 fill f3e8ff stroke 9333ea strokewidth 1 5 span diagram iii span span n h span svg div which diagram correctly represents the formation of the coordinate bond in nh"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_29_fm1k4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Electron-dot structure of chlorine: identifying a missing lone pair",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student counts the displayed shared pair as two lone pairs. Which correction is necessary?",
+    "diagramSvg": "<svg viewBox=\"0 0 320 120\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"12\" width=\"300\" height=\"96\" rx=\"12\" fill=\"#F8FAFC\" stroke=\"#CBD5E1\" strokeWidth=\"1.5\"/>\n    <text x=\"84\" y=\"65\" textAnchor=\"middle\" fontSize=\"19\" fontWeight=\"bold\" fill=\"#166534\">Cl</text>\n    <text x=\"236\" y=\"65\" textAnchor=\"middle\" fontSize=\"19\" fontWeight=\"bold\" fill=\"#1D4ED8\">Cl</text>\n    <circle cx=\"106\" cy=\"32\" r=\"3.5\" fill=\"#16803D\"/>\n    <circle cx=\"106\" cy=\"42\" r=\"3.5\" fill=\"#16803D\"/>\n    <circle cx=\"106\" cy=\"83\" r=\"3.5\" fill=\"#16803D\"/>\n    <circle cx=\"106\" cy=\"93\" r=\"3.5\" fill=\"#16803D\"/>\n    <circle cx=\"66\" cy=\"32\" r=\"3.5\" fill=\"#16803D\"/>\n    <circle cx=\"66\" cy=\"42\" r=\"3.5\" fill=\"#16803D\"/>\n    <circle cx=\"66\" cy=\"83\" r=\"3.5\" fill=\"#16803D\"/>\n    <circle cx=\"66\" cy=\"93\" r=\"3.5\" fill=\"#16803D\"/>\n    <circle cx=\"214\" cy=\"32\" r=\"3.5\" fill=\"#2563EB\"/>\n    <circle cx=\"214\" cy=\"42\" r=\"3.5\" fill=\"#2563EB\"/>\n    <circle cx=\"214\" cy=\"83\" r=\"3.5\" fill=\"#2563EB\"/>\n    <circle cx=\"214\" cy=\"93\" r=\"3.5\" fill=\"#2563EB\"/>\n    <circle cx=\"254\" cy=\"32\" r=\"3.5\" fill=\"#2563EB\"/>\n    <circle cx=\"254\" cy=\"42\" r=\"3.5\" fill=\"#2563EB\"/>\n    <circle cx=\"254\" cy=\"83\" r=\"3.5\" fill=\"#2563EB\"/>\n    <circle cx=\"254\" cy=\"93\" r=\"3.5\" fill=\"#2563EB\"/>\n    <circle cx=\"141\" cy=\"58\" r=\"4\" fill=\"#16803D\"/>\n    <text x=\"152\" y=\"63\" fontSize=\"15\" fill=\"#2563EB\">×</text>\n    <text x=\"160\" y=\"16\" textAnchor=\"middle\" fontSize=\"10\" fill=\"#64748B\">Shared pair in the centre</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The molecule has one bond pair and six lone pairs in total; the shared pair is not a lone pair."
+      },
+      {
+        "key": "B",
+        "text": "The molecule has two bond pairs and five lone pairs because each chlorine contributes two electrons."
+      },
+      {
+        "key": "C",
+        "text": "The molecule has one bond pair and seven lone pairs because one chlorine has an extra electron."
+      },
+      {
+        "key": "D",
+        "text": "The molecule has three bond pairs and four lone pairs because each chlorine needs three additional electrons."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Cl₂ contains one shared pair and three lone pairs on each chlorine, giving six lone pairs in total. Option B incorrectly counts the two shared electrons as two bond pairs.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "92f7cc312c0ddd82189cce346866bd36dbe405620af643728e880f0e704f13d9",
+    "question_skeleton": "figure a chlorine molecule has a single shared pair each chlorine atom should retain three lone pairs after bonding div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 120 width 100 xmlns http www w3 org 2000 svg rect x 10 y 12 width 300 height 96 rx 12 fill f8fafc stroke cbd5e1 strokewidth 1 5 span cl span span cl span circle cx 106 cy 32 r 3 5 fill 16803d circle cx 106 cy 42 r 3 5 fill 16803d circle cx 106 cy 83 r 3 5 fill 16803d circle cx 106 cy 93 r 3 5 fill 16803d circle cx 66 cy 32 r 3 5 fill 16803d circle cx 66 cy 42 r 3 5 fill 16803d circle cx 66 cy 83 r 3 5 fill 16803d circle cx 66 cy 93 r 3 5 fill 16803d circle cx 214 cy 32 r 3 5 fill 2563eb circle cx 214 cy 42 r 3 5 fill 2563eb circle cx 214 cy 83 r 3 5 fill 2563eb circle cx 214 cy 93 r 3 5 fill 2563eb circle cx 254 cy 32 r 3 5 fill 2563eb circle cx 254 cy 42 r 3 5 fill 2563eb circle cx 254 cy 83 r 3 5 fill 2563eb circle cx 254 cy 93 r 3 5 fill 2563eb circle cx 141 cy 58 r 4 fill 16803d span span span shared pair in the centre span svg div a student counts the displayed shared pair as two lone pairs which correction is necessary"
+  },
+  {
+    "globalId": "qb_hots_chemical_bonding_30_ue0og",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Chemical Bonding",
+    "title": "Why does an ionic crystal fracture when struck?",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which explanation best accounts for the brittleness of ionic solids?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Their ions become neutral when the lattice shifts, so the crystal loses all attraction."
+      },
+      {
+        "key": "B",
+        "text": "The ions are free to slide over one another because the lattice contains no strong forces."
+      },
+      {
+        "key": "C",
+        "text": "Displacement can bring like-charged ions close together; their repulsion can cause the lattice to fracture."
+      },
+      {
+        "key": "D",
+        "text": "The crystal fractures because its ions share electrons and form weak covalent bonds."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Ionic crystals are held together by strong electrostatic attractions. When layers shift, like charges can become adjacent and repel strongly, causing fracture. Option B incorrectly describes the ions as freely sliding.\n\n---",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical_bonding diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "9d43e54e06560a6eb699c376d6937fc7ba54b480fd6d17ba400977b09fe81e8e",
+    "question_skeleton": "figure a simplified ionic lattice is shown before and after a horizontal displacement in the displaced lattice two positive ions become neighbours producing electrostatic repulsion div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 320 170 width 100 xmlns http www w3 org 2000 svg span before span span after shift span each 0 1 2 as r each 0 1 2 as c circle cx 35 c 35 cy 37 r 29 r 10 fill r c 2 0 dbeafe fee2e2 stroke r c 2 0 2563eb dc2626 strokewidth 1 5 span r c 2 0 span each each each 0 1 2 as r each 0 1 2 as c circle cx 194 c 35 r 1 17 0 cy 37 r 29 r 10 fill r c 2 0 dbeafe fee2e2 stroke r c 2 0 2563eb dc2626 strokewidth 1 5 span r c 2 0 span each each path d m174 70 l174 97 stroke dc2626 strokewidth 2 5 path d m168 89 l174 98 l180 89 stroke dc2626 strokewidth 2 5 fill none span shifted rows span span like charge repulsion can split the crystal span svg div which explanation best accounts for the brittleness of ionic solids"
+  }
+]

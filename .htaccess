@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # Route all /api/* requests to api.php
+    RewriteRule ^api/(.*)$ api.php [QSA,L]
+    RewriteRule ^api$ api.php [QSA,L]
+
+    # Serve existing files directly (HTML, CSS, JS, Images, JSON)
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+
+    # Fallback to index.html for frontend routing
+    RewriteRule ^ index.html [L]
+</IfModule>

@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_calorimetry_1_63dd9f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Specific heat capacity of water climate effect",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Coastal regions experience an equitable and moderate climate throughout the year compared to inland continental regions. **Reason (R):** Water has an exceptionally high specific heat capacity (4200 J kg⁻¹ K⁻¹), absorbing or releasing large amounts of heat with only small temperature changes. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and water's high thermal inertia buffering temperature fluctuations explains moderate coastal climates.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "87164bfccc1a063400f3888f1fadb82eef26b94eee54f4be481e54269fcf2aa2",
+    "question_skeleton": "assertion a coastal regions experience an equitable and moderate climate throughout the year compared to inland continental regions reason r water has an exceptionally high specific heat capacity # j kg k absorbing or releasing large amounts of heat with only small temperature changes choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_2_f87abf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Water in car radiators and hot water bottles",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Water is universally used as a coolant in automobile engine radiators and in hot-water bottles for thermal fermentation. **Reason (R):** Water can absorb a large amount of heat energy from the engine without boiling and can store immense thermal energy to release heat over hours. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and high specific heat capacity maximizing heat storage and heat removal justifies both applications.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "25398840bd4afada6b56a0609297c4890c6a27f7911de7089e60a7815554e4e3",
+    "question_skeleton": "assertion a water is universally used as a coolant in automobile engine radiators and in hot water bottles for thermal fermentation reason r water can absorb a large amount of heat energy from the engine without boiling and can store immense thermal energy to release heat over hours choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_3_042212",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Temperature constant during phase change",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** During the melting of pure ice at 0°C, the temperature remains strictly constant until all ice has turned to water. **Reason (R):** The heat energy supplied (latent heat of fusion) is consumed entirely in breaking intermolecular lattice bonds without increasing molecular kinetic energy. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and energy going into potential energy of molecular separation rather than kinetic energy explains constant temperature.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f7ec2098aae30ef8d0a8843e920f0be0b2f97483b9a2c844e7c3cb51c1c2e7a1",
+    "question_skeleton": "assertion a during the melting of pure ice at # c the temperature remains strictly constant until all ice has turned to water reason r the heat energy supplied latent heat of fusion is consumed entirely in breaking intermolecular lattice bonds without increasing molecular kinetic energy choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_4_82ca96",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Cooling effect of ice at 0 C vs water at 0 C",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ice at 0°C is far more effective at cooling a warm beverage than water at 0°C. **Reason (R):** Every gram of ice at 0°C absorbs an extra 336 joules of latent heat of fusion just to melt into water at 0°C before its temperature begins to rise. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and absorbing the 336 J/g latent heat of fusion provides substantially greater cooling capacity.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "aa7aae0dee80700a0691dcea84288e505e4aabee996b6ec3197e938c23e82f40",
+    "question_skeleton": "assertion a ice at # c is far more effective at cooling a warm beverage than water at # c reason r every gram of ice at # c absorbs an extra # joules of latent heat of fusion just to melt into water at # c before its temperature begins to rise choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_5_6fab0c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Burns caused by steam at 100 C vs boiling water",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Burns produced by steam at 100°C are vastly more severe than burns caused by boiling water at 100°C. **Reason (R):** Every gram of steam at 100°C releases an extra 2260 joules of latent heat of vaporization upon condensing on the skin at 100°C. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the massive latent heat of condensation (2260 J/g) releasing huge energy onto skin tissue causes severe deep burns.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "37a529d4bb70f35252017885ffa27b7ebd77591d2f93353d35324f622ef308a8",
+    "question_skeleton": "assertion a burns produced by steam at # c are vastly more severe than burns caused by boiling water at # c reason r every gram of steam at # c releases an extra # joules of latent heat of vaporization upon condensing on the skin at # c choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_6_6878e5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Principle of Calorimetry heat conservation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When two liquids at different temperatures are mixed in an insulated vessel, heat lost by hot liquid equals heat gained by cold liquid. **Reason (R):** The principle of calorimetry is an expression of the fundamental law of conservation of energy assuming zero heat loss to the surroundings. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and conservation of thermal energy in an isolated thermodynamic system validates the principle.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8da80779c6042395768b1cd28e3d2a8ee819fe7c1ad70b2e658854df1eebca53",
+    "question_skeleton": "assertion a when two liquids at different temperatures are mixed in an insulated vessel heat lost by hot liquid equals heat gained by cold liquid reason r the principle of calorimetry is an expression of the fundamental law of conservation of energy assuming zero heat loss to the surroundings choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_7_5bd26e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Calorimeter made of thin polished copper",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Calorimeters are constructed from thin sheets of copper polished on both inside and outside. **Reason (R):** Copper has very low specific heat capacity (399 J kg⁻¹ K⁻¹) and polished surfaces minimize radiative heat exchange with the surroundings. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and low heat capacity plus low thermal emissivity ensures the vessel absorbs minimal heat during measurements.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bef83f50c304d52e9659f52488a287cf7bf61d73299149b085f03e9f114b2b7d",
+    "question_skeleton": "assertion a calorimeters are constructed from thin sheets of copper polished on both inside and outside reason r copper has very low specific heat capacity # j kg k and polished surfaces minimize radiative heat exchange with the surroundings choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_8_3d7e35",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Water equivalent of calorimeter",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The water equivalent of a calorimeter is the mass of water that requires the same amount of heat as the calorimeter for an identical temperature rise. **Reason (R):** Water equivalent is calculated as the mass of the calorimeter multiplied by its specific heat capacity (W = m_c · c_c / c_w). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and equating Q = m_cal · c_cal · ΔT = W · c_w · ΔT directly defines water equivalent.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ef72d8f787a6a35a45f9c7ac14a42ec0ff74fa80656c4ce5b868a14f555f47dc",
+    "question_skeleton": "assertion a the water equivalent of a calorimeter is the mass of water that requires the same amount of heat as the calorimeter for an identical temperature rise reason r water equivalent is calculated as the mass of the calorimeter multiplied by its specific heat capacity w m c c c c w choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_9_cd9b51",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Specific heat capacity unit",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The SI unit of specific heat capacity is joule per kilogram per kelvin (J kg⁻¹ K⁻¹). **Reason (R):** Specific heat capacity is defined as heat energy required per unit mass per unit rise in temperature (c = Q / (m·ΔT)). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and c = Q / (m·ΔT) directly derives J kg⁻¹ K⁻¹.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4d1be54350de35f4ccfebf5a587a2a1069def13aac3c3687be3351a0dd284ef1",
+    "question_skeleton": "assertion a the si unit of specific heat capacity is joule per kilogram per kelvin j kg k reason r specific heat capacity is defined as heat energy required per unit mass per unit rise in temperature c q m t choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_10_82e89e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Heat capacity vs specific heat capacity",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A 500 g block of copper has greater heat capacity than a 100 g block of copper. **Reason (R):** Heat capacity is an extensive property equal to mass multiplied by specific heat capacity (C' = m·c). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and C' = mc confirms that larger mass produces larger heat capacity for the same material.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d699023e7e66b3574c21c6d45969171bf08661b311726f114a3cdb3074aea5f4",
+    "question_skeleton": "assertion a a # g block of copper has greater heat capacity than a # g block of copper reason r heat capacity is an extensive property equal to mass multiplied by specific heat capacity c m c choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_11_48dd7e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Evaporation causes cooling",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Pouring a few drops of surgical spirit or acetone on the palm produces a distinct chilling sensation. **Reason (R):** Volatile liquids evaporate rapidly, extracting the necessary latent heat of vaporization directly from the skin of the hand. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and extracting latent heat from the hand during fast evaporation lowers skin temperature.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5d7768450a465b24d661915b1b4a4d38ad6063c10403f7d061d630cd2ee40276",
+    "question_skeleton": "assertion a pouring a few drops of surgical spirit or acetone on the palm produces a distinct chilling sensation reason r volatile liquids evaporate rapidly extracting the necessary latent heat of vaporization directly from the skin of the hand choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_12_c08907",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Water cooling in earthen pot (surahi)",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Water stored in a porous earthen pot remains pleasantly cool during hot, dry summer days. **Reason (R):** Water continuously seeps through micro-pores of the clay and evaporates, absorbing latent heat of vaporization from the remaining water. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and evaporative cooling through clay pores continuously removes heat from stored water.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2ea68078503ca50e209e17991700caf78c0adf43b64fd5eb5790452ec6df39e0",
+    "question_skeleton": "assertion a water stored in a porous earthen pot remains pleasantly cool during hot dry summer days reason r water continuously seeps through micro pores of the clay and evaporates absorbing latent heat of vaporization from the remaining water choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_13_5e632e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Soft drinks cooled faster with crushed ice",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Crushed ice cools a bottle of juice faster than a single solid cube of ice of the same mass. **Reason (R):** Crushed ice has a vastly greater total surface area in direct contact with the bottle, accelerating heat transfer. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and increased contact surface area speeds up the rate of heat exchange.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3c58f2842708d9b8f0249efd60cba0d5085eda26b4758287bf7ad6a625f306b5",
+    "question_skeleton": "assertion a crushed ice cools a bottle of juice faster than a single solid cube of ice of the same mass reason r crushed ice has a vastly greater total surface area in direct contact with the bottle accelerating heat transfer choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_14_1a5b6b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Weather feels milder after a snowfall",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** It feels noticeably warmer and pleasant during a snowfall, but bitterly cold immediately after the snowfall when ice begins to melt. **Reason (R):** During snowfall, water vapor condenses and freezes, releasing latent heat into the air; during melting, ice absorbs massive latent heat from surroundings. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and latent heat release during freezing versus absorption during melting explains the thermal contrast.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6f4a8be2312b3511d8694e910f3aacaf25e709508a3fad4bfca83871db3b3585",
+    "question_skeleton": "assertion a it feels noticeably warmer and pleasant during a snowfall but bitterly cold immediately after the snowfall when ice begins to melt reason r during snowfall water vapor condenses and freezes releasing latent heat into the air during melting ice absorbs massive latent heat from surroundings choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_15_ee3752",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Freezing point depression with salt",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Adding common salt (NaCl) to ice creates a freezing mixture with a temperature dropping well below 0°C (down to -21°C). **Reason (R):** Dissolving salt lowers the freezing point of water, forcing ice to melt rapidly and absorb its latent heat from the mixture itself. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and depression of freezing point driving forced melting extracts heat, plunging the temperature.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c63747ad71e85d44acdbf2e8e93843d3e62c51995c84aa6d450dca7f11c232b8",
+    "question_skeleton": "assertion a adding common salt nacl to ice creates a freezing mixture with a temperature dropping well below # c down to # c reason r dissolving salt lowers the freezing point of water forcing ice to melt rapidly and absorb its latent heat from the mixture itself choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_16_077952",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Food cooks faster in a pressure cooker",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Cooking food in a pressure cooker takes significantly less time than in an ordinary open pan. **Reason (R):** Steam trapped inside increases the pressure above atmospheric, raising the boiling point of water up to 120°C–125°C. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and higher cooking temperature achieved by elevated boiling point accelerates cooking rates.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6db3a8ed1244f075a26fd0edb83793c5e29c45b773977bda2262a96e8b469a43",
+    "question_skeleton": "assertion a cooking food in a pressure cooker takes significantly less time than in an ordinary open pan reason r steam trapped inside increases the pressure above atmospheric raising the boiling point of water up to # c # c choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_17_c45863",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Boiling point of water on mountains",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** On high mountain summits, water boils at temperatures below 100°C, making it difficult to cook pulses. **Reason (R):** Atmospheric pressure decreases with altitude, and boiling occurs when saturated vapor pressure equals external pressure. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and lower ambient pressure on peaks lowers the boiling point below 100°C.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "452cd61f4f2d114bc071cc9ef5d29bf91e704acb808d9713ce2fb78d377881ae",
+    "question_skeleton": "assertion a on high mountain summits water boils at temperatures below # c making it difficult to cook pulses reason r atmospheric pressure decreases with altitude and boiling occurs when saturated vapor pressure equals external pressure choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_18_85e88a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Specific latent heat of fusion of ice value",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The specific latent heat of fusion of ice is 336,000 J kg⁻¹ (or 336 J g⁻¹). **Reason (R):** It requires 3.36 × 10⁵ joules of thermal energy to convert 1 kg of ice at 0°C completely into water at 0°C. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the definition of specific latent heat directly corresponds to the 3.36 × 10⁵ J/kg value.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "02b71fed35f951f60d6c50057842feaa87ade12a8e6ee2a23dc330b83a2ddc16",
+    "question_skeleton": "assertion a the specific latent heat of fusion of ice is # # j kg or # j g reason r it requires # # joules of thermal energy to convert # kg of ice at # c completely into water at # c choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_19_626858",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Cooling curve horizontal plateau",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the cooling curve of molten naphthalene, a flat horizontal plateau appears during solidification. **Reason (R):** During phase change from liquid to solid, latent heat of solidification is continuously released at a constant temperature. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and latent heat release balancing cooling loss maintains a constant freezing temperature plateau.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "41322e4ae41047444f648054f0f6687fe0238f4ee99343e477f1cc765cd10811",
+    "question_skeleton": "assertion a in the cooling curve of molten naphthalene a flat horizontal plateau appears during solidification reason r during phase change from liquid to solid latent heat of solidification is continuously released at a constant temperature choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_20_55d445",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Specific heat capacity of copper vs lead",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When equal masses of copper and lead at 100°C are dropped into equal volumes of water at 20°C, copper causes a greater temperature rise. **Reason (R):** Copper has a higher specific heat capacity (390 J kg⁻¹ K⁻¹) than lead (130 J kg⁻¹ K⁻¹), releasing more heat energy during cooling. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Q = m·c·ΔT, and copper's three-fold higher specific heat releases more heat to the water.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "72204702d25be84670ad56fedec0fe9d97b1fe1cd8a7200c8ade18cbbb82e8ab",
+    "question_skeleton": "assertion a when equal masses of copper and lead at # c are dropped into equal volumes of water at # c copper causes a greater temperature rise reason r copper has a higher specific heat capacity # j kg k than lead # j kg k releasing more heat energy during cooling choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_21_21d3ee",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Regulation of body temperature by sweating",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Perspiration (sweating) is the human body's primary physiological mechanism to prevent overheating in summer. **Reason (R):** Sweat evaporates from the skin surface, absorbing latent heat of vaporization (approx. 2400 J/g) directly from the body. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and evaporative latent heat removal stabilizes internal human core temperature near 37°C.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c891254f715ede2a0bb2a2580cdc37f97c422182f29deebf24c438c734e1674f",
+    "question_skeleton": "assertion a perspiration sweating is the human body s primary physiological mechanism to prevent overheating in summer reason r sweat evaporates from the skin surface absorbing latent heat of vaporization approx # j g directly from the body choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_22_9d251c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Lake freezing from top to bottom",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Deep freshwater lakes freeze from the surface downwards in winter, leaving liquid water below. **Reason (R):** Water exhibits anomalous expansion between 0°C and 4°C, having its maximum density at 4°C, so dense 4°C water settles at the lake bottom. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and maximum water density at 4°C sinking to the bottom allows aquatic life to survive under surface ice.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e67e9239e4b1e354b020f2947cd76e92673ae37febdc043ad3bef2c08c150d9b",
+    "question_skeleton": "assertion a deep freshwater lakes freeze from the surface downwards in winter leaving liquid water below reason r water exhibits anomalous expansion between # c and # c having its maximum density at # c so dense # c water settles at the lake bottom choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_23_916700",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Land and sea breeze daily cycle",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Sea breezes blow from sea to land during the daytime, while land breezes blow from land to sea at night. **Reason (R):** Land has a lower specific heat capacity than seawater, heating up faster by day and cooling down faster by night. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and differential heating rates creating alternating thermal pressure gradients explain the breeze cycle.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c87b04bb49aa07b40a056eb7cb65595e660c90821c1b6c6c3a182cabca3ad3b7",
+    "question_skeleton": "assertion a sea breezes blow from sea to land during the daytime while land breezes blow from land to sea at night reason r land has a lower specific heat capacity than seawater heating up faster by day and cooling down faster by night choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_24_22665b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Wine bottles preserved in water basins in winter",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In sub-zero winter climates, farmers store bottles of fresh juice or wine immersed in large vats of water inside cellars. **Reason (R):** Before wine can freeze, the large volume of water must freeze first, releasing immense latent heat (336 J/g) to prevent wine from freezing. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and water freezing first and releasing latent heat keeps cellar air near 0°C, saving wine from bursting.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2bba0a11f569406d9a94a712517a432fdc0f287e2ad2cd9c629c0a98bee4881c",
+    "question_skeleton": "assertion a in sub zero winter climates farmers store bottles of fresh juice or wine immersed in large vats of water inside cellars reason r before wine can freeze the large volume of water must freeze first releasing immense latent heat # j g to prevent wine from freezing choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_25_a719e9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Specific latent heat of vaporization of water value",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The specific latent heat of vaporization of water is approximately 2260 J g⁻¹ (2.26 × 10⁶ J kg⁻¹). **Reason (R):** Converting liquid water into steam involves breaking all hydrogen bonds and expanding against atmospheric pressure, requiring massive energy. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and complete molecular bond disruption plus work of expansion against atmosphere explains 2260 J/g.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "65e7a53e03506359f3fa5cddb505c147028c5be36bf2e9357a7b03934e3d0656",
+    "question_skeleton": "assertion a the specific latent heat of vaporization of water is approximately # j g # # j kg reason r converting liquid water into steam involves breaking all hydrogen bonds and expanding against atmospheric pressure requiring massive energy choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_26_451e27",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Heat transfer stops at thermal equilibrium",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When two bodies placed in thermal contact reach the exact same temperature, net heat transfer between them stops. **Reason (R):** Heat flows spontaneously from a region of higher temperature to lower temperature; zero temperature difference means zero net thermal flux. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and equality of temperature (thermal equilibrium) halts net conductive heat flow.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "09c411c2d8ce15eb1930d5c74ca0140abcf85fe597cebf35cae4786e2fbc2d44",
+    "question_skeleton": "assertion a when two bodies placed in thermal contact reach the exact same temperature net heat transfer between them stops reason r heat flows spontaneously from a region of higher temperature to lower temperature zero temperature difference means zero net thermal flux choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_27_5d16c1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Thermal insulation of wool in calorimeter",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The space between a calorimeter and its outer wooden jacket is packed with glass wool or felt. **Reason (R):** Wool and felt trap air in micro-pockets; trapped air is a poor conductor of heat, minimizing conductive and convective heat losses. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and stagnant trapped air acting as an excellent insulator minimizes thermal leakage.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fb9518ea6340e2d40338470e122d3132d8af5f0cb1ec18c90518c06c063f1fc1",
+    "question_skeleton": "assertion a the space between a calorimeter and its outer wooden jacket is packed with glass wool or felt reason r wool and felt trap air in micro pockets trapped air is a poor conductor of heat minimizing conductive and convective heat losses choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_28_9517e6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Calorimeter lid with holes",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The lid of a calorimeter is fitted with two rubber-lined holes for inserting a sensitive thermometer and a copper stirrer. **Reason (R):** Stirring ensures rapid and uniform thermal mixing of the contents, while rubber lining minimizes conductive loss through the holes. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and uniform temperature distribution via stirring plus insulation via rubber grommets ensures measurement accuracy.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b045c238cba1722be7c7e232142ed53a6af8ce82f29917e332ebc1ae16af1c7a",
+    "question_skeleton": "assertion a the lid of a calorimeter is fitted with two rubber lined holes for inserting a sensitive thermometer and a copper stirrer reason r stirring ensures rapid and uniform thermal mixing of the contents while rubber lining minimizes conductive loss through the holes choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_29_e07355",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Water equivalent has dimensions of mass",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The water equivalent of any body has the SI unit kilogram. **Reason (R):** Water equivalent represents the physical mass of water that would absorb the exact same heat as the body for a 1 K temperature rise. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and representing an equivalent mass of water means its unit is the kilogram.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "15a9d30ee13e130cf786351111ce6a76fa9605e7268a5741bd4a8961377e1399",
+    "question_skeleton": "assertion a the water equivalent of any body has the si unit kilogram reason r water equivalent represents the physical mass of water that would absorb the exact same heat as the body for a # k temperature rise choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_30_1447f6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Heat capacity of calorimeter and error",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In precise calorimetry calculations, the heat absorbed by the calorimeter and stirrer must be accounted for. **Reason (R):** The calorimeter and stirrer also undergo the exact same temperature change as the contents inside them (Q_cal = m_c·c_c·ΔT). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and vessel heat absorption must be included in the energy balance for accurate specific heat values.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8f56912c3561ee5d1f2a771480564d5fb37fc9a0f9264eee9fc5e17f4c3f1e22",
+    "question_skeleton": "assertion a in precise calorimetry calculations the heat absorbed by the calorimeter and stirrer must be accounted for reason r the calorimeter and stirrer also undergo the exact same temperature change as the contents inside them q cal m c c c t choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_31_bbf137",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Effect of pressure on melting point of ice",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Increasing external pressure lowers the melting point of ice slightly below 0°C. **Reason (R):** Ice contracts upon melting (volume of water < volume of ice), so increased pressure favors the denser liquid phase (regelation). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and volume contraction on melting combined with Le Chatelier's principle explains regelation.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8092c97f7fb77d5f0e790df4e5f6f97e3b6e6ef7ea941a55eba3326db881d966",
+    "question_skeleton": "assertion a increasing external pressure lowers the melting point of ice slightly below # c reason r ice contracts upon melting volume of water volume of ice so increased pressure favors the denser liquid phase regelation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_32_235ab9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Effect of pressure on boiling point of liquids",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The boiling point of any liquid increases when the external pressure on its surface is increased. **Reason (R):** Boiling occurs when the liquid's vapor pressure equals external pressure, requiring higher temperature to reach higher vapor pressure. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and matching vapor pressure to elevated ambient pressure requires higher thermal energy.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9422b5fc631ac6b2a201bad1a1c2c39b477e81e52c68daf3541754abc823ed76",
+    "question_skeleton": "assertion a the boiling point of any liquid increases when the external pressure on its surface is increased reason r boiling occurs when the liquid s vapor pressure equals external pressure requiring higher temperature to reach higher vapor pressure choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_33_ce7d86",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Effect of dissolved impurities on boiling point",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Adding common salt to boiling water raises its boiling point above 100°C. **Reason (R):** Non-volatile solute molecules occupy surface sites, reducing water's vapor pressure and requiring higher temperature to boil. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and vapor pressure lowering by non-volatile solute elevates boiling point.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "63a2854d1b546038383a2b1509e04772f94ca210b0a8d83d52461568e64675d0",
+    "question_skeleton": "assertion a adding common salt to boiling water raises its boiling point above # c reason r non volatile solute molecules occupy surface sites reducing water s vapor pressure and requiring higher temperature to boil choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_34_351f26",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Effect of impurities on freezing point",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The freezing point of water drops below 0°C when impurities like salt or sugar are dissolved in it. **Reason (R):** Foreign solute molecules interfere with the orderly crystallization of water molecules into a solid ice lattice. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and lattice disruption lowering chemical potential depresses the freezing point.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b4264347ea583a4fbaa462d73039510d3229693f001520447cac41f086c12693",
+    "question_skeleton": "assertion a the freezing point of water drops below # c when impurities like salt or sugar are dissolved in it reason r foreign solute molecules interfere with the orderly crystallization of water molecules into a solid ice lattice choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_35_6c0c1c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Slopes of heating curve meaning",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In a temperature-versus-time graph for a heated substance, the slope of the curve is inversely proportional to its heat capacity. **Reason (R):** Slope = dT/dt = (1 / m·c) · (dQ/dt), so for a constant rate of heat supply, a larger heat capacity produces a gentler slope. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and dT/dt = P / (mc) mathematically confirms that slope is inversely proportional to heat capacity.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "22cf259df6f2ac5fdfb1eb5d2dbf1b5190e3a0d6278a601192d67946be95c81a",
+    "question_skeleton": "assertion a in a temperature versus time graph for a heated substance the slope of the curve is inversely proportional to its heat capacity reason r slope dt dt # m c dq dt so for a constant rate of heat supply a larger heat capacity produces a gentler slope choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_36_f67cf9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Water slope vs ice slope in heating curve",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The temperature-time graph of heated water has a gentler slope than that of an equal mass of heated ice under the same heater. **Reason (R):** The specific heat capacity of water (4200 J kg⁻¹ K⁻¹) is double that of ice (2100 J kg⁻¹ K⁻¹). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Double the specific heat capacity means half the rate of temperature rise, giving a gentler slope.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5454e5944d6917e4853964306faf149c6224d7e6a56a9b44d86ffce4ff3fe4d4",
+    "question_skeleton": "assertion a the temperature time graph of heated water has a gentler slope than that of an equal mass of heated ice under the same heater reason r the specific heat capacity of water # j kg k is double that of ice # j kg k choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_37_ed9f42",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Dog panting in hot weather",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Dogs pant with their tongues hanging out on hot summer afternoons. **Reason (R):** Dogs have very few sweat glands; rapid evaporation of saliva from the wet tongue provides evaporative cooling for the body. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and evaporative cooling from the tongue compensates for the absence of cutaneous sweat glands.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "132acf46a35d5c3374bf9cc0528e06c7f95f5b3c6ebeb8d8404598f7ed596608",
+    "question_skeleton": "assertion a dogs pant with their tongues hanging out on hot summer afternoons reason r dogs have very few sweat glands rapid evaporation of saliva from the wet tongue provides evaporative cooling for the body choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_38_ac2c96",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Dew drops on grass in autumn",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Dew drops form on grass blades on calm, clear autumn nights. **Reason (R):** Grass blades radiate heat rapidly to the clear sky, cooling below the dew point of the surrounding humid air and condensing vapor. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and radiative cooling of ground surfaces below the atmospheric dew point causes dew formation.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "28105da858a9fada2915f07f00f18ecb1c1666ac52db3c312e22871a9bb72590",
+    "question_skeleton": "assertion a dew drops form on grass blades on calm clear autumn nights reason r grass blades radiate heat rapidly to the clear sky cooling below the dew point of the surrounding humid air and condensing vapor choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_39_4c8504",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Specific heat capacity is intensive property",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The specific heat capacity of 1 kg of copper is identical to the specific heat capacity of 10 kg of copper. **Reason (R):** Specific heat capacity is an intrinsic intensive property of a substance, independent of the mass or shape of the sample. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and mass-independent intrinsic material character defines specific heat capacity.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e447467174032f3334871595d219a1032bcf1b5212cd9b361952c9568184feba",
+    "question_skeleton": "assertion a the specific heat capacity of # kg of copper is identical to the specific heat capacity of # kg of copper reason r specific heat capacity is an intrinsic intensive property of a substance independent of the mass or shape of the sample choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_calorimetry_40_abd81b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Calorimetry",
+    "title": "Assertion–Reason: Heat gained formula during heating",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The amount of heat gained by a body of mass m when heated from temperature T₁ to T₂ is Q = m·c·(T₂ - T₁). **Reason (R):** Heat absorbed is directly proportional to the mass of the body, its specific heat capacity, and the temperature rise (Q = mcΔT). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Q = mcΔT is the fundamental governing formula of calorimetry.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1171f71add55e037660a11be2631b898cfb03f39bba1844f0b0824c3ae58a18c",
+    "question_skeleton": "assertion a the amount of heat gained by a body of mass m when heated from temperature t to t is q m c t t reason r heat absorbed is directly proportional to the mass of the body its specific heat capacity and the temperature rise q mc t choose the correct option"
+  }
+]

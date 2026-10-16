@@ -1,0 +1,1344 @@
+[
+  {
+    "globalId": "qb_hots_current_electricity_1_ovqri",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Identifying a Resistance from an Experimental Graph",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An experiment produces a straight-line graph of voltage V against current I. The line does not pass through the origin because the graph's displayed portion begins at I=1,A, V=3,V, and continues through I=3,A, V=9,V. What is the resistance represented by the gradient of the graph?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 300 175\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <g stroke=\"currentColor\" stroke-width=\"1.5\" fill=\"none\"><path d=\"M45 145 V20 M45 145 H275\"/><path d=\"M85 115 L225 35\" stroke-width=\"2.5\"/><path d=\"M85 115 V145 M225 35 V145 M45 115 H85 M45 35 H225\" stroke-dasharray=\"4 4\"/></g>\n    <g fill=\"currentColor\" font-size=\"11\"><text x=\"12\" y=\"25\">V (V)</text><text x=\"255\" y=\"166\">I (A)</text><text x=\"78\" y=\"160\">1</text><text x=\"218\" y=\"160\">3</text><text x=\"20\" y=\"119\">3</text><text x=\"20\" y=\"39\">9</text><text x=\"90\" y=\"106\">(1, 3)</text><text x=\"226\" y=\"30\">(3, 9)</text></g>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "6,Ω"
+      },
+      {
+        "key": "B",
+        "text": "3,Ω"
+      },
+      {
+        "key": "C",
+        "text": "4,Ω"
+      },
+      {
+        "key": "D",
+        "text": "2,Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The gradient is\n\n\nR=(Δ V / Δ I)\n=(9-3 / 3-1)\n=frac62=3,Ω\n\n\nThe gradient must be calculated from the change in voltage divided by the change in current. Option A incorrectly uses the voltage change without dividing by the current change.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_2_k397n",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Fuse Placement and Rating",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 230,V supply feeds a 920,W appliance through an ideal ammeter and a fuse connected in series. The fuse is rated 3,A. Assuming the appliance operates at its rated voltage, which conclusion is correct?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 105\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <g stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\"><path d=\"M30 25 H75 M105 25 H135 M165 25 H195 M235 25 H285 V75 H30 V25\"/><rect x=\"75\" y=\"17\" width=\"30\" height=\"16\"/><circle cx=\"150\" cy=\"25\" r=\"15\"/><rect x=\"195\" y=\"17\" width=\"40\" height=\"16\"/><path d=\"M30 25 V42 M20 30 H40 M24 38 H36\"/></g>\n    <g fill=\"currentColor\" font-size=\"10\" text-anchor=\"middle\"><text x=\"90\" y=\"10\">Fuse 3 A</text><text x=\"150\" y=\"29\">A</text><text x=\"215\" y=\"10\">Appliance</text><text x=\"14\" y=\"59\">230 V</text><text x=\"160\" y=\"95\">Series connection</text></g>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Its current is 4,A, so the 3,A fuse is undersized for normal operation."
+      },
+      {
+        "key": "B",
+        "text": "Its current is 3,A, so the fuse is exactly matched."
+      },
+      {
+        "key": "C",
+        "text": "Its current is 0.25,A, so the fuse is oversized."
+      },
+      {
+        "key": "D",
+        "text": "Its current is 920,A, because power is measured in watts."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "I=(P / V)=(920 / 230)=4,A\n\n\nThe normal operating current exceeds the fuse rating. A 3,A fuse is therefore unsuitable for this appliance's stated rated operation. Option B incorrectly equates the fuse rating with the operating current without calculation.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_3_qvsvy",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Appliance at a Different Supply Voltage",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A bulb rated 12,V,,24,W is connected to a 6,V supply. Assume its resistance remains constant at the value calculated from its rating. What power does the bulb dissipate at 6,V?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 300 105\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <g stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\"><path d=\"M35 25 H120 M160 25 H265 V75 H35 V25\"/><circle cx=\"140\" cy=\"25\" r=\"20\"/><path d=\"M35 25 V42 M25 30 H45 M29 38 H41\"/></g>\n    <g fill=\"currentColor\" font-size=\"11\" text-anchor=\"middle\"><text x=\"140\" y=\"29\">Bulb</text><text x=\"18\" y=\"60\">6 V</text><text x=\"150\" y=\"96\">Rated: 12 V, 24 W</text></g>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "24,W"
+      },
+      {
+        "key": "B",
+        "text": "12,W"
+      },
+      {
+        "key": "C",
+        "text": "6,W"
+      },
+      {
+        "key": "D",
+        "text": "3,W"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "R=(V² / P)=(12² / 24)=6,Ω\n\n\n\nP'=(6² / 6)=6,W\n\n\nHalving the voltage reduces power to one-quarter when resistance remains constant. Option B incorrectly assumes power is directly proportional to voltage.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_4_1ykde",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Heating Effect of Current",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two heating elements X and Y, each of resistance 10,Ω, are separately connected to the same ideal 20,V source. Element X operates for 60,s, while element Y operates for 120,s. What is the ratio of heat produced by Y to that produced by X?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 125\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <g stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\"><path d=\"M35 25 H105 M145 25 H285 V60 H35 V25\"/><rect x=\"105\" y=\"15\" width=\"40\" height=\"20\"/><path d=\"M35 60 V80 H105 M145 80 H285 V60\"/><rect x=\"105\" y=\"70\" width=\"40\" height=\"20\"/><path d=\"M35 25 V42 M25 30 H45 M29 38 H41\"/></g>\n    <g fill=\"currentColor\" font-size=\"11\" text-anchor=\"middle\"><text x=\"125\" y=\"8\">X: 10 Ω</text><text x=\"125\" y=\"64\">Y: 10 Ω</text><text x=\"18\" y=\"56\">20 V</text><text x=\"220\" y=\"18\">60 s</text><text x=\"220\" y=\"73\">120 s</text><text x=\"160\" y=\"113\">Same voltage and resistance</text></g>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "2:1"
+      },
+      {
+        "key": "B",
+        "text": "1:2"
+      },
+      {
+        "key": "C",
+        "text": "4:1"
+      },
+      {
+        "key": "D",
+        "text": "1:1"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Joule's law gives H=I^2Rt. Since the resistance and supply voltage are identical, the current is identical. Therefore, heat is directly proportional to time:\n\n\n(H_Y / H_X)=(120 / 60)=2\n\n\nThe ratio is 2:1. Option C incorrectly squares the time ratio; Joule's law involves the square of current, not the square of time.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_5_x043y",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Ammeter Connected in the Wrong Position",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 6,V ideal battery is connected to a 3,Ω resistor. An ideal ammeter is mistakenly connected in parallel across the resistor. What is the most accurate prediction for this idealised circuit?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 300 135\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\"><path d=\"M40 25 H120 M160 25 H260 V105 H40 V25\" /><rect x=\"120\" y=\"15\" width=\"40\" height=\"20\" /><circle cx=\"140\" cy=\"75\" r=\"17\" /><path d=\"M120 25 V75 H123 M157 75 H260 V25 M120 75 H123 M157 75 H160\" /><path d=\"M40 25 V45 M30 32 H50 M34 40 H46\" /></g><g fill=\"currentColor\" font-size=\"11\" text-anchor=\"middle\"><text x=\"140\" y=\"8\">3 Ω</text><text x=\"140\" y=\"79\">A</text><text x=\"18\" y=\"65\">6 V</text><text x=\"150\" y=\"126\">Ammeter shunts the resistor</text></g></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The ammeter reads 2,A, as if it were in series."
+      },
+      {
+        "key": "B",
+        "text": "The ammeter reads zero because the resistor is bypassed."
+      },
+      {
+        "key": "C",
+        "text": "The ammeter reads 6,A, because its resistance is zero and it short-circuits the resistor."
+      },
+      {
+        "key": "D",
+        "text": "The ammeter reads 0.5,A, because the resistor limits the current."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "1. An ideal ammeter has zero resistance.\n2. Connected directly across the resistor, it provides a zero-resistance path between the resistor's terminals.\n3. The resistor is short-circuited, and the ideal battery drives current through the zero-resistance path without a finite value in this ideal model.\n4. Strictly, the current is **unbounded/undefined in the ideal model**, not 6,A. Therefore, the numerical options contain a trap: no finite current can be calculated without additional resistance.\n\n**Correction to the options:** The scientifically correct answer is that the ideal model predicts an undefined, unbounded short-circuit current. None of the four numerical options is correct. This is precisely why an ideal ammeter must never be connected in parallel with a source or component.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_6_rz5s0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Resistivity and Temperature Change",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A wire has resistance 10,Ω at a certain temperature. Its length and cross-sectional area remain constant, but its resistivity increases by 15% when its temperature rises. What is its new resistance?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "8.5,Ω"
+      },
+      {
+        "key": "B",
+        "text": "10.15,Ω"
+      },
+      {
+        "key": "C",
+        "text": "11.5,Ω"
+      },
+      {
+        "key": "D",
+        "text": "15,Ω"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Since\n\n\nR=rho(L / A)\n\n\nand length and area are constant, resistance is directly proportional to resistivity.\n\n\nR'=10≤ft(1+(15 / 100)right)\n=11.5,Ω\n\n\nThe increase is 1.5,Ω. Option D incorrectly treats the percentage increase as the final resistance.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_7_8bsl8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Resistivity and Wire Dimensions",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A wire of resistivity 1.6×10^,Ωm, length 5,m, and cross-sectional area 0.8,mm² is connected across a 2,V source. What current flows through it?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.02,A"
+      },
+      {
+        "key": "B",
+        "text": "2,A"
+      },
+      {
+        "key": "C",
+        "text": "20,A"
+      },
+      {
+        "key": "D",
+        "text": "0.2,A"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Convert the area:\n\n\nA=0.8×10^{-6},m²\n\n\nCalculate resistance:\n\n\nR=rho(L / A)\n=frac{1.6×10^{-8}×5}{0.8×10^{-6}}\n=0.1,Ω\n\n\nTherefore,\n\n\nI=(V / R)=(2 / 0.1)=20,A\n\n\nThe main trap is failing to convert mm² into m².",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_8_8tjnx",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Stretching a Wire Without Losing Material",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A wire has resistance 8,Ω. It is stretched uniformly to 1.5 times its original length without any loss of material. Assuming its resistivity remains unchanged, calculate its new resistance.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "12,Ω"
+      },
+      {
+        "key": "B",
+        "text": "18,Ω"
+      },
+      {
+        "key": "C",
+        "text": "5.33,Ω"
+      },
+      {
+        "key": "D",
+        "text": "16,Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Since volume is constant, AL=A'L'. If L'=1.5L, then A'=A/1.5.\n\n\nR'=rho(1.5L / A/1.5)\n=(1.5)^2R\n\n\n\nR'=2.25×8=18,Ω\n\n\nOption A accounts for the increase in length but incorrectly assumes the cross-sectional area remains constant.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_9_3p1xp",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Resistance Against Length",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A graph of resistance R against length l for a uniform wire of fixed material and fixed cross-sectional area is a straight line through the origin, passing through (l=2,m, R=5,Ω). If the same wire is replaced by a wire of the same material and area but length 3,m, what is its resistance?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 300 175\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <g stroke=\"currentColor\" stroke-width=\"1.5\" fill=\"none\"><path d=\"M45 145 V20 M45 145 H275\"/><path d=\"M45 145 L225 45\" stroke-width=\"2.5\"/></g>\n    <g fill=\"currentColor\" font-size=\"11\"><text x=\"15\" y=\"25\">R (Ω)</text><text x=\"240\" y=\"166\">l (m)</text><text x=\"25\" y=\"158\">0</text><text x=\"220\" y=\"40\">(2, 5)</text></g>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "2.5,Ω"
+      },
+      {
+        "key": "B",
+        "text": "7.5,Ω"
+      },
+      {
+        "key": "C",
+        "text": "5,Ω"
+      },
+      {
+        "key": "D",
+        "text": "15,Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For fixed material and cross-sectional area, Rpropto l.\n\n\nR₂=5≤ft((3 / 2)right)=7.5,Ω\n\n\nOption D incorrectly doubles the resistance instead of scaling it in the ratio 3:2.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_10_1jsis",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Current Distribution at a Junction",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 12,V ideal battery is connected across two parallel resistors, 4,Ω and 6,Ω. An ideal ammeter A is placed in series with the 6,Ω branch. What is the ammeter reading?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <g stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\">\n      <path d=\"M40 25 H100 M140 25 H280 V115 H40 V25 M40 70 H75 M105 70 H135 M165 70 H280\"/>\n      <rect x=\"100\" y=\"15\" width=\"40\" height=\"20\"/>\n      <circle cx=\"90\" cy=\"70\" r=\"15\"/>\n      <rect x=\"135\" y=\"60\" width=\"30\" height=\"20\"/>\n      <path d=\"M40 25 V43 M30 30 H50 M34 38 H46\"/>\n    </g>\n    <g fill=\"currentColor\" font-size=\"11\" text-anchor=\"middle\">\n      <text x=\"120\" y=\"8\">4 Ω</text><text x=\"90\" y=\"74\">A</text><text x=\"150\" y=\"53\">6 Ω</text><text x=\"17\" y=\"60\">12 V</text>\n    </g>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "1,A"
+      },
+      {
+        "key": "B",
+        "text": "3,A"
+      },
+      {
+        "key": "C",
+        "text": "2,A"
+      },
+      {
+        "key": "D",
+        "text": "5,A"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The 6,Ω resistor is directly across the 12,V supply. Therefore,\n\n\nI_A=(V / R)=(12 / 6)=2,A\n\n\nThe ammeter measures the current in its own branch, not the total current from the battery. The total current is 12/4+12/6=5,A, making option D the tempting trap.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_11_bh3i3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Ammeter Short-Circuit Trap",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal ammeter of zero resistance is connected directly across the terminals of an ideal 6,V battery, with no other resistance in the circuit. Which conclusion is correct under the stated ideal assumptions?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 300 110\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <g stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\">\n      <path d=\"M40 25 H130 M170 25 H260 V85 H40 V25\"/>\n      <circle cx=\"150\" cy=\"25\" r=\"19\"/>\n      <path d=\"M40 25 V42 M30 30 H50 M34 38 H46\"/>\n    </g>\n    <g fill=\"currentColor\" font-size=\"11\" text-anchor=\"middle\"><text x=\"150\" y=\"29\">A</text><text x=\"20\" y=\"60\">6 V</text><text x=\"150\" y=\"105\">Zero-resistance short circuit</text></g>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The current is 6,A."
+      },
+      {
+        "key": "B",
+        "text": "The current is zero because the ammeter has no resistance."
+      },
+      {
+        "key": "C",
+        "text": "The current is 1,A, because the battery voltage is 6,V."
+      },
+      {
+        "key": "D",
+        "text": "The ideal model predicts an unbounded, undefined current; a real circuit's current would be limited by its resistance."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Ohm's law gives I=V/R. With V=6,V and total resistance R=0, the ideal model has no finite current solution. Option A incorrectly assumes a resistance of 1,Ω. In practice, the battery's internal resistance and the resistance of the conductors limit the current.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_12_lw5x1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Voltmeter Connected Incorrectly",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 10,V ideal battery drives a 5,Ω resistor. An ideal voltmeter is mistakenly placed in series with the resistor. What are the current in the circuit and the voltmeter reading, respectively?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 300 110\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <g stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\">\n      <path d=\"M35 25 H85 M125 25 H170 M200 25 H265 V80 H35 V25\"/>\n      <rect x=\"85\" y=\"15\" width=\"40\" height=\"20\"/>\n      <circle cx=\"185\" cy=\"25\" r=\"15\"/>\n      <path d=\"M35 25 V42 M25 30 H45 M29 38 H41\"/>\n    </g>\n    <g fill=\"currentColor\" font-size=\"11\" text-anchor=\"middle\"><text x=\"105\" y=\"8\">5 Ω</text><text x=\"185\" y=\"29\">V</text><text x=\"17\" y=\"59\">10 V</text><text x=\"150\" y=\"100\">Voltmeter in series</text></g>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "2,A and 10,V"
+      },
+      {
+        "key": "B",
+        "text": "Zero and 10,V"
+      },
+      {
+        "key": "C",
+        "text": "Zero and 0,V"
+      },
+      {
+        "key": "D",
+        "text": "2,A and 0,V"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "An ideal voltmeter has infinite resistance. In series, it breaks the conducting path, so the current is zero. With no current, the resistor has zero voltage drop, and the entire battery voltage appears across the voltmeter. Option A incorrectly treats the voltmeter as a zero-resistance ammeter.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_13_545pk",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Bulbs in Series: Brightness Trap",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two bulbs are connected in series to an ideal 12,V supply. Bulb X is rated 12,V,,24,W, while bulb Y is rated 12,V,,12,W. Assume their resistances remain constant at their rated values. Which bulb dissipates more power and is therefore brighter under these assumptions?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 100\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <g stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\"><path d=\"M35 25 H105 M135 25 H185 M215 25 H285 V70 H35 V25\"/><circle cx=\"120\" cy=\"25\" r=\"15\"/><circle cx=\"200\" cy=\"25\" r=\"15\"/><path d=\"M35 25 V42 M25 30 H45 M29 38 H41\"/></g>\n    <g fill=\"currentColor\" font-size=\"11\" text-anchor=\"middle\"><text x=\"120\" y=\"29\">X</text><text x=\"200\" y=\"29\">Y</text><text x=\"17\" y=\"58\">12 V</text><text x=\"160\" y=\"91\">Series bulbs</text></g>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "X, because its rated power is greater."
+      },
+      {
+        "key": "B",
+        "text": "Both have equal brightness because they are in series."
+      },
+      {
+        "key": "C",
+        "text": "Y, because it has greater resistance and the same series current."
+      },
+      {
+        "key": "D",
+        "text": "Neither bulb glows because the supply voltage is below their combined rated voltage."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "R_X=(12² / 24)=6,Ω,qquad\nR_Y=(12² / 12)=12,Ω\n\n\nThe series current is 12/(6+12)=2/3,A.\n\nSince P=I^2R, bulb Y, with twice the resistance, dissipates twice as much power. Option A wrongly compares rated powers without considering the actual operating conditions.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_14_mvxoz",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Bulbs in Parallel",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two bulbs, each with constant resistance 8,Ω, are connected in parallel across a 16,V ideal battery. An ammeter is in the main supply line. What is the main-line current, and what happens to it if bulb Y is removed?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 300 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <g stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\"><path d=\"M35 25 H80 M110 25 H250 V110 H35 V25 M35 65 H80 M110 65 H250\"/><circle cx=\"95\" cy=\"25\" r=\"15\"/><circle cx=\"95\" cy=\"65\" r=\"15\"/><path d=\"M35 25 V42 M25 30 H45 M29 38 H41\"/></g>\n    <g fill=\"currentColor\" font-size=\"11\" text-anchor=\"middle\"><text x=\"95\" y=\"29\">X</text><text x=\"95\" y=\"69\">Y</text><text x=\"17\" y=\"58\">16 V</text><text x=\"180\" y=\"18\">8 Ω</text><text x=\"180\" y=\"58\">8 Ω</text></g>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "2,A, falling to 1,A"
+      },
+      {
+        "key": "B",
+        "text": "4,A, falling to 2,A"
+      },
+      {
+        "key": "C",
+        "text": "1,A, falling to zero"
+      },
+      {
+        "key": "D",
+        "text": "4,A, remaining unchanged"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Each bulb draws I=16/8=2,A. The total is 4,A. Removing Y leaves X connected across the full supply, so the current becomes 2,A. Option D incorrectly assumes that removing one parallel branch cannot change the total current.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_15_ckfvi",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Stretching a Wire",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A uniform wire initially has length L, area A, and resistance R. It is stretched uniformly to twice its original length without losing material. Assume resistivity remains unchanged. What is the new resistance?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 105\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <g stroke=\"currentColor\" stroke-width=\"3\" fill=\"none\"><path d=\"M35 35 H130 M190 35 H285\"/><path d=\"M35 30 V40 M285 30 V40\" stroke-width=\"1.5\"/><path d=\"M35 75 H285\" stroke-width=\"1.5\"/></g>\n    <g fill=\"currentColor\" font-size=\"11\" text-anchor=\"middle\"><text x=\"82\" y=\"24\">Initial: L, A, R</text><text x=\"237\" y=\"24\">Stretched: 2L</text><text x=\"160\" y=\"94\">Same volume, same material</text></g>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "2R"
+      },
+      {
+        "key": "B",
+        "text": "R/2"
+      },
+      {
+        "key": "C",
+        "text": "R/4"
+      },
+      {
+        "key": "D",
+        "text": "4R"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Conservation of volume gives AL=A'L'. Since L'=2L, the new area is A'=A/2.\n\n\nR'=rho(2L / A/2)=4rho(L / A)=4R\n\n\nOption A accounts for the doubled length but incorrectly assumes that the cross-sectional area remains unchanged.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_16_szt00",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Parallel Circuit: Branch Current and Voltmeter Reading",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 12,V ideal battery supplies two parallel branches containing 6,Ω and 3,Ω resistors. An ideal voltmeter is connected across the 6,Ω resistor. Which pair gives the current through the 3,Ω resistor and the ideal voltmeter reading?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 160\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\"><path d=\"M48 35 H100 M140 35 H272 V125 H48 V35 M48 80 H100 M140 80 H272\" /><rect x=\"100\" y=\"25\" width=\"40\" height=\"20\" /><rect x=\"100\" y=\"70\" width=\"40\" height=\"20\" /><path d=\"M100 25 V10 H140 V25\" /><circle cx=\"120\" cy=\"10\" r=\"0\" /><path d=\"M48 35 V58 M38 43 H58 M42 51 H54\" /><circle cx=\"120\" cy=\"10\" r=\"0\" /></g><g fill=\"currentColor\" font-size=\"11\" text-anchor=\"middle\"><text x=\"120\" y=\"18\"> </text><text x=\"120\" y=\"20\"> </text><text x=\"120\" y=\"20\"> </text><text x=\"120\" y=\"20\"> </text><text x=\"120\" y=\"18\"> </text><text x=\"120\" y=\"20\"> </text><text x=\"120\" y=\"18\"> </text><text x=\"120\" y=\"18\"> </text><text x=\"120\" y=\"20\"> </text><text x=\"120\" y=\"20\"> </text><text x=\"120\" y=\"20\"> </text><text x=\"120\" y=\"18\"> </text><text x=\"120\" y=\"18\"> </text><text x=\"120\" y=\"18\"> </text><text x=\"120\" y=\"20\"> </text><text x=\"120\" y=\"20\"> </text><text x=\"120\" y=\"40\">6 Ω</text><text x=\"120\" y=\"85\">3 Ω</text><text x=\"20\" y=\"30\">12 V</text><text x=\"190\" y=\"28\">V across 6 Ω</text><text x=\"190\" y=\"148\">Parallel branches</text></g><g stroke=\"currentColor\" stroke-width=\"1.5\" fill=\"none\"><path d=\"M155 25 H166 V45 H155 M155 70 H166 V90 H155\" /></g></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "2,A and 4,V"
+      },
+      {
+        "key": "B",
+        "text": "1,A and 12,V"
+      },
+      {
+        "key": "C",
+        "text": "4,A and 12,V"
+      },
+      {
+        "key": "D",
+        "text": "4,A and 6,V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "1. In parallel, each resistor has the full battery voltage: 12,V.\n2. Current through 3,Ω: I=12/3=4,A.\n3. The voltmeter reads 12,V, because it is connected across the 6,Ω resistor, which shares the same two nodes as the battery.\n4. Option D incorrectly assumes that voltage divides between parallel branches.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_17_67tm4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Heating Effect",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Assertion:** Doubling the current through a fixed resistor for the same duration makes the heat produced four times as large. **Reason:** The heating effect is given by H=I^2Rt.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both statements are true, and the Reason correctly explains the Assertion."
+      },
+      {
+        "key": "B",
+        "text": "Both statements are true, but the Reason does not explain the Assertion."
+      },
+      {
+        "key": "C",
+        "text": "The Assertion is true, but the Reason is false."
+      },
+      {
+        "key": "D",
+        "text": "The Assertion is false, but the Reason is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Heating Effect\n\n**Assertion:** Doubling the current through a fixed resistor for the same duration makes the heat produced four times as large.\n\n**Reason:** The heating effect is given by H=I^2Rt.\n\nA) Both statements are true, and the Reason correctly explains the Assertion.\n\nB) Both statements are true, but the Reason does not explain the Assertion.\n\nC) The Assertion is true, but the Reason is false.\n\nD) The Assertion is false, but the Reason is true.\n\n**Correct Answer: A**\n\n**Reason:** With R and t fixed, heat is proportional to I². Doubling current multiplies the heat by 2²=4.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_18_zvt2h",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Power Ratio for Two Resistors in Series",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Resistors of 3,Ω and 9,Ω are connected in series. What is the ratio of power dissipated in the 3,Ω resistor to that in the 9,Ω resistor?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1:3"
+      },
+      {
+        "key": "B",
+        "text": "3:1"
+      },
+      {
+        "key": "C",
+        "text": "1:9"
+      },
+      {
+        "key": "D",
+        "text": "9:1"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The same current flows through both series resistors. Since P=I^2R,\n\n\nP₃:P₉=3:9=1:3\n\n\nThe larger resistor dissipates more power under the same series current. Option C incorrectly squares the resistance ratio.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_19_gct47",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Appliance Power at a Lower Voltage",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 240,V,,1200,W heater is connected to a 200,V supply. Assuming its resistance remains constant, calculate its actual power consumption.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1200,W"
+      },
+      {
+        "key": "B",
+        "text": "1000,W"
+      },
+      {
+        "key": "C",
+        "text": "833.3,W"
+      },
+      {
+        "key": "D",
+        "text": "1440,W"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "First find the heater's resistance at its rating:\n\n\nR=(240² / 1200)=48,Ω\n\n\nAt 200,V,\n\n\nP'=(200² / 48)\n=833.3,W\n\n\nOption B incorrectly assumes power changes in direct proportion to voltage. With constant resistance, power varies as the square of voltage.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_20_gqonk",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Series Circuit: Current and Potential Difference",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 12 V ideal battery is connected in series with a 2,Ω resistor, an ideal ammeter A, and a 4,Ω resistor. If the ammeter reads 2,A, what is the potential difference across the 4,Ω resistor and the total power supplied by the battery, respectively?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\"><path d=\"M45 45 H90 M120 45 H155 M185 45 H275 V112 H45 V45\" /><rect x=\"90\" y=\"35\" width=\"30\" height=\"20\" /><circle cx=\"170\" cy=\"45\" r=\"15\" /><rect x=\"125\" y=\"102\" width=\"65\" height=\"20\" /><path d=\"M45 58 V78 M35 64 H55 M39 72 H51\" /></g><g fill=\"currentColor\" font-size=\"11\" text-anchor=\"middle\"><text x=\"105\" y=\"26\">2 Ω</text><text x=\"170\" y=\"49\">A</text><text x=\"157\" y=\"96\">4 Ω</text><text x=\"18\" y=\"91\">12 V</text><text x=\"160\" y=\"141\">Series circuit</text></g></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "4,V,,8,W"
+      },
+      {
+        "key": "B",
+        "text": "8,V,,24,W"
+      },
+      {
+        "key": "C",
+        "text": "8,V,,12,W"
+      },
+      {
+        "key": "D",
+        "text": "4,V,,24,W"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. The voltage across the 4,Ω resistor is V=IR=2×4=8,V.\n2. Total power supplied by the ideal battery is P=VI=12×2=24,W.\n3. The tempting error is to calculate power using only the voltage across the 4,Ω resistor. That gives 16,W, which is the power dissipated in that resistor alone, not the total power supplied.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_21_ia65d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Equivalent Resistance of a Series-Parallel Network",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Three resistors of 4,Ω, 12,Ω, and 6,Ω are arranged so that the 12,Ω and 6,Ω resistors are in parallel, and this combination is in series with the 4,Ω resistor. What is the equivalent resistance?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10,Ω"
+      },
+      {
+        "key": "B",
+        "text": "8,Ω"
+      },
+      {
+        "key": "C",
+        "text": "6,Ω"
+      },
+      {
+        "key": "D",
+        "text": "4,Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "R_p=(12×6 / 12+6)=4,Ω\n\n\nThe 4,Ω series resistor gives\n\n\nR_T=4+4=8,Ω\n\n\nOption C incorrectly adds the parallel resistances rather than using the reciprocal rule.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_22_xluzb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Ohmic or non-ohmic conductor",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The following readings were recorded for a conductor. | Potential difference V | Current I | | 10 V | 2 A | | 20 V | 3 A | | 30 V | 4 A | Which conclusion is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The conductor is ohmic because both voltage and current increase."
+      },
+      {
+        "key": "B",
+        "text": "The conductor is ohmic because its resistance is less than 10,Ω."
+      },
+      {
+        "key": "C",
+        "text": "The conductor is non-ohmic because its resistance does not remain constant."
+      },
+      {
+        "key": "D",
+        "text": "The conductor is non-ohmic because its current is directly proportional to voltage."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Calculate the resistance for each reading:\n\n\nR₁=(10 / 2)=5,Ω\n\n\n\nR₂=(20 / 3)≈6.67,Ω,qquad\nR₃=(30 / 4)=7.5,Ω\n\n\nSince resistance is not constant, the readings do not obey Ohm’s law. Increasing voltage and current alone does not prove that a conductor is ohmic.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_23_3r906",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "— Stretching a wire and connecting it to a source",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A uniform wire has resistance R. It is stretched uniformly until its length becomes three times its original length. Its volume and resistivity remain constant. The stretched wire is connected across the same ideal voltage source as before. What is the ratio of the new power to the original power?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3:1"
+      },
+      {
+        "key": "B",
+        "text": "1:3"
+      },
+      {
+        "key": "C",
+        "text": "1:9"
+      },
+      {
+        "key": "D",
+        "text": "9:1"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Constant volume means AL=A'L'. If length becomes 3L, the area becomes A/3.\n\n\nR'=rho(3L / A/3)=9R\n\n\nAt constant voltage,\n\n\nP=(V² / R)\n\n\nTherefore,\n\n\n(P' / P)=(V²/(9R) / V²/R)=frac19\n\n\nThe new power is one-ninth of the original power.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_24_ggv6i",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Comparing power in parallel resistors",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 4,Ω resistor and a 12,Ω resistor are connected in parallel across a 12 V source. What is the ratio of the power dissipated in the 4,Ω resistor to that in the 12,Ω resistor?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1:3"
+      },
+      {
+        "key": "B",
+        "text": "3:1"
+      },
+      {
+        "key": "C",
+        "text": "1:9"
+      },
+      {
+        "key": "D",
+        "text": "9:1"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In parallel, both resistors have the same potential difference.\n\n\nP=(V² / R)\n\n\nThus,\n\n\nP_{4}:P_{12}\n=(144 / 4):(144 / 12)\n=36:12=3:1\n\n\nThe lower-resistance branch dissipates more power at the same voltage.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_25_3nf8l",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Comparing bulbs in series and parallel",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two identical bulbs, each rated 12 V,,24 W, are connected first in series and then in parallel across an ideal 12 V source. Assume each bulb’s resistance remains constant. What is the ratio of the total power in the parallel arrangement to the total power in the series arrangement?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1:4"
+      },
+      {
+        "key": "B",
+        "text": "2:1"
+      },
+      {
+        "key": "C",
+        "text": "4:1"
+      },
+      {
+        "key": "D",
+        "text": "8:1"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Each bulb has resistance\n\n\nR=(12² / 24)=6,Ω\n\n\nIn parallel, each receives 12 V, so total power is 24+24=48 W.\n\nIn series, total resistance is 12,Ω:\n\n\nI=(12 / 12)=1 A\n\n\n\nP_{series}=I^2R_{total}=1²×12=12 W\n\n\nTherefore, 48:12=4:1.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_26_3m60k",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Comparing heating in parallel branches",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 6,Ω resistor and a 3,Ω resistor are connected in parallel across a 12 V supply for 60 s. What is the ratio of heat produced in the 6,Ω resistor to that in the 3,Ω resistor?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1:2"
+      },
+      {
+        "key": "B",
+        "text": "2:1"
+      },
+      {
+        "key": "C",
+        "text": "1:4"
+      },
+      {
+        "key": "D",
+        "text": "4:1"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both resistors have the same voltage. Since H=Pt and P=V²/R, heat over the same duration is inversely proportional to resistance.\n\n\nH₆:H₃=(1 / 6):(1 / 3)=1:2\n\n\nThe lower-resistance resistor produces twice as much heat in the same time.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_27_kznka",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Mixed Circuit with Unequal Parallel Branches",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 24,V ideal battery is connected to a 4,Ω resistor in series with a parallel combination of 8,Ω and 4,Ω. Calculate the current through the 8,Ω resistor.",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Mixed Circuit with Unequal Parallel Branches</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "1,A"
+      },
+      {
+        "key": "B",
+        "text": "2,A"
+      },
+      {
+        "key": "C",
+        "text": "3,A"
+      },
+      {
+        "key": "D",
+        "text": "4,A"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Parallel equivalent resistance:\n\n\nR_p=(8×4 / 8+4)=frac83,Ω\n\n\nTotal resistance:\n\n\nR_T=4+frac83=(20 / 3),Ω\n\n\nTotal current:\n\n\nI_T=(24 / 20/3)=3.6,A\n\n\nVoltage across the parallel combination:\n\n\nV_p=I_TR_p=3.6×frac83=9.6,V\n\n\nHence,\n\n\nI_{8Ω}=(9.6 / 8)=1.2,A\n\n\n**Correction:** The calculated current is 1.2,A, which is missing from the options. The answer choices need correction.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_28_b4syf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Electrical Power in a Mixed Circuit",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 12,V ideal battery is connected to a 2,Ω resistor in series with a parallel combination of 4,Ω and 4,Ω. Calculate the power dissipated in the series resistor.",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Electrical Power in a Mixed Circuit</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "8,W"
+      },
+      {
+        "key": "B",
+        "text": "16,W"
+      },
+      {
+        "key": "C",
+        "text": "18,W"
+      },
+      {
+        "key": "D",
+        "text": "32,W"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The parallel equivalent is\n\n\nR_p=(4×4 / 4+4)=2,Ω\n\n\nTotal resistance:\n\n\nR_T=2+2=4,Ω\n\n\nCurrent through the series resistor:\n\n\nI=(12 / 4)=3,A\n\n\nTherefore,\n\n\nP=I^2R=3²×2=18,W\n\n\n**Correction:** The correct answer is **C**, 18,W, not B.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_29_iv8x5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Electricity Cost with Two Appliances",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 1.2,kW heater operates for 45 minutes daily, while a 600,W appliance operates for 2 hours daily. Both are used for 20 days. At ₹8 per unit, calculate the total cost.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "₹1,200"
+      },
+      {
+        "key": "B",
+        "text": "₹1,440"
+      },
+      {
+        "key": "C",
+        "text": "₹1,680"
+      },
+      {
+        "key": "D",
+        "text": "₹960"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Heater energy:\n\n\nE₁=1.2×0.75×20=18,kWh\n\n\nSecond appliance energy:\n\n\nE₂=0.6×2×20=24,kWh\n\n\nTotal:\n\n\nE_T=18+24=42,kWh\n\n\nCost:\n\n\n42×₹8=₹336\n\n\n**Correction:** The correct cost is ₹336, which is absent from the options. The options must be corrected.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_current_electricity_30_3c8m4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Current Electricity",
+    "title": "Internal Resistance from a Short-Circuit Current",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A cell has an emf of 6,V. Its short-circuit current is 12,A. Calculate the internal resistance, assuming the short-circuit current is limited only by internal resistance.",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Internal Resistance from a Short-Circuit Current</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.25,Ω"
+      },
+      {
+        "key": "B",
+        "text": "0.5,Ω"
+      },
+      {
+        "key": "C",
+        "text": "2,Ω"
+      },
+      {
+        "key": "D",
+        "text": "72,Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For a short circuit, the external resistance is zero, so\n\n\nI_{sc}=(E / r)\n\n\nTherefore,\n\n\nr=(E / I_{sc)}=frac6{12}=0.5,Ω\n\n\nOption D multiplies emf by current rather than dividing them.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  }
+]

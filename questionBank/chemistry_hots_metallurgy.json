@@ -1,0 +1,1352 @@
+[
+  {
+    "globalId": "qb_hots_metallurgy_1_wdort",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Choosing a Concentration Method with a Trap Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A plant has a sulphide ore whose particles can preferentially attach to air bubbles, but it also contains gangue that differs from the ore in density. Which statement is the strongest conclusion?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Froth flotation and hydraulic washing are synonyms, so the same principle governs both."
+      },
+      {
+        "key": "B",
+        "text": "Froth flotation is suitable because of the ore’s behaviour with bubbles; hydraulic washing could be considered separately if density differences permit effective separation."
+      },
+      {
+        "key": "C",
+        "text": "The density difference proves that froth flotation cannot be used for any part of the process."
+      },
+      {
+        "key": "D",
+        "text": "Magnetic separation must be chosen even when no difference in magnetic behaviour is established."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Froth flotation and hydraulic washing rely on different separation principles. The sulphide ore’s ability to attach to bubbles supports flotation, whereas a useful density difference may support hydraulic washing. Neither observation alone establishes that the alternative method is impossible.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "0d1999a13e130818dd32f0392a452bc4af7ec89c9b7b834a9f353fd4b7af3ee1",
+    "question_skeleton": "a plant has a sulphide ore whose particles can preferentially attach to air bubbles but it also contains gangue that differs from the ore in density which statement is the strongest conclusion"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_2_shk85",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Diagnosing Multiple Errors in a Hall–Héroult Diagram Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A diagram shows alumina dissolved in cryolite and fluorspar at about 950°C. However, the labels show the carbon-lined tank connected to the positive terminal, graphite rods connected to the negative terminal, and aluminium deposited around the rods. Which correction is required?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Reverse the electrode connections so the tank is the negative cathode and the graphite rods are the positive anodes; aluminium then collects at the bottom."
+      },
+      {
+        "key": "B",
+        "text": "Keep the electrode connections and collect aluminium at the positive graphite rods."
+      },
+      {
+        "key": "C",
+        "text": "Connect both electrodes to the positive terminal and collect oxygen at the bottom."
+      },
+      {
+        "key": "D",
+        "text": "Replace the molten electrolyte with solid bauxite and reverse the direction of ion movement."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The carbon-lined steel tank is the negative cathode, and the graphite rods are the positive anodes. Aluminium ions gain electrons at the cathode, and molten aluminium collects at the bottom. Option B retains the incorrect polarity.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "9abbe4555a39c5b615201f04839a44c07b3c7293b47e301282724212f95b09e7",
+    "question_skeleton": "a diagram shows alumina dissolved in cryolite and fluorspar at about 950 c however the labels show the carbon lined tank connected to the positive terminal graphite rods connected to the negative terminal and aluminium deposited around the rods which correction is required"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_3_yoxzl",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Choosing the Correct Method from Ore Chemistry Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Two concentrated ores are processed separately. Sample P is carbonate calamine, ZnCO₃, while sample Q is sulphide zinc blende, ZnS. Which statement correctly explains their conversion into oxides?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both must be roasted in excess air and both release SO₂."
+      },
+      {
+        "key": "B",
+        "text": "Both must undergo electrolysis because they contain zinc."
+      },
+      {
+        "key": "C",
+        "text": "P is calcined to release CO₂, while Q is roasted in excess air to produce SO₂."
+      },
+      {
+        "key": "D",
+        "text": "P is roasted to produce CO₂, while Q is calcined without air to produce SO₂."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Carbonate ores undergo calcination:\n\n\nZnCO_3xrightarrow{ΔZnO+CO₂}\n\n\nSulphide ores undergo roasting:\n\n\n2ZnS+3O₂→2ZnO+2SO₂\n\n\nThe type of compound, rather than merely the metal it contains, determines the appropriate treatment.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "e414acd256da25afc7ec58a194009724296b390a0e940dd73effbaad57652fa9",
+    "question_skeleton": "two concentrated ores are processed separately sample p is carbonate calamine mathrm znco 3 while sample q is sulphide zinc blende mathrm zns which statement correctly explains their conversion into oxides"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_4_r5gxz",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Combining Baeyer’s Process with Thermal Decomposition Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A bauxite sample is treated with hot concentrated NaOH. After filtration and dilution with seeding, a precipitate is obtained and heated. Which sequence correctly identifies the soluble intermediate and the final product?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "NaAlO₂→ Al(OH)₃→ Al_2O₃"
+      },
+      {
+        "key": "B",
+        "text": "Al_2O₃→ Na_3AlF₆→ Al"
+      },
+      {
+        "key": "C",
+        "text": "Fe_2O₃→ Al(OH)₃→ NaAlO₂"
+      },
+      {
+        "key": "D",
+        "text": "Al_2O₃→ Al→ Al(OH)₃"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Sodium aluminate, NaAlO₂, forms in the alkaline solution. Dilution and seeding precipitate Al(OH)₃, which is heated to produce alumina:\n\n\n2Al(OH)_3xrightarrow{ΔAl_2O₃+3H_2O}\n\n\nElectrolytic extraction of aluminium occurs only after alumina has been obtained.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "851a455ecb1b87bec0f5644a0d964735e1783f557622df16f83cbc412a4a07f5",
+    "question_skeleton": "a bauxite sample is treated with hot concentrated naoh after filtration and dilution with seeding a precipitate is obtained and heated which sequence correctly identifies the soluble intermediate and the final product"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_5_9kp5j",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Refining from a Physical Property Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Metal P can be separated from solid, higher-melting impurities because it melts and drains away at the selected temperature. Metal Q can be separated from less-volatile impurities by vaporisation followed by condensation. Which conclusion is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P requires distillation and Q requires hydraulic washing."
+      },
+      {
+        "key": "B",
+        "text": "P requires froth flotation and Q requires electrolytic extraction."
+      },
+      {
+        "key": "C",
+        "text": "P requires magnetic separation and Q requires roasting."
+      },
+      {
+        "key": "D",
+        "text": "P is suitable for liquation, while Q is suitable for distillation."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Liquation exploits differences in melting behaviour; distillation exploits differences in volatility. Hydraulic washing, flotation and magnetic separation are concentration methods, not the stated refining routes.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "e1479ff2902237607c6ea74abb34f5dd7d59482d8d06646060e9eb9a13596fe1",
+    "question_skeleton": "metal p can be separated from solid higher melting impurities because it melts and drains away at the selected temperature metal q can be separated from less volatile impurities by vaporisation followed by condensation which conclusion is correct"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_6_5f94x",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Flux, Gangue and Slag Are Not Interchangeable Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "During smelting, a technician records a rocky impurity, an intentionally added material and a newly formed waste layer. Which record correctly uses the terms gangue, flux and slag?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gangue is the added material; flux is the waste layer; slag is the natural impurity."
+      },
+      {
+        "key": "B",
+        "text": "Gangue is the pure metal; flux is the ore; slag is the electrolyte."
+      },
+      {
+        "key": "C",
+        "text": "Gangue is the metal oxide being reduced; flux is the anode residue; slag is the refined metal."
+      },
+      {
+        "key": "D",
+        "text": "Gangue is the unwanted material associated with the ore; flux is added to react with suitable gangue; slag is the resulting product."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The terms identify three distinct things: naturally associated impurities, an added substance used to react with suitable impurities, and the product formed by that reaction. Interchanging these terms confuses an input with an unwanted constituent and a reaction product.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "85f275350ca8513a3e9725caeeb81d6ae93973c79d0af98867ca99eff9a050ec",
+    "question_skeleton": "during smelting a technician records a rocky impurity an intentionally added material and a newly formed waste layer which record correctly uses the terms gangue flux and slag"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_7_olw3a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "The Same Metal, Different Alloy Properties Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Two alloy samples contain aluminium as their principal metal. Sample P contains Al 95%, Cu 4%, Mg 0.5% and Mn 0.5%. Sample Q contains Al 95% and Mg 5%. Which conclusion avoids the common composition trap?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both are brass because each contains at least 95% of one metal."
+      },
+      {
+        "key": "B",
+        "text": "P is magnalium and Q is duralumin because copper is the principal component of duralumin."
+      },
+      {
+        "key": "C",
+        "text": "Both must be pure aluminium because their aluminium content exceeds 90%."
+      },
+      {
+        "key": "D",
+        "text": "P is duralumin and Q is magnalium; the named alloy depends on the complete composition."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Duralumin contains Al 95%, Cu 4%, Mg 0.5% and Mn 0.5%. Magnalium contains Al 95% and Mg 5%. Identifying an alloy requires matching its overall composition to the standard table.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "5f526a0b7f1e27058102be7ea1121fe690ca6e95727ad9249a25fc74d1c73950",
+    "question_skeleton": "two alloy samples contain aluminium as their principal metal sample p contains al 95 cu 4 mg 0 5 and mn 0 5 sample q contains al 95 and mg 5 which conclusion avoids the common composition trap"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_8_rzcjx",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Aluminium Yield from Impure Bauxite: Integrated Calculation",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A 690 g sample of bauxite ore contains 80% pure Al_2O₃·2H_2O by mass. The remaining 20% is inert gangue. Assuming complete purification, conversion to alumina and electrolytic recovery, what theoretical mass of aluminium can be obtained?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "408 g"
+      },
+      {
+        "key": "B",
+        "text": "216 g"
+      },
+      {
+        "key": "C",
+        "text": "552 g"
+      },
+      {
+        "key": "D",
+        "text": "432 g"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "First, calculate the mass of pure hydrated bauxite:\n\n\nm(pure bauxite)=0.80(690)=552 g\n\n\nMoles of pure bauxite:\n\n\nn=(552 / 138)=4 mol\n\n\nOne mole of hydrated bauxite yields one mole of alumina. The overall electrolytic equation is:\n\n\n2Al_2O₃→4Al+3O₂\n\n\nTherefore, four moles of alumina yield eight moles of aluminium.\n\n\nm(Al)=8(27)\n=216 g\n\n\nOption A, 408 g, is the mass of alumina theoretically obtained from the purified bauxite; it is not the mass of aluminium.\n\n---\n\n**Batch 4 complete — Numerical Questions 21–40.**\n\nReply **YES** for the next batch: **Theoretical Questions 1–30**, covering assertion–reason, incorrect statements, matching, comparisons and conceptual traps.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "b16f549985d1ad728173c1c7c0645a14449204b44e9449a4c716d90b1cee7236",
+    "question_skeleton": "a 690 g sample of bauxite ore contains 80 pure mathrm al 2o 3 cdot2h 2o by mass the remaining 20 is inert gangue assuming complete purification conversion to alumina and electrolytic recovery what theoretical mass of aluminium can be obtained"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_9_mr13k",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Alloy Versus Compound Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Material P contains variable proportions of mixed metallic elements, while material Q has a definite composition represented by a chemical formula. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P may be an alloy, while Q is a compound; the two should not be treated as equivalent categories."
+      },
+      {
+        "key": "B",
+        "text": "P must be a compound because it includes more than one element."
+      },
+      {
+        "key": "C",
+        "text": "Q must be an alloy because every compound contains at least two elements."
+      },
+      {
+        "key": "D",
+        "text": "P must have a fixed chemical formula, whereas Q has no fixed composition."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Alloys are generally mixtures whose component proportions may vary. Compounds have definite chemical compositions. The number of elements present alone does not determine whether a material is an alloy or a compound.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "61e46302d97099afa2d5767fb2fd4a78a0cfb155f39caebeb76e0b3f1c0150da",
+    "question_skeleton": "material p contains variable proportions of mixed metallic elements while material q has a definite composition represented by a chemical formula which statement is correct"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_10_tyqbc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Identifying the Correct Gas and Process Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student analyses two reactions and proposes that both must be roasting because both produce an oxide. Which statement correctly evaluates this claim?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The claim is correct because the final oxide determines every extraction step."
+      },
+      {
+        "key": "B",
+        "text": "The claim is correct only for carbonate ores, because they always produce SO₂."
+      },
+      {
+        "key": "C",
+        "text": "The claim is incorrect: a carbonate ore such as ZnCO₃ is calcined and releases CO₂, while a sulphide ore such as ZnS is roasted in excess air and releases SO₂."
+      },
+      {
+        "key": "D",
+        "text": "The claim is incorrect because neither calcination nor roasting produces metal oxides."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Both processes can produce metal oxides, but they differ in the type of starting ore and the treatment conditions. Calcination decomposes carbonate or hydroxide ores; roasting oxidises sulphide ores in excess air.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "d5dcf9bec356e9f10689daf97bc3661ab33570ed564d27ddc2780494baf2e79d",
+    "question_skeleton": "a student analyses two reactions and proposes that both must be roasting because both produce an oxide which statement correctly evaluates this claim"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_11_icr08",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Integrated Conceptual Analysis of Aluminium Extraction",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student makes the following statements: - **P:** The hydroxide obtained during Baeyer's process is heated to produce alumina. - **Q:** Alumina is dissolved in molten cryolite with a little fluorspar before electrolysis. - **R:** Aluminium is deposited at the positive graphite anode. - **S:** Oxygen formed at the anode reacts with graphite, consuming the anodes. Which option correctly identifies the true statements?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P, Q and S only."
+      },
+      {
+        "key": "B",
+        "text": "P and R only."
+      },
+      {
+        "key": "C",
+        "text": "Q, R and S only."
+      },
+      {
+        "key": "D",
+        "text": "P, Q, R and S."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "P is correct because heating aluminium hydroxide gives alumina. Q is correct because alumina is electrolysed in molten cryolite with a little fluorspar. S is correct because oxygen reacts with graphite, producing CO₂ and some CO. R is false: aluminium is deposited at the negative cathode, not the positive anode.\n\n---\n\n**Batch 5 complete — Theoretical Questions 1–30.**\n\nReply **YES** for the final batch: **Complex Questions 1–30**. Exactly 10 questions will be marked as previous ICSE board questions only if their original wording and year can be reliably verified; otherwise, they will be labelled **[Board-style]**, without inventing a year.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "065bca1379e0629246f111aa17af0a53b4405a389a2d29bc0a61b07838ddd54f",
+    "question_skeleton": "a student makes the following statements p the hydroxide obtained during baeyer s process is heated to produce alumina q alumina is dissolved in molten cryolite with a little fluorspar before electrolysis r aluminium is deposited at the positive graphite anode s oxygen formed at the anode reacts with graphite consuming the anodes which option correctly identifies the true statements"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_12_9ojoh",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Reconciling Overall Electrolysis with Anode Consumption Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student writes the balanced overall equation for alumina decomposition correctly but concludes that graphite anodes do not need replacement because carbon does not appear in that equation. Which explanation resolves the error?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Carbon is converted into cryolite during the cathode reaction."
+      },
+      {
+        "key": "B",
+        "text": "Graphite is deposited onto the cathode and removed with the molten aluminium."
+      },
+      {
+        "key": "C",
+        "text": "The overall equation already includes every secondary reaction involving the electrodes."
+      },
+      {
+        "key": "D",
+        "text": "The alumina decomposition equation represents the principal electrolytic change, while oxygen subsequently reacts with the graphite anode, consuming carbon."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The overall decomposition is:\n\n\n2Al_2O₃→4Al+3O₂\n\n\nThe oxygen produced at the anode reacts with hot graphite, forming CO₂ and some CO. The resulting carbon consumption is a secondary reaction not represented in the overall alumina decomposition equation.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "15e324ffd4485050f94accee3647c44cae65a347873364d698124fa8508b248e",
+    "question_skeleton": "a student writes the balanced overall equation for alumina decomposition correctly but concludes that graphite anodes do not need replacement because carbon does not appear in that equation which explanation resolves the error"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_13_f0sbe",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Combining Alloy Composition with Physical Properties Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "An aircraft component requires a light, strong alloy. A proposed sample has Al 95%, Cu 4%, Mg 0.5% and Mn 0.5%. A second sample contains Al 95% and Mg 5%. Which selection is correct according to the reference table?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Select the first sample as duralumin for its lightness and strength; the second is magnalium."
+      },
+      {
+        "key": "B",
+        "text": "Select the second sample as duralumin because any aluminium–magnesium alloy is duralumin."
+      },
+      {
+        "key": "C",
+        "text": "Select the first sample as brass because copper is its main constituent."
+      },
+      {
+        "key": "D",
+        "text": "Select the second sample as solder because its aluminium content lowers the melting point."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The first composition matches duralumin exactly, while the second matches magnalium. Duralumin is specifically described as light and strong and is used in aircraft and automobile parts. Alloy identification requires checking the full composition, not merely the presence of aluminium.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "abd5ebaf1146f9d64dc6916459d182b0c1ada5f63bfbd8bacc9a04dcbe86f9b3",
+    "question_skeleton": "an aircraft component requires a light strong alloy a proposed sample has al 95 cu 4 mg 0 5 and mn 0 5 a second sample contains al 95 and mg 5 which selection is correct according to the reference table"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_14_zud7w",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "A Mineral Does Not Automatically Qualify as an Ore Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Three samples are examined. Sample P contains native gold. Sample Q contains a metal-bearing mineral but does not allow economically feasible extraction. Sample R allows economically feasible extraction of its metal. Which conclusion is justified?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P may occur in the native state; Q is not necessarily an ore; R qualifies as an ore and is also a mineral."
+      },
+      {
+        "key": "B",
+        "text": "All three must be ores because each contains a metal."
+      },
+      {
+        "key": "C",
+        "text": "Q must be an ore because it cannot be processed economically."
+      },
+      {
+        "key": "D",
+        "text": "R cannot be an ore because all ores occur as pure metals."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Gold can occur native. An ore is a mineral from which the desired metal can be extracted economically. Therefore, economic feasibility distinguishes an ore from a mineral that merely contains the metal.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "48971a8fb1403a3bba0f32b5566940f51b41c89a8bdf60c9a5a2ee35a40638f5",
+    "question_skeleton": "three samples are examined sample p contains native gold sample q contains a metal bearing mineral but does not allow economically feasible extraction sample r allows economically feasible extraction of its metal which conclusion is justified"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_15_php0g",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Anode, Cathode and Metal Collection Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A diagram of the Hall–Héroult cell labels the graphite rods as the positive anodes and the carbon-lined tank as the negative cathode. The diagram also shows molten aluminium collecting at the bottom. Which explanation makes all three features consistent?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The anodes supply metallic aluminium ions while the cathode gives off oxygen."
+      },
+      {
+        "key": "B",
+        "text": "Both electrodes are positive, and molten aluminium is formed by chemical reaction with cryolite."
+      },
+      {
+        "key": "C",
+        "text": "Oxygen forms at the cathode, while aluminium forms at the anode and sinks through graphite."
+      },
+      {
+        "key": "D",
+        "text": "Aluminium ions gain electrons at the negative cathode, oxygen ions lose electrons at the positive anode, and molten aluminium collects below the electrolyte."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The electrode labels, redox reactions and collection point are consistent. Aluminium forms at the cathode; oxygen forms at the anode and can react with the graphite. The molten metal accumulates at the bottom for tapping.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "7e99bd6bb82c5f13064d35b5f40b98f2f40eea4deae80a3e56fab361ceed0965",
+    "question_skeleton": "a diagram of the hall h roult cell labels the graphite rods as the positive anodes and the carbon lined tank as the negative cathode the diagram also shows molten aluminium collecting at the bottom which explanation makes all three features consistent"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_16_0z2mb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Complete Process Audit Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A metallurgical plant proposes this order for extracting aluminium: refine bauxite into aluminium hydroxide; directly reduce the hydroxide using carbon; add cryolite after metallic aluminium is formed; then electrolytically refine the aluminium using the same process as extraction. Which correction gives the appropriate route?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Roast bauxite in excess air to form aluminium metal, use NaOH as the cathode and add cryolite during refining."
+      },
+      {
+        "key": "B",
+        "text": "Purify bauxite using hot concentrated NaOH; precipitate Al(OH)₃; heat it to Al₂O₃; electrolyse the alumina dissolved in molten cryolite with a little fluorspar; collect aluminium at the cathode."
+      },
+      {
+        "key": "C",
+        "text": "Electrolyse raw bauxite first; precipitate sodium aluminate from the molten metal; roast aluminium hydroxide to aluminium."
+      },
+      {
+        "key": "D",
+        "text": "Add graphite to bauxite to produce sodium aluminate, then use cryolite to convert it into pure aluminium without electrolysis."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The proper sequence is chemical purification by Baeyer's process, precipitation of aluminium hydroxide, heating to alumina, and electrolytic extraction by the Hall–Héroult process. Aluminium collects at the negative cathode. The proposed route wrongly substitutes carbon reduction for electrolysis and places cryolite after extraction.\n\n---\n\n**Complex batch complete: Questions 1–30.**\n\nThe first 10 questions are tied to past-paper prompts from 2002, 2005, 2015 and 2019; their wording has been adapted into MCQs. Sources: ICSE 2002 Chemistry paper , ICSE 2005 Chemistry paper , ICSE 2015 Chemistry paper , and ICSE 2019 Chemistry paper .",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "9543078a7c2afc8d21b9a321bad4019e6a9eeeb310a44848766c5b883fea2fed",
+    "question_skeleton": "a metallurgical plant proposes this order for extracting aluminium refine bauxite into aluminium hydroxide directly reduce the hydroxide using carbon add cryolite after metallic aluminium is formed then electrolytically refine the aluminium using the same process as extraction which correction gives the appropriate route"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_17_eaepw",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Limiting Reagent in Baeyer's Process",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A process vessel contains 276 g of pure bauxite, Al_2O₃·2H_2O, and 120 g of NaOH. Assuming complete reaction of the limiting reagent, calculate the theoretical mass of sodium aluminate, NaAlO₂, formed.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "328 g"
+      },
+      {
+        "key": "B",
+        "text": "164 g"
+      },
+      {
+        "key": "C",
+        "text": "246 g"
+      },
+      {
+        "key": "D",
+        "text": "492 g"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The balanced equation is:\n\n\nAl_2O₃·2H_2O+2NaOH\n→\n2NaAlO₂+3H_2O\n\n\nMoles of bauxite:\n\n\nn=(276 / 138)=2 mol\n\n\nMoles of NaOH:\n\n\nn=(120 / 40)=3 mol\n\n\nTwo moles of bauxite require four moles of NaOH, but only three moles are available. Therefore, NaOH is the limiting reagent.\n\nThe equation gives a 1:1 mole ratio of NaOH to NaAlO₂:\n\n\nn(NaAlO₂)=3 mol\n\n\n\nm=3[23+27+2(16)]\n=3(82)\n=246 g\n\n\nOption A assumes that all the bauxite reacts, ignoring the shortage of NaOH.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "2c4f1bf995c5d1d5f634ede1872635fba19234c17655de12be31e0090424e7a7",
+    "question_skeleton": "a process vessel contains 276 g of pure bauxite mathrm al 2o 3 cdot2h 2o and 120 g of naoh assuming complete reaction of the limiting reagent calculate the theoretical mass of sodium aluminate mathrm naalo 2 formed"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_18_k7su1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Precipitation of Aluminium Hydroxide",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A sodium aluminate, NaAlO₂, solution contains 246 g of the compound. On dilution and seeding, complete precipitation occurs according to the Baeyer's process equation. What mass of Al(OH)₃ is formed?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "156 g"
+      },
+      {
+        "key": "B",
+        "text": "208 g"
+      },
+      {
+        "key": "C",
+        "text": "234 g"
+      },
+      {
+        "key": "D",
+        "text": "312 g"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The balanced equation is:\n\n\nNaAlO₂+2H_2O\n→\nAl(OH)₃+NaOH\n\n\nMolar masses:\n\n\nM(NaAlO₂)=82\n\n\n\nM(Al(OH)₃)=27+3(16+1)=78\n\n\nMoles of sodium aluminate:\n\n\nn=(246 / 82)=3 mol\n\n\nThe molar ratio of NaAlO₂ to Al(OH)₃ is 1:1.\n\n\nm(Al(OH)₃)=3×78\n=234 g\n\n\nOption A incorrectly treats the conversion as producing only 2 mol of aluminium hydroxide.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "8ffb222313ea86c806ea5e6c352fc3448d34d0d68c79be5990c710cb8e82e449",
+    "question_skeleton": "a sodium aluminate mathrm naalo 2 solution contains 246 g of the compound on dilution and seeding complete precipitation occurs according to the baeyer s process equation what mass of mathrm al oh 3 is formed"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_19_cgz78",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Concentration Methods",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement about concentration of ores is **incorrect**?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydraulic washing uses differences in relative density."
+      },
+      {
+        "key": "B",
+        "text": "Magnetic separation uses differences in magnetic behaviour."
+      },
+      {
+        "key": "C",
+        "text": "Froth flotation is particularly suitable for sulphide ores."
+      },
+      {
+        "key": "D",
+        "text": "Chemical leaching separates ore particles solely according to their relative densities."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Chemical leaching relies on selective dissolution in a suitable reagent. Density-based separation is the principle of hydraulic washing. The other three statements correctly describe their respective methods.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "78b033401580c19926c9f806ae49557ea1bdb4e65078bd651e6605164a77aca2",
+    "question_skeleton": "which statement about concentration of ores is incorrect"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_20_qm2tb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Refining Methods",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement is incorrect?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Electrolytic refining uses an impure anode and a pure-metal cathode."
+      },
+      {
+        "key": "B",
+        "text": "Liquation separates a lower-melting metal from suitable higher-melting impurities."
+      },
+      {
+        "key": "C",
+        "text": "Distillation can refine a metal by exploiting differences in volatility."
+      },
+      {
+        "key": "D",
+        "text": "Poling is the process of refining a metal by attracting its particles towards a magnetic drum."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Poling is used in refining copper, with gases from green wood helping remove oxide impurities. Magnetic separation is a concentration method based on differences in magnetic behaviour.\n\n---\n\n## Section C — Matching and Classification",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "afcb3fe25e0d13301fce8107c4cd09f942062788879567738dab992c27d429a6",
+    "question_skeleton": "which statement is incorrect"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_21_khvzh",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Previous Board Question, 2019 — Aluminium in Duralumin",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A past ICSE multiple-choice question asked why aluminium is used in duralumin. Which option gives the intended answer?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Aluminium makes duralumin brittle."
+      },
+      {
+        "key": "B",
+        "text": "Aluminium brings lightness to the alloy."
+      },
+      {
+        "key": "C",
+        "text": "Aluminium makes the alloy a low-melting solder."
+      },
+      {
+        "key": "D",
+        "text": "Aluminium makes the alloy identical to pure copper."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Aluminium is the principal constituent of duralumin and contributes its lightness. Copper, magnesium and manganese are present in the specified smaller proportions, helping produce a light, strong alloy.",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "d2d36627af04f5a4c661e6f5d8b04de9aebc9302841d339f6bbbe2978fadd83d",
+    "question_skeleton": "a past icse multiple choice question asked why aluminium is used in duralumin which option gives the intended answer cite refs turn757737search0 turn757737search1"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_22_p5ybs",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Why Carbon Cannot Replace Electrolysis Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student proposes replacing the Hall–Héroult process with direct heating of alumina in the presence of carbon. Which assessment is most accurate?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The proposal is correct because aluminium oxide decomposes into aluminium at any temperature above its melting point."
+      },
+      {
+        "key": "B",
+        "text": "The proposal is incorrect because carbon cannot reduce the highly stable alumina under the usual extraction conditions; electrolytic reduction is required."
+      },
+      {
+        "key": "C",
+        "text": "The proposal is correct because cryolite transfers electrons to alumina before heating."
+      },
+      {
+        "key": "D",
+        "text": "The proposal is incorrect only because bauxite cannot be converted into alumina."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Aluminium is highly reactive and forms a very stable oxide. Ordinary carbon reduction is not suitable for extracting aluminium from alumina under the conditions considered. Electrolysis of molten alumina dissolved in cryolite with fluorspar is used instead.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "7f51b41e1cf0564d30dc07bab392370ec147aadd01920ab7af64e791962e70be",
+    "question_skeleton": "a student proposes replacing the hall h roult process with direct heating of alumina in the presence of carbon which assessment is most accurate"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_23_iwg3y",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Separating an Ore, an Additive and a Product Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A laboratory labels four substances: bauxite, cryolite, sodium aluminate and fluorspar. Which classification correctly distinguishes their functions?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bauxite is the electrolyte additive; cryolite is the soluble product of Baeyer’s process."
+      },
+      {
+        "key": "B",
+        "text": "Sodium aluminate is the principal ore; fluorspar is the metal produced at the cathode."
+      },
+      {
+        "key": "C",
+        "text": "Bauxite is the aluminium ore; cryolite and fluorspar are electrolyte additives; sodium aluminate is formed during bauxite purification."
+      },
+      {
+        "key": "D",
+        "text": "Bauxite and sodium aluminate are identical substances, while cryolite and fluorspar are both ores of aluminium."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Bauxite has the formula Al_2O₃·2H_2O. Cryolite is Na_3AlF₆, fluorspar is CaF₂, and sodium aluminate is NaAlO₂. Their distinct identities correspond to the ore, electrolyte additives and soluble purification intermediate.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "b960446c9f1618488a38458aa39fb34d068afd295c59c6a5691df358df6f83e7",
+    "question_skeleton": "a laboratory labels four substances bauxite cryolite sodium aluminate and fluorspar which classification correctly distinguishes their functions"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_24_zh3ix",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Detecting a Misleading Claim About Melting Point Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student argues that because alloys commonly melt over a range of temperatures, every alloy must melt below every pure metal and must have a fixed chemical formula. Which assessment is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both claims are true because all alloys are chemical compounds."
+      },
+      {
+        "key": "B",
+        "text": "Only the fixed-formula claim is true because alloy constituents cannot vary."
+      },
+      {
+        "key": "C",
+        "text": "Both claims are false: alloys commonly melt over a range, but neither a universally lower melting point nor a fixed compound formula follows from that fact."
+      },
+      {
+        "key": "D",
+        "text": "Both claims are true because alloys have the same melting point as their least reactive component."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Alloys are generally mixtures, and their compositions can vary. Many display a melting range rather than a sharp melting point. This does not establish that every alloy melts below every pure metal or that every alloy has a fixed chemical formula.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "8b9be99857781b3c3d98cbb8adabd2d03fb745ad809330f5dee7f141b9d72b31",
+    "question_skeleton": "a student argues that because alloys commonly melt over a range of temperatures every alloy must melt below every pure metal and must have a fixed chemical formula which assessment is correct"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_25_0oyye",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Interpreting Both Half-Equations Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student proposes the correct cathode reaction but places electrons on the wrong side of the anode equation. Which pair is fully correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cathode: Al^{3+→ Al+3e⁻}; anode: 2O^{2-+4e⁻→ O₂}."
+      },
+      {
+        "key": "B",
+        "text": "Cathode: Al^{3++3e⁻→ Al}; anode: 2O^{2-→ O₂+4e⁻}."
+      },
+      {
+        "key": "C",
+        "text": "Cathode: 2O^{2-→ O₂+4e⁻}; anode: Al^{3++3e⁻→ Al}."
+      },
+      {
+        "key": "D",
+        "text": "Cathode: Al^{3++4e⁻→ Al}; anode: 2O^{2-→ O₂+2e⁻}."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "At the cathode, Al³⁺ gains three electrons. At the anode, oxide ions lose electrons:\n\n\n2O^{2-→ O₂+4e⁻}\n\n\nEach equation must conserve both charge and atoms.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "294029e8d0fb436c7cd90f60bd4c39aedf066dc6238b02f69dfc9f5f684d4eca",
+    "question_skeleton": "a student proposes the correct cathode reaction but places electrons on the wrong side of the anode equation which pair is fully correct"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_26_j2k8g",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Testing the Additives in the Hall–Héroult Process Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "An operator removes cryolite and fluorspar from the aluminium-extraction electrolyte, leaving only alumina. Which assessment is correct according to the stated process conditions?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Extraction becomes easier because pure alumina melts below 950°C."
+      },
+      {
+        "key": "B",
+        "text": "The additives are unnecessary because solid alumina conducts electricity better than the molten mixture."
+      },
+      {
+        "key": "C",
+        "text": "The process becomes unsuitable under the stated conditions because pure alumina melts above 2000°C; cryolite and fluorspar improve the electrolyte properties."
+      },
+      {
+        "key": "D",
+        "text": "Removing the additives converts alumina directly into bauxite, which can be electrolysed at room temperature."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Pure alumina has a melting point above 2000°C. Cryolite lowers the melting point and increases conductivity; fluorspar lowers the melting point further and improves fluidity. Removing both additives defeats their specified functions.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "e8c5a124f75bc211e9515ad03a6a0bf8f8ed262cbeb9ba930cffda21a58078ae",
+    "question_skeleton": "an operator removes cryolite and fluorspar from the aluminium extraction electrolyte leaving only alumina which assessment is correct according to the stated process conditions"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_27_f5awg",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "A Mixed Claim About Bauxite Purification and Extraction Board-style",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student states that sodium hydroxide converts bauxite into aluminium during purification, after which cryolite refines the metal at the anode. Which revision corrects both errors?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium hydroxide produces metallic aluminium, while cryolite forms sodium aluminate at the cathode."
+      },
+      {
+        "key": "B",
+        "text": "Sodium hydroxide forms soluble sodium aluminate during purification; alumina is subsequently electrolysed, and aluminium is deposited at the cathode."
+      },
+      {
+        "key": "C",
+        "text": "Sodium hydroxide is the cathode material, while cryolite is the principal reducing agent for alumina."
+      },
+      {
+        "key": "D",
+        "text": "Bauxite purification and aluminium extraction are the same operation because both involve heating."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Baeyer's process is a chemical purification process that forms sodium aluminate and ultimately pure alumina. The Hall–Héroult process then electrolyses alumina dissolved in the molten electrolyte. Aluminium is produced at the negative cathode.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "e1a4288e52a506bc9725ebc9adaf49e1fc2ff00a1482940cd66af8072322d1e2",
+    "question_skeleton": "a student states that sodium hydroxide converts bauxite into aluminium during purification after which cryolite refines the metal at the anode which revision corrects both errors"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_28_jpc4x",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Function of the Coke Powder Layer",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "(Image reference: Figure 24 — Coke powder layer)* Which statement correctly distinguishes the function of coke from the functions of cryolite and fluorspar?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Coke is the principal substance that dissolves alumina and provides the conducting electrolyte."
+      },
+      {
+        "key": "B",
+        "text": "Coke chemically reduces alumina to aluminium at the operating temperature."
+      },
+      {
+        "key": "C",
+        "text": "Coke reduces heat loss from the cell, whereas cryolite and fluorspar help lower the melting point of the electrolyte mixture."
+      },
+      {
+        "key": "D",
+        "text": "Coke raises the melting point of alumina so that aluminium separates as a solid."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The coke layer reduces heat loss from the hot cell. Cryolite lowers the melting point and increases conductivity, while fluorspar lowers the melting point further and improves fluidity. Option B incorrectly assigns the reduction of alumina to carbon; aluminium is extracted by electrolysis.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "7f3d4cc0afe6ffa5538c27483ee0e5c3bf9050e21d56562dab9c79b1b8225659",
+    "question_skeleton": "figure a layer of coke powder covers the hot electrolyte at the surface of the hall h roult cell arrows indicate heat attempting to escape from the cell image reference figure 24 coke powder layer which statement correctly distinguishes the function of coke from the functions of cryolite and fluorspar"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_29_mk803",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Protective Oxide Film on Aluminium",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "(Image reference: Figure 27 — Protective oxide layer)* Which statement explains the significance of this layer?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It continuously dissolves the underlying aluminium, exposing fresh metal to oxygen."
+      },
+      {
+        "key": "B",
+        "text": "It is a layer of cryolite deposited on aluminium during the extraction process."
+      },
+      {
+        "key": "C",
+        "text": "It acts as a protective barrier that slows further oxidation of the aluminium beneath it."
+      },
+      {
+        "key": "D",
+        "text": "It converts the entire aluminium object into pure alumina immediately after exposure to oxygen."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Aluminium develops a thin, adherent oxide layer on exposure to oxygen. This layer shields the underlying metal and slows further oxidation. Option D incorrectly suggests that the entire metal object is converted into oxide.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "b2b607dad1587975be6be5360ab3dc6cbbda1a8cd9ce7b032087bee4f36c0205",
+    "question_skeleton": "figure a cross section shows a thin adherent al o film on the surface of aluminium metal oxygen approaches the surface but the oxide layer acts as a barrier image reference figure 27 protective oxide layer which statement explains the significance of this layer"
+  },
+  {
+    "globalId": "qb_hots_metallurgy_30_x9lbp",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Metallurgy",
+    "title": "Alloy Compared with a Compound",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "(Image reference: Figure 35 — Alloy versus compound)* Which statement best interprets the difference between the alloy and the compound shown?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both must contain atoms in exactly the same fixed ratio."
+      },
+      {
+        "key": "B",
+        "text": "An alloy is necessarily a chemical compound because it contains more than one type of atom."
+      },
+      {
+        "key": "C",
+        "text": "A compound is merely a physical mixture, while an alloy must have a single fixed chemical formula."
+      },
+      {
+        "key": "D",
+        "text": "An alloy is generally a mixture of elements, whereas a chemical compound has a definite chemical composition represented by its formula."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Alloys are generally mixtures containing two or more elements, at least one of which is a metal. They do not necessarily have a single fixed chemical formula. A chemical compound has a definite chemical composition, so option B incorrectly treats every alloy as a compound.\n\n---",
+    "concept_name": "Metallurgy",
+    "concept_tag": "metallurgy diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "4d51d59fe6931061f4ba60f2f8b231a386a6f2bea7dcbca0b1e867edaa5e31b9",
+    "question_skeleton": "figure three particle diagrams represent a pure metal with identical atoms an alloy containing different sized atoms mixed together and a compound represented by repeated groups of bonded atoms image reference figure 35 alloy versus compound which statement best interprets the difference between the alloy and the compound shown"
+  }
+]

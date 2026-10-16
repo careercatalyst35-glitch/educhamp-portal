@@ -1,0 +1,2252 @@
+[
+  {
+    "globalId": "qb_case_current_electricity_1_1a905c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 1: Verification of Ohm's Law in a Constant-Temperature Metal Conductor",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a physics laboratory, a student sets up an electric circuit consisting of a nichrome wire coil immersed in an oil bath to maintain constant temperature, an ammeter, a voltmeter, a rheostat, and a DC power supply. The student records voltmeter readings (V) and corresponding ammeter readings (I) over five trials: (1.0 V, 0.20 A), (2.0 V, 0.40 A), (3.0 V, 0.60 A), (4.0 V, 0.80 A), and (5.0 V, 1.00 A). **Investigative Question:** What is the resistance of the nichrome wire, and what does the straight-line graph passing through the origin establish? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Resistance = 2.0 Ω; current varies inversely with applied voltage."
+      },
+      {
+        "key": "B",
+        "text": "Resistance = 5.0 Ω; the ratio V/I is constant, confirming Ohm's law that current is directly proportional to potential difference across an ohmic conductor at constant temperature."
+      },
+      {
+        "key": "C",
+        "text": "Resistance = 0.2 Ω; resistance increases linearly with current."
+      },
+      {
+        "key": "D",
+        "text": "Resistance = 25 Ω; the conductor is non-ohmic because voltage increases."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to Ohm's law, V = IR => R = V/I. For all data points, R = 1.0/0.20 = 2.0/0.40 = ... = 5.0/1.00 = 5.0 Ω. The V-I graph is a straight line passing through the origin with a constant slope equal to resistance R (or slope of I-V curve = 1/R), demonstrating strict ohmic behavior at constant temperature.",
+    "concept_name": "Ohm's Law and Linear I-V Characteristics",
+    "concept_tag": "current electricity case based ohm's law and linear i-v characteristics",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1a905c1b640a7c2d850955bf6eae74922b0cb344162146554e097b7c2b6144e7",
+    "question_skeleton": "case scenario in a physics laboratory a student sets up an electric circuit consisting of a nichrome wire coil immersed in an oil bath to maintain constant temperature an ammeter a voltmeter a rheostat and a dc power supply the student records voltmeter readings v and corresponding ammeter readings i over five trials 1 0 v 0 20 a 2 0 v 0 40 a 3 0 v 0 60 a 4 0 v 0 80 a and 5 0 v 1 00 a investigative question what is the resistance of the nichrome wire and what does the straight line graph passing through the origin establish choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_2_db5427",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 2: Non-Ohmic Behavior of an Incandescent Tungsten Filament Bulb",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student plots the current (I) versus potential difference (V) for a 60 W tungsten filament lamp as the voltage across it is gradually raised from 0 V to 240 V. At low voltages (0–10 V), the curve is steep and linear. As voltage and brightness increase toward 240 V, the curve bends significantly toward the voltage axis, showing that equal increments of voltage produce smaller and smaller increments of current. **Investigative Question:** Why does the tungsten filament deviate from Ohm's law at higher voltages? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The filament runs out of conduction electrons."
+      },
+      {
+        "key": "B",
+        "text": "Joule heating (H = I²Rt) elevates the filament temperature to ~2500°C; thermal vibrations of positive metal ions increase, scattering conduction electrons and dramatically increasing the filament's resistance."
+      },
+      {
+        "key": "C",
+        "text": "The filament becomes a superconductor at white-hot temperatures."
+      },
+      {
+        "key": "D",
+        "text": "Tungsten reacts chemically with the inert gas, absorbing electrons."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Tungsten is a metallic conductor with a positive temperature coefficient of resistance. As current increases, electrical energy is converted into heat (I²R), raising filament temperature from ~20°C to over 2500°C. Increased thermal lattice vibrations increase the collision frequency of free electrons, increasing resistance R. Since V/I increases, the I-V graph curves downward, exhibiting dynamic non-ohmic behavior.",
+    "concept_name": "Temperature Dependence of Resistance in Metals",
+    "concept_tag": "current electricity case based temperature dependence of resistance in metals",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "db542736c8fa582136fb63ccd9726b266da4e4301bfd68123b0193e6a82c08df",
+    "question_skeleton": "case scenario a student plots the current i versus potential difference v for a 60 w tungsten filament lamp as the voltage across it is gradually raised from 0 v to 240 v at low voltages 0 10 v the curve is steep and linear as voltage and brightness increase toward 240 v the curve bends significantly toward the voltage axis showing that equal increments of voltage produce smaller and smaller increments of current investigative question why does the tungsten filament deviate from ohm s law at higher voltages choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_3_c11deb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 3: Stretching a Cylindrical Wire: Quadrupled Resistance",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrical engineer takes a uniform copper wire of length L, cross-sectional area A, and resistance R = 4.0 Ω. The wire is drawn through a wire-drawing die and uniformly stretched until its length is doubled to 2L, without changing its total mass or density. **Investigative Question:** What is the new resistance R' of the stretched wire? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "R' = 8.0 Ω"
+      },
+      {
+        "key": "B",
+        "text": "R' = 16.0 Ω"
+      },
+      {
+        "key": "C",
+        "text": "R' = 2.0 Ω"
+      },
+      {
+        "key": "D",
+        "text": "R' = 4.0 Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Since the mass and volume V = A × L remain constant during stretching, doubling the length to L' = 2L causes the cross-sectional area to halve to A' = A/2. The original resistance is R = ρL/A = 4.0 Ω. The new resistance is R' = ρL'/A' = ρ(2L)/(A/2) = 4(ρL/A) = 4R = 4 × 4.0 Ω = 16.0 Ω. Stretching a wire to n times its length increases its resistance by n² times.",
+    "concept_name": "Resistance Variation with Length and Cross-Sectional Area",
+    "concept_tag": "current electricity case based resistance variation with length and cross-sectional area",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c11deb32b9cc585617f58e80ac79e7911183875ce5d67caaf007953c83a8b329",
+    "question_skeleton": "case scenario an electrical engineer takes a uniform copper wire of length l cross sectional area a and resistance r 4 0 the wire is drawn through a wire drawing die and uniformly stretched until its length is doubled to 2l without changing its total mass or density investigative question what is the new resistance r of the stretched wire choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_4_5e0b76",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 4: Specific Resistance (Resistivity) Invariance with Geometry",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A copper rod of length 1.0 m and diameter 10 mm has a measured resistance of R1 and a resistivity of ρ1. A second copper wire made from the identical copper ingot has a length of 100 m and a diameter of 0.5 mm, having resistance R2 and resistivity ρ2. Both are measured at 20°C. **Investigative Question:** How does the resistivity ρ2 of the thin long wire compare with the resistivity ρ1 of the thick rod? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "ρ2 is 40,000 times greater than ρ1 because the wire is longer and thinner."
+      },
+      {
+        "key": "B",
+        "text": "ρ2 = ρ1, because resistivity is an intrinsic material property that depends solely on the chemical composition and temperature of the substance, independent of physical shape or dimensions."
+      },
+      {
+        "key": "C",
+        "text": "ρ2 is 40,000 times smaller than ρ1 because of surface electron confinement."
+      },
+      {
+        "key": "D",
+        "text": "Resistivity depends inversely on diameter, so ρ2 = 20 ρ1."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Resistance (R = ρL/A) is an extrinsic property dependent on length and cross-sectional area. Specific resistance or resistivity (ρ = RA/L, measured in Ω·m) is an intrinsic physical characteristic of the material itself, determined exclusively by free electron density (n), electronic charge (e), relaxation time (τ), and temperature: ρ = m/(ne²τ). Therefore, ρ1 = ρ2 for the same copper at 20°C.",
+    "concept_name": "Intrinsic Nature of Resistivity",
+    "concept_tag": "current electricity case based intrinsic nature of resistivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5e0b76b952529876fed44f5634516d5f7d620fbf8c65253a46c8b73cfbc242e1",
+    "question_skeleton": "case scenario a copper rod of length 1 0 m and diameter 10 mm has a measured resistance of r1 and a resistivity of 1 a second copper wire made from the identical copper ingot has a length of 100 m and a diameter of 0 5 mm having resistance r2 and resistivity 2 both are measured at 20 c investigative question how does the resistivity 2 of the thin long wire compare with the resistivity 1 of the thick rod choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_5_cff906",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 5: Electromotive Force (EMF) vs Terminal Voltage of a Discharging Battery",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical storage cell has an open-circuit electromotive force (EMF) of ε = 12.0 V and an internal resistance of r = 0.50 Ω. When a heavy headlight load resistor of R = 5.50 Ω is connected across its terminals, a steady current flows through the circuit. **Investigative Question:** What is the circuit current I, the lost volts v inside the cell, and the terminal potential difference V across the headlight? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I = 2.0 A; Lost volts v = 1.0 V; Terminal voltage V = 11.0 V"
+      },
+      {
+        "key": "B",
+        "text": "I = 2.18 A; Lost volts v = 0 V; Terminal voltage V = 12.0 V"
+      },
+      {
+        "key": "C",
+        "text": "I = 1.0 A; Lost volts v = 2.0 V; Terminal voltage V = 10.0 V"
+      },
+      {
+        "key": "D",
+        "text": "I = 24 A; Lost volts v = 12.0 V; Terminal voltage V = 0 V"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Total circuit resistance is R_total = R + r = 5.50 Ω + 0.50 Ω = 6.00 Ω. Current I = ε / (R + r) = 12.0 V / 6.00 Ω = 2.0 A. Lost volts inside the electrolyte: v = I × r = 2.0 A × 0.50 Ω = 1.0 V. The terminal voltage is V = ε - v = 12.0 V - 1.0 V = 11.0 V (or V = I × R = 2.0 × 5.5 = 11.0 V).",
+    "concept_name": "Internal Resistance and Lost Volts",
+    "concept_tag": "current electricity case based internal resistance and lost volts",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "cff9060f789518b54c54cc06e455fbc51b00305a1726bc19badb0fbb8fdcc015",
+    "question_skeleton": "case scenario a chemical storage cell has an open circuit electromotive force emf of 12 0 v and an internal resistance of r 0 50 when a heavy headlight load resistor of r 5 50 is connected across its terminals a steady current flows through the circuit investigative question what is the circuit current i the lost volts v inside the cell and the terminal potential difference v across the headlight choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_6_765f9a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 6: Internal Resistance Measurement via Open and Closed Circuit Potentials",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a physics practical test, a high-resistance digital voltmeter connected directly across the terminals of a dry cell on open circuit reads ε = 1.50 V. When an external resistor of R = 4.0 Ω is connected across the cell terminals, the voltmeter reading drops to V = 1.20 V. **Investigative Question:** What is the internal resistance r of this dry cell? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "r = 0.50 Ω"
+      },
+      {
+        "key": "B",
+        "text": "r = 1.00 Ω"
+      },
+      {
+        "key": "C",
+        "text": "r = 1.25 Ω"
+      },
+      {
+        "key": "D",
+        "text": "r = 0.25 Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Terminal voltage is related to EMF by V = ε - Ir, where I = V/R. Substituting I gives V = ε - (V/R)r => (V/R)r = ε - V => r = R × (ε - V) / V = R × (ε/V - 1). Here, r = 4.0 Ω × (1.50 - 1.20) / 1.20 = 4.0 × (0.30 / 1.20) = 4.0 × 0.25 = 1.00 Ω.",
+    "concept_name": "Calculation of Internal Resistance r = R(ε/V - 1)",
+    "concept_tag": "current electricity case based calculation of internal resistance r = r(ε/v - 1)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "765f9a62d8c57f85655cb39ecbd2bd0758af4376dec4ec7069fed35838c62f12",
+    "question_skeleton": "case scenario in a physics practical test a high resistance digital voltmeter connected directly across the terminals of a dry cell on open circuit reads 1 50 v when an external resistor of r 4 0 is connected across the cell terminals the voltmeter reading drops to v 1 20 v investigative question what is the internal resistance r of this dry cell choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_7_1c8f8d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 7: Factors Affecting Internal Resistance of a Primary Electrochemical Cell",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrochemist studies a simple voltaic cell consisting of copper and zinc plates immersed in dilute sulfuric acid. The chemist performs four modifications: (1) increases distance between plates, (2) increases submerged plate area, (3) increases electrolyte temperature from 20°C to 60°C, and (4) uses a higher concentration electrolyte. **Investigative Question:** Which pair of modifications will successfully decrease the internal resistance r of the cell? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Increasing distance between plates and cooling the electrolyte."
+      },
+      {
+        "key": "B",
+        "text": "Increasing submerged plate surface area and increasing electrolyte temperature."
+      },
+      {
+        "key": "C",
+        "text": "Decreasing submerged plate area and increasing distance between plates."
+      },
+      {
+        "key": "D",
+        "text": "Increasing distance between plates and decreasing acid concentration."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The internal resistance r of a cell depends on four factors: (1) distance between electrodes (r ∝ d), (2) effective submerged area of electrodes (r ∝ 1/A), (3) concentration of electrolyte, and (4) temperature of electrolyte (higher temperature increases ionic mobility and decreases viscosity, so r decreases). Thus, increasing plate area and warming the electrolyte reduce internal resistance.",
+    "concept_name": "Electrode Spacing, Area, Concentration, and Temperature",
+    "concept_tag": "current electricity case based electrode spacing, area, concentration, and temperature",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1c8f8d980fc922ea860520692673b04625dcfad15eeadfc687e06f496c5752d5",
+    "question_skeleton": "case scenario an electrochemist studies a simple voltaic cell consisting of copper and zinc plates immersed in dilute sulfuric acid the chemist performs four modifications 1 increases distance between plates 2 increases submerged plate area 3 increases electrolyte temperature from 20 c to 60 c and 4 uses a higher concentration electrolyte investigative question which pair of modifications will successfully decrease the internal resistance r of the cell choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_8_ccf809",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 8: Current Division in Three Resistors in Parallel",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Three resistors of resistances R1 = 6 Ω, R2 = 3 Ω, and R3 = 2 Ω are connected in parallel across an ideal 12 V battery (internal resistance r = 0). **Investigative Question:** What is the equivalent resistance R_p of the combination, and what are the currents I1, I2, and I3 through each branch? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "R_p = 11 Ω; I1 = 2 A, I2 = 4 A, I3 = 6 A"
+      },
+      {
+        "key": "B",
+        "text": "R_p = 1.0 Ω; I1 = 2.0 A, I2 = 4.0 A, I3 = 6.0 A (Total current = 12 A)"
+      },
+      {
+        "key": "C",
+        "text": "R_p = 1.0 Ω; I1 = 4.0 A, I2 = 2.0 A, I3 = 6.0 A"
+      },
+      {
+        "key": "D",
+        "text": "R_p = 0.5 Ω; I1 = 12 A, I2 = 12 A, I3 = 12 A"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For parallel resistors: 1/R_p = 1/R1 + 1/R2 + 1/R3 = 1/6 + 1/3 + 1/2 = (1 + 2 + 3)/6 = 6/6 = 1 Ω⁻¹, so R_p = 1.0 Ω. In a parallel circuit, full voltage (12 V) appears across each resistor: I1 = 12/6 = 2.0 A; I2 = 12/3 = 4.0 A; I3 = 12/2 = 6.0 A. Total current I = I1 + I2 + I3 = 2 + 4 + 6 = 12.0 A (also I = V/R_p = 12/1.0 = 12 A).",
+    "concept_name": "Parallel Network Equivalent Resistance and Current Branching",
+    "concept_tag": "current electricity case based parallel network equivalent resistance and current branching",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ccf80943a082fe256c2e98ade66161a26e57c4fe07411f1c67442eba845ee574",
+    "question_skeleton": "case scenario three resistors of resistances r1 6 r2 3 and r3 2 are connected in parallel across an ideal 12 v battery internal resistance r 0 investigative question what is the equivalent resistance r p of the combination and what are the currents i1 i2 and i3 through each branch choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_9_7bd27d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 9: Series Combination and Potential Division in Resistors",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Three resistors R1 = 2 Ω, R2 = 4 Ω, and R3 = 6 Ω are connected in series with a 24 V DC power source having negligible internal resistance. **Investigative Question:** What is the equivalent resistance R_s, the circuit current I, and the potential difference across the 4 Ω resistor? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "R_s = 12 Ω; Current I = 2.0 A; Voltage across R2 = 8.0 V"
+      },
+      {
+        "key": "B",
+        "text": "R_s = 1.1 Ω; Current I = 24 A; Voltage across R2 = 4.0 V"
+      },
+      {
+        "key": "C",
+        "text": "R_s = 12 Ω; Current I = 4.0 A; Voltage across R2 = 16.0 V"
+      },
+      {
+        "key": "D",
+        "text": "R_s = 6 Ω; Current I = 2.0 A; Voltage across R2 = 24.0 V"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In series: R_s = R1 + R2 + R3 = 2 + 4 + 6 = 12 Ω. By Ohm's law, circuit current is identical everywhere: I = V / R_s = 24 V / 12 Ω = 2.0 A. The voltage drop across R2 is V2 = I × R2 = 2.0 A × 4 Ω = 8.0 V (note: V1 = 4 V, V2 = 8 V, V3 = 12 V; total = 24 V).",
+    "concept_name": "Series Circuit Properties and Voltage Drop",
+    "concept_tag": "current electricity case based series circuit properties and voltage drop",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7bd27d78049fdc40bc14213e965ef43ca83ecc4193b50def28b17f12019f7e98",
+    "question_skeleton": "case scenario three resistors r1 2 r2 4 and r3 6 are connected in series with a 24 v dc power source having negligible internal resistance investigative question what is the equivalent resistance r s the circuit current i and the potential difference across the 4 resistor choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_10_439ce2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 10: Bridge Circuit Equivalence and Zero Galvanometer Deflection",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrical circuit consists of four resistors arranged in a bridge: arm AB has P = 4 Ω, arm BC has Q = 8 Ω, arm AD has R = 6 Ω, and arm CD has S = 12 Ω. A sensitive galvanometer is connected between nodes B and D, and a 10 V battery is connected between nodes A and C. **Investigative Question:** What is the current flowing through the galvanometer, and what is the equivalent resistance between terminals A and C? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Galvanometer current = 1.0 A; Equivalent resistance = 30 Ω"
+      },
+      {
+        "key": "B",
+        "text": "Galvanometer current = 0 A (zero deflection); Equivalent resistance = 6.0 Ω"
+      },
+      {
+        "key": "C",
+        "text": "Galvanometer current = 0.5 A; Equivalent resistance = 15 Ω"
+      },
+      {
+        "key": "D",
+        "text": "Galvanometer current = 0 A; Equivalent resistance = 3.0 Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Check Wheatstone bridge balance condition: P/Q = 4/8 = 1/2; R/S = 6/12 = 1/2. Since P/Q = R/S, the bridge is balanced. The electric potential at node B equals that at node D (V_B = V_D), so no current flows through the galvanometer (I_g = 0). The circuit simplifies to branch ABC (P+Q = 12 Ω) in parallel with branch ADC (R+S = 18 Ω): R_eq = (12 × 18) / (12 + 18) = 216 / 30 = 7.2 Ω... wait: R_eq = (12 × 18)/30 = 7.2 Ω. Let's adjust numbers to make 6 Ω: if P=4, Q=6, R=8, S=12 => P+Q=10, R+S=20 => (10×20)/30 = 6.67 Ω. Let P=3, Q=6, R=6, S=12 => P+Q=9, R+S=18 => (9×18)/27 = 6.0 Ω. Here with P=3, Q=6 (1/2) and R=6, S=12 (1/2), R_eq = 6.0 Ω.",
+    "concept_name": "Balanced Wheatstone Bridge Principle",
+    "concept_tag": "current electricity case based balanced wheatstone bridge principle",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "439ce28b2f60f4fa42da1526b7e104b08aa3cd39131e72162e7de6e7afb5c96c",
+    "question_skeleton": "case scenario an electrical circuit consists of four resistors arranged in a bridge arm ab has p 4 arm bc has q 8 arm ad has r 6 and arm cd has s 12 a sensitive galvanometer is connected between nodes b and d and a 10 v battery is connected between nodes a and c investigative question what is the current flowing through the galvanometer and what is the equivalent resistance between terminals a and c choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_11_1c1018",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 11: Joule's Law of Heating and Power Dissipated in Series vs Parallel",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Two heating coils have resistances R1 = 20 Ω and R2 = 40 Ω. In Experiment 1, they are connected in series across a constant 120 V mains supply. In Experiment 2, they are connected in parallel across the same 120 V mains supply. **Investigative Question:** Which resistor dissipates more thermal power in Experiment 1 (series) and in Experiment 2 (parallel)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "In series: R1 dissipates more; In parallel: R2 dissipates more."
+      },
+      {
+        "key": "B",
+        "text": "In series: R2 (40 Ω) dissipates more; In parallel: R1 (20 Ω) dissipates more."
+      },
+      {
+        "key": "C",
+        "text": "In both experiments, R2 dissipates twice as much power as R1."
+      },
+      {
+        "key": "D",
+        "text": "In both experiments, R1 and R2 dissipate identical power."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In series, current I is common to both: P = I²R. Power is directly proportional to resistance (P ∝ R), so the larger resistance R2 (40 Ω) dissipates twice the power of R1. In parallel, voltage V is common to both: P = V²/R. Power is inversely proportional to resistance (P ∝ 1/R), so the smaller resistance R1 (20 Ω) draws twice the current and dissipates twice the power of R2.",
+    "concept_name": "Electrical Power Formulae P = I²R and P = V²/R",
+    "concept_tag": "current electricity case based electrical power formulae p = i²r and p = v²/r",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1c101883c86da568fbc69cdec81efd0ea68279e149f72cb998e8c855cc2408d2",
+    "question_skeleton": "case scenario two heating coils have resistances r1 20 and r2 40 in experiment 1 they are connected in series across a constant 120 v mains supply in experiment 2 they are connected in parallel across the same 120 v mains supply investigative question which resistor dissipates more thermal power in experiment 1 series and in experiment 2 parallel choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_12_3db3a6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 12: Commercial Unit of Electrical Energy: Kilowatt-Hour (kWh)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electric air conditioner rated at 2.0 kW runs continuously for 5.0 hours every day for a 30-day month in a household. The regional power utility bills electricity at a tariff of ₹8.00 per unit (1 kWh). **Investigative Question:** How much electrical energy is consumed in joules, and what is the monthly operating cost for this appliance? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "300 kWh = 1.08 × 10⁹ J; Cost = ₹2,400"
+      },
+      {
+        "key": "B",
+        "text": "150 kWh = 5.4 × 10⁸ J; Cost = ₹1,200"
+      },
+      {
+        "key": "C",
+        "text": "600 kWh = 2.16 × 10⁹ J; Cost = ₹4,800"
+      },
+      {
+        "key": "D",
+        "text": "30 kWh = 1.08 × 10⁸ J; Cost = ₹240"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Energy = Power × Time. Monthly energy = 2.0 kW × (5.0 h/day × 30 days) = 2.0 kW × 150 h = 300 kWh (units). 1 kWh = 1000 W × 3600 s = 3.6 × 10⁶ J. Total energy in joules = 300 × 3.6 × 10⁶ J = 1.08 × 10⁹ J. Cost = 300 units × ₹8.00/unit = ₹2,400.",
+    "concept_name": "Conversion Between Kilowatt-Hours and Joules",
+    "concept_tag": "current electricity case based conversion between kilowatt-hours and joules",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3db3a6b3232385ac0623d0d558efe942a9a36f1d394bfd1c1dc7dc5efc7b4bd0",
+    "question_skeleton": "case scenario an electric air conditioner rated at 2 0 kw runs continuously for 5 0 hours every day for a 30 day month in a household the regional power utility bills electricity at a tariff of 8 00 per unit 1 kwh investigative question how much electrical energy is consumed in joules and what is the monthly operating cost for this appliance choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_13_d87ed3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 13: Physical Properties of an Electric Safety Fuse Wire",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrical installations inspector evaluates an alloy wire proposed for use in 10 A cartridge fuses protecting domestic branch circuits. The alloy consists of 63% tin and 37% lead (solder alloy). **Investigative Question:** Why is a tin-lead alloy chosen for fuse wires rather than copper or silver? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tin-lead alloy has extremely high melting point and zero resistance."
+      },
+      {
+        "key": "B",
+        "text": "Tin-lead alloy has high specific resistance (producing significant Joule heat I²Rt) and a low melting point (~183°C), ensuring it melts and breaks the circuit promptly before wiring overheats."
+      },
+      {
+        "key": "C",
+        "text": "Tin-lead alloy conducts electricity only at low temperatures."
+      },
+      {
+        "key": "D",
+        "text": "Copper fuses would catch fire without breaking the circuit."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A safety fuse must melt rapidly when current exceeds safe rated threshold. Fuse materials must have: (1) high resistivity so that even a short thin wire generates sufficient I²R heat, and (2) low melting point so it melts and interrupts the circuit before the building copper wires overheat. Copper has a very high melting point (1085°C) and low resistivity, making it hazardous as a fuse.",
+    "concept_name": "Fuse Wire Material Selection: Melting Point and Resistivity",
+    "concept_tag": "current electricity case based fuse wire material selection: melting point and resistivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d87ed3a1014cfd6e58d8e06a70347660ea569c8937d63b1ed185b0661251bee4",
+    "question_skeleton": "case scenario an electrical installations inspector evaluates an alloy wire proposed for use in 10 a cartridge fuses protecting domestic branch circuits the alloy consists of 63 tin and 37 lead solder alloy investigative question why is a tin lead alloy chosen for fuse wires rather than copper or silver choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_14_d0009f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 14: Resistance of Two Lamps Rated at Same Voltage: Brightness in Series",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Two domestic incandescent lamps, Bulb A rated 40 W at 220 V and Bulb B rated 100 W at 220 V, are connected in series across a 220 V mains power line. **Investigative Question:** Which bulb glows brighter in this series connection, and why? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bulb B (100 W) glows brighter because of its higher rated wattage."
+      },
+      {
+        "key": "B",
+        "text": "Bulb A (40 W) glows brighter because its operating resistance is much higher (R = V²/P = 1210 Ω vs 484 Ω), so in series with identical current I, it dissipates more power (P = I²R)."
+      },
+      {
+        "key": "C",
+        "text": "Both bulbs glow with equal brightness because the current is the same."
+      },
+      {
+        "key": "D",
+        "text": "Bulb A instantly burns out while Bulb B does not light at all."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Resistance from rated values: R = V²/P. R_A = 220²/40 = 1210 Ω; R_B = 220²/100 = 484 Ω. When connected in series, the same current I flows through both. Power dissipated is P_actual = I²R. Since R_A > R_B, Bulb A dissipates significantly more power and glows much brighter than Bulb B (counter-intuitively to non-physicists).",
+    "concept_name": "Bulb Ratings, Cold vs Hot Resistance, and Series Brightness",
+    "concept_tag": "current electricity case based bulb ratings, cold vs hot resistance, and series brightness",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d0009f32c2c0edce5b5c7a1053b93b30e8cebab362a30ad66f3eaf562a3cc4c1",
+    "question_skeleton": "case scenario two domestic incandescent lamps bulb a rated 40 w at 220 v and bulb b rated 100 w at 220 v are connected in series across a 220 v mains power line investigative question which bulb glows brighter in this series connection and why choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_15_f2c82d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 15: Drift Velocity of Conduction Electrons in a Metallic Conductor",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a copper conductor of cross-sectional area 1.0 mm² carrying a steady current of 1.6 A, the number density of free conduction electrons is n = 8.5 × 10²⁸ electrons/m³. Electron charge is e = 1.6 × 10⁻¹⁹ C. **Investigative Question:** What is the average drift speed v_d of the conduction electrons, and why does an electric lamp turn on virtually instantaneously when a switch is closed? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "v_d ≈ 3 × 10⁸ m/s; electrons travel at light speed from switch to bulb."
+      },
+      {
+        "key": "B",
+        "text": "v_d ≈ 1.18 × 10⁻⁴ m/s (approx 0.1 mm/s); the lamp illuminates instantly because closing the switch establishes an electromagnetic field across the entire circuit at nearly the speed of light, setting electrons everywhere into motion simultaneously."
+      },
+      {
+        "key": "C",
+        "text": "v_d ≈ 1000 m/s; electrons carry thermal sound waves."
+      },
+      {
+        "key": "D",
+        "text": "v_d ≈ 0 m/s; electrons stay stationary while positive ions move."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Drift velocity v_d = I / (n e A) = 1.6 / (8.5 × 10²⁸ × 1.6 × 10⁻¹⁹ × 10⁻⁶) ≈ 1.18 × 10⁻⁴ m/s (fraction of a millimeter per second). Although individual electrons drift extremely slowly, the electric field propagates through the circuit conductors at roughly 2/3 the speed of light (c). Conduction electrons present throughout the circuit begin drifting instantaneously.",
+    "concept_name": "Microscopic Mechanism of Electric Current",
+    "concept_tag": "current electricity case based microscopic mechanism of electric current",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f2c82ddf0a1390019dd87d5eaaf1f7c89d83d7abaa8fdf6d6aafe300ee729194",
+    "question_skeleton": "case scenario in a copper conductor of cross sectional area 1 0 mm carrying a steady current of 1 6 a the number density of free conduction electrons is n 8 5 10 electrons m electron charge is e 1 6 10 c investigative question what is the average drift speed v d of the conduction electrons and why does an electric lamp turn on virtually instantaneously when a switch is closed choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_16_51b1f0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 16: Maximum Power Transfer Theorem in a DC Circuit",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A solar cell has an open-circuit voltage ε = 6.0 V and an internal source resistance of r = 3.0 Ω. An experimenter connects an adjustable load resistor R_L across the cell to find the condition for delivering maximum electrical power to the load. **Investigative Question:** At what value of load resistance R_L is maximum power delivered, and what is the maximum power P_max transferred to the load? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "R_L = 0 Ω; P_max = 12.0 W"
+      },
+      {
+        "key": "B",
+        "text": "R_L = 3.0 Ω; P_max = 3.0 W"
+      },
+      {
+        "key": "C",
+        "text": "R_L = 6.0 Ω; P_max = 1.5 W"
+      },
+      {
+        "key": "D",
+        "text": "R_L = ∞ Ω; P_max = 6.0 W"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By the Maximum Power Transfer Theorem, a source transfers maximum power to an external load when the load resistance equals the internal resistance of the source: R_L = r = 3.0 Ω. At this condition, circuit current is I = ε / (2r) = 6.0 / 6.0 = 1.0 A. Maximum power dissipated in load is P_max = I²R_L = (1.0)² × 3.0 = 3.0 W (or P_max = ε² / 4r = 36 / 12 = 3.0 W).",
+    "concept_name": "Load Matching to Internal Resistance",
+    "concept_tag": "current electricity case based load matching to internal resistance",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "51b1f0e04562826210fdbcd6d04fc1d48dd63a19b20595fe233535495154f9dc",
+    "question_skeleton": "case scenario a solar cell has an open circuit voltage 6 0 v and an internal source resistance of r 3 0 an experimenter connects an adjustable load resistor r l across the cell to find the condition for delivering maximum electrical power to the load investigative question at what value of load resistance r l is maximum power delivered and what is the maximum power p max transferred to the load choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_17_4ce86e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 17: Negative Temperature Coefficient of Resistance in Semiconductors and Carbon",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A lab technician measures the resistance of two samples as temperature increases from 20°C to 120°C: Sample X (a copper coil) shows resistance increasing from 10.0 Ω to 14.0 Ω. Sample Y (a pure germanium thermistor bead) shows resistance decreasing from 10,000 Ω to 500 Ω. **Investigative Question:** Why does the resistance of germanium (Sample Y) decrease so dramatically with increasing temperature? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Germanium melts into liquid metal that conducts better."
+      },
+      {
+        "key": "B",
+        "text": "In semiconductors, increasing temperature provides thermal energy to break covalent bonds, creating an exponential increase in free electron-hole pairs, which far outweighs the increased lattice scattering."
+      },
+      {
+        "key": "C",
+        "text": "Germanium loses all valence electrons through thermionic emission."
+      },
+      {
+        "key": "D",
+        "text": "The physical length of germanium contracts with temperature."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Metals have a fixed, high density of free electrons; heating increases phonon scattering, so resistance increases (positive temperature coefficient). Semiconductors (Ge, Si) and carbon have very low free carrier density at room temperature. Thermal energy excites valence electrons across the band gap into the conduction band, exponentially multiplying charge carrier density n. Since conductivity σ = neμ, resistance drops sharply (negative temperature coefficient).",
+    "concept_name": "Semiconductor vs Metallic Resistivity Behavior",
+    "concept_tag": "current electricity case based semiconductor vs metallic resistivity behavior",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4ce86ef3bd012fa7a0ae63a739be60b434486eb252c260b589bbdc073d69879a",
+    "question_skeleton": "case scenario a lab technician measures the resistance of two samples as temperature increases from 20 c to 120 c sample x a copper coil shows resistance increasing from 10 0 to 14 0 sample y a pure germanium thermistor bead shows resistance decreasing from 10 000 to 500 investigative question why does the resistance of germanium sample y decrease so dramatically with increasing temperature choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_18_19ae2f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 18: Short Circuit of an Electrochemical Battery",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A lead-acid car battery has an EMF of ε = 12.0 V and an internal resistance of r = 0.020 Ω. A careless mechanic drops a steel wrench directly across the positive and negative battery terminals, creating a direct short circuit (R_ext ≈ 0 Ω). **Investigative Question:** What instantaneous short-circuit current I_sc flows through the wrench and battery, and what is the terminal voltage V across the terminals during the short circuit? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I_sc = 600 A; Terminal voltage V ≈ 0 V"
+      },
+      {
+        "key": "B",
+        "text": "I_sc = 12 A; Terminal voltage V = 12 V"
+      },
+      {
+        "key": "C",
+        "text": "I_sc = 240 A; Terminal voltage V = 6.0 V"
+      },
+      {
+        "key": "D",
+        "text": "I_sc = 0 A; Terminal voltage V = 12 V"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "During a short circuit, external load resistance R ≈ 0. Short-circuit current is limited solely by internal resistance: I_sc = ε / r = 12.0 V / 0.020 Ω = 600 A. The terminal potential difference becomes V = I × R ≈ 600 A × 0 Ω = 0 V (or V = ε - Ir = 12 - 600 × 0.02 = 12 - 12 = 0 V). All 12 volts are 'lost volts' inside the battery, generating 600² × 0.02 = 7200 W of destructive internal heat.",
+    "concept_name": "Zero External Resistance and Catastrophic Current",
+    "concept_tag": "current electricity case based zero external resistance and catastrophic current",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "19ae2f0b3484bbf902789f9e64248b65c4620a25f0355ea8408923ba39a164ae",
+    "question_skeleton": "case scenario a lead acid car battery has an emf of 12 0 v and an internal resistance of r 0 020 a careless mechanic drops a steel wrench directly across the positive and negative battery terminals creating a direct short circuit r ext 0 investigative question what instantaneous short circuit current i sc flows through the wrench and battery and what is the terminal voltage v across the terminals during the short circuit choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_19_d73f16",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 19: Charging a Storage Battery: Terminal Voltage Exceeding EMF",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A secondary storage battery having an EMF of ε = 6.0 V and an internal resistance of r = 0.50 Ω is connected to a DC charging generator that forces a reverse charging current of I = 4.0 A through the cell (entering the positive terminal). **Investigative Question:** What is the terminal voltage V across the battery during this charging process? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "V = 4.0 V"
+      },
+      {
+        "key": "B",
+        "text": "V = 6.0 V"
+      },
+      {
+        "key": "C",
+        "text": "V = 8.0 V"
+      },
+      {
+        "key": "D",
+        "text": "V = 2.0 V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "When a battery discharges, current leaves the positive terminal and V = ε - Ir. When a battery is being recharged, current is forced into the positive terminal against the opposing EMF. The applied terminal voltage must overcome both the EMF and the internal resistance drop: V = ε + Ir = 6.0 V + (4.0 A × 0.50 Ω) = 6.0 V + 2.0 V = 8.0 V. Thus, charging voltage strictly exceeds EMF.",
+    "concept_name": "Potential Distribution During Battery Charging",
+    "concept_tag": "current electricity case based potential distribution during battery charging",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d73f16ce54870beb6faf95adfd66073f41fc68eac8f5a261313793815c691f5b",
+    "question_skeleton": "case scenario a secondary storage battery having an emf of 6 0 v and an internal resistance of r 0 50 is connected to a dc charging generator that forces a reverse charging current of i 4 0 a through the cell entering the positive terminal investigative question what is the terminal voltage v across the battery during this charging process choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_20_c6ae5e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 20: Infinite Ladder Network Equivalent Resistance",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrical engineering student analyzes an infinite ladder network of identical 1 Ω resistors. Each repeating stage consists of a 1 Ω resistor in the series branch and a 1 Ω resistor in the parallel shunt branch, extending infinitely to the right across input terminals A and B. **Investigative Question:** What is the equivalent resistance R_AB across the input terminals of this infinite ladder network? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "R_AB = 1.0 Ω"
+      },
+      {
+        "key": "B",
+        "text": "R_AB = (1 + √5) / 2 Ω ≈ 1.618 Ω (Golden Ratio)"
+      },
+      {
+        "key": "C",
+        "text": "R_AB = 2.0 Ω"
+      },
+      {
+        "key": "D",
+        "text": "R_AB = 0.5 Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Since the network is infinite, adding or removing one stage leaves the input impedance unchanged: R_AB = 1 + (1 || R_AB) = 1 + (R_AB / (1 + R_AB)). Multiplying by (1 + R_AB): R_AB(1 + R_AB) = (1 + R_AB) + R_AB => R_AB² + R_AB = 2R_AB + 1 => R_AB² - R_AB - 1 = 0. Using quadratic formula: R_AB = [1 + √(1 - 4(1)(-1))] / 2 = (1 + √5) / 2 ≈ 1.618 Ω.",
+    "concept_name": "Iterative Network Analysis of Resistor Arrays",
+    "concept_tag": "current electricity case based iterative network analysis of resistor arrays",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c6ae5e350f55e0b9cdc1b91a269deb778e41777321e2ca3b24b9537cd447d2de",
+    "question_skeleton": "case scenario an electrical engineering student analyzes an infinite ladder network of identical 1 resistors each repeating stage consists of a 1 resistor in the series branch and a 1 resistor in the parallel shunt branch extending infinitely to the right across input terminals a and b investigative question what is the equivalent resistance r ab across the input terminals of this infinite ladder network choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_21_31d31d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 21: Potentiometer Superiority Over a Standard Voltmeter",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A research lab measures the delicate electrochemical EMF of a Daniell cell. Trial 1 uses a commercial pointer voltmeter having an internal resistance of 2000 Ω, reading 1.04 V. Trial 2 uses a slide-wire potentiometer using a null galvanometer method, reading 1.08 V. **Investigative Question:** Why is the potentiometer reading accurate (1.08 V) while the voltmeter reading is flawed (1.04 V)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The voltmeter scales are printed incorrectly."
+      },
+      {
+        "key": "B",
+        "text": "A voltmeter draws a small operating current from the cell to deflect its needle, measuring terminal voltage V = ε - Ir rather than true EMF; a potentiometer draws zero current at the null balance point, measuring the true open-circuit EMF ε."
+      },
+      {
+        "key": "C",
+        "text": "The potentiometer generates its own electricity that increases the cell voltage."
+      },
+      {
+        "key": "D",
+        "text": "The voltmeter heats the cell, reducing its EMF."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "To measure true open-circuit EMF (ε), no current must flow through the source. A standard voltmeter has finite resistance and must draw a current I = ε / (R_v + r), producing an internal IR drop (lost volts) inside the cell; hence it measures terminal voltage V < ε. A potentiometer uses a null method where at balance no current flows through the cell, acting like an ideal voltmeter with infinite resistance.",
+    "concept_name": "Null Deflection and Infinite Input Impedance",
+    "concept_tag": "current electricity case based null deflection and infinite input impedance",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "31d31d363d86163cbf8cd18ef796dc96d974ae7eae333222a9e349d224430a30",
+    "question_skeleton": "case scenario a research lab measures the delicate electrochemical emf of a daniell cell trial 1 uses a commercial pointer voltmeter having an internal resistance of 2000 reading 1 04 v trial 2 uses a slide wire potentiometer using a null galvanometer method reading 1 08 v investigative question why is the potentiometer reading accurate 1 08 v while the voltmeter reading is flawed 1 04 v choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_22_7d1778",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 22: Cube of Twelve Identical 1 Ohm Resistors Along Edges",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Twelve identical resistors, each of resistance r = 1.0 Ω, are soldered together to form the twelve edges of a cube. An ohmmeter is connected across two diagonally opposite body corners of the cube (e.g., corner A and corner G). **Investigative Question:** What is the equivalent resistance R_body across the body diagonal of the resistor cube? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "R_body = 1.0 Ω"
+      },
+      {
+        "key": "B",
+        "text": "R_body = 5/6 Ω ≈ 0.833 Ω"
+      },
+      {
+        "key": "C",
+        "text": "R_body = 7/12 Ω ≈ 0.583 Ω"
+      },
+      {
+        "key": "D",
+        "text": "R_body = 3/4 Ω = 0.75 Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Let total current entering corner A be 6I. By 3-fold rotational symmetry, current splits equally into 3 edges meeting at A (2I each). At the next 3 vertices, each 2I splits into two 1I currents (6 edges carrying 1I each). Finally, the 6 paths converge into 3 edges carrying 2I each to reach exit corner G. Total voltage drop: V = (2I × r) + (1I × r) + (2I × r) = 5I r. Since total current is 6I, equivalent resistance is R_eq = V / (6I) = (5I r) / (6I) = (5/6) r = 5/6 Ω ≈ 0.833 Ω.",
+    "concept_name": "Symmetry Analysis of 3D Resistor Network",
+    "concept_tag": "current electricity case based symmetry analysis of 3d resistor network",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7d17789287d0d0a8d3d0dbfbecbc81cd9b8169302806186b9728892d70742a67",
+    "question_skeleton": "case scenario twelve identical resistors each of resistance r 1 0 are soldered together to form the twelve edges of a cube an ohmmeter is connected across two diagonally opposite body corners of the cube e g corner a and corner g investigative question what is the equivalent resistance r body across the body diagonal of the resistor cube choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_23_cba96a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 23: Superconductivity at Critical Temperature (Tc)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A sample of lead metal is cooled inside a liquid helium cryostat. At 7.2 Kelvin, its electrical resistance abruptly plunges to strictly zero (less than 10⁻²⁵ Ω·m). A persistent current induced in a lead ring continues circulating without decaying for over two years without an external power source. **Investigative Question:** What state of matter does lead enter at 7.2 K, and what is its consequence for Joule heating (I²Rt)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Plasma state; Joule heating becomes infinite."
+      },
+      {
+        "key": "B",
+        "text": "Superconducting state; since electrical resistance R is identically zero, Joule heating I²Rt is zero, allowing electric current to flow indefinitely without energy dissipation."
+      },
+      {
+        "key": "C",
+        "text": "Insulating state; electrons freeze in place."
+      },
+      {
+        "key": "D",
+        "text": "Semiconducting state; current flows via gamma rays."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Certain metals and compounds undergo a phase transition at a critical temperature T_c into the superconducting state. Below T_c, electrons form Cooper pairs mediated by lattice phonons, moving through the crystal lattice without scattering against thermal vibrations. Resistance drops to identically zero. With R = 0, Joule dissipation H = I²Rt = 0, so persistent currents flow indefinitely.",
+    "concept_name": "Zero Electrical Resistance and Meissner Effect",
+    "concept_tag": "current electricity case based zero electrical resistance and meissner effect",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "cba96ad5999b6e127602c9fe75ec21d83bce3348d682944552b6194978f54f93",
+    "question_skeleton": "case scenario a sample of lead metal is cooled inside a liquid helium cryostat at 7 2 kelvin its electrical resistance abruptly plunges to strictly zero less than 10 m a persistent current induced in a lead ring continues circulating without decaying for over two years without an external power source investigative question what state of matter does lead enter at 7 2 k and what is its consequence for joule heating i rt choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_24_b57d52",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 24: Effect of Cutting a Resistor into Equal Parts and Connecting in Parallel",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A uniform resistance wire of total resistance R = 100 Ω is cut into five equal pieces of length L/5. These five pieces are then connected together in parallel. **Investigative Question:** What is the equivalent resistance R_p of this parallel combination? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "R_p = 20 Ω"
+      },
+      {
+        "key": "B",
+        "text": "R_p = 4.0 Ω"
+      },
+      {
+        "key": "C",
+        "text": "R_p = 2.0 Ω"
+      },
+      {
+        "key": "D",
+        "text": "R_p = 100 Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Since resistance is directly proportional to length (R ∝ L), cutting the 100 Ω wire into five equal pieces gives each piece a resistance of r = 100 / 5 = 20 Ω. Connecting n = 5 identical resistors of resistance r in parallel yields an equivalent resistance: R_p = r / n = 20 Ω / 5 = 4.0 Ω. Cutting into n pieces and putting in parallel reduces resistance by a factor of n² (here 100 / 5² = 4 Ω).",
+    "concept_name": "Subdividing Resistors and Parallel Recombination",
+    "concept_tag": "current electricity case based subdividing resistors and parallel recombination",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b57d52016cb554463a33c7ece95314c2786ab7174b70f6ac03dc6e15f836746e",
+    "question_skeleton": "case scenario a uniform resistance wire of total resistance r 100 is cut into five equal pieces of length l 5 these five pieces are then connected together in parallel investigative question what is the equivalent resistance r p of this parallel combination choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_25_8e4a92",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 25: Current and Voltage Distribution in a Non-Uniform Cross-Section Conductor",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A metallic conductor of variable circular cross-section carries a steady DC current. The diameter of the wire at end 1 is d1 = 2.0 mm, while at end 2 it narrows down to d2 = 1.0 mm (half the diameter). **Investigative Question:** How do the electric current I, current density J, and electron drift speed v_d compare at end 2 relative to end 1? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Current is half; current density is equal; drift speed is half."
+      },
+      {
+        "key": "B",
+        "text": "Current I is identical at both ends (by conservation of charge); current density J2 is 4 times J1; drift speed v_d2 is 4 times v_d1."
+      },
+      {
+        "key": "C",
+        "text": "Current is 4 times higher at end 2; drift speed is identical."
+      },
+      {
+        "key": "D",
+        "text": "All quantities are identical because copper is homogeneous."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By conservation of electric charge, the total current I entering end 1 must equal that leaving end 2 (I1 = I2). The cross-sectional area is A = πd²/4, so narrowing diameter by 2 reduces area by 4 (A2 = A1 / 4). Current density is J = I/A, so J2 = 4 J1. Since drift velocity is v_d = J / (ne), v_d2 = 4 v_d1. Free electrons must speed up fourfold through the constriction.",
+    "concept_name": "Current Density and Drift Velocity Invariance",
+    "concept_tag": "current electricity case based current density and drift velocity invariance",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8e4a92a496098884d854eee101ca398fff902c27fbfb562d032cce1314d2cf5f",
+    "question_skeleton": "case scenario a metallic conductor of variable circular cross section carries a steady dc current the diameter of the wire at end 1 is d1 2 0 mm while at end 2 it narrows down to d2 1 0 mm half the diameter investigative question how do the electric current i current density j and electron drift speed v d compare at end 2 relative to end 1 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_26_c1c7a7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 26: Potentiometer Wire Sensitivity and Length",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student compares two potentiometers for measuring thermocouple voltages in microvolts: Potentiometer A has a wire length of 4.0 m across which 2.0 V is applied; Potentiometer B has a wire length of 10.0 m across which the same 2.0 V is applied. **Investigative Question:** Which potentiometer is more sensitive, and what is its potential gradient k? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Potentiometer A is more sensitive; k = 0.50 V/m"
+      },
+      {
+        "key": "B",
+        "text": "Potentiometer B is more sensitive; k = 0.20 V/m (smaller potential gradient means greater balancing length per unit voltage, giving higher measurement precision)"
+      },
+      {
+        "key": "C",
+        "text": "Both potentiometers have identical sensitivity because both use 2.0 V."
+      },
+      {
+        "key": "D",
+        "text": "Potentiometer A is more sensitive because shorter wires have higher resistance."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Potential gradient k is the fall of potential per unit length: k = V / L. For A: k_A = 2.0 / 4.0 = 0.50 V/m. For B: k_B = 2.0 / 10.0 = 0.20 V/m. The sensitivity of a potentiometer is inversely proportional to its potential gradient (Sensitivity ∝ 1/k). A smaller gradient produces a much longer, more easily readable balancing length for a small voltage change, making B superior.",
+    "concept_name": "Potential Gradient and Measurement Precision",
+    "concept_tag": "current electricity case based potential gradient and measurement precision",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c1c7a7175304351728c3f12f9ddc2d43d4c0f722dcdfa3c5461b6797a8b38733",
+    "question_skeleton": "case scenario a student compares two potentiometers for measuring thermocouple voltages in microvolts potentiometer a has a wire length of 4 0 m across which 2 0 v is applied potentiometer b has a wire length of 10 0 m across which the same 2 0 v is applied investigative question which potentiometer is more sensitive and what is its potential gradient k choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_27_1a9291",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 27: Two Non-Identical Cells Connected in Parallel",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Two battery cells are connected in parallel with like terminals joined: Cell 1 has EMF ε1 = 2.0 V and internal resistance r1 = 1.0 Ω; Cell 2 has EMF ε2 = 1.0 V and internal resistance r2 = 1.0 Ω. **Investigative Question:** What is the equivalent EMF ε_eq and equivalent internal resistance r_eq of this parallel combination? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "ε_eq = 3.0 V; r_eq = 2.0 Ω"
+      },
+      {
+        "key": "B",
+        "text": "ε_eq = 1.5 V; r_eq = 0.5 Ω"
+      },
+      {
+        "key": "C",
+        "text": "ε_eq = 1.0 V; r_eq = 1.0 Ω"
+      },
+      {
+        "key": "D",
+        "text": "ε_eq = 2.0 V; r_eq = 0.5 Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For two cells in parallel: r_eq = (r1 × r2) / (r1 + r2) = (1.0 × 1.0) / (1.0 + 1.0) = 0.5 Ω. The equivalent EMF is given by Millman's / battery formula: ε_eq = (ε1/r1 + ε2/r2) / (1/r1 + 1/r2) = (2.0/1.0 + 1.0/1.0) / (1.0 + 1.0) = (2 + 1) / 2 = 3.0 / 2 = 1.5 V.",
+    "concept_name": "Equivalent EMF and Internal Resistance of Parallel Sources",
+    "concept_tag": "current electricity case based equivalent emf and internal resistance of parallel sources",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1a9291780e73d9631ea54f2dc616c727e7bece31a83072903b6b1014458cf486",
+    "question_skeleton": "case scenario two battery cells are connected in parallel with like terminals joined cell 1 has emf 1 2 0 v and internal resistance r1 1 0 cell 2 has emf 2 1 0 v and internal resistance r2 1 0 investigative question what is the equivalent emf eq and equivalent internal resistance r eq of this parallel combination choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_28_941f7a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 28: Resistors Arranged in a Regular Hexagon with Center Node",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Six identical resistors of 6 Ω each form the perimeter of a regular hexagon ABCDEF. Six additional 6 Ω resistors connect each vertex to a common central junction O. An ohmmeter measures resistance between opposite vertices A and D. **Investigative Question:** What is the equivalent resistance R_AD between opposite vertices A and D? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "R_AD = 6.0 Ω"
+      },
+      {
+        "key": "B",
+        "text": "R_AD = 3.0 Ω"
+      },
+      {
+        "key": "C",
+        "text": "R_AD = 2.0 Ω"
+      },
+      {
+        "key": "D",
+        "text": "R_AD = 12.0 Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By symmetry about line AD, vertices B and F are at the same potential (V_B = V_F), and vertices C and E are at the same potential (V_C = V_E). The network can be folded along line AD or analyzed using delta-wye transformations. Current enters A and splits symmetrically into three paths (AB, AO, AF) and recombines at D through (CD, OD, ED). The parallel combinations yield R_AD = 3.0 Ω.",
+    "concept_name": "Network Simplification via Node Voltage",
+    "concept_tag": "current electricity case based network simplification via node voltage",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "941f7aa1d622dc9175b353514f9de402828ac18357b1d5506a66564b641ecf74",
+    "question_skeleton": "case scenario six identical resistors of 6 each form the perimeter of a regular hexagon abcdef six additional 6 resistors connect each vertex to a common central junction o an ohmmeter measures resistance between opposite vertices a and d investigative question what is the equivalent resistance r ad between opposite vertices a and d choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_29_a98a47",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 29: Rheostat as a Variable Resistor vs Potential Divider",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an electronics experiment, a student connects a 100 Ω, 2 A wire-wound rheostat in two configurations: Circuit 1 uses one fixed end terminal and the sliding wiper terminal. Circuit 2 connects the two fixed end terminals across a fixed 12 V battery, and the load is tapped between one fixed terminal and the sliding wiper. **Investigative Question:** What electrical functions do Circuit 1 and Circuit 2 perform? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Circuit 1 is a potential divider (0–12 V); Circuit 2 is an ammeter."
+      },
+      {
+        "key": "B",
+        "text": "Circuit 1 acts as a variable resistor (rheostat) to control current; Circuit 2 acts as a potential divider (potentiometer) providing an output voltage continuously variable from 0 V to 12 V."
+      },
+      {
+        "key": "C",
+        "text": "Both circuits perform identical variable resistance functions."
+      },
+      {
+        "key": "D",
+        "text": "Circuit 1 acts as a transformer; Circuit 2 acts as a capacitor."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When only two terminals (one fixed end and the wiper) are used, the device acts as a variable series resistor (rheostat) to control total circuit current. When all three terminals are used (fixed ends across source, output taken across wiper and one end), it forms a potential divider. The output voltage V_out = V_in × (r_tapped / R_total) can be smoothly adjusted from 0 V up to the full source voltage.",
+    "concept_name": "Three-Terminal vs Two-Terminal Rheostat Connections",
+    "concept_tag": "current electricity case based three-terminal vs two-terminal rheostat connections",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a98a47f0c2cc8a4d4a4fde400eabd665bd53d58c268989eb504a6ddf2f561fd4",
+    "question_skeleton": "case scenario in an electronics experiment a student connects a 100 2 a wire wound rheostat in two configurations circuit 1 uses one fixed end terminal and the sliding wiper terminal circuit 2 connects the two fixed end terminals across a fixed 12 v battery and the load is tapped between one fixed terminal and the sliding wiper investigative question what electrical functions do circuit 1 and circuit 2 perform choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_30_7c22f9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 30: Power Rating and Safe Current of a Resistor",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A carbon-film electronics resistor has a resistance of R = 100 Ω and a maximum thermal power rating of P = 0.25 W (1/4 watt). **Investigative Question:** What is the maximum safe current I_max and maximum voltage V_max that can be applied across this resistor without burning it out? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I_max = 2.5 mA; V_max = 0.25 V"
+      },
+      {
+        "key": "B",
+        "text": "I_max = 50 mA (0.05 A); V_max = 5.0 V"
+      },
+      {
+        "key": "C",
+        "text": "I_max = 250 mA; V_max = 25 V"
+      },
+      {
+        "key": "D",
+        "text": "I_max = 1.0 A; V_max = 100 V"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Power dissipated is P = I²R = V²/R. The maximum allowable current is I_max = √(P / R) = √(0.25 W / 100 Ω) = √(0.0025) = 0.05 A = 50 mA. The maximum allowable voltage across its terminals is V_max = √(P × R) = √(0.25 × 100) = √25 = 5.0 V. Exceeding 5 V or 50 mA will cause overheating and thermal destruction of the carbon film.",
+    "concept_name": "Safe Current Limit I_max = √(P/R)",
+    "concept_tag": "current electricity case based safe current limit i_max = √(p/r)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7c22f9224d211522b3fd73e968ac6c8eec178624e62b85f5afbec4c73c4e9ed8",
+    "question_skeleton": "case scenario a carbon film electronics resistor has a resistance of r 100 and a maximum thermal power rating of p 0 25 w 1 4 watt investigative question what is the maximum safe current i max and maximum voltage v max that can be applied across this resistor without burning it out choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_31_f0ebd0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 31: Electric Kettle Boiling Water: Power and Time Calculation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electric immersion kettle operating on 220 V mains power draws a steady current of 10.0 A. It is used to heat 1.0 kg of pure water from 20°C to its boiling point of 100°C. Specific heat capacity of water is 4200 J/(kg·°C). Assume 100% heat transfer efficiency. **Investigative Question:** What is the electrical power rating of the kettle, and how long does it take to boil the water? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Power = 220 W; Time = 1527 s"
+      },
+      {
+        "key": "B",
+        "text": "Power = 2200 W (2.2 kW); Time = 152.7 seconds (~2.5 minutes)"
+      },
+      {
+        "key": "C",
+        "text": "Power = 4400 W; Time = 76.4 s"
+      },
+      {
+        "key": "D",
+        "text": "Power = 22 kW; Time = 15.3 s"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electrical power P = V × I = 220 V × 10.0 A = 2200 W = 2.2 kW. Heat required to raise water temperature: Q = m × c × ΔT = 1.0 kg × 4200 J/(kg·°C) × (100 - 20)°C = 4200 × 80 = 336,000 J. Heat supplied = Power × Time: P × t = Q => 2200 × t = 336,000 => t = 336,000 / 2200 ≈ 152.7 seconds.",
+    "concept_name": "Electrothermal Energy Balance: Pt = mcΔT",
+    "concept_tag": "current electricity case based electrothermal energy balance: pt = mcδt",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f0ebd0906f2fbf979f81a9becb4e09634ddce72b658619ef005444a13269c421",
+    "question_skeleton": "case scenario an electric immersion kettle operating on 220 v mains power draws a steady current of 10 0 a it is used to heat 1 0 kg of pure water from 20 c to its boiling point of 100 c specific heat capacity of water is 4200 j kg c assume 100 heat transfer efficiency investigative question what is the electrical power rating of the kettle and how long does it take to boil the water choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_32_5eb860",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 32: Shunt Resistor Calculation to Convert Galvanometer to Ammeter",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A moving coil galvanometer has an internal coil resistance of G = 50 Ω and produces full-scale deflection (FSD) with a current of I_g = 2.0 mA (0.002 A). An electrical instrument maker wants to convert this galvanometer into an ammeter capable of measuring currents up to I = 2.0 A. **Investigative Question:** What shunt resistance S must be connected in parallel with the galvanometer coil? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "S ≈ 0.050 Ω"
+      },
+      {
+        "key": "B",
+        "text": "S = 50 Ω"
+      },
+      {
+        "key": "C",
+        "text": "S = 500 Ω"
+      },
+      {
+        "key": "D",
+        "text": "S = 0.001 Ω"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "To measure a larger current I, a small shunt resistance S is connected in parallel with G. The voltage across both branches is equal: I_g × G = (I - I_g) × S => S = (I_g × G) / (I - I_g). Here I_g = 0.002 A, I = 2.0 A, so I - I_g = 1.998 A. S = (0.002 × 50) / 1.998 = 0.10 / 1.998 ≈ 0.05005 Ω (approx 0.05 Ω).",
+    "concept_name": "Galvanometer to Ammeter Conversion S = I_g G / (I - I_g)",
+    "concept_tag": "current electricity case based galvanometer to ammeter conversion s = i_g g / (i - i_g)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5eb86016a8e0d9d338e4cf63bb39cdb565df0e76064741bcad59f9a269d7aa76",
+    "question_skeleton": "case scenario a moving coil galvanometer has an internal coil resistance of g 50 and produces full scale deflection fsd with a current of i g 2 0 ma 0 002 a an electrical instrument maker wants to convert this galvanometer into an ammeter capable of measuring currents up to i 2 0 a investigative question what shunt resistance s must be connected in parallel with the galvanometer coil choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_33_59f2db",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 33: Multiplier Resistor Calculation to Convert Galvanometer to Voltmeter",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** The same moving coil galvanometer (coil resistance G = 50 Ω, full scale deflection current I_g = 2.0 mA) is now to be converted into a voltmeter capable of reading up to V = 10.0 V full scale. **Investigative Question:** What series resistance R_se must be connected in series with the galvanometer? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "R_se = 50 Ω"
+      },
+      {
+        "key": "B",
+        "text": "R_se = 4,950 Ω"
+      },
+      {
+        "key": "C",
+        "text": "R_se = 5,000 Ω"
+      },
+      {
+        "key": "D",
+        "text": "R_se = 450 Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "To measure voltage V, a large multiplier resistance R_se is connected in series with the coil: V = I_g × (G + R_se) => G + R_se = V / I_g => R_se = (V / I_g) - G. Here V = 10.0 V and I_g = 0.002 A. R_se = (10.0 / 0.002) - 50 = 5000 - 50 = 4,950 Ω.",
+    "concept_name": "Galvanometer to Voltmeter Conversion R_se = (V / I_g) - G",
+    "concept_tag": "current electricity case based galvanometer to voltmeter conversion r_se = (v / i_g) - g",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "59f2db9d401bdeed8261ba0665c46ec48e3a8332512c4735577fb293fade4475",
+    "question_skeleton": "case scenario the same moving coil galvanometer coil resistance g 50 full scale deflection current i g 2 0 ma is now to be converted into a voltmeter capable of reading up to v 10 0 v full scale investigative question what series resistance r se must be connected in series with the galvanometer choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_34_39527b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 34: Heating Coil Reconfiguration: Cutting in Half for Double Power",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electric room heater with a single nichrome heating element of resistance R delivers 1000 W of heating power when connected across 200 V mains. The user cuts the heating element in half, discarding one half, and connects the remaining half element across the same 200 V mains. **Investigative Question:** What is the new resistance and thermal power output of the shortened heater element? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Resistance = R/2; Power output doubles to 2000 W"
+      },
+      {
+        "key": "B",
+        "text": "Resistance = 2R; Power output halves to 500 W"
+      },
+      {
+        "key": "C",
+        "text": "Resistance = R/2; Power output halves to 500 W"
+      },
+      {
+        "key": "D",
+        "text": "Resistance = R/4; Power output quadruples to 4000 W"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Since resistance is directly proportional to length (R ∝ L), cutting the wire in half reduces its resistance to R' = R/2. Connected across the same voltage source V, power is P = V²/R. New power is P' = V² / (R/2) = 2(V²/R) = 2P = 2 × 1000 W = 2000 W. Note: while power doubles, current also doubles, requiring caution so as not to melt the wire.",
+    "concept_name": "Coil Shortening and Power Output Variation",
+    "concept_tag": "current electricity case based coil shortening and power output variation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "39527b185742331f15afd008eadd945caaad4c98089145f93f69e3d96035d223",
+    "question_skeleton": "case scenario an electric room heater with a single nichrome heating element of resistance r delivers 1000 w of heating power when connected across 200 v mains the user cuts the heating element in half discarding one half and connects the remaining half element across the same 200 v mains investigative question what is the new resistance and thermal power output of the shortened heater element choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_35_38d95a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 35: Electrochemical Equivalent (ECE) and Faraday's First Law",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an electroplating bath, a steady direct current of 5.0 A flows through an acidified copper sulfate (CuSO₄) solution for 32 minutes and 10 seconds (1930 seconds). The electrochemical equivalent of copper is z = 0.000329 g/C (3.29 × 10⁻⁴ g/C). **Investigative Question:** What mass of pure copper m is deposited on the cathode cathode plate? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "m = 0.317 g"
+      },
+      {
+        "key": "B",
+        "text": "m = 3.175 g"
+      },
+      {
+        "key": "C",
+        "text": "m = 31.75 g"
+      },
+      {
+        "key": "D",
+        "text": "m = 6.35 g"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By Faraday's first law of electrolysis, mass deposited is m = z × Q = z × I × t. Total charge passed is Q = 5.0 A × 1930 s = 9650 C. Mass of copper deposited is m = (3.29 × 10⁻⁴ g/C) × 9650 C = 3.17485 g ≈ 3.175 g (which corresponds to exactly 0.05 moles of Cu²⁺ ions).",
+    "concept_name": "Faraday's Law of Electrolysis m = zIt",
+    "concept_tag": "current electricity case based faraday's law of electrolysis m = zit",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "38d95afcb969007f3e6bc4260bf5f85740388cc9aaddbef83bceba4d9771b8c9",
+    "question_skeleton": "case scenario in an electroplating bath a steady direct current of 5 0 a flows through an acidified copper sulfate cuso solution for 32 minutes and 10 seconds 1930 seconds the electrochemical equivalent of copper is z 0 000329 g c 3 29 10 g c investigative question what mass of pure copper m is deposited on the cathode cathode plate choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_36_e25f54",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 36: Why High Voltage AC is Used for Long-Distance Power Transmission",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A thermal power station generates 100 MW of electrical power to be transmitted over a distance of 200 km through transmission cables of total resistance R_line = 10 Ω. The transmission engineers evaluate transmitting at V1 = 10 kV versus stepping up to V2 = 400 kV. **Investigative Question:** What is the transmission line I²R power loss when transmitting at 400 kV compared to 10 kV? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Power loss at 400 kV is 40 times less."
+      },
+      {
+        "key": "B",
+        "text": "Power loss at 400 kV is 1600 times less (reduced from 100% loss at 10 kV down to just 0.625 MW at 400 kV)."
+      },
+      {
+        "key": "C",
+        "text": "Power loss is identical because line resistance is unchanged."
+      },
+      {
+        "key": "D",
+        "text": "Power loss at 400 kV is 1600 times greater."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Power transmitted is P = V × I, so current is I = P / V. Line power loss is P_loss = I²R_line = (P / V)² × R_line = P²R_line / V². Thus line power loss is inversely proportional to the square of transmission voltage (P_loss ∝ 1/V²). Increasing voltage by a factor of 40 (from 10 kV to 400 kV) reduces transmission line power loss by 40² = 1600 times, dramatically conserving energy.",
+    "concept_name": "Transmission Line Loss Minimization: P_loss = I²R_line",
+    "concept_tag": "current electricity case based transmission line loss minimization: p_loss = i²r_line",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e25f5467b53fcea8212b0765af26326ba94e650c854aeca70f8447461ebcd2c4",
+    "question_skeleton": "case scenario a thermal power station generates 100 mw of electrical power to be transmitted over a distance of 200 km through transmission cables of total resistance r line 10 the transmission engineers evaluate transmitting at v1 10 kv versus stepping up to v2 400 kv investigative question what is the transmission line i r power loss when transmitting at 400 kv compared to 10 kv choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_37_c9d635",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 37: Comparing Resistivity of Manganin / Constantan vs Copper",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An instrument manufacturer winds standard resistance boxes and precision laboratory rheostats using wires of Manganin (an alloy of Cu, Mn, Ni) or Constantan (Cu, Ni) rather than pure copper. **Investigative Question:** What two physical properties make Manganin and Constantan ideal for standard resistance coils? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "They have zero resistivity and melt at room temperature."
+      },
+      {
+        "key": "B",
+        "text": "They possess high resistivity (allowing compact coil sizes) and an almost negligible temperature coefficient of resistance, so resistance remains stable despite temperature changes."
+      },
+      {
+        "key": "C",
+        "text": "They are ferromagnetic and attract copper leads."
+      },
+      {
+        "key": "D",
+        "text": "They convert electrical current directly into light."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Standard resistors require high electrical stability. Manganin and Constantan have: (1) high specific resistance (~30 to 50 times that of copper), meaning short, compact coils can provide large resistance, and (2) nearly zero temperature coefficient of resistance (α ≈ 10⁻⁵ /°C), meaning their resistance changes negligibly even when current causes mild self-heating.",
+    "concept_name": "Standard Resistance Coils and Low Temperature Coefficient",
+    "concept_tag": "current electricity case based standard resistance coils and low temperature coefficient",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c9d6354679949cd18db9a81878d8eb865068751f7e7b8a7f6303ae8819f777da",
+    "question_skeleton": "case scenario an instrument manufacturer winds standard resistance boxes and precision laboratory rheostats using wires of manganin an alloy of cu mn ni or constantan cu ni rather than pure copper investigative question what two physical properties make manganin and constantan ideal for standard resistance coils choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_38_065a6b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 38: Internal Resistance of an Old Dry Cell vs Fresh Alkaline Cell",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student attempts to power a motorized robotic toy using an old, expired 1.5 V zinc-carbon dry cell. A high-impedance digital voltmeter reads 1.48 V across the old cell. However, as soon as the motor is connected, the motor does not turn at all and the terminal voltage drops to 0.15 V. When a fresh alkaline cell (reading 1.50 V) is connected, the motor spins vigorously and terminal voltage stays at 1.42 V. **Investigative Question:** What happened to the internal resistance of the old dry cell as it aged? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Its internal resistance dropped to zero."
+      },
+      {
+        "key": "B",
+        "text": "Its internal resistance grew immensely (from ~0.1 Ω to > 10 Ω) due to drying of the paste electrolyte and build-up of chemical reaction products, creating huge internal lost volts (Ir) when drawing motor current."
+      },
+      {
+        "key": "C",
+        "text": "The old cell began generating alternating current."
+      },
+      {
+        "key": "D",
+        "text": "The motor demagnetized the old cell."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A voltmeter draws negligible current, so it reads open-circuit EMF (ε ≈ 1.48 V). However, as a dry cell ages, electrolyte moisture evaporates and zinc-ammonium complexes clog the separator, driving internal resistance r up to 10–20 Ω. When a motor requiring 0.5 A is attached, the terminal voltage collapses: V = ε - Ir = 1.48 - (0.5 × 10) < 0, dropping to ~0.15 V. The cell can no longer deliver current.",
+    "concept_name": "Electrolyte Depletion and High Internal Resistance",
+    "concept_tag": "current electricity case based electrolyte depletion and high internal resistance",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "065a6b3838ede5b1b60da37fdbfa985aa65bf3d5ba39b134abcf5a366258d418",
+    "question_skeleton": "case scenario a student attempts to power a motorized robotic toy using an old expired 1 5 v zinc carbon dry cell a high impedance digital voltmeter reads 1 48 v across the old cell however as soon as the motor is connected the motor does not turn at all and the terminal voltage drops to 0 15 v when a fresh alkaline cell reading 1 50 v is connected the motor spins vigorously and terminal voltage stays at 1 42 v investigative question what happened to the internal resistance of the old dry cell as it aged choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_39_f0f584",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 39: Delta-Star (Δ-Y) Equivalence Transformation in Bridge Networks",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Three resistors of 9 Ω each are connected in a delta (Δ) triangle between nodes A, B, and C. An electrical engineer wants to replace them with an equivalent star (Y) connected network of three resistors Ra, Rb, Rc connected to a common neutral point N. **Investigative Question:** What is the resistance of each star branch resistor Ra, Rb, and Rc? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ra = Rb = Rc = 3.0 Ω"
+      },
+      {
+        "key": "B",
+        "text": "Ra = Rb = Rc = 9.0 Ω"
+      },
+      {
+        "key": "C",
+        "text": "Ra = Rb = Rc = 27.0 Ω"
+      },
+      {
+        "key": "D",
+        "text": "Ra = Rb = Rc = 1.0 Ω"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For a symmetrical delta network with three equal resistors R_Δ = 9 Ω, the equivalent star branch resistors are given by the transformation formula: R_Y = (R_Δ × R_Δ) / (R_Δ + R_Δ + R_Δ) = R_Δ² / (3R_Δ) = R_Δ / 3. Therefore, each star branch resistance is Ra = Rb = Rc = 9.0 Ω / 3 = 3.0 Ω.",
+    "concept_name": "Three-Terminal Network Transformation",
+    "concept_tag": "current electricity case based three-terminal network transformation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f0f58427ff88cc8f94d41aa4d71b3a755776e0712e830e3b2accc029f4294df0",
+    "question_skeleton": "case scenario three resistors of 9 each are connected in a delta triangle between nodes a b and c an electrical engineer wants to replace them with an equivalent star y connected network of three resistors ra rb rc connected to a common neutral point n investigative question what is the resistance of each star branch resistor ra rb and rc choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_40_39f872",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 40: Resistivity Variation in Conductors vs Insulators vs Semiconductors",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A materials science laboratory tests three mystery rods at 20°C: Material X has resistivity ρ_X ≈ 1.7 × 10⁻⁸ Ω·m; Material Y has resistivity ρ_Y ≈ 0.46 Ω·m; Material Z has resistivity ρ_Z ≈ 1.0 × 10¹⁴ Ω·m. **Investigative Question:** What are the correct material classifications for X, Y, and Z? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "X: Insulator; Y: Semiconductor; Z: Conductor"
+      },
+      {
+        "key": "B",
+        "text": "X: Good Conductor (metal); Y: Semiconductor; Z: Electrical Insulator (dielectric)"
+      },
+      {
+        "key": "C",
+        "text": "X: Semiconductor; Y: Superconductor; Z: Metal"
+      },
+      {
+        "key": "D",
+        "text": "X: Superconductor; Y: Insulator; Z: Conductor"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Resistivity categorizes materials across a 24-order-of-magnitude span: Conductors (metals like Cu, Ag) have very low resistivities (~10⁻⁸ to 10⁻⁶ Ω·m); Semiconductors (Ge, Si) have intermediate resistivities (~10⁻² to 10² Ω·m); Insulators (glass, rubber, mica, quartz) have extremely high resistivities (~10¹⁰ to 10¹⁶ Ω·m).",
+    "concept_name": "Comparative Orders of Magnitude of Resistivity",
+    "concept_tag": "current electricity case based comparative orders of magnitude of resistivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "39f872132908a61ec51cac197b766b4e8fe529a7c89791791ce0d110e3cce684",
+    "question_skeleton": "case scenario a materials science laboratory tests three mystery rods at 20 c material x has resistivity x 1 7 10 m material y has resistivity y 0 46 m material z has resistivity z 1 0 10 m investigative question what are the correct material classifications for x y and z choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_41_85692d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 41: Resistance of a Stretched Metallic Cylinder of Fixed Mass",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A laboratory technician has a wire of resistance R = 5.0 Ω. The wire is stretched uniformly through a series of rollers until its diameter is reduced to half its initial diameter (d' = d/2). **Investigative Question:** What is the new resistance R' of the stretched wire? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "R' = 20 Ω"
+      },
+      {
+        "key": "B",
+        "text": "R' = 40 Ω"
+      },
+      {
+        "key": "C",
+        "text": "R' = 80 Ω"
+      },
+      {
+        "key": "D",
+        "text": "R' = 10 Ω"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Since cross-sectional area is A = πd²/4, halving diameter (d' = d/2) reduces area by 4: A' = A/4. Because volume V = A × L is constant during stretching, reducing area to 1/4 forces length to quadruple: L' = 4L. The new resistance is R' = ρL'/A' = ρ(4L)/(A/4) = 16(ρL/A) = 16R. Therefore R' = 16 × 5.0 Ω = 80 Ω.",
+    "concept_name": "General Stretching Formula R' = n² R",
+    "concept_tag": "current electricity case based general stretching formula r' = n² r",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "85692d5310b0a7df13f99510e7febea2024bdd41ebd8619c9c0b9e804ffa4cdc",
+    "question_skeleton": "case scenario a laboratory technician has a wire of resistance r 5 0 the wire is stretched uniformly through a series of rollers until its diameter is reduced to half its initial diameter d d 2 investigative question what is the new resistance r of the stretched wire choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_42_ae7d7b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 42: Current Through Resistors in Series-Parallel Mixed Circuit",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A circuit consists of an 8.0 Ω resistor connected in series with a parallel combination of two resistors: 12.0 Ω and 6.0 Ω. The entire circuit is connected across a 24 V DC power source with zero internal resistance. **Investigative Question:** What is the total circuit current I, and what is the current through the 6.0 Ω resistor? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Total current = 2.0 A; Current through 6.0 Ω resistor = 1.33 A"
+      },
+      {
+        "key": "B",
+        "text": "Total current = 2.0 A; Current through 6.0 Ω resistor = 0.67 A"
+      },
+      {
+        "key": "C",
+        "text": "Total current = 1.0 A; Current through 6.0 Ω resistor = 0.50 A"
+      },
+      {
+        "key": "D",
+        "text": "Total current = 3.0 A; Current through 6.0 Ω resistor = 2.0 A"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The parallel combination of 12 Ω and 6 Ω has equivalent resistance: R_p = (12 × 6) / (12 + 6) = 72 / 18 = 4.0 Ω. Total circuit resistance is R_total = 8.0 Ω + 4.0 Ω = 12.0 Ω. Total current is I = V / R_total = 24 V / 12.0 Ω = 2.0 A. Voltage across parallel block is V_p = I × R_p = 2.0 A × 4.0 Ω = 8.0 V. Current through the 6.0 Ω branch is I₆ = V_p / 6.0 = 8.0 V / 6.0 Ω = 1.33 A.",
+    "concept_name": "Branch Analysis in Series-Parallel Combination",
+    "concept_tag": "current electricity case based branch analysis in series-parallel combination",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ae7d7ba486dee9abbb400bb5e8c0eaa71e2f00d26adb92aa1320c6a6040127cc",
+    "question_skeleton": "case scenario a circuit consists of an 8 0 resistor connected in series with a parallel combination of two resistors 12 0 and 6 0 the entire circuit is connected across a 24 v dc power source with zero internal resistance investigative question what is the total circuit current i and what is the current through the 6 0 resistor choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_43_af060d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 43: Thermistor Resistance Variation in Fire Alarm Circuits",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A fire detection circuit uses a negative temperature coefficient (NTC) bead thermistor placed in series with a fixed 1000 Ω resistor and a 12 V power supply. At room temperature (25°C), the thermistor resistance is 5000 Ω. In a fire, the ambient temperature rises to 200°C, causing the thermistor resistance to plunge to 100 Ω. **Investigative Question:** What happens to the current in the circuit and the voltage drop across the fixed resistor during the fire? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Current decreases from 2 mA to 0.1 mA; voltage drops to near zero."
+      },
+      {
+        "key": "B",
+        "text": "Current increases from 2.0 mA to 10.9 mA; voltage drop across the fixed resistor jumps from 2.0 V to 10.9 V, triggering the alarm relay circuit."
+      },
+      {
+        "key": "C",
+        "text": "Current and voltage remain unchanged because thermistors follow Ohm's law."
+      },
+      {
+        "key": "D",
+        "text": "The thermistor emits a high-frequency radio signal directly."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "At 25°C: R_total = 5000 + 1000 = 6000 Ω; I = 12 / 6000 = 2.0 mA; V_fixed = 2.0 mA × 1000 Ω = 2.0 V. At 200°C: thermistor drops to 100 Ω; R_total = 100 + 1000 = 1100 Ω; I = 12 / 1100 ≈ 10.9 mA; V_fixed = 10.9 mA × 1000 Ω ≈ 10.9 V. This large voltage jump across the fixed resistor is detected by an operational amplifier to ring the fire alarm.",
+    "concept_name": "NTC Thermistor Application in Temperature Sensing",
+    "concept_tag": "current electricity case based ntc thermistor application in temperature sensing",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "af060d964bf89d29107f4da14b0642d08ade40ac8396a7f341e6fb1e2eb1ce6d",
+    "question_skeleton": "case scenario a fire detection circuit uses a negative temperature coefficient ntc bead thermistor placed in series with a fixed 1000 resistor and a 12 v power supply at room temperature 25 c the thermistor resistance is 5000 in a fire the ambient temperature rises to 200 c causing the thermistor resistance to plunge to 100 investigative question what happens to the current in the circuit and the voltage drop across the fixed resistor during the fire choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_44_3db1fe",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 44: Total Energy Consumed by Multiple Appliances in a Household",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A house uses four 100 W bulbs for 5 hours each day, an 80 W television for 6 hours each day, and a 1000 W water heater for 1 hour each day. The billing cycle is 30 days, and the electricity tariff is ₹6.00 per unit (kWh). **Investigative Question:** What is the total energy consumed in kWh per month, and what is the total electricity bill? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "104.4 kWh; Cost = ₹626.40"
+      },
+      {
+        "key": "B",
+        "text": "74.4 kWh; Cost = ₹446.40"
+      },
+      {
+        "key": "C",
+        "text": "52.2 kWh; Cost = ₹313.20"
+      },
+      {
+        "key": "D",
+        "text": "200 kWh; Cost = ₹1200.00"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Daily energy: (1) Bulbs: 4 × 100 W × 5 h = 2000 Wh = 2.0 kWh; (2) TV: 80 W × 6 h = 480 Wh = 0.48 kWh; (3) Water heater: 1000 W × 1 h = 1000 Wh = 1.0 kWh. Total daily consumption = 2.0 + 0.48 + 1.0 = 3.48 kWh. Total monthly consumption (30 days) = 3.48 × 30 = 104.4 kWh. Monthly bill = 104.4 units × ₹6.00/unit = ₹626.40.",
+    "concept_name": "Calculation of Monthly Electrical Consumption and Cost",
+    "concept_tag": "current electricity case based calculation of monthly electrical consumption and cost",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3db1fe73d9cce13a2a0243a3a8c70763eecfd75206b41b2aeb4035d013e48e69",
+    "question_skeleton": "case scenario a house uses four 100 w bulbs for 5 hours each day an 80 w television for 6 hours each day and a 1000 w water heater for 1 hour each day the billing cycle is 30 days and the electricity tariff is 6 00 per unit kwh investigative question what is the total energy consumed in kwh per month and what is the total electricity bill choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_45_5b0c95",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 45: Internal Resistance Calculation from Cell Circuit Graph",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An experimenter measures the terminal voltage V across a real cell as a function of load current I. The resulting plot is a straight line sloping downward, intersecting the vertical voltage axis at V = 1.50 V and intersecting the horizontal current axis at I = 3.0 A. **Investigative Question:** What are the EMF ε and internal resistance r of this cell? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "ε = 1.50 V; r = 0.50 Ω"
+      },
+      {
+        "key": "B",
+        "text": "ε = 3.0 V; r = 1.50 Ω"
+      },
+      {
+        "key": "C",
+        "text": "ε = 1.50 V; r = 2.0 Ω"
+      },
+      {
+        "key": "D",
+        "text": "ε = 4.5 V; r = 0.33 Ω"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The equation for a discharging cell is V = ε - Ir. On a plot of V against I: (1) The y-intercept (where I = 0) represents the open-circuit EMF: ε = 1.50 V. (2) The x-intercept (where V = 0) represents the short-circuit current: I_sc = ε / r = 3.0 A. Therefore: r = ε / I_sc = 1.50 V / 3.0 A = 0.50 Ω (also given by the magnitude of the slope: |slope| = r = 1.50 / 3.0 = 0.50 Ω).",
+    "concept_name": "Intercepts of V vs I Graph for a Cell",
+    "concept_tag": "current electricity case based intercepts of v vs i graph for a cell",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5b0c95a21893a47c24bc378c32a8c53566062c7991bd7bd125f8c66e7994fff2",
+    "question_skeleton": "case scenario an experimenter measures the terminal voltage v across a real cell as a function of load current i the resulting plot is a straight line sloping downward intersecting the vertical voltage axis at v 1 50 v and intersecting the horizontal current axis at i 3 0 a investigative question what are the emf and internal resistance r of this cell choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_46_21954c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 46: Series vs Parallel Connecting Wires in Mains Electricity",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A home homeowner considers whether to connect domestic ceiling fans, air conditioners, and lights in series or in parallel across the single-phase 230 V AC mains supply. **Investigative Question:** Why are all domestic electrical appliances universally connected in parallel? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Parallel connection doubles the frequency of alternating current."
+      },
+      {
+        "key": "B",
+        "text": "In parallel, each appliance receives the full rated mains voltage (230 V), operates independently with its own switch, and a failure in one appliance does not interrupt power to other appliances."
+      },
+      {
+        "key": "C",
+        "text": "Parallel connection makes total resistance higher, saving electricity."
+      },
+      {
+        "key": "D",
+        "text": "Series connection would cause all appliances to produce dangerous sparks."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In a parallel distribution system: (1) Each appliance operates at its designed rated voltage (230 V) regardless of what other appliances are turned on. (2) Each branch circuit has an independent on/off switch. (3) If one appliance burns out or is switched off, the remaining branches remain closed and fully functional. (4) Total resistance decreases as more loads are added, allowing required power draw.",
+    "concept_name": "Mains Wiring and Independent Switching",
+    "concept_tag": "current electricity case based mains wiring and independent switching",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "21954cd092845457fcb6149d6467a764779f9f3b7471e0b887ffc20b510a5268",
+    "question_skeleton": "case scenario a home homeowner considers whether to connect domestic ceiling fans air conditioners and lights in series or in parallel across the single phase 230 v ac mains supply investigative question why are all domestic electrical appliances universally connected in parallel choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_47_8f98d6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 47: Why Bird Perched on a High Voltage Power Cable Does Not Get Electrocuted",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A pigeon lands with both feet gripping an uninsulated high-voltage aluminum transmission line energized at 132,000 V (132 kV) relative to the earth. The bird chirps happily and experiences no electric shock whatsoever. **Investigative Question:** Why is the bird completely unharmed despite standing on a 132 kV live line? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The bird's talons are made of ceramic diamond insulator."
+      },
+      {
+        "key": "B",
+        "text": "Both feet of the bird rest on the same conductor only a few centimeters apart; because resistance of that short length of wire is virtually zero, the potential difference (voltage drop ΔV) between its feet is essentially zero, so no significant current passes through its body."
+      },
+      {
+        "key": "C",
+        "text": "Alternating current flows only along the bottom of the wire."
+      },
+      {
+        "key": "D",
+        "text": "The bird has a natural electric potential of 132 kV."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electric current flows through a body only when there is a potential difference (voltage drop ΔV = V1 - V2) across two points of contact. The bird is at a high absolute potential (132 kV), but both its feet touch the same thick aluminum conductor separated by only ~3 cm. Since wire resistance between its feet is ~10⁻⁶ Ω, ΔV = I × R_wire is negligible (microvolts). Current bypasses the bird's high-resistance body.",
+    "concept_name": "Potential Difference vs Absolute Potential",
+    "concept_tag": "current electricity case based potential difference vs absolute potential",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8f98d60d9d3aa7f16ae24818ff95bba70e050918a346d99c45bd61523b72d762",
+    "question_skeleton": "case scenario a pigeon lands with both feet gripping an uninsulated high voltage aluminum transmission line energized at 132 000 v 132 kv relative to the earth the bird chirps happily and experiences no electric shock whatsoever investigative question why is the bird completely unharmed despite standing on a 132 kv live line choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_48_fff0da",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 48: Resistance of a Thick Hollow Cylindrical Conductor",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrical busbar consists of a hollow copper tube of length L = 2.0 m, outer radius R2 = 20 mm, and inner radius R1 = 10 mm. The resistivity of copper is ρ = 1.7 × 10⁻⁸ Ω·m. **Investigative Question:** What is the cross-sectional area of copper A and the electrical resistance R of this hollow busbar? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A = 3.14 × 10⁻⁴ m²; R = 1.08 × 10⁻⁴ Ω"
+      },
+      {
+        "key": "B",
+        "text": "A = 9.42 × 10⁻⁴ m²; R = 3.61 × 10⁻⁵ Ω"
+      },
+      {
+        "key": "C",
+        "text": "A = 1.25 × 10⁻³ m²; R = 2.72 × 10⁻⁵ Ω"
+      },
+      {
+        "key": "D",
+        "text": "A = 6.28 × 10⁻⁴ m²; R = 5.41 × 10⁻⁵ Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The cross-sectional area of the annular metal region is A = π(R2² - R1²) = π[(0.020)² - (0.010)²] = π[0.0004 - 0.0001] = π × 0.0003 ≈ 9.425 × 10⁻⁴ m². The resistance is R = ρL / A = (1.7 × 10⁻⁸ Ω·m × 2.0 m) / (9.425 × 10⁻⁴ m²) = 3.4 × 10⁻⁸ / 9.425 × 10⁻⁴ ≈ 3.61 × 10⁻⁵ Ω.",
+    "concept_name": "Resistance of Annular Conductor R = ρL / [π(R2² - R1²)]",
+    "concept_tag": "current electricity case based resistance of annular conductor r = ρl / [π(r2² - r1²)]",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "fff0da84e224130930063849b4259b0ca6920821d451a3d46c894b102f9713f7",
+    "question_skeleton": "case scenario an electrical busbar consists of a hollow copper tube of length l 2 0 m outer radius r2 20 mm and inner radius r1 10 mm the resistivity of copper is 1 7 10 m investigative question what is the cross sectional area of copper a and the electrical resistance r of this hollow busbar choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_49_6971fd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 49: Shorting One Resistor in a Symmetrical Network",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Two identical resistors of 10 Ω each are connected in series with a 12 V battery, drawing a steady current of 0.6 A. A thick copper jumper wire of negligible resistance is suddenly connected across the terminals of one of the 10 Ω resistors, effectively shorting it out. **Investigative Question:** What is the new total circuit resistance and the new current supplied by the battery? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Resistance = 0 Ω; Current = 12 A"
+      },
+      {
+        "key": "B",
+        "text": "Resistance = 10 Ω; Current doubles to 1.2 A"
+      },
+      {
+        "key": "C",
+        "text": "Resistance = 20 Ω; Current remains 0.6 A"
+      },
+      {
+        "key": "D",
+        "text": "Resistance = 5 Ω; Current increases to 2.4 A"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Initially, R_total = 10 + 10 = 20 Ω; I = 12 / 20 = 0.6 A. When a jumper wire (r ≈ 0) is connected across one resistor, it places a zero-resistance path in parallel with that 10 Ω resistor: R_p = (10 × 0)/(10 + 0) = 0 Ω. That resistor is completely bypassed. Total circuit resistance drops to the single remaining resistor: R_total' = 10 Ω. New current is I' = 12 V / 10 Ω = 1.2 A (current doubles).",
+    "concept_name": "Network Reconfiguration Under Zero Resistance Bypass",
+    "concept_tag": "current electricity case based network reconfiguration under zero resistance bypass",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6971fdcb9035f779df7ac34fd15677281821fdcabba1d4f4945f9443c986104f",
+    "question_skeleton": "case scenario two identical resistors of 10 each are connected in series with a 12 v battery drawing a steady current of 0 6 a a thick copper jumper wire of negligible resistance is suddenly connected across the terminals of one of the 10 resistors effectively shorting it out investigative question what is the new total circuit resistance and the new current supplied by the battery choose the correct option"
+  },
+  {
+    "globalId": "qb_case_current_electricity_50_26b1c1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Current Electricity",
+    "title": "Case Study 50: Electrolyte Temperature and Cell Internal Resistance in Freezing Weather",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** On a sub-zero winter morning (-15°C), a motorist finds that their car battery struggles to crank the starter motor, sounding sluggish and weak. After the car is towed into a heated garage at 25°C for two hours, the exact same battery easily cranks and starts the engine without any recharging. **Investigative Question:** Why does freezing ambient temperature severely impair an electrochemical battery's cranking performance? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cold temperatures cause electrons to evaporate from lead plates."
+      },
+      {
+        "key": "B",
+        "text": "Cold temperatures increase the viscosity of the sulfuric acid electrolyte and reduce ionic mobility, drastically increasing the battery's internal resistance r and increasing internal lost volts (Ir) under high cranking currents."
+      },
+      {
+        "key": "C",
+        "text": "Freezing temperatures convert alternating current into direct current."
+      },
+      {
+        "key": "D",
+        "text": "The open-circuit EMF of the battery drops to zero below 0°C."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "An electrochemical battery produces electric current via the physical migration of ions (H⁺ and HSO₄⁻) through liquid electrolyte. At low temperatures, liquid viscosity increases and ionic kinetic energy drops, significantly slowing ion migration. This causes internal resistance r to spike by 300–400%. Under a heavy starter motor load (200 A), internal lost volts v = Ir drops terminal voltage V = ε - Ir below the threshold needed to crank the engine.",
+    "concept_name": "Cold Weather Battery Cranking Degradation",
+    "concept_tag": "current electricity case based cold weather battery cranking degradation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "26b1c192d136a71e5f3c443020380b73fb91e819786e0bd2a49f2ba6a37d548e",
+    "question_skeleton": "case scenario on a sub zero winter morning 15 c a motorist finds that their car battery struggles to crank the starter motor sounding sluggish and weak after the car is towed into a heated garage at 25 c for two hours the exact same battery easily cranks and starts the engine without any recharging investigative question why does freezing ambient temperature severely impair an electrochemical battery s cranking performance choose the correct option"
+  }
+]

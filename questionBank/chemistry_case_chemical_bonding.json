@@ -1,0 +1,2252 @@
+[
+  {
+    "globalId": "qb_case_chemical_bonding_1_69c4af",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 1: Thermodynamics of Sodium Chloride Crystal Lattice",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical engineer studies the formation of solid sodium chloride from gaseous ions: Na⁺(g) + Cl⁻(g) → NaCl(s). The ionisation energy of sodium requires +496 kJ/mol, while the electron affinity of chlorine releases only -349 kJ/mol, giving a net endothermic deficit of +147 kJ/mol. Despite this deficit, the overall reaction between sodium metal and chlorine gas is violently exothermic (ΔH° = -411 kJ/mol). **Investigative Question:** What thermodynamic energy component compensates for the initial endothermic cost and drives the spontaneous synthesis of sodium chloride? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The heat of evaporation of chlorine gas."
+      },
+      {
+        "key": "B",
+        "text": "The immense lattice energy (-788 kJ/mol) released when oppositely charged Na⁺ and Cl⁻ ions condense into a three-dimensional cubic crystal lattice held by omnidirectional electrostatic forces."
+      },
+      {
+        "key": "C",
+        "text": "The magnetic attraction between atomic nuclei."
+      },
+      {
+        "key": "D",
+        "text": "The formation of covalent bonds between sodium and chlorine."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Although removing an electron from sodium and transferring it to chlorine requires net energy (+147 kJ/mol), when the gaseous Na⁺ and Cl⁻ ions come together to form an alternating 3D face-centered cubic lattice, a massive amount of electrostatic potential energy called Lattice Energy (ΔH_lattice = -788 kJ/mol) is released. This large negative enthalpy easily overwhelms the ionization penalty, resulting in a strongly exothermic and spontaneous reaction.",
+    "concept_name": "Lattice Energy and Born-Haber Cycle",
+    "concept_tag": "chemical bonding case based lattice energy and born-haber cycle",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "58d91a7870a897e34b08158be8d55f71e2a7d3110e01bae745f71d56a00b4629",
+    "question_skeleton": "case scenario a chemical engineer studies the formation of solid sodium chloride from gaseous ions na g cl g nacl s the ionisation energy of sodium requires 496 kj mol while the electron affinity of chlorine releases only 349 kj mol giving a net endothermic deficit of 147 kj mol despite this deficit the overall reaction between sodium metal and chlorine gas is violently exothermic h 411 kj mol investigative question what thermodynamic energy component compensates for the initial endothermic cost and drives the spontaneous synthesis of sodium chloride choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_2_4e8978",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 2: Lattice Energy Comparison: MgO vs NaCl",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A materials scientist compares the melting points of two ionic solids having the exact same rock-salt crystal structure and similar inter-ionic distances: Sodium Chloride (NaCl) melts at 801°C, while Magnesium Oxide (MgO) melts at 2852°C. Born-Haber calculations show that the lattice energy of MgO (-3791 kJ/mol) is nearly five times greater than that of NaCl (-788 kJ/mol). **Investigative Question:** Based on Coulomb's law of electrostatics, why is the lattice energy of MgO so dramatically higher than that of NaCl? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Magnesium oxide contains four covalent bonds."
+      },
+      {
+        "key": "B",
+        "text": "Electrostatic force is proportional to the product of ionic charges (q₁ × q₂); MgO has divalent ions (Mg²⁺ and O²⁻, product = 4), whereas NaCl has univalent ions (Na⁺ and Cl⁻, product = 1), quadrupling the attractive force."
+      },
+      {
+        "key": "C",
+        "text": "Sodium is a radioactive element that melts under atmospheric pressure."
+      },
+      {
+        "key": "D",
+        "text": "Magnesium has more neutrons in its nucleus than sodium."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to Coulomb's Law, lattice energy is proportional to (z₁ × z₂)/r₀, where z₁ and z₂ are the ionic charges and r₀ is the internuclear distance. In NaCl, z₁ = +1 and z₂ = -1 (product = 1). In MgO, z₁ = +2 and z₂ = -2 (product = 4). Since the inter-ionic distances are comparable (NaCl: 282 pm, MgO: 212 pm), the quadrupled charge product causes the electrostatic attraction in MgO to be nearly four to five times stronger, yielding a colossal lattice energy (-3791 kJ/mol) and an ultra-high melting point (2852°C).",
+    "concept_name": "Coulomb's Law and Ionic Charge Multipliers",
+    "concept_tag": "chemical bonding case based coulomb's law and ionic charge multipliers",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "95f5a71189a080d0090beb97173169e872e159ed829909e11a64d7c17054d2a2",
+    "question_skeleton": "case scenario a materials scientist compares the melting points of two ionic solids having the exact same rock salt crystal structure and similar inter ionic distances sodium chloride nacl melts at 801 c while magnesium oxide mgo melts at 2852 c born haber calculations show that the lattice energy of mgo 3791 kj mol is nearly five times greater than that of nacl 788 kj mol investigative question based on coulomb s law of electrostatics why is the lattice energy of mgo so dramatically higher than that of nacl choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_3_862bc3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 3: All Three Bond Types in Ammonium Chloride",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An ICSE chemistry teacher asks students to analyze the bonding in solid Ammonium Chloride (NH₄Cl). A spectroscopic investigation reveals that the crystal contains distinct ammonium cations (NH₄⁺) and chloride anions (Cl⁻). Within each ammonium ion, four hydrogen atoms are attached to a central nitrogen atom. **Investigative Question:** Which three distinct types of chemical bonds are present within the solid Ammonium Chloride compound? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Only ionic bonds throughout the entire crystal lattice."
+      },
+      {
+        "key": "B",
+        "text": "Ionic bond between NH₄⁺ and Cl⁻; three polar covalent bonds between N and three H atoms; and one coordinate (dative) covalent bond between the N lone pair and H⁺."
+      },
+      {
+        "key": "C",
+        "text": "Metallic bonds between nitrogen and chlorine; hydrogen bonds between ammonia molecules."
+      },
+      {
+        "key": "D",
+        "text": "Double covalent bonds between nitrogen and chlorine."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ammonium chloride contains: (1) Three polar covalent single bonds between nitrogen and three hydrogen atoms in the original ammonia molecule (sharing one electron each); (2) One coordinate (dative) covalent bond formed when the lone pair on nitrogen is donated into the empty 1s orbital of a hydrogen ion (H⁺); (3) An electrovalent (ionic) bond between the polyatomic NH₄⁺ cation and the Cl⁻ chloride anion.",
+    "concept_name": "Coexistence of Ionic, Covalent, and Coordinate Bonds",
+    "concept_tag": "chemical bonding case based coexistence of ionic, covalent, and coordinate bonds",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "28329e7aa1c4ca36958e7b767ad61aa78e794b091f4b79e38a36918a687682f4",
+    "question_skeleton": "case scenario an icse chemistry teacher asks students to analyze the bonding in solid ammonium chloride nh cl a spectroscopic investigation reveals that the crystal contains distinct ammonium cations nh and chloride anions cl within each ammonium ion four hydrogen atoms are attached to a central nitrogen atom investigative question which three distinct types of chemical bonds are present within the solid ammonium chloride compound choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_4_7ef642",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 4: Formation of Hydronium Ion ($H_3O⁺$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** When dry hydrogen chloride gas is bubbled into liquid water, electrical conductivity surges. Physical chemists note that isolated bare protons (H⁺) cannot exist freely in aqueous solution because a bare proton is an extremely tiny subatomic particle (radius ~10⁻¹⁵ m) with infinite charge density. Instead, H⁺ immediately binds to a water molecule. **Investigative Question:** How is the hydronium ion (H₃O⁺) formed, and what type of bond joins the incoming proton to the water molecule? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The proton strips all electrons from oxygen, forming a metallic bond."
+      },
+      {
+        "key": "B",
+        "text": "Oxygen in the water molecule has two lone pairs of electrons; it donates one of these lone pairs into the empty 1s orbital of the H⁺ ion to form a coordinate (dative) covalent bond."
+      },
+      {
+        "key": "C",
+        "text": "The hydrogen ion forms an ionic bond with the hydrogen atoms of water."
+      },
+      {
+        "key": "D",
+        "text": "Oxygen undergoes nuclear fusion with the proton to form fluorine."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A water molecule (H₂O) has two shared bonding pairs and two unshared lone pairs on the central oxygen atom (sp³ hybridised). When an acid releases a proton (H⁺, having an empty 1s orbital), oxygen acts as a Lewis base and donates one of its lone pairs to the proton. The resulting bond is a coordinate covalent bond (O → H⁺). Once formed, all three O-H bonds in H₃O⁺ are identical in length and energy due to resonance and charge delocalisation.",
+    "concept_name": "Lone Pair Donation and Dative Covalent Bonding",
+    "concept_tag": "chemical bonding case based lone pair donation and dative covalent bonding",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "095148730e43e38f4faf08d826b43f2777c13089f8f4fbec669071ba07be05ce",
+    "question_skeleton": "case scenario when dry hydrogen chloride gas is bubbled into liquid water electrical conductivity surges physical chemists note that isolated bare protons h cannot exist freely in aqueous solution because a bare proton is an extremely tiny subatomic particle radius 10 m with infinite charge density instead h immediately binds to a water molecule investigative question how is the hydronium ion h o formed and what type of bond joins the incoming proton to the water molecule choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_5_502b85",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 5: Inertness of Nitrogen Gas ($N₂$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In industrial manufacturing and food packaging, gaseous Nitrogen (N₂) is routinely used to create an inert, non-reactive protective atmosphere to prevent oxidation of potato chips and preserve pharmaceutical vials at room temperature. Nitrogen remains completely chemically unreactive under standard conditions, requiring temperatures exceeding 1000°C or electric sparks to react with oxygen or hydrogen. **Investigative Question:** What molecular bonding feature confers such extraordinary chemical inertness on diatomic Nitrogen at room temperature? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nitrogen atoms are held by weak Van der Waals forces that absorb no energy."
+      },
+      {
+        "key": "B",
+        "text": "The two nitrogen atoms are joined by a triple covalent bond (one σ and two π bonds) with an exceptionally high bond dissociation energy (945 kJ/mol) that requires extreme thermal energy to break."
+      },
+      {
+        "key": "C",
+        "text": "Nitrogen is a noble gas with an atomic number of 10."
+      },
+      {
+        "key": "D",
+        "text": "Nitrogen molecules have an ionic bond that repels oxygen molecules."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Each nitrogen atom (1s² 2s² 2p³) requires 3 electrons to complete its octet. In the N₂ molecule, the two atoms share three pairs of electrons, forming a triple bond (:N≡N: consisting of one strong σ bond and two π bonds). Because of the small atomic size of nitrogen, the overlap is very effective, resulting in an exceptionally short bond length (1.098 Å) and a massive bond dissociation energy of 945 kJ/mol. This immense activation energy barrier makes N₂ virtually inert at ambient temperatures.",
+    "concept_name": "Triple Covalent Bond and Dissociation Energy",
+    "concept_tag": "chemical bonding case based triple covalent bond and dissociation energy",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a920bb858dbc6f666f99f89c1853eca9c968361b050fbb4f6392fa192e2d818a",
+    "question_skeleton": "case scenario in industrial manufacturing and food packaging gaseous nitrogen n is routinely used to create an inert non reactive protective atmosphere to prevent oxidation of potato chips and preserve pharmaceutical vials at room temperature nitrogen remains completely chemically unreactive under standard conditions requiring temperatures exceeding 1000 c or electric sparks to react with oxygen or hydrogen investigative question what molecular bonding feature confers such extraordinary chemical inertness on diatomic nitrogen at room temperature choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_6_8879cb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 6: Dipole Moment of $CO₂$ vs $H_2O$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physical chemistry student measures the electric dipole moments of Carbon Dioxide (CO₂) and Water (H₂O). In both molecules, the bonds are polar covalent: ΔEN(C-O) = 1.0 and ΔEN(H-O) = 1.4. However, experimental dielectric testing shows that Carbon Dioxide has a net dipole moment of exactly μ = 0 D, while Water has a large permanent dipole moment of μ = 1.85 D. **Investigative Question:** Why is Carbon Dioxide completely non-polar while Water is a strongly polar molecule? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Carbon is more metallic than hydrogen."
+      },
+      {
+        "key": "B",
+        "text": "CO₂ is a linear molecule (O=C=O, 180°), so the two equal C=O bond dipole vectors point in exactly opposite directions and cancel out completely; H₂O has a bent/V-shaped geometry (104.5°) due to two lone pairs on oxygen, causing the O–H dipole vectors to add up constructively."
+      },
+      {
+        "key": "C",
+        "text": "Oxygen atoms in CO₂ do not attract electrons."
+      },
+      {
+        "key": "D",
+        "text": "Water contains free mobile ions that generate an electric field."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Dipole moment is a vector quantity (μ = q × d). Carbon dioxide is a linear molecule (O=C=O) with a bond angle of 180°. The two individual C=O bond dipoles are equal in magnitude but oriented in exactly opposite directions; their vector sum is zero (μ_net = 0 D). In contrast, water has a bent geometry with a bond angle of 104.5° because of repulsions between the two lone pairs on oxygen. The two O-H bond dipoles do not cancel each other; instead, they reinforce each other, resulting in a large net dipole moment.",
+    "concept_name": "Molecular Geometry and Vector Sum of Bond Dipoles",
+    "concept_tag": "chemical bonding case based molecular geometry and vector sum of bond dipoles",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5694b13096930c4c5658baa03a4e5c06206215a8ced2a215debb77b6eed35277",
+    "question_skeleton": "case scenario a physical chemistry student measures the electric dipole moments of carbon dioxide co and water h o in both molecules the bonds are polar covalent en c o 1 0 and en h o 1 4 however experimental dielectric testing shows that carbon dioxide has a net dipole moment of exactly 0 d while water has a large permanent dipole moment of 1 85 d investigative question why is carbon dioxide completely non polar while water is a strongly polar molecule choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_7_106527",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 7: Dipole Moment Paradox: $NH₃$ vs $NF₃$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an advanced molecular structure seminar, a professor compares Ammonia (NH₃) and Nitrogen Trifluoride (NF₃). Both molecules have an identical trigonal pyramidal geometry with one lone pair on nitrogen. Fluorine is the most electronegative element (4.0 vs N: 3.0), whereas Hydrogen has a lower electronegativity than Nitrogen (H: 2.1 vs N: 3.0). Yet, the measured dipole moment of NH₃ is 1.47 D, while that of NF₃ is only 0.24 D. **Investigative Question:** Why is the dipole moment of NH₃ much larger than that of NF₃, despite the N–F bonds being far more polar than N–H bonds? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ammonia contains an ionic bond that generates electricity."
+      },
+      {
+        "key": "B",
+        "text": "In NH₃, the N–H bond dipoles point toward nitrogen in the same direction as the lone pair dipole, reinforcing each other; in NF₃, the highly electronegative fluorine atoms pull electron density downward, opposing and canceling the upward dipole of the lone pair."
+      },
+      {
+        "key": "C",
+        "text": "Fluorine atoms in NF₃ have zero electrons."
+      },
+      {
+        "key": "D",
+        "text": "Nitrogen trifluoride is a planar molecule with 120° angles."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both molecules have a lone pair on nitrogen whose orbital dipole points away from the nucleus. In NH₃, Nitrogen (3.0) is more electronegative than Hydrogen (2.1), so all three N-H bond dipoles point toward the nitrogen atom, adding constructively to the lone pair dipole (reinforcement → μ = 1.47 D). In NF₃, Fluorine (4.0) is more electronegative than Nitrogen (3.0), so the three N-F bond dipoles point away from nitrogen toward the fluorines, opposing the lone pair dipole vector (cancellation → μ = 0.24 D).",
+    "concept_name": "Lone Pair vs Bond Pair Dipole Alignment",
+    "concept_tag": "chemical bonding case based lone pair vs bond pair dipole alignment",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c3bc1fe0a391ce81d6f56f58ecf6b5dec99c9fcfb2d2bbeb3d39159f48a56367",
+    "question_skeleton": "case scenario in an advanced molecular structure seminar a professor compares ammonia nh and nitrogen trifluoride nf both molecules have an identical trigonal pyramidal geometry with one lone pair on nitrogen fluorine is the most electronegative element 4 0 vs n 3 0 whereas hydrogen has a lower electronegativity than nitrogen h 2 1 vs n 3 0 yet the measured dipole moment of nh is 1 47 d while that of nf is only 0 24 d investigative question why is the dipole moment of nh much larger than that of nf despite the n f bonds being far more polar than n h bonds choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_8_174cea",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 8: Carbon Tetrachloride ($CCl₄$) Symmetrical Non-Polarity",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Carbon tetrachloride (CCl₄) is widely utilized as a non-polar solvent for dissolving fats, oils, and greases. A student notes that Chlorine is much more electronegative than Carbon (3.0 vs 2.5), meaning each individual C–Cl bond is polar with a dipole moment of ~1.5 D. However, liquid CCl₄ does not deflect when brought near an electrically charged Teflon rod. **Investigative Question:** Why does Carbon Tetrachloride have a net molecular dipole moment of zero despite containing four strongly polar bonds? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The chlorine atoms cancel each other by transferring electrons to carbon."
+      },
+      {
+        "key": "B",
+        "text": "CCl₄ has a regular tetrahedral geometry (sp³ hybridised, 109.5° bond angles) with four identical C–Cl bonds; the symmetrical spatial arrangement causes the vector sum of the four bond dipoles to equal exactly zero."
+      },
+      {
+        "key": "C",
+        "text": "The C–Cl bond is non-polar because carbon and chlorine share the same group."
+      },
+      {
+        "key": "D",
+        "text": "Carbon tetrachloride undergoes rapid rotation that destroys all electric fields."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In CCl₄, the central carbon atom is sp³ hybridised, forming a regular tetrahedral geometry with four equivalent C-Cl bonds oriented at 109°28'. Although each individual C-Cl bond is polar, the tetrahedral symmetry is completely isotropic. The vector resultant of any three C-Cl bond dipoles is exactly equal in magnitude and opposite in direction to the fourth C-Cl bond dipole, causing complete vector cancellation (μ_net = 0 D).",
+    "concept_name": "Tetrahedral Symmetry and Dipole Cancellation",
+    "concept_tag": "chemical bonding case based tetrahedral symmetry and dipole cancellation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0ba1303fcf0b11ba094a239a5bcd443434a4817f7c33ea3d97380a0e553d3bfa",
+    "question_skeleton": "case scenario carbon tetrachloride ccl is widely utilized as a non polar solvent for dissolving fats oils and greases a student notes that chlorine is much more electronegative than carbon 3 0 vs 2 5 meaning each individual c cl bond is polar with a dipole moment of 1 5 d however liquid ccl does not deflect when brought near an electrically charged teflon rod investigative question why does carbon tetrachloride have a net molecular dipole moment of zero despite containing four strongly polar bonds choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_9_0b5454",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 9: Dielectric Constant of Water and Ionic Dissolution",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrochemist dissolves crystals of Sodium Chloride in water (dielectric constant ε_r ≈ 80) and in liquid Benzene (dielectric constant ε_r ≈ 2.3). In water, the salt crystals dissolve instantly to yield a conducting electrolytic solution. In benzene, the salt crystals remain completely undissolved as a solid sediment. **Investigative Question:** How does the high dielectric constant of water facilitate the dissociation and dissolution of electrovalent ionic lattices? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Water chemically oxidises sodium chloride into sodium hydroxide and chlorine gas."
+      },
+      {
+        "key": "B",
+        "text": "Water attenuates (reduces) the electrostatic attractive forces between Na⁺ and Cl⁻ ions by a factor of 80; polar water molecules then surround the separated ions (hydration), releasing hydration enthalpy that overcomes the crystal's lattice energy."
+      },
+      {
+        "key": "C",
+        "text": "Benzene is an acid that neutralizes sodium chloride."
+      },
+      {
+        "key": "D",
+        "text": "Water dissolves all solids because it is a lighter liquid than benzene."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Coulomb's Law in a dielectric medium is F = (1 / 4πε₀ε_r) × (q₁q₂ / r²). Because water has a high dielectric constant (ε_r ≈ 80), it reduces the electrostatic attraction between Na⁺ and Cl⁻ ions to 1/80th of its value in a vacuum or air. Thermal agitation easily separates the weakened ions. Once separated, water dipoles orient themselves around the ions (oxygen δ- toward Na⁺, hydrogen δ+ toward Cl⁻), releasing significant hydration enthalpy (ΔH_hyd = -784 kJ/mol) that stabilizes the solution.",
+    "concept_name": "Coulombic Force Attenuation in Polar Solvents",
+    "concept_tag": "chemical bonding case based coulombic force attenuation in polar solvents",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "09c3baaf60e38b74930498d4a4d917a77903cb32c54d3514de953ebeaa50a599",
+    "question_skeleton": "case scenario an electrochemist dissolves crystals of sodium chloride in water dielectric constant r 80 and in liquid benzene dielectric constant r 2 3 in water the salt crystals dissolve instantly to yield a conducting electrolytic solution in benzene the salt crystals remain completely undissolved as a solid sediment investigative question how does the high dielectric constant of water facilitate the dissociation and dissolution of electrovalent ionic lattices choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_10_e69b83",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 10: Electrical Conductivity: Solid vs Molten / Aqueous NaCl",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student constructs a conductivity apparatus with a 6V battery, light bulb, and two carbon electrodes. When dry solid NaCl powder is placed between the electrodes, the bulb does not glow at all. When the NaCl is heated until it melts into a clear liquid at 801°C, the bulb shines brightly. When solid NaCl is dissolved in distilled water at room temperature, the bulb also shines brightly. **Investigative Question:** Why is solid Sodium Chloride an electrical insulator, whereas molten and aqueous Sodium Chloride are excellent conductors of electricity? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Solid NaCl has no electrons, but melting creates electrons."
+      },
+      {
+        "key": "B",
+        "text": "In the solid state, Na⁺ and Cl⁻ ions are held rigidly in fixed lattice positions by strong electrostatic forces and cannot move; upon melting or dissolving in water, the lattice breaks down, freeing the ions to migrate toward oppositely charged electrodes."
+      },
+      {
+        "key": "C",
+        "text": "Solid NaCl contains covalent bonds, while molten NaCl contains metallic bonds."
+      },
+      {
+        "key": "D",
+        "text": "Water and heat turn sodium chloride into gaseous hydrogen."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electrical conduction in ionic substances requires mobile charged carriers. In solid NaCl, Na⁺ and Cl⁻ ions are locked firmly in a rigid face-centered cubic crystal lattice by strong electrostatic forces; electrons are localized, and ions cannot translate. When melted or dissolved in water, thermal energy or hydration breaks the crystal lattice, freeing the ions to move independently. Under an electric potential, Na⁺ cations migrate to the cathode and Cl⁻ anions migrate to the anode, carrying the current.",
+    "concept_name": "Mobile Ions vs Rigid Crystal Lattice",
+    "concept_tag": "chemical bonding case based mobile ions vs rigid crystal lattice",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9a2188c506dd63119afaeffdea8e8c2872db6856d633e0816217ac60983d4283",
+    "question_skeleton": "case scenario a student constructs a conductivity apparatus with a 6v battery light bulb and two carbon electrodes when dry solid nacl powder is placed between the electrodes the bulb does not glow at all when the nacl is heated until it melts into a clear liquid at 801 c the bulb shines brightly when solid nacl is dissolved in distilled water at room temperature the bulb also shines brightly investigative question why is solid sodium chloride an electrical insulator whereas molten and aqueous sodium chloride are excellent conductors of electricity choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_11_e75f8b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 11: Anomalous High Boiling Point of Water vs Hydrogen Sulphide",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical engineer compares the boiling points of Group 16 hydrides: Water (H₂O, molecular weight 18) boils at +100°C, while Hydrogen Sulphide (H₂S, molecular weight 34) boils at -60°C. Despite H₂S having nearly double the molecular mass and larger electron cloud than H₂O, it is a foul-smelling gas at room temperature, while water is a high-boiling liquid. **Investigative Question:** What intermolecular bonding phenomenon explains the exceptionally high boiling point of water compared to hydrogen sulphide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Water contains covalent bonds, while hydrogen sulphide contains ionic bonds."
+      },
+      {
+        "key": "B",
+        "text": "Oxygen is small and highly electronegative (3.5), forming extensive three-dimensional networks of intermolecular hydrogen bonds between H₂O molecules that require massive thermal energy to break; Sulphur is larger and less electronegative (2.5), forming no significant hydrogen bonds."
+      },
+      {
+        "key": "C",
+        "text": "Hydrogen sulphide is a noble gas that does not condense."
+      },
+      {
+        "key": "D",
+        "text": "Water molecules are held together by nuclear forces."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Hydrogen bonding requires a hydrogen atom covalently bonded to a small, highly electronegative atom (F, O, N). Oxygen (EN = 3.5) creates a very polar O-H bond, and each water molecule can form up to four strong intermolecular hydrogen bonds with neighboring molecules, creating a cohesive liquid network. Sulphur (EN = 2.5) has a larger radius and low electronegativity, so H₂S molecules are held only by weak dipole-dipole forces, boiling at -60°C.",
+    "concept_name": "Intermolecular Hydrogen Bonding",
+    "concept_tag": "chemical bonding case based intermolecular hydrogen bonding",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0640f7a79b1b6b0565c898a12e57570beadfb4c259d846bb33cf2b28bd90955f",
+    "question_skeleton": "case scenario a chemical engineer compares the boiling points of group 16 hydrides water h o molecular weight 18 boils at 100 c while hydrogen sulphide h s molecular weight 34 boils at 60 c despite h s having nearly double the molecular mass and larger electron cloud than h o it is a foul smelling gas at room temperature while water is a high boiling liquid investigative question what intermolecular bonding phenomenon explains the exceptionally high boiling point of water compared to hydrogen sulphide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_12_0ff320",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 12: Density Anomaly: Why Ice Floats on Liquid Water",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a limnology study during severe winter freezing, biologists observe that ice forms at the surface of lakes, allowing aquatic fish to survive in the dense 4°C liquid water beneath. Precision density measurements reveal that solid ice at 0°C has a density of 0.917 g/cm³, whereas liquid water at 0°C has a density of 0.9998 g/cm³ (and peaks at 1.0000 g/cm³ at 4°C). **Investigative Question:** What structural reorganization of hydrogen bonds causes ice to expand and float upon freezing? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Water loses hydrogen atoms upon freezing, making it lighter."
+      },
+      {
+        "key": "B",
+        "text": "In solid ice, each oxygen atom is tetrahedrally surrounded by four other oxygens via hydrogen bonds, locking molecules into an open cage-like crystalline lattice with large empty hexagonal channels; upon melting, the open cage collapses into a more closely packed liquid."
+      },
+      {
+        "key": "C",
+        "text": "Ice contains trapped atmospheric air bubbles that cannot be removed."
+      },
+      {
+        "key": "D",
+        "text": "Liquid water contains heavy metal isotopes that sink to the bottom."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In ice, each water molecule participates in four hydrogen bonds directed toward the vertices of a regular tetrahedron. This open, cage-like structure creates large hexagonal voids or channels within the crystal lattice. When ice melts at 0°C, the rigid hydrogen-bonded framework partially breaks down, allowing water molecules to tumble into the open voids. This decreases molar volume and increases density, which is why liquid water is denser than solid ice and reaches maximum density at 4°C.",
+    "concept_name": "Open Cage-like Tetrahedral Hydrogen-Bonded Lattice",
+    "concept_tag": "chemical bonding case based open cage-like tetrahedral hydrogen-bonded lattice",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7b1ebbd4f8c8edd8bfe81eda781013b810e66e9c27743c658e8d1515801949d6",
+    "question_skeleton": "case scenario in a limnology study during severe winter freezing biologists observe that ice forms at the surface of lakes allowing aquatic fish to survive in the dense 4 c liquid water beneath precision density measurements reveal that solid ice at 0 c has a density of 0 917 g cm whereas liquid water at 0 c has a density of 0 9998 g cm and peaks at 1 0000 g cm at 4 c investigative question what structural reorganization of hydrogen bonds causes ice to expand and float upon freezing choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_13_c01983",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 13: Coordinate Covalent Bonding in Carbon Monoxide",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A combustion engineer examines the electronic structure of Carbon Monoxide (CO). Carbon has 4 valence electrons (needs 4) and Oxygen has 6 valence electrons (needs 2). If Carbon and Oxygen share two electron pairs in a normal double bond (C=O), oxygen completes its octet (8 e⁻) but carbon has only 6 valence electrons (incomplete octet). **Investigative Question:** How does the carbon monoxide molecule achieve an octet for both atoms? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Carbon steals two protons from oxygen."
+      },
+      {
+        "key": "B",
+        "text": "Oxygen donates one of its lone pairs to carbon to form a coordinate (dative) covalent bond, creating a triple bond (:C≡O: or C⇇O) where one of the three shared pairs is provided entirely by oxygen."
+      },
+      {
+        "key": "C",
+        "text": "Carbon monoxide converts into an ionic compound C⁴⁺ O²⁻."
+      },
+      {
+        "key": "D",
+        "text": "Carbon shares electrons with a second carbon monoxide molecule."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In CO, carbon (2s² 2p²) has 4 valence electrons and oxygen (2s² 2p⁴) has 6. To allow carbon to complete its octet, oxygen shares two electrons mutually with carbon (forming two normal covalent bonds) and additionally donates a full unshared lone pair from its 2p orbital into the vacant 2p orbital of carbon (a coordinate bond). The resulting molecule is written as :C⇇O: or :C≡O: with a triple bond, giving both atoms a stable 8-electron octet.",
+    "concept_name": "Dative Triple Bond and Formal Charge Balance",
+    "concept_tag": "chemical bonding case based dative triple bond and formal charge balance",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "cb9a22e2605630e797073f5dafcb0e9028a620a893a62da55222c3259e138b62",
+    "question_skeleton": "case scenario a combustion engineer examines the electronic structure of carbon monoxide co carbon has 4 valence electrons needs 4 and oxygen has 6 valence electrons needs 2 if carbon and oxygen share two electron pairs in a normal double bond c o oxygen completes its octet 8 e but carbon has only 6 valence electrons incomplete octet investigative question how does the carbon monoxide molecule achieve an octet for both atoms choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_14_b1efd8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 14: Coordinate Bonding in Nitric Acid ($HNO₃$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemistry student draws the Lewis structure for Nitric Acid (HNO₃). Nitrogen has 5 valence electrons and is bonded to three oxygen atoms and one hydrogen atom (arranged as H–O–N(=O)...). If nitrogen formed two double bonds and one single bond, it would have 10 valence electrons, violating the octet rule because Period 2 elements cannot expand their valence shell. **Investigative Question:** How is the second terminal oxygen atom bonded to nitrogen in the true Lewis structure of Nitric Acid? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "By an electrovalent ionic bond where nitrogen loses an electron to oxygen."
+      },
+      {
+        "key": "B",
+        "text": "By a coordinate (dative) covalent bond where nitrogen donates its lone pair to the neutral oxygen atom (N → O), preserving an exact octet of 8 electrons on nitrogen."
+      },
+      {
+        "key": "C",
+        "text": "By a triple covalent bond."
+      },
+      {
+        "key": "D",
+        "text": "By a metallic bond delocalised over the entire flask."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Nitrogen (Period 2) has only 2s and 2p orbitals (maximum 4 orbitals, 8 electrons maximum). It cannot expand its octet to 10 electrons. In HNO₃, nitrogen forms: (1) one single covalent bond to the -OH group, (2) one double covalent bond to a terminal oxygen (=O), and (3) uses its remaining lone pair to form a coordinate (dative) bond with the third terminal oxygen (N → O or N⁺–O⁻). This maintains an octet on nitrogen.",
+    "concept_name": "Tetra-coordinate Nitrogen Octet Constraint",
+    "concept_tag": "chemical bonding case based tetra-coordinate nitrogen octet constraint",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4100ef0dfbda7bb7beaf2934a9fe70d8592b790f6a4d1d8a5f7776914a71e43c",
+    "question_skeleton": "case scenario a chemistry student draws the lewis structure for nitric acid hno nitrogen has 5 valence electrons and is bonded to three oxygen atoms and one hydrogen atom arranged as h o n o if nitrogen formed two double bonds and one single bond it would have 10 valence electrons violating the octet rule because period 2 elements cannot expand their valence shell investigative question how is the second terminal oxygen atom bonded to nitrogen in the true lewis structure of nitric acid choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_15_93d7c4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 15: Coordinate Bonding in Ozone ($O₃$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Atmospheric scientists monitor the stratospheric ozone layer (O₃) which shields Earth from harmful solar ultraviolet radiation. An ozone molecule consists of three identical oxygen atoms. The central oxygen forms a double covalent bond with one terminal oxygen (O=O). **Investigative Question:** How is the third oxygen atom bonded to the central oxygen atom in the Ozone molecule? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "By an ionic bond formed by transfer of two electrons."
+      },
+      {
+        "key": "B",
+        "text": "The central oxygen donates one of its remaining lone pairs into the empty orbital of the third oxygen atom to form a coordinate (dative) covalent bond (O=O → O)."
+      },
+      {
+        "key": "C",
+        "text": "By a triple bond involving all three oxygen atoms simultaneously."
+      },
+      {
+        "key": "D",
+        "text": "By a weak gravitational attraction."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The central oxygen atom initially has 6 valence electrons. By forming a double covalent bond with one terminal oxygen, it achieves an octet (4 bonding electrons + 2 lone pairs = 8 e⁻). To bond the third oxygen atom without exceeding its own octet, the central oxygen donates one of its lone pairs to the third oxygen atom, forming a coordinate covalent bond (O=O → O). Resonance between the two terminal oxygens makes both bond lengths equal (1.278 Å).",
+    "concept_name": "Dative Bond in Allotropic Triatomic Oxygen",
+    "concept_tag": "chemical bonding case based dative bond in allotropic triatomic oxygen",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "413bf94c511f755514b2073f206676a08acc70d9d56a36e8d4a2a3c7e9982735",
+    "question_skeleton": "case scenario atmospheric scientists monitor the stratospheric ozone layer o which shields earth from harmful solar ultraviolet radiation an ozone molecule consists of three identical oxygen atoms the central oxygen forms a double covalent bond with one terminal oxygen o o investigative question how is the third oxygen atom bonded to the central oxygen atom in the ozone molecule choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_16_6e8247",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 16: Covalent Character in Tin Chlorides: $SnCl₂$ vs $SnCl₄$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical manufacturer synthesizes two chlorides of Tin: Tin(II) chloride (SnCl₂) and Tin(IV) chloride (SnCl₄). Anhydrous SnCl₂ is a high-melting white crystalline solid (m.p. 247°C) that conducts electricity in the molten state. Anhydrous SnCl₄ is a colorless, fuming volatile liquid (b.p. 114°C) that does not conduct electricity and is miscible with non-polar organic solvents. **Investigative Question:** According to Fajan's rules, why is SnCl₄ a volatile covalent liquid while SnCl₂ is an ionic solid? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "SnCl₂ contains radioactive isotopes of tin."
+      },
+      {
+        "key": "B",
+        "text": "Sn⁴⁺ has a much higher positive charge (+4 vs +2) and smaller radius than Sn²⁺, giving it an immensely higher polarizing power that severely distorts the electron clouds of the Cl⁻ anions, conferring predominantly covalent character."
+      },
+      {
+        "key": "C",
+        "text": "SnCl₄ has more chlorine atoms, which weigh down the molecules into a liquid."
+      },
+      {
+        "key": "D",
+        "text": "Tin in SnCl₂ is a non-metal while in SnCl₄ it is an alkali metal."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to Fajan's rules, covalent character increases with higher cation charge. Sn⁴⁺ has a charge of +4 and an ionic radius of 69 pm, whereas Sn²⁺ has a charge of +2 and a radius of 118 pm. The charge density (polarizing power) of Sn⁴⁺ is vastly greater than Sn²⁺. Sn⁴⁺ pulls the electron clouds of the surrounding chloride anions into the internuclear region, converting the bonds into shared covalent bonds. Thus, SnCl₄ exists as discrete covalent molecules (volatile liquid), while SnCl₂ remains an ionic lattice.",
+    "concept_name": "Fajan's Rule: Cation Charge and Polarisability",
+    "concept_tag": "chemical bonding case based fajan's rule: cation charge and polarisability",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "805cdefb1a92f5365591ad1ff342ccaa1821872a4f48788b676b0b86c0276232",
+    "question_skeleton": "case scenario a chemical manufacturer synthesizes two chlorides of tin tin ii chloride sncl and tin iv chloride sncl anhydrous sncl is a high melting white crystalline solid m p 247 c that conducts electricity in the molten state anhydrous sncl is a colorless fuming volatile liquid b p 114 c that does not conduct electricity and is miscible with non polar organic solvents investigative question according to fajan s rules why is sncl a volatile covalent liquid while sncl is an ionic solid choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_17_2c7b33",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 17: Solubility and Color of Silver Halides: $AgF$ vs $AgI$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In qualitative inorganic analysis, a student tests the solubility and appearance of silver halides: Silver Fluoride (AgF): white solid, completely soluble in water (1800 g/L) Silver Chloride (AgCl): white precipitate, sparingly soluble (0.0019 g/L) Silver Bromide (AgBr): pale yellow precipitate, insoluble (0.00014 g/L) Silver Iodide (AgI): bright canary-yellow precipitate, completely insoluble (0.000003 g/L) **Investigative Question:** Applying Fajan's rules, what periodic and structural factor explains the dramatic increase in covalent character and insolubility from AgF to AgI? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Silver becomes a non-metal when reacting with iodine."
+      },
+      {
+        "key": "B",
+        "text": "Anion radius increases significantly from F⁻ (133 pm) to I⁻ (220 pm); the large electron cloud of I⁻ is easily polarized and distorted by the Ag⁺ cation, introducing strong covalent character and intense charge-transfer color."
+      },
+      {
+        "key": "C",
+        "text": "Fluorine atoms are heavier than iodine atoms."
+      },
+      {
+        "key": "D",
+        "text": "Silver fluoride forms an unstable gaseous compound in water."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to Fajan's rules, large anions have diffuse, loosely held electron clouds that are easily polarized by cations. F⁻ is small and holds its electrons tightly (low polarisability), so AgF is predominantly ionic and highly soluble. Down the group to I⁻, the electron cloud is huge and easily distorted by Ag⁺ (which possesses a pseudo-noble gas 4d¹⁰ configuration with high polarizing power). The intense electron sharing (covalency) in AgI collapses its water solubility and enables charge-transfer absorption in the visible spectrum (canary yellow).",
+    "concept_name": "Fajan's Rule: Anion Size and Polarisability",
+    "concept_tag": "chemical bonding case based fajan's rule: anion size and polarisability",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9875f2651fb06e312377b0958d5fdaa158d439bbded53665e26b1a114c71c3cd",
+    "question_skeleton": "case scenario in qualitative inorganic analysis a student tests the solubility and appearance of silver halides silver fluoride agf white solid completely soluble in water 1800 g l silver chloride agcl white precipitate sparingly soluble 0 0019 g l silver bromide agbr pale yellow precipitate insoluble 0 00014 g l silver iodide agi bright canary yellow precipitate completely insoluble 0 000003 g l investigative question applying fajan s rules what periodic and structural factor explains the dramatic increase in covalent character and insolubility from agf to agi choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_18_f5a80a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 18: Pseudo-Noble Gas Configuration: $CuCl$ vs $NaCl$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physical chemist compares Sodium Chloride (NaCl) and Copper(I) Chloride (CuCl). Both cations have identical charge (+1) and nearly identical ionic radii: Na⁺ = 102 pm, Cu⁺ = 96 pm. Despite these physical similarities, NaCl has a high melting point (801°C) and is highly soluble in water, whereas CuCl has a low melting point (426°C), is insoluble in water, and dissolves in organic solvents. **Investigative Question:** Why is Copper(I) Chloride far more covalent than Sodium Chloride despite having virtually the same cation radius and charge? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium is a radioactive metal that destroys covalent bonds."
+      },
+      {
+        "key": "B",
+        "text": "Cu⁺ has a pseudo-noble gas electron configuration (3s² 3p⁶ 3d¹⁰) where d-electrons shield the nuclear charge very poorly, exerting a much higher effective nuclear charge and polarizing power than the noble gas core (2s² 2p⁶) of Na⁺."
+      },
+      {
+        "key": "C",
+        "text": "Chlorine prefers reacting with copper rather than sodium."
+      },
+      {
+        "key": "D",
+        "text": "CuCl contains triple bonds between copper and chlorine."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Na⁺ has a noble gas configuration ([Ne] = 2s² 2p⁶), where s and p electrons provide effective screening of the nuclear charge. Cu⁺ has a pseudo-noble gas configuration ([Ar] 3d¹⁰ = 3s² 3p⁶ 3d¹⁰). The 10 d-electrons have poor shielding ability, allowing the high positive nuclear charge of copper (+29) to penetrate outward. Consequently, Cu⁺ exerts a vastly stronger electric field gradient (polarizing power) than Na⁺ (+11), heavily polarizing the Cl⁻ anion and conferring high covalent character to CuCl.",
+    "concept_name": "Polarising Power of $d^{10}$ vs $s^2p^6$ Cations",
+    "concept_tag": "chemical bonding case based polarising power of $d^{10}$ vs $s^2p^6$ cations",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2f3616189428fe1e57dc3bc2a13bac43be87bab954914dbd0a1b948afa2f9aa0",
+    "question_skeleton": "case scenario a physical chemist compares sodium chloride nacl and copper i chloride cucl both cations have identical charge 1 and nearly identical ionic radii na 102 pm cu 96 pm despite these physical similarities nacl has a high melting point 801 c and is highly soluble in water whereas cucl has a low melting point 426 c is insoluble in water and dissolves in organic solvents investigative question why is copper i chloride far more covalent than sodium chloride despite having virtually the same cation radius and charge choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_19_492fa9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 19: Trigonal Pyramidal Geometry of Ammonia ($NH₃$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student in a molecular modeling workshop calculates the bond angles of Methane (CH₄), Ammonia (NH₃), and Water (H₂O). All three molecules have four electron pairs around the central atom (sp³ hybridised). However, while Methane has a perfect tetrahedral angle of 109.5°, Ammonia has a bond angle of 107.3°, and Water has a bond angle of 104.5°. **Investigative Question:** According to VSEPR theory, why does the presence of a lone pair in Ammonia compress the H–N–H bond angle below the regular tetrahedral value? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrogen atoms in ammonia repel each other with magnetic forces."
+      },
+      {
+        "key": "B",
+        "text": "A lone pair of electrons is attracted by only one nucleus and occupies a larger spatial volume than a bonding pair; the stronger repulsion of the lone pair (lp–bp > bp–bp) squeezes the three N–H bonding pairs closer together."
+      },
+      {
+        "key": "C",
+        "text": "Nitrogen undergoes radioactive decay that shortens the bond angle."
+      },
+      {
+        "key": "D",
+        "text": "Ammonia is an unstable free radical that changes shape continuously."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Under VSEPR theory, electron pair repulsions decrease in the order: lone pair-lone pair (lp-lp) > lone pair-bond pair (lp-bp) > bond pair-bond pair (bp-bp). In CH₄, there are four equivalent bond pairs, yielding an ideal 109.5° tetrahedron. In NH₃, the central nitrogen has three bond pairs and one lone pair. Because the lone pair is localized on nitrogen alone, its electron cloud spreads out and exerts strong lp-bp repulsion, forcing the N-H bonding pairs together and reducing the bond angle to 107.3°.",
+    "concept_name": "VSEPR Theory: Lone Pair-Bond Pair Repulsion",
+    "concept_tag": "chemical bonding case based vsepr theory: lone pair-bond pair repulsion",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b6da397ad01ea3a226910db3aa8e07975752563ef1117d5c597dc27fb46f21d3",
+    "question_skeleton": "case scenario a student in a molecular modeling workshop calculates the bond angles of methane ch ammonia nh and water h o all three molecules have four electron pairs around the central atom sp hybridised however while methane has a perfect tetrahedral angle of 109 5 ammonia has a bond angle of 107 3 and water has a bond angle of 104 5 investigative question according to vsepr theory why does the presence of a lone pair in ammonia compress the h n h bond angle below the regular tetrahedral value choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_20_6186d7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 20: Bent / Angular Geometry of Water ($H_2O$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Continuing the VSEPR analysis, the student observes that Water (H₂O) has two bonding pairs and two lone pairs on the central oxygen atom. The measured H–O–H bond angle is compressed even further to 104.5°. **Investigative Question:** Why is the bond angle in Water (104.5°) smaller than in Ammonia (107.3°)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Oxygen has fewer protons than nitrogen, so it cannot hold its bonds open."
+      },
+      {
+        "key": "B",
+        "text": "Oxygen possesses two unshared lone pairs that exert powerful lp–lp repulsion against each other and double lp–bp repulsions on the two O–H bonding pairs, squeezing the bond angle down from 109.5° to 104.5°."
+      },
+      {
+        "key": "C",
+        "text": "Water molecules are linear when dissolved in ethanol."
+      },
+      {
+        "key": "D",
+        "text": "The two hydrogen atoms in water attract each other to form a covalent bond."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In water, oxygen has four electron pairs (sp³): two lone pairs and two bond pairs. The two lone pairs repel each other with maximum intensity (lp-lp repulsion), expanding their own spatial domain. In doing so, both lone pairs push downward against the two O-H bond pairs (lp-bp repulsion). This dual compression forces the two bonding pairs much closer together than in ammonia (which has only one lone pair), reducing the H-O-H bond angle to 104.5°.",
+    "concept_name": "Two Lone Pairs Compressing the Bond Angle to 104.5°",
+    "concept_tag": "chemical bonding case based two lone pairs compressing the bond angle to 104.5°",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "435aaef1f2f03d98c05797d46f41c0bf2569cd5001f1bb76b875a9778bedf5f1",
+    "question_skeleton": "case scenario continuing the vsepr analysis the student observes that water h o has two bonding pairs and two lone pairs on the central oxygen atom the measured h o h bond angle is compressed even further to 104 5 investigative question why is the bond angle in water 104 5 smaller than in ammonia 107 3 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_21_df29ca",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 21: Bond Length and Strength: Single, Double, Triple Bonds",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A spectroscopic analysis of three hydrocarbons—Ethane (C₂H₆), Ethene (C₂H₄), and Ethyne (C₂H₂) reveals the following carbon-carbon bond metrics: Ethane: C–C single bond, length = 1.54 Å, dissociation energy = 348 kJ/mol Ethene: C=C double bond, length = 1.34 Å, dissociation energy = 614 kJ/mol Ethyne: C≡C triple bond, length = 1.20 Å, dissociation energy = 839 kJ/mol **Investigative Question:** What fundamental relationship exists between bond order, bond length, and bond dissociation energy? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "As bond order increases, bond length increases and bond energy decreases."
+      },
+      {
+        "key": "B",
+        "text": "As bond order increases (single → double → triple), more electron pairs are shared between the two carbon nuclei, pulling them closer together (shorter bond length) and requiring greater energy to break (higher bond strength)."
+      },
+      {
+        "key": "C",
+        "text": "All carbon-carbon bonds have the same length regardless of bond order."
+      },
+      {
+        "key": "D",
+        "text": "Triple bonds are weaker than single bonds because π bonds repel each other."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Bond order represents the number of shared electron pairs between two atoms. As bond order increases from 1 (ethane) to 2 (ethene) to 3 (ethyne), the increased electron density between the two carbon nuclei exerts a greater electrostatic attraction on both positive nuclei, pulling them closer together. Consequently, bond length decreases (1.54 Å → 1.34 Å → 1.20 Å) and bond dissociation energy increases dramatically (348 → 614 → 839 kJ/mol).",
+    "concept_name": "Bond Order Correlation with Energy and Internuclear Distance",
+    "concept_tag": "chemical bonding case based bond order correlation with energy and internuclear distance",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5f6864c17735161982c7ffb1df7f6874698c35515b1fc351126eac283872efd7",
+    "question_skeleton": "case scenario a spectroscopic analysis of three hydrocarbons ethane c h ethene c h and ethyne c h reveals the following carbon carbon bond metrics ethane c c single bond length 1 54 dissociation energy 348 kj mol ethene c c double bond length 1 34 dissociation energy 614 kj mol ethyne c c triple bond length 1 20 dissociation energy 839 kj mol investigative question what fundamental relationship exists between bond order bond length and bond dissociation energy choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_22_c25682",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 22: Non-Directional Nature of Ionic Bonds vs Directional Covalent Bonds",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A crystallography professor contrasts the mechanical properties of Sodium Chloride crystals and Quartz (silica, SiO₂). When struck sharply with a hammer, NaCl crystals cleave cleanly along flat crystal planes, but shatter if deformed. In contrast, quartz has high hardness in all directions. The professor explains this difference based on directional vs non-directional bonding. **Investigative Question:** Why are electrovalent (ionic) bonds non-directional, whereas covalent bonds are strictly directional? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ionic bonds are non-directional because ions are spherical charges that exert electrostatic attractive forces uniformly in all directions; covalent bonds are directional because they are formed by the localized spatial overlap of specific atomic orbitals."
+      },
+      {
+        "key": "B",
+        "text": "Covalent bonds are non-directional because electrons move randomly like a gas."
+      },
+      {
+        "key": "C",
+        "text": "Ionic bonds are directional because they always point toward the North Pole."
+      },
+      {
+        "key": "D",
+        "text": "All chemical bonds are non-directional in the solid state."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "An ion acts as a point charge whose electrostatic electric field radiates symmetrically in all three dimensions. Therefore, a Na⁺ ion attracts Cl⁻ ions from any direction without spatial preference (non-directional). In contrast, covalent bonds form by the constructive overlap of atomic orbitals (such as p-orbitals or hybrid sp³ orbitals) that possess specific spatial orientations in space (e.g., along x, y, z axes). This gives covalent molecules definite geometric shapes and directional angles.",
+    "concept_name": "Electrostatic Field Symmetry and Molecular Shapes",
+    "concept_tag": "chemical bonding case based electrostatic field symmetry and molecular shapes",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a990e7c90101d88fdebc0f0bab6163d88549fe840ef672a23f6932ede623f67c",
+    "question_skeleton": "case scenario a crystallography professor contrasts the mechanical properties of sodium chloride crystals and quartz silica sio when struck sharply with a hammer nacl crystals cleave cleanly along flat crystal planes but shatter if deformed in contrast quartz has high hardness in all directions the professor explains this difference based on directional vs non directional bonding investigative question why are electrovalent ionic bonds non directional whereas covalent bonds are strictly directional choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_23_eff10f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 23: Brittleness of Ionic Crystals Under Mechanical Impact",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a materials testing lab, a mineralogist strikes a cubic crystal of halite (rock salt, NaCl) with a metal chisel along its face. Instead of flattening or denting like a malleable piece of copper or lead, the salt crystal fractures cleanly and shatters into smaller cubic fragments. **Investigative Question:** What molecular-level event causes ionic crystals to be brittle and shatter under mechanical shear stress? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mechanical shock creates heat that boils the sodium atoms."
+      },
+      {
+        "key": "B",
+        "text": "Shear force causes adjacent layers of the crystal lattice to slide slightly; this displacement brings ions of the same charge (Na⁺ with Na⁺, Cl⁻ with Cl⁻) into direct alignment, causing colossal electrostatic repulsion that splits the crystal along cleavage planes."
+      },
+      {
+        "key": "C",
+        "text": "The chisel injects electrons into the salt, creating an explosion."
+      },
+      {
+        "key": "D",
+        "text": "Ionic bonds convert into weak covalent bonds when touched by metal."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In a resting ionic crystal, cations and anions alternate in perfect three-dimensional symmetry, maximizing attractive forces and minimizing repulsions. When a shear mechanical stress is applied, one plane of ions slides past another by just one ionic diameter. This displacement brings like-charged ions into immediate adjacent contact (positive next to positive, negative next to negative). The resulting instantaneous, overwhelming electrostatic repulsion cleaves the crystal cleanly apart.",
+    "concept_name": "Like-Charge Repulsion Along Crystal Slip Planes",
+    "concept_tag": "chemical bonding case based like-charge repulsion along crystal slip planes",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f31d7faac79ac0557d4897f70da985fab24999fde8f71334d89bb282d5a13285",
+    "question_skeleton": "case scenario in a materials testing lab a mineralogist strikes a cubic crystal of halite rock salt nacl with a metal chisel along its face instead of flattening or denting like a malleable piece of copper or lead the salt crystal fractures cleanly and shatters into smaller cubic fragments investigative question what molecular level event causes ionic crystals to be brittle and shatter under mechanical shear stress choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_24_328afa",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 24: Malleability of Metals: The Electron Sea Model",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an industrial metal forge, a blacksmith heats a block of pure copper and beats it with a heavy hammer into a paper-thin sheet without breaking or cracking it. In contrast, beating an ionic or giant covalent crystal causes immediate shattering. **Investigative Question:** According to the electron sea model, why are metals malleable and ductile while ionic crystals are brittle? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Metals are liquids at room temperature that freeze when hammered."
+      },
+      {
+        "key": "B",
+        "text": "In a metallic lattice, positive metal ions are immersed in a non-directional sea of delocalised valence electrons; when hammered, planes of metal ions can slide past each other without repulsion because the mobile electron sea instantly readjusts to cushion and bond the displaced ions."
+      },
+      {
+        "key": "C",
+        "text": "Metals have no chemical bonds, so atoms can move freely."
+      },
+      {
+        "key": "D",
+        "text": "Copper atoms absorb the hammer's kinetic energy as radioactive rays."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In metallic bonding, valence electrons are not bound to individual atoms but form a delocalised, highly mobile 'electron sea' surrounding positive metal kernels (cations). The metallic bond is completely non-directional. When a mechanical shear stress is applied, layers of positive cations can glide past one another without disrupting the bond, because the fluid electron sea immediately flows and maintains electrostatic attraction between all ions in their new positions, preventing repulsive cleavage.",
+    "concept_name": "Delocalised Electrons and Atomic Plane Slippage",
+    "concept_tag": "chemical bonding case based delocalised electrons and atomic plane slippage",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e5e0c2e46c34271632678a787058a3288737008aae39c29f15f1c8a3eb69957b",
+    "question_skeleton": "case scenario in an industrial metal forge a blacksmith heats a block of pure copper and beats it with a heavy hammer into a paper thin sheet without breaking or cracking it in contrast beating an ionic or giant covalent crystal causes immediate shattering investigative question according to the electron sea model why are metals malleable and ductile while ionic crystals are brittle choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_25_9f500c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 25: Incomplete Octet / Hypovalent Molecules: $BF₃$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical researcher investigates Boron Trifluoride (BF₃). Boron has 3 valence electrons and shares one electron with each of three fluorine atoms, forming three single covalent bonds in a trigonal planar arrangement (120° angles). Counting the valence electrons around the central Boron atom yields only 6 electrons, leaving it two electrons short of a complete octet. **Investigative Question:** How does Boron Trifluoride stabilize its incomplete octet when mixed with Ammonia (NH₃)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Boron steals a proton from the ammonia molecule."
+      },
+      {
+        "key": "B",
+        "text": "BF₃ acts as an electron-pair acceptor (Lewis acid) and reacts with NH₃ (which has a lone pair on nitrogen, Lewis base) to form an addition adduct (H₃N → BF₃) via a coordinate covalent bond, completing boron's octet."
+      },
+      {
+        "key": "C",
+        "text": "Boron trifluoride decomposes into solid boron metal."
+      },
+      {
+        "key": "D",
+        "text": "Fluorine atoms donate protons to nitrogen."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "BF₃ is an electron-deficient molecule with an incomplete octet (6 valence electrons around B). It possesses a vacant 2p orbital perpendicular to the molecular plane. Ammonia (NH₃) has an unshared lone pair on nitrogen. When mixed, NH₃ donates its lone pair into the empty 2p orbital of boron, forming a stable Lewis acid-base coordination adduct: F₃B ← :NH₃. In this adduct, boron achieves a complete 8-electron octet.",
+    "concept_name": "Lewis Acid Character and Electron Deficiency",
+    "concept_tag": "chemical bonding case based lewis acid character and electron deficiency",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a63ba5e190aa9c48cc03d0c38ee4e6aaff7600e19fc0810dd5f8ea3ac452ba78",
+    "question_skeleton": "case scenario a chemical researcher investigates boron trifluoride bf boron has 3 valence electrons and shares one electron with each of three fluorine atoms forming three single covalent bonds in a trigonal planar arrangement 120 angles counting the valence electrons around the central boron atom yields only 6 electrons leaving it two electrons short of a complete octet investigative question how does boron trifluoride stabilize its incomplete octet when mixed with ammonia nh choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_26_782cd3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 26: Expanded Octet / Hypervalent Molecules: $PCl₅$ and $SF₆$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student in an advanced chemistry class examines the Lewis structures of Phosphorus Pentachloride (PCl₅) and Sulphur Hexafluoride (SF₆). In PCl₅, phosphorus shares electrons to form five single bonds (10 valence electrons). In SF₆, sulphur forms six single bonds (12 valence electrons). Both exceed the classic 8-electron octet rule. **Investigative Question:** Why are Period 3 elements like Phosphorus and Sulphur able to form expanded octet molecules, whereas Period 2 elements like Nitrogen (cannot form NCl₅) and Oxygen (cannot form OF₆) cannot? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Period 3 elements are radioactive and emit extra electrons."
+      },
+      {
+        "key": "B",
+        "text": "Phosphorus and Sulphur belong to Period 3 (n=3) and possess energetically accessible vacant 3d orbitals that can participate in bonding (sp³d and sp³d² hybridisation); Nitrogen and Oxygen (n=2) have only 2s and 2p orbitals and strictly cannot accommodate more than 8 electrons."
+      },
+      {
+        "key": "C",
+        "text": "Chlorine and fluorine are metals that force phosphorus to expand."
+      },
+      {
+        "key": "D",
+        "text": "Molecules with 10 or 12 electrons are unstable and explode at room temperature."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The octet rule is strictly enforced for Period 2 elements (C, N, O, F) because their valence shell (n=2) contains only four orbitals (one 2s and three 2p), limiting maximum covalency to 4 (8 electrons). Period 3 elements (P, S, Cl) have principal quantum number n=3, which includes 3s, 3p, and five vacant 3d orbitals of comparable energy. By unpairing valence electrons and promoting them into vacant 3d orbitals, they can form 5 bonds (PCl₅, sp³d) or 6 bonds (SF₆, sp³d²), expanding their octet.",
+    "concept_name": "Participation of Vacant d-Orbitals in Period 3 Elements",
+    "concept_tag": "chemical bonding case based participation of vacant d-orbitals in period 3 elements",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "490096f2841421a57b20ced9bdd1259f7f86de679dcc1f10a90d51c24ad7e6e0",
+    "question_skeleton": "case scenario a student in an advanced chemistry class examines the lewis structures of phosphorus pentachloride pcl and sulphur hexafluoride sf in pcl phosphorus shares electrons to form five single bonds 10 valence electrons in sf sulphur forms six single bonds 12 valence electrons both exceed the classic 8 electron octet rule investigative question why are period 3 elements like phosphorus and sulphur able to form expanded octet molecules whereas period 2 elements like nitrogen cannot form ncl and oxygen cannot form of cannot choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_27_914cd8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 27: Resonance and Bond Equivalence in Carbonate Ion ($CO₃²⁻$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An X-ray crystallographer determines the carbon-oxygen bond lengths in Calcium Carbonate (CaCO₃). A single C–O bond has a standard length of 1.43 Å, while a double C=O bond has a length of 1.22 Å. The scientist discovers that in the carbonate ion (CO₃²⁻), all three carbon-oxygen bonds are completely identical, measuring exactly 1.29 Å. **Investigative Question:** Why are all three C–O bonds in the carbonate ion identical in length and strength rather than having one short double bond and two long single bonds? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The carbonate ion rotates so fast that the X-ray camera takes a blurred image."
+      },
+      {
+        "key": "B",
+        "text": "The π-electrons are delocalised through resonance across all three carbon-oxygen bonds, producing a resonance hybrid where each bond has an identical intermediate bond order of 1.33."
+      },
+      {
+        "key": "C",
+        "text": "Calcium transfers three protons to the carbon atom."
+      },
+      {
+        "key": "D",
+        "text": "The carbonate ion contains three separate ionic bonds."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The classical Lewis structure of CO₃²⁻ depicts one double bond (C=O) and two single bonds (C-O⁻). However, the double bond can be placed with equal probability on any of the three oxygen atoms, yielding three equivalent contributing resonance structures. In reality, the π-electron pair is delocalised over the entire planar trigonal ion. Each carbon-oxygen bond is a hybrid with a fractional bond order of 4/3 = 1.33, resulting in identical bond lengths (1.29 Å) intermediate between single and double bonds.",
+    "concept_name": "Delocalisation of π-Electrons Across Equivalent Oxygens",
+    "concept_tag": "chemical bonding case based delocalisation of π-electrons across equivalent oxygens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "280f05fd6a31235e0b36c5bb939595ac5bc6c2cc0bce4f79d9735bf7cbdcceac",
+    "question_skeleton": "case scenario an x ray crystallographer determines the carbon oxygen bond lengths in calcium carbonate caco a single c o bond has a standard length of 1 43 while a double c o bond has a length of 1 22 the scientist discovers that in the carbonate ion co all three carbon oxygen bonds are completely identical measuring exactly 1 29 investigative question why are all three c o bonds in the carbonate ion identical in length and strength rather than having one short double bond and two long single bonds choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_28_aaa026",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 28: Polar Covalent Ionisation: $HCl$ Gas in Non-Polar Toluene vs Water",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A laboratory technician bubbles anhydrous hydrogen chloride gas (HCl) into two separate beakers: Beaker A contains pure liquid toluene (a non-polar organic solvent); Beaker B contains pure distilled water. When tested with dry blue litmus paper and an electrical conductivity apparatus: Beaker A shows NO color change on litmus and ZERO electrical conductivity; Beaker B turns litmus red instantly and conducts electric current powerfully. **Investigative Question:** Why does hydrogen chloride exhibit acidic properties and electrical conductivity in water but not in toluene? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Toluene contains a chemical base that neutralizes hydrochloric acid."
+      },
+      {
+        "key": "B",
+        "text": "HCl is a polar covalent gas that does not ionise in non-polar toluene (low dielectric constant); in water, polar water dipoles pull the H–Cl bond apart via hydration, forming hydronium (H₃O⁺) and chloride (Cl⁻) ions that conduct electricity and act as an acid."
+      },
+      {
+        "key": "C",
+        "text": "Toluene destroys the protons in the hydrogen atom."
+      },
+      {
+        "key": "D",
+        "text": "Hydrogen chloride evaporates instantly out of water."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Hydrogen chloride (H-Cl) is a polar covalent molecular gas, not an ionic compound. Toluene is a non-polar hydrocarbon with a low dielectric constant (ε_r ≈ 2.4) and cannot form strong dipole-dipole interactions with HCl; thus, HCl remains as un-ionised covalent molecules that cannot conduct current or turn litmus red. In water (ε_r ≈ 80), the strong ion-dipole attraction (hydration enthalpy) between water and the polar H-Cl bond cleaves the covalent bond completely: HCl + H₂O → H₃O⁺ + Cl⁻.",
+    "concept_name": "Solvent Dielectric and Hydration vs Dispersion",
+    "concept_tag": "chemical bonding case based solvent dielectric and hydration vs dispersion",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0ed479199ba4b5e10d2540d8e7f55c2c88ba857626738fb25f53cd88cc9e2e11",
+    "question_skeleton": "case scenario a laboratory technician bubbles anhydrous hydrogen chloride gas hcl into two separate beakers beaker a contains pure liquid toluene a non polar organic solvent beaker b contains pure distilled water when tested with dry blue litmus paper and an electrical conductivity apparatus beaker a shows no color change on litmus and zero electrical conductivity beaker b turns litmus red instantly and conducts electric current powerfully investigative question why does hydrogen chloride exhibit acidic properties and electrical conductivity in water but not in toluene choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_29_f0fd10",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 29: Equatorial vs Axial Bond Lengths in $PCl₅$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A structural chemist performs electron diffraction on gaseous Phosphorus Pentachloride (PCl₅). The molecule adopts a trigonal bipyramidal geometry with phosphorus at the center. Surprisingly, the five P–Cl bonds are not identical: the three equatorial P–Cl bonds have a length of 2.02 Å, while the two axial P–Cl bonds are significantly longer, measuring 2.14 Å. **Investigative Question:** Why are the axial bonds in Phosphorus Pentachloride longer and weaker than the equatorial bonds? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Axial chlorine atoms have more neutrons than equatorial chlorine atoms."
+      },
+      {
+        "key": "B",
+        "text": "Axial bond pairs experience strong 90° repulsions from three equatorial bond pairs, whereas equatorial bond pairs experience 90° repulsions from only two axial pairs; the greater repulsive strain forces the axial bonds to lengthen and weaken."
+      },
+      {
+        "key": "C",
+        "text": "Equatorial bonds are ionic while axial bonds are metallic."
+      },
+      {
+        "key": "D",
+        "text": "Axial bonds are held by weak gravity from the ceiling of the flask."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In a trigonal bipyramidal geometry (sp³d hybridisation), the three equatorial bonds lie in a plane at 120° to each other, while the two axial bonds lie along a vertical axis perpendicular to the equatorial plane (90°). Each axial bond pair is at 90° to three equatorial bond pairs (high repulsion). Each equatorial bond pair is at 90° to only two axial bond pairs. Because 90° repulsions are severe, the axial pairs are pushed farther out from the central phosphorus atom, making the axial bonds longer (2.14 Å) and weaker (more easily cleaved on heating: PCl₅ → PCl₃ + Cl₂).",
+    "concept_name": "Trigonal Bipyramidal Geometry and VSEPR Repulsions",
+    "concept_tag": "chemical bonding case based trigonal bipyramidal geometry and vsepr repulsions",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f7b483385e287b9e9260f19c8cf6512bf91920279ebcfbe973361d98ce1ef97a",
+    "question_skeleton": "case scenario a structural chemist performs electron diffraction on gaseous phosphorus pentachloride pcl the molecule adopts a trigonal bipyramidal geometry with phosphorus at the center surprisingly the five p cl bonds are not identical the three equatorial p cl bonds have a length of 2 02 while the two axial p cl bonds are significantly longer measuring 2 14 investigative question why are the axial bonds in phosphorus pentachloride longer and weaker than the equatorial bonds choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_30_aa4be8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 30: Intramolecular vs Intermolecular Hydrogen Bonding in Nitrophenols",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An organic chemist synthesizes a mixture of ortho-nitrophenol and para-nitrophenol. When subjected to steam distillation, ortho-nitrophenol distills over rapidly with steam at 100°C, while para-nitrophenol remains behind in the distillation flask, boiling only at 279°C. **Investigative Question:** What difference in hydrogen bonding between the ortho and para isomers accounts for the high volatility of ortho-nitrophenol? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ortho-nitrophenol has a higher molecular weight than para-nitrophenol."
+      },
+      {
+        "key": "B",
+        "text": "Ortho-nitrophenol forms an intramolecular hydrogen bond (within the same molecule between the adjacent -OH and -NO₂ groups, forming a 6-membered chelate ring), preventing association with other molecules; para-nitrophenol forms extensive intermolecular hydrogen bonds linking multiple molecules into high-boiling aggregates."
+      },
+      {
+        "key": "C",
+        "text": "Para-nitrophenol contains ionic bonds that solidify at 100°C."
+      },
+      {
+        "key": "D",
+        "text": "Ortho-nitrophenol is a non-polar gas that does not condense."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In ortho-nitrophenol, the -OH group and -NO₂ group are positioned on adjacent carbon atoms (close spatial proximity), allowing the hydrogen of -OH to form an internal hydrogen bond with an oxygen of -NO₂ (intramolecular hydrogen bonding or chelation). This satisfies the hydrogen bonding internally, leaving the molecule non-associated, non-polar, and volatile (steam distillable). In para-nitrophenol, the groups are on opposite ends (180° apart); it forms strong intermolecular hydrogen bonds with neighboring molecules, resulting in high molecular association and a high boiling point (279°C).",
+    "concept_name": "Steam Distillation Separation of Isomers",
+    "concept_tag": "chemical bonding case based steam distillation separation of isomers",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "030844dfa0581c6b8fc31689a73ed97879c4d2c25020e6cd7ecbd3d71be2a9d0",
+    "question_skeleton": "case scenario an organic chemist synthesizes a mixture of ortho nitrophenol and para nitrophenol when subjected to steam distillation ortho nitrophenol distills over rapidly with steam at 100 c while para nitrophenol remains behind in the distillation flask boiling only at 279 c investigative question what difference in hydrogen bonding between the ortho and para isomers accounts for the high volatility of ortho nitrophenol choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_31_1e0658",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 31: Octet Rule Limitations: Odd-Electron Molecules ($NO$ and $NO₂$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physical chemist measures the magnetic susceptibility of Nitric Oxide (NO, 11 valence electrons) and Nitrogen Dioxide (NO₂, 17 valence electrons) at room temperature. Both gases are paramagnetic (attracted into an external magnetic field). Furthermore, upon cooling, brown NO₂ gas rapidly dimerises into a colorless diamagnetic liquid, Dinitrogen Tetroxide (N₂O₄). **Investigative Question:** Why do NO and NO₂ fail to obey the octet rule, and why does NO₂ dimerise upon cooling? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both molecules have an odd total number of valence electrons, meaning at least one electron must remain unpaired as an odd-electron free radical (causing paramagnetism); dimerisation of NO₂ pairs the two odd electrons into a stable N–N single bond in N₂O₄."
+      },
+      {
+        "key": "B",
+        "text": "NO and NO₂ are noble gases that repel magnetic fields."
+      },
+      {
+        "key": "C",
+        "text": "Nitrogen undergoes nuclear fission at room temperature."
+      },
+      {
+        "key": "D",
+        "text": "The oxygen atoms absorb electrons from the air to form an octet."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In NO, total valence electrons = 5 (N) + 6 (O) = 11. In NO₂, total valence electrons = 5 (N) + 12 (2O) = 17. Because the total number of valence electrons is odd, it is mathematically impossible for all electrons to be paired into 8-electron octets. The odd unpaired electron resides in an antibonding/non-bonding orbital on nitrogen, imparting paramagnetism and high free-radical reactivity. Upon cooling, two NO₂ molecules combine to pair their odd electrons: 2NO₂ (brown, paramagnetic) ⇌ N₂O₄ (colorless, diamagnetic).",
+    "concept_name": "Paramagnetism and Free Radical Dimerisation",
+    "concept_tag": "chemical bonding case based paramagnetism and free radical dimerisation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e1fdde56870646731b2bf43dc9d7bace34360211f0ac3cdb1f937d141bcb08e6",
+    "question_skeleton": "case scenario a physical chemist measures the magnetic susceptibility of nitric oxide no 11 valence electrons and nitrogen dioxide no 17 valence electrons at room temperature both gases are paramagnetic attracted into an external magnetic field furthermore upon cooling brown no gas rapidly dimerises into a colorless diamagnetic liquid dinitrogen tetroxide n o investigative question why do no and no fail to obey the octet rule and why does no dimerise upon cooling choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_32_b036b5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 32: Formal Charge Determination in Ozone ($O₃$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student calculates the formal charges on the three oxygen atoms in Ozone (labelled O₁, O₂, O₃ from left to right in the Lewis structure: O₁=O₂–O₃, where O₁ has 2 lone pairs, central O₂ has 1 lone pair, and O₃ has 3 lone pairs). The formula used is: Formal Charge = (Valence e⁻) - (Non-bonding e⁻) - 0.5 × (Bonding e⁻). **Investigative Question:** What are the formal charges on O₁, O₂, and O₃ in this resonance contributor of Ozone? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "O₁ = 0, O₂ = +1, O₃ = -1"
+      },
+      {
+        "key": "B",
+        "text": "O₁ = -1, O₂ = +2, O₃ = -1"
+      },
+      {
+        "key": "C",
+        "text": "O₁ = +1, O₂ = 0, O₃ = -1"
+      },
+      {
+        "key": "D",
+        "text": "All three oxygen atoms have a formal charge of 0."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Using the formal charge formula: For O₁ (terminal double-bonded): 6 - 4 - 0.5(4) = 0. For central O₂ (one double bond, one single bond, one lone pair): 6 - 2 - 0.5(6) = +1. For O₃ (terminal single-bonded with coordinate bond): 6 - 6 - 0.5(2) = -1. The sum of formal charges is 0 + 1 + (-1) = 0, matching the neutral charge of the ozone molecule.",
+    "concept_name": "Lewis Structure Charge Allocation",
+    "concept_tag": "chemical bonding case based lewis structure charge allocation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "16ad76935e004fcd9db55f37977ab3c0a2b618d0b2da7b127dd50770ab1c2d38",
+    "question_skeleton": "case scenario a student calculates the formal charges on the three oxygen atoms in ozone labelled o o o from left to right in the lewis structure o o o where o has 2 lone pairs central o has 1 lone pair and o has 3 lone pairs the formula used is formal charge valence e non bonding e 0 5 bonding e investigative question what are the formal charges on o o and o in this resonance contributor of ozone choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_33_638717",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 33: Strength of Hydrogen Bond: F–H···F vs O–H···O vs N–H···N",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a molecular thermodynamics laboratory, an investigator measures the bond dissociation enthalpies of three hydrogen bonds in gaseous complexes: F–H···F (in HF): ~40 kJ/mol O–H···O (in H₂O): ~21 kJ/mol N–H···N (in NH₃): ~13 kJ/mol **Investigative Question:** What periodic property of the electronegative atom dictates the order of hydrogen bond strength: F > O > N? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Atomic mass; heavier atoms form stronger hydrogen bonds."
+      },
+      {
+        "key": "B",
+        "text": "Electronegativity; Fluorine is the most electronegative atom (4.0), followed by Oxygen (3.5) and Nitrogen (3.0), creating the largest partial positive charge on hydrogen (δ+) and the highest electrostatic attraction for the adjacent lone pair."
+      },
+      {
+        "key": "C",
+        "text": "Number of neutrons in the nucleus."
+      },
+      {
+        "key": "D",
+        "text": "Metallic conductivity of nitrogen."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A hydrogen bond is primarily an electrostatic dipole-dipole attraction between a positively polarized hydrogen atom (Hδ+) and an electronegative atom's lone pair (Xδ-). The strength of the hydrogen bond is directly proportional to the electronegativity of the atom bonded to hydrogen. Because Fluorine has the highest electronegativity (4.0), the H-F bond has the greatest dipole moment, creating the strongest positive charge density on hydrogen, yielding the strongest hydrogen bond (~40 kJ/mol). Oxygen (3.5) and Nitrogen (3.0) yield progressively weaker H-bonds.",
+    "concept_name": "Electronegativity and Dipole Intensity in Hydrogen Bonds",
+    "concept_tag": "chemical bonding case based electronegativity and dipole intensity in hydrogen bonds",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d1e77e52a7fd38b6ceb84f55d673697e03f74267514d636550516accb8cd6443",
+    "question_skeleton": "case scenario in a molecular thermodynamics laboratory an investigator measures the bond dissociation enthalpies of three hydrogen bonds in gaseous complexes f h f in hf 40 kj mol o h o in h o 21 kj mol n h n in nh 13 kj mol investigative question what periodic property of the electronegative atom dictates the order of hydrogen bond strength f o n choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_34_35d27e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 34: Coordinate Bonding in Copper Tetraammine Complex $[Cu(NH₃)₄]²⁺$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** When concentrated aqueous ammonia is added to a pale blue solution of Copper(II) sulphate, a pale blue precipitate forms initially, which dissolves upon adding excess ammonia to form an intensely deep inky-blue solution containing the tetraamminecopper(II) complex ion, [Cu(NH₃)₄]²⁺. **Investigative Question:** What type of chemical bonding joins the four ammonia molecules to the central Cu²⁺ cation in the complex ion? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Four ionic bonds formed by electron transfer from copper to ammonia."
+      },
+      {
+        "key": "B",
+        "text": "Four coordinate (dative) covalent bonds, where each ammonia molecule acts as a Lewis base and donates its nitrogen lone pair into empty hybrid orbitals of the central Cu²⁺ transition metal ion."
+      },
+      {
+        "key": "C",
+        "text": "Metallic bonding between copper and nitrogen atoms."
+      },
+      {
+        "key": "D",
+        "text": "Weak London dispersion forces that decompose in light."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In the [Cu(NH₃)₄]²⁺ complex cation, the central copper(II) ion (Cu²⁺) has vacant 4s, 4p, and 4d orbitals (dsp² hybridisation, square planar geometry). Each of the four ammonia molecules (NH₃) possesses a localized lone pair of electrons on its nitrogen atom. Ammonia acts as a monodentate neutral ligand (Lewis base), donating its lone pair into a vacant hybrid orbital of Cu²⁺ to form a coordinate (dative) covalent bond: Cu²⁺ ← :NH₃.",
+    "concept_name": "Ligand Lone Pair Donation into Vacant Transition Orbitals",
+    "concept_tag": "chemical bonding case based ligand lone pair donation into vacant transition orbitals",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "fc59bf73d73e7a08a80cc42030b6f03275c196306452beb23f8ab01f5a954880",
+    "question_skeleton": "case scenario when concentrated aqueous ammonia is added to a pale blue solution of copper ii sulphate a pale blue precipitate forms initially which dissolves upon adding excess ammonia to form an intensely deep inky blue solution containing the tetraamminecopper ii complex ion cu nh investigative question what type of chemical bonding joins the four ammonia molecules to the central cu cation in the complex ion choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_35_fad095",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 35: Physical State of Ionic vs Covalent Substances at Room Temp",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical stockroom inventory categorizes common substances at 25°C: Ionic: NaCl (solid, m.p. 801°C), CaCO₃ (solid, decomposes 900°C), CuSO₄ (solid) Covalent: CH₄ (gas, b.p. -161°C), HCl (gas, b.p. -85°C), CCl₄ (liquid, b.p. 77°C), I₂ (solid, m.p. 114°C) **Investigative Question:** Why are almost all ionic compounds crystalline solids with high melting points at room temperature, while simple covalent compounds are mostly gases, volatile liquids, or low-melting solids? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ionic compounds contain dense atomic nuclei that cannot vibrate."
+      },
+      {
+        "key": "B",
+        "text": "Ionic compounds consist of continuous three-dimensional giant lattices held together by powerful, omnidirectional electrostatic forces requiring massive thermal energy to disrupt; simple covalent compounds consist of discrete molecules held only by weak intermolecular forces."
+      },
+      {
+        "key": "C",
+        "text": "Covalent molecules have no mass, so they float as gases."
+      },
+      {
+        "key": "D",
+        "text": "Ionic compounds are radioactive minerals that solidify upon exposure to air."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ionic compounds do not exist as isolated molecules; they form vast, repeating three-dimensional crystal lattices where every cation is surrounded by multiple anions and vice versa. Overcoming these strong electrostatic Coulombic forces across the entire lattice requires very high thermal kinetic energy (m.p. typically 600°C–3000°C). In contrast, in molecular covalent substances, strong covalent bonds exist only INSIDE each molecule; between neighboring molecules, only weak intermolecular forces (Van der Waals or dipole-dipole) exist, which break easily at room temperature.",
+    "concept_name": "Lattice Energy vs Intermolecular Forces",
+    "concept_tag": "chemical bonding case based lattice energy vs intermolecular forces",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9aafffe4ef44d3bbfba22b823caabfce63daf2f33e67abf18aa212ba101e1000",
+    "question_skeleton": "case scenario a chemical stockroom inventory categorizes common substances at 25 c ionic nacl solid m p 801 c caco solid decomposes 900 c cuso solid covalent ch gas b p 161 c hcl gas b p 85 c ccl liquid b p 77 c i solid m p 114 c investigative question why are almost all ionic compounds crystalline solids with high melting points at room temperature while simple covalent compounds are mostly gases volatile liquids or low melting solids choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_36_a21ce5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 36: Why Anhydrous $AlCl₃$ Sublimes as a Dimer ($Al_2Cl₆$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an industrial organic synthesis, anhydrous Aluminium Chloride (AlCl₃) is used as a Friedel-Crafts catalyst. Solid AlCl₃ sublimes at a low temperature of 180°C. In the vapor phase at temperatures below 400°C, molecular weight determinations show that aluminium chloride exists exclusively as a dimeric molecule with the formula Al₂Cl₆. **Investigative Question:** How does the formation of the Al₂Cl₆ dimer allow each aluminium atom to achieve a stable octet of electrons? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Aluminium atoms fuse together to form a single nucleus."
+      },
+      {
+        "key": "B",
+        "text": "In monomeric AlCl₃, aluminium has only 6 valence electrons; two AlCl₃ units dimerise by each chlorine atom donating a lone pair to the vacant orbital of the adjacent aluminium atom, forming two bridging coordinate covalent bonds (Al–Cl→Al) that complete the octet on both aluminiums."
+      },
+      {
+        "key": "C",
+        "text": "The dimer forms an ionic bond with atmospheric nitrogen."
+      },
+      {
+        "key": "D",
+        "text": "Aluminium shares electrons with hydrogen gas."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In monomeric AlCl₃, aluminium has three valence electrons and shares them with three chlorine atoms, leaving an incomplete octet of 6 electrons (hypovalent Lewis acid). To satisfy the octet rule without ionic lattice formation, two planar AlCl₃ molecules align, and a lone pair on a chlorine atom of one molecule is donated into the vacant 3p orbital of the aluminium atom in the other molecule, and vice versa. These two bridging coordinate bonds form a stable dimer Al₂Cl₆ where each Al atom achieves an 8-electron octet.",
+    "concept_name": "Octet Completion via Bridging Coordinate Bonds",
+    "concept_tag": "chemical bonding case based octet completion via bridging coordinate bonds",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4e1aabeb2344e617ccb131473e99ceab51fb49dfdf4d4bd166cbb76249b41711",
+    "question_skeleton": "case scenario in an industrial organic synthesis anhydrous aluminium chloride alcl is used as a friedel crafts catalyst solid alcl sublimes at a low temperature of 180 c in the vapor phase at temperatures below 400 c molecular weight determinations show that aluminium chloride exists exclusively as a dimeric molecule with the formula al cl investigative question how does the formation of the al cl dimer allow each aluminium atom to achieve a stable octet of electrons choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_37_2ce984",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 37: Lewis Structure of Sulphate Ion ($SO₄²⁻$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical chemist models the sulphate ion (SO₄²⁻). In Model 1, sulphur forms four single bonds with four oxygens (satisfying the octet rule with 8 electrons, but giving sulphur a high formal charge of +2 and each oxygen -1). In Model 2, sulphur forms two double bonds (S=O) and two single bonds (S–O⁻), expanding its valence shell to 12 electrons. **Investigative Question:** Why is Model 2 (with two S=O double bonds and two S–O⁻ single bonds) considered the preferred representation of the sulphate ion? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sulphur cannot form single bonds with oxygen."
+      },
+      {
+        "key": "B",
+        "text": "Model 2 minimizes formal charges across the molecule (sulphur has a formal charge of 0, and the -2 net charge is distributed on the two single-bonded oxygens), which is thermodynamically favored and matches experimental bond lengths (intermediate order ~1.5)."
+      },
+      {
+        "key": "C",
+        "text": "Model 2 converts the sulphate ion into a neutral gas."
+      },
+      {
+        "key": "D",
+        "text": "Oxygen atoms in Model 2 lose their electrons to sulphur."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In modern chemical bonding theory, formal charge minimization takes precedence when d-orbitals are available. In Model 1 (octet rule strictly obeyed), sulphur has a formal charge of +2 (6 - 0 - 4 = +2) and all four oxygens have -1. In Model 2 (expanded valence shell of 12 electrons using 3d orbitals), sulphur has a formal charge of 0 (6 - 0 - 6 = 0), the two double-bonded oxygens have formal charge 0, and the two single-bonded oxygens have formal charge -1. This lower formal charge distribution aligns with experimental X-ray data showing shortened, strengthened S-O bonds.",
+    "concept_name": "Formal Charge Minimization vs Strict Octet Rule",
+    "concept_tag": "chemical bonding case based formal charge minimization vs strict octet rule",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8125c91b633b2f5a3cc640a452b0d9627ac4ef4d435c994c9355b9293ec2872a",
+    "question_skeleton": "case scenario an analytical chemist models the sulphate ion so in model 1 sulphur forms four single bonds with four oxygens satisfying the octet rule with 8 electrons but giving sulphur a high formal charge of 2 and each oxygen 1 in model 2 sulphur forms two double bonds s o and two single bonds s o expanding its valence shell to 12 electrons investigative question why is model 2 with two s o double bonds and two s o single bonds considered the preferred representation of the sulphate ion choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_38_37e2a1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 38: Solubility of Ethanol in Water vs Dimethyl Ether",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Ethanol (CH₃CH₂OH) and Dimethyl Ether (CH₃OCH₃) are functional isomers sharing the identical molecular formula C₂H₆O (molecular weight 46). Despite having the same molecular weight, Ethanol is completely miscible with water in all proportions and boils at +78°C, while Dimethyl Ether is a gas at room temperature (b.p. -24°C) with very limited solubility in water. **Investigative Question:** Why does Ethanol dissolve infinitely in water while Dimethyl Ether has poor water solubility? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ethanol is an ionic salt that dissociates into hydroxide ions."
+      },
+      {
+        "key": "B",
+        "text": "Ethanol contains a polar hydroxyl group (-O–H) that forms strong intermolecular hydrogen bonds with water molecules; Dimethyl Ether has no O–H bond and cannot act as a hydrogen bond donor to water."
+      },
+      {
+        "key": "C",
+        "text": "Dimethyl ether contains metallic bonds that repel water dipoles."
+      },
+      {
+        "key": "D",
+        "text": "Ethanol has a much higher molecular weight than dimethyl ether."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Solubility of covalent organic compounds in water depends on their ability to form hydrogen bonds with water dipoles. Ethanol has a hydrogen atom directly bonded to an electronegative oxygen atom (-O-H). It can act as both a hydrogen-bond donor and acceptor, forming robust intermolecular hydrogen bonds with water molecules (H-bonding hydration). Dimethyl ether (CH₃-O-CH₃) has oxygen bonded only to carbon; it lacks an acidic hydrogen and cannot donate hydrogen bonds, severely limiting its interaction with water.",
+    "concept_name": "Hydrogen Bonding Capability of Functional Isomers",
+    "concept_tag": "chemical bonding case based hydrogen bonding capability of functional isomers",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8e03ac9799989e3944db48576c4617640644e3fad5aa76b23ada77991ef488f9",
+    "question_skeleton": "case scenario ethanol ch ch oh and dimethyl ether ch och are functional isomers sharing the identical molecular formula c h o molecular weight 46 despite having the same molecular weight ethanol is completely miscible with water in all proportions and boils at 78 c while dimethyl ether is a gas at room temperature b p 24 c with very limited solubility in water investigative question why does ethanol dissolve infinitely in water while dimethyl ether has poor water solubility choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_39_9786eb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 39: Thermal Stability Comparison: $NaCl$ vs $CCl₄$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a high-temperature materials test, solid Sodium Chloride (NaCl) and liquid Carbon Tetrachloride (CCl₄) are heated in an inert nitrogen furnace. NaCl remains completely chemically intact even when heated to 1000°C (merely melting at 801°C). In contrast, CCl₄ vaporizes at 77°C, and upon heating its vapor to 400°C, the covalent C–Cl bonds thermally decompose into carbon soot and toxic chlorine gas. **Investigative Question:** What fundamental structural difference explains why ionic NaCl withstands extreme temperatures without chemical decomposition while covalent CCl₄ decomposes readily? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Carbon is a radioactive element that decays at 400°C."
+      },
+      {
+        "key": "B",
+        "text": "NaCl is an extended ionic lattice where every ion is surrounded by six oppositely charged neighbors with a massive cumulative lattice energy, whereas CCl₄ consists of discrete individual molecules whose covalent bonds rupture once the thermal energy matches the specific C–Cl bond dissociation energy."
+      },
+      {
+        "key": "C",
+        "text": "Sodium chloride contains nuclear bonds that cannot be broken by heat."
+      },
+      {
+        "key": "D",
+        "text": "Carbon tetrachloride contains ionic bonds that melt at 77°C."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In NaCl, the solid is a continuous macroscopic network held by immense multidirectional electrostatic forces (lattice energy = 788 kJ/mol). Melting merely provides kinetic energy to allow ions to slip past each other, but the ions remain strongly attracted in the liquid state; chemical decomposition requires breaking the entire Coulombic array. In CCl₄, discrete molecules are held together only by weak Van der Waals forces, causing boiling at 77°C; at 400°C, thermal vibrations exceed the individual C-Cl covalent bond dissociation energy (~327 kJ/mol), causing chemical pyrolysis.",
+    "concept_name": "Lattice Dissociation vs Covalent Molecular Bond Cleavage",
+    "concept_tag": "chemical bonding case based lattice dissociation vs covalent molecular bond cleavage",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "dafbcebfbd3aef2beaae40cd763ebebf6e6c591489900aa3176c87a08eb5fdce",
+    "question_skeleton": "case scenario in a high temperature materials test solid sodium chloride nacl and liquid carbon tetrachloride ccl are heated in an inert nitrogen furnace nacl remains completely chemically intact even when heated to 1000 c merely melting at 801 c in contrast ccl vaporizes at 77 c and upon heating its vapor to 400 c the covalent c cl bonds thermally decompose into carbon soot and toxic chlorine gas investigative question what fundamental structural difference explains why ionic nacl withstands extreme temperatures without chemical decomposition while covalent ccl decomposes readily choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_40_42345a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 40: Linear Geometry of Beryllium Dichloride ($BeCl₂$) Vapor",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical vapor spectroscopy experiment measures the geometry of anhydrous Beryllium Dichloride (BeCl₂) vapor at 1000°C. The molecule consists of one central Beryllium atom bonded to two Chlorine atoms (Cl–Be–Cl). The measured bond angle is exactly 180° with a dipole moment of 0 D. **Investigative Question:** According to VSEPR theory and hybridization concepts, what is the geometric shape of the gaseous BeCl₂ monomer and why? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bent (104.5°) because beryllium has two lone pairs."
+      },
+      {
+        "key": "B",
+        "text": "Linear (180°) because beryllium uses sp hybrid orbitals to form two equivalent bonding pairs with chlorine, which orient themselves in opposite directions to minimize electrostatic repulsion."
+      },
+      {
+        "key": "C",
+        "text": "Trigonal planar (120°) because beryllium has three valence electrons."
+      },
+      {
+        "key": "D",
+        "text": "Tetrahedral (109.5°) because chlorine atoms are bulky."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In the gaseous monomer BeCl₂, the central beryllium atom has 2 valence electrons (2s²). Upon excitation, one 2s electron is promoted to a 2p orbital (2s¹ 2p¹), undergoing sp hybridisation to produce two equivalent collinear hybrid orbitals oriented at 180°. Each sp hybrid orbital overlaps with a 3p orbital of a chlorine atom, forming two identical Be-Cl σ-bonds. With only two bond pairs and zero lone pairs on beryllium, the minimum repulsion geometry is strictly linear (180°).",
+    "concept_name": "sp Hybridisation and 180° Bond Angle",
+    "concept_tag": "chemical bonding case based sp hybridisation and 180° bond angle",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4a32adf1624b6b3482d8af61816f90398eb3c8609ed81aa99b1750be63cb3c2f",
+    "question_skeleton": "case scenario a chemical vapor spectroscopy experiment measures the geometry of anhydrous beryllium dichloride becl vapor at 1000 c the molecule consists of one central beryllium atom bonded to two chlorine atoms cl be cl the measured bond angle is exactly 180 with a dipole moment of 0 d investigative question according to vsepr theory and hybridization concepts what is the geometric shape of the gaseous becl monomer and why choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_41_b73a6a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 41: Coordinate Bond in the Hydroxyl Ion Formation vs Water Dissociation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an ultra-pure water sample, sensitive electrical conductivity apparatus detects a tiny residual conductance (Kw = 1.0 × 10⁻¹⁴ at 25°C). Physical chemists explain this through the self-ionisation of water: 2H₂O ⇌ H₃O⁺ + OH⁻. **Investigative Question:** In this autoionisation equilibrium, how does a neutral water molecule transform into a hydroxide ion (OH⁻)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Water loses two electrons to the air to become OH⁻."
+      },
+      {
+        "key": "B",
+        "text": "A polar O–H bond in one water molecule breaks heterolytically, leaving the shared pair of electrons entirely on the oxygen atom (forming the OH⁻ anion with three lone pairs), while the departed bare proton (H⁺) is accepted by a second water molecule via a coordinate bond to form H₃O⁺."
+      },
+      {
+        "key": "C",
+        "text": "Oxygen atoms split into helium nuclei."
+      },
+      {
+        "key": "D",
+        "text": "Hydrogen atoms undergo nuclear fusion."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Autoionisation of water involves heterolytic bond cleavage. In one water molecule, the highly electronegative oxygen pulls the shared pair of electrons in an O-H bond toward itself until the bond cleaves: H:O:H → H⁺ + :O:H⁻. Oxygen retains the bonding electron pair, becoming a hydroxide ion (OH⁻) with a single negative charge and three lone pairs. The detached proton (H⁺) simultaneously attaches to a lone pair on a second water molecule, forming a coordinate bond in the hydronium ion (H₃O⁺).",
+    "concept_name": "Autoionisation of Water and Proton Transfer",
+    "concept_tag": "chemical bonding case based autoionisation of water and proton transfer",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1f2db8d24530b895dec1de796e36c1d89b7a31d986523bd38488d4a30ca95252",
+    "question_skeleton": "case scenario in an ultra pure water sample sensitive electrical conductivity apparatus detects a tiny residual conductance kw 1 0 10 at 25 c physical chemists explain this through the self ionisation of water 2h o h o oh investigative question in this autoionisation equilibrium how does a neutral water molecule transform into a hydroxide ion oh choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_42_5848e8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 42: Covalent Nature of Beryllium Chloride vs Ionic Magnesium Chloride",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A metallurgist contrasts Beryllium Chloride (BeCl₂) and Magnesium Chloride (MgCl₂). Anhydrous MgCl₂ is a crystalline solid that melts at 714°C and readily conducts electricity in the molten state. Anhydrous BeCl₂ melts at a much lower temperature (405°C), does not conduct electricity in the liquid state, and dissolves easily in non-polar organic solvents like diethyl ether. **Investigative Question:** Why is Beryllium Chloride predominantly covalent while Magnesium Chloride is predominantly ionic? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Beryllium is a non-metal belonging to the halogen group."
+      },
+      {
+        "key": "B",
+        "text": "Be²⁺ has an exceptionally small ionic radius (31 pm) compared to Mg²⁺ (72 pm); its enormous charge-to-radius ratio (polarising power) strongly distorts the electron clouds of the Cl⁻ anions, conferring high covalent character."
+      },
+      {
+        "key": "C",
+        "text": "Magnesium chloride contains metallic bonds."
+      },
+      {
+        "key": "D",
+        "text": "Beryllium atoms absorb electrons from the air to form an octet."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to Fajan's rules, covalent character is favored by small cation size. Be²⁺ is the smallest divalent cation in the periodic table (radius 31 pm vs Mg²⁺ 72 pm). Its charge density (z/r) is colossal. When Be²⁺ approaches the relatively large Cl⁻ anion (radius 181 pm), it pulls the anion's valence electrons into the region between the nuclei, forming shared covalent bonds. Thus, BeCl₂ forms polymeric covalent chains in the solid state and does not conduct electricity, unlike ionic MgCl₂.",
+    "concept_name": "Fajan's Rules Applied to Group 2 Chlorides",
+    "concept_tag": "chemical bonding case based fajan's rules applied to group 2 chlorides",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9cdbbeb04d5191b3c405779abf9c2f4c5ba9b204177c902775a91fdeb5634d92",
+    "question_skeleton": "case scenario a metallurgist contrasts beryllium chloride becl and magnesium chloride mgcl anhydrous mgcl is a crystalline solid that melts at 714 c and readily conducts electricity in the molten state anhydrous becl melts at a much lower temperature 405 c does not conduct electricity in the liquid state and dissolves easily in non polar organic solvents like diethyl ether investigative question why is beryllium chloride predominantly covalent while magnesium chloride is predominantly ionic choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_43_16acaf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 43: Why Nitrogen Does Not Form $NCl₅$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an industrial chlorine synthesis, phosphorus reacts with excess chlorine to produce stable Phosphorus Pentachloride (PCl₅). However, when nitrogen is treated with excess chlorine under identical conditions, only Nitrogen Trichloride (NCl₃) is obtained; Nitrogen Pentachloride (NCl₅) has never been synthesized and does not exist. **Investigative Question:** Why is Nitrogen fundamentally incapable of forming a pentachloride (NCl₅)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nitrogen is less electronegative than phosphorus."
+      },
+      {
+        "key": "B",
+        "text": "Nitrogen belongs to Period 2 and has an electronic configuration of 1s² 2s² 2p³; its valence shell (n=2) contains only four orbitals (one 2s and three 2p) with no vacant d-orbitals, capping its maximum covalency strictly at 4."
+      },
+      {
+        "key": "C",
+        "text": "Chlorine gas decomposes in the presence of nitrogen."
+      },
+      {
+        "key": "D",
+        "text": "Nitrogen atoms are too heavy to bind five chlorine atoms."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "To form five covalent bonds in NCl₅, nitrogen would need to expand its valence shell to accommodate 10 electrons (5 shared pairs). Nitrogen is a Period 2 element with principal quantum number n=2, which possesses only 2s and 2p subshells (total 4 orbitals). It completely lacks d-orbitals. Because there are no energetically accessible empty orbitals to unpair and promote electrons, nitrogen has an absolute covalency ceiling of 4 (as in NH₄⁺). Phosphorus (Period 3) has vacant 3d orbitals, enabling PCl₅.",
+    "concept_name": "Covalency Cap in Second Period Elements",
+    "concept_tag": "chemical bonding case based covalency cap in second period elements",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f07a4ec0f76eb417b6aeb7a9aac1deb94e7c8bfa526f833958ebdd5beb86e1bd",
+    "question_skeleton": "case scenario in an industrial chlorine synthesis phosphorus reacts with excess chlorine to produce stable phosphorus pentachloride pcl however when nitrogen is treated with excess chlorine under identical conditions only nitrogen trichloride ncl is obtained nitrogen pentachloride ncl has never been synthesized and does not exist investigative question why is nitrogen fundamentally incapable of forming a pentachloride ncl choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_44_582f25",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 44: Polarisation and Color: Lead Iodide ($PbI₂$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a classic qualitative analysis demonstration known as 'Golden Rain', a colorless solution of Lead(II) nitrate is mixed with a colorless solution of Potassium iodide. Instantly, an intensely brilliant golden-yellow precipitate of Lead(II) iodide (PbI₂) forms, which recrystallizes on cooling as sparkling golden-yellow hexagonal plates. **Investigative Question:** Why is Lead(II) iodide intensely colored golden-yellow while Lead(II) fluoride (PbF₂) is a plain white solid? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Potassium iodide contains yellow dye."
+      },
+      {
+        "key": "B",
+        "text": "Iodide (I⁻) is a much larger and more polarisable anion than Fluoride (F⁻); the strong polarisation of the I⁻ electron cloud by the Pb²⁺ cation narrows the energy gap, allowing visible blue light absorption via metal-ligand charge transfer, producing the complementary golden-yellow color."
+      },
+      {
+        "key": "C",
+        "text": "Lead fluoride decomposes into yellow lead metal in water."
+      },
+      {
+        "key": "D",
+        "text": "Iodine atoms are radioactive and glow yellow in the dark."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Color in heavy metal halides often arises from polarization-induced charge-transfer transitions. Pb²⁺ is a post-transition cation with high polarizing power. F⁻ is small and holds its electrons tightly, so PbF₂ is purely ionic and absorbs only in the ultraviolet (white). I⁻ is large (220 pm) with loosely bound valence electrons. Pb²⁺ heavily distorts the I⁻ electron cloud, transferring electron density into the metal-ligand bond. This narrows the HOMO-LUMO gap, absorbing high-energy blue/violet light and reflecting brilliant golden yellow.",
+    "concept_name": "Anion Distortion and Charge-Transfer Coloration",
+    "concept_tag": "chemical bonding case based anion distortion and charge-transfer coloration",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "dbd1df36d8c4f28f472befe9992d80d8de8111bdc20f7fdc3c45b601f574855b",
+    "question_skeleton": "case scenario in a classic qualitative analysis demonstration known as golden rain a colorless solution of lead ii nitrate is mixed with a colorless solution of potassium iodide instantly an intensely brilliant golden yellow precipitate of lead ii iodide pbi forms which recrystallizes on cooling as sparkling golden yellow hexagonal plates investigative question why is lead ii iodide intensely colored golden yellow while lead ii fluoride pbf is a plain white solid choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_45_6209a9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 45: Electronegativity Difference Criterion for Bond Character",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Linus Pauling proposed an empirical formula relating the difference in electronegativity (ΔEN = |χ_A - χ_B|) to the percentage of ionic character in a chemical bond: % Ionic Character = 16(ΔEN) + 3.5(ΔEN)². When ΔEN = 1.7, the bond has approximately 50% ionic and 50% covalent character. **Investigative Question:** Based on this criterion, which pair of elements forms a predominantly covalent bond and which forms a predominantly ionic bond? Pair 1: Hydrogen (2.1) and Chlorine (3.0) Pair 2: Potassium (0.8) and Fluorine (4.0) Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pair 1 is ionic (ΔEN = 2.1); Pair 2 is covalent (ΔEN = 0.8)."
+      },
+      {
+        "key": "B",
+        "text": "Pair 1 is polar covalent (ΔEN = 0.9 < 1.7, ~19% ionic); Pair 2 is strongly ionic (ΔEN = 3.2 > 1.7, ~89% ionic)."
+      },
+      {
+        "key": "C",
+        "text": "Both pairs form metallic bonds because both contain non-metals."
+      },
+      {
+        "key": "D",
+        "text": "Neither pair forms a bond because electronegativities are different."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For Pair 1 (H-Cl): ΔEN = 3.0 - 2.1 = 0.9. Since ΔEN is well below 1.7, the bond is predominantly covalent (specifically, a polar covalent bond with ~19% ionic character). For Pair 2 (K-F): ΔEN = 4.0 - 0.8 = 3.2. Because ΔEN is far greater than 1.7, electron transfer occurs completely from potassium to fluorine, yielding a classic electrovalent (ionic) bond with ~89% ionic character.",
+    "concept_name": "Pauling's 50% Ionic Character Threshold",
+    "concept_tag": "chemical bonding case based pauling's 50% ionic character threshold",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a8b4490aa96394de22b58850928e5d2cb789188192588446a384c9861b7149cd",
+    "question_skeleton": "case scenario linus pauling proposed an empirical formula relating the difference in electronegativity en a b to the percentage of ionic character in a chemical bond ionic character 16 en 3 5 en when en 1 7 the bond has approximately 50 ionic and 50 covalent character investigative question based on this criterion which pair of elements forms a predominantly covalent bond and which forms a predominantly ionic bond pair 1 hydrogen 2 1 and chlorine 3 0 pair 2 potassium 0 8 and fluorine 4 0 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_46_e03ff6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 46: Paramagnetism of Diatomic Oxygen ($O₂$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physics demonstration pours liquid Oxygen (O₂) between the magnetic pole pieces of a powerful permanent neodymium magnet. Liquid oxygen is suspended and sticks between the magnetic poles, proving it is paramagnetic. In contrast, the classic Lewis electron-dot structure (:O=O:) depicts all 12 valence electrons paired up as bond pairs or lone pairs. **Investigative Question:** Why is oxygen paramagnetic, and how does this expose a fundamental limitation of the simple Lewis octet model? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Oxygen absorbs iron particles from the magnet."
+      },
+      {
+        "key": "B",
+        "text": "Molecular Orbital (MO) theory proves that the two highest-energy electrons in O₂ occupy two degenerate antibonding π* orbitals with parallel spins (unpaired electrons), which the Lewis structure fails to predict because it forces all electrons into pairs."
+      },
+      {
+        "key": "C",
+        "text": "Oxygen has an odd number of protons in its nucleus."
+      },
+      {
+        "key": "D",
+        "text": "Liquid oxygen contains dissolved liquid iron."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The Lewis structure for O₂ (:O=O:) pairs all electrons into two lone pairs per oxygen and a central double bond (4 bonding e⁻), which would predict diamagnetism. However, liquid oxygen is strongly paramagnetic. Molecular Orbital (MO) theory resolves this: the 12 valence electrons fill the MOs up to the degenerate π*2p_x and π*2p_y orbitals. According to Hund's rule, these two highest-energy electrons occupy separate orbitals with parallel spins, creating two unpaired electrons that account for the observed paramagnetism.",
+    "concept_name": "Failure of Lewis Structure and Molecular Orbital Evidence",
+    "concept_tag": "chemical bonding case based failure of lewis structure and molecular orbital evidence",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "706df7aee9802c4c3fcd3e5a21ac1661c0920558636b55a9273f0552958ef855",
+    "question_skeleton": "case scenario a physics demonstration pours liquid oxygen o between the magnetic pole pieces of a powerful permanent neodymium magnet liquid oxygen is suspended and sticks between the magnetic poles proving it is paramagnetic in contrast the classic lewis electron dot structure o o depicts all 12 valence electrons paired up as bond pairs or lone pairs investigative question why is oxygen paramagnetic and how does this expose a fundamental limitation of the simple lewis octet model choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_47_077eae",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 47: Why Water Expands upon Freezing at 0°C",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A homeowner forgets a sealed glass bottle completely filled with liquid water in an outdoor freezer at -10°C. The following morning, the bottle has shattered completely into fragments, and the frozen water occupies a volume approximately 9% larger than the original liquid. **Investigative Question:** What molecular-scale bonding behavior causes water to expand upon freezing, unlike almost all other liquids which contract upon freezing? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The water reacts with glass to produce carbon dioxide gas."
+      },
+      {
+        "key": "B",
+        "text": "As water cools to 0°C and solidifies, hydrogen bonds lock into an open hexagonal crystalline framework with large vacant internal channels; this rigid geometry requires more space per molecule than the disordered, closely packed liquid state."
+      },
+      {
+        "key": "C",
+        "text": "The glass contracts by 50% due to cold temperatures."
+      },
+      {
+        "key": "D",
+        "text": "Ice absorbs heavy water from the freezer atmosphere."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Almost all substances contract upon freezing because thermal kinetic motion decreases and molecules pack more tightly. Water is an extraordinary exception. In liquid water, thermal motion breaks and re-forms hydrogen bonds continuously, allowing molecules to pack closely. At 0°C, every water molecule forms four fixed, directional hydrogen bonds oriented tetrahedrally. This creates an open, cage-like hexagonal crystal lattice with empty interior channels. As a result, the volume increases by ~9%, exerting immense hydrostatic pressure that shatters rigid containers.",
+    "concept_name": "Hexagonal Symmetry and Empty Ice Channels",
+    "concept_tag": "chemical bonding case based hexagonal symmetry and empty ice channels",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "40512336279076526b8549735a72fe3fa78a1b279442866690bf804e9fd9e9f9",
+    "question_skeleton": "case scenario a homeowner forgets a sealed glass bottle completely filled with liquid water in an outdoor freezer at 10 c the following morning the bottle has shattered completely into fragments and the frozen water occupies a volume approximately 9 larger than the original liquid investigative question what molecular scale bonding behavior causes water to expand upon freezing unlike almost all other liquids which contract upon freezing choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_48_c193c1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 48: Why Hydrogen Bonds Cannot Form in $CH₄$ or $H_2S$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student wonders why Methane (CH₄, containing four hydrogen atoms) and Hydrogen Sulphide (H₂S, containing two hydrogen atoms) do not form hydrogen bonds, whereas Water (H₂O), Ammonia (NH₃), and Hydrogen Fluoride (HF) form strong hydrogen bonds. **Investigative Question:** What two essential conditions are strictly required for an atom to form a hydrogen bond, which are absent in CH₄ and H₂S? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The molecule must be in the solid state, and the temperature must be below 0°C."
+      },
+      {
+        "key": "B",
+        "text": "Hydrogen must be covalently bonded to an atom of (1) very high electronegativity (F, O, or N) and (2) very small atomic size, so that high positive charge density is created on the hydrogen atom."
+      },
+      {
+        "key": "C",
+        "text": "The molecule must contain metal cations and transition metals."
+      },
+      {
+        "key": "D",
+        "text": "The compound must be an organic hydrocarbon."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Hydrogen bond formation strictly requires two conditions: (1) The atom bonded to hydrogen must have high electronegativity (≥ 3.0 on Pauling's scale: F, O, N) to strongly polarize the covalent bond and generate a substantial positive charge (δ+) on hydrogen; (2) The atom must have a small atomic radius so that its unshared lone pair has high localized charge density to attract the positive hydrogen. In CH₄, carbon is not electronegative enough (2.5) and has no lone pair. In H₂S, sulphur has low electronegativity (2.5) and a large, diffuse 3p electron cloud, failing to create a significant hydrogen bond.",
+    "concept_name": "Strict Criteria for Hydrogen Bond Formation",
+    "concept_tag": "chemical bonding case based strict criteria for hydrogen bond formation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7fe7e0fa62514cc9b0c1e1dda1cc2b1ed82a3d0c3d244fc80cdf579a1db98751",
+    "question_skeleton": "case scenario a student wonders why methane ch containing four hydrogen atoms and hydrogen sulphide h s containing two hydrogen atoms do not form hydrogen bonds whereas water h o ammonia nh and hydrogen fluoride hf form strong hydrogen bonds investigative question what two essential conditions are strictly required for an atom to form a hydrogen bond which are absent in ch and h s choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_49_6c9c46",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 49: Solubility of Table Sugar (Covalent Sucrose) in Water",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student in a chemistry lab observes that while non-polar covalent substances like naphthalene or hexane are completely insoluble in water, table sugar (sucrose, C₁₂H₂₂O₁₁, a purely covalent organic compound) dissolves abundantly in water (up to 2000 g per liter at 25°C). **Investigative Question:** Why does the covalent sucrose molecule dissolve so exceptionally well in water despite containing zero ionic bonds? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sucrose decomposes into sodium and chloride ions in water."
+      },
+      {
+        "key": "B",
+        "text": "A sucrose molecule possesses 8 polar hydroxyl (-OH) groups on its ring framework; these form a dense network of intermolecular hydrogen bonds with polar water molecules, releasing sufficient hydration enthalpy to dissolve the crystal."
+      },
+      {
+        "key": "C",
+        "text": "Sugar is an acid that neutralizes water molecules."
+      },
+      {
+        "key": "D",
+        "text": "Water breaks sucrose into radioactive carbon atoms."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "While non-polar covalent solids do not dissolve in water due to weak solvent-solute interactions, sucrose (table sugar) is a polyhydroxy molecule containing eight -OH groups attached to its disaccharide framework. When placed in water, each of these eight hydroxyl groups readily acts as both a hydrogen-bond donor and acceptor to surrounding water molecules. The extensive, highly favorable hydrogen-bonding network between sucrose and water overcomes the intermolecular forces within the sugar crystal, resulting in massive solubility.",
+    "concept_name": "Extensive Polyhydroxy Hydrogen Bonding",
+    "concept_tag": "chemical bonding case based extensive polyhydroxy hydrogen bonding",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a36223ccc1ab6503c50608e30558b73f18024844c9b0bb82878f9768a7f550e0",
+    "question_skeleton": "case scenario a student in a chemistry lab observes that while non polar covalent substances like naphthalene or hexane are completely insoluble in water table sugar sucrose c h o a purely covalent organic compound dissolves abundantly in water up to 2000 g per liter at 25 c investigative question why does the covalent sucrose molecule dissolve so exceptionally well in water despite containing zero ionic bonds choose the correct option"
+  },
+  {
+    "globalId": "qb_case_chemical_bonding_50_885220",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Chemical Bonding",
+    "title": "Case Study 50: Comparison of Single, Double, and Triple Bond Reactivity",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An organic chemist bubbled three different gases through bromine water in separate test tubes: Ethane (C₂H₆, single bond C–C), Ethene (C₂H₄, double bond C=C), and Ethyne (C₂H₂, triple bond C≡C). Ethane causes NO change in the reddish-brown bromine water. Both Ethene and Ethyne decolorize bromine water rapidly at room temperature. **Investigative Question:** Based on chemical bonding principles, why are double and triple bonds chemically far more reactive toward addition reactions than single covalent bonds? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Single bonds contain mobile free electrons that repel bromine."
+      },
+      {
+        "key": "B",
+        "text": "A double bond consists of one strong σ-bond and one weaker, laterally overlapping π-bond; a triple bond consists of one σ-bond and two π-bonds; the diffuse π-electron clouds lie above and below the internuclear axis and are highly accessible and vulnerable to electrophilic attack."
+      },
+      {
+        "key": "C",
+        "text": "Ethene and ethyne are radioactive gases that destroy bromine atoms."
+      },
+      {
+        "key": "D",
+        "text": "Ethane has no electrons and cannot react with chemicals."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A single C-C bond is a σ-bond formed by direct coaxial overlap of hybrid orbitals along the internuclear axis, holding electrons tightly between the nuclei (chemically stable, unreactive). A double bond (C=C) contains one σ-bond and one π-bond; a triple bond (C≡C) contains one σ-bond and two π-bonds. π-bonds are formed by the parallel, sideways (lateral) overlap of p-orbitals. The resulting π-electron density is situated outside the internuclear axis, making the electrons loosely held, polarizable, and readily accessible to attack by electrophilic reagents like Br₂.",
+    "concept_name": "Presence and Vulnerability of π-Bonds in Alkenes and Alkynes",
+    "concept_tag": "chemical bonding case based presence and vulnerability of π-bonds in alkenes and alkynes",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d7472ad274eae65b322cf73cc3c40bc40386c2b126c924c0e37e87df54ede92b",
+    "question_skeleton": "case scenario an organic chemist bubbled three different gases through bromine water in separate test tubes ethane c h single bond c c ethene c h double bond c c and ethyne c h triple bond c c ethane causes no change in the reddish brown bromine water both ethene and ethyne decolorize bromine water rapidly at room temperature investigative question based on chemical bonding principles why are double and triple bonds chemically far more reactive toward addition reactions than single covalent bonds choose the correct option"
+  }
+]

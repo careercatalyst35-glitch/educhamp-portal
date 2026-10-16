@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_chemical_bonding_1_bca2f8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: High melting point of electrovalent compounds",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Sodium chloride has a high melting point of 801°C. **Reason (R):** Electrovalent compounds consist of oppositely charged ions held together by strong electrostatic forces in a three-dimensional crystal lattice. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Breaking down the rigid crystal lattice of Na⁺ and Cl⁻ ions requires an immense amount of thermal energy.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7d0643de1584f2d3d6e1f517fd9fa137d83a664d2de51cb612be8f254101b817",
+    "question_skeleton": "assertion a sodium chloride has a high melting point of # c reason r electrovalent compounds consist of oppositely charged ions held together by strong electrostatic forces in a three dimensional crystal lattice choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_2_036bd2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Electrical conductivity of solid NaCl",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Solid sodium chloride does not conduct an electric current. **Reason (R):** In the solid state, Na⁺ and Cl⁻ ions are locked in fixed positions in the crystal lattice and are not free to migrate. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Electrical conduction requires mobile charge carriers; in solid NaCl, ions can only vibrate about their fixed lattice sites.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5bc6efa2956765ca6aff7774b5040993549a949eb3effd88ed464b595ff73515",
+    "question_skeleton": "assertion a solid sodium chloride does not conduct an electric current reason r in the solid state na and cl ions are locked in fixed positions in the crystal lattice and are not free to migrate choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_3_452a05",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Electrical conductivity of molten NaCl",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Molten sodium chloride is an excellent electrical conductor. **Reason (R):** Heat energy breaks the electrostatic forces between ions in the crystal lattice, rendering the Na⁺ and Cl⁻ ions mobile. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The mobile ions migrate towards oppositely charged electrodes when a potential difference is applied.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "92fa34632670353351e77172338bc67666dc1a3c4927ad6de45aa2136f20e2cf",
+    "question_skeleton": "assertion a molten sodium chloride is an excellent electrical conductor reason r heat energy breaks the electrostatic forces between ions in the crystal lattice rendering the na and cl ions mobile choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_4_de7e01",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Non-polar nature of CCl4",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Carbon tetrachloride (CCl₄) is a non-polar covalent molecule despite containing polar C-Cl bonds. **Reason (R):** CCl₄ has a symmetrical tetrahedral geometry in which the individual C-Cl bond dipoles cancel each other out vectorially. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The net dipole moment of a symmetrical tetrahedral molecule with identical terminal atoms is zero.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "de15ca0e32a327cf56f6f123cd45c51d2f5142d86c8b7b195e3f5ad27d5f8722",
+    "question_skeleton": "assertion a carbon tetrachloride ccl is a non polar covalent molecule despite containing polar c cl bonds reason r ccl has a symmetrical tetrahedral geometry in which the individual c cl bond dipoles cancel each other out vectorially choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_5_e4d165",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Polarity of water molecule",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Water (H₂O) is a polar covalent molecule with a significant dipole moment. **Reason (R):** The water molecule has a bent (V-shaped) geometry and unequal electronegativity between oxygen and hydrogen, resulting in an uncancelled net dipole. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The two lone pairs on oxygen create an angular shape of 104.5°, preventing the two H-O bond dipoles from canceling.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c4c019a57335a2c91f9ef6670cd04cfcffb6f6d5cb2ee1358309dee272e95fbc",
+    "question_skeleton": "assertion a water h o is a polar covalent molecule with a significant dipole moment reason r the water molecule has a bent v shaped geometry and unequal electronegativity between oxygen and hydrogen resulting in an uncancelled net dipole choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_6_4f987f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Coordinate bond in ammonium ion",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The ammonium ion (NH₄⁺) contains both covalent and coordinate covalent bonds. **Reason (R):** An ammonia molecule (NH₃) donates its lone pair of electrons to an electron-deficient hydrogen ion (H⁺). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. NH₃ contains 3 normal covalent N-H bonds. The 4th N-H bond forms when nitrogen donates its lone pair to H⁺, forming a dative bond.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ecb71de4be21dd07b993215b14bb8ddf0c294beb5c16ad2e8ec54ba6698fbce2",
+    "question_skeleton": "assertion a the ammonium ion nh contains both covalent and coordinate covalent bonds reason r an ammonia molecule nh donates its lone pair of electrons to an electron deficient hydrogen ion h choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_7_83aab5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Coordinate bond in hydronium ion",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A hydronium ion (H₃O⁺) has three covalent bonds, one of which is a coordinate bond. **Reason (R):** A water molecule uses one of its two lone pairs on the oxygen atom to bond with a hydrogen ion (H⁺). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. H₂O possesses two lone pairs on oxygen. One lone pair is shared with H⁺ to complete the octet, forming the coordinate bond in H₃O⁺.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "941b7d0a3de1c925730586b498002148af12aacbd22d9e24cad019be240dfee2",
+    "question_skeleton": "assertion a a hydronium ion h o has three covalent bonds one of which is a coordinate bond reason r a water molecule uses one of its two lone pairs on the oxygen atom to bond with a hydrogen ion h choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_8_130ad8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Low melting points of covalent compounds",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Methane (CH₄) and carbon dioxide (CO₂) exist as gases with very low boiling points at room temperature. **Reason (R):** Molecules of simple covalent substances are held together by weak intermolecular van der Waals forces. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Little thermal energy is required to overcome the weak intermolecular attractions between neutral covalent molecules.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5572bbac90251946e06c66ec96339a9292d74741d349ed40bf6cdf8ffb405489",
+    "question_skeleton": "assertion a methane ch and carbon dioxide co exist as gases with very low boiling points at room temperature reason r molecules of simple covalent substances are held together by weak intermolecular van der waals forces choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_9_446622",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Solubility of electrovalent compounds",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Sodium chloride dissolves readily in water but is insoluble in organic solvents like benzene and carbon tetrachloride. **Reason (R):** Water is a polar solvent with a high dielectric constant that weakens ionic bonds and hydrates the separated ions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The hydration energy released exceeds the lattice energy of NaCl. Non-polar solvents lack dipoles and cannot solvate the ions.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1f6a8720102e8ea50cab89369a59c64ab6e884928108e8c2c2a96b813ca0bd22",
+    "question_skeleton": "assertion a sodium chloride dissolves readily in water but is insoluble in organic solvents like benzene and carbon tetrachloride reason r water is a polar solvent with a high dielectric constant that weakens ionic bonds and hydrates the separated ions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_10_292de3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Formation of covalent bond between identical non-metals",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Two chlorine atoms combine by sharing a pair of electrons to form a Cl₂ molecule. **Reason (R):** Both chlorine atoms have equal electronegativity and require one electron to complete their stable octets. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since neither atom can take an electron from the other, mutual sharing of one electron pair establishes a non-polar single covalent bond.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "667698046a4ba1147500cc2b591e2351bd0935511d465d7b1f6df1fd048146c0",
+    "question_skeleton": "assertion a two chlorine atoms combine by sharing a pair of electrons to form a cl molecule reason r both chlorine atoms have equal electronegativity and require one electron to complete their stable octets choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_11_7292d4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Triple covalent bond in nitrogen molecule",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A nitrogen molecule (N₂) contains a triple covalent bond and is chemically inert at room temperature. **Reason (R):** Sharing three pairs of electrons results in very high bond dissociation energy (945 kJ/mol) between the nitrogen atoms. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The triple bond (one sigma, two pi bonds) holds the two N atoms tightly, requiring substantial energy to break.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c75e6f08c01050313f1118c1a4af01ecb7632253e0a56b28eeacc824179ffdeb",
+    "question_skeleton": "assertion a a nitrogen molecule n contains a triple covalent bond and is chemically inert at room temperature reason r sharing three pairs of electrons results in very high bond dissociation energy # kj mol between the nitrogen atoms choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_12_d9bcc3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Double covalent bond in oxygen molecule",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An oxygen molecule (O₂) possesses a double covalent bond. **Reason (R):** Each oxygen atom has 6 valence electrons and requires two electrons to achieve the neon configuration, sharing two electron pairs. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Oxygen shares 2 pairs of electrons, leaving two lone pairs on each atom.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5525224d7e0c13dd67044ad6d0fa8a14d2ca9d45b63e62c3b6bcc36fa9e95657",
+    "question_skeleton": "assertion a an oxygen molecule o possesses a double covalent bond reason r each oxygen atom has # valence electrons and requires two electrons to achieve the neon configuration sharing two electron pairs choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_13_8a7cc6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Octet rule definition and limitation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** All stable chemical molecules strictly obey the octet rule with 8 valence electrons. **Reason (R):** Atoms combine by losing, gaining, or sharing electrons to achieve a noble gas electronic configuration. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because several molecules violate the octet rule, including BF₃ (incomplete octet with 6 electrons) and PCl₅ (expanded octet with 10 electrons). Reason is the general statement of chemical bonding.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6a372e8304f4459658b87f33435bb8f3f021496dfa20ba85768019643b4db5cd",
+    "question_skeleton": "assertion a all stable chemical molecules strictly obey the octet rule with # valence electrons reason r atoms combine by losing gaining or sharing electrons to achieve a noble gas electronic configuration choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_14_89c36f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Electrovalent bond formation requirement",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An electrovalent bond is formed most readily between an element with low ionisation energy and an element with high electron affinity. **Reason (R):** Low ionisation energy facilitates cation formation, while high electron affinity promotes anion formation with significant energy release. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. When the difference in electronegativity between the two bonding atoms is greater than 1.7, an ionic bond is favored.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6b46184697c5b01a7b14b100b58aa7ddd49ed1b5a2212b59a4189005bdf3bcda",
+    "question_skeleton": "assertion a an electrovalent bond is formed most readily between an element with low ionisation energy and an element with high electron affinity reason r low ionisation energy facilitates cation formation while high electron affinity promotes anion formation with significant energy release choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_15_a70e57",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Calcium oxide electron transfer",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the formation of calcium oxide (CaO), two electrons are transferred from calcium to oxygen. **Reason (R):** Calcium (2,8,8,2) loses two electrons to achieve an argon octet, while oxygen (2,6) gains two electrons to achieve a neon octet. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Ca → Ca²⁺ + 2e⁻ and O + 2e⁻ → O²⁻, forming an ionic lattice held by divalent electrostatic attraction.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4d4f02c5a423993e8db8de241769321cfe91f535d1ff2870fdfec97cc7088b91",
+    "question_skeleton": "assertion a in the formation of calcium oxide cao two electrons are transferred from calcium to oxygen reason r calcium # # # # loses two electrons to achieve an argon octet while oxygen # # gains two electrons to achieve a neon octet choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_16_b03226",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Magnesium chloride stoichiometry",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** One magnesium atom combines with two chlorine atoms to form MgCl₂. **Reason (R):** Magnesium loses two electrons, whereas each chlorine atom can only accept one electron to complete its octet. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Mg → Mg²⁺ + 2e⁻; each Cl atom accepts 1 electron (2Cl + 2e⁻ → 2Cl⁻), maintaining electrical neutrality.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e276d09b5c96ff97d9aa4155cbf6b00c91bbbf49464e432716338f571147bccf",
+    "question_skeleton": "assertion a one magnesium atom combines with two chlorine atoms to form mgcl reason r magnesium loses two electrons whereas each chlorine atom can only accept one electron to complete its octet choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_17_9f7ca7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Polar covalent bond in hydrogen chloride",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Dry hydrogen chloride gas is a polar covalent compound. **Reason (R):** Chlorine is more electronegative than hydrogen, shifting the shared electron pair towards the chlorine atom and creating partial charges Hδ⁺-Clδ⁻. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The electronegativity difference (Cl=3.0, H=2.1) produces a permanent bond dipole.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0155242d0fce9910690ad3749888e5d062803199d2d941ed96bd33e989454675",
+    "question_skeleton": "assertion a dry hydrogen chloride gas is a polar covalent compound reason r chlorine is more electronegative than hydrogen shifting the shared electron pair towards the chlorine atom and creating partial charges h cl choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_18_aeebcd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Ionisation of HCl in water",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An aqueous solution of hydrogen chloride conducts electricity and turns blue litmus red, whereas liquefied dry HCl does not conduct. **Reason (R):** Water molecules ionise polar covalent HCl by hydration into hydronium (H₃O⁺) and chloride (Cl⁻) mobile ions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Dry HCl is purely molecular. The high dielectric constant and dipole interaction of water cause heterolytic cleavage of the H-Cl bond.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8d473453419b6dbf9e0fa1567d55360965d142fb9c7483810dc221397d37ac33",
+    "question_skeleton": "assertion a an aqueous solution of hydrogen chloride conducts electricity and turns blue litmus red whereas liquefied dry hcl does not conduct reason r water molecules ionise polar covalent hcl by hydration into hydronium h o and chloride cl mobile ions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_19_2ea69c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Non-electrolyte nature of pure covalent liquids",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Pure liquid carbon tetrachloride (CCl₄) is a non-electrolyte. **Reason (R):** Carbon tetrachloride consists of non-polar covalent molecules and produces no mobile ions in the liquid state. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Without ions or free electrons, non-polar covalent liquids cannot conduct an electric current.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "28b4b7e9089c984c1fe3987d3ced1521fab634b2eb55abcca7d102b92feeeda7",
+    "question_skeleton": "assertion a pure liquid carbon tetrachloride ccl is a non electrolyte reason r carbon tetrachloride consists of non polar covalent molecules and produces no mobile ions in the liquid state choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_20_b41fc5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Lone pair definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A lone pair of electrons is a pair of valence electrons that is not shared with another atom in a covalent bond. **Reason (R):** In an ammonia molecule, the nitrogen atom has three bonding pairs and one lone pair of electrons. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Nitrogen (2,5) shares 3 electrons with 3 hydrogen atoms, leaving 2 unshared electrons as one lone pair.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a93f3c3774bf8ad8bdf65f788a17eff2ff51a94260cd1297e22afb85d93c02a6",
+    "question_skeleton": "assertion a a lone pair of electrons is a pair of valence electrons that is not shared with another atom in a covalent bond reason r in an ammonia molecule the nitrogen atom has three bonding pairs and one lone pair of electrons choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_21_699607",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Coordinate bond vs ordinary covalent bond",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Once formed, a coordinate covalent bond is identical in chemical behavior to a normal covalent bond. **Reason (R):** In both coordinate and covalent bonds, a shared pair of electrons is held between the nuclei of the bonded atoms. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The distinction lies solely in the origin of the electron pair (one atom vs both atoms). Once established, the bond pair is indistinguishable.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a3bf857abd84e8d717d574fed41735f2cb1a67fa30a6e2e9b841898dd76774bf",
+    "question_skeleton": "assertion a once formed a coordinate covalent bond is identical in chemical behavior to a normal covalent bond reason r in both coordinate and covalent bonds a shared pair of electrons is held between the nuclei of the bonded atoms choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_22_7fd5f9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Structure of hydroxyl ion",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The hydroxyl ion (OH⁻) has three lone pairs of electrons on the oxygen atom. **Reason (R):** When water self-ionises, the H-O bond breaks heterolytically and oxygen retains both electrons of the bonding pair. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Oxygen in H₂O had two lone pairs; gaining the bonding pair from H⁺ leaves oxygen with 3 lone pairs and a net negative charge.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1e816b31f0ebfea16b4cb5c2d8e4d64c1b7ff1e79532f3e02fcf2ea9c7a9c92c",
+    "question_skeleton": "assertion a the hydroxyl ion oh has three lone pairs of electrons on the oxygen atom reason r when water self ionises the h o bond breaks heterolytically and oxygen retains both electrons of the bonding pair choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_23_27cdbc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Conditions for coordinate bond formation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A coordinate bond requires a donor atom with at least one lone pair and an acceptor atom with an incomplete valence shell. **Reason (R):** The donor atom provides both electrons of the shared pair to complete the octet of the electron-deficient species. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Lewis base (donor) and Lewis acid (acceptor) interact to form a dative bond without electron transfer.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b6fca525822c8f942cdaf485a02a9f78fac55a283023079b3dfe003ac5c71f1c",
+    "question_skeleton": "assertion a a coordinate bond requires a donor atom with at least one lone pair and an acceptor atom with an incomplete valence shell reason r the donor atom provides both electrons of the shared pair to complete the octet of the electron deficient species choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_24_1a7ccc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Hardness and brittleness of ionic solids",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ionic crystals are hard but brittle and shatter when struck with a hammer. **Reason (R):** A mechanical blow causes like-charged ions in adjacent layers to shift into alignment, resulting in strong electrostatic repulsion that cleaves the crystal. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Shifting a layer aligns Na⁺ with Na⁺ and Cl⁻ with Cl⁻, forcing the lattice layers apart along cleavage planes.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fc9d8a129ec7814307c559d1d2ac16f49e2c8afb917c4bbe1c32d0734becb0bf",
+    "question_skeleton": "assertion a ionic crystals are hard but brittle and shatter when struck with a hammer reason r a mechanical blow causes like charged ions in adjacent layers to shift into alignment resulting in strong electrostatic repulsion that cleaves the crystal choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_25_4475e9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Non-directional nature of electrovalent bonds",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Electrovalent bonds are non-directional, whereas covalent bonds are directional. **Reason (R):** Electrostatic force fields around spherical ions act equally in all directions, whereas covalent bonds form along the direction of overlapping electron orbitals. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. This explains why covalent compounds show stereoisomerism and fixed bond angles, while ionic crystals form packed geometric lattices.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "924e819e266ae28349350bab7898e4cd8a23a0b2335e6a409cfdefcecb8fd48b",
+    "question_skeleton": "assertion a electrovalent bonds are non directional whereas covalent bonds are directional reason r electrostatic force fields around spherical ions act equally in all directions whereas covalent bonds form along the direction of overlapping electron orbitals choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_26_726eb2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Number of covalent bonds in methane",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A methane (CH₄) molecule contains four single covalent bonds. **Reason (R):** A carbon atom has four valence electrons and shares one electron with each of four hydrogen atoms to achieve a stable octet. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Carbon forms 4 C-H single bonds with a tetrahedral angle of 109.5°.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ee037f3a96eefb5fcdf7ac68c05ad15ce8b74c3aa8dccafe02c44d793d26c278",
+    "question_skeleton": "assertion a a methane ch molecule contains four single covalent bonds reason r a carbon atom has four valence electrons and shares one electron with each of four hydrogen atoms to achieve a stable octet choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_27_73905f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Ethene double bond composition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An ethene (C₂H₄) molecule contains a total of six shared electron pairs. **Reason (R):** Ethene possesses four C-H single covalent bonds and one C=C double covalent bond. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 4 single C-H bonds (4 pairs) + 1 double C=C bond (2 pairs) = 6 shared electron pairs (12 shared electrons).",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a3af4173daeb0b0ceb2016939350f12490d155d41fc96e4810b89108885e4f10",
+    "question_skeleton": "assertion a an ethene c h molecule contains a total of six shared electron pairs reason r ethene possesses four c h single covalent bonds and one c c double covalent bond choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_28_811e71",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Ethyne triple bond composition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An ethyne (C₂H₂) molecule contains five covalent bonds. **Reason (R):** Ethyne has two single C-H bonds and one triple C≡C bond between the two carbon atoms. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 2 single C-H bonds (2 pairs) + 1 triple C≡C bond (3 pairs) = 5 covalent bonds total.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3a157b77e48948bf2d6c387d1d5f786f5471df457b26a2e60639547a78c4456d",
+    "question_skeleton": "assertion a an ethyne c h molecule contains five covalent bonds reason r ethyne has two single c h bonds and one triple c c bond between the two carbon atoms choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_29_ff3cfd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Volatile nature of organic covalent liquids",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ethanol and ether evaporate quickly at room temperature. **Reason (R):** Intermolecular forces in covalent liquids are significantly weaker than the ionic bonds in electrovalent salts. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Weak dipole-dipole or dispersion forces require little ambient heat to allow molecules to escape into the vapor phase.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c837ad20271a030785cd8d4ee6cf32bd951a60005cc59a7e5ed0fb51e1e65aca",
+    "question_skeleton": "assertion a ethanol and ether evaporate quickly at room temperature reason r intermolecular forces in covalent liquids are significantly weaker than the ionic bonds in electrovalent salts choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_30_58c50d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Electronegativity difference and bond type",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When the electronegativity difference between two bonded atoms is zero, the bond is purely non-polar covalent. **Reason (R):** The shared electron pair is attracted equally by both identical nuclei and remains symmetrically positioned midway between them. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. In homonuclear diatomic molecules like H₂, Cl₂, and O₂, ΔEN = 0 and no dipole moment exists.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6c4fce1521f033d0c40c46735fdc4e86db2e3cb62e48a019bfc55e919c115575",
+    "question_skeleton": "assertion a when the electronegativity difference between two bonded atoms is zero the bond is purely non polar covalent reason r the shared electron pair is attracted equally by both identical nuclei and remains symmetrically positioned midway between them choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_31_e12007",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Lead bromide molten conduction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Solid lead bromide (PbBr₂) does not conduct electricity, but molten PbBr₂ conducts and undergoes electrolysis. **Reason (R):** Melting provides thermal energy to overcome electrostatic forces, releasing mobile Pb²⁺ and Br⁻ ions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Conduction in molten PbBr₂ is ionic, with Pb²⁺ moving to the cathode and Br⁻ moving to the anode.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "224d9d1d9529beab57c627d03a911b708a0c6811fe0ab2cc9a7f928b858ad00a",
+    "question_skeleton": "assertion a solid lead bromide pbbr does not conduct electricity but molten pbbr conducts and undergoes electrolysis reason r melting provides thermal energy to overcome electrostatic forces releasing mobile pb and br ions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_32_1f58e6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Sodium chloride vs hydrogen chloride bonding",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** NaCl is ionic while HCl is covalent, even though both contain chlorine combined with a Group 1 element. **Reason (R):** Hydrogen has a much higher electronegativity (2.1) than sodium (0.9), resulting in electron sharing with chlorine rather than complete transfer. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The electronegativity difference for Na-Cl is 2.1 (ionic), whereas for H-Cl it is 0.9 (polar covalent).",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "63162646c1026431a3c15840849ad7eed201bc924b79854f30296c0cbc4d4a65",
+    "question_skeleton": "assertion a nacl is ionic while hcl is covalent even though both contain chlorine combined with a group # element reason r hydrogen has a much higher electronegativity # than sodium # resulting in electron sharing with chlorine rather than complete transfer choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_33_53bb1f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Ammonia solubility in water",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ammonia gas (NH₃) is extremely soluble in water. **Reason (R):** Polar ammonia molecules form strong hydrogen bonds with polar water molecules and react to produce ammonium and hydroxide ions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Like dissolves like: polar NH₃ readily forms hydrogen bonds with H₂O, producing NH₄⁺ and OH⁻.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "abacaf0a7186b68eb9ee7a077d4c779061f982254eaf007ad65a59d2e424f626",
+    "question_skeleton": "assertion a ammonia gas nh is extremely soluble in water reason r polar ammonia molecules form strong hydrogen bonds with polar water molecules and react to produce ammonium and hydroxide ions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_34_cb009c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Lewis electron-dot structure representation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In a Lewis electron-dot symbol, only the valence electrons of an atom are shown. **Reason (R):** Only outer valence electrons participate in chemical bonding, while inner core electrons remain unaffected. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Chemical properties and bonding are determined solely by valence shell configuration.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "793ee9ca50c8eeadb9ab7f140da5aacc731c79e124644fbee436373850db2dd1",
+    "question_skeleton": "assertion a in a lewis electron dot symbol only the valence electrons of an atom are shown reason r only outer valence electrons participate in chemical bonding while inner core electrons remain unaffected choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_35_d09541",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Linear geometry of carbon dioxide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Carbon dioxide (CO₂) has a zero net dipole moment. **Reason (R):** Carbon dioxide has a linear O=C=O structure where two equal C=O bond dipoles point in opposite directions (180°) and cancel. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Vector addition of two equal and opposite bond dipoles produces a net dipole of zero.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e9ae65691e86a5dcec7bc010f3d97ae10ba9d690384d145db96b570d24f63493",
+    "question_skeleton": "assertion a carbon dioxide co has a zero net dipole moment reason r carbon dioxide has a linear o c o structure where two equal c o bond dipoles point in opposite directions # and cancel choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_36_2dc5b9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Coordinate bond representation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A coordinate bond is conventionally represented by an arrow (→) pointing from the donor atom to the acceptor atom. **Reason (R):** The arrow indicates that both electrons in the shared pair originated from the donor atom. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The arrow symbol denotes the asymmetric origin of the bonding pair.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c697254a2111d61a38352c9c5739e6a197a10d77cc986a7a705aaeb4d93155e9",
+    "question_skeleton": "assertion a a coordinate bond is conventionally represented by an arrow pointing from the donor atom to the acceptor atom reason r the arrow indicates that both electrons in the shared pair originated from the donor atom choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_37_5cc64d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Lattice energy and ionic bond strength",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Magnesium oxide (MgO) has a higher lattice energy and melting point (2852°C) than sodium chloride (801°C). **Reason (R):** Electrostatic force between ions is directly proportional to the product of ionic charges (Mg²⁺ and O²⁻ have charges of ±2, compared to ±1 in Na⁺ and Cl⁻). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. By Coulomb law, F ∝ (q₁q₂)/r². Quadrupled charge product and smaller ionic radii give MgO vastly superior lattice energy.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f5b03cf02414cda094144447339e62514cf1595079196fe63e4adadeab5e9352",
+    "question_skeleton": "assertion a magnesium oxide mgo has a higher lattice energy and melting point # c than sodium chloride # c reason r electrostatic force between ions is directly proportional to the product of ionic charges mg and o have charges of # compared to # in na and cl choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_38_184d42",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Dative bond in carbon monoxide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A carbon monoxide (CO) molecule contains a coordinate covalent bond from oxygen to carbon. **Reason (R):** After sharing two pairs of electrons, carbon still lacks an octet; oxygen donates a lone pair into carbon empty orbital to complete its octet. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The CO molecule has a triple bond: two normal covalent bonds and one coordinate bond (C ⇇ O).",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d052948c7893bfb66c5891e95263aa66894185346cdd5c5f18860152b5461260",
+    "question_skeleton": "assertion a a carbon monoxide co molecule contains a coordinate covalent bond from oxygen to carbon reason r after sharing two pairs of electrons carbon still lacks an octet oxygen donates a lone pair into carbon empty orbital to complete its octet choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_39_20e8d5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Stability of noble gas configuration",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Helium achieves chemical stability with a duplet configuration of two electrons. **Reason (R):** The K shell (first shell, n=1) has a maximum capacity of two electrons and is completely filled in helium. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. For the first principal energy level, a duplet represents a complete, closed shell of maximum stability.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "da494226395bc572dfc41ca58acaf9e7924c155fd1c2c77ae12bb24a18143187",
+    "question_skeleton": "assertion a helium achieves chemical stability with a duplet configuration of two electrons reason r the k shell first shell n # has a maximum capacity of two electrons and is completely filled in helium choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_chemical_bonding_40_2783f7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Chemical Bonding",
+    "title": "Assertion–Reason: Polar covalent solvent rule",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Electrovalent compounds are soluble in petrol and kerosene. **Reason (R):** Petrol and kerosene are non-polar organic solvents that cannot break the strong electrostatic attractions of an ionic crystal lattice. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false; electrovalent compounds are insoluble in non-polar solvents like petrol and kerosene. Reason is a true statement explaining why they do not dissolve.",
+    "concept_name": "Chemical Bonding",
+    "concept_tag": "chemical bonding assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "80983cb2ab50241253efe3bda41213bc83a4c7e15cc9d69be7b8f9c024dc74a9",
+    "question_skeleton": "assertion a electrovalent compounds are soluble in petrol and kerosene reason r petrol and kerosene are non polar organic solvents that cannot break the strong electrostatic attractions of an ionic crystal lattice choose the correct option"
+  }
+]

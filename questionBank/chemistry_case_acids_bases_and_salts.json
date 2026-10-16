@@ -1,0 +1,2252 @@
+[
+  {
+    "globalId": "qb_case_acids__bases_and_salts_1_dcad61",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 1: Basicity Anomaly of Phosphorus Oxoacids: $H_3PO₄$ vs $H_3PO₃$ vs $H_3PO₂$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A titration analyst titrates 0.1 M solutions of three phosphorus oxoacids—Orthophosphoric acid (H₃PO₄), Orthophosphorous acid (H₃PO₃), and Hypophosphorous acid (H₃PO₂) against standardized 0.1 M NaOH using phenolphthalein. The equivalence points require: 10.0 mL of H₃PO₄ consumes 30.0 mL of NaOH (ratio 1:3) 10.0 mL of H₃PO₃ consumes 20.0 mL of NaOH (ratio 1:2) 10.0 mL of H₃PO₂ consumes only 10.0 mL of NaOH (ratio 1:1) **Investigative Question:** Why is H₃PO₄ tribasic, H₃PO₃ dibasic, and H₃PO₂ only monobasic, despite all three formulas containing hydrogen atoms? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "All hydrogen atoms in phosphorus acids are acidic, but NaOH decomposes in H₃PO₂."
+      },
+      {
+        "key": "B",
+        "text": "Only hydrogen atoms covalently bonded to oxygen (P–O–H) can ionise as protons; hydrogens directly bonded to phosphorus (P–H) are non-polar, non-ionisable, and reduce the basicity."
+      },
+      {
+        "key": "C",
+        "text": "H₃PO₂ is an organic base that neutralizes hydrochloric acid."
+      },
+      {
+        "key": "D",
+        "text": "Phosphorus oxoacids have basicity equal to the number of phosphorus atoms."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Basicity is the number of replaceable hydronium ions (H⁺) an acid molecule produces in water. In phosphorus oxoacids, only hydrogen atoms attached to highly electronegative oxygen atoms (-O-H) are ionisable because the polar O-H bond can cleave heterolytically. Hydrogen atoms bonded directly to phosphorus (P-H) have virtually no polarity (EN of P = 2.1, H = 2.1) and cannot dissociate. H₃PO₄ has three P-OH bonds (tribasic); H₃PO₃ has two P-OH and one P-H bond (dibasic); H₃PO₂ has one P-OH and two P-H bonds (monobasic).",
+    "concept_name": "Replaceable Hydrogens and P–H vs P–OH Bonds",
+    "concept_tag": "acids, bases and salts case based replaceable hydrogens and p–h vs p–oh bonds",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "be6dcdddeb16a4a914203c70ccc603b6a9bd5a93a1f38a57220e71296d1753c5",
+    "question_skeleton": "case scenario a titration analyst titrates 0 1 m solutions of three phosphorus oxoacids orthophosphoric acid h po orthophosphorous acid h po and hypophosphorous acid h po against standardized 0 1 m naoh using phenolphthalein the equivalence points require 10 0 ml of h po consumes 30 0 ml of naoh ratio 1 3 10 0 ml of h po consumes 20 0 ml of naoh ratio 1 2 10 0 ml of h po consumes only 10 0 ml of naoh ratio 1 1 investigative question why is h po tribasic h po dibasic and h po only monobasic despite all three formulas containing hydrogen atoms choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_2_9bef11",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 2: Why $NaH_2PO₂$ is a Normal Salt While $NaH_2PO₄$ is an Acid Salt",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical stockroom label lists Sodium Dihydrogen Phosphate (NaH₂PO₄) as an 'Acid Salt', but lists Sodium Hypophosphite (NaH₂PO₂) as a 'Normal Salt'. A student questions the teacher, pointing out that both salts contain the formula fragment 'H₂' indicating hydrogen. **Investigative Question:** Why is NaH₂PO₂ classified as a normal salt while NaH₂PO₄ is an acid salt? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "NaH₂PO₂ contains sodium in a higher oxidation state."
+      },
+      {
+        "key": "B",
+        "text": "In NaH₂PO₄ (derived from tribasic H₃PO₄), two replaceable hydrogens remain and can be further neutralized by alkali; in NaH₂PO₂ (derived from monobasic H₃PO₂), the parent acid had only one ionisable proton which was already replaced by Na⁺, leaving only non-ionisable P–H hydrogens."
+      },
+      {
+        "key": "C",
+        "text": "Normal salts must contain oxygen, while acid salts contain phosphorus."
+      },
+      {
+        "key": "D",
+        "text": "NaH₂PO₂ turns red litmus blue while NaH₂PO₄ is insoluble in water."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "An 'acid salt' is defined as a salt formed by the partial replacement of replaceable hydrogen ions of a polybasic acid by a metal; it must retain at least one ionisable hydrogen that can react with a base. H₃PO₄ is tribasic; replacing one H⁺ with Na⁺ yields NaH₂PO₄, which still possesses two replaceable -OH hydrogens (acid salt). H₃PO₂ is strictly monobasic (only one replaceable H⁺ in the whole molecule). Replacing that single acidic proton with Na⁺ yields NaH₂PO₂, leaving zero replaceable hydrogens; hence, it is a normal salt.",
+    "concept_name": "Classification of Salts: Presence of Replaceable Hydrogen",
+    "concept_tag": "acids, bases and salts case based classification of salts: presence of replaceable hydrogen",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c460bd6318fc4c4d63e3f623fb4eacda2492620daa82c436de936fb2775e6a94",
+    "question_skeleton": "case scenario a chemical stockroom label lists sodium dihydrogen phosphate nah po as an acid salt but lists sodium hypophosphite nah po as a normal salt a student questions the teacher pointing out that both salts contain the formula fragment h indicating hydrogen investigative question why is nah po classified as a normal salt while nah po is an acid salt choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_3_97d0ba",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 3: The $10^{-8} M  HCl$ Solution pH Paradox",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A high school student enters the concentration of an ultra-dilute hydrochloric acid solution ([HCl] = 1.0 × 10⁻⁸ M) into a calculator using the simple formula pH = -log[H⁺], obtaining pH = 8.0. The teacher points out that an acid solution cannot have a basic pH (> 7) at 25°C. **Investigative Question:** What is the actual pH of a 1.0 × 10⁻⁸ M HCl solution, and why does the simple formula fail? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The true pH is 1.0 because HCl is a strong acid."
+      },
+      {
+        "key": "B",
+        "text": "In extremely dilute acid, the self-ionisation of water cannot be neglected; the total [H₃O⁺] is (1.0 × 10⁻⁸ M from HCl) + (~1.0 × 10⁻⁷ M from H₂O) ≈ 1.05 × 10⁻⁷ M, yielding a slightly acidic pH of 6.98."
+      },
+      {
+        "key": "C",
+        "text": "The true pH is 8.0 because ultra-dilute acid turns into sodium hydroxide."
+      },
+      {
+        "key": "D",
+        "text": "The solution has no pH because hydrochloric acid evaporates completely in water."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In water at 25°C, autoionisation contributes [H⁺]_water and [OH⁻]_water where Kw = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴. When [H⁺]_acid is comparable to or smaller than 10⁻⁷ M, water's contribution dominates. Setting total [H⁺] = 10⁻⁸ + x and [OH⁻] = x: (10⁻⁸ + x)(x) = 10⁻¹⁴. Solving the quadratic yields x = 9.51 × 10⁻⁸ M. Thus, total [H⁺] = 1.0 × 10⁻⁸ + 9.51 × 10⁻⁸ = 1.05 × 10⁻⁷ M. Taking -log(1.05 × 10⁻⁷) yields pH = 6.98 (just below 7, as an acid must be).",
+    "concept_name": "Water Autoionisation in Extremely Dilute Acidic Solutions",
+    "concept_tag": "acids, bases and salts case based water autoionisation in extremely dilute acidic solutions",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "255dccc9d677a322ea1ec94479b04340af1e9f2ce666d286d4d009409cf83146",
+    "question_skeleton": "case scenario a high school student enters the concentration of an ultra dilute hydrochloric acid solution hcl 1 0 10 m into a calculator using the simple formula ph log h obtaining ph 8 0 the teacher points out that an acid solution cannot have a basic ph 7 at 25 c investigative question what is the actual ph of a 1 0 10 m hcl solution and why does the simple formula fail choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_4_11aac8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 4: Action of Nitric Acid on Active Metals: $H₂$ Evolution Anomaly",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student in a chemistry lab tests the reaction of Zinc and Iron with dilute hydrochloric acid, dilute sulphuric acid, and dilute nitric acid. With dilute HCl and dilute H₂SO₄, vigorous effervescence of flammable Hydrogen gas occurs. However, with dilute Nitric acid (HNO₃), no hydrogen gas is evolved; instead, reddish-brown fumes of nitrogen oxides and water are produced. **Investigative Question:** Why does dilute nitric acid fail to produce hydrogen gas with common active metals like Zinc and Iron? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nitric acid contains no hydrogen in its chemical formula."
+      },
+      {
+        "key": "B",
+        "text": "Nitric acid is a powerful oxidising agent; the nascent hydrogen liberated during the displacement reaction is immediately oxidised by HNO₃ to water, while nitric acid itself is reduced to nitrogen oxides (NO, NO₂)."
+      },
+      {
+        "key": "C",
+        "text": "Zinc and iron are noble metals that cannot react with nitrates."
+      },
+      {
+        "key": "D",
+        "text": "Nitric acid forms an insoluble layer of lead nitrate on the zinc surface."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Nitric acid is a potent oxidizer because nitrogen is in its highest oxidation state (+5). When an active metal like Zn or Fe reacts, hydrogen is initially displaced at the metal surface. However, before molecular H₂ gas can escape, the strong oxidizing action of HNO₃ oxidises the nascent hydrogen atoms to water (H₂O), while the nitrate ion is reduced to lower nitrogen oxides: 4Zn + 10HNO₃(dil) → 4Zn(NO₃)₂ + NH₄NO₃ (or NO) + 3H₂O.",
+    "concept_name": "Powerful Oxidising Property vs Hydrogen Displacement",
+    "concept_tag": "acids, bases and salts case based powerful oxidising property vs hydrogen displacement",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "716e6d1a857a472432b3c9d2102aa767610bc5a3d91a9a07b886142c5d7c944d",
+    "question_skeleton": "case scenario a student in a chemistry lab tests the reaction of zinc and iron with dilute hydrochloric acid dilute sulphuric acid and dilute nitric acid with dilute hcl and dilute h so vigorous effervescence of flammable hydrogen gas occurs however with dilute nitric acid hno no hydrogen gas is evolved instead reddish brown fumes of nitrogen oxides and water are produced investigative question why does dilute nitric acid fail to produce hydrogen gas with common active metals like zinc and iron choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_5_8dea9a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 5: Exception: Very Dilute (~1%) $HNO₃$ with Magnesium and Manganese",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Continuing the investigation, the student tests Magnesium ribbon and Manganese granules with very dilute, ice-cold nitric acid (~1% to 2% concentration). To the student's surprise, brisk effervescence of a colorless gas occurs, which gives a sharp 'pop' sound with a burning splinter, confirming Hydrogen gas. **Investigative Question:** Why do Magnesium and Manganese uniquely liberate hydrogen gas with very dilute (1%) cold nitric acid? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Magnesium and Manganese are non-metals that absorb nitrogen."
+      },
+      {
+        "key": "B",
+        "text": "Magnesium and Manganese are exceptionally electropositive metals located high in the reactivity series, and at ultra-low concentration (~1%) and cold temperatures, the oxidizing power of HNO₃ is drastically reduced, allowing simple hydrogen displacement to predominate: Mg + 2HNO₃ → Mg(NO₃)₂ + H₂↑."
+      },
+      {
+        "key": "C",
+        "text": "Nitric acid decomposes into hydrogen gas upon touching any transition metal."
+      },
+      {
+        "key": "D",
+        "text": "Magnesium splits water molecules into liquid oxygen."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Magnesium (E° = -2.37 V) and Manganese (E° = -1.18 V) are very powerful reducing agents situated high in the electrochemical series. When cold, very dilute (~1%) nitric acid is used, the concentration of nitrate oxidizer is too low to overpower the rapid proton reduction. Simple proton displacement dominates: Mg + 2HNO₃(extremely dilute) → Mg(NO₃)₂ + H₂↑. This is a classic ICSE exception.",
+    "concept_name": "Threshold Oxidising Potential and Active Hydrogen Evolution",
+    "concept_tag": "acids, bases and salts case based threshold oxidising potential and active hydrogen evolution",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "731d67a971cbb54321b3e27036612660bc0ae2cace079903c9d474d2b37d5c99",
+    "question_skeleton": "case scenario continuing the investigation the student tests magnesium ribbon and manganese granules with very dilute ice cold nitric acid 1 to 2 concentration to the student s surprise brisk effervescence of a colorless gas occurs which gives a sharp pop sound with a burning splinter confirming hydrogen gas investigative question why do magnesium and manganese uniquely liberate hydrogen gas with very dilute 1 cold nitric acid choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_6_0f2777",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 6: Constancy of Heat of Neutralization for Strong Acids and Bases",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physical chemistry student measures the enthalpy of neutralization (ΔH_neut) in a bomb calorimeter for three different reactions: 1. HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l); ΔH = -57.1 kJ/mol 2. HNO₃(aq) + KOH(aq) → KNO₃(aq) + H₂O(l); ΔH = -57.1 kJ/mol 3. 0.5 H₂SO₄(aq) + 0.5 Ba(OH)₂(aq) → 0.5 BaSO₄(s) + H₂O(l) (excluding precipitation); ΔH = -57.3 kJ/mol **Investigative Question:** Why is the heat of neutralization between ANY strong monoprotic acid and strong base essentially constant at approximately -57.1 kJ/mol? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "All strong acids have the same molecular weight."
+      },
+      {
+        "key": "B",
+        "text": "Strong acids and strong bases are 100% dissociated in dilute aqueous solution; the metal and non-metal ions are inert spectator ions, so the net chemical reaction in all cases is identically: H⁺(aq) + OH⁻(aq) → H₂O(l)."
+      },
+      {
+        "key": "C",
+        "text": "Calorimeters are calibrated to display -57.1 kJ/mol regardless of the reaction."
+      },
+      {
+        "key": "D",
+        "text": "Water releases nuclear energy when mixed with sodium chloride."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Strong acids (HCl, HNO₃) and strong bases (NaOH, KOH) are completely ionised in dilute aqueous solution. When mixed, the reaction is simply: [H⁺ + Cl⁻] + [Na⁺ + OH⁻] → [Na⁺ + Cl⁻] + H₂O. Canceling the spectator ions (Na⁺ and Cl⁻) leaves the identical net ionic equation: H⁺(aq) + OH⁻(aq) → H₂O(l). Because the exact same chemical bond (O-H in water) is formed from hydrated protons and hydroxide ions in all strong acid-strong base reactions, the molar enthalpy release is constant at -57.1 kJ/mol (-13.7 kcal/mol).",
+    "concept_name": "Spectator Ions and the Net Ionic Reaction",
+    "concept_tag": "acids, bases and salts case based spectator ions and the net ionic reaction",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4a23140060b9cd33748aad85d7dd469188be5c647ac135df1cbc4d9536958694",
+    "question_skeleton": "case scenario a physical chemistry student measures the enthalpy of neutralization h neut in a bomb calorimeter for three different reactions 1 hcl aq naoh aq nacl aq h o l h 57 1 kj mol 2 hno aq koh aq kno aq h o l h 57 1 kj mol 3 0 5 h so aq 0 5 ba oh aq 0 5 baso s h o l excluding precipitation h 57 3 kj mol investigative question why is the heat of neutralization between any strong monoprotic acid and strong base essentially constant at approximately 57 1 kj mol choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_7_e255e7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 7: Lower Neutralization Enthalpy for Weak Acids: $CH_3COOH + NaOH$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In the same calorimetry experiment, the student neutralizes 1 mole of Acetic acid (CH₃COOH) with 1 mole of Sodium Hydroxide (NaOH). The measured heat of neutralization is only -55.2 kJ/mol, which is noticeably lower (less exothermic by ~1.9 kJ/mol) than the standard -57.1 kJ/mol. **Investigative Question:** Why is the heat of neutralization of a weak acid like Acetic acid lower than that of a strong acid like Hydrochloric acid? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Acetic acid neutralizes only 50% of the sodium hydroxide."
+      },
+      {
+        "key": "B",
+        "text": "Acetic acid is a weak electrolyte that is only partially ionised; a portion of the heat evolved during neutralization (~1.9 kJ/mol) is consumed as the enthalpy of ionisation to break the covalent O–H bonds and completely ionise the undissociated acetic acid molecules."
+      },
+      {
+        "key": "C",
+        "text": "Sodium acetate decomposes into flammable methane gas during titration."
+      },
+      {
+        "key": "D",
+        "text": "Acetic acid reacts with glass to cool the calorimeter."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Acetic acid is a weak acid with a low degree of ionisation (α ≈ 1.3% in 0.1 M solution). For neutralization to proceed to completion, the remaining 98.7% of undissociated CH₃COOH molecules must undergo endothermic dissociation into H⁺ and CH₃COO⁻ ions. This requires energy (the enthalpy of ionisation, ΔH_ion ≈ +1.9 kJ/mol). The net heat released is therefore: ΔH_net = ΔH_neutralization + ΔH_ion = -57.1 + 1.9 = -55.2 kJ/mol.",
+    "concept_name": "Enthalpy of Ionisation of Weak Electrolytes",
+    "concept_tag": "acids, bases and salts case based enthalpy of ionisation of weak electrolytes",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5f30dca2b44b5006deb6c0f0fe79201c27c735723384cebd44630c43c7875f1c",
+    "question_skeleton": "case scenario in the same calorimetry experiment the student neutralizes 1 mole of acetic acid ch cooh with 1 mole of sodium hydroxide naoh the measured heat of neutralization is only 55 2 kj mol which is noticeably lower less exothermic by 1 9 kj mol than the standard 57 1 kj mol investigative question why is the heat of neutralization of a weak acid like acetic acid lower than that of a strong acid like hydrochloric acid choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_8_7cef44",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 8: Hydrolysis of Salts: Basic Nature of Sodium Carbonate Solution",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical safety officer tests aqueous solutions of common salts with red litmus paper: Solution 1: Sodium Chloride (NaCl) - red litmus remains red, blue litmus remains blue (pH = 7.0) Solution 2: Sodium Carbonate (Na₂CO₃) - red litmus turns bright blue (pH = 11.5) Solution 3: Ammonium Chloride (NH₄Cl) - blue litmus turns red (pH = 5.0) **Investigative Question:** Why is an aqueous solution of Sodium Carbonate strongly alkaline (basic) while Sodium Chloride is neutral? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium carbonate reacts with air to produce ammonia gas."
+      },
+      {
+        "key": "B",
+        "text": "Sodium carbonate is a salt of a strong base (NaOH) and a weak acid (H₂CO₃); the carbonate anion (CO₃²⁻) undergoes hydrolysis with water molecules to form bicarbonate and free hydroxide ions: CO₃²⁻ + H₂O ⇌ HCO₃⁻ + OH⁻."
+      },
+      {
+        "key": "C",
+        "text": "Sodium chloride precipitates all hydroxide ions as solid rust."
+      },
+      {
+        "key": "D",
+        "text": "Carbonate ions donate protons to water molecules."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Salt hydrolysis occurs when ions of a salt interact with water. In Na₂CO₃, Na⁺ comes from the strong base NaOH and does not hydrolyse. The carbonate ion (CO₃²⁻) is the conjugate base of the weak acid carbonic acid (H₂CO₃); it acts as a Brønsted-Lowry base, accepting a proton from water: CO₃²⁻ + H₂O ⇌ HCO₃⁻ + OH⁻. This hydrolysis generates an excess of free hydroxide ions ([OH⁻] > [H⁺]), producing an alkaline solution (pH ~11.5) that turns red litmus blue.",
+    "concept_name": "Anionic Hydrolysis and Conjugate Base Alkalinity",
+    "concept_tag": "acids, bases and salts case based anionic hydrolysis and conjugate base alkalinity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "21615548e360503ee90250195533ce48d8db06209229780c393c20761a14f8d5",
+    "question_skeleton": "case scenario a chemical safety officer tests aqueous solutions of common salts with red litmus paper solution 1 sodium chloride nacl red litmus remains red blue litmus remains blue ph 7 0 solution 2 sodium carbonate na co red litmus turns bright blue ph 11 5 solution 3 ammonium chloride nh cl blue litmus turns red ph 5 0 investigative question why is an aqueous solution of sodium carbonate strongly alkaline basic while sodium chloride is neutral choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_9_c887bb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 9: Hydrolysis of Salts: Acidic Nature of Ammonium Chloride Solution",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Continuing from the previous case, the student examines Solution 3: Ammonium Chloride (NH₄Cl). A pH probe immersed in 0.1 M NH₄Cl reads pH = 5.1 (distinctly acidic). **Investigative Question:** Why does the salt Ammonium Chloride produce an acidic solution in pure neutral water? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Chloride ions react with water to form solid chlorine gas."
+      },
+      {
+        "key": "B",
+        "text": "NH₄Cl is the salt of a weak base (NH₄OH) and a strong acid (HCl); the ammonium cation (NH₄⁺) hydrolyses in water by donating a proton to form un-ionised ammonium hydroxide and excess hydronium ions: NH₄⁺ + H₂O ⇌ NH₄OH + H⁺."
+      },
+      {
+        "key": "C",
+        "text": "Ammonium chloride contains free hydrochloric acid mixed as an impurity."
+      },
+      {
+        "key": "D",
+        "text": "Water molecules are absorbed by the ammonium ions into ice."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "NH₄Cl dissociates into NH₄⁺ and Cl⁻ ions. Cl⁻ is the conjugate base of the very strong acid HCl and has zero affinity for protons (does not hydrolyse). The ammonium cation (NH₄⁺) is the conjugate acid of the weak base NH₄OH. It readily undergoes cationic hydrolysis with water: NH₄⁺ + H₂O ⇌ NH₄OH + H₃O⁺. This generates an excess of hydronium ions ([H₃O⁺] > [OH⁻]), driving the solution pH below 7 and turning blue litmus red.",
+    "concept_name": "Cationic Hydrolysis and Hydronium Ion Generation",
+    "concept_tag": "acids, bases and salts case based cationic hydrolysis and hydronium ion generation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3063da0c0156bdedda634f8967106ba8dead5963a2dd2635beaf001e8377079c",
+    "question_skeleton": "case scenario continuing from the previous case the student examines solution 3 ammonium chloride nh cl a ph probe immersed in 0 1 m nh cl reads ph 5 1 distinctly acidic investigative question why does the salt ammonium chloride produce an acidic solution in pure neutral water choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_10_a3abf4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 10: Lime Water Milky Reaction and Excess $CO₂$ Clearance",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student adds dilute hydrochloric acid to marble chips (CaCO₃) in a gas generator and bubbles the evolved carbon dioxide through a test tube containing freshly prepared lime water (aqueous Ca(OH)₂). Within 10 seconds, the clear lime water turns milky white. As the student continues bubbling CO₂ for another two minutes, the milky precipitate completely dissolves, restoring a clear colorless solution. **Investigative Question:** What chemical transformations account for the appearance and subsequent disappearance of the white precipitate? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Milky: formation of white Calcium chloride; Cleared: Calcium chloride boils away."
+      },
+      {
+        "key": "B",
+        "text": "Milky: formation of insoluble Calcium Carbonate (CaCO₃↓); Cleared: excess CO₂ and water convert insoluble CaCO₃ into soluble Calcium Bicarbonate (Ca(HCO₃)₂)."
+      },
+      {
+        "key": "C",
+        "text": "Milky: precipitation of elemental carbon soot; Cleared: carbon dissolves in acid."
+      },
+      {
+        "key": "D",
+        "text": "Milky: formation of quicklime; Cleared: quicklime evaporates into air."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Initially, carbon dioxide reacts with calcium hydroxide to precipitate insoluble calcium carbonate, causing the milky turbidity: Ca(OH)₂ + CO₂ → CaCO₃↓(white) + H₂O. When excess CO₂ is passed continuously through the suspension, the insoluble calcium carbonate reacts with dissolved carbonic acid (CO₂ + H₂O) to form calcium hydrogen carbonate (calcium bicarbonate): CaCO₃ + H₂O + CO₂ → Ca(HCO₃)₂. Calcium bicarbonate is highly soluble in water, causing the milky precipitate to completely clear into a colorless solution.",
+    "concept_name": "Precipitation of Insoluble Carbonate vs Soluble Bicarbonate",
+    "concept_tag": "acids, bases and salts case based precipitation of insoluble carbonate vs soluble bicarbonate",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "eac95429a993a1d04868d97eea204905cfa4e7d273c7002986f9611dd409ee27",
+    "question_skeleton": "case scenario a student adds dilute hydrochloric acid to marble chips caco in a gas generator and bubbles the evolved carbon dioxide through a test tube containing freshly prepared lime water aqueous ca oh within 10 seconds the clear lime water turns milky white as the student continues bubbling co for another two minutes the milky precipitate completely dissolves restoring a clear colorless solution investigative question what chemical transformations account for the appearance and subsequent disappearance of the white precipitate choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_11_5a67d6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 11: Distinguishing Sulphite ($SO₃²⁻$) from Carbonate ($CO₃²⁻$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A forensics chemist is given two unlabelled white powders: Powder X (a metal carbonate) and Powder Y (a metal sulphite). Both powders produce brisk effervescence of a colorless gas when treated with dilute hydrochloric acid, and both evolved gases turn lime water milky. **Investigative Question:** How can the chemist definitively distinguish the gas evolved from the sulphite (Powder Y) from the carbonate (Powder X)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "By checking if the gas burns with a blue flame."
+      },
+      {
+        "key": "B",
+        "text": "The gas from sulphite is Sulphur dioxide (SO₂), which has a suffocating smell of burning sulphur and turns orange acidified potassium dichromate paper to green; the gas from carbonate is odorless CO₂, which has no effect on acidified potassium dichromate."
+      },
+      {
+        "key": "C",
+        "text": "Carbon dioxide gas is magnetic while sulphur dioxide gas is radioactive."
+      },
+      {
+        "key": "D",
+        "text": "Sulphur dioxide freezes into yellow sulfur crystals at room temperature."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both CO₂ and SO₂ turn lime water milky due to the formation of insoluble CaCO₃ and CaSO₃ precipitates. However, they can be distinguished by two definitive tests: (1) Odor: CO₂ is completely odorless, whereas SO₂ has a sharp, choking, suffocating odor of burning sulphur. (2) Redox behavior: CO₂ is a fully oxidized carbon species (C = +4) and has no reducing properties. SO₂ contains sulphur in the +4 oxidation state and acts as a strong reducing agent: it turns filter paper soaked in orange acidified potassium dichromate (K₂Cr₂O₇) to dark green by reducing Cr₂O₇²⁻ (orange, Cr⁶⁺) to Cr³⁺ (green).",
+    "concept_name": "Action of Acid and Acidified Potassium Dichromate Test",
+    "concept_tag": "acids, bases and salts case based action of acid and acidified potassium dichromate test",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "06a54edf328f0a7a59cf48266701740f138a4c3c5478685fe8cdedaffa4e38d3",
+    "question_skeleton": "case scenario a forensics chemist is given two unlabelled white powders powder x a metal carbonate and powder y a metal sulphite both powders produce brisk effervescence of a colorless gas when treated with dilute hydrochloric acid and both evolved gases turn lime water milky investigative question how can the chemist definitively distinguish the gas evolved from the sulphite powder y from the carbonate powder x choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_12_1ffc6e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 12: Action of Dilute Acid on Sulphides: Hydrogen Sulphide Test",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a metallurgical lab, a geologist tests a mineral fragment of iron(II) sulphide (pyrite) by adding dilute hydrochloric acid in a fume cupboard. A gas with a nauseating smell of rotten eggs is liberated. When a filter paper moistened with Lead(II) acetate solution is held over the mouth of the test tube, the paper turns silvery-black with a metallic sheen. **Investigative Question:** What is the identity of the evolved gas, and what chemical reaction turns the lead acetate paper black? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrogen gas; reduces lead to metallic lead foil."
+      },
+      {
+        "key": "B",
+        "text": "Hydrogen sulphide gas (H₂S); reacts with lead acetate to form an insoluble black precipitate of Lead(II) sulphide (PbS): (CH₃COO)₂Pb + H₂S → PbS↓(black) + 2CH₃COOH."
+      },
+      {
+        "key": "C",
+        "text": "Sulphur dioxide gas; oxidises lead acetate to white lead sulphate."
+      },
+      {
+        "key": "D",
+        "text": "Methane gas; deposits black carbon soot onto the paper."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The reaction of a metal sulphide with dilute acid produces hydrogen sulphide gas: FeS + 2HCl → FeCl₂ + H₂S↑. Hydrogen sulphide has a foul, characteristic odor of rotten eggs. The standard qualitative test for H₂S is moist lead acetate paper: the gaseous H₂S dissolves in the moisture and reacts with lead(II) ions to precipitate insoluble lead(II) sulphide: (CH₃COO)₂Pb + H₂S → PbS↓(black) + 2CH₃COOH. The formation of black PbS is an unambiguous confirmation of sulphide.",
+    "concept_name": "Lead Acetate Paper and Black Precipitation",
+    "concept_tag": "acids, bases and salts case based lead acetate paper and black precipitation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b99311b9ea0cf3b62a85197ded7f489c16d7c100d19f62a9d4d79c90b9eb8b83",
+    "question_skeleton": "case scenario in a metallurgical lab a geologist tests a mineral fragment of iron ii sulphide pyrite by adding dilute hydrochloric acid in a fume cupboard a gas with a nauseating smell of rotten eggs is liberated when a filter paper moistened with lead ii acetate solution is held over the mouth of the test tube the paper turns silvery black with a metallic sheen investigative question what is the identity of the evolved gas and what chemical reaction turns the lead acetate paper black choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_13_97fb29",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 13: Why $PbSO₄$ Cannot Be Prepared from $PbCO₃$ and Dilute $H_2SO₄$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student attempts to prepare Lead(II) sulphate (PbSO₄) by adding dilute sulphuric acid to solid Lead(II) carbonate (PbCO₃) in a beaker. Effervescence begins briskly, but within 5 seconds the bubbling halts completely, leaving unreacted white lead carbonate sitting at the bottom of the acid. **Investigative Question:** Why does the preparation of Lead(II) sulphate fail when dilute sulphuric acid is added directly to lead carbonate or lead oxide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lead carbonate dissolves in sulphuric acid to form a gas."
+      },
+      {
+        "key": "B",
+        "text": "Lead(II) sulphate (PbSO₄) is completely insoluble in water; as soon as the reaction begins, a dense, impermeable crust of PbSO₄ forms around the lead carbonate lumps, shielding the unreacted interior from further acid attack."
+      },
+      {
+        "key": "C",
+        "text": "Sulphuric acid is too weak an acid to react with carbonates."
+      },
+      {
+        "key": "D",
+        "text": "Carbon dioxide gas neutralizes all the sulphuric acid molecules."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The intended reaction is: PbCO₃(s) + H₂SO₄(aq) → PbSO₄(s) + H₂O(l) + CO₂(g). However, Lead(II) sulphate is an insoluble salt (solubility ~0.04 g/L). The moment the acid touches the surface of the insoluble PbCO₃ (or PbO), an adherent, impervious coating of insoluble PbSO₄ precipitates directly onto the solid particle. This crust physically isolates the underlying reactant from the acid, halting the reaction almost immediately. To prepare PbSO₄, one must use a soluble lead salt (like Lead Nitrate) and precipitate it with soluble sodium sulphate.",
+    "concept_name": "Insoluble Protective Crust and Reaction Passivation",
+    "concept_tag": "acids, bases and salts case based insoluble protective crust and reaction passivation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7ce17b10a1b1f6e5c71dbdd4af74499e2992d6cb48ddfbbe5e43c3c2e043674f",
+    "question_skeleton": "case scenario a student attempts to prepare lead ii sulphate pbso by adding dilute sulphuric acid to solid lead ii carbonate pbco in a beaker effervescence begins briskly but within 5 seconds the bubbling halts completely leaving unreacted white lead carbonate sitting at the bottom of the acid investigative question why does the preparation of lead ii sulphate fail when dilute sulphuric acid is added directly to lead carbonate or lead oxide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_14_0ea830",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 14: Preparation of Soluble Salts by Titration vs Insoluble Base",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An ICSE laboratory manual specifies two different preparation routes for crystalline salts: Method A (Titration): Sodium Chloride (NaCl) is prepared by reacting Sodium Hydroxide solution with dilute Hydrochloric acid using a burette and phenolphthalein indicator. Method B (Excess Insoluble Base): Copper(II) sulphate (CuSO₄) is prepared by adding black Copper(II) oxide powder to hot dilute sulphuric acid until no more dissolves, followed by filtration. **Investigative Question:** Why is titration necessary for preparing Sodium Chloride, whereas filtration of excess reactant is used for Copper(II) sulphate? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Copper oxide is an explosive chemical that cannot be placed in a burette."
+      },
+      {
+        "key": "B",
+        "text": "Both NaOH and HCl are soluble and colorless liquids, so there is no visible sign when neutralization is complete without an indicator; CuO is an insoluble solid, so excess CuO can be added to ensure all acid is consumed and the unreacted excess is simply filtered off."
+      },
+      {
+        "key": "C",
+        "text": "Sodium chloride precipitates as a rock salt crystal during titration."
+      },
+      {
+        "key": "D",
+        "text": "Sulphuric acid cannot react with soluble bases."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In preparing NaCl from NaOH (alkali) and HCl (acid), all reactants and products are clear, soluble liquids. If excess NaOH or HCl were added, it could not be separated from the NaCl solution. Titration with an indicator allows adding exact stoichiometric amounts. For CuSO₄, CuO is an insoluble basic oxide. It can be added in excess to guarantee 100% consumption of H₂SO₄; because CuO is insoluble, the excess is cleanly removed by simple paper filtration, leaving pure aqueous CuSO₄ in the filtrate.",
+    "concept_name": "Choice of Salt Preparation Route Based on Solubility",
+    "concept_tag": "acids, bases and salts case based choice of salt preparation route based on solubility",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b4eeb51ea23d70976c7dfca8de9d4a4f4a4330599ae72b204afa8f9b3256ff7e",
+    "question_skeleton": "case scenario an icse laboratory manual specifies two different preparation routes for crystalline salts method a titration sodium chloride nacl is prepared by reacting sodium hydroxide solution with dilute hydrochloric acid using a burette and phenolphthalein indicator method b excess insoluble base copper ii sulphate cuso is prepared by adding black copper ii oxide powder to hot dilute sulphuric acid until no more dissolves followed by filtration investigative question why is titration necessary for preparing sodium chloride whereas filtration of excess reactant is used for copper ii sulphate choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_15_92ba6d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 15: Efflorescence in Washing Soda ($Na_2CO₃· 10H_2O$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical storekeeper opens a fresh sack of transparent, crystalline Washing Soda (Sodium Carbonate Decahydrate, Na₂CO₃·10H₂O) on a dry summer afternoon. Within three days of exposure to the dry warehouse air, the shiny crystals lose their shape and luster, crumbling into an opaque, chalky white powder with a mass loss of over 50%. **Investigative Question:** What phenomenon has occurred, and what is the chemical formula of the white powder formed? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Deliquescence; the crystals absorbed water to form sodium bicarbonate."
+      },
+      {
+        "key": "B",
+        "text": "Efflorescence; the vapor pressure of water of crystallization in the decahydrate crystals is higher than the partial pressure of water vapor in dry air, causing the crystals to spontaneously lose 9 molecules of water to form Sodium Carbonate Monohydrate (Na₂CO₃·H₂O)."
+      },
+      {
+        "key": "C",
+        "text": "Sublimation; sodium carbonate turned directly into carbon dioxide gas."
+      },
+      {
+        "key": "D",
+        "text": "Oxidation; the crystal reacted with oxygen to form sodium peroxide."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Efflorescence is the spontaneous loss of water of crystallization by a hydrated salt when exposed to the atmosphere. It occurs whenever the vapor pressure of water inside the crystal lattice exceeds the ambient water vapor pressure in the surrounding air. For washing soda: Na₂CO₃·10H₂O(s) → Na₂CO₃·H₂O(s) + 9H₂O(g). The decahydrate loses 9 of its 10 water molecules to the dry air, crumbling into an anhydrous/monohydrate white powder.",
+    "concept_name": "Crystal Vapor Pressure vs Atmospheric Humidity",
+    "concept_tag": "acids, bases and salts case based crystal vapor pressure vs atmospheric humidity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "73be0d17c76500c940983b119e2b2e848caf89c900834d808981f5fd9c956503",
+    "question_skeleton": "case scenario a chemical storekeeper opens a fresh sack of transparent crystalline washing soda sodium carbonate decahydrate na co 10h o on a dry summer afternoon within three days of exposure to the dry warehouse air the shiny crystals lose their shape and luster crumbling into an opaque chalky white powder with a mass loss of over 50 investigative question what phenomenon has occurred and what is the chemical formula of the white powder formed choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_16_2c7443",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 16: Deliquescence in Anhydrous Iron(III) Chloride ($FeCl₃$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student leaves a watch glass containing a few dark crystals of anhydrous Iron(III) chloride (FeCl₃) uncovered on a laboratory bench on a humid monsoon morning. After two hours, the solid crystals have vanished completely, replaced by a puddle of dark brown, viscous liquid. **Investigative Question:** What property causes anhydrous Iron(III) chloride to liquefy spontaneously on exposure to air? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The crystals melted due to the high temperature of the bench."
+      },
+      {
+        "key": "B",
+        "text": "Deliquescence; FeCl₃ is extremely soluble and absorbs moisture from the humid air because the vapor pressure of its saturated solution is far lower than the atmospheric water vapor pressure, eventually dissolving completely in the absorbed water."
+      },
+      {
+        "key": "C",
+        "text": "The iron atoms reacted with nitrogen gas to form liquid iron nitride."
+      },
+      {
+        "key": "D",
+        "text": "Iron(III) chloride is a volatile gas that condensed into a liquid."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Deliquescence is the property of certain water-soluble substances to absorb moisture from the atmosphere when exposed to air, until they completely dissolve in the absorbed water to form a concentrated saturated solution. It occurs when the vapor pressure of the saturated solution of the substance is lower than the partial pressure of water vapor in the atmosphere. Common deliquescent substances include anhydrous FeCl₃, solid NaOH, KOH, MgCl₂, and CaCl₂.",
+    "concept_name": "Vapor Pressure of Saturated Solution vs Atmospheric Vapor",
+    "concept_tag": "acids, bases and salts case based vapor pressure of saturated solution vs atmospheric vapor",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "77b4d10e780f11855b8673f000605dcd7ce7dc5c1ee2fc565e3997b69840e34a",
+    "question_skeleton": "case scenario a student leaves a watch glass containing a few dark crystals of anhydrous iron iii chloride fecl uncovered on a laboratory bench on a humid monsoon morning after two hours the solid crystals have vanished completely replaced by a puddle of dark brown viscous liquid investigative question what property causes anhydrous iron iii chloride to liquefy spontaneously on exposure to air choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_17_2c0049",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 17: Drying vs Dehydrating Action of Concentrated Sulphuric Acid",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemist utilizes concentrated sulphuric acid in two different setups: Experiment 1: Moist hydrogen chloride gas is bubbled through concentrated H₂SO₄ in a wash bottle; dry HCl gas emerges with identical molecular structure. Experiment 2: Concentrated H₂SO₄ is poured over white cane sugar crystals (C₁₂H₂₂O₁₁) in a beaker; the mixture hisses violently, steams, and erupts into a black, spongy mass of porous carbon. **Investigative Question:** What distinct chemical roles does concentrated sulphuric acid play in Experiment 1 versus Experiment 2? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "In Exp 1 it acts as an oxidising agent; in Exp 2 it acts as a reducing agent."
+      },
+      {
+        "key": "B",
+        "text": "In Exp 1 it acts as a Drying (hygroscopic) agent, removing physically mixed moisture without chemical change; in Exp 2 it acts as a Dehydrating agent, removing the elements of water (H and O in 2:1 ratio) chemically combined within the sugar molecules."
+      },
+      {
+        "key": "C",
+        "text": "In Exp 1 it neutralizes HCl; in Exp 2 it dissolves carbon."
+      },
+      {
+        "key": "D",
+        "text": "Concentrated sulphuric acid is an explosive in both experiments."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A drying agent (or desiccating agent) is a hygroscopic substance that absorbs physically present water vapor/moisture from a gas or liquid without altering its chemical identity (HCl remains HCl). A dehydrating agent chemically removes the elements of water (hydrogen and oxygen in a 2:1 atomic ratio) from within the chemical structure of a compound. In the sugar charring reaction: C₁₂H₂₂O₁₁ + conc. H₂SO₄ → 12C (black porous charcoal) + 11H₂O (absorbed by acid with immense heat liberation).",
+    "concept_name": "Removal of Moisture vs Chemical Cleavage of Water Elements",
+    "concept_tag": "acids, bases and salts case based removal of moisture vs chemical cleavage of water elements",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "fd15cf22f68998d9649bdec8b51a8d510ba536a9d0ddfecb4d4f4b66c1620e26",
+    "question_skeleton": "case scenario a chemist utilizes concentrated sulphuric acid in two different setups experiment 1 moist hydrogen chloride gas is bubbled through concentrated h so in a wash bottle dry hcl gas emerges with identical molecular structure experiment 2 concentrated h so is poured over white cane sugar crystals c h o in a beaker the mixture hisses violently steams and erupts into a black spongy mass of porous carbon investigative question what distinct chemical roles does concentrated sulphuric acid play in experiment 1 versus experiment 2 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_18_3fb435",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 18: Plaster of Paris: Dehydration of Gypsum at Exactly $100°C$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an industrial gypsum kiln, crushed mineral Gypsum (CaSO₄·2H₂O) is heated to produce Plaster of Paris (POP). The process engineer maintains the kiln temperature strictly between 100°C and 120°C (373 K to 393 K). A trainee asks why the temperature must not be allowed to exceed 120°C. **Investigative Question:** What chemical compound is formed if gypsum is overheated above 120°C (or strongly to 200°C), and why is it useless as a plaster? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It forms calcium carbide, which explodes when mixed with water."
+      },
+      {
+        "key": "B",
+        "text": "It loses all of its water of crystallization to form anhydrous calcium sulphate (CaSO₄), known as 'dead burnt plaster', which sets extremely slowly and completely loses the hydraulic property of setting with water."
+      },
+      {
+        "key": "C",
+        "text": "It decomposes into toxic sulphur dioxide and calcium metal."
+      },
+      {
+        "key": "D",
+        "text": "It forms quicklime, which dissolves glass containers."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Gypsum is calcium sulphate dihydrate: CaSO₄·2H₂O. When heated carefully at 100°C (373 K), it loses three-fourths of its water of crystallization to form Calcium Sulphate Hemihydrate: 2(CaSO₄·2H₂O) → (CaSO₄)₂·H₂O (or CaSO₄·0.5H₂O) + 3H₂O. This is Plaster of Paris. If heated above 120°C (or to 200°C), all water of crystallization is driven off, forming anhydrous CaSO₄, termed 'dead burnt plaster'. Dead burnt plaster does not set quickly or expand upon adding water, rendering it useless for casts or architectural moldings.",
+    "concept_name": "Partial Dehydration and Formation of Hemihydrate",
+    "concept_tag": "acids, bases and salts case based partial dehydration and formation of hemihydrate",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5104257a14aed49a11a30d133a0590a0441694bb8a980c0f3fd1aaf5e478bdf3",
+    "question_skeleton": "case scenario in an industrial gypsum kiln crushed mineral gypsum caso 2h o is heated to produce plaster of paris pop the process engineer maintains the kiln temperature strictly between 100 c and 120 c 373 k to 393 k a trainee asks why the temperature must not be allowed to exceed 120 c investigative question what chemical compound is formed if gypsum is overheated above 120 c or strongly to 200 c and why is it useless as a plaster choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_19_91d449",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 19: Setting Mechanism of Plaster of Paris: Volume Expansion",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An orthopedic surgeon applies a Plaster of Paris (POP) bandage around a fractured arm bone. Within 15 minutes, the moist paste becomes noticeably warm to the touch and hardens into a rigid, rock-solid cast. Furthermore, the surgeon notes that the paste expands by approximately 1% in volume as it sets, creating a tight, form-fitting mold. **Investigative Question:** What chemical reaction causes Plaster of Paris to harden and release heat upon mixing with water? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "POP oxidises to form calcium nitrate with absorption of heat."
+      },
+      {
+        "key": "B",
+        "text": "POP undergoes an exothermic hydration reaction, reabsorbing water to form an interlocking network of needle-shaped crystalline gypsum (CaSO₄·2H₂O) that expands slightly in volume as the crystals grow."
+      },
+      {
+        "key": "C",
+        "text": "The plaster evaporates into the atmosphere, leaving only dried gauze."
+      },
+      {
+        "key": "D",
+        "text": "POP absorbs nitrogen gas from the air to form an alloy."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When Plaster of Paris is mixed with one-third its weight of water, it forms a plastic paste: (CaSO₄)₂·H₂O + 3H₂O → 2(CaSO₄·2H₂O). The reaction is exothermic (releasing heat noticeable to touch) and occurs in two stages: (1) Setting: within 5–15 minutes, the paste sets into an initial solid mass; (2) Hardening: over several hours, microscopic needle-like monoclinic crystals of gypsum grow and interlock into a rigid solid. Because the crystalline lattice of gypsum occupies ~1% more volume than the hemihydrate paste, it expands into every detail of the mold.",
+    "concept_name": "Exothermic Rehydration to Interlocking Gypsum Crystals",
+    "concept_tag": "acids, bases and salts case based exothermic rehydration to interlocking gypsum crystals",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1fdb38f96a1d5ca84637942ab535b3655a72bd855d68d65d6d3f6c0614ea622d",
+    "question_skeleton": "case scenario an orthopedic surgeon applies a plaster of paris pop bandage around a fractured arm bone within 15 minutes the moist paste becomes noticeably warm to the touch and hardens into a rigid rock solid cast furthermore the surgeon notes that the paste expands by approximately 1 in volume as it sets creating a tight form fitting mold investigative question what chemical reaction causes plaster of paris to harden and release heat upon mixing with water choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_20_6aee46",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 20: Tooth Decay: Hydroxyapatite Demineralisation and Fluoride",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A dentist explains to a patient how sweet chocolates cause dental cavities. Bacteria in dental plaque ferment dietary sucrose into lactic acid and other organic acids. When mouth saliva pH drops below the critical threshold of 5.5, tooth enamel—composed of crystalline Hydroxyapatite (Ca₅(PO₄)₃OH)—begins to dissolve. The dentist recommends a fluoride toothpaste. **Investigative Question:** How does fluoride toothpaste protect teeth against bacterial acid erosion at the molecular level? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fluoride kills all saliva cells to stop acid formation."
+      },
+      {
+        "key": "B",
+        "text": "Fluoride ions replace the hydroxyl (OH⁻) ions in tooth enamel, converting hydroxyapatite into fluoroapatite (Ca₅(PO₄)₃F), which has a much lower solubility product and resists acid dissolution down to pH 4.5."
+      },
+      {
+        "key": "C",
+        "text": "Fluoride reacts with hydrochloric acid to produce calcium metal."
+      },
+      {
+        "key": "D",
+        "text": "Fluoride forms an impermeable coating of pure gold over teeth."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Tooth enamel is the hardest substance in the human body, composed of crystalline mineral hydroxyapatite: Ca₅(PO₄)₃OH. Plaque bacteria ferment carbohydrates into acids (H⁺). At pH < 5.5, H⁺ reacts with OH⁻ and PO₄³⁻, dissolving the enamel (demineralisation): Ca₅(PO₄)₃OH + 4H⁺ → 5Ca²⁺ + 3HPO₄²⁻ + H₂O. Fluoride toothpaste introduces F⁻ ions that substitute for OH⁻ in the mineral lattice: Ca₅(PO₄)₃OH + F⁻ → Ca₅(PO₄)₃F + OH⁻. Fluoroapatite is significantly harder and more acid-resistant, demineralising only at pH < 4.5.",
+    "concept_name": "Enamel Acid Erosion and Fluoroapatite Remineralisation",
+    "concept_tag": "acids, bases and salts case based enamel acid erosion and fluoroapatite remineralisation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a86ca3f298465e61ff87ac0e3f530add14642fc75d15c266d220e2e34d9b1e17",
+    "question_skeleton": "case scenario a dentist explains to a patient how sweet chocolates cause dental cavities bacteria in dental plaque ferment dietary sucrose into lactic acid and other organic acids when mouth saliva ph drops below the critical threshold of 5 5 tooth enamel composed of crystalline hydroxyapatite ca po oh begins to dissolve the dentist recommends a fluoride toothpaste investigative question how does fluoride toothpaste protect teeth against bacterial acid erosion at the molecular level choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_21_dcd11c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 21: Agricultural Soil Liming: Neutralizing Soil Acidity",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An agricultural extension officer tests the soil of a tea plantation suffering from poor crop yields. Soil testing reveals a pH of 4.8 (strongly acidic due to excessive ammonium sulphate fertilizer use and acidic rainfall). The officer instructs the farmer to broadcast finely ground Agricultural Lime (Calcium Carbonate, CaCO₃) or Slaked Lime (Ca(OH)₂) over the fields. **Investigative Question:** What is the chemical function of applying lime to agricultural soil? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lime adds sodium ions to bleach the soil."
+      },
+      {
+        "key": "B",
+        "text": "Lime acts as a basic compound that neutralizes excess soil hydronium ions (H⁺), raising soil pH to the optimal range (6.0–7.0) and precipitating toxic soluble aluminium ions (Al³⁺)."
+      },
+      {
+        "key": "C",
+        "text": "Lime acts as an herbicide that kills all earthworms."
+      },
+      {
+        "key": "D",
+        "text": "Lime is an acid that decreases the pH to 2.0."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Acidic soils (pH < 5.5) suffer from nutrient lockup and toxic solubilisation of aluminium and manganese ions. Adding slaked lime (Ca(OH)₂) or crushed limestone/chalk (CaCO₃) neutralizes soil acids: Ca(OH)₂ + 2H⁺ → Ca²⁺ + 2H₂O, or CaCO₃ + 2H⁺ → Ca²⁺ + H₂O + CO₂↑. This 'liming' restores the pH to the optimal 6.0–7.0 range, supplies essential Ca²⁺ nutrients, improves soil flocculation and aeration, and precipitates toxic Al³⁺ as insoluble Al(OH)₃.",
+    "concept_name": "Slaked Lime and Calcium Carbonate Acid Neutralization",
+    "concept_tag": "acids, bases and salts case based slaked lime and calcium carbonate acid neutralization",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "469c8e5ba44b5a2cd766859188eafc35f8bf75f810bf0faaff8934b499f7c836",
+    "question_skeleton": "case scenario an agricultural extension officer tests the soil of a tea plantation suffering from poor crop yields soil testing reveals a ph of 4 8 strongly acidic due to excessive ammonium sulphate fertilizer use and acidic rainfall the officer instructs the farmer to broadcast finely ground agricultural lime calcium carbonate caco or slaked lime ca oh over the fields investigative question what is the chemical function of applying lime to agricultural soil choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_22_ab3c62",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 22: Acid Rain Attack on Marble Monuments (Stone Cancer)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Environmental scientists monitor the Taj Mahal in Agra, noting surface flaking, pitting, and yellowing of the pristine white Makrana marble (pure CaCO₃). Air monitoring shows elevated levels of sulphur dioxide (SO₂) from nearby refineries. Rainwater collected at the site has an acidic pH of 4.2. **Investigative Question:** What chemical reaction causes 'stone cancer' (deterioration of marble monuments by acid rain)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Marble evaporates as pure calcium gas upon contact with water."
+      },
+      {
+        "key": "B",
+        "text": "Atmospheric SO₂ dissolves in rain to form sulphuric acid (H₂SO₄); the acid attacks insoluble calcium carbonate marble, converting it into soluble/friable calcium sulphate (gypsum), which washes away or crumbles: CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂↑."
+      },
+      {
+        "key": "C",
+        "text": "Marble is an organic wood product that rots in the rain."
+      },
+      {
+        "key": "D",
+        "text": "Acid rain deposits black lead onto the marble surface."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sulphur dioxide emitted from fossil fuel combustion oxidises in the atmosphere to sulphur trioxide, which dissolves in raindrops to form sulphuric acid (H₂SO₄): 2SO₂ + O₂ + 2H₂O → 2H₂SO₄. When acid rain falls on marble structures (CaCO₃), a chemical displacement occurs: CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂↑. Calcium sulphate (gypsum) is formed, which is slightly soluble and occupies greater volume than carbonate, causing internal stress, blistering, pitting, and flaking of the marble (known as 'stone cancer').",
+    "concept_name": "Calcium Carbonate Conversion to Soluble Gypsum",
+    "concept_tag": "acids, bases and salts case based calcium carbonate conversion to soluble gypsum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f502a11ae6fed98a3475191a20901b8c72c486d8b74680350cb1de59d22e079f",
+    "question_skeleton": "case scenario environmental scientists monitor the taj mahal in agra noting surface flaking pitting and yellowing of the pristine white makrana marble pure caco air monitoring shows elevated levels of sulphur dioxide so from nearby refineries rainwater collected at the site has an acidic ph of 4 2 investigative question what chemical reaction causes stone cancer deterioration of marble monuments by acid rain choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_23_8abb26",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 23: Action of Hot Concentrated Alkali on Amphoteric Metals",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical technician drops granulated Zinc into a test tube containing concentrated Sodium Hydroxide solution (NaOH). At room temperature, little reaction occurs. Upon heating the test tube over a Bunsen flame, vigorous bubbling ensues, and the gas evolved burns with a characteristic pop sound. The zinc granules dissolve completely, leaving a clear colorless solution. **Investigative Question:** What compound is formed in solution, and why does zinc dissolve in strong alkali? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium zinc chloride; zinc is a halogen that dissolves in bases."
+      },
+      {
+        "key": "B",
+        "text": "Zinc is an amphoteric metal; it reacts with hot concentrated sodium hydroxide to form soluble Sodium Zincate (Na₂ZnO₂) and liberates Hydrogen gas: Zn + 2NaOH → Na₂ZnO₂ + H₂↑."
+      },
+      {
+        "key": "C",
+        "text": "Zinc oxide precipitate; the solution becomes acidic."
+      },
+      {
+        "key": "D",
+        "text": "Zinc forms metallic sodium that floats on water."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Most metals react only with acids. However, amphoteric metals (such as Zinc, Aluminium, and Lead) possess oxides and hydroxides that exhibit both basic and acidic properties. When treated with boiling concentrated alkalis, they behave as acidic elements, dissolving with the liberation of hydrogen gas: Zn + 2NaOH → Na₂ZnO₂ (sodium zincate) + H₂↑. Similarly, Aluminium reacts: 2Al + 2NaOH + 2H₂O → 2NaAlO₂ (sodium meta-aluminate) + 3H₂↑.",
+    "concept_name": "Zincate and Aluminate Formation with Hydrogen Evolution",
+    "concept_tag": "acids, bases and salts case based zincate and aluminate formation with hydrogen evolution",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "cdc79a76fbf84a0a6bb1c723680601c271d274b0927685ccfa8b0187dbcc2ee7",
+    "question_skeleton": "case scenario a chemical technician drops granulated zinc into a test tube containing concentrated sodium hydroxide solution naoh at room temperature little reaction occurs upon heating the test tube over a bunsen flame vigorous bubbling ensues and the gas evolved burns with a characteristic pop sound the zinc granules dissolve completely leaving a clear colorless solution investigative question what compound is formed in solution and why does zinc dissolve in strong alkali choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_24_cf2306",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 24: Classification of Oxides: Amphoteric Nature of $Al_2O₃$ and $ZnO$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical chemist tests four white oxide powders: Na₂O, CaO, Al₂O₃, and SO₃. The chemist discovers that while Na₂O and CaO react only with acids (basic oxides), and SO₃ reacts only with bases (acidic oxide), Aluminium oxide (Al₂O₃) dissolves readily in both hydrochloric acid and hot sodium hydroxide solution. **Investigative Question:** Which balanced chemical equations prove that Aluminium Oxide is an amphoteric oxide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Al₂O₃ + H₂O → 2Al(OH)₃ and Al₂O₃ + O₂ → 2AlO₂"
+      },
+      {
+        "key": "B",
+        "text": "With acid: Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O; With base: Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O (forming soluble sodium aluminate)."
+      },
+      {
+        "key": "C",
+        "text": "Al₂O₃ + 2NaCl → 2AlCl + Na₂O₃"
+      },
+      {
+        "key": "D",
+        "text": "Aluminium oxide reacts with nitrogen gas to form aluminium nitrate."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "An amphoteric oxide is a metallic oxide that reacts with both acids and strong bases to form salt and water. Acting as a base with acids: Al₂O₃ + 6HCl → 2AlCl₃ (aluminium chloride salt) + 3H₂O. Acting as an acid with strong alkalis: Al₂O₃ + 2NaOH → 2NaAlO₂ (sodium aluminate salt) + H₂O. Zinc oxide (ZnO) exhibits identical behavior: ZnO + 2HCl → ZnCl₂ + H₂O; ZnO + 2NaOH → Na₂ZnO₂ + H₂O.",
+    "concept_name": "Reaction with Both Strong Acids and Strong Alkalis",
+    "concept_tag": "acids, bases and salts case based reaction with both strong acids and strong alkalis",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c12b1d490b7eccee583bbd442e283565f2d7736d0a2ee81e64aa2f946097b30f",
+    "question_skeleton": "case scenario an analytical chemist tests four white oxide powders na o cao al o and so the chemist discovers that while na o and cao react only with acids basic oxides and so reacts only with bases acidic oxide aluminium oxide al o dissolves readily in both hydrochloric acid and hot sodium hydroxide solution investigative question which balanced chemical equations prove that aluminium oxide is an amphoteric oxide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_25_1a88fd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 25: Complex Salt Formation: Potassium Ferrocyanide",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student dissolves equal molar quantities of two iron-containing salts in water: Beaker 1: Mohr's salt (Ferrous Ammonium Sulphate, FeSO₄·(NH₄)₂SO₄·6H₂O) Beaker 2: Potassium Ferrocyanide (K₄[Fe(CN)₆]) When sodium hydroxide solution is added to Beaker 1, a dirty green precipitate of Fe(OH)₂ forms immediately. When sodium hydroxide is added to Beaker 2, NO precipitate forms whatsoever. **Investigative Question:** Why does Mohr's salt give a positive test for iron(II) ions, while Potassium Ferrocyanide gives no test for iron(II) ions? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mohr's salt contains metallic iron, while ferrocyanide contains no iron."
+      },
+      {
+        "key": "B",
+        "text": "Mohr's salt is a Double Salt that completely dissociates into individual simple ions (Fe²⁺, NH₄⁺, SO₄²⁻) in water; Potassium Ferrocyanide is a Complex Salt where Fe²⁺ is locked inside a stable coordinate complex anion [Fe(CN)₆]⁴⁻ that does not dissociate into free Fe²⁺ ions."
+      },
+      {
+        "key": "C",
+        "text": "Potassium ferrocyanide decomposes into cyanide gas before testing."
+      },
+      {
+        "key": "D",
+        "text": "Beaker 2 is too cold for chemical reactions to occur."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A double salt is an equimolar molecular compound that exists only in solid crystalline form; in aqueous solution, it dissociates completely into its constituent simple hydrated ions, giving individual qualitative tests for each ion (Fe²⁺, NH₄⁺, SO₄²⁻). A complex salt contains coordination bonds that remain intact in water. In K₄[Fe(CN)₆], it ionises into 4K⁺ cations and the stable ferrocyanide complex anion [Fe(CN)₆]⁴⁻. The iron is coordinatively bound to six cyanide ligands and does not exist as free Fe²⁺, hence failing to precipitate as Fe(OH)₂.",
+    "concept_name": "Distinction Between Double Salts and Complex Salts",
+    "concept_tag": "acids, bases and salts case based distinction between double salts and complex salts",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5aebc64ee7cb7ba1e816758656c6f865850948259ac20d5464e602c1e0c2dfa2",
+    "question_skeleton": "case scenario a student dissolves equal molar quantities of two iron containing salts in water beaker 1 mohr s salt ferrous ammonium sulphate feso nh so 6h o beaker 2 potassium ferrocyanide k fe cn when sodium hydroxide solution is added to beaker 1 a dirty green precipitate of fe oh forms immediately when sodium hydroxide is added to beaker 2 no precipitate forms whatsoever investigative question why does mohr s salt give a positive test for iron ii ions while potassium ferrocyanide gives no test for iron ii ions choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_26_778655",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 26: Thermal Dehydration of Blue Vitriol ($CuSO₄· 5H_2O$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemistry demonstration heats brilliant blue crystals of Copper(II) sulphate pentahydrate (CuSO₄·5H₂O) in a hard glass test tube. At 100°C, droplets of water condense in the cooler parts of the tube, and the crystals turn into a pale bluish-white powder. Heating further to 250°C turns the powder completely snowy white (anhydrous CuSO₄). Finally, heating strongly to 750°C decomposes the white solid into a black powder with choking fumes of SO₂ and O₂. **Investigative Question:** What is the chemical composition of the black powder formed at 750°C, and what happens if a few drops of cold water are added to the anhydrous white powder at room temperature? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Black powder: Copper metal; adding water produces an explosion of hydrogen."
+      },
+      {
+        "key": "B",
+        "text": "Black powder: Copper(II) oxide (CuO); adding water to the white anhydrous powder immediately restores the brilliant blue color with the evolution of heat (exothermic rehydration)."
+      },
+      {
+        "key": "C",
+        "text": "Black powder: Carbon soot; adding water dissolves the carbon."
+      },
+      {
+        "key": "D",
+        "text": "Black powder: Copper sulphate decahydrate; adding water freezes the tube."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "CuSO₄·5H₂O loses water stepwise: at 100°C it loses 4 molecules to form CuSO₄·H₂O (monohydrate). At 250°C it loses the fifth, tightly hydrogen-bonded water molecule to yield pure anhydrous CuSO₄ (snowy white). At 750°C, anhydrous copper sulphate decomposes thermally: 2CuSO₄ → 2CuO (black copper(II) oxide) + 2SO₂↑ + O₂↑. If water is added to anhydrous white CuSO₄, it exothermically reabsorbs water to reconstitute the hydrated [Cu(H₂O)₄]²⁺ complex cation, turning brilliant blue.",
+    "concept_name": "Stepwise Loss of Water of Crystallization",
+    "concept_tag": "acids, bases and salts case based stepwise loss of water of crystallization",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8b8553411d022c0bf2b1df1ecad402d5135f9d5234b6aa47d464fc8739701cc5",
+    "question_skeleton": "case scenario a chemistry demonstration heats brilliant blue crystals of copper ii sulphate pentahydrate cuso 5h o in a hard glass test tube at 100 c droplets of water condense in the cooler parts of the tube and the crystals turn into a pale bluish white powder heating further to 250 c turns the powder completely snowy white anhydrous cuso finally heating strongly to 750 c decomposes the white solid into a black powder with choking fumes of so and o investigative question what is the chemical composition of the black powder formed at 750 c and what happens if a few drops of cold water are added to the anhydrous white powder at room temperature choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_27_1ae091",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 27: Olfactory Indicators: Onion and Vanilla in Acid vs Base",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A visually impaired student in a chemistry laboratory uses olfactory indicators to test two unlabelled clear solutions (Solution A and Solution B). Strips of clean cloth impregnated with fresh onion juice and vanilla essence are dipped into each solution. With Solution A, the pungent onion and sweet vanilla odors persist strongly. With Solution B, the odors completely disappear. **Investigative Question:** What is the chemical nature of Solution A and Solution B? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Solution A is neutral water; Solution B is pure alcohol."
+      },
+      {
+        "key": "B",
+        "text": "Solution A is an Acid (odors persist in acidic medium); Solution B is a Base / Alkali (alkalis chemically destroy the volatile organic compounds responsible for the characteristic smell)."
+      },
+      {
+        "key": "C",
+        "text": "Solution A is a strong alkali; Solution B is concentrated sulphuric acid."
+      },
+      {
+        "key": "D",
+        "text": "Both solutions are toxic organic poisons that destroy the sense of smell."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Olfactory indicators are substances whose smell changes depending on whether they are in an acidic or alkaline medium. Onion juice and vanilla essence contain organic compounds (e.g., allicin in onion, vanillin in vanilla) that possess characteristic odors in acidic or neutral solutions. In an alkaline medium (such as NaOH solution), the hydroxide ions (OH⁻) chemically react with and deprotonate or hydrolyse these volatile compounds, destroying their characteristic odors.",
+    "concept_name": "Loss of Characteristic Odor in Alkaline Medium",
+    "concept_tag": "acids, bases and salts case based loss of characteristic odor in alkaline medium",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3a8b1ffca9e6a23663cf104696367065a08e2f0545202164650a9b7093e83b2c",
+    "question_skeleton": "case scenario a visually impaired student in a chemistry laboratory uses olfactory indicators to test two unlabelled clear solutions solution a and solution b strips of clean cloth impregnated with fresh onion juice and vanilla essence are dipped into each solution with solution a the pungent onion and sweet vanilla odors persist strongly with solution b the odors completely disappear investigative question what is the chemical nature of solution a and solution b choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_28_529709",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 28: Antacids in Gastric Hyperacidity: Chemistry of Relief",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A patient complaining of severe heartburn and acid indigestion is examined at a clinic. The gastroenterologist explains that gastric parietal cells have oversecreted hydrochloric acid, causing stomach pH to drop from the normal 1.5–2.0 down to a corrosive 0.8. The doctor prescribes an antacid tablet containing Magnesium Hydroxide (Milk of Magnesia) and Aluminium Hydroxide. **Investigative Question:** Why are mild bases like Mg(OH)₂ and Al(OH)₃ used as antacids rather than strong bases like Sodium Hydroxide (NaOH)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium hydroxide is an acid that would worsen the heartburn."
+      },
+      {
+        "key": "B",
+        "text": "Mg(OH)₂ and Al(OH)₃ are sparingly soluble, mild bases that gently neutralize excess stomach acid without causing caustic chemical burns to the esophagus and stomach lining, unlike caustic strong alkalis like NaOH."
+      },
+      {
+        "key": "C",
+        "text": "Magnesium hydroxide dissolves all stomach proteins to aid digestion."
+      },
+      {
+        "key": "D",
+        "text": "Sodium hydroxide is a gas that would cause flatulence."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Gastric juice contains ~0.5% hydrochloric acid (pH 1.5–2.0) needed for pepsin activation. In hyperacidity, stomach acid damages the mucosal barrier. Strong alkalis like NaOH or KOH are highly caustic and corrosive (deliquescent), destroying esophageal tissues upon swallowing. Antacids utilize insoluble, mild basic hydroxides like Mg(OH)₂ (Milk of Magnesia) and Al(OH)₃: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O; Al(OH)₃ + 3HCl → AlCl₃ + 3H₂O. Being sparingly soluble, they act as buffers, neutralizing excess H⁺ without raising pH above neutrality.",
+    "concept_name": "Neutralization of Stomach $HCl$ by Mild Bases",
+    "concept_tag": "acids, bases and salts case based neutralization of stomach $hcl$ by mild bases",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "49f3ff4b44727aa42b8e865a94a9928e0f6e0efa87910266b1fb5504a4d3446d",
+    "question_skeleton": "case scenario a patient complaining of severe heartburn and acid indigestion is examined at a clinic the gastroenterologist explains that gastric parietal cells have oversecreted hydrochloric acid causing stomach ph to drop from the normal 1 5 2 0 down to a corrosive 0 8 the doctor prescribes an antacid tablet containing magnesium hydroxide milk of magnesia and aluminium hydroxide investigative question why are mild bases like mg oh and al oh used as antacids rather than strong bases like sodium hydroxide naoh choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_29_bcdeb9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 29: Action of Acids on Metal Bicarbonates vs Carbonates",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A lab technician compares the volume of Carbon Dioxide gas evolved when equal masses (1.00 g each) of anhydrous Sodium Carbonate (Na₂CO₃, molar mass 106 g/mol) and Sodium Bicarbonate (NaHCO₃, molar mass 84 g/mol) are treated with excess dilute hydrochloric acid at STP. **Investigative Question:** Which solid compound produces a greater volume of CO₂ gas per gram, and why? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both produce identical volumes because both contain sodium."
+      },
+      {
+        "key": "B",
+        "text": "Sodium bicarbonate produces a larger volume of CO₂ (~267 mL vs ~211 mL for Na₂CO₃) because 1 mole of NaHCO₃ (84 g) produces 1 mole of CO₂ (ratio 1:1), giving more moles of CO₂ per gram than Na₂CO₃ (106 g/mol)."
+      },
+      {
+        "key": "C",
+        "text": "Sodium carbonate produces twice the volume because it has two sodium atoms."
+      },
+      {
+        "key": "D",
+        "text": "Neither solid produces CO₂ gas with dilute hydrochloric acid."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The balanced equations are:\n1. Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂ (106 g of Na₂CO₃ yields 1 mol / 22.4 L of CO₂ → 22,400/106 = 211.3 mL CO₂ per gram).\n2. NaHCO₃ + HCl → NaCl + H₂O + CO₂ (84 g of NaHCO₃ yields 1 mol / 22.4 L of CO₂ → 22,400/84 = 266.7 mL CO₂ per gram).\nBecause NaHCO₃ has a lower molar mass per mole of carbonate radical, 1.00 g contains more moles of reactant, generating ~267 mL of CO₂ compared to only ~211 mL from 1.00 g of Na₂CO₃.",
+    "concept_name": "Stoichiometry of Effervescence and Gas Production",
+    "concept_tag": "acids, bases and salts case based stoichiometry of effervescence and gas production",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9f85795e81f91adac4dde7fd80a6a597b78facf2e818239de1768a4fad2a6eb0",
+    "question_skeleton": "case scenario a lab technician compares the volume of carbon dioxide gas evolved when equal masses 1 00 g each of anhydrous sodium carbonate na co molar mass 106 g mol and sodium bicarbonate nahco molar mass 84 g mol are treated with excess dilute hydrochloric acid at stp investigative question which solid compound produces a greater volume of co gas per gram and why choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_30_0973fc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 30: Acid-Base Buffer Action: Blood Homeostasis",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A medical biochemist monitors human blood plasma, noting that arterial blood pH is tightly regulated within the extremely narrow physiological window of 7.35 to 7.45. Even during intense muscular exercise when large amounts of lactic acid are dumped into the bloodstream, blood pH changes by less than 0.05 units. **Investigative Question:** What chemical buffer system in human blood prevents drastic pH fluctuations, and how does it neutralize incoming acidic hydronium ions? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrochloric acid and sodium hydroxide buffer system."
+      },
+      {
+        "key": "B",
+        "text": "The Carbonic acid / Bicarbonate buffer system (H₂CO₃ / HCO₃⁻); incoming H⁺ ions from lactic acid are captured by bicarbonate ions to form weak carbonic acid (HCO₃⁻ + H⁺ → H₂CO₃), which is rapidly exhaled by the lungs as CO₂ and water."
+      },
+      {
+        "key": "C",
+        "text": "Blood contains metallic sodium that reacts with lactic acid."
+      },
+      {
+        "key": "D",
+        "text": "Hemoglobin decomposes all acids into nitrogen gas."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Human blood is buffered primarily by the carbonic acid-bicarbonate conjugate pair: CO₂(aq) + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻. When excess acid (H⁺ from lactic acid) enters the circulation, the excess protons are consumed by the reservoir of bicarbonate anions: H⁺ + HCO₃⁻ → H₂CO₃. The resulting carbonic acid decomposes into CO₂ and H₂O, and the respiratory center in the brainstem increases ventilation rate to exhale the excess CO₂, keeping blood pH steady at 7.4.",
+    "concept_name": "Carbonic Acid-Bicarbonate Buffer Equilibrium",
+    "concept_tag": "acids, bases and salts case based carbonic acid-bicarbonate buffer equilibrium",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2c5b598346797ad8f66cb6e1a86070abfdd2097b9c4f36ac0a9d8906cf211d9b",
+    "question_skeleton": "case scenario a medical biochemist monitors human blood plasma noting that arterial blood ph is tightly regulated within the extremely narrow physiological window of 7 35 to 7 45 even during intense muscular exercise when large amounts of lactic acid are dumped into the bloodstream blood ph changes by less than 0 05 units investigative question what chemical buffer system in human blood prevents drastic ph fluctuations and how does it neutralize incoming acidic hydronium ions choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_31_56dd57",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 31: Universal Indicator and pH Color Spectrum",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A water quality inspector uses Universal Indicator solution to assess four water samples from different points along a river: Sample 1 (Industrial effluent): Dark Red (pH ≈ 2.0) Sample 2 (Agricultural runoff): Yellow-Orange (pH ≈ 5.0) Sample 3 (Pristine forest stream): Green (pH ≈ 7.0) Sample 4 (Detergent factory discharge): Violet-Purple (pH ≈ 11.0) **Investigative Question:** What is Universal Indicator, and why is it superior to simple litmus paper for water testing? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Universal indicator is a radioactive dye that measures water temperature."
+      },
+      {
+        "key": "B",
+        "text": "Universal indicator is a calibrated mixture of multiple organic dyes (thymol blue, methyl red, bromothymol blue, phenolphthalein) that displays a continuous spectrum of distinct colors corresponding to specific numerical pH values from 1 to 14, unlike litmus which only indicates whether a solution is broadly acidic or basic."
+      },
+      {
+        "key": "C",
+        "text": "Litmus paper dissolves completely in polluted river water."
+      },
+      {
+        "key": "D",
+        "text": "Universal indicator neutralizes all pollutants during testing."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Litmus paper only provides a binary qualitative indication: it turns red in any acid (whether pH 1 or 6) and blue in any alkali (whether pH 8 or 14). In contrast, Universal Indicator is a carefully proportioned blend of multiple pH-sensitive indicators (such as methyl red, bromothymol blue, thymol blue, phenolphthalein). Each dye changes color across a different pH interval, creating a continuous rainbow spectrum: red (pH 1-3), orange/yellow (pH 4-6), green (neutral pH 7), blue (pH 8-9), and violet/purple (pH 10-14).",
+    "concept_name": "Mixture of Dyes and Broad-Range pH Determination",
+    "concept_tag": "acids, bases and salts case based mixture of dyes and broad-range ph determination",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8749a38d84b6721e4704dd6256b5ec6d2b5d718b7dbbd440faa6d8e5381c02f3",
+    "question_skeleton": "case scenario a water quality inspector uses universal indicator solution to assess four water samples from different points along a river sample 1 industrial effluent dark red ph 2 0 sample 2 agricultural runoff yellow orange ph 5 0 sample 3 pristine forest stream green ph 7 0 sample 4 detergent factory discharge violet purple ph 11 0 investigative question what is universal indicator and why is it superior to simple litmus paper for water testing choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_32_fcab60",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 32: Action of Heat on Ammonium Salts: $NH_4Cl$ vs $NH_4NO₃$ vs $(NH₄)_2Cr_2O₇$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an advanced inorganic demonstration, a teacher heats three different ammonium salts in separate dry boiling tubes: Tube 1: Solid Ammonium Chloride (NH₄Cl) sublimes, forming a dense white ring on the cooler upper tube walls. Tube 2: Solid Ammonium Nitrate (NH₄NO₃) melts and decomposes gently into steam and laughing gas (N₂O), but explodes if heated above 250°C. Tube 3: Orange Ammonium Dichromate ((NH₄)₂Cr₂O₇) sparks and erupts in an exothermic 'chemical volcano', swelling into a fluffy dark-green powder with steam and N₂ gas. **Investigative Question:** What is the chemical identity of the fluffy dark-green powder formed in Tube 3, and what type of reaction occurs? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Copper(II) oxide formed by displacement."
+      },
+      {
+        "key": "B",
+        "text": "Chromium(III) oxide (Cr₂O₃); an internal redox decomposition where ammonium nitrogen is oxidised from -3 to 0 (N₂) while chromium is reduced from +6 to +3 (Cr₂O₃)."
+      },
+      {
+        "key": "C",
+        "text": "Iron(II) hydroxide formed by hydration."
+      },
+      {
+        "key": "D",
+        "text": "Lead chromate formed by sublimation."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ammonium dichromate decomposition is a classic 'chemical volcano' reaction: (NH₄)₂Cr₂O₇(s) → N₂(g) + 4H₂O(g) + Cr₂O₃(s). It is a violent intramolecular redox reaction: Nitrogen in the ammonium cation (NH₄⁺) is in the -3 oxidation state and is oxidised to elemental N₂ (0). Chromium in the dichromate anion (Cr₂O₇²⁻) is in the +6 oxidation state and is reduced to Chromium(III) oxide (Cr₂O₃, +3), which forms a voluminous, fluffy dark-green solid that resembles volcanic ash.",
+    "concept_name": "Sublimation vs Explosive Decomposition vs Chemical Volcano",
+    "concept_tag": "acids, bases and salts case based sublimation vs explosive decomposition vs chemical volcano",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2d6ada77cf0928f7c43b9f11fa027a05dbd705e97dcb4b76594b80c0f257620e",
+    "question_skeleton": "case scenario in an advanced inorganic demonstration a teacher heats three different ammonium salts in separate dry boiling tubes tube 1 solid ammonium chloride nh cl sublimes forming a dense white ring on the cooler upper tube walls tube 2 solid ammonium nitrate nh no melts and decomposes gently into steam and laughing gas n o but explodes if heated above 250 c tube 3 orange ammonium dichromate nh cr o sparks and erupts in an exothermic chemical volcano swelling into a fluffy dark green powder with steam and n gas investigative question what is the chemical identity of the fluffy dark green powder formed in tube 3 and what type of reaction occurs choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_33_263472",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 33: Why Acetic Acid is a Weak Acid Despite Having Four Hydrogens",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student examines the molecular formula of Acetic Acid (CH₃COOH). It contains four hydrogen atoms. However, in laboratory titrations with 1.0 M NaOH, exactly 1 mole of Acetic acid neutralizes only 1 mole of NaOH, proving it is strictly monobasic. **Investigative Question:** Why are the three hydrogen atoms in the methyl group (-CH₃) non-ionisable, while the single hydrogen in the carboxyl group (-COOH) is ionisable? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The three methyl hydrogens are heavier than the carboxyl hydrogen."
+      },
+      {
+        "key": "B",
+        "text": "The methyl hydrogens are bonded to carbon by non-polar covalent C–H bonds (ΔEN ≈ 0.4) that do not dissociate; the single acidic hydrogen is bonded to highly electronegative oxygen (-O–H), which is polar and dissociates into H⁺, stabilized by resonance in the acetate anion (CH₃COO⁻)."
+      },
+      {
+        "key": "C",
+        "text": "Acetic acid converts into methane gas in water."
+      },
+      {
+        "key": "D",
+        "text": "The three methyl hydrogens have a positive charge of +3."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In acetic acid (CH₃-C(=O)-O-H), the three hydrogen atoms attached to the methyl carbon atom participate in non-polar C-H single bonds; the carbon-hydrogen bond has very low polarity and carbon cannot stabilize a carbanion in water. In contrast, the hydrogen in the carboxyl group is bonded to an electronegative oxygen atom (-O-H). The adjacent carbonyl group (C=O) pulls electron density away, weakening the O-H bond. When the proton departs, the resulting acetate anion (CH₃COO⁻) is stabilized by resonance delocalisation of the negative charge across both oxygens.",
+    "concept_name": "Structure of the Carboxyl Group vs Methyl Group",
+    "concept_tag": "acids, bases and salts case based structure of the carboxyl group vs methyl group",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9fa9ab332803ebb46cad7acc531e6711170fecf3522529d48549ae34dd1b2970",
+    "question_skeleton": "case scenario a student examines the molecular formula of acetic acid ch cooh it contains four hydrogen atoms however in laboratory titrations with 1 0 m naoh exactly 1 mole of acetic acid neutralizes only 1 mole of naoh proving it is strictly monobasic investigative question why are the three hydrogen atoms in the methyl group ch non ionisable while the single hydrogen in the carboxyl group cooh is ionisable choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_34_fc28c3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 34: Preparation of Insoluble Salts by Precipitation (Double Decomposition)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical chemist needs to prepare pure, dry samples of two insoluble salts: Barium Sulphate (BaSO₄) and Lead(II) Iodide (PbI₂). The stockroom contains: Barium Carbonate, Barium Chloride, Sodium Sulphate, Lead Nitrate, and Potassium Iodide. **Investigative Question:** Which pairs of soluble aqueous solutions must be mixed to precipitate pure BaSO₄ and PbI₂, and how are the solid salts recovered? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mix Barium Carbonate with solid Lead Nitrate; heat until dry."
+      },
+      {
+        "key": "B",
+        "text": "Mix aqueous Barium Chloride with aqueous Sodium Sulphate (precipitates BaSO₄); mix aqueous Lead Nitrate with aqueous Potassium Iodide (precipitates PbI₂); filter, wash the residue with distilled water, and dry."
+      },
+      {
+        "key": "C",
+        "text": "Mix dry salts with concentrated sulphuric acid; collect the gas."
+      },
+      {
+        "key": "D",
+        "text": "Mix barium chloride with water; evaporate to dryness."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Insoluble salts are prepared by precipitation (double decomposition) by mixing two soluble salts. For Barium Sulphate: BaCl₂(aq) + Na₂SO₄(aq) → BaSO₄↓(white precipitate) + 2NaCl(aq). For Lead(II) Iodide: Pb(NO₃)₂(aq) + 2KI(aq) → PbI₂↓(yellow precipitate) + 2KNO₃(aq). The insoluble precipitate is separated by filtration using filter paper in a funnel. The residue on the filter paper is washed repeatedly with cold distilled water to remove spectator ions (Na⁺, Cl⁻, K⁺, NO₃⁻) and then dried in a desiccator or warm oven.",
+    "concept_name": "Solubility Rules for Barium Sulphate and Lead Iodide",
+    "concept_tag": "acids, bases and salts case based solubility rules for barium sulphate and lead iodide",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "45b672c13238cab2585daf896b7674965f126a32ee005e2e6e6b7f66e771df54",
+    "question_skeleton": "case scenario an analytical chemist needs to prepare pure dry samples of two insoluble salts barium sulphate baso and lead ii iodide pbi the stockroom contains barium carbonate barium chloride sodium sulphate lead nitrate and potassium iodide investigative question which pairs of soluble aqueous solutions must be mixed to precipitate pure baso and pbi and how are the solid salts recovered choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_35_84addc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 35: Action of Acids on Metal Oxides: Basic Nature of $CuO$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A black solid powder of Copper(II) oxide (CuO) is placed in a beaker containing warm dilute hydrochloric acid. The beaker is swirled gently. Over several minutes, the black powder dissolves completely, and the solution turns a magnificent blue-green color. A student tests the final solution and detects copper(II) ions and chloride ions. **Investigative Question:** What chemical reaction has occurred, and what does it demonstrate about the nature of Copper(II) oxide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Copper oxide is an acid that neutralizes hydrochloric acid to produce copper metal."
+      },
+      {
+        "key": "B",
+        "text": "Copper(II) oxide is a basic oxide that undergoes acid-base neutralization with hydrochloric acid to form soluble copper(II) chloride and water: CuO(s) + 2HCl(aq) → CuCl₂(aq) + H₂O(l)."
+      },
+      {
+        "key": "C",
+        "text": "Copper oxide dissolves by physical sublimation without chemical change."
+      },
+      {
+        "key": "D",
+        "text": "Hydrochloric acid decomposes into chlorine gas and copper soot."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Most metallic oxides are basic oxides. Copper(II) oxide (CuO) is an insoluble black basic oxide. When treated with dilute hydrochloric acid, it undergoes a classic neutralization reaction: CuO(black) + 2HCl(aq) → CuCl₂(aq) + H₂O(l). The black solid disappears, and the resulting solution acquires a characteristic blue-green color due to hydrated copper(II) chloride complexes ([Cu(H₂O)₆]²⁺). This reaction proves that metallic oxides react with acids to form salt and water, establishing their basic character.",
+    "concept_name": "Acid-Base Neutralization and Salt Coloration",
+    "concept_tag": "acids, bases and salts case based acid-base neutralization and salt coloration",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b525bb756863d4c7d82f1fefad55b2a28c6e94a9f9594fadbec1f1da21b522f3",
+    "question_skeleton": "case scenario a black solid powder of copper ii oxide cuo is placed in a beaker containing warm dilute hydrochloric acid the beaker is swirled gently over several minutes the black powder dissolves completely and the solution turns a magnificent blue green color a student tests the final solution and detects copper ii ions and chloride ions investigative question what chemical reaction has occurred and what does it demonstrate about the nature of copper ii oxide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_36_0a64e1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 36: Preparation of Ferrous Chloride vs Ferric Chloride",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An industrial chemist wants to prepare Iron(II) chloride (FeCl₂) and Iron(III) chloride (FeCl₃). The chemist knows that reacting iron metal with hydrochloric acid yields only FeCl₂, not FeCl₃. To prepare anhydrous FeCl₃, the chemist passes dry chlorine gas over heated iron wire in a combustion tube. **Investigative Question:** Why does the reaction of iron with hydrochloric acid yield Iron(II) chloride (FeCl₂), whereas reaction with dry chlorine gas yields Iron(III) chloride (FeCl₃)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrochloric acid contains less chlorine than chlorine gas."
+      },
+      {
+        "key": "B",
+        "text": "In the reaction with HCl, hydrogen gas is liberated, which acts as a reducing agent and prevents iron(II) from being oxidised to iron(III): Fe + 2HCl → FeCl₂ + H₂↑; in contrast, Chlorine gas is a powerful oxidising agent that oxidises iron directly to the +3 state: 2Fe + 3Cl₂ → 2FeCl₃."
+      },
+      {
+        "key": "C",
+        "text": "Iron(III) chloride is an unstable gas that explodes in acid."
+      },
+      {
+        "key": "D",
+        "text": "Iron metal refuses to react with chlorine gas."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When iron reacts with hydrochloric acid: Fe + 2HCl → FeCl₂ + H₂↑. The evolving hydrogen gas maintains a reducing environment that prevents Fe²⁺ from oxidising to Fe³⁺. Even if traces of Fe³⁺ were formed, nascent H₂ would reduce it back to Fe²⁺. To prepare Iron(III) chloride, dry elemental chlorine gas (a powerful oxidising agent) is passed directly over heated iron: 2Fe(s) + 3Cl₂(g) → 2FeCl₃(s). Because chlorine is a strong oxidizer and no reducing hydrogen is present, iron is fully oxidised to the +3 ferric state.",
+    "concept_name": "Acid Displacement vs Direct Combination Synthesis",
+    "concept_tag": "acids, bases and salts case based acid displacement vs direct combination synthesis",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ec82990079ef422ae897fa4e068ead06232e72e37a48d54d237abd95910448c2",
+    "question_skeleton": "case scenario an industrial chemist wants to prepare iron ii chloride fecl and iron iii chloride fecl the chemist knows that reacting iron metal with hydrochloric acid yields only fecl not fecl to prepare anhydrous fecl the chemist passes dry chlorine gas over heated iron wire in a combustion tube investigative question why does the reaction of iron with hydrochloric acid yield iron ii chloride fecl whereas reaction with dry chlorine gas yields iron iii chloride fecl choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_37_6f7d62",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 37: Basic Salt Formation: Basic Copper Carbonate (Malachite)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Green mineral malachite, found on weathered copper roofs and antique bronze statues, is chemically known as Basic Copper Carbonate with the formula CuCO₃·Cu(OH)₂. When treated with dilute sulphuric acid, it dissolves with effervescence, producing a bright blue solution of Copper(II) sulphate. **Investigative Question:** How is a 'basic salt' formed, and what structural feature defines it? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A basic salt is formed by the complete neutralization of a weak acid by a strong base."
+      },
+      {
+        "key": "B",
+        "text": "A basic salt is formed by the partial or incomplete replacement of the hydroxyl (OH⁻) groups of a diacidic or triacidic base by an acid radical; it still contains un-neutralized hydroxide groups in its chemical formula."
+      },
+      {
+        "key": "C",
+        "text": "A basic salt contains sodium hydroxide mixed with table salt."
+      },
+      {
+        "key": "D",
+        "text": "A basic salt is an organic compound that does not contain metal cations."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A basic salt is defined as a salt formed by the partial replacement of the replaceable hydroxide ions of a polyacidic base (such as Cu(OH)₂, Pb(OH)₂, or Bi(OH)₃) by an acid radical. Because neutralization is incomplete, the resulting salt retains one or more basic hydroxyl (OH⁻) groups attached to the metal cation. Examples include basic copper carbonate [CuCO₃·Cu(OH)₂], basic copper chloride [Cu(OH)Cl], and basic lead carbonate [2PbCO₃·Pb(OH)₂].",
+    "concept_name": "Incomplete Neutralization of Polyacidic Bases",
+    "concept_tag": "acids, bases and salts case based incomplete neutralization of polyacidic bases",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9af10e897d0ab65c4926d047d1a7586e2895b585d02aa1651f82433de4c61944",
+    "question_skeleton": "case scenario green mineral malachite found on weathered copper roofs and antique bronze statues is chemically known as basic copper carbonate with the formula cuco cu oh when treated with dilute sulphuric acid it dissolves with effervescence producing a bright blue solution of copper ii sulphate investigative question how is a basic salt formed and what structural feature defines it choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_38_943657",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 38: pH of Mixed Salt: Bleaching Powder ($CaOCl₂$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an industrial sanitization facility, Bleaching Powder (CaOCl₂) is dissolved in distilled water. The aqueous solution turns red litmus paper blue (alkaline), but within a few seconds, the blue litmus is completely bleached snowy white. **Investigative Question:** Why is Bleaching Powder classified as a 'Mixed Salt', and what explains its simultaneous alkaline and bleaching action? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It contains two different metals mixed together."
+      },
+      {
+        "key": "B",
+        "text": "Bleaching powder is a mixed salt containing two different acid anions (Chloride Cl⁻ and Hypochlorite OCl⁻) attached to the same calcium cation (Ca(OCl)Cl); in water it hydrolyses to form basic Ca(OH)₂ (alkaline) and liberates nascent oxygen from OCl⁻ (bleaching)."
+      },
+      {
+        "key": "C",
+        "text": "Bleaching powder is a simple covalent compound that dissolves water molecules."
+      },
+      {
+        "key": "D",
+        "text": "Calcium hypochlorite contains radioactive chlorine."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A mixed salt is defined as a salt that contains more than one basic or acid radical (anions or cations). Bleaching powder is represented chemically as Ca(OCl)Cl, where the divalent calcium cation (Ca²⁺) is bonded simultaneously to two different anions: a chloride ion (Cl⁻, derived from HCl) and a hypochlorite ion (OCl⁻, derived from HOCl). In aqueous solution: (1) Hydrolysis of the salt of a weak acid (HOCl) releases OH⁻ ions, turning red litmus blue; (2) The hypochlorite ion decomposes to release nascent oxygen: OCl⁻ → Cl⁻ + [O], which chemically bleaches the colored litmus dye to white.",
+    "concept_name": "Mixed Acid Anions in Calcium Hypochlorite",
+    "concept_tag": "acids, bases and salts case based mixed acid anions in calcium hypochlorite",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a0ca0181c24ab9ef833f293062e72ed0ea23d91e195f79459ba1dc2bf24fc513",
+    "question_skeleton": "case scenario in an industrial sanitization facility bleaching powder caocl is dissolved in distilled water the aqueous solution turns red litmus paper blue alkaline but within a few seconds the blue litmus is completely bleached snowy white investigative question why is bleaching powder classified as a mixed salt and what explains its simultaneous alkaline and bleaching action choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_39_981e00",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 39: Acid Salt Thermal Decomposition: $NaHCO₃$ in Baking",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In culinary chemistry, Sodium Bicarbonate (baking soda, NaHCO₃) is used as a chemical leavening agent in cake baking. When placed in an oven heated to 180°C, the batter rises dramatically, becoming light, fluffy, and spongy with thousands of tiny internal air pockets. **Investigative Question:** What thermal decomposition reaction occurs in baking soda that causes cake batter to expand and rise? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium bicarbonate melts into a liquid that boils."
+      },
+      {
+        "key": "B",
+        "text": "Sodium bicarbonate decomposes thermally into solid sodium carbonate, steam, and carbon dioxide gas: 2NaHCO₃(s) → Na₂CO₃(s) + H₂O(g) + CO₂(g)↑; the expanding CO₂ gas bubbles stretch the gluten matrix."
+      },
+      {
+        "key": "C",
+        "text": "Baking soda reacts with oxygen to form flammable hydrogen gas."
+      },
+      {
+        "key": "D",
+        "text": "Baking soda sublimes directly into gaseous sodium."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Acid salts of volatile acids (such as bicarbonates and bisulphites) decompose upon heating into their corresponding normal salts while releasing gas. For baking soda: 2NaHCO₃(s) → Na₂CO₃(s) + H₂O(g) + CO₂(g)↑. At oven temperatures (>100°C), both carbon dioxide and steam are liberated as hot expanding gases. These trapped gas bubbles expand within the viscous dough, creating an open porous structure that solidifies as the cake bakes, giving it a soft, spongy texture.",
+    "concept_name": "Decomposition to Normal Salt, Water, and $CO_2$",
+    "concept_tag": "acids, bases and salts case based decomposition to normal salt, water, and $co_2$",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "94fba4b4be24eb7838d357b303e57c2651bc2b660c9808204abe5659fe4b2cb8",
+    "question_skeleton": "case scenario in culinary chemistry sodium bicarbonate baking soda nahco is used as a chemical leavening agent in cake baking when placed in an oven heated to 180 c the batter rises dramatically becoming light fluffy and spongy with thousands of tiny internal air pockets investigative question what thermal decomposition reaction occurs in baking soda that causes cake batter to expand and rise choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_40_78aa36",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 40: Double Salt Formation: Potash Alum and Mohr's Salt",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physical chemist prepares Potash Alum (K₂SO₄·Al₂(SO₄)₃·24H₂O) by dissolving equimolar quantities of pure Potassium sulphate and pure Aluminium sulphate in hot dilute sulphuric acid, followed by slow cooling. Octahedral crystals separate out cleanly. **Investigative Question:** Why is Potash Alum classified as a 'Double Salt', and how does its behavior in aqueous solution differ from that of a complex salt? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It contains two separate covalent bonds."
+      },
+      {
+        "key": "B",
+        "text": "It is formed by the equimolar combination of two simple salts (K₂SO₄ and Al₂(SO₄)₃) and exists as a unified crystal lattice only in the solid state; when dissolved in water, it completely dissociates into simple independent hydrated ions (K⁺, Al³⁺, SO₄²⁻), giving qualitative tests for each ion."
+      },
+      {
+        "key": "C",
+        "text": "Potash alum does not dissolve in water."
+      },
+      {
+        "key": "D",
+        "text": "Double salts contain transition metals that emit radioactivity."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A double salt is a stoichiometric addition compound of two simple salts that crystallizes as a unique crystal lattice containing water of crystallization. However, double salts are held together by ionic and hydrogen bonds that completely dissociate in polar aqueous media: K₂SO₄·Al₂(SO₄)₃·24H₂O(s) → 2K⁺(aq) + 2Al³⁺(aq) + 4SO₄²⁻(aq) + 24H₂O. The solution exhibits all individual chemical properties of K⁺, Al³⁺, and SO₄²⁻ ions, unlike a complex salt where the central metal ion is locked in a non-dissociating coordination complex.",
+    "concept_name": "Equimolar Crystallization from Mixed Salt Solutions",
+    "concept_tag": "acids, bases and salts case based equimolar crystallization from mixed salt solutions",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f7997f2fe67f3a6dad188da31fb4c3984832528435bf24e4ff371a1ab4bd8edd",
+    "question_skeleton": "case scenario a physical chemist prepares potash alum k so al so 24h o by dissolving equimolar quantities of pure potassium sulphate and pure aluminium sulphate in hot dilute sulphuric acid followed by slow cooling octahedral crystals separate out cleanly investigative question why is potash alum classified as a double salt and how does its behavior in aqueous solution differ from that of a complex salt choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_41_13720c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 41: Electrical Conductivity: Dilute $HCl$ vs Glacial Acetic Acid",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A teacher sets up a conductivity cell containing a light bulb connected to two electrodes. When immersed in 0.1 M Hydrochloric acid, the bulb glows with blinding brightness. When immersed in pure glacial acetic acid (100% CH₃COOH), the bulb does not glow at all. When distilled water is added to the glacial acetic acid, the bulb begins to glow dimly. **Investigative Question:** What fundamental electrolyte principle accounts for these electrical conductivity differences? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrochloric acid contains metal wires that conduct current."
+      },
+      {
+        "key": "B",
+        "text": "Glacial acetic acid is composed of un-ionised covalent molecules (no free ions); adding water facilitates partial ionisation (weak electrolyte, producing few ions and dim glow); HCl is a strong acid that undergoes 100% ionisation in water, producing a high concentration of mobile ions (bright glow)."
+      },
+      {
+        "key": "C",
+        "text": "Water removes all electrical resistance from glass."
+      },
+      {
+        "key": "D",
+        "text": "Acetic acid is a non-metal gas that freezes into a plastic."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electrical conduction in liquid media requires mobile ions. Pure glacial acetic acid is an anhydrous covalent liquid held by hydrogen bonds; with zero water present, no ionisation occurs, and it is a non-electrolyte (bulb stays dark). When water is added, the high dielectric constant of water induces partial ionisation: CH₃COOH + H₂O ⇌ H₃O⁺ + CH₃COO⁻. Because acetic acid is a weak acid (degree of dissociation α ≈ 1.3%), only a small concentration of ions is formed, giving dim conduction. In contrast, HCl is a strong electrolyte that dissociates completely (α ≈ 100%), providing a massive pool of ions that conducts electricity vigorously.",
+    "concept_name": "Degree of Ionisation in Aqueous Electrolytes",
+    "concept_tag": "acids, bases and salts case based degree of ionisation in aqueous electrolytes",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e351a60d3eedd9be1ea0f6d378f175a996c0a41013a08bf327d45af7b78c4ab8",
+    "question_skeleton": "case scenario a teacher sets up a conductivity cell containing a light bulb connected to two electrodes when immersed in 0 1 m hydrochloric acid the bulb glows with blinding brightness when immersed in pure glacial acetic acid 100 ch cooh the bulb does not glow at all when distilled water is added to the glacial acetic acid the bulb begins to glow dimly investigative question what fundamental electrolyte principle accounts for these electrical conductivity differences choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_42_f71939",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 42: Action of Acids on Metal Hydroxides: Color Changes with $Fe(OH)₃$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A reddish-brown gelatinous precipitate of Iron(III) hydroxide (Fe(OH)₃) is suspended in a test tube. Dilute hydrochloric acid is added dropwise with shaking. The reddish-brown precipitate dissolves completely, transforming into a clear, golden-yellow solution. **Investigative Question:** What is the chemical reaction occurring in the test tube, and what does it prove regarding Iron(III) hydroxide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Iron(III) hydroxide is an amphoteric oxide that oxidises hydrochloric acid."
+      },
+      {
+        "key": "B",
+        "text": "Fe(OH)₃ is an insoluble basic hydroxide that neutralizes hydrochloric acid to produce soluble Iron(III) chloride and water: Fe(OH)₃(s) + 3HCl(aq) → FeCl₃(aq) + 3H₂O(l)."
+      },
+      {
+        "key": "C",
+        "text": "Hydrochloric acid bleaches the reddish-brown color to white."
+      },
+      {
+        "key": "D",
+        "text": "Iron decomposes into chlorine gas and steam."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Metallic hydroxides are basic substances. Iron(III) hydroxide, Fe(OH)₃, is an insoluble, reddish-brown basic hydroxide. When treated with dilute hydrochloric acid, an acid-base neutralization reaction occurs: Fe(OH)₃(s) + 3HCl(aq) → FeCl₃(aq) + 3H₂O(l). The insoluble gelatinous solid dissolves to yield hydrated iron(III) chloride (FeCl₃), which imparts a characteristic clear golden-yellow/amber color to the solution.",
+    "concept_name": "Neutralization of Insoluble Basic Hydroxide",
+    "concept_tag": "acids, bases and salts case based neutralization of insoluble basic hydroxide",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2d0504efb9b9596274df710cd3801afb722033d0cc483eb8de29c01b9ff5f4a1",
+    "question_skeleton": "case scenario a reddish brown gelatinous precipitate of iron iii hydroxide fe oh is suspended in a test tube dilute hydrochloric acid is added dropwise with shaking the reddish brown precipitate dissolves completely transforming into a clear golden yellow solution investigative question what is the chemical reaction occurring in the test tube and what does it prove regarding iron iii hydroxide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_43_a2d29e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 43: Solubility Rules for Common Salts",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student memorizes the fundamental ICSE solubility rules for common inorganic salts: Rule 1: All salts of Sodium, Potassium, and Ammonium are soluble. Rule 2: All Nitrates and Acetates are soluble. Rule 3: Most Chlorides are soluble EXCEPT Silver (AgCl) and Lead (PbCl₂). Rule 4: Most Sulphates are soluble EXCEPT Barium (BaSO₄), Lead (PbSO₄), and Calcium (CaSO₄). Rule 5: Most Carbonates, Hydroxides, and Sulphides are INSOLUBLE. **Investigative Question:** Based on these rules, which of the following combinations of aqueous solutions will produce an insoluble precipitate upon mixing? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Potassium nitrate mixed with Sodium chloride."
+      },
+      {
+        "key": "B",
+        "text": "Barium chloride mixed with Sodium sulphate (precipitates BaSO₄)."
+      },
+      {
+        "key": "C",
+        "text": "Ammonium chloride mixed with Potassium nitrate."
+      },
+      {
+        "key": "D",
+        "text": "Sodium carbonate mixed with Potassium hydroxide."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Applying solubility rules: In option B, mixing BaCl₂(aq) with Na₂SO₄(aq) produces the ion pairs (Ba²⁺ + SO₄²⁻) and (Na⁺ + Cl⁻). By Rule 4, Barium Sulphate (BaSO₄) is insoluble in water and precipitates immediately as a dense white solid: Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄↓. In all other options, all possible cation-anion combinations form soluble salts according to Rules 1, 2, and 3, resulting in zero precipitate formation.",
+    "concept_name": "Predicting Precipitates in Double Displacement",
+    "concept_tag": "acids, bases and salts case based predicting precipitates in double displacement",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f6974866eb411829468cf5eaa49bf9b3d226de51d6966043a7bef47b43bf61eb",
+    "question_skeleton": "case scenario a student memorizes the fundamental icse solubility rules for common inorganic salts rule 1 all salts of sodium potassium and ammonium are soluble rule 2 all nitrates and acetates are soluble rule 3 most chlorides are soluble except silver agcl and lead pbcl rule 4 most sulphates are soluble except barium baso lead pbso and calcium caso rule 5 most carbonates hydroxides and sulphides are insoluble investigative question based on these rules which of the following combinations of aqueous solutions will produce an insoluble precipitate upon mixing choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_44_a582b5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 44: Why Carbonic Acid ($H_2CO₃$) is a Weak Acid",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a carbonated soda bottling plant, pressurized CO₂ gas is dissolved in water to form Carbonic acid (H₂CO₃). A chemist measures the pH of freshly opened soda water, finding it to be moderately acidic (pH ≈ 4.0). Despite being an inorganic mineral acid, humans safely consume carbonated water without chemical damage to internal tissues. **Investigative Question:** Why is Carbonic acid classified as a weak acid, unlike other mineral acids like Sulphuric acid or Nitric acid? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Carbonic acid contains no hydrogen ions."
+      },
+      {
+        "key": "B",
+        "text": "Carbonic acid exists in a dynamic equilibrium with dissolved carbon dioxide (CO₂ + H₂O ⇌ H₂CO₃) and has a very small first dissociation constant (Ka₁ = 4.3 × 10⁻⁷), meaning less than 1% of the molecules dissociate into hydronium ions in water."
+      },
+      {
+        "key": "C",
+        "text": "Carbonic acid is a strong base that neutralizes stomach acid."
+      },
+      {
+        "key": "D",
+        "text": "Carbonic acid turns into solid diamond at room temperature."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Mineral acids like HCl, HNO₃, and H₂SO₄ are strong electrolytes that dissociate essentially 100% in water (Ka > 10³). In contrast, Carbonic acid is a weak diprotic acid. In aqueous solution, most dissolved CO₂ remains as loosely hydrated CO₂ molecules rather than H₂CO₃. Furthermore, the dissociation of H₂CO₃ into H⁺ and HCO₃⁻ is very weak (Ka₁ ≈ 4.3 × 10⁻⁷). Because the concentration of free H₃O⁺ is extremely low (pH ~4.0), it is non-corrosive and safe for human ingestion.",
+    "concept_name": "Low Dissociation Constant and Carbon Dioxide Equilibrium",
+    "concept_tag": "acids, bases and salts case based low dissociation constant and carbon dioxide equilibrium",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3fbd19f844a08842542ac560891de18b7aec7236de0eeb9b0853b66c41b8a4a1",
+    "question_skeleton": "case scenario in a carbonated soda bottling plant pressurized co gas is dissolved in water to form carbonic acid h co a chemist measures the ph of freshly opened soda water finding it to be moderately acidic ph 4 0 despite being an inorganic mineral acid humans safely consume carbonated water without chemical damage to internal tissues investigative question why is carbonic acid classified as a weak acid unlike other mineral acids like sulphuric acid or nitric acid choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_45_372c07",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 45: Hydrolysis of Aluminium Chloride: Acidic Fumes in Moist Air",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical technician opens a bottle of anhydrous Aluminium Chloride (AlCl₃) crystals in a humid laboratory. Dense white, choking fumes immediately billow out from the neck of the bottle, and the moist neck of the bottle tests strongly acidic with blue litmus paper. **Investigative Question:** Why does solid anhydrous Aluminium Chloride fume in moist air and produce an acidic solution? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Aluminium reacts with oxygen to form chlorine gas."
+      },
+      {
+        "key": "B",
+        "text": "Al³⁺ is a small, highly charged cation with immense polarizing power; when it encounters atmospheric moisture, it undergoes vigorous cationic hydrolysis, stripping OH⁻ from water molecules to form aluminium hydroxide and liberating gaseous, choking hydrogen chloride (HCl) fumes."
+      },
+      {
+        "key": "C",
+        "text": "AlCl₃ sublimes directly into white nitrogen gas."
+      },
+      {
+        "key": "D",
+        "text": "Aluminium chloride is a radioactive substance that ionises air molecules."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Al³⁺ has a very high charge density (charge +3, radius 53 pm). In contact with water or humid air, Al³⁺ strongly polarizes the coordinated water dipoles, pulling electron density away from the O-H bonds until protons are expelled: [Al(H₂O)₆]³⁺ + H₂O ⇌ [Al(H₂O)₅(OH)]²⁺ + H₃O⁺. In solid anhydrous AlCl₃ exposed to moist air, the reaction proceeds vigorously to release gaseous HCl: AlCl₃ + 3H₂O → Al(OH)₃(s) + 3HCl(g)↑. The escaping HCl gas combines with atmospheric moisture to form tiny droplets of hydrochloric acid, appearing as dense white fumes.",
+    "concept_name": "Cationic Hydrolysis and $HCl$ Vapor Liberation",
+    "concept_tag": "acids, bases and salts case based cationic hydrolysis and $hcl$ vapor liberation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ff6b05efb0589e04bdeaae39a3db4101c29c81cbec6d7857bb4d0177ff73d15e",
+    "question_skeleton": "case scenario a chemical technician opens a bottle of anhydrous aluminium chloride alcl crystals in a humid laboratory dense white choking fumes immediately billow out from the neck of the bottle and the moist neck of the bottle tests strongly acidic with blue litmus paper investigative question why does solid anhydrous aluminium chloride fume in moist air and produce an acidic solution choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_46_9ffee9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 46: Thermal Decomposition of Carbonates: $Na_2CO₃$ vs $CaCO₃$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A geologist heats two white carbonate powders in an electric crucible furnace to 850°C: Crucible 1: Calcium Carbonate (CaCO₃) decomposes completely, releasing carbon dioxide gas and leaving white Calcium Oxide (CaO) powder. Crucible 2: Sodium Carbonate (Na₂CO₃) melts into a clear liquid at 851°C without releasing ANY carbon dioxide gas, remaining completely stable up to 1000°C. **Investigative Question:** Why is Sodium Carbonate thermally stable to red heat, whereas Calcium Carbonate decomposes easily at 850°C? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Calcium carbonate is an organic compound that burns in air."
+      },
+      {
+        "key": "B",
+        "text": "Na⁺ is a large univalent cation with low charge density that cannot polarize the carbonate anion; Ca²⁺ has a smaller radius and double the charge (+2), exerting powerful polarizing power that distorts the carbonate ion and promotes cleavage into stable CaO lattice and CO₂."
+      },
+      {
+        "key": "C",
+        "text": "Sodium carbonate has a higher molecular weight than calcium carbonate."
+      },
+      {
+        "key": "D",
+        "text": "Calcium metal attracts carbon dioxide gas from the atmosphere."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Thermal stability of metal carbonates depends on the polarizing power (charge/radius) of the metal cation. Na⁺ has a +1 charge and radius of 102 pm, giving it very low polarizing power; it cannot distort the carbonate (CO₃²⁻) oxyanion, making Group 1 carbonates (except Li₂CO₃) thermally stable up to their boiling points. Ca²⁺ is divalent (+2) with a smaller radius (100 pm). Its high polarizing power strongly pulls the electron cloud of an oxygen atom in CO₃²⁻ toward itself, weakening the C-O bond and facilitating decomposition into CaO and CO₂ at 850°C.",
+    "concept_name": "Thermal Stability of Alkali Metal vs Alkaline Earth Carbonates",
+    "concept_tag": "acids, bases and salts case based thermal stability of alkali metal vs alkaline earth carbonates",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3539e0f725cc6d7278c50f35b7cf6b72abf04238a822b73cfda77edf6fb74b5a",
+    "question_skeleton": "case scenario a geologist heats two white carbonate powders in an electric crucible furnace to 850 c crucible 1 calcium carbonate caco decomposes completely releasing carbon dioxide gas and leaving white calcium oxide cao powder crucible 2 sodium carbonate na co melts into a clear liquid at 851 c without releasing any carbon dioxide gas remaining completely stable up to 1000 c investigative question why is sodium carbonate thermally stable to red heat whereas calcium carbonate decomposes easily at 850 c choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_47_70e036",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 47: pH Change During Strong Acid - Strong Base Titration",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical chemist titrates 25.0 mL of 0.1 M HCl against 0.1 M NaOH using a digital pH meter. As NaOH is added dropwise, the pH rises very slowly from 1.0 to 3.0 over the first 24.0 mL. However, between 24.9 mL and 25.1 mL, a dramatic vertical surge occurs: the pH skyrockets from 4.0 to 10.0 within just two drops (0.1 mL). **Investigative Question:** Why does the pH change so slowly initially and then jump by 6 pH units within a fraction of a milliliter near the equivalence point? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The burette valve leaks sodium hydroxide at the end."
+      },
+      {
+        "key": "B",
+        "text": "pH is a logarithmic function of hydronium ion concentration (pH = -log[H⁺]); a drop from 0.1 M to 0.01 M [H⁺] changes pH by only 1 unit, but near equivalence, the remaining tiny trace of H⁺ (10⁻⁵ M) is neutralized by a micro-excess of OH⁻ (10⁻⁵ M), causing a massive 10⁶-fold change in [H⁺]."
+      },
+      {
+        "key": "C",
+        "text": "The hydrochloric acid boils away near the end of titration."
+      },
+      {
+        "key": "D",
+        "text": "The indicator reacts with the glass beaker to produce alkali."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Because pH is logarithmic (pH = -log₁₀[H⁺]), neutralizing 90% of the acid (from 0.1 M to 0.01 M) changes pH from 1 to 2 (only 1 unit). Neutralizing 99% brings pH to 3. At 24.9 mL, [H⁺] is ~10⁻⁴ M (pH 4). At 25.0 mL, complete neutralization occurs ([H⁺] = 10⁻⁷ M, pH 7). Just one extra drop (0.05 mL) of 0.1 M NaOH introduces excess OH⁻ (~10⁻⁴ M), driving pOH to 4 and pH to 10. This creates the steep vertical inflection jump characteristic of strong acid-strong base titration curves.",
+    "concept_name": "Sigmoidal Titration Curve and Equivalence Jump",
+    "concept_tag": "acids, bases and salts case based sigmoidal titration curve and equivalence jump",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0e4ae2ec0f47513f2edcc100ac896ced07fba40058df6a814fd5477150fb25d5",
+    "question_skeleton": "case scenario an analytical chemist titrates 25 0 ml of 0 1 m hcl against 0 1 m naoh using a digital ph meter as naoh is added dropwise the ph rises very slowly from 1 0 to 3 0 over the first 24 0 ml however between 24 9 ml and 25 1 ml a dramatic vertical surge occurs the ph skyrockets from 4 0 to 10 0 within just two drops 0 1 ml investigative question why does the ph change so slowly initially and then jump by 6 ph units within a fraction of a milliliter near the equivalence point choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_48_babb9a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 48: Why Pure Anhydrous $HNO₃$ is Colorless but Turns Yellow on Storage",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical warehouse receives a shipment of pure, freshly distilled concentrated nitric acid (HNO₃), which is completely colorless and transparent. After sitting on a sunny shelf in clear glass reagent bottles for two months, the liquid has acquired an intense brownish-yellow color. **Investigative Question:** What chemical reaction causes concentrated nitric acid to turn yellow on exposure to light or heat? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nitric acid oxidises the glass bottle to form yellow silicon."
+      },
+      {
+        "key": "B",
+        "text": "Concentrated nitric acid undergoes photochemical decomposition in sunlight or warmth, decomposing into reddish-brown Nitrogen Dioxide (NO₂) gas, which dissolves in the remaining acid to impart a yellow color: 4HNO₃ → 4NO₂ + 2H₂O + O₂."
+      },
+      {
+        "key": "C",
+        "text": "Nitric acid absorbs yellow sulphur dust from the air."
+      },
+      {
+        "key": "D",
+        "text": "The acid decomposes into yellow liquid gold."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Pure nitric acid is inherently colorless. However, concentrated HNO₃ is thermally and photochemically unstable. When exposed to sunlight or ambient heat in clear bottles, it slowly undergoes photochemical decomposition: 4HNO₃(l) xrightarrow{hν / Δ} 4NO₂(g) + 2H₂O(l) + O₂(g). The reddish-brown nitrogen dioxide gas (NO₂) produced dissolves in the concentrated acid, imparting a distinct yellow or yellowish-brown tint. To prevent this autodecomposition, concentrated nitric acid is always stored in amber-colored or dark brown reagent bottles.",
+    "concept_name": "Photochemical Autodecomposition and $NO_2$ Dissolution",
+    "concept_tag": "acids, bases and salts case based photochemical autodecomposition and $no_2$ dissolution",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2d1c3339a466bd2e092c034b5e423cf678a220542b62edfa2d0b72fc909a9e98",
+    "question_skeleton": "case scenario a chemical warehouse receives a shipment of pure freshly distilled concentrated nitric acid hno which is completely colorless and transparent after sitting on a sunny shelf in clear glass reagent bottles for two months the liquid has acquired an intense brownish yellow color investigative question what chemical reaction causes concentrated nitric acid to turn yellow on exposure to light or heat choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_49_2d945e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 49: Action of Acid on Metal Bicarbonate vs Insoluble Carbonate",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a school science exhibition, a student adds equal volumes of 1 M HCl to two beakers: Beaker A receives 5 g of powdered Sodium Bicarbonate (NaHCO₃). Beaker B receives a 5 g solid lump of Marble (CaCO₃). In Beaker A, a colossal geyser of foam erupts violently within 1 second. In Beaker B, gentle bubbling occurs slowly over 15 minutes. **Investigative Question:** What two factors explain why sodium bicarbonate reacts almost instantaneously compared to the slow reaction of the marble lump? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium bicarbonate is an explosive while marble is non-reactive."
+      },
+      {
+        "key": "B",
+        "text": "NaHCO₃ is highly soluble in water and finely powdered (massive surface area and instant molecular contact with acid); the marble lump is completely insoluble with a tiny geometric surface area, restricting reaction to outer crystal faces."
+      },
+      {
+        "key": "C",
+        "text": "Marble contains no carbonate ions."
+      },
+      {
+        "key": "D",
+        "text": "Hydrochloric acid is neutralized immediately by the beaker glass."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The rate of a heterogeneous chemical reaction depends directly on: (1) Solubility of reactants: NaHCO₃ dissolves instantly in water, dispersing into free Na⁺ and HCO₃⁻ ions in homogenous contact with hydronium ions, triggering instantaneous neutralization: H⁺ + HCO₃⁻ → H₂O + CO₂↑. (2) Surface area: A fine powder provides an enormous surface area for collisions, whereas a solid crystalline lump of insoluble marble (CaCO₃) has a tiny surface-area-to-volume ratio, severely limiting the number of active collision sites available to attacking acid molecules.",
+    "concept_name": "Effervescence Rate and Surface Area Dynamics",
+    "concept_tag": "acids, bases and salts case based effervescence rate and surface area dynamics",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ac8851d3d7817ae87ae27977aed7725c64ca95dee5b89d01b8eb18f453da47b6",
+    "question_skeleton": "case scenario in a school science exhibition a student adds equal volumes of 1 m hcl to two beakers beaker a receives 5 g of powdered sodium bicarbonate nahco beaker b receives a 5 g solid lump of marble caco in beaker a a colossal geyser of foam erupts violently within 1 second in beaker b gentle bubbling occurs slowly over 15 minutes investigative question what two factors explain why sodium bicarbonate reacts almost instantaneously compared to the slow reaction of the marble lump choose the correct option"
+  },
+  {
+    "globalId": "qb_case_acids__bases_and_salts_50_48e9b9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Case Study 50: Neutralization Curves: Methyl Orange vs Phenolphthalein Suitability",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical chemist conducts two titrations: Titration 1: Strong Acid (HCl) vs Weak Base (NH₄OH) - the equivalence point occurs at pH ≈ 5.2. Titration 2: Weak Acid (CH₃COOH) vs Strong Base (NaOH) - the equivalence point occurs at pH ≈ 8.8. The chemist must choose between Methyl Orange (pH transition range 3.1–4.4, red to yellow) and Phenolphthalein (pH transition range 8.3–10.0, colorless to pink). **Investigative Question:** Which indicator is strictly suitable for Titration 1 and which for Titration 2? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Phenolphthalein for Titration 1; Methyl Orange for Titration 2."
+      },
+      {
+        "key": "B",
+        "text": "Methyl Orange for Titration 1 (equivalence pH 5.2 lies near its transition range 3.1–4.4); Phenolphthalein for Titration 2 (equivalence pH 8.8 lies squarely within its transition range 8.3–10.0)."
+      },
+      {
+        "key": "C",
+        "text": "Both indicators can be used interchangeably for any titration."
+      },
+      {
+        "key": "D",
+        "text": "Neither indicator works because weak electrolytes cannot be titrated."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "An indicator is suitable for a titration only if its pH transition range coincides with the steep vertical inflection point of the titration curve. For Strong Acid + Weak Base (Titration 1), cationic hydrolysis of NH₄⁺ makes the equivalence point acidic (pH ~5.2); Methyl Orange (working range 3.1–4.4) changes color sharply at this point. For Weak Acid + Strong Base (Titration 2), anionic hydrolysis of CH₃COO⁻ makes the equivalence point basic (pH ~8.8); Phenolphthalein (working range 8.3–10.0) changes from colorless to pink exactly at this equivalence point.",
+    "concept_name": "Indicator pH Transition Ranges and Titration Equivalence",
+    "concept_tag": "acids, bases and salts case based indicator ph transition ranges and titration equivalence",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b03c47de6579d7c63e7ba917e8346f057ee764062bea617dada2954b62573e35",
+    "question_skeleton": "case scenario an analytical chemist conducts two titrations titration 1 strong acid hcl vs weak base nh oh the equivalence point occurs at ph 5 2 titration 2 weak acid ch cooh vs strong base naoh the equivalence point occurs at ph 8 8 the chemist must choose between methyl orange ph transition range 3 1 4 4 red to yellow and phenolphthalein ph transition range 8 3 10 0 colorless to pink investigative question which indicator is strictly suitable for titration 1 and which for titration 2 choose the correct option"
+  }
+]

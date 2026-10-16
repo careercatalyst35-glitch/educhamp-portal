@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_work_energy_power_1_9b2c89",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Work done by gravitational force in a closed path",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The total work done by gravity on an object taken around a closed path back to its initial point is zero. **Reason (R):** Gravitational force is a conservative force, meaning work done depends only on initial and final positions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the path-independent conservative nature of gravity correctly explains why net work along a closed circuit vanishes.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9314273b08e0da69e708c31f90987f028219e7a2e1ad8ab57915a08bcb27c4bc",
+    "question_skeleton": "assertion a the total work done by gravity on an object taken around a closed path back to its initial point is zero reason r gravitational force is a conservative force meaning work done depends only on initial and final positions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_2_005e3e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Coolie carrying luggage on head",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A coolie carrying a heavy suitcase on his head while walking along a horizontal railway platform does zero work against gravity. **Reason (R):** The force exerted by the coolie on the suitcase is vertical, while the displacement is horizontal, making the angle between them 90°. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since W = F·s·cos(90°) = 0, no work is done against gravity.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "371811d32425459af982ae2adc80f6c81d3a6ca7d8550ecc7cc93975dbd30793",
+    "question_skeleton": "assertion a a coolie carrying a heavy suitcase on his head while walking along a horizontal railway platform does zero work against gravity reason r the force exerted by the coolie on the suitcase is vertical while the displacement is horizontal making the angle between them # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_3_ecef4a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Kinetic energy and momentum relation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If the linear momentum of a body is doubled, its kinetic energy increases fourfold. **Reason (R):** Kinetic energy is directly proportional to the square of linear momentum for a constant mass (K = p² / 2m). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the quadratic dependence K = p² / (2m) directly confirms the fourfold increase.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "512a5d4c43958a4473a65b1b461b58937acdfce08d92f04a8acf2b222bbcacbf",
+    "question_skeleton": "assertion a if the linear momentum of a body is doubled its kinetic energy increases fourfold reason r kinetic energy is directly proportional to the square of linear momentum for a constant mass k p m choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_4_a63667",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Negative work by friction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Friction between a sliding box and a rough horizontal floor does negative work on the box. **Reason (R):** The frictional force acts in a direction opposite to the displacement of the sliding box (θ = 180°). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. With cos(180°) = -1, the work done is negative and kinetic energy is converted into heat.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a7126f53d538e2396e6df95f897930ff96dd8329fa5d5c89f649ef67f4f935a5",
+    "question_skeleton": "assertion a friction between a sliding box and a rough horizontal floor does negative work on the box reason r the frictional force acts in a direction opposite to the displacement of the sliding box # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_5_120149",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Commercial unit of electrical energy",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Kilowatt-hour (kWh) is a unit of electrical power. **Reason (R):** 1 kilowatt-hour is equal to 3.6 × 10⁶ joules of energy. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because kilowatt-hour is a unit of energy, not power. Reason is true (1 kWh = 1000 W × 3600 s = 3.6 × 10⁶ J).",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "42b8dd374b6f4b381f051d248a3570249daf63d467ad8162c4b17305ea821a8a",
+    "question_skeleton": "assertion a kilowatt hour kwh is a unit of electrical power reason r # kilowatt hour is equal to # # joules of energy choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_6_d705b7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Mechanical energy conservation in free fall",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** During the free fall of a stone in a vacuum, the sum of its potential energy and kinetic energy remains constant at all points. **Reason (R):** In the absence of dissipative forces like air drag, total mechanical energy is conserved. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the law of conservation of mechanical energy explains the constant total energy.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3a31fa6deb5bb80e6bf0954eb39ed81f1ffe25066561e2da075250ad8af91a3e",
+    "question_skeleton": "assertion a during the free fall of a stone in a vacuum the sum of its potential energy and kinetic energy remains constant at all points reason r in the absence of dissipative forces like air drag total mechanical energy is conserved choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_7_b4b7c7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Work done by tension on a pendulum bob",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The tension in the string of a swinging simple pendulum does no work on the bob. **Reason (R):** At every point in the swing, the string tension is perpendicular to the instantaneous velocity of the bob. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and perpendicularity between the radial tension and tangential motion guarantees zero work.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b3826ff938e98b6ab320888446c6dc478b609db4746f67256e0c7fb74847ad3c",
+    "question_skeleton": "assertion a the tension in the string of a swinging simple pendulum does no work on the bob reason r at every point in the swing the string tension is perpendicular to the instantaneous velocity of the bob choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_8_b1f453",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Power of two machines",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Machine A lifts 100 kg through 10 m in 5 s, while Machine B lifts 100 kg through 10 m in 20 s. Machine A has greater power. **Reason (R):** Power is defined as the rate of doing work, so less time for the same work means greater power. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and P = W/t shows that Machine A develops four times the power of Machine B.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cd7c0864cae558e8e4a6600b12a0d0e74a1bf416ee806e18bbb18e349c07c39f",
+    "question_skeleton": "assertion a machine a lifts # kg through # m in # s while machine b lifts # kg through # m in # s machine a has greater power reason r power is defined as the rate of doing work so less time for the same work means greater power choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_9_371d25",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Potential energy of a stretched spring",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A compressed spring possesses elastic potential energy. **Reason (R):** Work done against the restoring spring force is stored as potential energy due to change in configuration. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and work done against internal restoring forces explains the stored elastic energy.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5747b0fc5002d7884e4404fe3f34d97037c89b2d54b5e5795f57d413a292f4c7",
+    "question_skeleton": "assertion a a compressed spring possesses elastic potential energy reason r work done against the restoring spring force is stored as potential energy due to change in configuration choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_10_372945",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Kinetic energy sign",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The kinetic energy of a moving body can sometimes be negative if its velocity is directed opposite to the positive axis. **Reason (R):** Kinetic energy is a scalar quantity given by K = ½ m v², where mass and v² are always positive. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because kinetic energy cannot be negative. Reason is true and explains why kinetic energy is strictly non-negative.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8f5a5892034771ffc929765be0c6284aaa8bcec0aa5bc5a514584e745db3c5d2",
+    "question_skeleton": "assertion a the kinetic energy of a moving body can sometimes be negative if its velocity is directed opposite to the positive axis reason r kinetic energy is a scalar quantity given by k m v where mass and v are always positive choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_11_497bd8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Work done in stopping a moving car",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When brakes are applied to bring a speeding car to rest, the work done by the braking force is negative. **Reason (R):** The retarding braking force opposes the displacement of the car. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the opposing force (θ = 180°) leads directly to negative work.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5def50a1ebc91f304212d6a990e9ede704790e001f3c678cac5db80df69d4eb1",
+    "question_skeleton": "assertion a when brakes are applied to bring a speeding car to rest the work done by the braking force is negative reason r the retarding braking force opposes the displacement of the car choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_12_bdb160",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Energy and momentum vectors",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Two bodies with equal kinetic energies must possess identical linear momenta. **Reason (R):** Kinetic energy depends on the mass and speed of the body, whereas momentum also depends on direction. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because p = √(2mK), so bodies with different masses have different momenta even if their kinetic energies are equal. Reason is true.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1e5ee9b23ff077b73267afd581f5f24f02e4bb1a776a6f1751b2b1b47378cf39",
+    "question_skeleton": "assertion a two bodies with equal kinetic energies must possess identical linear momenta reason r kinetic energy depends on the mass and speed of the body whereas momentum also depends on direction choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_13_226d2d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Work done against conservative force",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The potential energy of a body decreases when conservative forces do positive work on it. **Reason (R):** The change in potential energy is equal to the negative of the work done by conservative forces (ΔU = -W_c). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and ΔU = -W_c confirms that positive work by gravity or spring force reduces potential energy.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b9d4221ba266e7b95ffa76d72e51c8b3b1ce959ed98d4005e1dac3d29d6b2015",
+    "question_skeleton": "assertion a the potential energy of a body decreases when conservative forces do positive work on it reason r the change in potential energy is equal to the negative of the work done by conservative forces u w c choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_14_ad340f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Power and velocity relation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** For a car moving at constant velocity on a level road, the power developed by the engine equals force multiplied by velocity (P = F·v). **Reason (R):** Work done per unit time equals (F · s) / t = F · (s/t) = F · v. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the mathematical derivation directly explains P = F·v.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "67c0b31c061a754066fb36e0c7ab1af24ec51acfff34e5f5d6465f48250d340d",
+    "question_skeleton": "assertion a for a car moving at constant velocity on a level road the power developed by the engine equals force multiplied by velocity p f v reason r work done per unit time equals f s t f s t f v choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_15_4db242",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Pendulum at extreme position",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** At the extreme position of its swing, a simple pendulum has maximum kinetic energy. **Reason (R):** At the extreme position, the bob momentarily comes to rest before reversing its direction. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because at the extreme position, speed is zero so kinetic energy is minimum (zero), while potential energy is maximum. Reason is true.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "aed09655e8b7750299dd23b030de31fd63a0e451cba160e468206eb16b2990fc",
+    "question_skeleton": "assertion a at the extreme position of its swing a simple pendulum has maximum kinetic energy reason r at the extreme position the bob momentarily comes to rest before reversing its direction choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_16_fa70cd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Work done in holding a heavy rock",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A student holding a 20 kg stone stationary in his hands for 30 minutes does no mechanical work on the stone. **Reason (R):** Mechanical work requires that the point of application of force undergoes a displacement in the direction of force. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since displacement s = 0, mechanical work W = F·s = 0, despite muscular fatigue.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dc277aead529a5b943a5f9000ac1ae49f149c29359691a4d1dca509e6769ba1e",
+    "question_skeleton": "assertion a a student holding a # kg stone stationary in his hands for # minutes does no mechanical work on the stone reason r mechanical work requires that the point of application of force undergoes a displacement in the direction of force choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_17_53a0fc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Gravitational potential energy reference",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The gravitational potential energy of a body on the surface of the Earth is always strictly zero. **Reason (R):** The choice of zero-level reference for potential energy is arbitrary and can be chosen at any convenient level. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because potential energy is zero at the Earth's surface only by convention; it can be assigned zero at infinity or any other datum. Reason is true.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d878b71428eb5bba04cdf9ab6bb166ea2499c6a4c247289ee5891a9a50c6d572",
+    "question_skeleton": "assertion a the gravitational potential energy of a body on the surface of the earth is always strictly zero reason r the choice of zero level reference for potential energy is arbitrary and can be chosen at any convenient level choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_18_8c589b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Horsepower unit equivalence",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** One horsepower (hp) is equivalent to 746 watts. **Reason (R):** Horsepower is an imperial unit of power commonly used to specify the output of electric motors and engines. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both Assertion and Reason are true statements, but the historical definition of 1 hp = 746 W is based on James Watt's experimental measure of a draft horse, not simply because it is an imperial unit.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e72b6fccfda63af28b05c6475541e97285571b446d286c89e1db52216b020ee4",
+    "question_skeleton": "assertion a one horsepower hp is equivalent to # watts reason r horsepower is an imperial unit of power commonly used to specify the output of electric motors and engines choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_19_5e5b75",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Impact velocity from height",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If a ball is dropped from height 4h, its speed upon hitting the ground is double the speed when dropped from height h. **Reason (R):** From conservation of energy, impact velocity is proportional to the square root of the height of fall (v = √(2gh)). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since v ∝ √h, quadrupling the height doubles the impact velocity (√(4) = 2).",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "938c20467624ed798ff83fbd98003815641a3043787c06388ca29c4134ee891e",
+    "question_skeleton": "assertion a if a ball is dropped from height h its speed upon hitting the ground is double the speed when dropped from height h reason r from conservation of energy impact velocity is proportional to the square root of the height of fall v gh choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_20_0fbbed",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Work done in uniform circular orbit",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An artificial satellite revolving in a circular orbit around the Earth requires continuous fuel expenditure to maintain its motion. **Reason (R):** The gravitational force acts perpendicular to the satellite's orbital velocity, doing zero work. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because no fuel is needed in orbit; gravity keeps it in orbit without doing work. Reason is true.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9265d65b2b25fc66c1770beee60128ad6d5b36c5ca93f2b15755b11b89c0ba07",
+    "question_skeleton": "assertion a an artificial satellite revolving in a circular orbit around the earth requires continuous fuel expenditure to maintain its motion reason r the gravitational force acts perpendicular to the satellite s orbital velocity doing zero work choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_21_b6d954",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Light and heavy body momentum",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A light body and a heavy body have equal kinetic energies. The heavy body has greater linear momentum. **Reason (R):** Linear momentum is given by p = √(2mK), so for a constant K, momentum is directly proportional to √m. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the formula p = √(2mK) confirms that larger mass gives larger momentum for the same kinetic energy.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "366a9cb25bd0fc4593191b78f7e954303146e5ab4cc7a826056a1719e7df329b",
+    "question_skeleton": "assertion a a light body and a heavy body have equal kinetic energies the heavy body has greater linear momentum reason r linear momentum is given by p mk so for a constant k momentum is directly proportional to m choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_22_09e27c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Light and heavy body kinetic energy",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A light body and a heavy body have equal linear momenta. The light body has greater kinetic energy. **Reason (R):** Kinetic energy is given by K = p² / (2m), so for constant p, kinetic energy is inversely proportional to mass. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and K ∝ 1/m proves that the lighter body possesses greater kinetic energy.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e8ec73e51e8b87ce9a429c19df2cdfe6c12e995636974218d2248e91c6727a3d",
+    "question_skeleton": "assertion a a light body and a heavy body have equal linear momenta the light body has greater kinetic energy reason r kinetic energy is given by k p m so for constant p kinetic energy is inversely proportional to mass choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_23_2c3b79",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Electric bulb power rating",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A 100 W light bulb consumes 100 joules of electrical energy every second. **Reason (R):** Power in watts represents the rate of energy consumption in joules per second (1 W = 1 J s⁻¹). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the definition of a watt as one joule per second validates the assertion.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bf33f943e2a3c0719e4a38b9a8bcba71b26761dc529d65f60ff0e083543cc0ac",
+    "question_skeleton": "assertion a a # w light bulb consumes # joules of electrical energy every second reason r power in watts represents the rate of energy consumption in joules per second # w # j s choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_24_392d8c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Nuclear power station energy conversion",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In a nuclear reactor, mass is converted directly into nuclear and thermal energy. **Reason (R):** Mass and energy are interconvertible according to Einstein's mass-energy equation E = Δm c². Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Einstein's mass-energy equivalence equation explains the energy released from mass defect.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1be3a96956aa95c7cd6c6f0d93f0ac9f11cda0406754d9de932b28d693feeaf1",
+    "question_skeleton": "assertion a in a nuclear reactor mass is converted directly into nuclear and thermal energy reason r mass and energy are interconvertible according to einstein s mass energy equation e m c choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_25_7ff789",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Work done on a satellite in elliptical orbit",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In an elliptical orbit, the work done by Earth's gravity on a satellite over a small arc is not always zero. **Reason (R):** In an elliptical orbit, the gravitational force is not always strictly perpendicular to the satellite's velocity vector. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Unlike circular orbits, the radius vector is not normal to the path everywhere, so gravity does positive work when approaching perigee and negative work when moving towards apogee.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "de2b28ea324dbd16fb84f51a93518fe7e0152372ed47b5448ba06253b1cd95be",
+    "question_skeleton": "assertion a in an elliptical orbit the work done by earth s gravity on a satellite over a small arc is not always zero reason r in an elliptical orbit the gravitational force is not always strictly perpendicular to the satellite s velocity vector choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_26_87ac05",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Hydroelectric power conversion",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Hydroelectric power plants utilize the potential energy of water stored in high dams. **Reason (R):** Water falling from a height converts gravitational potential energy into kinetic energy to rotate turbines. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the transformation of potential energy into kinetic energy to drive generators explains hydroelectric generation.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ea8b3a999f3c2b82aed6165b2bae017c0653218af2ffd97850b2aedbe7aea3d3",
+    "question_skeleton": "assertion a hydroelectric power plants utilize the potential energy of water stored in high dams reason r water falling from a height converts gravitational potential energy into kinetic energy to rotate turbines choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_27_b3d40c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Work done by normal reaction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The normal reaction on a box sliding down an inclined plane does no work on the box. **Reason (R):** The normal reaction is always directed at 90° to the surface of the incline along which displacement occurs. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since the displacement is along the incline and normal reaction is perpendicular to it, cos(90°) = 0, giving zero work.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "af7c3cbb4a972d5fdc8616b17b774fed2c737b1d19178c2d7a319b3267a1f1b1",
+    "question_skeleton": "assertion a the normal reaction on a box sliding down an inclined plane does no work on the box reason r the normal reaction is always directed at # to the surface of the incline along which displacement occurs choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_28_ac08a8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Energy dissipated in real pendulum",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The oscillations of a simple pendulum in air gradually die down due to loss of total mechanical energy. **Reason (R):** Work done against air resistance converts mechanical energy into thermal energy and sound. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and dissipative friction converting mechanical energy to heat correctly explains damping.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5fdfa417e5e0d223a147b414c5339bc2e0f4bea037454ee2a748713a8923a2c3",
+    "question_skeleton": "assertion a the oscillations of a simple pendulum in air gradually die down due to loss of total mechanical energy reason r work done against air resistance converts mechanical energy into thermal energy and sound choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_29_64599f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Joule vs calorie unit",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** One calorie is equal to approximately 4.186 joules. **Reason (R):** Calorie is the SI unit of heat and work. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Assertion is true (1 cal ≈ 4.186 J). Reason is false because the SI unit of both heat and work is the joule (J), not the calorie.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d2ef1cdb58d80b968ae04610ef559101b632e44f16bb98531e57ccd8425d2f81",
+    "question_skeleton": "assertion a one calorie is equal to approximately # joules reason r calorie is the si unit of heat and work choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_30_eec34a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Negative potential energy meaning",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Gravitational potential energy of two masses bound together is negative when zero reference is taken at infinity. **Reason (R):** Attractive forces perform positive work as the bodies are brought together from infinite separation. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and positive work by attraction lowers the potential energy below the zero datum at infinity.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e9b9cc1818f44f2112f35edebab216d17c920924210e2091d67b5fe33e67c76e",
+    "question_skeleton": "assertion a gravitational potential energy of two masses bound together is negative when zero reference is taken at infinity reason r attractive forces perform positive work as the bodies are brought together from infinite separation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_31_c0bd31",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Work done by centrifugal force",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Centrifugal force does positive work on a body during circular motion in an inertial frame. **Reason (R):** Centrifugal force is observed only in rotating non-inertial frames and does not exist in an inertial frame. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because centrifugal force does not exist in an inertial frame and cannot do work. Reason is true.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1c5463f6c668ed8e7347a2759f4dac1c6a51c91db5ee7a962d486eebb8b29e8a",
+    "question_skeleton": "assertion a centrifugal force does positive work on a body during circular motion in an inertial frame reason r centrifugal force is observed only in rotating non inertial frames and does not exist in an inertial frame choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_32_92cb08",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Compressed air energy",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Compressed air stored in a metal cylinder possesses potential energy. **Reason (R):** Work was done on the air molecules during compression against gas pressure to store elastic potential energy. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and work done during compression stored as strain/pressure energy explains the assertion.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0c118ce663d019f32110e6cf8e971f6561b3e2e32d14ab7a0834d6c141185ede",
+    "question_skeleton": "assertion a compressed air stored in a metal cylinder possesses potential energy reason r work was done on the air molecules during compression against gas pressure to store elastic potential energy choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_33_ab4232",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Linear motion zero work conditions",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Work done on an object can be zero even when both force and displacement are non-zero. **Reason (R):** When the angle between the applied force and the displacement is 90°, cos(90°) = 0. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and perpendicularity between force and displacement mathematically yields zero work.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "626f367bd5167e84e23fff9bb87b53e082a5b02fcff4d3c3cf3d5d84a5f6157a",
+    "question_skeleton": "assertion a work done on an object can be zero even when both force and displacement are non zero reason r when the angle between the applied force and the displacement is # cos # # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_34_4f0a6c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Electric motor energy transformation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An electric motor converts mechanical energy into electrical energy. **Reason (R):** An electric motor operates on the magnetic force experienced by a current-carrying coil. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because an electric motor converts electrical energy into mechanical energy (generators convert mechanical to electrical). Reason is true.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8a56002a54e2eabf1ab900f0bf38cce02342455e9f3b6c3036a23359eb3f5911",
+    "question_skeleton": "assertion a an electric motor converts mechanical energy into electrical energy reason r an electric motor operates on the magnetic force experienced by a current carrying coil choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_35_132bd3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Speed squared and braking distance",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If a car's speed is tripled, its minimum stopping distance under the same braking force increases by 9 times. **Reason (R):** Work done by the braking force to stop the car must equal its initial kinetic energy (F · d = ½ m v²). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since kinetic energy is proportional to v², tripling speed increases KE by 3² = 9, requiring 9 times the stopping distance for the same braking force.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "28854d1fcece764c0bec77515d38d2b12fdabf05899b5fe38075c12aa75c6532",
+    "question_skeleton": "assertion a if a car s speed is tripled its minimum stopping distance under the same braking force increases by # times reason r work done by the braking force to stop the car must equal its initial kinetic energy f d m v choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_36_2575cc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Pendulum mean position speed",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A simple pendulum has its maximum speed when it passes through the lowest (mean) position. **Reason (R):** At the mean position, all gravitational potential energy gained at the extreme positions is converted into kinetic energy. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and total conversion of PE to KE at the lowest point explains maximum velocity.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2da98d0b6e8796546f58cd3b0449e7fd8c4171591bd91b96675cabba437bb323",
+    "question_skeleton": "assertion a a simple pendulum has its maximum speed when it passes through the lowest mean position reason r at the mean position all gravitational potential energy gained at the extreme positions is converted into kinetic energy choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_37_f041f6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Kilowatt vs kilowatt-hour",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Kilowatt and kilowatt-hour represent the same physical quantity expressed in different unit systems. **Reason (R):** Kilowatt is a unit of power, while kilowatt-hour is a unit of energy. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because they represent entirely different physical quantities (power vs energy). Reason is true.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2c0562e4add94d06b1cd0e966b12e1bbe1629a21f6641c072ab2db59d26ef5bb",
+    "question_skeleton": "assertion a kilowatt and kilowatt hour represent the same physical quantity expressed in different unit systems reason r kilowatt is a unit of power while kilowatt hour is a unit of energy choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_38_72a8ce",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Bullet piercing a wooden block",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A high-speed bullet penetrates much deeper into a wooden target than a heavy stone thrown with the same kinetic energy. **Reason (R):** The bullet has a much smaller cross-sectional area, concentrating force and energy over a smaller resistance area. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the smaller contact area creates higher localized pressure overcoming the wood's cohesive resistance.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c1df111bfde45d9e7a69a3ddbc344684e9a1463cb2fbeb3722f0f8e6bfb299b0",
+    "question_skeleton": "assertion a a high speed bullet penetrates much deeper into a wooden target than a heavy stone thrown with the same kinetic energy reason r the bullet has a much smaller cross sectional area concentrating force and energy over a smaller resistance area choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_39_ca68b5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Elastic vs inelastic collisions",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In an inelastic collision between two billiard balls, total momentum is conserved but total kinetic energy is not. **Reason (R):** A fraction of kinetic energy is converted into heat, sound, and internal deformation. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and non-conservative dissipation during deformation explains kinetic energy loss in inelastic collisions.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "389889d60f839873ada9c0a66113a5c7033641a157fcd227717b49d80ea548da",
+    "question_skeleton": "assertion a in an inelastic collision between two billiard balls total momentum is conserved but total kinetic energy is not reason r a fraction of kinetic energy is converted into heat sound and internal deformation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_work_energy_power_40_8a4101",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Work, Energy and Power",
+    "title": "Assertion–Reason: Work-energy theorem validity",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The work-energy theorem states that the net work done by all forces on a particle equals the change in its kinetic energy. **Reason (R):** The work-energy theorem is valid for both constant and variable forces, and for both conservative and non-conservative forces. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both Assertion and Reason are true statements, but Reason is a statement of the theorem's scope of validity rather than an explanation of the physical principle itself.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bc4c61aff419914f5dc0cb87af36448ce45dbfef0ac5fa4e4c38ced6f5755362",
+    "question_skeleton": "assertion a the work energy theorem states that the net work done by all forces on a particle equals the change in its kinetic energy reason r the work energy theorem is valid for both constant and variable forces and for both conservative and non conservative forces choose the correct option"
+  }
+]

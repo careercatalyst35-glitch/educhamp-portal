@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_machines_1_6a690a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Velocity ratio independence from friction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The velocity ratio of a machine does not change even if friction between moving parts increases. **Reason (R):** Velocity ratio depends purely on the geometry and kinematic dimensions of the machine. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. VR = displacement of effort / displacement of load, which depends solely on wheel radii, pulley counts, or lever lengths, completely independent of friction.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c861fc421f0a842a4e6d66763ae92d9a045309a7c3e90830b984b7d4ba783c68",
+    "question_skeleton": "assertion a the velocity ratio of a machine does not change even if friction between moving parts increases reason r velocity ratio depends purely on the geometry and kinematic dimensions of the machine choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_2_c8e930",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Efficiency of a real machine",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The efficiency of any practical machine is always strictly less than 100%. **Reason (R):** A portion of the input energy is wasted in overcoming friction between moving parts and in moving the machine's own parts. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and energy dissipation due to friction and self-weight ensures output work is always less than input work.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "53e44e1a8c703d676457c50afc8ed2e14193f123bdd717e5a0908f9a42e1ad58",
+    "question_skeleton": "assertion a the efficiency of any practical machine is always strictly less than # reason r a portion of the input energy is wasted in overcoming friction between moving parts and in moving the machine s own parts choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_3_9b2c38",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Mechanical advantage vs velocity ratio for real machine",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** For any real machine with moving parts, the mechanical advantage is always less than its velocity ratio. **Reason (R):** Efficiency is defined as the ratio of mechanical advantage to velocity ratio (η = MA / VR), and η < 1 for real machines. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and since η = MA / VR < 1, it follows directly that MA < VR.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2a0abad1e0f0d30eb4086dc506c50a9e654a4563dab75e180188594ed2781fb2",
+    "question_skeleton": "assertion a for any real machine with moving parts the mechanical advantage is always less than its velocity ratio reason r efficiency is defined as the ratio of mechanical advantage to velocity ratio ma vr and # for real machines choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_4_b559a7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Class I lever versatility",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A Class I lever can have a mechanical advantage greater than 1, equal to 1, or less than 1. **Reason (R):** In a Class I lever, the fulcrum lies between the load and the effort, allowing the effort arm to be longer, equal, or shorter than the load arm. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the variable position of the fulcrum between load and effort explains why MA = (effort arm)/(load arm) can take any value.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "aa4114f7630a918cbc95791b3ac97311fdfa5dc1bc0c4cb94526b8c876ef7d62",
+    "question_skeleton": "assertion a a class i lever can have a mechanical advantage greater than # equal to # or less than # reason r in a class i lever the fulcrum lies between the load and the effort allowing the effort arm to be longer equal or shorter than the load arm choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_5_68b8a5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Class II lever force multiplier",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A Class II lever always acts as a force multiplier (MA > 1). **Reason (R):** In a Class II lever, the load is situated between the fulcrum and the effort, making the effort arm always longer than the load arm. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and since the effort arm is always the entire length from fulcrum to effort, effort arm > load arm, ensuring MA > 1.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e67cc372d7fa5126598af389626bfcb478cc437dfbbb23a6adfcba25347011d7",
+    "question_skeleton": "assertion a a class ii lever always acts as a force multiplier ma # reason r in a class ii lever the load is situated between the fulcrum and the effort making the effort arm always longer than the load arm choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_6_484fcd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Class III lever speed gain",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A Class III lever has a mechanical advantage less than 1, but it provides a gain in speed. **Reason (R):** In a Class III lever, the effort is between the fulcrum and the load, so the displacement of the load is greater than the displacement of the effort. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and load displacement exceeding effort displacement in the same time gives a gain in speed.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a05f152ff7c593696dbaa5b85f7616cd730003131174ce9b230d56e95bffdd1f",
+    "question_skeleton": "assertion a a class iii lever has a mechanical advantage less than # but it provides a gain in speed reason r in a class iii lever the effort is between the fulcrum and the load so the displacement of the load is greater than the displacement of the effort choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_7_f3ddcb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Single fixed pulley mechanical advantage",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A single fixed pulley does not provide any multiplication of force (MA ≤ 1). **Reason (R):** A single fixed pulley is used primarily to change the direction of applied effort to a more convenient downward direction. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both Assertion and Reason are true statements. However, the reason why MA ≤ 1 is that the effort arm equals the load arm (radius of pulley), not merely that its purpose is to change direction.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "64251056880943a27b7c95d4291f47d5ca9bd6503b3944ba07ade4ad822c38a5",
+    "question_skeleton": "assertion a a single fixed pulley does not provide any multiplication of force ma # reason r a single fixed pulley is used primarily to change the direction of applied effort to a more convenient downward direction choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_8_fa63df",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Single movable pulley force multiplier",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An ideal single movable pulley has an ideal mechanical advantage of 2. **Reason (R):** The load is supported by two parallel segments of the string, each bearing half the load tension. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and two upward string tensions sharing the load explain why effort E = L/2, giving MA = 2.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2404670331f8280e25987e448c17e1255cfeeae3895bd4145c33b3ea27e225b9",
+    "question_skeleton": "assertion a an ideal single movable pulley has an ideal mechanical advantage of # reason r the load is supported by two parallel segments of the string each bearing half the load tension choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_9_c6953d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Pair of shears vs scissors",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A pair of shears used for cutting metal sheets has short blades and long handles. **Reason (R):** A long effort arm combined with a short load arm provides a large mechanical advantage to cut hard sheets with small effort. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the high mechanical advantage of long handle / short blade directly explains the design.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ed81df3df324492e328d781df05af6e4802efb8aeef0e10442fc93759279ef15",
+    "question_skeleton": "assertion a a pair of shears used for cutting metal sheets has short blades and long handles reason r a long effort arm combined with a short load arm provides a large mechanical advantage to cut hard sheets with small effort choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_10_9716a2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Cloth cutting scissors design",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Scissors used for cutting cloth have long blades and short handles. **Reason (R):** Cloth requires very large force to cut, so scissors act as force multipliers. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Assertion is true (cloth scissors have long blades for speed/length of cut). Reason is false because cloth is soft and does not require large force; the long blade provides a gain in speed and cutting length, not force multiplication.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "346a998dbf2dfd83c8fc00ccbcfd5a5ae14df5e534f6e7b7b323fad166c60d97",
+    "question_skeleton": "assertion a scissors used for cutting cloth have long blades and short handles reason r cloth requires very large force to cut so scissors act as force multipliers choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_11_2c7ac3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Block and tackle velocity ratio",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In a block and tackle system of 5 pulleys, the velocity ratio is 5. **Reason (R):** The velocity ratio of an ideal or real block and tackle pulley system is always equal to the total number of pulleys in both blocks. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the total pulley count determines how many string segments support the load, defining the velocity ratio.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "af03c099d3cb3b09fa964589befd3a8d7f26f7cf273b06dbac562393d4d69889",
+    "question_skeleton": "assertion a in a block and tackle system of # pulleys the velocity ratio is # reason r the velocity ratio of an ideal or real block and tackle pulley system is always equal to the total number of pulleys in both blocks choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_12_bd7552",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Weight of lower block in pulley system",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The efficiency of a block and tackle system can be improved by making the lower pulley block as light as possible. **Reason (R):** The effort must lift both the useful load and the weight of the lower block and tackle. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and reducing the dead weight of the lower block minimizes wasted effort, raising efficiency.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bf657c5e14ff21b7324939cf55d5820ccec40e0261fbf859ce2b4b3fef0d38b8",
+    "question_skeleton": "assertion a the efficiency of a block and tackle system can be improved by making the lower pulley block as light as possible reason r the effort must lift both the useful load and the weight of the lower block and tackle choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_13_ed9511",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Sugar tongs class of lever",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Sugar tongs and forceps belong to Class III levers. **Reason (R):** In sugar tongs, the effort is applied by fingers between the hinged fulcrum and the sugar cube load. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and effort located between fulcrum and load defines Class III levers.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f19c4abea7c53ee19983cf4b6b458af8e232c6420d16f6d9bdb344bbb70be418",
+    "question_skeleton": "assertion a sugar tongs and forceps belong to class iii levers reason r in sugar tongs the effort is applied by fingers between the hinged fulcrum and the sugar cube load choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_14_d1a36b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "The Nutcracker",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "A nutcracker has an effort arm of 12 cm and a load arm of 4 cm. If an effort of 30 N is applied at the outer handles, what crushing force (load) is exerted on the nut located between the jaws?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10 N"
+      },
+      {
+        "key": "B",
+        "text": "30 N"
+      },
+      {
+        "key": "C",
+        "text": "60 N"
+      },
+      {
+        "key": "D",
+        "text": "90 N"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For an ideal Class II lever: Load × Load Arm = Effort × Effort Arm. Load × 4 cm = 30 N × 12 cm => Load × 4 = 360 => Load = 360 / 4 = 90 N.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5dfc91c5efba0add2c909f3988bbb112e5b7e0365c6501ac7106d5f1de6b509e",
+    "question_skeleton": "assertion a a nutcracker is an example of a class ii lever reason r in a nutcracker the nut load is placed between the hinge fulcrum and the handles where effort is applied choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_15_33c3c5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Crowbar versatility",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A crowbar can be used as a force multiplier to lift a heavy boulder. **Reason (R):** By placing the fulcrum very close to the boulder, the effort arm becomes much longer than the load arm. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and a long effort arm relative to load arm gives MA > 1.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "23758bf03fce0b72027acc1ac3762c42d2db354610a27c0161048d00e35324be",
+    "question_skeleton": "assertion a a crowbar can be used as a force multiplier to lift a heavy boulder reason r by placing the fulcrum very close to the boulder the effort arm becomes much longer than the load arm choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_16_625e16",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Single movable pulley velocity ratio",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The velocity ratio of a single movable pulley system is 2. **Reason (R):** When the load moves up by a distance x, both supporting segments of the string must shorten by x, so the effort moves by 2x. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the 2x displacement of effort for x displacement of load geometrically explains VR = 2.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "153a1feeaa9e653a80ecee592e5f64e0a30f1bbeca97f2bb742dfae06bb6ee24",
+    "question_skeleton": "assertion a the velocity ratio of a single movable pulley system is # reason r when the load moves up by a distance x both supporting segments of the string must shorten by x so the effort moves by x choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_17_8585a3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Human forearm lever class",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The human forearm flexing to lift a weight in the hand acts as a Class III lever. **Reason (R):** The bicep tendon applies the effort between the elbow joint (fulcrum) and the hand (load). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and effort applied between elbow fulcrum and hand load defines a Class III lever.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b6eacca12c87e3290cd459996206d787eb00bd11b37ec970dd7168b384815af5",
+    "question_skeleton": "assertion a the human forearm flexing to lift a weight in the hand acts as a class iii lever reason r the bicep tendon applies the effort between the elbow joint fulcrum and the hand load choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_18_f7b99a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Efficiency and lubrication",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Lubricating the axle of a pulley wheel increases its mechanical advantage. **Reason (R):** Lubrication reduces frictional resistance, which increases efficiency (η) and therefore increases MA for a fixed VR. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and since MA = η × VR, reducing friction raises η and consequently increases MA.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "714b2fae79aa4fb4e80dc14e0137912920b5b052412a54691d0d5db4f7f44a1e",
+    "question_skeleton": "assertion a lubricating the axle of a pulley wheel increases its mechanical advantage reason r lubrication reduces frictional resistance which increases efficiency and therefore increases ma for a fixed vr choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_19_ef06a8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Ideal machine definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An ideal machine has an efficiency equal to 1 (100%). **Reason (R):** In an ideal machine, the work output is exactly equal to the work input because there are no dissipative losses. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the equality of output work and input work defines 100% efficiency.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "da0db86256dc5540013fb24ae7fe3fa1968add779ed0b3c30ee55bb988c02f20",
+    "question_skeleton": "assertion a an ideal machine has an efficiency equal to # # reason r in an ideal machine the work output is exactly equal to the work input because there are no dissipative losses choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_20_a34f82",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "The Load on a Wheelbarrow",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "A load of 200 N is carried in a wheelbarrow at a distance of 0.4 m from the wheel axle (fulcrum). If the effort is applied vertically upwards at a distance of 1.2 m from the axle, what is the minimum effort required to lift the load?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "40 N"
+      },
+      {
+        "key": "B",
+        "text": "66.7 N"
+      },
+      {
+        "key": "C",
+        "text": "100 N"
+      },
+      {
+        "key": "D",
+        "text": "600 N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By the principle of moments for a Class II lever: Effort × Effort Arm = Load × Load Arm. Effort × 1.2 m = 200 N × 0.4 m => Effort × 1.2 = 80 => Effort = 80 / 1.2 = 66.7 N.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fb43d8fc88b4847c896127385ef661ff5e350d816ef2c08e6926b963621b667f",
+    "question_skeleton": "assertion a a wheelbarrow belongs to class ii levers reason r the load lies between the wheel axle fulcrum and the handles where the lifting effort is applied choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_21_44bbea",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Single fixed pulley direction advantage",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** It is easier to lift a bucket of water from a well using a fixed pulley than by pulling it directly upward. **Reason (R):** Using a fixed pulley allows a person to pull downward in the direction of gravity and use their own body weight. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and pulling downward with body weight assistance makes lifting ergonomically easier.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "217af49911702376a8f6f35f115d2aad853ca72575a960355b027422d4c580d1",
+    "question_skeleton": "assertion a it is easier to lift a bucket of water from a well using a fixed pulley than by pulling it directly upward reason r using a fixed pulley allows a person to pull downward in the direction of gravity and use their own body weight choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_22_cf0fd4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Block and tackle string tension",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In a block and tackle with velocity ratio n, the tension throughout the continuous string is assumed to be uniform in an ideal system. **Reason (R):** An ideal string is light and inextensible, and friction at the pulley bearings is assumed to be zero. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and zero friction in ideal pulleys ensures constant tension along the entire string.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "24eeb9e459bb97a531c00279393e3332aaa318fab4bda4f4a348cd8e87bfb90f",
+    "question_skeleton": "assertion a in a block and tackle with velocity ratio n the tension throughout the continuous string is assumed to be uniform in an ideal system reason r an ideal string is light and inextensible and friction at the pulley bearings is assumed to be zero choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_23_c4db39",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Effort arm zero moment",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If the effort arm of a lever is zero, no turning effect can be produced regardless of the magnitude of effort. **Reason (R):** Moment of effort is equal to effort multiplied by effort arm length. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and zero arm length guarantees zero moment.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9bb153942f533f11613cf5422ddaad738d06aaa3af16dcb906c4c091106f86ee",
+    "question_skeleton": "assertion a if the effort arm of a lever is zero no turning effect can be produced regardless of the magnitude of effort reason r moment of effort is equal to effort multiplied by effort arm length choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_24_b75cfa",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Class I lever seesaw",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A seesaw is an example of a Class I lever. **Reason (R):** The fulcrum of a seesaw is situated at its center between the two riders. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and fulcrum situated between the two loads/efforts defines a Class I lever.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "53c731d6012415aaa957a808904d27c7b7ec8f521d05a55697223f7fc2db97eb",
+    "question_skeleton": "assertion a a seesaw is an example of a class i lever reason r the fulcrum of a seesaw is situated at its center between the two riders choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_25_130258",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Fishing rod lever classification",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A fishing rod is a Class III lever. **Reason (R):** The fisherman's hand on the reel is the fulcrum, the other hand exerts effort in the middle, and the caught fish is the load at the tip. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and effort between fulcrum and load defines Class III.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "655fd2979ac4a528c3f3ab4749b442877d19870633d862c10f40f3f53739ab1c",
+    "question_skeleton": "assertion a a fishing rod is a class iii lever reason r the fisherman s hand on the reel is the fulcrum the other hand exerts effort in the middle and the caught fish is the load at the tip choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_26_7b7ace",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Inclined plane as a machine",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An inclined plane acts as a force multiplier. **Reason (R):** The length of the inclined plane is always greater than its vertical height, so VR = (length / height) > 1. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and length exceeding vertical rise ensures VR > 1 and MA > 1.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d9521ab6a869f8e19df030dc4023d8a5ceb43f89d581a063bf781bdf062b71ef",
+    "question_skeleton": "assertion a an inclined plane acts as a force multiplier reason r the length of the inclined plane is always greater than its vertical height so vr length height # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_27_1e6c8a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Oar of a boat lever class",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An oar rowing a boat can be considered a Class II lever when the blade in water acts as the temporary fulcrum. **Reason (R):** The boat's rowlock carries the load (resisting boat mass) situated between the water blade fulcrum and the rower's handle. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and rowlock load between blade fulcrum and rower effort makes it a Class II lever.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "78efe9d063fa9c955786acb7a0418dbe561065c5c325e12b0ca5ba0253c162a0",
+    "question_skeleton": "assertion a an oar rowing a boat can be considered a class ii lever when the blade in water acts as the temporary fulcrum reason r the boat s rowlock carries the load resisting boat mass situated between the water blade fulcrum and the rower s handle choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_28_fdf954",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Pulley velocity ratio changes with string stretch",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The velocity ratio of a pulley system changes if an elastic string is used instead of an inextensible rope. **Reason (R):** An elastic string stretches under load, altering the relationship between effort displacement and load displacement. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and string elongation changes the instantaneous displacement ratio.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e9de34545c522f5c2d8a173e55c952127300fe9e057a2dbe773cfee9406a228c",
+    "question_skeleton": "assertion a the velocity ratio of a pulley system changes if an elastic string is used instead of an inextensible rope reason r an elastic string stretches under load altering the relationship between effort displacement and load displacement choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_29_f4439e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Broom lever classification",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Sweeping the floor with a domestic broom employs a Class III lever. **Reason (R):** The upper hand holding the top handle acts as the fulcrum, the lower hand applies effort, and the broom bristles encounter load. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and effort between top fulcrum and bottom load defines Class III.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b14f1bd6d403d43a447bdefdacd2fd81103f9915b80c9aeed1be5c8c927b7dae",
+    "question_skeleton": "assertion a sweeping the floor with a domestic broom employs a class iii lever reason r the upper hand holding the top handle acts as the fulcrum the lower hand applies effort and the broom bristles encounter load choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_30_599032",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Mechanical advantage unit",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Mechanical advantage and velocity ratio have the SI unit newton. **Reason (R):** Mechanical advantage is the ratio of two forces, and velocity ratio is the ratio of two distances, so both are dimensionless. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because MA and VR are pure dimensionless ratios with no units. Reason is true.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4c795d99590bd15dec3eae2492f2831de1ea8ffad0af7542b9a2726f81b6e06c",
+    "question_skeleton": "assertion a mechanical advantage and velocity ratio have the si unit newton reason r mechanical advantage is the ratio of two forces and velocity ratio is the ratio of two distances so both are dimensionless choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_31_5337f7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Combined movable and fixed pulley",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In a single movable pulley system, a fixed pulley is often added above the movable pulley. **Reason (R):** The fixed pulley changes the direction of effort from upward to convenient downward without changing the velocity ratio. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and adding a fixed pulley for downward pull retains VR = 2.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "85576023419c71fb35e8cfa7e742b8ca776e7e662685e7d0461d9519210a5c7a",
+    "question_skeleton": "assertion a in a single movable pulley system a fixed pulley is often added above the movable pulley reason r the fixed pulley changes the direction of effort from upward to convenient downward without changing the velocity ratio choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_32_defff5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Claw hammer lever class",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A claw hammer pulling out a stubborn nail acts as a Class I lever. **Reason (R):** The curved head resting against the wood acts as the fulcrum between the handle effort and the claw load. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and fulcrum between handle effort and nail load defines Class I.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "643726f018281e46cdf58541090faa5e4ddb56a5b92eb5806398aae011546f5a",
+    "question_skeleton": "assertion a a claw hammer pulling out a stubborn nail acts as a class i lever reason r the curved head resting against the wood acts as the fulcrum between the handle effort and the claw load choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_33_e7e0a5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "The Bottle Opener",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "A bottle opener of length 10 cm is used to open a bottle cap requiring a lifting force of 120 N. If the cap is situated at 2.0 cm from the fulcrum, what minimum effort must be applied at the end of the handle?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "12 N"
+      },
+      {
+        "key": "B",
+        "text": "24 N"
+      },
+      {
+        "key": "C",
+        "text": "60 N"
+      },
+      {
+        "key": "D",
+        "text": "600 N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By the principle of moments: Effort × Effort Arm = Load × Load Arm. Effort × 10 cm = 120 N × 2 cm => Effort × 10 = 240 => Effort = 240 / 10 = 24 N.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "17791da6bf69617f3540f54321344a6caeaa5f5269ceea2050d2edc416dd2314",
+    "question_skeleton": "assertion a a metal crown cap bottle opener is a class ii lever reason r the fulcrum rests on top of the cap the lip hooks under the cap edge load and lifting effort is applied at the handle choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_34_2228ac",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Tongs as speed multiplier",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Fire tongs cannot act as a force multiplier. **Reason (R):** In a Class III lever, the effort arm is always shorter than the load arm, so MA is always less than 1. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and MA < 1 guarantees that it cannot multiply force.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "682403e843cb15e16140c4b4a56adbfabc3f775d2d7cc6d439936791e21fb4aa",
+    "question_skeleton": "assertion a fire tongs cannot act as a force multiplier reason r in a class iii lever the effort arm is always shorter than the load arm so ma is always less than # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_35_c585a7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Ideal pulley efficiency",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The mechanical advantage of an ideal pulley system equals its velocity ratio. **Reason (R):** For an ideal machine with no friction and massless components, efficiency is 100% (η = 1). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since MA = η × VR and η = 1, MA = VR.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7aa93a6b82afcbec5e441be42d6aebdd6775f2efd535b7ae4410443f77d482b2",
+    "question_skeleton": "assertion a the mechanical advantage of an ideal pulley system equals its velocity ratio reason r for an ideal machine with no friction and massless components efficiency is # # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_36_1153eb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Effort direction in block and tackle",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In a block and tackle with an odd number of total pulleys (e.g. 5), the string should be tied to the upper block if effort is pulled downward. **Reason (R):** Tying the string to the upper block ensures that the effort can be applied in the downward direction from the top pulley. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because for 5 pulleys with downward effort, the string must be tied to the tackle of the movable (lower) block so that it passes over 5 pulleys with the last segment coming off the fixed block downward. Reason is true.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cb0596b8971fc759700353397f3184a04b2361538b7d233cff8e3539c42bf031",
+    "question_skeleton": "assertion a in a block and tackle with an odd number of total pulleys e g # the string should be tied to the upper block if effort is pulled downward reason r tying the string to the upper block ensures that the effort can be applied in the downward direction from the top pulley choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_37_3fa9f3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Paper cutter lever class",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A desktop guillotine paper cutter is a Class II lever. **Reason (R):** The hinge at one end is the fulcrum, the paper being sliced is the load, and the handle at the other end is the effort. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and paper load between hinge fulcrum and handle effort defines Class II.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "16248180f9817bbd6835d64cba5158b0b2b4676d92aab8b0c78af89ae6c82c39",
+    "question_skeleton": "assertion a a desktop guillotine paper cutter is a class ii lever reason r the hinge at one end is the fulcrum the paper being sliced is the load and the handle at the other end is the effort choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_38_f10d5f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Spade lifting soil lever class",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A gardener lifting a heap of soil on a spade uses it as a Class III lever. **Reason (R):** The hand near the top handle acts as the fulcrum, the lower hand lifts in the middle (effort), and the soil load rests at the blade. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and effort between fulcrum and soil load defines Class III.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2179b3f7335b21dff42bb7fbe923853e229c6f193ee537e1fdf3bce02cc7a45a",
+    "question_skeleton": "assertion a a gardener lifting a heap of soil on a spade uses it as a class iii lever reason r the hand near the top handle acts as the fulcrum the lower hand lifts in the middle effort and the soil load rests at the blade choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_39_6fc030",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "Assertion–Reason: Velocity ratio changes with load",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The velocity ratio of a block and tackle decreases when a heavier load is attached. **Reason (R):** Heavier loads cause increased friction in the pulley bearings. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because velocity ratio depends only on the number of pulleys and string geometry, not on the load magnitude. Reason is true (friction increases with load, reducing MA, not VR).",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0181ee64e031cdee5d4d2ecac01f291740574ebf626c560f10b04d6842f6edae",
+    "question_skeleton": "assertion a the velocity ratio of a block and tackle decreases when a heavier load is attached reason r heavier loads cause increased friction in the pulley bearings choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_machines_40_39fee3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Machines",
+    "title": "The Nutcracker",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "A nutcracker has an effort arm of 12 cm and a load arm of 4 cm. If an effort of 30 N is applied at the outer handles, what crushing force (load) is exerted on the nut located between the jaws?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10 N"
+      },
+      {
+        "key": "B",
+        "text": "30 N"
+      },
+      {
+        "key": "C",
+        "text": "60 N"
+      },
+      {
+        "key": "D",
+        "text": "90 N"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For an ideal Class II lever: Load × Load Arm = Effort × Effort Arm. Load × 4 cm = 30 N × 12 cm => Load × 4 = 360 => Load = 360 / 4 = 90 N.",
+    "concept_name": "Machines",
+    "concept_tag": "machines assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4db87e825358937176366e70a40fd2e048f8a94b1a1d41981572b71af4d5a427",
+    "question_skeleton": "assertion a a nutcracker with effort arm # cm and load arm # cm has an ideal mechanical advantage of # reason r mechanical advantage of an ideal lever is the ratio of effort arm to load arm # # # choose the correct option"
+  }
+]

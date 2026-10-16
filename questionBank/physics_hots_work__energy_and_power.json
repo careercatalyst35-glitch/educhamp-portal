@@ -1,0 +1,1347 @@
+[
+  {
+    "globalId": "qb_hots_work__energy_and_power_1_mqka2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Motor lifting a load with acceleration",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A motor lifts a 20 kg load vertically with an upward acceleration of 2 m/s². At a particular instant, the load's upward speed is 4 m/s. What is the instantaneous mechanical power delivered by the lifting force at that instant?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"85\" y=\"10\" width=\"150\" height=\"18\" rx=\"3\" fill=\"#64748B\" stroke=\"currentColor\" /><circle cx=\"160\" cy=\"43\" r=\"15\" fill=\"#94A3B8\" stroke=\"currentColor\" /><path d=\"M145 43 V98 H175 V43\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><rect x=\"135\" y=\"98\" width=\"50\" height=\"29\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M210 102 V76 M204 82 L210 76 L216 82\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\" /><text x=\"15\" y=\"50\" font-size=\"10\" fill=\"currentColor\">Mass = 20 kg</text><text x=\"215\" y=\"93\" font-size=\"10\" fill=\"#16A34A\">Upward</text><text x=\"15\" y=\"141\" font-size=\"10\" fill=\"currentColor\">Acceleration = 2 m/s²; speed at instant = 4 m/s</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "800 W"
+      },
+      {
+        "key": "B",
+        "text": "880 W"
+      },
+      {
+        "key": "C",
+        "text": "960 W"
+      },
+      {
+        "key": "D",
+        "text": "1,200 W"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Average power",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_2_kh3cf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by two forces at different angles",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A body moves 10 m horizontally to the right. A 50 N force acts at 60^° above the direction of motion, a 20 N force acts directly opposite to motion, and a third force of 15 N acts vertically. What is the total work done by all three forces?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"125\" y=\"70\" width=\"45\" height=\"35\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M148 70 L215 20 M205 21 L215 20 L213 30\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><path d=\"M125 88 H45 M53 80 L45 88 L53 96\" stroke=\"#DC2626\" stroke-width=\"2\" fill=\"none\" /><path d=\"M148 105 V130\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\" /><text x=\"217\" y=\"20\" font-size=\"10\" fill=\"#2563EB\">50 N at 60°</text><text x=\"10\" y=\"75\" font-size=\"10\" fill=\"#DC2626\">20 N opposite</text><text x=\"15\" y=\"16\" font-size=\"10\" fill=\"currentColor\">Displacement = 10 m horizontally right</text><text x=\"177\" y=\"123\" font-size=\"10\" fill=\"#16A34A\">Perpendicular force</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "50 J"
+      },
+      {
+        "key": "B",
+        "text": "150 J"
+      },
+      {
+        "key": "C",
+        "text": "250 J"
+      },
+      {
+        "key": "D",
+        "text": "350 J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Percentage change in KE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_3_8m8kh",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Braking distance on a downward slope",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 1,000 kg car moves downhill at 20 m/s on a slope inclined at 30^°. The brakes exert a constant 8,000 N force uphill. Assume no other resistive force. How far does the car travel before stopping?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20 30 L295 120\" stroke=\"currentColor\" stroke-width=\"2.5\" fill=\"none\" /><rect x=\"125\" y=\"60\" width=\"45\" height=\"27\" fill=\"#F59E0B\" stroke=\"currentColor\" transform=\"rotate(18 147 73)\" /><path d=\"M170 75 L220 91 M211 84 L220 91 L210 96\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><path d=\"M125 62 L88 50 M96 45 L88 50 L95 56\" stroke=\"#DC2626\" stroke-width=\"2\" fill=\"none\" /><text x=\"12\" y=\"15\" font-size=\"10\" fill=\"currentColor\">Mass = 1,000 kg; slope angle = 30°</text><text x=\"191\" y=\"72\" font-size=\"10\" fill=\"#2563EB\">Motion downhill</text><text x=\"15\" y=\"141\" font-size=\"10\" fill=\"currentColor\">Initial speed = 20 m/s; braking force = 8,000 N uphill</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "20 m"
+      },
+      {
+        "key": "B",
+        "text": "25 m"
+      },
+      {
+        "key": "C",
+        "text": "40 m"
+      },
+      {
+        "key": "D",
+        "text": "50 m"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Lever efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_4_yyaoy",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Two-stage lifting with a change in efficiency",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A machine receives 5,000 J of energy. Its first stage is 80% efficient, and the second stage converts 50% of the energy received from the first stage into useful output. What is the total useful output energy?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"20\" y=\"20\" width=\"110\" height=\"35\" rx=\"4\" fill=\"#60A5FA\" stroke=\"currentColor\" /><rect x=\"190\" y=\"20\" width=\"110\" height=\"35\" rx=\"4\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M130 37 H190 M182 29 L190 37 L182 45\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><text x=\"30\" y=\"34\" font-size=\"10\" fill=\"#111827\">Stage 1</text><text x=\"30\" y=\"47\" font-size=\"9\" fill=\"#111827\">Efficiency 80%</text><text x=\"200\" y=\"34\" font-size=\"10\" fill=\"#111827\">Stage 2</text><text x=\"200\" y=\"47\" font-size=\"9\" fill=\"#111827\">Efficiency 50%</text><text x=\"15\" y=\"86\" font-size=\"10\" fill=\"currentColor\">Input energy = 5,000 J</text><text x=\"15\" y=\"103\" font-size=\"10\" fill=\"currentColor\">Useful energy after both stages?</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "1,000 J"
+      },
+      {
+        "key": "B",
+        "text": "2,000 J"
+      },
+      {
+        "key": "C",
+        "text": "2,500 J"
+      },
+      {
+        "key": "D",
+        "text": "4,000 J"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Fuel efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_5_wicvk",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "A block projected up a rough incline",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 2 kg block is projected up a rough incline at 10 m/s. The component of gravitational acceleration down the incline is 6 m/s², and friction has a magnitude of 4 N. How far up the incline does the block travel before momentarily coming to rest?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M25 125 L290 30 L290 125 Z\" fill=\"#94A3B8\" fill-opacity=\"0.12\" stroke=\"currentColor\" stroke-width=\"1.5\" /><rect x=\"115\" y=\"76\" width=\"30\" height=\"21\" fill=\"#F59E0B\" stroke=\"currentColor\" transform=\"rotate(-19.7 130 86)\" /><path d=\"M141 76 L185 60 M177 54 L185 60 L178 66\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><text x=\"186\" y=\"54\" font-size=\"10\" fill=\"#2563EB\">Initial motion</text><text x=\"15\" y=\"15\" font-size=\"10\" fill=\"currentColor\">Mass = 2 kg; initial speed = 10 m/s</text><text x=\"180\" y=\"106\" font-size=\"10\" fill=\"currentColor\">Incline: sin θ = 0.6</text><text x=\"15\" y=\"143\" font-size=\"10\" fill=\"currentColor\">Friction force = 4 N</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "4 m"
+      },
+      {
+        "key": "B",
+        "text": "5 m"
+      },
+      {
+        "key": "C",
+        "text": "6.25 m"
+      },
+      {
+        "key": "D",
+        "text": "8 m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Net work and KE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_6_v2kzm",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Compound machine: pulley followed by a lever",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A compound machine uses a pulley and a lever to lift a load. The total input work supplied to the complete machine is 1,000 J, and its overall efficiency is 60%. If the load gains 240 J of gravitational potential energy in 4 s, what is the energy dissipated and the average useful output power?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 165\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"20\" y=\"12\" width=\"100\" height=\"18\" rx=\"3\" fill=\"#64748B\" stroke=\"currentColor\" /><circle cx=\"70\" cy=\"52\" r=\"18\" fill=\"#94A3B8\" stroke=\"currentColor\" /><path d=\"M52 52 V86 M88 52 V86\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><rect x=\"46\" y=\"86\" width=\"48\" height=\"24\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M115 100 H295\" stroke=\"#16A34A\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M210 100 L195 128 H225 Z\" fill=\"#94A3B8\" stroke=\"currentColor\" /><text x=\"125\" y=\"88\" font-size=\"10\" fill=\"currentColor\">Lever</text><text x=\"15\" y=\"144\" font-size=\"10\" fill=\"currentColor\">Combined input work = 1,000 J</text><text x=\"15\" y=\"158\" font-size=\"10\" fill=\"currentColor\">Overall efficiency = 60%</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "400 J, 60 W"
+      },
+      {
+        "key": "B",
+        "text": "600 J, 60 W"
+      },
+      {
+        "key": "C",
+        "text": "400 J, 240 W"
+      },
+      {
+        "key": "D",
+        "text": "760 J, 60 W"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Power at constant speed",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_7_42l5w",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Comparing power on different planets",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 10 kg object is raised vertically through 2 m in 4 s on Planet A, where g=10 m/s², and on Planet B, where g=4 m/s². What is the ratio of the useful average powers, P_A:P_B?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"75\" cy=\"45\" r=\"24\" fill=\"#60A5FA\" stroke=\"currentColor\" /><circle cx=\"245\" cy=\"45\" r=\"24\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M75 70 V105 M245 70 V105\" stroke=\"currentColor\" stroke-width=\"1.5\" /><rect x=\"61\" y=\"85\" width=\"28\" height=\"20\" fill=\"#94A3B8\" stroke=\"currentColor\" /><rect x=\"231\" y=\"85\" width=\"28\" height=\"20\" fill=\"#94A3B8\" stroke=\"currentColor\" /><text x=\"42\" y=\"15\" font-size=\"10\" fill=\"currentColor\">Planet A</text><text x=\"212\" y=\"15\" font-size=\"10\" fill=\"currentColor\">Planet B</text><text x=\"20\" y=\"125\" font-size=\"10\" fill=\"currentColor\">g = 10 m/s²</text><text x=\"188\" y=\"125\" font-size=\"10\" fill=\"currentColor\">g = 4 m/s²</text><text x=\"20\" y=\"140\" font-size=\"9\" fill=\"currentColor\">Same 10 kg mass; rise 2 m in 4 s on each planet</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "1:1"
+      },
+      {
+        "key": "B",
+        "text": "5:2"
+      },
+      {
+        "key": "C",
+        "text": "2:5"
+      },
+      {
+        "key": "D",
+        "text": "25:4"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Gravitational field strength",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_8_z9026",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Comparing fuel consumption at different efficiencies",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two engines must each deliver 8,000 J of useful mechanical energy. Engine A has an efficiency of 25%, while Engine B has an efficiency of 40%. What is the ratio of their required input energies, E_A:E_B?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"25\" y=\"30\" width=\"95\" height=\"55\" rx=\"4\" fill=\"#64748B\" stroke=\"currentColor\" /><rect x=\"200\" y=\"30\" width=\"95\" height=\"55\" rx=\"4\" fill=\"#64748B\" stroke=\"currentColor\" /><path d=\"M120 57 H165 M157 49 L165 57 L157 65\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><path d=\"M295 57 H307\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\" /><text x=\"37\" y=\"50\" font-size=\"10\" fill=\"#FFFFFF\">Engine A</text><text x=\"37\" y=\"68\" font-size=\"10\" fill=\"#FFFFFF\">η = 25%</text><text x=\"212\" y=\"50\" font-size=\"10\" fill=\"#FFFFFF\">Engine B</text><text x=\"212\" y=\"68\" font-size=\"10\" fill=\"#FFFFFF\">η = 40%</text><text x=\"20\" y=\"105\" font-size=\"10\" fill=\"currentColor\">Both must deliver 8,000 J of useful energy.</text><text x=\"20\" y=\"124\" font-size=\"10\" fill=\"currentColor\">Compare their required input energies.</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "5:8"
+      },
+      {
+        "key": "B",
+        "text": "8:5"
+      },
+      {
+        "key": "C",
+        "text": "2:5"
+      },
+      {
+        "key": "D",
+        "text": "5:2"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Fuel efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_9_uboa6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Falling body: energy at a fraction of the height",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 2 kg body is dropped from rest from a height of 20 m. At point B it is 10 m above the ground. Ignore air resistance. What is the ratio of its kinetic energy to potential energy at B?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M25 115 H295\" stroke=\"currentColor\" stroke-width=\"1.5\" /><circle cx=\"100\" cy=\"20\" r=\"9\" fill=\"#F59E0B\" stroke=\"currentColor\" /><circle cx=\"100\" cy=\"68\" r=\"9\" fill=\"#2563EB\" stroke=\"currentColor\" /><path d=\"M125 20 V115 M125 68 V115\" stroke=\"currentColor\" stroke-dasharray=\"3 3\" fill=\"none\" /><path d=\"M100 34 V52 M95 45 L100 52 L105 45\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><text x=\"137\" y=\"23\" fill=\"currentColor\" font-size=\"10\">A: 20 m</text><text x=\"137\" y=\"71\" fill=\"currentColor\" font-size=\"10\">B: 10 m above ground</text><text x=\"25\" y=\"133\" fill=\"currentColor\" font-size=\"10\">Ground level = zero potential energy</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "1:1"
+      },
+      {
+        "key": "B",
+        "text": "1:2"
+      },
+      {
+        "key": "C",
+        "text": "2:1"
+      },
+      {
+        "key": "D",
+        "text": "3:1"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Power–time graph",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_10_zxluv",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Spring and moving block: stored energy",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A spring of constant 200 N/m is compressed by 0.10 m and releases a 1 kg block on a smooth horizontal surface. What is the maximum speed of the block if all the spring's stored energy becomes kinetic energy?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 105\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20 75 H300\" stroke=\"currentColor\" stroke-width=\"1.5\" /><path d=\"M25 75 V38 H40 V75\" stroke=\"currentColor\" fill=\"none\" stroke-width=\"2\" /><path d=\"M40 56 L50 46 L60 66 L70 46 L80 66 L90 46 L100 66 L110 56\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><rect x=\"110\" y=\"39\" width=\"40\" height=\"35\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M160 55 H205 M198 49 L205 55 L198 61\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\" /><text x=\"45\" y=\"20\" fill=\"currentColor\" font-size=\"10\">Compressed spring</text><text x=\"165\" y=\"44\" fill=\"#16A34A\" font-size=\"10\">Release</text><text x=\"15\" y=\"96\" fill=\"currentColor\" font-size=\"10\">Spring constant = 200 N/m; compression = 0.10 m</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 m/s"
+      },
+      {
+        "key": "B",
+        "text": "sqrt2 m/s"
+      },
+      {
+        "key": "C",
+        "text": "2 m/s"
+      },
+      {
+        "key": "D",
+        "text": "√(10) m/s"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Percentage change in KE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_11_gsv50",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Two ramps, same height, different lengths",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two identical 2 kg blocks are raised from the ground to the same height of 3 m using smooth ramps of different lengths. Both start and finish at rest. Which statement is correct about the work done by the gravitational force?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 155\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20 120 H300 M35 120 L150 40 M185 120 L270 40\" stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\" /><rect x=\"84\" y=\"75\" width=\"25\" height=\"18\" fill=\"#60A5FA\" stroke=\"currentColor\" transform=\"rotate(-34.8 96 84)\" /><rect x=\"224\" y=\"75\" width=\"25\" height=\"18\" fill=\"#F59E0B\" stroke=\"currentColor\" transform=\"rotate(-42 236 84)\" /><text x=\"33\" y=\"135\" fill=\"currentColor\" font-size=\"10\">Ramp A: 10 m</text><text x=\"182\" y=\"135\" fill=\"currentColor\" font-size=\"10\">Ramp B: 6 m</text><text x=\"20\" y=\"15\" fill=\"currentColor\" font-size=\"10\">Same vertical rise = 3 m; each block = 2 kg</text><text x=\"157\" y=\"65\" fill=\"currentColor\" font-size=\"10\">Smooth</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ramp A: -60 J; Ramp B: -60 J"
+      },
+      {
+        "key": "B",
+        "text": "Ramp A: -20 J; Ramp B: -30 J"
+      },
+      {
+        "key": "C",
+        "text": "Ramp A: -60 J; Ramp B: -120 J"
+      },
+      {
+        "key": "D",
+        "text": "It is zero for both ramps."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Lever efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_12_413hl",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Free fall and energy conversion",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A stone is released from rest at a height H above the ground. Air resistance is negligible. At a point where the stone has fallen through one-quarter of the original height, which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "One-quarter of the original potential energy has been converted into kinetic energy, and the remaining potential energy is three-quarters of the original value."
+      },
+      {
+        "key": "B",
+        "text": "One-quarter of the original potential energy remains, while three-quarters has been converted into kinetic energy."
+      },
+      {
+        "key": "C",
+        "text": "The kinetic energy equals the remaining potential energy."
+      },
+      {
+        "key": "D",
+        "text": "The kinetic energy is three times the remaining potential energy only if the stone has constant acceleration."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Pump efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_13_8inli",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Comparing power when lifting loads",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two identical motors lift different loads through the same height. Motor A lifts a 40,kg load in 8,s, while motor B lifts a 60,kg load in 12,s. Both loads start and finish at rest. Neglecting losses, which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Motor A develops greater average power because it operates for less time."
+      },
+      {
+        "key": "B",
+        "text": "Motor B develops greater average power because it lifts the heavier load."
+      },
+      {
+        "key": "C",
+        "text": "Both motors develop the same average useful power."
+      },
+      {
+        "key": "D",
+        "text": "Their average powers cannot be compared without knowing their speeds at intermediate points."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Screw-jack efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_14_zrcyq",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by a variable force",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A force acts along the direction of displacement. Its magnitude increases uniformly from 10,N to 30,N while an object moves 5,m. What is the work done by the force?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50,J"
+      },
+      {
+        "key": "B",
+        "text": "75,J"
+      },
+      {
+        "key": "C",
+        "text": "100,J"
+      },
+      {
+        "key": "D",
+        "text": "150,J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Percentage change in KE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_15_4qxi8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Spring compression and stored energy",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two springs have force constants k and 4k, respectively. They are compressed by the same distance within their elastic limits. The ratio of the energy stored in the second spring to that stored in the first spring is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1:4"
+      },
+      {
+        "key": "B",
+        "text": "1:2"
+      },
+      {
+        "key": "C",
+        "text": "2:1"
+      },
+      {
+        "key": "D",
+        "text": "4:1"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Gravitational field strength",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_16_pijsy",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Hydroelectric power output",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Water flows through a hydroelectric plant at 50,kg/s from a vertical height of 40,m. If the plant's overall efficiency is 70%, its electrical output power is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "7,kW"
+      },
+      {
+        "key": "B",
+        "text": "10,kW"
+      },
+      {
+        "key": "C",
+        "text": "14,kW"
+      },
+      {
+        "key": "D",
+        "text": "20,kW"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_17_rkbvz",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by forces acting at different angles",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A body is displaced 12 m horizontally. A force of 100 N acts at 60^° to the direction of displacement, while another force of 30 N acts directly opposite to the displacement. Calculate the total work done by these two forces.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "120 J"
+      },
+      {
+        "key": "B",
+        "text": "240 J"
+      },
+      {
+        "key": "C",
+        "text": "360 J"
+      },
+      {
+        "key": "D",
+        "text": "600 J"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Reference level for PE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_18_bxmrm",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done against gravity and friction",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 5 kg block is moved 10 m up a rough incline, gaining a vertical height of 4 m. A force of 50 N acts parallel to the incline. The block starts and finishes at rest. Calculate the magnitude of the work done by friction.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "100 J"
+      },
+      {
+        "key": "B",
+        "text": "200 J"
+      },
+      {
+        "key": "C",
+        "text": "300 J"
+      },
+      {
+        "key": "D",
+        "text": "500 J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Lever efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_19_ue6w9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Pulley efficiency and energy loss",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A pulley system raises a 600 N load by 3 m when an effort moves through 6 m. The applied effort is 400 N. How much energy is dissipated in the operation?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M35 15 H285\" stroke=\"currentColor\" stroke-width=\"2\" /><circle cx=\"150\" cy=\"77\" r=\"24\" fill=\"#94A3B8\" stroke=\"currentColor\" stroke-width=\"1.5\" /><path d=\"M55 15 V77 A24 24 0 0 0 103 77 V15 M174 77 V15\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><path d=\"M150 101 V115\" stroke=\"currentColor\" stroke-width=\"2\" /><rect x=\"125\" y=\"115\" width=\"50\" height=\"25\" fill=\"#F59E0B\" stroke=\"currentColor\" /><text x=\"191\" y=\"45\" font-size=\"10\" fill=\"currentColor\">Effort</text><text x=\"188\" y=\"127\" font-size=\"10\" fill=\"currentColor\">600 N</text><text x=\"12\" y=\"159\" font-size=\"10\" fill=\"currentColor\">Load rises 3 m; effort moves 6 m</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "600 J"
+      },
+      {
+        "key": "B",
+        "text": "1,200 J"
+      },
+      {
+        "key": "C",
+        "text": "1,800 J"
+      },
+      {
+        "key": "D",
+        "text": "2,400 J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Pump efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_20_ftjzq",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Average power from a non-uniform motion",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A machine performs 200 J of work in 4 s, 500 J in the next 5 s, and 300 J in the final 1 s. What is its average power over the complete operation?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 125\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M25 95 H295\" stroke=\"currentColor\" stroke-width=\"1.5\" /><rect x=\"40\" y=\"50\" width=\"55\" height=\"45\" fill=\"#60A5FA\" stroke=\"currentColor\" /><rect x=\"132\" y=\"30\" width=\"55\" height=\"65\" fill=\"#F59E0B\" stroke=\"currentColor\" /><rect x=\"224\" y=\"15\" width=\"55\" height=\"80\" fill=\"#16A34A\" fill-opacity=\"0.7\" stroke=\"currentColor\" /><text x=\"46\" y=\"68\" font-size=\"10\" fill=\"#111827\">Stage 1</text><text x=\"137\" y=\"48\" font-size=\"10\" fill=\"#111827\">Stage 2</text><text x=\"230\" y=\"33\" font-size=\"10\" fill=\"#111827\">Stage 3</text><text x=\"15\" y=\"112\" font-size=\"10\" fill=\"currentColor\">Work: 200 J, 500 J, 300 J</text><text x=\"15\" y=\"123\" font-size=\"9\" fill=\"currentColor\">Time: 4 s, 5 s, 1 s respectively</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "80 W"
+      },
+      {
+        "key": "B",
+        "text": "90 W"
+      },
+      {
+        "key": "C",
+        "text": "100 W"
+      },
+      {
+        "key": "D",
+        "text": "125 W"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Power–time graph",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_21_fd36f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Equal momentum and energy loss in a collision",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 2 kg body moving at 6 m/s collides with a stationary 4 kg body. They stick together and move as one body. What fraction of the initial kinetic energy is lost in the collision?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 125\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"25\" y=\"43\" width=\"48\" height=\"34\" fill=\"#60A5FA\" stroke=\"currentColor\" /><rect x=\"235\" y=\"43\" width=\"48\" height=\"34\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M75 60 H140 M132 52 L140 60 L132 68\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><path d=\"M233 60 H168 M176 52 L168 60 L176 68\" stroke=\"#DC2626\" stroke-width=\"2\" fill=\"none\" /><text x=\"20\" y=\"22\" font-size=\"10\" fill=\"currentColor\">A: 2 kg at 6 m/s</text><text x=\"187\" y=\"22\" font-size=\"10\" fill=\"currentColor\">B: 4 kg at rest</text><text x=\"15\" y=\"102\" font-size=\"10\" fill=\"currentColor\">The bodies stick together after impact</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "frac13"
+      },
+      {
+        "key": "B",
+        "text": "frac12"
+      },
+      {
+        "key": "C",
+        "text": "frac23"
+      },
+      {
+        "key": "D",
+        "text": "frac34"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Screw-jack efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_22_l1y98",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Efficiency of a motor pumping water uphill",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A pump lifts 100 kg of water per minute through a height of 12 m. Its electrical input power is 400 W. What is the efficiency of the pump?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"20\" y=\"80\" width=\"70\" height=\"40\" fill=\"#60A5FA\" fill-opacity=\"0.3\" stroke=\"#2563EB\" /><path d=\"M90 100 H150 V40 H240\" stroke=\"#2563EB\" stroke-width=\"3\" fill=\"none\" /><rect x=\"240\" y=\"22\" width=\"60\" height=\"35\" fill=\"#94A3B8\" stroke=\"currentColor\" /><text x=\"20\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Source</text><text x=\"239\" y=\"16\" font-size=\"10\" fill=\"currentColor\">Tank</text><text x=\"15\" y=\"135\" font-size=\"10\" fill=\"currentColor\">Water: 100 kg/min; height = 12 m</text><text x=\"160\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Pump</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "40%"
+      },
+      {
+        "key": "B",
+        "text": "50%"
+      },
+      {
+        "key": "C",
+        "text": "60%"
+      },
+      {
+        "key": "D",
+        "text": "80%"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Friction and thermal energy",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_23_3bd29",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Two-stage energy conversion in a generator",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A system receives 10 kW of mechanical power. The first conversion stage has 80% efficiency, and the second stage has 90% efficiency. What is the final useful output power?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"43\" width=\"75\" height=\"42\" rx=\"4\" fill=\"#60A5FA\" stroke=\"currentColor\" /><rect x=\"125\" y=\"43\" width=\"75\" height=\"42\" rx=\"4\" fill=\"#94A3B8\" stroke=\"currentColor\" /><rect x=\"240\" y=\"43\" width=\"70\" height=\"42\" rx=\"4\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M85 64 H125 M117 56 L125 64 L117 72 M200 64 H240 M232 56 L240 64 L232 72\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><text x=\"17\" y=\"60\" font-size=\"10\" fill=\"#111827\">Turbine</text><text x=\"17\" y=\"74\" font-size=\"9\" fill=\"#111827\">10 kW</text><text x=\"135\" y=\"60\" font-size=\"10\" fill=\"#111827\">Generator</text><text x=\"136\" y=\"74\" font-size=\"9\" fill=\"#111827\">80%</text><text x=\"246\" y=\"60\" font-size=\"10\" fill=\"#111827\">Output</text><text x=\"246\" y=\"74\" font-size=\"9\" fill=\"#111827\">90%</text><text x=\"15\" y=\"20\" font-size=\"10\" fill=\"currentColor\">Mechanical input = 10 kW; two conversion stages</text><text x=\"15\" y=\"115\" font-size=\"10\" fill=\"currentColor\">First-stage efficiency = 80%; second-stage efficiency = 90%</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "5.6 kW"
+      },
+      {
+        "key": "B",
+        "text": "7.2 kW"
+      },
+      {
+        "key": "C",
+        "text": "8.0 kW"
+      },
+      {
+        "key": "D",
+        "text": "9.0 kW"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Centripetal force and work",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_24_6s8pc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Motor lifting a load with acceleration",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the instantaneous mechanical power delivered by the lifting force at that instant?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"85\" y=\"10\" width=\"150\" height=\"18\" rx=\"3\" fill=\"#64748B\" stroke=\"currentColor\"/>\n    <circle cx=\"160\" cy=\"43\" r=\"15\" fill=\"#94A3B8\" stroke=\"currentColor\"/>\n    <path d=\"M145 43 V98 H175 V43\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/>\n    <rect x=\"135\" y=\"98\" width=\"50\" height=\"29\" fill=\"#F59E0B\" stroke=\"currentColor\"/>\n    <path d=\"M210 102 V76 M204 82 L210 76 L216 82\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"15\" y=\"50\" font-size=\"10\" fill=\"currentColor\">Mass = 20 kg</text>\n    <text x=\"215\" y=\"93\" font-size=\"10\" fill=\"#16A34A\">Upward</text>\n    <text x=\"15\" y=\"141\" font-size=\"10\" fill=\"currentColor\">Acceleration = 2 m/s²; speed at instant = 4 m/s</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "800 W"
+      },
+      {
+        "key": "B",
+        "text": "880 W"
+      },
+      {
+        "key": "C",
+        "text": "960 W"
+      },
+      {
+        "key": "D",
+        "text": "1,200 W"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Average power",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_25_zxhy4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Pulley efficiency and energy loss",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "How much energy is dissipated in the operation?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M35 15 H285\" stroke=\"currentColor\" stroke-width=\"2\"/>\n    <circle cx=\"150\" cy=\"77\" r=\"24\" fill=\"#94A3B8\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <path d=\"M55 15 V77 A24 24 0 0 0 103 77 V15 M174 77 V15\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/>\n    <path d=\"M150 101 V115\" stroke=\"currentColor\" stroke-width=\"2\"/>\n    <rect x=\"125\" y=\"115\" width=\"50\" height=\"25\" fill=\"#F59E0B\" stroke=\"currentColor\"/>\n    <text x=\"191\" y=\"45\" font-size=\"10\" fill=\"currentColor\">Effort</text>\n    <text x=\"188\" y=\"127\" font-size=\"10\" fill=\"currentColor\">600 N</text>\n    <text x=\"12\" y=\"159\" font-size=\"10\" fill=\"currentColor\">Load rises 3 m; effort moves 6 m</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "600 J"
+      },
+      {
+        "key": "B",
+        "text": "1,200 J"
+      },
+      {
+        "key": "C",
+        "text": "1,800 J"
+      },
+      {
+        "key": "D",
+        "text": "2,400 J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Pump efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_26_zb3w9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Average power from a non-uniform motion",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is its average power over the complete operation?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 125\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M25 95 H295\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <rect x=\"40\" y=\"50\" width=\"55\" height=\"45\" fill=\"#60A5FA\" stroke=\"currentColor\"/>\n    <rect x=\"132\" y=\"30\" width=\"55\" height=\"65\" fill=\"#F59E0B\" stroke=\"currentColor\"/>\n    <rect x=\"224\" y=\"15\" width=\"55\" height=\"80\" fill=\"#16A34A\" fill-opacity=\"0.7\" stroke=\"currentColor\"/>\n    <text x=\"46\" y=\"68\" font-size=\"10\" fill=\"#111827\">Stage 1</text><text x=\"137\" y=\"48\" font-size=\"10\" fill=\"#111827\">Stage 2</text><text x=\"230\" y=\"33\" font-size=\"10\" fill=\"#111827\">Stage 3</text>\n    <text x=\"15\" y=\"112\" font-size=\"10\" fill=\"currentColor\">Work: 200 J, 500 J, 300 J</text>\n    <text x=\"15\" y=\"123\" font-size=\"9\" fill=\"currentColor\">Time: 4 s, 5 s, 1 s respectively</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "80 W"
+      },
+      {
+        "key": "B",
+        "text": "90 W"
+      },
+      {
+        "key": "C",
+        "text": "100 W"
+      },
+      {
+        "key": "D",
+        "text": "125 W"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Power–time graph",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_27_s04qk",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Equal momentum and energy loss in a collision",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What fraction of the initial kinetic energy is lost in the collision?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 125\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"25\" y=\"43\" width=\"48\" height=\"34\" fill=\"#60A5FA\" stroke=\"currentColor\"/>\n    <rect x=\"235\" y=\"43\" width=\"48\" height=\"34\" fill=\"#F59E0B\" stroke=\"currentColor\"/>\n    <path d=\"M75 60 H140 M132 52 L140 60 L132 68\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/>\n    <path d=\"M233 60 H168 M176 52 L168 60 L176 68\" stroke=\"#DC2626\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"20\" y=\"22\" font-size=\"10\" fill=\"currentColor\">A: 2 kg at 6 m/s</text><text x=\"187\" y=\"22\" font-size=\"10\" fill=\"currentColor\">B: 4 kg at rest</text>\n    <text x=\"15\" y=\"102\" font-size=\"10\" fill=\"currentColor\">The bodies stick together after impact</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "frac13"
+      },
+      {
+        "key": "B",
+        "text": "frac12"
+      },
+      {
+        "key": "C",
+        "text": "frac23"
+      },
+      {
+        "key": "D",
+        "text": "frac34"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Screw-jack efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_28_ek69v",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by two forces at different angles",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the total work done by all three forces?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"125\" y=\"70\" width=\"45\" height=\"35\" fill=\"#F59E0B\" stroke=\"currentColor\"/>\n    <path d=\"M148 70 L215 20 M205 21 L215 20 L213 30\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/>\n    <path d=\"M125 88 H45 M53 80 L45 88 L53 96\" stroke=\"#DC2626\" stroke-width=\"2\" fill=\"none\"/>\n    <path d=\"M148 105 V130\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"217\" y=\"20\" font-size=\"10\" fill=\"#2563EB\">50 N at 60°</text>\n    <text x=\"10\" y=\"75\" font-size=\"10\" fill=\"#DC2626\">20 N opposite</text>\n    <text x=\"15\" y=\"16\" font-size=\"10\" fill=\"currentColor\">Displacement = 10 m horizontally right</text>\n    <text x=\"177\" y=\"123\" font-size=\"10\" fill=\"#16A34A\">Perpendicular force</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "50 J"
+      },
+      {
+        "key": "B",
+        "text": "150 J"
+      },
+      {
+        "key": "C",
+        "text": "250 J"
+      },
+      {
+        "key": "D",
+        "text": "350 J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Percentage change in KE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_29_c1iyh",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Efficiency of a motor pumping water uphill",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the efficiency of the pump?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"20\" y=\"80\" width=\"70\" height=\"40\" fill=\"#60A5FA\" fill-opacity=\"0.3\" stroke=\"#2563EB\"/>\n    <path d=\"M90 100 H150 V40 H240\" stroke=\"#2563EB\" stroke-width=\"3\" fill=\"none\"/>\n    <rect x=\"240\" y=\"22\" width=\"60\" height=\"35\" fill=\"#94A3B8\" stroke=\"currentColor\"/>\n    <text x=\"20\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Source</text><text x=\"239\" y=\"16\" font-size=\"10\" fill=\"currentColor\">Tank</text>\n    <text x=\"15\" y=\"135\" font-size=\"10\" fill=\"currentColor\">Water: 100 kg/min; height = 12 m</text>\n    <text x=\"160\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Pump</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "40%"
+      },
+      {
+        "key": "B",
+        "text": "50%"
+      },
+      {
+        "key": "C",
+        "text": "60%"
+      },
+      {
+        "key": "D",
+        "text": "80%"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Friction and thermal energy",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_work__energy_and_power_30_4fnf7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Work, Energy and Power",
+    "title": "Braking distance on a downward slope",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "How far does the car travel before stopping?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M20 30 L295 120\" stroke=\"currentColor\" stroke-width=\"2.5\" fill=\"none\"/>\n    <rect x=\"125\" y=\"60\" width=\"45\" height=\"27\" fill=\"#F59E0B\" stroke=\"currentColor\" transform=\"rotate(18 147 73)\"/>\n    <path d=\"M170 75 L220 91 M211 84 L220 91 L210 96\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/>\n    <path d=\"M125 62 L88 50 M96 45 L88 50 L95 56\" stroke=\"#DC2626\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"12\" y=\"15\" font-size=\"10\" fill=\"currentColor\">Mass = 1,000 kg; slope angle = 30°</text>\n    <text x=\"191\" y=\"72\" font-size=\"10\" fill=\"#2563EB\">Motion downhill</text>\n    <text x=\"15\" y=\"141\" font-size=\"10\" fill=\"currentColor\">Initial speed = 20 m/s; braking force = 8,000 N uphill</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "20 m"
+      },
+      {
+        "key": "B",
+        "text": "25 m"
+      },
+      {
+        "key": "C",
+        "text": "40 m"
+      },
+      {
+        "key": "D",
+        "text": "50 m"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Lever efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "globalId": "qb_hots_periodic_table_1_qjs0b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Atomic number and periodic identity",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Two neutral atoms have atomic numbers 11 and 17. Which statement correctly compares them?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both are metals because they are in Period 3"
+      },
+      {
+        "key": "B",
+        "text": "The first is a nonmetal and the second is a metal"
+      },
+      {
+        "key": "C",
+        "text": "Both have seven valence electrons"
+      },
+      {
+        "key": "D",
+        "text": "The first is a metal that tends to lose one electron, while the second is a nonmetal that tends to gain one electron"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Atomic number 11 is sodium, with configuration 2,8,1. Atomic number 17 is chlorine, with configuration 2,8,7. Sodium commonly forms Na⁺, while chlorine commonly forms Cl⁻.\n\n**Tempting distractor:** Option A incorrectly assumes all elements in a period share the same metallic character.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "7acc0ed824d23f8be62ada9db5ca135402528e3b2adf8d8403eef023ecb039b7",
+    "question_skeleton": "two neutral atoms have atomic numbers 11 and 17 which statement correctly compares them"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_2_j3p4j",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Why hydrogen is exceptional",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement is the most appropriate about hydrogen's position?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrogen is chemically identical to every Group 1 metal"
+      },
+      {
+        "key": "B",
+        "text": "Hydrogen has no valence electron"
+      },
+      {
+        "key": "C",
+        "text": "Hydrogen belongs to Group 18 because its first shell can contain only two electrons"
+      },
+      {
+        "key": "D",
+        "text": "Hydrogen has one valence electron, but its overall properties differ sufficiently from alkali metals that its position is exceptional"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Hydrogen has the configuration 1s^1, resembling Group 1 in electron count. However, its nonmetallic character and distinct bonding behaviour mean that its classification is not straightforward.\n\n**Tempting distractor:** Option C confuses the maximum capacity of the first shell with hydrogen's actual electronic configuration.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "cbaa0052cc0f796fec8505143cdb488e0ebec6aa7c379f5dad920a2529df4e11",
+    "question_skeleton": "which statement is the most appropriate about hydrogen s position"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_3_d9bvl",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Predicting the position of an element",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "An element X has the electronic configuration 2,8,2. Which set of statements is correct? 1. X belongs to Period 3. 2. X belongs to Group 2. 3. X is expected to form X^. 4. Its oxide has the formula XO₂.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "1, 2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "2, 3 and 4 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Three occupied shells place X in Period 3. Two valence electrons place it in Group 2, and it commonly loses both to form X²⁺. Oxygen forms O²⁻, so the oxide formula is XO, not XO₂.\n\n**Tempting distractor:** Option D overlooks charge balance in the oxide formula.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "9c9284dd709ec6918e931756a877f4aae0cb16cd3d5a4569db12bad727466e86",
+    "question_skeleton": "an element x has the electronic configuration 2 8 2 which set of statements is correct 1 x belongs to period 3 2 x belongs to group 2 3 x is expected to form x 2 4 its oxide has the formula xo 2"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_4_f69k8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Evaluating four statements",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Consider the following statements: 1. Atomic radius generally decreases across a period. 2. Metallic character generally increases down a group. 3. The first ionisation energy of every element increases strictly across a period. 4. Elements in the same main group have similar valence-shell configurations. Which combination is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1, 2 and 4 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Statements 1, 2 and 4 describe broad periodic trends. Statement 3 is false because ionisation energy has exceptions, including the Be–B and N–O comparisons.\n\n**Tempting distractor:** Option D treats a general trend as an exception-free rule.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "0ee56f61f088add23f357bba8fe1f3b8f99267c3409ade15782c128a2df07e5a",
+    "question_skeleton": "consider the following statements 1 atomic radius generally decreases across a period 2 metallic character generally increases down a group 3 the first ionisation energy of every element increases strictly across a period 4 elements in the same main group have similar valence shell configurations which combination is correct"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_5_rkzfn",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style The ultimate periodic-table deduction",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "An element X has atomic number 20. Consider these statements: 1. It belongs to Period 4. 2. It belongs to Group 2. 3. It has four occupied shells. 4. It commonly forms X^. Which answer is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "1, 2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "2, 3 and 4 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Atomic number 20 identifies calcium, with electronic configuration 2,8,8,2. It has four occupied shells, belongs to Period 4 and Group 2, and commonly loses two electrons to form Ca²⁺.\n\n**Tempting distractor:** Option B omits the usual ion formation of calcium, a key consequence of its two valence electrons.\n\n---\n\n## Final batch complete\n\nYou have now completed the six planned batches for this chapter:\n\n| Batch | Question type | Questions |\n|---|---|---:|\n| 1 | Diagrammatic | 1–20 |\n| 2 | Diagrammatic | 21–40 |\n| 3 | Numerical | 1–20 |\n| 4 | Numerical | 21–40 |\n| 5 | Theoretical and conceptual | 1–30 |\n| 6 | Complex integrated challenges | 1–30 |\n| **Total** | **Six batches** | **180 MCQs** |\n\n**Important source note:** The 30 questions in this final batch are labelled **[Board-style]** because I have not verified the exact original wording and year of ten separate past-board questions. The CISCE syllabus and published ICSE practice resources support the chapter coverage and examination style. \n\nThe next useful step is to consolidate all six batches into a single, carefully proofread question bank with a consistent answer key and corrected diagrams.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "c52cc0bb8c7e6136cede04d9bfc96e899de37d3da0dce4c4a67e913c2abd3a0d",
+    "question_skeleton": "an element x has atomic number 20 consider these statements 1 it belongs to period 4 2 it belongs to group 2 3 it has four occupied shells 4 it commonly forms x 2 which answer is correct"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_6_jecg0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Isotopes and periodic position",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Two isotopes of chlorine have mass numbers 35 and 37. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "They occupy the same position in the modern periodic table because they have the same atomic number"
+      },
+      {
+        "key": "B",
+        "text": "They occupy different groups because their neutron counts differ"
+      },
+      {
+        "key": "C",
+        "text": "The isotope with mass number 37 must be in a lower period"
+      },
+      {
+        "key": "D",
+        "text": "The isotope with mass number 35 has one more proton"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both isotopes have 17 protons and therefore atomic number 17. They differ in neutron count, not proton count, so they have the same periodic position and broadly similar chemical properties.\n\n**Tempting distractor:** Option B confuses neutron number with atomic number.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "5eff3d36094b5bfae648095a95bfdda670a380191cffd1f8225bc59cd6a338a5",
+    "question_skeleton": "two isotopes of chlorine have mass numbers 35 and 37 which statement is correct"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_7_uigbr",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Finding the incorrect ion statement",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement is incorrect?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Na⁺ contains fewer electrons than a neutral sodium atom"
+      },
+      {
+        "key": "B",
+        "text": "Cl⁻ contains more electrons than a neutral chlorine atom"
+      },
+      {
+        "key": "C",
+        "text": "Mg²⁺ contains 12 electrons because its atomic number is 12"
+      },
+      {
+        "key": "D",
+        "text": "O²⁻ has 10 electrons, the same as neon"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Magnesium has atomic number 12, so a neutral atom has 12 electrons. A Mg²⁺ ion has lost two electrons and therefore contains only 10.\n\n**Tempting distractor:** Option D is correct because oxygen has 8 electrons when neutral and gains two to form O²⁻.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "afcb3fe25e0d13301fce8107c4cd09f942062788879567738dab992c27d429a6",
+    "question_skeleton": "which statement is incorrect"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_8_h4gi4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Identifying an incorrect periodic trend",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which arrangement is incorrect?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Atomic size: Na > Mg > Al"
+      },
+      {
+        "key": "B",
+        "text": "Metallic character: Na > Mg > Al"
+      },
+      {
+        "key": "C",
+        "text": "First ionisation energy: Na < Mg < Al"
+      },
+      {
+        "key": "D",
+        "text": "Number of occupied shells: Na = Mg = Al"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Although first ionisation energy generally increases across a period, aluminium's first ionisation energy is slightly lower than magnesium's because aluminium's first removed electron is in a higher-energy 3p subshell.\n\nThe correct order is Na < Al < Mg.\n\n**Tempting distractor:** Option C looks consistent with the broad left-to-right trend but misses the magnesium–aluminium exception.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "f84e8f8bdbe15cf88c8783baa60885bff7016dcaa0c08ea64de8c7a63b03ddb7",
+    "question_skeleton": "which arrangement is incorrect"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_9_ukbov",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Evaluating an ionisation-energy explanation",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student claims: “The first ionisation energy of every successive element across a period must be greater than that of the element immediately before it.” Which response is best?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Correct, because atomic number increases"
+      },
+      {
+        "key": "B",
+        "text": "Incorrect, because subshell energies and electron-pair repulsion can produce exceptions"
+      },
+      {
+        "key": "C",
+        "text": "Correct, because atomic radius always decreases without exception"
+      },
+      {
+        "key": "D",
+        "text": "Incorrect, because ionisation energy decreases uniformly across every period"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "First ionisation energy generally rises across a period, but the trend is not perfectly uniform. The Be–B and N–O comparisons illustrate important exceptions due to subshell energy and electron pairing.\n\n**Tempting distractor:** Option A confuses a general relationship with a strict rule.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "4a57e5c571f3a622743301fbb31ccce5fb7c957a4d5f825dd830e1ba66b4e4a2",
+    "question_skeleton": "a student claims the first ionisation energy of every successive element across a period must be greater than that of the element immediately before it which response is best"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_10_djlea",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style The limitation of Newlands' arrangement",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which feature most clearly distinguished Mendeleev's approach from Newlands' Law of Octaves?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendeleev used only elements in gaseous states"
+      },
+      {
+        "key": "B",
+        "text": "Mendeleev arranged all elements in groups of eight"
+      },
+      {
+        "key": "C",
+        "text": "Mendeleev left gaps and predicted undiscovered elements where necessary"
+      },
+      {
+        "key": "D",
+        "text": "Mendeleev arranged elements in increasing atomic number"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Mendeleev's arrangement allowed gaps for undiscovered elements and predictions about their properties. His table was based primarily on atomic mass, with chemical similarities also considered.\n\n**Tempting distractor:** Option D incorrectly assigns the modern atomic-number principle to Mendeleev.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "de99c589ea1601fc1e7c1a9a6bb5ad49dea66bd82f0deea03258c7d3d487147a",
+    "question_skeleton": "which feature most clearly distinguished mendeleev s approach from newlands law of octaves"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_11_62kb7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style A mystery element",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A neutral element has three occupied shells and seven electrons in its outermost shell. Which conclusion is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It belongs to Period 2, Group 17"
+      },
+      {
+        "key": "B",
+        "text": "It belongs to Period 3, Group 17, and commonly forms a 1- ion"
+      },
+      {
+        "key": "C",
+        "text": "It belongs to Period 3, Group 1, and commonly forms a 1+ ion"
+      },
+      {
+        "key": "D",
+        "text": "It belongs to Period 3, Group 18, and is chemically inert"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Three occupied shells indicate Period 3. Seven valence electrons indicate Group 17. The element is chlorine, which commonly gains one electron to complete its octet.\n\n**Tempting distractor:** Option D confuses seven valence electrons with a complete outer shell.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "e4336bfef34b2b1fef58d34d85d3bb4cf1325a50534acc968c13695a16191439",
+    "question_skeleton": "a neutral element has three occupied shells and seven electrons in its outermost shell which conclusion is correct"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_12_gfrnn",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Comparing halogens",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Fluorine, chlorine and bromine are placed in the same group. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fluorine has the largest atomic radius"
+      },
+      {
+        "key": "B",
+        "text": "Bromine attracts an incoming electron more strongly than fluorine in the usual group trend"
+      },
+      {
+        "key": "C",
+        "text": "All three elements have seven valence electrons"
+      },
+      {
+        "key": "D",
+        "text": "Their metallic character increases upward in the group"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Group 17 elements have seven valence electrons. Down the group, atomic size increases and the tendency to attract an incoming electron generally weakens; halogens are nonmetals.\n\n**Tempting distractor:** Option B reverses the usual trend in electron-attracting ability down the halogen group.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "6d772f0babb582a8bb7fa87250987c64eb15925ac0cb5cb3d4815d77cdb26e21",
+    "question_skeleton": "fluorine chlorine and bromine are placed in the same group which statement is correct"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_13_74hbs",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Distinguishing electron affinity and electronegativity",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both properties have exactly the same definition"
+      },
+      {
+        "key": "B",
+        "text": "Electron affinity concerns the energy change when a gaseous atom gains an electron, while electronegativity describes attraction for shared bonding electrons"
+      },
+      {
+        "key": "C",
+        "text": "Electronegativity is the energy needed to remove an electron from an isolated gaseous atom"
+      },
+      {
+        "key": "D",
+        "text": "Electron affinity is determined only by the number of neutrons"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electron affinity relates to the energy change accompanying electron gain by an isolated gaseous atom. Electronegativity concerns the relative attraction for shared electrons in a chemical bond.\n\n**Tempting distractor:** Option C defines ionisation energy, not electronegativity.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "a4fb46bfb7dd477d43bf3fc62f464e9b8a8aea6157ad5a13ef518eed3d0d0117",
+    "question_skeleton": "which statement is correct"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_14_g2h5m",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Mendeleev's predictions",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Mendeleev left a gap for an undiscovered element and predicted several of its properties. Which statement best explains why this was a strength of his table?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "He assumed all elements had the same atomic mass"
+      },
+      {
+        "key": "B",
+        "text": "He could predict the properties of missing elements from the patterns shown by neighbouring elements"
+      },
+      {
+        "key": "C",
+        "text": "He arranged elements by neutron number"
+      },
+      {
+        "key": "D",
+        "text": "He believed no additional elements would ever be discovered"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Mendeleev used periodic patterns to predict the properties of elements that had not yet been discovered. The later discovery of elements corresponding to his predictions supported the usefulness of his classification.\n\n**Tempting distractor:** Option D contradicts the purpose of leaving gaps.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "fb21416094affbd0246f47825edc034f57ff1f306a6af88a4ed2fdb258e84a60",
+    "question_skeleton": "mendeleev left a gap for an undiscovered element and predicted several of its properties which statement best explains why this was a strength of his table"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_15_fyvv5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Periodic trends and effective nuclear attraction",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Two elements P and Q are in the same period, with Q positioned to the right of P. Which statement is generally expected?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Q has fewer protons and a larger atomic radius"
+      },
+      {
+        "key": "B",
+        "text": "Q has an additional occupied shell"
+      },
+      {
+        "key": "C",
+        "text": "Q has greater nuclear charge and usually a smaller atomic radius"
+      },
+      {
+        "key": "D",
+        "text": "Q must be more metallic than P"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Across a period, nuclear charge increases while electrons are added to the same principal shell. The resulting increase in effective nuclear attraction generally decreases atomic radius.\n\n**Tempting distractor:** Option B describes the usual change down a group, not across a period.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "e39443f1ba2cc8add591307153a5c2e20ac871f0ee99d6f1cb7f146436f4646b",
+    "question_skeleton": "two elements p and q are in the same period with q positioned to the right of p which statement is generally expected"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_16_wyv5n",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Comparing metallic and nonmetallic behaviour",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Consider sodium, magnesium, silicon and chlorine in Period 3. Which statement best describes the broad trend?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Metallic character generally decreases from sodium toward chlorine"
+      },
+      {
+        "key": "B",
+        "text": "Metallic character increases continuously from sodium to chlorine"
+      },
+      {
+        "key": "C",
+        "text": "All four elements have the same metallic character"
+      },
+      {
+        "key": "D",
+        "text": "Chlorine is the most metallic because it has the most valence electrons"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Sodium and magnesium are metals, silicon is a metalloid, and chlorine is a nonmetal. Metallic character generally decreases across the period as electron loss becomes less favourable.\n\n**Tempting distractor:** Option D mistakes a high number of valence electrons for metallic character.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "18714ce528b8aab3d49a8e98af417589ffd220b5e0d67c579d32a86a649be296",
+    "question_skeleton": "consider sodium magnesium silicon and chlorine in period 3 which statement best describes the broad trend"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_17_t7sni",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style The Group 13 family",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Boron, aluminium, gallium, indium and thallium belong to Group 13. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "All five have one valence electron"
+      },
+      {
+        "key": "B",
+        "text": "All five have three valence electrons, and metallic character generally increases down the group"
+      },
+      {
+        "key": "C",
+        "text": "Boron is the most metallic member of the group"
+      },
+      {
+        "key": "D",
+        "text": "Their atomic numbers are identical"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Group 13 elements have three valence electrons. Metallic character generally increases down the group, although individual properties can show exceptions. Boron is a metalloid, whereas the heavier members are metals.\n\n**Tempting distractor:** Option C reverses the general metallic-character trend.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "0330f231f1bde73c197915ef7571bcc9c4d51a0efcdc2941577c1f0434167839",
+    "question_skeleton": "boron aluminium gallium indium and thallium belong to group 13 which statement is correct"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_18_dthng",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Explaining the modern periodic law",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Why is atomic number a more reliable basis for periodic classification than atomic mass?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Atomic number changes when an atom forms an ion"
+      },
+      {
+        "key": "B",
+        "text": "Atomic mass is identical for all isotopes"
+      },
+      {
+        "key": "C",
+        "text": "Atomic number determines only the physical state of an element"
+      },
+      {
+        "key": "D",
+        "text": "Atomic number identifies nuclear charge and, in a neutral atom, the electron count that determines its electronic configuration"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Atomic number equals the number of protons. In a neutral atom, it also equals the number of electrons. This determines the electronic configuration and explains the periodic recurrence of chemical properties. Atomic mass does not always give the correct order for elements with anomalous mass relationships.\n\n**Tempting distractor:** Option B is false because isotopes of the same element have different mass numbers.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "fa4618e0361b6a33260534f1fc0d9f248e90bc08d2ca02c73fae59c716d9f8d7",
+    "question_skeleton": "why is atomic number a more reliable basis for periodic classification than atomic mass"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_19_4cjb5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Recognising blocks",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "An element has the outer electronic configuration 3s² 3p⁴. Which conclusion is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It is an s-block element in Group 2"
+      },
+      {
+        "key": "B",
+        "text": "It is a p-block element in Period 3, Group 16"
+      },
+      {
+        "key": "C",
+        "text": "It is a d-block element in Period 4"
+      },
+      {
+        "key": "D",
+        "text": "It is a noble gas in Group 18"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The highest occupied shell is n=3, so the element is in Period 3. Its outer electrons enter the p-subshell, and six valence electrons place it in Group 16. The element is sulfur.\n\n**Tempting distractor:** Option A uses the two electrons in the 3s subshell while ignoring the 3p electrons.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "e08e388bbdd7052fda31f20a38791fcb2cb1ec7406712f4b224103a0c0ca383d",
+    "question_skeleton": "an element has the outer electronic configuration 3s 2 3p 4 which conclusion is correct"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_20_oeku7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Comparing noble-gas configurations",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which pair of ions is isoelectronic with neon, which contains 10 electrons?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Na⁺ and Mg²⁺"
+      },
+      {
+        "key": "B",
+        "text": "Na⁺ and Cl⁻"
+      },
+      {
+        "key": "C",
+        "text": "K⁺ and Ca²⁺"
+      },
+      {
+        "key": "D",
+        "text": "O⁻ and F⁻"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Sodium has 11 electrons when neutral, so Na⁺ has 10. Magnesium has 12 electrons when neutral, so Mg²⁺ also has 10. Both have the same electron count as neon.\n\n**Tempting distractor:** Option C contains ions with 18 electrons, not 10.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "3968a595b856a9f76148f005cfa8b93b2b5d8ee47e6caa053fd629733d2bb335",
+    "question_skeleton": "which pair of ions is isoelectronic with neon which contains 10 electrons"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_21_3gxty",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Identifying a family from its behaviour",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "An element forms a stable 1- ion, has seven valence electrons and lies in Period 3. Which element is it?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sulfur"
+      },
+      {
+        "key": "B",
+        "text": "Argon"
+      },
+      {
+        "key": "C",
+        "text": "Chlorine"
+      },
+      {
+        "key": "D",
+        "text": "Sodium"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Period 3, Group 17 corresponds to chlorine. Its configuration is 2,8,7, and gaining one electron produces the stable chloride ion Cl⁻.\n\n**Tempting distractor:** Sulfur also tends to gain electrons, but it has six valence electrons and usually forms a 2- ion.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "1c3ae4d9c1df3c1cbdb29eb3588b366ee7f84c124a6ac9ed34908e477ac72edc",
+    "question_skeleton": "an element forms a stable 1 ion has seven valence electrons and lies in period 3 which element is it"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_22_iacnd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Explaining an anomalous ordering",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which pair correctly illustrates an exception to the simple rule that first ionisation energy increases continuously across a period?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Beryllium has a higher first ionisation energy than boron"
+      },
+      {
+        "key": "B",
+        "text": "Sodium has a higher first ionisation energy than neon"
+      },
+      {
+        "key": "C",
+        "text": "Potassium has a higher first ionisation energy than lithium"
+      },
+      {
+        "key": "D",
+        "text": "Chlorine has a lower first ionisation energy than sodium"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Beryllium has configuration 1s² 2s², while boron has 1s² 2s² 2p^1. Boron's 2p electron is easier to remove than a 2s electron from beryllium, so beryllium's first ionisation energy is higher.\n\n**Tempting distractor:** Option B contradicts the large first ionisation energy associated with neon's stable outer shell.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "855cbeadcb650f107951535f98a9262f46885335f2bb85f7c817b431ab75f2c7",
+    "question_skeleton": "which pair correctly illustrates an exception to the simple rule that first ionisation energy increases continuously across a period"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_23_vb90z",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Distinguishing groups from periods",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Period Horizontal row Group Vertical column Which statement correctly compares lithium (atomic number 3), sodium (11), and magnesium (12)?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Li and Na are in the same group because they have one valence electron; Na and Mg are in the same period because both have three occupied shells."
+      },
+      {
+        "key": "B",
+        "text": "Li and Mg are in the same period because both are metals."
+      },
+      {
+        "key": "C",
+        "text": "Li and Na are in the same period because their atomic numbers differ by eight."
+      },
+      {
+        "key": "D",
+        "text": "Na and Mg are in the same group because both have three occupied shells."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Li has configuration 2,1, Na has 2,8,1, and Mg has 2,8,2. Li and Na are Group 1 elements, while Na and Mg are both in Period 3. Option D confuses the number of shells with group membership.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "ed68870a62a38b24b4763987bb9bb4f8a3b2eac65cbc8568cd7160e9a689e440",
+    "question_skeleton": "figure a highlighted row and column in the periodic table div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display flex flex wrap wrap gap 8px align items center div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 icon name arrow right size 2xl color 1d4ed8 span period span div style font size 0 85rem color 64748b margin top 2px horizontal row div div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 icon name arrow down size 2xl color b45309 span group span div style font size 0 85rem color 64748b margin top 2px vertical column div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 each li be b c na mg al si as e i div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span e span div div each div div which statement correctly compares lithium atomic number 3 sodium 11 and magnesium 12"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_24_2gl3q",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Identifying a halogen from its shell arrangement",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "K shell: 2 L shell: 8 M shell: 7 The atom has electronic configuration 2,8,7. Which conclusion is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Period 2, Group 17; it gains two electrons to become stable."
+      },
+      {
+        "key": "B",
+        "text": "Period 3, Group 7; it loses seven electrons to form a stable ion."
+      },
+      {
+        "key": "C",
+        "text": "Period 7, Group 17; its seven valence electrons determine the period."
+      },
+      {
+        "key": "D",
+        "text": "Period 3, Group 17; it can gain one electron to attain the configuration of argon."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Three occupied shells place the atom in Period 3. Seven valence electrons place it in Group 17. Gaining one electron gives 2,8,8, the configuration of argon. Option B confuses the valence-electron count with the group number.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "0134a79fbe4afd30b69acce3767edaabb13aa999c17b8c44844bee30fe1aba0d",
+    "question_skeleton": "figure three shell atom div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 240 220 width 100 xmlns http www w3 org 2000 svg circle cx 120 cy 110 r 85 fill fce7f3 stroke db2777 strokewidth 2 circle cx 120 cy 110 r 55 fill dbeafe stroke 2563eb strokewidth 2 circle cx 120 cy 110 r 25 fill fef3c7 stroke d97706 strokewidth 2 circle cx 120 cy 110 r 12 fill dc2626 each 120 25 120 195 35 110 205 110 60 50 180 50 60 170 180 170 120 55 120 165 65 110 175 110 85 85 155 85 85 135 155 135 120 85 120 135 as p i circle cx p 0 cy p 1 r 4 fill i 2 db2777 i 8 2563eb d97706 each span span svg div style display flex flex wrap wrap gap 8px align items center div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span k shell 2 span div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span l shell 8 span div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span m shell 7 span div div div the atom has electronic configuration 2 8 7 which conclusion is correct"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_25_4duja",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "First ionisation energy: identifying the two dips",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which explanation correctly accounts for the dips at aluminium and sulphur?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nuclear charge decreases at both aluminium and sulphur."
+      },
+      {
+        "key": "B",
+        "text": "Aluminium's first removed electron is in a higher-energy p-subshell than magnesium's s-electron; sulphur has a paired p-electron, unlike phosphorus's relatively stable half-filled p-subshell."
+      },
+      {
+        "key": "C",
+        "text": "Both dips occur because a new electron shell begins at aluminium and sulphur."
+      },
+      {
+        "key": "D",
+        "text": "The dips show that atomic radius decreases less rapidly at aluminium and sulphur."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Magnesium has a 3s² configuration, while aluminium's first removed electron is a higher-energy 3p electron. Phosphorus has a relatively stable 3p³ arrangement; sulphur's 3p⁴ includes a paired electron whose repulsion makes removal easier. Option A is incorrect because nuclear charge increases across Period 3.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "dcc5ff140cf54cec807ae01bef5cf033690368e9a45b29a404dae19e9a0f9f04",
+    "question_skeleton": "figure qualitative graph across period 3 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 340 210 width 100 xmlns http www w3 org 2000 svg line x1 36 y1 18 x2 36 y2 174 stroke 64748b strokewidth 1 5 line x1 36 y1 174 x2 325 y2 174 stroke 64748b strokewidth 1 5 span ie span polyline points 48 155 85 110 122 125 159 85 196 60 233 74 270 42 307 25 fill none stroke 2563eb strokewidth 3 strokelinejoin round each x 48 y 155 t na x 85 y 110 t mg x 122 y 125 t al x 159 y 85 t si x 196 y 60 t p x 233 y 74 t s x 270 y 42 t cl x 307 y 25 t ar as p circle cx p x cy p y r 4 5 fill p t al p t s ea580c 2563eb span p t span each span dip span span dip span svg div style font size 0 85rem color 64748b margin top 2px qualitative trend only the curve is schematic not a scale graph div div which explanation correctly accounts for the dips at aluminium and sulphur"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_26_bw51p",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Which statement about periods is correct?",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement about periods is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Every period contains exactly eight elements"
+      },
+      {
+        "key": "B",
+        "text": "The period number generally indicates the number of occupied principal electron shells"
+      },
+      {
+        "key": "C",
+        "text": "Elements in the same period always have the same number of valence electrons"
+      },
+      {
+        "key": "D",
+        "text": "The first period contains eight elements"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For ordinary ground-state configurations, the period number corresponds to the highest occupied principal shell. Periods differ in length; the first period has only two elements.\n\n**Tempting distractor:** Option C confuses a period with a group. Elements in the same group generally share similar valence-shell patterns.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "cbbd2a44199b58a09a1f882df74d8303dd633c9b86a26b2a4d87e89252c92dd0",
+    "question_skeleton": "which statement about periods is correct"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_27_utxab",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Which statement about noble gases is correct?",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement about noble gases is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "They all have exactly two electrons in their outermost shells"
+      },
+      {
+        "key": "B",
+        "text": "Their valence shells are complete, giving them comparatively low chemical reactivity"
+      },
+      {
+        "key": "C",
+        "text": "They readily lose seven electrons to form positive ions"
+      },
+      {
+        "key": "D",
+        "text": "They are all solids at room temperature"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Helium has a stable duplet, while the other commonly studied noble gases have complete outermost shells with eight electrons. Their stable configurations account for their generally low reactivity.\n\n**Tempting distractor:** Option A applies the duplet configuration of helium incorrectly to the entire group.\n\n---\n\n## Section C — Periodic Trends and Their Explanations",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "707a3fe2281b20cbb131b552d69401aabe14952797659f1e6f2805d241f3149b",
+    "question_skeleton": "which statement about noble gases is correct"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_28_fphrk",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Comparing elements in the same group",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Lithium, sodium and potassium belong to Group 1. Which sequence correctly describes their general trend down the group?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Atomic size decreases; electron loss becomes more difficult"
+      },
+      {
+        "key": "B",
+        "text": "Atomic size increases; metallic character decreases"
+      },
+      {
+        "key": "C",
+        "text": "Atomic size increases; the outer electron is generally lost more easily"
+      },
+      {
+        "key": "D",
+        "text": "Atomic size remains constant; ionisation energy increases"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Each successive element has an additional occupied shell. Greater shielding and increased distance of the valence electron from the nucleus generally make electron loss easier, so metallic reactivity increases down Group 1.\n\n**Tempting distractor:** Option B correctly states the size trend but reverses the trend in metallic character.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "533d89527a3bd2b4f4a56fc6af9d729944236191bdc642eb6399aa5a1cde3e04",
+    "question_skeleton": "lithium sodium and potassium belong to group 1 which sequence correctly describes their general trend down the group"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_29_cjnjd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Inferring oxide character",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Across Period 3, the oxides of elements generally change from basic to amphoteric and then acidic. Which sequence best illustrates this pattern?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Na_2O basic; Al_2O₃ amphoteric; SO₃ acidic"
+      },
+      {
+        "key": "B",
+        "text": "Na_2O acidic; Al_2O₃ basic; SO₃ amphoteric"
+      },
+      {
+        "key": "C",
+        "text": "Na_2O amphoteric; Al_2O₃ acidic; SO₃ basic"
+      },
+      {
+        "key": "D",
+        "text": "All three oxides are basic"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Sodium oxide is basic, aluminium oxide is amphoteric, and sulfur trioxide is acidic. This reflects the broad shift from metallic to nonmetallic character across the period.\n\n**Tempting distractor:** Option B reverses the established nature of the oxides.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "cff70af7f1e62c30671ddfb9ca868c7c703cdd5adf252cf523fb4f6e0eeb7c25",
+    "question_skeleton": "across period 3 the oxides of elements generally change from basic to amphoteric and then acidic which sequence best illustrates this pattern"
+  },
+  {
+    "globalId": "qb_hots_periodic_table_30_x587c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Periodic Table",
+    "title": "Board-style Comparing an atom with its ions",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which sequence gives the correct order of size for the species O^, O, and O^?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "O⁺ > O > O²⁻"
+      },
+      {
+        "key": "B",
+        "text": "O > O²⁻ > O⁺"
+      },
+      {
+        "key": "C",
+        "text": "O²⁻ > O > O⁺"
+      },
+      {
+        "key": "D",
+        "text": "O > O⁺ > O²⁻"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Gaining electrons to form O²⁻ increases electron–electron repulsion and expands the electron cloud. Losing an electron to form O⁺ generally contracts it. Thus, O²⁻ is largest and O⁺ is smallest.\n\n**Tempting distractor:** Option A reverses the effect of electron gain and loss on size.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "3e5aaf7c27649d8be7595b43e9bb10e070ab878f4d2aa62e738f674ec8db31e9",
+    "question_skeleton": "which sequence gives the correct order of size for the species o 2 o and o"
+  }
+]

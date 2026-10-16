@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_electromagnetism_1_497525",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Oersted's experiment magnetic effect",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A magnetic compass needle placed parallel beneath a wire deflects when an electric current is passed through the wire. **Reason (R):** An electric current flowing through a conductor sets up a circular magnetic field in the surrounding space. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the creation of an ambient magnetic field by moving charges explains compass deflection.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "99510dc8155c1c654b8ba3637f42c4f155f05852d90f7d59c2acc7e8615fd569",
+    "question_skeleton": "assertion a a magnetic compass needle placed parallel beneath a wire deflects when an electric current is passed through the wire reason r an electric current flowing through a conductor sets up a circular magnetic field in the surrounding space choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_2_caa244",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Right-hand thumb rule for magnetic field",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The direction of magnetic field lines around a straight current-carrying wire can be determined by the Right-Hand Thumb Rule. **Reason (R):** If the thumb of the right hand points in the direction of current, the curled fingers indicate the direction of circular magnetic field lines. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and curled fingers representing magnetic field vector circulation defines the right-hand thumb rule.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "55c0982baec9d1034c404121d4899d22b0cb49ed0f5560a9aef6781cebba6b74",
+    "question_skeleton": "assertion a the direction of magnetic field lines around a straight current carrying wire can be determined by the right hand thumb rule reason r if the thumb of the right hand points in the direction of current the curled fingers indicate the direction of circular magnetic field lines choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_3_3c86c6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Soft iron core in electromagnet",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Soft iron is universally used as the magnetic core of an electromagnet instead of hard steel. **Reason (R):** Soft iron has high magnetic permeability and very low retentivity, magnetizing strongly when current flows and demagnetizing instantly when current stops. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and rapid, strong magnetization with near-zero residual magnetism explains soft iron in electromagnets.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0ca4e9ed27f90d5cfadfe575fccb3d0928531b53e846033950d39e99dea19865",
+    "question_skeleton": "assertion a soft iron is universally used as the magnetic core of an electromagnet instead of hard steel reason r soft iron has high magnetic permeability and very low retentivity magnetizing strongly when current flows and demagnetizing instantly when current stops choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_4_291785",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Steel for permanent magnets",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Steel or Alnico alloys are preferred over soft iron for making permanent bar magnets. **Reason (R):** Steel has high magnetic retentivity (coercivity) and retains its magnetic strength permanently once magnetized. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and high coercivity resisting demagnetization justifies steel for permanent magnets.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "00443f19d4d20305aec5064ef851f1cbe4fa39ba06e758a9176f92b458189112",
+    "question_skeleton": "assertion a steel or alnico alloys are preferred over soft iron for making permanent bar magnets reason r steel has high magnetic retentivity coercivity and retains its magnetic strength permanently once magnetized choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_5_035a1b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Lorentz magnetic force on a charge",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A stationary electric charge placed inside a strong uniform magnetic field experiences zero magnetic force. **Reason (R):** The magnetic force on a charge is given by F = q·v·B·sinθ, which is zero when velocity v = 0. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and F = qvB sinθ requires non-zero charge velocity relative to the magnetic field to experience force.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0dcbc92dc6ab489bcddbbbaf30145da6304c8d163594b1e1a11f3f80ba01670d",
+    "question_skeleton": "assertion a a stationary electric charge placed inside a strong uniform magnetic field experiences zero magnetic force reason r the magnetic force on a charge is given by f q v b sin which is zero when velocity v # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_6_aa6cdf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Parallel wire force orientation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Two straight parallel wires carrying currents in the same direction attract each other. **Reason (R):** Applying the right-hand thumb rule and Fleming's left-hand rule reveals a mutually inward magnetic force between parallel currents. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and magnetic fields interacting to produce inward Ampère force between co-directional currents confirms attraction.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3a17abb2198b4c8695f068056b8beffcf8cc2037f58d7dbd604daba7cead5714",
+    "question_skeleton": "assertion a two straight parallel wires carrying currents in the same direction attract each other reason r applying the right hand thumb rule and fleming s left hand rule reveals a mutually inward magnetic force between parallel currents choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_7_c0bc1b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Anti-parallel currents repulsion",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Two parallel wires carrying currents in opposite directions repel each other. **Reason (R):** Opposite currents create opposing magnetic field directions in the space between the wires, producing an outward repulsive force. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and magnetic field vector analysis using Fleming's left-hand rule demonstrates outward repulsion.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "eea8c492ad29c1a842a8f26ea6ff673e2f2392539b02e880180b9adb59605c42",
+    "question_skeleton": "assertion a two parallel wires carrying currents in opposite directions repel each other reason r opposite currents create opposing magnetic field directions in the space between the wires producing an outward repulsive force choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_8_d55039",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Fleming's Left-Hand Rule motor action",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Fleming's Left-Hand Rule is used to determine the direction of motion of a current-carrying conductor in a magnetic field. **Reason (R):** Holding the thumb, forefinger, and central finger mutually perpendicular: Forefinger points to Field, Center finger to Current, and Thumb to Motion/Force. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and FBI (Forefinger-Field, Center-Current, Thumb-Force) defines Fleming's Left-Hand Rule.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "94779a09c01bade2fba466b7a27806c9c4268bb989418fd07c1edb0bb094e9ed",
+    "question_skeleton": "assertion a fleming s left hand rule is used to determine the direction of motion of a current carrying conductor in a magnetic field reason r holding the thumb forefinger and central finger mutually perpendicular forefinger points to field center finger to current and thumb to motion force choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_9_1281fb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: DC motor commutator function",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The split-ring commutator in a DC motor reverses the direction of current in the armature coil every half-turn. **Reason (R):** Reversing current every half-turn ensures that the torque acting on the two arms of the coil continues in the same rotational sense. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and continuous unidirectional rotation achieved by periodic current reversal is the core role of commutators.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "538ef04644bcee36fc4606d22fa4515999338299a680b2761e193a11aaf6a47e",
+    "question_skeleton": "assertion a the split ring commutator in a dc motor reverses the direction of current in the armature coil every half turn reason r reversing current every half turn ensures that the torque acting on the two arms of the coil continues in the same rotational sense choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_10_ae9b70",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Electromagnetic induction Faraday's law",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An electric current is induced in a closed coil whenever the magnetic flux linked with the coil changes with time. **Reason (R):** The magnitude of induced electromotive force is directly proportional to the rate of change of magnetic flux (E = -dΦ/dt). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Faraday's law of induction confirms that time rate of flux change induces EMF.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e6563975c73ba85c03a96e5cbcfcae6767c03804746c2220a34edd014d1a56ae",
+    "question_skeleton": "assertion a an electric current is induced in a closed coil whenever the magnetic flux linked with the coil changes with time reason r the magnitude of induced electromotive force is directly proportional to the rate of change of magnetic flux e d dt choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_11_790c1b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Lenz's law and conservation of energy",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Lenz's law states that the direction of an induced current always opposes the magnetic flux change producing it. **Reason (R):** Lenz's law is a direct consequence of the universal law of conservation of energy. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Work must be done against the opposing induced magnetic field to generate electrical energy, conserving total energy.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6e0c64fffd197fd19a1dd63b1b88b0264d8961a57af54c48b7679c09ece49e66",
+    "question_skeleton": "assertion a lenz s law states that the direction of an induced current always opposes the magnetic flux change producing it reason r lenz s law is a direct consequence of the universal law of conservation of energy choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_12_8a099b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Fleming's Right-Hand Rule generator action",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Fleming's Right-Hand Rule is used to find the direction of induced current in an AC or DC generator. **Reason (R):** When thumb points to motion and forefinger to magnetic field, the central finger indicates the direction of induced current. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Right-Hand Rule for induced current (Generator rule) defines the direction.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "91917cc736a552199b5c7947fa4a784555a255e188ba4a06f88d6d504b692cee",
+    "question_skeleton": "assertion a fleming s right hand rule is used to find the direction of induced current in an ac or dc generator reason r when thumb points to motion and forefinger to magnetic field the central finger indicates the direction of induced current choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_13_3ecd7d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Transformer mutual induction principle",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A transformer operates on the principle of mutual electromagnetic induction between two independent coils. **Reason (R):** An alternating current in the primary coil generates a continuously changing magnetic flux that links the secondary coil through the iron core. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and alternating flux linkage between primary and secondary windings explains transformer action.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5b07d35e08c3973047319bbfe32ee992518ffa6dc39067ec8785f1430ffce61f",
+    "question_skeleton": "assertion a a transformer operates on the principle of mutual electromagnetic induction between two independent coils reason r an alternating current in the primary coil generates a continuously changing magnetic flux that links the secondary coil through the iron core choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_14_dd89ab",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Transformer with DC supply failure",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A transformer cannot be used to step up or step down a steady direct current (DC). **Reason (R):** A steady DC produces a constant, unchanging magnetic flux, resulting in zero rate of change of flux (dΦ/dt = 0) and zero induced EMF in the secondary. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and dΦ/dt = 0 for steady DC explains why secondary voltage is zero.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9f60497b1c1fe98fa1a8a9ca29054223fb74ef80d002bf052cba9e63c64bc3f1",
+    "question_skeleton": "assertion a a transformer cannot be used to step up or step down a steady direct current dc reason r a steady dc produces a constant unchanging magnetic flux resulting in zero rate of change of flux d dt # and zero induced emf in the secondary choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_15_128a03",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Laminated iron core in transformer",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The soft iron core of a transformer is constructed from thin, varnished laminated sheets rather than a single solid block. **Reason (R):** Laminations break the continuous conductive path for circulating eddy currents, drastically reducing I²R heat losses in the core. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and interrupting eddy current loops with insulated laminations minimizes core losses.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d051faa626e678843d1dff078ad1b73dcf511887de7749acb99802e0667354d7",
+    "question_skeleton": "assertion a the soft iron core of a transformer is constructed from thin varnished laminated sheets rather than a single solid block reason r laminations break the continuous conductive path for circulating eddy currents drastically reducing i r heat losses in the core choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_16_fb9cb8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Step-up transformer turns ratio",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In a step-up transformer, the secondary voltage is greater than the primary voltage (V_s > V_p), but secondary current is smaller (I_s < I_p). **Reason (R):** Assuming an ideal transformer with 100% efficiency, output power equals input power (V_s·I_s = V_p·I_p), in accordance with energy conservation. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and conservation of power (P_in = P_out) means voltage gain is accompanied by current reduction.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "51e258e79c2ab58a178448490e592c46c86e567cdf26938b2e9fabdd3610e8b5",
+    "question_skeleton": "assertion a in a step up transformer the secondary voltage is greater than the primary voltage v s v p but secondary current is smaller i s i p reason r assuming an ideal transformer with # efficiency output power equals input power v s i s v p i p in accordance with energy conservation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_17_f0dd2d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: AC generator slip rings function",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An AC generator uses continuous brass slip rings with carbon brushes to collect current from the rotating armature. **Reason (R):** Slip rings maintain unbroken contact with the coil ends, allowing the naturally reversing alternating current to pass directly to the external circuit. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and unbroken slip rings preserving the alternating waveform explain AC generation.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b44acb67733ee1780442419216c0d2dbf195b00b97bff9ff1957510f5aa97798",
+    "question_skeleton": "assertion a an ac generator uses continuous brass slip rings with carbon brushes to collect current from the rotating armature reason r slip rings maintain unbroken contact with the coil ends allowing the naturally reversing alternating current to pass directly to the external circuit choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_18_b4f360",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: DC generator split-ring commutator",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A DC generator uses a split-ring commutator instead of continuous slip rings. **Reason (R):** The split-ring commutator reverses external brush connections at the instant the induced EMF changes polarity, providing unidirectional pulsating current. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and full-wave mechanical rectification by split rings produces unidirectional DC output.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1654178b94d62b5c38a355fc797ee9ac541238e7d43a844997384f18b79088dc",
+    "question_skeleton": "assertion a a dc generator uses a split ring commutator instead of continuous slip rings reason r the split ring commutator reverses external brush connections at the instant the induced emf changes polarity providing unidirectional pulsating current choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_19_da6c40",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Electric bell armature oscillation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An electric bell rings continuously as long as the push button is held down. **Reason (R):** The circuit is repeatedly made and broken by the contact screw and moving iron armature as the electromagnet magnetizes and demagnetizes. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and self-interrupting circuit breaker action of the contact screw causes rapid gong striking.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6390dca4931c94aba1ca4074dc696d50ce27cf6c653b0b714b112570c967ebc0",
+    "question_skeleton": "assertion a an electric bell rings continuously as long as the push button is held down reason r the circuit is repeatedly made and broken by the contact screw and moving iron armature as the electromagnet magnetizes and demagnetizes choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_20_7ed665",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Magnetic field inside a long solenoid",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The magnetic field inside a long, tightly wound current-carrying solenoid is uniform and strong. **Reason (R):** Inside the solenoid, the magnetic field lines are straight, parallel, and closely spaced along the central axis. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and parallel equidistant field lines indicate a uniform magnetic field.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2aed9c266208f7dcf42c7f0bb1e6bfdc17da0257cd4f86e74a4703d01832fe38",
+    "question_skeleton": "assertion a the magnetic field inside a long tightly wound current carrying solenoid is uniform and strong reason r inside the solenoid the magnetic field lines are straight parallel and closely spaced along the central axis choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_21_b678c7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Clock rule for circular loop polarity",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If current flows in a clockwise direction when looking directly at the face of a circular loop, that face behaves as a South magnetic pole. **Reason (R):** Clockwise current generates inward directed magnetic lines of force, analogous to magnetic flux entering the South pole of a bar magnet. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and clockwise current matching flux ingress defines South polarity by the Clock Face Rule.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "861b026a96d39cbb83cdf15c38620fcff4389881f7aa4588e6d51fecf1d40fb3",
+    "question_skeleton": "assertion a if current flows in a clockwise direction when looking directly at the face of a circular loop that face behaves as a south magnetic pole reason r clockwise current generates inward directed magnetic lines of force analogous to magnetic flux entering the south pole of a bar magnet choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_22_9ae7a7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Anticlockwise current North pole",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If current in a circular coil circulates in an anticlockwise direction, that face behaves as a North magnetic pole. **Reason (R):** Magnetic field lines emerge outward from an anticlockwise current face, identical to flux emerging from the North pole of a magnet. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and emerging flux outward defines North magnetic pole behavior.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7c6048e52019fa131d4f9d2ddb8ccaa3e98ab953c123c1348851bc85314a1909",
+    "question_skeleton": "assertion a if current in a circular coil circulates in an anticlockwise direction that face behaves as a north magnetic pole reason r magnetic field lines emerge outward from an anticlockwise current face identical to flux emerging from the north pole of a magnet choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_23_8d641b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Eddy currents induction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When a solid copper disc swings between the poles of a strong electromagnet, its motion is rapidly damped to a dead stop. **Reason (R):** Circulating eddy currents induced in the copper disc create opposing magnetic fields according to Lenz's law (electromagnetic damping). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Lenz's law opposition from induced eddy currents dissipates kinetic energy into heat.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "09f9cec13e803f09eb2f99f08eebef19fe39c23feb5392e4df35b4b777b07bc5",
+    "question_skeleton": "assertion a when a solid copper disc swings between the poles of a strong electromagnet its motion is rapidly damped to a dead stop reason r circulating eddy currents induced in the copper disc create opposing magnetic fields according to lenz s law electromagnetic damping choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_24_572a64",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Induction cooktop efficiency",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Induction cooktops heat ferromagnetic pans rapidly without heating the ceramic glass cooktop directly. **Reason (R):** High-frequency alternating magnetic fields induce strong eddy currents in the pan's iron base, generating localized Joule heat. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and eddy current generation in the ferromagnetic base explains direct pan heating.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e0804608ebece2398ba1b898185db7e1c915e88a51b9fde6d9426ede24862b18",
+    "question_skeleton": "assertion a induction cooktops heat ferromagnetic pans rapidly without heating the ceramic glass cooktop directly reason r high frequency alternating magnetic fields induce strong eddy currents in the pan s iron base generating localized joule heat choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_25_0dc652",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Step-down transformer in mobile phone charger",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Mobile phone adapters use step-down transformers to convert 220 V AC mains down to 5 V AC before rectification. **Reason (R):** In a step-down transformer, the number of turns in the primary coil is vastly greater than the number of turns in the secondary (N_p >> N_s). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. V_s/V_p = N_s/N_p, so fewer secondary turns steps down 220 V to safe 5 V levels.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1781f497a6b106dadde27799bb4d9bdf43bff74ba423e72d24807b25531a260b",
+    "question_skeleton": "assertion a mobile phone adapters use step down transformers to convert # v ac mains down to # v ac before rectification reason r in a step down transformer the number of turns in the primary coil is vastly greater than the number of turns in the secondary n p n s choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_26_958fc0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Stationary magnet inside coil",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When a strong bar magnet is held completely stationary inside a copper coil, zero current is indicated on a sensitive galvanometer. **Reason (R):** An induced EMF requires a continuous time rate of change of magnetic flux (dΦ/dt ≠ 0); for a stationary magnet, dΦ/dt = 0. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and zero relative motion producing zero flux change confirms zero induced current.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c66567615ca83d81cae17c951420346f00d3fea7aad4c7d9c58cb87938938c1e",
+    "question_skeleton": "assertion a when a strong bar magnet is held completely stationary inside a copper coil zero current is indicated on a sensitive galvanometer reason r an induced emf requires a continuous time rate of change of magnetic flux d dt # for a stationary magnet d dt # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_27_fe852b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Speed of moving magnet and induced EMF",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Plunging a bar magnet rapidly into a coil produces a much larger galvanometer deflection than moving it in slowly. **Reason (R):** According to Faraday's law, induced EMF is directly proportional to the rate of change of magnetic flux (E ∝ dΦ/dt). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and higher entry speed increases the time rate dΦ/dt, producing a larger induced voltage.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "daeaee995fc3657b321b1f0b4eb05ccc2c9f9caf90c6d1f3b641400ca930d1d5",
+    "question_skeleton": "assertion a plunging a bar magnet rapidly into a coil produces a much larger galvanometer deflection than moving it in slowly reason r according to faraday s law induced emf is directly proportional to the rate of change of magnetic flux e d dt choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_28_f1c5f8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Force on conductor parallel to magnetic field",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A straight wire carrying current placed parallel to a uniform magnetic field experiences zero magnetic force. **Reason (R):** The magnetic force is given by F = I·L·B·sinθ; when the conductor is parallel to the field, angle θ = 0° and sin 0° = 0. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and sin(0°) = 0 mathematically proves zero magnetic Lorentz force for parallel orientation.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6fa36f71b2505214242ea476d52a383f9b09908d8a803ea4b0b13c325d2f8efd",
+    "question_skeleton": "assertion a a straight wire carrying current placed parallel to a uniform magnetic field experiences zero magnetic force reason r the magnetic force is given by f i l b sin when the conductor is parallel to the field angle # and sin # # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_29_bd4185",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Maximum force perpendicular orientation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A current-carrying conductor experiences maximum magnetic force when it is placed perpendicular to the magnetic field. **Reason (R):** For perpendicular alignment, angle θ = 90° and sin 90° = 1, maximizing F = I·L·B·sinθ. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and sin(90°) = 1 maximizes the Lorentz interaction force.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cc12be27b22415f0663e11880c9ad8da896e97adaff2a15bc3574b6b7ed31d1f",
+    "question_skeleton": "assertion a a current carrying conductor experiences maximum magnetic force when it is placed perpendicular to the magnetic field reason r for perpendicular alignment angle # and sin # # maximizing f i l b sin choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_30_222f3c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Electromagnet strength factors",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The lifting strength of an electromagnet can be substantially increased by increasing the current and winding more turns of wire. **Reason (R):** The magnetic field strength inside a solenoid is directly proportional to both the number of turns per unit length and the current (B = μ·n·I). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and B = μnI confirms that increasing turns and current intensifies the magnetic field.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2d19ac38a85b158dda7367142f4032da115d8895591a0bd5c1fa1af28a9fae3f",
+    "question_skeleton": "assertion a the lifting strength of an electromagnet can be substantially increased by increasing the current and winding more turns of wire reason r the magnetic field strength inside a solenoid is directly proportional to both the number of turns per unit length and the current b n i choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_31_cdb354",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Reversing current in motor",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Reversing both the battery terminals and the magnetic field poles of a DC motor simultaneously leaves its direction of rotation unchanged. **Reason (R):** Reversing current reverses the force direction on each arm, and reversing the magnetic field reverses the force direction once again, resulting in no net change. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Two simultaneous sign inversions in Fleming's left-hand rule cancel out (-1 × -1 = +1).",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a3bab3ba1b9a7c6916826c62bd47ac2305efd391342e4438bfb701331c5998ab",
+    "question_skeleton": "assertion a reversing both the battery terminals and the magnetic field poles of a dc motor simultaneously leaves its direction of rotation unchanged reason r reversing current reverses the force direction on each arm and reversing the magnetic field reverses the force direction once again resulting in no net change choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_32_dfb191",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Galvanometer to ammeter conversion",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A sensitive galvanometer is converted into an ammeter by connecting a very low resistance (shunt) in parallel with its coil. **Reason (R):** The low-resistance shunt bypasses the majority of the current, allowing the instrument to measure large currents without damaging the delicate coil. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and low-resistance shunt diversion protects the galvanometer while extending its current range.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "43e6519ae9685d7015d7989455651cd5208f7680466dd047dc7af5f6b6b69d52",
+    "question_skeleton": "assertion a a sensitive galvanometer is converted into an ammeter by connecting a very low resistance shunt in parallel with its coil reason r the low resistance shunt bypasses the majority of the current allowing the instrument to measure large currents without damaging the delicate coil choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_33_f37858",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Galvanometer to voltmeter conversion",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A galvanometer is converted into a voltmeter by connecting a very high resistance in series with its coil. **Reason (R):** A high series resistance limits current through the galvanometer and gives the instrument a very large overall resistance, preventing circuit disturbance. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and high series resistance converting current sensitivity into high-voltage measurement defines a voltmeter.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7560914e107076f905eaf81b56620238d0643080333ce29a212e598e681b39c2",
+    "question_skeleton": "assertion a a galvanometer is converted into a voltmeter by connecting a very high resistance in series with its coil reason r a high series resistance limits current through the galvanometer and gives the instrument a very large overall resistance preventing circuit disturbance choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_34_dd88fe",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Electric motor back EMF",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When an electric motor is running at full operating speed, it draws much less current than when it is starting from rest. **Reason (R):** As the motor armature rotates in the magnetic field, it acts as a generator and generates an opposing back EMF (e) that reduces the effective voltage (I = (V - e)/R). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and back EMF opposing mains voltage reduces running current compared to stalled startup current.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dc8cb3d5bd4c67975d04e21dfff48cb56a32dabbfcb5ebb7d53ad79180623e9c",
+    "question_skeleton": "assertion a when an electric motor is running at full operating speed it draws much less current than when it is starting from rest reason r as the motor armature rotates in the magnetic field it acts as a generator and generates an opposing back emf e that reduces the effective voltage i v e r choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_35_67a7a5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Hysteresis loss in magnetic core",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Transformer cores are chosen to have a very narrow magnetic hysteresis loop. **Reason (R):** Energy dissipated as heat during repeated cycles of magnetization and demagnetization is proportional to the area of the hysteresis loop. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and small hysteresis area minimizing cyclic thermal dissipation explains the choice of soft iron or silicon steel.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fb243df7503653d1c6bc5e2096fbc778427a9ceea9a5f0ef1b43601635f6d5db",
+    "question_skeleton": "assertion a transformer cores are chosen to have a very narrow magnetic hysteresis loop reason r energy dissipated as heat during repeated cycles of magnetization and demagnetization is proportional to the area of the hysteresis loop choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_36_a0993d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Neutral point in magnetic field",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** At a neutral point near a bar magnet placed in the Earth's magnetic field, a compass needle points in no definite direction. **Reason (R):** At a neutral point, the horizontal component of Earth's magnetic field is equal in magnitude and opposite in direction to the magnet's field. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and exact vector cancellation leaving zero resultant magnetic field explains the neutral point.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "21afb73e7eb5255a117c411e88555c23a25ed3a65040aa3df1149590cc8dbb78",
+    "question_skeleton": "assertion a at a neutral point near a bar magnet placed in the earth s magnetic field a compass needle points in no definite direction reason r at a neutral point the horizontal component of earth s magnetic field is equal in magnitude and opposite in direction to the magnet s field choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_37_8b9672",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Solenoid vs bar magnet magnetic field similarity",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The magnetic field pattern around a long current-carrying solenoid is virtually identical to that of a bar magnet. **Reason (R):** The circular magnetic fields of individual adjacent wire turns reinforce each other internally and form continuous closed loops emerging from one end and entering the other. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and superposed loop fields producing external dipole flux lines identical to a bar magnet validate the assertion.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "33b2642c658af39aef51c371e0c98f2b5f863d348598294829ebcb2d416d27b3",
+    "question_skeleton": "assertion a the magnetic field pattern around a long current carrying solenoid is virtually identical to that of a bar magnet reason r the circular magnetic fields of individual adjacent wire turns reinforce each other internally and form continuous closed loops emerging from one end and entering the other choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_38_e0d1c6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: AC frequency in India",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Domestic alternating current supplied in India has a frequency of 50 Hz, reversing its direction 100 times every second. **Reason (R):** In each complete AC wave cycle, current changes its direction twice (once positive, once negative), so 50 cycles per second gives 100 reversals. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and two direction reversals per cycle gives 50 × 2 = 100 reversals per second at 50 Hz.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7067903314a0d0c6fcac5059b59b09868bbf5421cad7fd5d84925820e477db6f",
+    "question_skeleton": "assertion a domestic alternating current supplied in india has a frequency of # hz reversing its direction # times every second reason r in each complete ac wave cycle current changes its direction twice once positive once negative so # cycles per second gives # reversals choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_39_137637",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Earth's magnetic field angle of dip at poles",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A magnetic needle free to rotate in a vertical plane stands exactly vertical (angle of dip = 90°) at the Earth's magnetic poles. **Reason (R):** At the magnetic poles, Earth's magnetic field lines are oriented entirely vertically perpendicular to the surface, with zero horizontal component. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and strictly vertical flux lines at magnetic dip poles explains the 90° dip angle.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6a017fcd909a788a93cc0a8998f424bbda1fece906da798fa232614beffc960e",
+    "question_skeleton": "assertion a a magnetic needle free to rotate in a vertical plane stands exactly vertical angle of dip # at the earth s magnetic poles reason r at the magnetic poles earth s magnetic field lines are oriented entirely vertically perpendicular to the surface with zero horizontal component choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_electromagnetism_40_396cfd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Electromagnetism",
+    "title": "Assertion–Reason: Magnetic field lines never intersect",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Two magnetic field lines can never intersect each other at any point in space. **Reason (R):** If they intersected, two tangents could be drawn at the point of intersection, implying two different directions of resultant magnetic field at the same point, which is physically impossible. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and uniqueness of the resultant magnetic field vector at any spatial location prevents line crossing.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "96c42d6b31d467824107488569105efc1cdb8526c641dd8b6c6af415ce5a117b",
+    "question_skeleton": "assertion a two magnetic field lines can never intersect each other at any point in space reason r if they intersected two tangents could be drawn at the point of intersection implying two different directions of resultant magnetic field at the same point which is physically impossible choose the correct option"
+  }
+]

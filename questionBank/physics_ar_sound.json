@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_sound_1_e2667b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Sound propagation in vacuum",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Sound waves cannot propagate through a perfect vacuum. **Reason (R):** Sound is a mechanical longitudinal wave that requires a material medium containing particles for compression and rarefaction. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the mechanical wave nature requiring inter-particle collisions explains why sound cannot cross a vacuum.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "52392a40550f275ecbbfb7e7d2e6b1924037b7443b3f12b5b3fa541a4b4a1e17",
+    "question_skeleton": "assertion a sound waves cannot propagate through a perfect vacuum reason r sound is a mechanical longitudinal wave that requires a material medium containing particles for compression and rarefaction choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_2_9623e2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Minimum distance for echo in air",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** To hear a distinct echo of a sharp sound in air at 20°C, the reflecting obstacle must be at least 17.2 metres away. **Reason (R):** The sensation of hearing persists in the human brain for approximately 0.1 second (persistence of hearing). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Distance = (v × t) / 2 = (344 × 0.1) / 2 = 17.2 m, so persistence of hearing dictates the minimum distance.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d0bf73ccd2c61bbe110186f93added01389b4785d41897ca76bdb1bf057b0f2c",
+    "question_skeleton": "assertion a to hear a distinct echo of a sharp sound in air at # c the reflecting obstacle must be at least # metres away reason r the sensation of hearing persists in the human brain for approximately # second persistence of hearing choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_3_4dc507",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Speed of sound in solids vs gases",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Sound travels significantly faster in steel (approx. 5100 m/s) than in air (approx. 340 m/s). **Reason (R):** Steel has a much higher modulus of elasticity than air, which more than compensates for its higher density (v = √(E/ρ)). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Speed v = √(E/ρ), and the elasticity of steel is roughly 10⁶ times that of air, overcoming the density difference.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3a6344345041d1612cd40cc401647d0e2c033be539b2895643dbddf3139d4d55",
+    "question_skeleton": "assertion a sound travels significantly faster in steel approx # m s than in air approx # m s reason r steel has a much higher modulus of elasticity than air which more than compensates for its higher density v e choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_4_1efe99",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Resonance as forced vibration",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Resonance is a special case of forced vibrations in which the vibrating body oscillates with a very large amplitude. **Reason (R):** Resonance occurs when the frequency of the external periodic driving force matches the natural frequency of the vibrating system. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and frequency matching leading to maximum energy transfer explains the massive amplitude.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e6a9ebef0c3485d38e92f8ff493fd1c3417e9de1beb21fbb4a9881810c8a3760",
+    "question_skeleton": "assertion a resonance is a special case of forced vibrations in which the vibrating body oscillates with a very large amplitude reason r resonance occurs when the frequency of the external periodic driving force matches the natural frequency of the vibrating system choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_5_758526",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Soldiers breaking step on bridges",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Soldiers marching in formation are ordered to break step while crossing a suspension bridge. **Reason (R):** If the marching cadence coincides with the natural frequency of the bridge, resonance could cause violent oscillations and structural collapse. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and avoiding resonant matching between marching frequency and bridge natural frequency is standard safety.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fe75027f9d882c284141462d78a4248a2db2e60cf79dfa5341d02ddbea386675",
+    "question_skeleton": "assertion a soldiers marching in formation are ordered to break step while crossing a suspension bridge reason r if the marching cadence coincides with the natural frequency of the bridge resonance could cause violent oscillations and structural collapse choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_6_dff6a1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Damped vibrations amplitude decay",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The amplitude of oscillations of a tuning fork struck in air gradually decreases with time. **Reason (R):** Energy is continuously dissipated in doing work against air friction and internal friction. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and viscous air resistance converting mechanical vibration into heat defines damped oscillations.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9e440b6eb6e085554fa3ce32dc624fb5525ce55a479d7deaa90aa0ed2f5ee7f6",
+    "question_skeleton": "assertion a the amplitude of oscillations of a tuning fork struck in air gradually decreases with time reason r energy is continuously dissipated in doing work against air friction and internal friction choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_7_160dbc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Pitch and frequency relation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The voice of a woman generally has a higher pitch than the voice of a man. **Reason (R):** A woman's vocal cords are typically thinner and shorter, vibrating with a higher natural frequency. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and pitch is the subjective sensation directly determined by physical frequency.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "473731afccb37c1864a36bf698a63cb2d1ea461d9f0af9782103de40dcb0d798",
+    "question_skeleton": "assertion a the voice of a woman generally has a higher pitch than the voice of a man reason r a woman s vocal cords are typically thinner and shorter vibrating with a higher natural frequency choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_8_58d005",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Loudness and amplitude relation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Striking a drum skin with greater muscular force increases the loudness of the sound produced. **Reason (R):** Loudness is directly proportional to the square of the amplitude of vibration (L ∝ A²). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and L ∝ A² explains why a harder strike causing larger amplitude sounds louder.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1966a557e8d7553bc37b6f683e0c70fbeae4f115f0b7f6c6924c75cf2aaf5c18",
+    "question_skeleton": "assertion a striking a drum skin with greater muscular force increases the loudness of the sound produced reason r loudness is directly proportional to the square of the amplitude of vibration l a choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_9_fb7293",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Timbre or quality of musical notes",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Two musical notes of identical pitch and equal loudness played on a flute and a violin can be easily distinguished by ear. **Reason (R):** The notes differ in their quality (timbre) due to the presence of different numbers, frequencies, and relative amplitudes of overtones. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and different harmonic overtone structures producing different composite waveforms explain timbre.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "53a451ca29166040d76863cec7e02c93fa0613c38973883a029a700b710c51d8",
+    "question_skeleton": "assertion a two musical notes of identical pitch and equal loudness played on a flute and a violin can be easily distinguished by ear reason r the notes differ in their quality timbre due to the presence of different numbers frequencies and relative amplitudes of overtones choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_10_652a34",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: SONAR depth sounding principle",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ships use SONAR (Sound Navigation and Ranging) with ultrasound to map the ocean depth. **Reason (R):** Ultrasound has a high frequency and short wavelength, enabling it to travel in sharp beams over long distances without spreading or dispersing. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and directional beam propagation with high penetration through water justifies ultrasound in SONAR.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "33964227d9d81da847a3f9b85d30a44f0670e368d9bc0d34d958053e14e1c2eb",
+    "question_skeleton": "assertion a ships use sonar sound navigation and ranging with ultrasound to map the ocean depth reason r ultrasound has a high frequency and short wavelength enabling it to travel in sharp beams over long distances without spreading or dispersing choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_11_13d7ab",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Bats obstacle navigation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Bats can fly and catch flying insects in complete darkness without colliding with obstacles. **Reason (R):** Bats emit ultrasonic chirps and navigate by echolocation, analyzing the reflected echoes. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and ultrasonic echolocation explains obstacle avoidance and prey capture in the dark.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0dadd1052c26442b26c197121b3bcf53efdc08d6e412d8bed280b1dc94a7c3ce",
+    "question_skeleton": "assertion a bats can fly and catch flying insects in complete darkness without colliding with obstacles reason r bats emit ultrasonic chirps and navigate by echolocation analyzing the reflected echoes choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_12_0a9089",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Speed of sound and temperature",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The speed of sound in air increases by approximately 0.61 m/s for every 1°C rise in temperature. **Reason (R):** Higher temperature decreases air density and increases the kinetic velocity of air molecules. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and v ∝ √T confirms the 0.61 m/s per degree Celsius increase.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a8f56f6c01426f8a70edbec9cb7e3b56ba05e39c1059fd584341a2e807c0f8b7",
+    "question_skeleton": "assertion a the speed of sound in air increases by approximately # m s for every # c rise in temperature reason r higher temperature decreases air density and increases the kinetic velocity of air molecules choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_13_59acfa",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Speed of sound and humidity",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Sound travels faster in moist, humid air than in dry air at the same temperature and pressure. **Reason (R):** Moist air contains water vapor (molecular mass 18), which is less dense than dry air (average molecular mass 29), and v = √(γP/ρ). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and lower density of moist air increases the speed of sound.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "372365f56099eb5acef1af39ff2fdc3d0c370715e0a00ecf853ba451e623f0ed",
+    "question_skeleton": "assertion a sound travels faster in moist humid air than in dry air at the same temperature and pressure reason r moist air contains water vapor molecular mass # which is less dense than dry air average molecular mass # and v p choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_14_757bd2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Speed of sound independent of pressure",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A change in atmospheric air pressure does not affect the speed of sound if temperature remains constant. **Reason (R):** When pressure changes at constant temperature, density changes in the exact same proportion, leaving the ratio P/ρ unchanged. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since v = √(γP/ρ) and P/ρ = constant at constant T, sound speed is independent of pressure.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6f14249a092a1e5df065fcb600711080fea6ad7cb387a6ebc6653b72e0a7e075",
+    "question_skeleton": "assertion a a change in atmospheric air pressure does not affect the speed of sound if temperature remains constant reason r when pressure changes at constant temperature density changes in the exact same proportion leaving the ratio p unchanged choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_15_bf4df4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Thunder heard after lightning",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** During a thunderstorm, lightning is seen before thunder is heard. **Reason (R):** The speed of light (3 × 10⁸ m/s) is vastly greater than the speed of sound in air (340 m/s). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the million-fold difference in speeds explains the time delay between visual flash and acoustic roar.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f2da6933c73e0d67180de5b69e0388221d4fd392a3afac0fb1c9aae9f4cc75fd",
+    "question_skeleton": "assertion a during a thunderstorm lightning is seen before thunder is heard reason r the speed of light # # m s is vastly greater than the speed of sound in air # m s choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_16_358a62",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Infrasonic vs Ultrasonic frequencies",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Frequencies below 20 Hz are termed infrasonic, while frequencies above 20,000 Hz are termed ultrasonic. **Reason (R):** The human ear is sensitive only to acoustic frequencies ranging between 20 Hz and 20,000 Hz (audible range). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the boundaries of human hearing define infrasound and ultrasound.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5811d47eb07ac3d1e88b61d06eea6482dc4c7c5f8a1c283b5890f867cfae4e45",
+    "question_skeleton": "assertion a frequencies below # hz are termed infrasonic while frequencies above # # hz are termed ultrasonic reason r the human ear is sensitive only to acoustic frequencies ranging between # hz and # # hz audible range choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_17_ae18d8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Tuning fork stem pressed on table",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When the stem of a vibrating tuning fork is pressed firmly onto a wooden table, the sound becomes much louder. **Reason (R):** The vibrating fork forces the large surface area of the tabletop into forced vibration, setting a larger mass of air into motion. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and larger vibrating surface area displacing more air molecules increases sound loudness.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3362ae7649d8e39939927e1681d1cd1220fbbd2cabd53a7cfb88165af4c5c110",
+    "question_skeleton": "assertion a when the stem of a vibrating tuning fork is pressed firmly onto a wooden table the sound becomes much louder reason r the vibrating fork forces the large surface area of the tabletop into forced vibration setting a larger mass of air into motion choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_18_ae2c8b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Reverberation in empty hall",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Speech sounds muffled and blurred due to excessive reverberation in a large, empty unfurnished hall. **Reason (R):** Sound waves undergo repeated reflections from hard, bare walls, ceilings, and floors, creating a prolonged sound persistence. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and multiple overlapping reflections sustaining sound beyond 0.1 s cause reverberation blur.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3af686fb5d5357d259f8a8334470905472d1dfe2dbd7ef8452c0aa4bf49b6caf",
+    "question_skeleton": "assertion a speech sounds muffled and blurred due to excessive reverberation in a large empty unfurnished hall reason r sound waves undergo repeated reflections from hard bare walls ceilings and floors creating a prolonged sound persistence choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_19_729600",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Sound absorbing materials in cinema halls",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Cinema halls are lined with porous acoustic tiles, heavy carpets, and upholstered curtains. **Reason (R):** Porous materials absorb sound waves and prevent multiple echoes and undesirable reverberation. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and absorption of acoustic energy prevents echo interference in theatres.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cca96f906b4e29a7f1dbba08fa8f0a92fba7fa8979017cd1525849245c0f9d9d",
+    "question_skeleton": "assertion a cinema halls are lined with porous acoustic tiles heavy carpets and upholstered curtains reason r porous materials absorb sound waves and prevent multiple echoes and undesirable reverberation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_20_da2360",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Guitar sound box purpose",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A hollow wooden sound box is attached beneath the strings of an acoustic guitar. **Reason (R):** The hollow box contains trapped air that undergoes forced vibration with the strings, increasing the radiating surface and loudness. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and forced resonance of the air cavity and soundboard amplifies the string sound.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c22e662feda554000cb92c47f4d3b250c8bf91772efbed78fb9a8c00c369dd92",
+    "question_skeleton": "assertion a a hollow wooden sound box is attached beneath the strings of an acoustic guitar reason r the hollow box contains trapped air that undergoes forced vibration with the strings increasing the radiating surface and loudness choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_21_91e868",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Ultrasound cleaning delicate items",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ultrasound baths are used in industry to clean intricate watch parts and jewellery. **Reason (R):** High-frequency ultrasonic vibrations create cavitation micro-bubbles in the solvent that scrub off dirt particles without mechanical wear. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and acoustic cavitation micro-scrubbing explains ultrasonic cleaning.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "411cd22783d09e28739c48e9573761cdb67856509bb9ed928d02e84f34771327",
+    "question_skeleton": "assertion a ultrasound baths are used in industry to clean intricate watch parts and jewellery reason r high frequency ultrasonic vibrations create cavitation micro bubbles in the solvent that scrub off dirt particles without mechanical wear choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_22_8e907f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Natural frequency of a stretched string",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Tightening a guitar string (increasing its tension) raises the pitch of the musical note produced. **Reason (R):** The natural frequency of a stretched string is directly proportional to the square root of its tension (f ∝ √T). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and f = (1/2L)√(T/m) confirms that higher tension produces higher frequency (pitch).",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "23da2f32aba7417912db83548a8ea3010187dfc0f9941f82abf04c2671b48fde",
+    "question_skeleton": "assertion a tightening a guitar string increasing its tension raises the pitch of the musical note produced reason r the natural frequency of a stretched string is directly proportional to the square root of its tension f t choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_23_193d16",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Thick vs thin string pitch",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A thicker (heavier) guitar string produces a note of lower pitch than a thin string of the same length and tension. **Reason (R):** The frequency of a vibrating string is inversely proportional to the square root of its mass per unit length (f ∝ 1/√m). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and f ∝ 1/√m confirms that higher linear mass density lowers frequency and pitch.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "46b553a4c64adde6971cc6654c167fbbcb20b2da00a7e47ac59a3d6e48488b57",
+    "question_skeleton": "assertion a a thicker heavier guitar string produces a note of lower pitch than a thin string of the same length and tension reason r the frequency of a vibrating string is inversely proportional to the square root of its mass per unit length f # m choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_24_bc5046",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Length of string and pitch",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Pressing a violin string with a finger against the fretboard raises the pitch of the note. **Reason (R):** Shortening the vibrating length of the string increases its frequency (f ∝ 1/L). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and f ∝ 1/L proves that reducing vibrating length increases pitch.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b453c8428a5e2b5a17bd785f966686c7392de4d636c96dfab047a64e88addaf2",
+    "question_skeleton": "assertion a pressing a violin string with a finger against the fretboard raises the pitch of the note reason r shortening the vibrating length of the string increases its frequency f # l choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_25_027136",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Hearing whistle of approaching train",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The pitch of a train whistle appears higher to a stationary observer as the train approaches. **Reason (R):** Due to the Doppler effect, the relative motion of the source compresses sound waves ahead of it, increasing the observed frequency. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the Doppler frequency shift caused by moving source compression explains the higher pitch.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8f0fdfee9e3cc54fd52b7628b94350597eff24ec972681b5f2548161dcbf67ed",
+    "question_skeleton": "assertion a the pitch of a train whistle appears higher to a stationary observer as the train approaches reason r due to the doppler effect the relative motion of the source compresses sound waves ahead of it increasing the observed frequency choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_26_266ee3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Megaphone speaking trumpet shape",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A megaphone or speaking trumpet has a conical horn shape. **Reason (R):** The funnel shape guides and reflects sound waves forward in a concentrated direction, preventing spherical spreading. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and directional beam confinement prevents spreading loss, maintaining loudness.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "772c3e4dd5c40692c776394720088b82634cf542c5d0a7cc111748436acf80b4",
+    "question_skeleton": "assertion a a megaphone or speaking trumpet has a conical horn shape reason r the funnel shape guides and reflects sound waves forward in a concentrated direction preventing spherical spreading choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_27_9ea797",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Stethoscope working principle",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A physician uses a stethoscope to listen to heartbeat sounds inside a patient's chest. **Reason (R):** Sound travels along the narrow rubber tube of the stethoscope by multiple total internal reflections without much attenuation. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and multiple acoustic reflections along the enclosed tube explain sound transmission to the earpieces.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4ab81fce231cd12f88e5df36a21be1636edc4551f5e302b38825e8d31fba26ee",
+    "question_skeleton": "assertion a a physician uses a stethoscope to listen to heartbeat sounds inside a patient s chest reason r sound travels along the narrow rubber tube of the stethoscope by multiple total internal reflections without much attenuation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_28_7301cc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Ultrasonography in medicine",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ultrasonography is preferred over X-rays to monitor the growth of a human foetus. **Reason (R):** Ultrasound waves do not produce ionizing radiation, making them completely safe for developing tissues. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the non-ionizing mechanical nature of ultrasound explains its safety in prenatal imaging.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c4fd50242322690de4a29241b1f452b45d2e00c7c524434f4bca94c124cc9437",
+    "question_skeleton": "assertion a ultrasonography is preferred over x rays to monitor the growth of a human foetus reason r ultrasound waves do not produce ionizing radiation making them completely safe for developing tissues choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_29_1e11b3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Acoustic resonance air column water tuning",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When a vibrating tuning fork is held over a resonance tube, a loud booming sound is heard at a specific water level. **Reason (R):** The natural frequency of the vibrating air column matches the frequency of the tuning fork, establishing resonance. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and acoustic resonance between the air column and the fork creates maximum sound amplitude.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4cdf314ae1bde317b23b2ef294296b8a2b3979cbeed0fcb3fd81fdb536f6411d",
+    "question_skeleton": "assertion a when a vibrating tuning fork is held over a resonance tube a loud booming sound is heard at a specific water level reason r the natural frequency of the vibrating air column matches the frequency of the tuning fork establishing resonance choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_30_6cccb4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Free vibrations definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Free vibrations occur when a body oscillates with its own natural frequency in the total absence of resistive forces. **Reason (R):** In free vibrations, the amplitude and frequency remain constant indefinitely because no energy is dissipated. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and constant amplitude and frequency in a conservative medium define ideal free vibrations.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "438009e1d6fcbde822ce356978f3eca16d2260483f7953870a0623d4249bc4d3",
+    "question_skeleton": "assertion a free vibrations occur when a body oscillates with its own natural frequency in the total absence of resistive forces reason r in free vibrations the amplitude and frequency remain constant indefinitely because no energy is dissipated choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_31_47f2c0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Sound decibel unit",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Loudness is measured in decibels (dB), which is a logarithmic scale. **Reason (R):** The human ear responds to sound intensity logarithmically according to the Weber-Fechner law. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the logarithmic sensory response of human hearing justifies the decibel scale.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "575227a6ff03716457d66f6059f56ecfdb19c3ebd36694c3fadf4cb6459397af",
+    "question_skeleton": "assertion a loudness is measured in decibels db which is a logarithmic scale reason r the human ear responds to sound intensity logarithmically according to the weber fechner law choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_32_392c99",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Safe noise level threshold",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Continuous exposure to noise levels above 80 dB can lead to permanent hearing impairment. **Reason (R):** Intense sound vibrations can permanently damage the delicate microscopic hair cells in the cochlea of the inner ear. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and acoustic overpressure destroying cochlear hair cells causes sensorineural hearing loss.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "56ca7bcd889b7b6883a7a91a4d91556f20a945c4cf0d8b6c9f77ded5eaa11a0d",
+    "question_skeleton": "assertion a continuous exposure to noise levels above # db can lead to permanent hearing impairment reason r intense sound vibrations can permanently damage the delicate microscopic hair cells in the cochlea of the inner ear choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_33_14e810",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Speed of sound in hydrogen vs oxygen",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Sound travels four times faster in hydrogen gas than in oxygen gas at the same temperature and pressure. **Reason (R):** The molecular mass of oxygen (32) is 16 times that of hydrogen (2), and v ∝ 1/√M (√(16) = 4). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Speed v = √(γRT/M), and since M_O₂ = 16 M_H₂, v_H₂ = √(16) v_O₂ = 4 v_O₂.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "601b9ca8ea7a5cd71993adc03aa2226299bbd084103003d6c4f23a795614c1a3",
+    "question_skeleton": "assertion a sound travels four times faster in hydrogen gas than in oxygen gas at the same temperature and pressure reason r the molecular mass of oxygen # is # times that of hydrogen # and v # m # # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_34_3bd578",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Two tuning forks resonance condition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Two tuning forks of frequencies 256 Hz and 512 Hz mounted on resonance boxes will resonate when one is struck. **Reason (R):** Resonance requires that the frequencies of the two systems be identical or in integer harmonic relation. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because tuning forks have sharp, highly selective resonance curves; a 256 Hz fork cannot induce resonance in a 512 Hz fork. Reason is partially true for string/air harmonics, but tuning forks require identical frequency for acoustic resonance.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7e64e40250581dfea59a6f271a7191b4971b05ab9bf401ea96ab7f950b6310bd",
+    "question_skeleton": "assertion a two tuning forks of frequencies # hz and # hz mounted on resonance boxes will resonate when one is struck reason r resonance requires that the frequencies of the two systems be identical or in integer harmonic relation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_35_7a696c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Echo from a distant cliff",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A person standing 340 m from a cliff claps and hears the echo 2 seconds later in air at 340 m/s. **Reason (R):** Total distance traveled by the sound wave to the cliff and back is 2d = 2 × 340 = 680 m, so time t = 680 / 340 = 2 s. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and 2d = v·t directly verifies the 2 second delay.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b84780d1e7c47edea7397d276e1a26a69eb25632d07bb2c5980886ef98455291",
+    "question_skeleton": "assertion a a person standing # m from a cliff claps and hears the echo # seconds later in air at # m s reason r total distance traveled by the sound wave to the cliff and back is d # # # m so time t # # # s choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_36_c20cac",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Ultrasound flaw detection in metal blocks",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ultrasound is used in heavy industry to detect internal cracks within cast steel ingots. **Reason (R):** Ultrasound rays reflect back from internal cavities or hairline cracks, creating abnormal echo signals on a detector. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and boundary reflection at internal crack voids explains non-destructive flaw detection.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d1bdaaf1f02ea2518cef1648afffd52cec6f4ca1e8b3f1f41752b088fa60cd75",
+    "question_skeleton": "assertion a ultrasound is used in heavy industry to detect internal cracks within cast steel ingots reason r ultrasound rays reflect back from internal cavities or hairline cracks creating abnormal echo signals on a detector choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_37_1d3e25",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Echo sounding equation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In echo depth sounding, depth d is calculated using the formula d = v × t / 2. **Reason (R):** The transmitted signal must travel to the sea bed and the reflected signal must return to the receiver, doubling the path length (2d = v·t). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the two-way path explains the factor of 1/2 in the depth equation.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b100ddc50a6738eef87a145179dc82892ef6d4b3dbeb77bf4c228a94a1f859ef",
+    "question_skeleton": "assertion a in echo depth sounding depth d is calculated using the formula d v t # reason r the transmitted signal must travel to the sea bed and the reflected signal must return to the receiver doubling the path length d v t choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_38_dc381b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Loudness vs intensity distinction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Loudness is a physiological sensation, whereas sound intensity is an objective physical quantity. **Reason (R):** Intensity is the energy passing per unit area per second (W/m²), which is measurable by instruments, whereas loudness depends on the ear's sensitivity. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and objective energy flux versus subjective ear response distinguishes intensity from loudness.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "96cd8733d55ba592d9d334e3154380ac03b20a3efde6883aced90916d5d86118",
+    "question_skeleton": "assertion a loudness is a physiological sensation whereas sound intensity is an objective physical quantity reason r intensity is the energy passing per unit area per second w m which is measurable by instruments whereas loudness depends on the ear s sensitivity choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_39_54301e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Whispering gallery effect",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In a whispering gallery with an elliptical ceiling, a faint whisper at one focus is heard clearly at the other focus. **Reason (R):** All sound rays emitted from one focus of an ellipse reflect off the ceiling and converge precisely at the other focus. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the geometric reflection property of an ellipse focusing rays at the conjugate focus explains the effect.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "adb2f403f14f256a66d89ce301389bf9eafd43554e52e33729df735fbc6023b5",
+    "question_skeleton": "assertion a in a whispering gallery with an elliptical ceiling a faint whisper at one focus is heard clearly at the other focus reason r all sound rays emitted from one focus of an ellipse reflect off the ceiling and converge precisely at the other focus choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_sound_40_513523",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Sound",
+    "title": "Assertion–Reason: Doppler effect for light and sound",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The Doppler effect occurs for both mechanical sound waves and electromagnetic light waves. **Reason (R):** Relative motion between the source and observer alters the rate at which wave crests are intercepted by the receiver. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and relative motion shifting observed frequency applies to all wave phenomena.",
+    "concept_name": "Sound",
+    "concept_tag": "sound assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "579473aae597612bda721923e433038a74faa8461ade2cb84a6a7fff27064328",
+    "question_skeleton": "assertion a the doppler effect occurs for both mechanical sound waves and electromagnetic light waves reason r relative motion between the source and observer alters the rate at which wave crests are intercepted by the receiver choose the correct option"
+  }
+]

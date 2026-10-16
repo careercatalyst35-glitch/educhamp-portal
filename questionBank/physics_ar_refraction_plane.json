@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_refraction_plane_1_6debd6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Frequency invariance in refraction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When light travels from air into glass, its frequency remains unchanged. **Reason (R):** Frequency is a characteristic property of the light source and does not depend on the medium through which light travels. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the source-dependent nature of frequency correctly explains why it does not change across boundaries.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "385e9872e0dbd1c35df17a11f942127f8b40a2495f0e41cbcbbcff6410ed2f84",
+    "question_skeleton": "assertion a when light travels from air into glass its frequency remains unchanged reason r frequency is a characteristic property of the light source and does not depend on the medium through which light travels choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_2_2cef86",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Bending of light towards the normal",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A ray of light traveling obliquely from air into water bends towards the normal. **Reason (R):** The speed of light in water is less than the speed of light in air. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. According to Snell's law, reduction in speed in an optically denser medium causes the angle of refraction to be smaller than the angle of incidence, bending the ray towards the normal.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9251d07e2d300f7af17799e889796770e39b83d28dbc9d88fb34452faf8059ec",
+    "question_skeleton": "assertion a a ray of light traveling obliquely from air into water bends towards the normal reason r the speed of light in water is less than the speed of light in air choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_3_9a764a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Total internal reflection conditions",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Total internal reflection occurs only when light attempts to travel from an optically denser medium into an optically rarer medium. **Reason (R):** The angle of refraction in the rarer medium can reach 90° and beyond only when the refracted ray bends away from the normal. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and bending away from the normal in a rarer medium is the essential physical condition for refraction to reach 90°.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1e73842a3218e276d043a9b71537f639268113057481a93d09562a55865c292b",
+    "question_skeleton": "assertion a total internal reflection occurs only when light attempts to travel from an optically denser medium into an optically rarer medium reason r the angle of refraction in the rarer medium can reach # and beyond only when the refracted ray bends away from the normal choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_4_df774a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Apparent depth of a swimming pool",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A swimming pool filled with clear water appears shallower than it actually is. **Reason (R):** Light rays diverging from the pool bottom bend away from the normal as they emerge into air, making them appear to originate from a virtual position higher up. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the upward virtual displacement caused by refraction away from the normal explains apparent depth.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "817e1a5fed804e58c5817821ec6bd222577f4e2a5c252f3048ff46661911e21a",
+    "question_skeleton": "assertion a a swimming pool filled with clear water appears shallower than it actually is reason r light rays diverging from the pool bottom bend away from the normal as they emerge into air making them appear to originate from a virtual position higher up choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_5_2047a9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Lateral displacement in glass slab",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A ray of light emerging from a parallel-sided glass slab is parallel to the incident ray but laterally displaced. **Reason (R):** The extent of bending at the first air-glass surface is equal and opposite to the bending at the second glass-air surface. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and parallel surfaces with equal and opposite refractions guarantee that the emergent ray remains parallel to the incident ray.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "45bfc6cd71a05c9fcf6b8940f34f86488b3c400c55a84878af8ac695d5a8bec2",
+    "question_skeleton": "assertion a a ray of light emerging from a parallel sided glass slab is parallel to the incident ray but laterally displaced reason r the extent of bending at the first air glass surface is equal and opposite to the bending at the second glass air surface choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_6_d80c9f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Normal incidence refraction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A ray of light falling normally on a glass slab passes through without any deviation. **Reason (R):** For normal incidence, the angle of incidence is 0°, so according to Snell's law, the angle of refraction is also 0°. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. With i = 0°, sin(r) = (sin 0°)/μ = 0, so r = 0° and no deviation occurs.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "daf40acb23561da180e02607145cfe9315e9f2f5d5ada44492530b577ef3a440",
+    "question_skeleton": "assertion a a ray of light falling normally on a glass slab passes through without any deviation reason r for normal incidence the angle of incidence is # so according to snell s law the angle of refraction is also # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_7_d771c5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Critical angle and refractive index",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Diamond has a very small critical angle of approximately 24° in air. **Reason (R):** Diamond has a very high refractive index (μ ≈ 2.42), and critical angle is inversely related to refractive index (sin c = 1/μ). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and sin c = 1/μ directly explains why a high refractive index produces a small critical angle.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fa25048418ff0a132a75f6add7eab1cbf64159333806b690852733285690fe1c",
+    "question_skeleton": "assertion a diamond has a very small critical angle of approximately # in air reason r diamond has a very high refractive index # and critical angle is inversely related to refractive index sin c # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_8_e79f19",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Sparkling of cut diamond",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A properly cut diamond sparkles brilliantly under white light. **Reason (R):** Due to its small critical angle (24°), light entering the diamond undergoes multiple total internal reflections before emerging from specific facets. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and multiple total internal reflections trapping and directing light to top facets explain the brilliance.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dd6f27c4aaf524e6ddcd7c73c02d52de53f28e1b41493fe75994eb5dfc876372",
+    "question_skeleton": "assertion a a properly cut diamond sparkles brilliantly under white light reason r due to its small critical angle # light entering the diamond undergoes multiple total internal reflections before emerging from specific facets choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_9_ad3385",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Mirage formation in deserts",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A mirage observed on a hot desert road is an optical illusion caused by total internal reflection. **Reason (R):** Hot air near the ground is less dense than the cooler air above, creating an optically rarer layer near the surface. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the inverted refractive index gradient in hot air causes successive refraction and TIR.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "05aa71e2ec7dd30d46de67159a2a85500a3ea5a69a970bf4e4276ec70a9cc3a9",
+    "question_skeleton": "assertion a a mirage observed on a hot desert road is an optical illusion caused by total internal reflection reason r hot air near the ground is less dense than the cooler air above creating an optically rarer layer near the surface choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_10_6f08e9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Critical angle and color of light",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The critical angle for red light in glass is greater than that for violet light. **Reason (R):** The refractive index of glass for red light is smaller than that for violet light (μ_red < μ_violet), and sin c = 1/μ. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since μ_red < μ_violet, sin(c_red) > sin(c_violet), so c_red > c_violet.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "07d7aadf031d3e9aeabac67eb7a8f83f944c7942cd6575533c635956f25ca651",
+    "question_skeleton": "assertion a the critical angle for red light in glass is greater than that for violet light reason r the refractive index of glass for red light is smaller than that for violet light red violet and sin c # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_11_f296b7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Principle of reversibility",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If the path of a light ray is reversed, it exactly retraces its previous trajectory. **Reason (R):** The refractive index of medium 2 with respect to medium 1 is the reciprocal of the refractive index of medium 1 with respect to medium 2 (₁μ₂ = 1 / ₂μ₁). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and ₁μ₂ × ₂μ₁ = 1 mathematically expresses the reversibility of light rays.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "611885823f22d0fbe28556791adc3ae63e8e07a3e0e6df9f1b87176e01c79a45",
+    "question_skeleton": "assertion a if the path of a light ray is reversed it exactly retraces its previous trajectory reason r the refractive index of medium # with respect to medium # is the reciprocal of the refractive index of medium # with respect to medium # # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_12_36137b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Refraction index and temperature",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The refractive index of a liquid decreases slightly when its temperature is raised. **Reason (R):** Heating expands the liquid, decreasing its density and increasing the speed of light through it. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and thermal expansion reducing optical density explains the decrease in refractive index.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8cec6efc10cf13e42a5962176fac01f272fc0b76b08d606afceba036e0f322fe",
+    "question_skeleton": "assertion a the refractive index of a liquid decreases slightly when its temperature is raised reason r heating expands the liquid decreasing its density and increasing the speed of light through it choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_13_a3ef03",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Total reflecting prism vs silvered mirror",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Totally reflecting glass prisms are preferred over silvered plane mirrors in periscopes and binoculars. **Reason (R):** A silvered mirror produces ghost images and tarnishes over time, whereas total internal reflection in a prism reflects 100% of incident light without multiple reflection ghosting. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the 100% reflection efficiency without multiple images explains the preference for prisms.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "27493f4412fe85fa2382c9e07fa14554f188a56c71b33f1b4b8d864d9d64258c",
+    "question_skeleton": "assertion a totally reflecting glass prisms are preferred over silvered plane mirrors in periscopes and binoculars reason r a silvered mirror produces ghost images and tarnishes over time whereas total internal reflection in a prism reflects # of incident light without multiple reflection ghosting choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_14_ce8819",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Apparent bending of a pencil in water",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A pencil dipped obliquely in a beaker of water appears bent at the water surface. **Reason (R):** Light rays from the submerged part of the pencil bend away from the normal on entering air, making the submerged portion appear raised. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and refraction away from the normal raising each point explains the apparent bent shape.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "11ebef1f45ad2764fbb3ee7ab8fee0a60c62c4b197c0411adcaed941b79a3476",
+    "question_skeleton": "assertion a a pencil dipped obliquely in a beaker of water appears bent at the water surface reason r light rays from the submerged part of the pencil bend away from the normal on entering air making the submerged portion appear raised choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_15_4f1234",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Wavelength change during refraction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When green light of wavelength 500 nm in air enters water (μ = 4/3), its color changes to blue. **Reason (R):** The wavelength of light in a medium decreases according to λ_m = λ_air / μ. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because the perceived color of light is determined by its frequency, which remains unchanged upon entering water; hence its color remains green. Reason is true.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "33875152c4b5c96f07b907ad79da31c919439e8f4244b1749a206a6ad8e152c8",
+    "question_skeleton": "assertion a when green light of wavelength # nm in air enters water # # its color changes to blue reason r the wavelength of light in a medium decreases according to m air choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_16_0055d9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Right-angled isosceles prism 90 degree deviation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A 45°-90°-45° prism can deviate a beam of light through 90° by total internal reflection. **Reason (R):** Light entering normally on one cathetus face strikes the hypotenuse face at 45°, which exceeds the 42° critical angle of ordinary crown glass. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and 45° angle of incidence exceeding the 42° critical angle ensures total internal reflection through 90°.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c716ec7d63313994ec25ced2854dbb658184e8064bfddd97211d0140991ed186",
+    "question_skeleton": "assertion a a # # # prism can deviate a beam of light through # by total internal reflection reason r light entering normally on one cathetus face strikes the hypotenuse face at # which exceeds the # critical angle of ordinary crown glass choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_17_6c57c9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Right-angled isosceles prism 180 degree deviation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A 45°-90°-45° prism can turn a light beam through 180° (inverting prism). **Reason (R):** Light entering normally through the hypotenuse undergoes two successive total internal reflections at 45° on the two legs. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and two successive 90° total reflections sum to an exact 180° reversal.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4fe45a5de8f8b5278d068962e621d66b7c288a1da3a8a8d9b4907d63867c1aa4",
+    "question_skeleton": "assertion a a # # # prism can turn a light beam through # inverting prism reason r light entering normally through the hypotenuse undergoes two successive total internal reflections at # on the two legs choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_18_d947f6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Twinkling of stars",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Stars twinkle when viewed from the Earth's surface, but planets do not noticeably twinkle. **Reason (R):** Stars are point sources of light whose rays undergo fluctuating refraction through turbulent atmospheric layers, whereas planets are extended discs. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the point-source nature of stars versus the averaging effect of extended planetary discs explains twinkling.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fa1501e77b1d5e544645cd979961015dd2afd3853463b8fb51a6aa8e7c5584e1",
+    "question_skeleton": "assertion a stars twinkle when viewed from the earth s surface but planets do not noticeably twinkle reason r stars are point sources of light whose rays undergo fluctuating refraction through turbulent atmospheric layers whereas planets are extended discs choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_19_ca1d79",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Early sunrise and delayed sunset",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The Sun is visible about two minutes before actual sunrise and two minutes after actual sunset. **Reason (R):** Atmospheric refraction bends sunlight around the curvature of the Earth when the Sun is slightly below the horizon. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and atmospheric curvature refraction raising the Sun's apparent position explains early sunrise and delayed sunset.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "68e556ee50974c5aa9a253f0a756663c65f649af5fb8965c9bce565d4352a8c3",
+    "question_skeleton": "assertion a the sun is visible about two minutes before actual sunrise and two minutes after actual sunset reason r atmospheric refraction bends sunlight around the curvature of the earth when the sun is slightly below the horizon choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_20_2610d2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Refractive index formula speed of light",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The absolute refractive index of a transparent medium is always greater than or equal to 1. **Reason (R):** The speed of light in vacuum (c ≈ 3 × 10⁸ m s⁻¹) is the maximum attainable speed in the universe, so c ≥ v in all material media. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and since μ = c/v with c ≥ v, μ must be ≥ 1.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "131493304f4e67f97eb5d4c8d72d92d43a9afd49023988ccf75abc09f4abe14b",
+    "question_skeleton": "assertion a the absolute refractive index of a transparent medium is always greater than or equal to # reason r the speed of light in vacuum c # # m s is the maximum attainable speed in the universe so c v in all material media choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_21_d4c03f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Coin in beaker appearing raised formula",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The apparent shift of a coin at the bottom of a water beaker of depth d is given by shift = d (1 - 1/μ). **Reason (R):** Apparent depth is related to real depth by the formula Apparent Depth = Real Depth / μ. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Shift = Real Depth - Apparent Depth = d - d/μ = d(1 - 1/μ).",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "57386859aecd391c0b0641e5dd17db99d42ba326c2a748c63a6b6258918fbf3f",
+    "question_skeleton": "assertion a the apparent shift of a coin at the bottom of a water beaker of depth d is given by shift d # # reason r apparent depth is related to real depth by the formula apparent depth real depth choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_22_59d1c9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Critical angle for water-air interface",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The critical angle for water (μ = 1.33) is approximately 48.6°. **Reason (R):** Sin c = 1 / μ = 1 / (4/3) = 3/4 = 0.75, which corresponds to an angle of 48.6°. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the calculation sin c = 1/μ directly derives 48.6°.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "26446387776a22795d3e9b25de18975e7bd630dc77181fea2b8f7e290827573b",
+    "question_skeleton": "assertion a the critical angle for water # is approximately # reason r sin c # # # # # # # which corresponds to an angle of # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_23_206950",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Critical angle glass-water interface",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The critical angle for a glass-water interface is greater than that for a glass-air interface. **Reason (R):** The relative refractive index of glass with respect to water is less than the refractive index of glass with respect to air. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since _wμ_g = 1.5 / 1.33 = 1.125 < 1.5, sin c = 1 / _wμ_g is larger, making c_gw ≈ 63° > c_ga ≈ 42°.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "af38cb350791322e70ff4269bd2487ae00f5d829f6c86c59e8f363b04d855d5c",
+    "question_skeleton": "assertion a the critical angle for a glass water interface is greater than that for a glass air interface reason r the relative refractive index of glass with respect to water is less than the refractive index of glass with respect to air choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_24_e0ac24",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Optical fibers communication principle",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Optical fibers transmit light signals across long distances with virtually zero loss of energy. **Reason (R):** Light signals inside an optical fiber core undergo repeated total internal reflections at the core-cladding boundary. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and total internal reflection with zero transmission leakage through cladding explains efficient optical waveguiding.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8a0d587093a0322b0e5361ae16bdbb26d1e645c437c9bafb38f28ffb8d9c1d93",
+    "question_skeleton": "assertion a optical fibers transmit light signals across long distances with virtually zero loss of energy reason r light signals inside an optical fiber core undergo repeated total internal reflections at the core cladding boundary choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_25_838ff3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Equilateral prism deviation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An equilateral prism can produce total internal reflection of a light ray inside it. **Reason (R):** In an equilateral glass prism, all three angles are 60°, which exceeds the 42° critical angle of glass for rays striking at suitable angles. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and internal angles exceeding 42° permit total reflection in 60° prisms.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "610971fd7a4ab7c0806e9ecd02fc49aee127091a868aa89ab5691d77a00891d3",
+    "question_skeleton": "assertion a an equilateral prism can produce total internal reflection of a light ray inside it reason r in an equilateral glass prism all three angles are # which exceeds the # critical angle of glass for rays striking at suitable angles choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_26_3141a4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Lateral displacement factor slab thickness",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The lateral displacement of an oblique light ray passing through a glass slab increases with an increase in the slab's thickness. **Reason (R):** A thicker slab provides a longer path inside the glass, allowing the displaced ray to separate further before emerging. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and lateral displacement d = t · sin(i - r) / cos(r) is directly proportional to thickness t.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8486057b861fcb07040df6d3f26d54bd6b160a5b2dcaf251f136526342b2b3bf",
+    "question_skeleton": "assertion a the lateral displacement of an oblique light ray passing through a glass slab increases with an increase in the slab s thickness reason r a thicker slab provides a longer path inside the glass allowing the displaced ray to separate further before emerging choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_27_db8857",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Lateral displacement and angle of incidence",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Lateral displacement produced by a glass slab increases as the angle of incidence increases from 0° to 90°. **Reason (R):** As angle of incidence i increases, the angular separation (i - r) between the incident and refracted ray increases. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and larger (i - r) directly increases lateral displacement.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "793223b53af0cbcda7c6dd93a885a284847beb1e15995e7854a08e6053354cf4",
+    "question_skeleton": "assertion a lateral displacement produced by a glass slab increases as the angle of incidence increases from # to # reason r as angle of incidence i increases the angular separation i r between the incident and refracted ray increases choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_28_310bf1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Lateral displacement and wavelength",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Lateral displacement for violet light passing through a glass slab is greater than that for red light. **Reason (R):** Glass has a higher refractive index for violet light than for red light, causing violet light to bend more. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and higher refractive index for violet produces smaller r and larger (i - r), giving greater lateral displacement.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6b5a62b9ba7b1417e2339f0de2cdd7d9a6bb30e6f5d3cc745dda82609b9ab45a",
+    "question_skeleton": "assertion a lateral displacement for violet light passing through a glass slab is greater than that for red light reason r glass has a higher refractive index for violet light than for red light causing violet light to bend more choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_29_a08961",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Total internal reflection at grazing incidence",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When angle of incidence in a denser medium equals the critical angle, the angle of refraction is 90°. **Reason (R):** The refracted ray grazes the interface between the two media when i = c. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and r = 90° (grazing ray) defines the critical angle.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "71801f4ecb0b973f192c5afe8dd80be65e4c51dacd61941ece4fd0ca63f389fb",
+    "question_skeleton": "assertion a when angle of incidence in a denser medium equals the critical angle the angle of refraction is # reason r the refracted ray grazes the interface between the two media when i c choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_30_646632",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Air bubble inside water appearing silvery",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An air bubble inside water shines with a brilliant silvery lustre when illuminated obliquely. **Reason (R):** Light rays passing through water strike the water-air bubble boundary at angles greater than 48.6° and undergo total internal reflection. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and total internal reflection from the rarer air bubble back into the observer's eye causes the metallic sheen.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6da441bb7d558407b795717bb349c049fdfb0940e0886ab6249ed761e5aebffe",
+    "question_skeleton": "assertion a an air bubble inside water shines with a brilliant silvery lustre when illuminated obliquely reason r light rays passing through water strike the water air bubble boundary at angles greater than # and undergo total internal reflection choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_31_41e271",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Endoscope working principle",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Doctors use an endoscope to visualize internal organs of the human body. **Reason (R):** An endoscope consists of a flexible bundle of thousands of optical fibers operating on total internal reflection. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and optical fiber total internal reflection explains how light is guided in and image relayed out.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9d2eb487c9323a4c04c898623ad6a3a893888703e1c418bab5317b9c2f13e8c1",
+    "question_skeleton": "assertion a doctors use an endoscope to visualize internal organs of the human body reason r an endoscope consists of a flexible bundle of thousands of optical fibers operating on total internal reflection choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_32_df7723",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Cracked glass test tube in water",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A test tube with a silvered crack dipped in water appears silvery when viewed from certain angles. **Reason (R):** Air trapped inside the crack acts as a rarer medium, causing total internal reflection of light rays entering from water. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and total internal reflection at the water-air interface inside the crack explains the silver appearance.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6ea28c67fc40e93ed0b9604d7f6c26e5813d12e65facd13d418481171fd0f479",
+    "question_skeleton": "assertion a a test tube with a silvered crack dipped in water appears silvery when viewed from certain angles reason r air trapped inside the crack acts as a rarer medium causing total internal reflection of light rays entering from water choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_33_f40d6e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Light passing through prism dispersion",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** White light passing through a triangular prism splits into its component colors, but it does not split when passing through a parallel-sided slab. **Reason (R):** In a parallel slab, the opposite faces are parallel, so the dispersion produced at the first face is exactly recombined at the second face. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and parallel surfaces produce equal and opposite lateral shifts for each color, emerging parallel and overlapping.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2ab88e9f511d24cc89f9527bd796606ea96ff82705134618e6330a9b8bb70845",
+    "question_skeleton": "assertion a white light passing through a triangular prism splits into its component colors but it does not split when passing through a parallel sided slab reason r in a parallel slab the opposite faces are parallel so the dispersion produced at the first face is exactly recombined at the second face choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_34_b4b17b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Snell's law validity condition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Snell's law of refraction is valid for any pair of media and for all non-normal angles of incidence. **Reason (R):** The ratio sin(i) / sin(r) is constant and equals the relative refractive index of the second medium with respect to the first. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the constant ratio sin i / sin r = ₁μ₂ defines Snell's law.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bb08ee0ef6059c2dc2f9f2bb92a59d15a0f03fc7ff444481de917deec4216e90",
+    "question_skeleton": "assertion a snell s law of refraction is valid for any pair of media and for all non normal angles of incidence reason r the ratio sin i sin r is constant and equals the relative refractive index of the second medium with respect to the first choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_35_cf6715",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Refractive index of vacuum",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The refractive index of a vacuum is defined as exactly 1. **Reason (R):** The speed of light in a vacuum divided by itself is equal to 1 (c / c = 1). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and μ = c/c = 1 mathematically defines unity refractive index for vacuum.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e6be89ec11f2e288feafc4a618e872bfa7e740d75254b96d1833762a37e50343",
+    "question_skeleton": "assertion a the refractive index of a vacuum is defined as exactly # reason r the speed of light in a vacuum divided by itself is equal to # c c # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_36_0a2d43",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Critical angle for diamond in water",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The critical angle for diamond placed in water is greater than the critical angle for diamond in air. **Reason (R):** Water has a higher refractive index than air, so the relative refractive index of diamond with respect to water is smaller than that with respect to air. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since _wμ_d = 2.42 / 1.33 ≈ 1.82 < 2.42, sin c = 1/1.82 ≈ 0.55 (c ≈ 33.3° > 24.4°).",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d03bf2f5cea2425f5d0e4527e024f061b58f6437490637a7a0cc22573cbb0782",
+    "question_skeleton": "assertion a the critical angle for diamond placed in water is greater than the critical angle for diamond in air reason r water has a higher refractive index than air so the relative refractive index of diamond with respect to water is smaller than that with respect to air choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_37_acd1fb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Prism deviation angle factor",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The angle of deviation produced by a triangular glass prism increases with an increase in the angle of the prism. **Reason (R):** A larger refracting angle of the prism forces the light ray to travel through more material, resulting in greater cumulative bending. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and δ = (i + e) - A shows that a larger prism angle A increases overall deviation.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cea67f9b02bf1d81be25890776ea5ff954c7c8cbac41fd28d857bb18e0efba8c",
+    "question_skeleton": "assertion a the angle of deviation produced by a triangular glass prism increases with an increase in the angle of the prism reason r a larger refracting angle of the prism forces the light ray to travel through more material resulting in greater cumulative bending choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_38_aa59cd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Porro prism in binoculars",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Porro prisms in binoculars invert the image both vertically and laterally without reducing brightness. **Reason (R):** Porro prisms utilize total internal reflection, which reflects virtually 100% of light without absorption losses of silver coatings. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and 100% total internal reflection in Porro prisms preserves maximum light transmission.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0d16c5a216c19ac665f1a2af011c1dbdfd00d7129b4dc7fdbfc9852cabf1e1e1",
+    "question_skeleton": "assertion a porro prisms in binoculars invert the image both vertically and laterally without reducing brightness reason r porro prisms utilize total internal reflection which reflects virtually # of light without absorption losses of silver coatings choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_39_85a1da",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Refraction index and optical density",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A medium with higher mass density always has a higher optical density (refractive index). **Reason (R):** Optical density measures how much a medium slows down light, whereas mass density measures mass per unit volume. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because kerosene has lower mass density than water (it floats on water), but kerosene has a higher refractive index (1.44) than water (1.33). Reason is true.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "19b8482121b23414c6563f19c2d3ffd73db6f78dc9dc97980a368a3363188b81",
+    "question_skeleton": "assertion a a medium with higher mass density always has a higher optical density refractive index reason r optical density measures how much a medium slows down light whereas mass density measures mass per unit volume choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_plane_40_8c28ff",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Assertion–Reason: Critical angle independent of light intensity",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The critical angle for a glass-air interface remains constant whether dim light or bright laser light is used. **Reason (R):** Critical angle depends solely on the refractive indices of the media for the given wavelength, not on the intensity of light. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and sin c = 1/μ is strictly independent of beam intensity.",
+    "concept_name": "Refraction of Light at Plane Surfaces",
+    "concept_tag": "refraction plane assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7b19489a3d9776c799994444fee9a9ab889fc358a11fbdab9377203f2af3d890",
+    "question_skeleton": "assertion a the critical angle for a glass air interface remains constant whether dim light or bright laser light is used reason r critical angle depends solely on the refractive indices of the media for the given wavelength not on the intensity of light choose the correct option"
+  }
+]

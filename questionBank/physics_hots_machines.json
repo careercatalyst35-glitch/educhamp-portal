@@ -1,0 +1,1349 @@
+[
+  {
+    "globalId": "qb_hots_machines_1_3mxr2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Power of a machine: Distinguishing power from work",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the efficiency of the machine?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M30 20 H290\" stroke=\"#64748b\" stroke-width=\"5\" /><path d=\"M160 24 V67\" stroke=\"#64748b\" stroke-width=\"2.5\" /><rect x=\"124\" y=\"67\" width=\"72\" height=\"37\" rx=\"3\" fill=\"#94a3b8\" stroke=\"#475569\" /><text x=\"160\" y=\"89\" text-anchor=\"middle\" font-size=\"11\" fill=\"#111827\">400 N</text><path d=\"M217 100 V65\" stroke=\"#16a34a\" stroke-width=\"2.5\" /><path d=\"M211 77 L217 65 L223 77\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2.5\" /><text x=\"228\" y=\"77\" font-size=\"10\" fill=\"#16a34a\">2.5 m</text><text x=\"160\" y=\"126\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Time = 5 s</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "40%"
+      },
+      {
+        "key": "B",
+        "text": "50%"
+      },
+      {
+        "key": "C",
+        "text": "80%"
+      },
+      {
+        "key": "D",
+        "text": "100%"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Useful work:\n\n\nW_{out}=400(2.5)=1000,J\n\n\nUseful output power:\n\n\nP_{out}=(1000 / 5)=200,W\n\n\nTherefore,\n\n\neta=(200 / 250)×100=80%\n\n\nOption D incorrectly assumes that all input power becomes useful output power.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_2_8sd6o",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Inclined plane: Calculating efficiency from forces and geometry",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the efficiency of the plane?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M25 125 H290 L290 45 Z\" fill=\"#cbd5e1\" fill-opacity=\"0.5\" stroke=\"#64748b\" stroke-width=\"2\" /><path d=\"M25 125 L290 45\" stroke=\"#2563eb\" stroke-width=\"3\" /><rect x=\"143\" y=\"79\" width=\"36\" height=\"23\" rx=\"2\" transform=\"rotate(-16.8 161 90)\" fill=\"#94a3b8\" stroke=\"#475569\" /><path d=\"M170 77 L213 64\" stroke=\"#16a34a\" stroke-width=\"2.5\" /><path d=\"M201 58 L215 63 L205 72\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2.5\" /><text x=\"218\" y=\"61\" font-size=\"10\" fill=\"#16a34a\">180 N</text><text x=\"143\" y=\"143\" font-size=\"10\" fill=\"currentColor\">6 m</text><text x=\"296\" y=\"88\" font-size=\"10\" fill=\"currentColor\">2 m</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "50%"
+      },
+      {
+        "key": "B",
+        "text": "60%"
+      },
+      {
+        "key": "C",
+        "text": "66.7%"
+      },
+      {
+        "key": "D",
+        "text": "75%"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "VR=(6 / 2)=3\n\n\n\nMA=(360 / 180)=2\n\n\nTherefore,\n\n\neta=frac23×100=66.7%\n\n\nThe correct answer is **C**, not A. Option A would result from using an incorrect velocity ratio.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_3_vhht9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Energy-flow diagram: Useful work and energy loss",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the efficiency of the machine?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 155\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"8\" y=\"51\" width=\"83\" height=\"43\" rx=\"5\" fill=\"#dbeafe\" stroke=\"#2563eb\" stroke-width=\"1.5\"/>\n    <text x=\"49\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d4ed8\">Input</text>\n    <text x=\"49\" y=\"82\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d4ed8\">800 J</text>\n    <path d=\"M91 72 H124\" stroke=\"#64748b\" stroke-width=\"2.5\"/>\n    <path d=\"M116 66 L126 72 L116 78\" fill=\"none\" stroke=\"#64748b\" stroke-width=\"2.5\"/>\n    <rect x=\"126\" y=\"51\" width=\"82\" height=\"43\" rx=\"5\" fill=\"#e2e8f0\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n    <text x=\"167\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#111827\">Machine</text>\n    <text x=\"167\" y=\"82\" text-anchor=\"middle\" font-size=\"10\" fill=\"#111827\">Energy</text>\n    <path d=\"M208 62 H235\" stroke=\"#16a34a\" stroke-width=\"2.5\"/>\n    <path d=\"M227 56 L237 62 L227 68\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2.5\"/>\n    <rect x=\"237\" y=\"39\" width=\"94\" height=\"43\" rx=\"5\" fill=\"#dcfce7\" stroke=\"#16a34a\" stroke-width=\"1.5\"/>\n    <text x=\"284\" y=\"56\" text-anchor=\"middle\" font-size=\"10\" fill=\"#166534\">Useful output</text>\n    <text x=\"284\" y=\"70\" text-anchor=\"middle\" font-size=\"11\" fill=\"#166534\">600 J</text>\n    <path d=\"M167 94 V119 H235\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n    <path d=\"M227 113 L237 119 L227 125\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n    <text x=\"238\" y=\"111\" font-size=\"10\" fill=\"#dc2626\">Wasted energy</text>\n    <text x=\"238\" y=\"135\" font-size=\"11\" fill=\"#dc2626\">200 J</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "25%"
+      },
+      {
+        "key": "B",
+        "text": "60%"
+      },
+      {
+        "key": "C",
+        "text": "80%"
+      },
+      {
+        "key": "D",
+        "text": "75%"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Efficiency is the ratio of useful output work to input work:\n\n\neta=(600 / 800)×100=75%\n\n\nThe remaining 200,J is wasted. Option C incorrectly treats the wasted-energy fraction as the efficiency.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_4_kwnfg",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Block and tackle: Supporting strands versus pulley count",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the ideal velocity ratio of this system?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 220\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M30 20 H310\" stroke=\"#64748b\" stroke-width=\"5\"/>\n    <rect x=\"74\" y=\"31\" width=\"192\" height=\"52\" rx=\"4\" fill=\"#cbd5e1\" stroke=\"#64748b\"/>\n    <circle cx=\"122\" cy=\"57\" r=\"18\" fill=\"#f8fafc\" stroke=\"#64748b\" stroke-width=\"2.5\"/>\n    <circle cx=\"218\" cy=\"57\" r=\"18\" fill=\"#f8fafc\" stroke=\"#64748b\" stroke-width=\"2.5\"/>\n    <rect x=\"74\" y=\"126\" width=\"192\" height=\"52\" rx=\"4\" fill=\"#cbd5e1\" stroke=\"#64748b\"/>\n    <circle cx=\"122\" cy=\"152\" r=\"18\" fill=\"#f8fafc\" stroke=\"#64748b\" stroke-width=\"2.5\"/>\n    <circle cx=\"218\" cy=\"152\" r=\"18\" fill=\"#f8fafc\" stroke=\"#64748b\" stroke-width=\"2.5\"/>\n    <path d=\"M104 57 V152 A18 18 0 0 0 140 152 V57 A18 18 0 0 1 176 57 V152 A18 18 0 0 0 254 152 V57\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n    <path d=\"M218 178 V191\" stroke=\"#64748b\" stroke-width=\"3\"/>\n    <rect x=\"174\" y=\"191\" width=\"88\" height=\"24\" rx=\"3\" fill=\"#94a3b8\" stroke=\"#475569\"/>\n    <text x=\"218\" y=\"207\" text-anchor=\"middle\" font-size=\"11\" fill=\"#111827\">Load</text>\n    <path d=\"M254 57 V101\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n    <path d=\"M248 90 L254 102 L260 90\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n    <text x=\"265\" y=\"98\" font-size=\"10\" fill=\"#2563eb\">E</text>\n    <text x=\"170\" y=\"45\" text-anchor=\"middle\" font-size=\"10\" fill=\"#111827\">Fixed block</text>\n    <text x=\"170\" y=\"140\" text-anchor=\"middle\" font-size=\"10\" fill=\"#111827\">Movable block</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The velocity ratio is the number of rope segments supporting the movable block:\n\n\nVR=4\n\n\nThe two fixed pulleys primarily redirect the rope, while the movable block is supported by four segments. Counting only the two movable pulleys gives the tempting but incorrect answer A.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_5_9fplz",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "First-class lever: Unequal arms and mechanical advantage",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the effort required to keep the lever in equilibrium, and what is its ideal mechanical advantage?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M28 62 H310\" stroke=\"#64748b\" stroke-width=\"5\" stroke-linecap=\"round\" /><path d=\"M130 65 L112 97 L148 97 Z\" fill=\"#94a3b8\" stroke=\"#475569\" stroke-width=\"1.5\" /><path d=\"M61 14 V55\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><path d=\"M55 46 L61 57 L67 46\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><path d=\"M268 14 V55\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><path d=\"M262 46 L268 57 L274 46\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><text x=\"61\" y=\"11\" text-anchor=\"middle\" font-size=\"11\" fill=\"#dc2626\">300 N</text><text x=\"268\" y=\"11\" text-anchor=\"middle\" font-size=\"11\" fill=\"#2563eb\">E</text><text x=\"130\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">F</text><path d=\"M61 120 H130 M130 120 H268\" stroke=\"currentColor\" stroke-width=\"1\" stroke-dasharray=\"3 3\" /><text x=\"95\" y=\"135\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">20 cm</text><text x=\"199\" y=\"135\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">60 cm</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "100,N, MA =3"
+      },
+      {
+        "key": "B",
+        "text": "100,N, MA =frac13"
+      },
+      {
+        "key": "C",
+        "text": "900,N, MA =3"
+      },
+      {
+        "key": "D",
+        "text": "300,N, MA =1"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Taking moments about the fulcrum:\n\n\n300×20=E×60\n\n\n\nE=(300×20 / 60)=100,N\n\n\nThe ideal mechanical advantage is\n\n\nMA=(Load / Effort)\n=(300 / 100)=3\n\n\nOption B reverses the load-to-effort ratio. Option C incorrectly multiplies the load by the ratio of the effort arm to the load arm.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_6_jinnr",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Third-class lever: Distinguishing MA from VR",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "If the lever is in equilibrium, which pair correctly gives the effort and the ideal velocity ratio?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M38 80 H307\" stroke=\"#64748b\" stroke-width=\"5\" stroke-linecap=\"round\" /><path d=\"M38 83 L22 111 H54 Z\" fill=\"#94a3b8\" stroke=\"#475569\" /><path d=\"M78 29 V72\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><path d=\"M72 40 L78 28 L84 40\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><text x=\"78\" y=\"22\" text-anchor=\"middle\" font-size=\"11\" fill=\"#2563eb\">E</text><path d=\"M278 29 V72\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><path d=\"M272 62 L278 74 L284 62\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><text x=\"278\" y=\"22\" text-anchor=\"middle\" font-size=\"11\" fill=\"#dc2626\">60 N</text><text x=\"38\" y=\"125\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">F</text><path d=\"M38 117 H78 M78 117 H278\" stroke=\"currentColor\" stroke-width=\"1\" stroke-dasharray=\"3 3\" /><text x=\"58\" y=\"139\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">5 cm</text><text x=\"178\" y=\"139\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">30 cm from F</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "E=10,N, VR=6"
+      },
+      {
+        "key": "B",
+        "text": "E=360,N, VR=frac16"
+      },
+      {
+        "key": "C",
+        "text": "E=60,N, VR=1"
+      },
+      {
+        "key": "D",
+        "text": "E=360,N, VR=6"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Taking moments about the elbow:\n\n\nE×5=60×30\n\n\n\nE=(1800 / 5)=360,N\n\n\nThe ideal VR is the effort-arm to load-arm ratio:\n\n\nVR=(5 / 30)=frac16\n\n\nThis means the correct physical pair is E=360,N and VR=frac16, which is **option B**.\n\nOption D incorrectly uses the reciprocal of VR. A third-class lever can require an effort greater than its load while providing a distance or speed advantage.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_7_5gd67",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Inclined plane: Finding the height from efficiency",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A machine in the form of an inclined plane has a length of 8,m, a mechanical advantage of 3, and an efficiency of 75%. What is the vertical height of the plane?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.5,m"
+      },
+      {
+        "key": "B",
+        "text": "2,m"
+      },
+      {
+        "key": "C",
+        "text": "2.5,m"
+      },
+      {
+        "key": "D",
+        "text": "3,m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "eta=(MA / VR)×100\n\n\n\n75=(3 / VR)×100\n\n\n\nVR=4\n\n\nFor an inclined plane,\n\n\nVR=(l / h)\n\n\nThus,\n\n\nh=(8 / 4)=2,m\n\n\nOption D results from incorrectly using the mechanical advantage as the velocity ratio.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_8_zzadt",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Block and tackle: Actual effort and velocity ratio",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal block-and-tackle system has five rope segments supporting its movable block. It raises a 750,N load at constant speed. What effort is required, and how far must the effort move to raise the load by 24,cm?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "150,N, 120,cm"
+      },
+      {
+        "key": "B",
+        "text": "125,N, 96,cm"
+      },
+      {
+        "key": "C",
+        "text": "150,N, 96,cm"
+      },
+      {
+        "key": "D",
+        "text": "750,N, 24,cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For an ideal block and tackle with five supporting strands,\n\n\nVR=5,qquad MA=5\n\n\nEffort:\n\n\nE=(750 / 5)=150,N\n\n\nEffort displacement:\n\n\nd_E=VR× d_L=5×24=120,cm\n\n\nOption C calculates the effort correctly but uses an incorrect displacement.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_9_z3c6a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Experimental graph: Effort displacement versus load displacement",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the machine’s velocity ratio according to this experiment?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Experimental graph: Effort displacement versus load displacement</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.25"
+      },
+      {
+        "key": "B",
+        "text": "2.5"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "40"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The gradient of the graph is\n\n\n(d_E / d_L)=(40 / 10)=4\n\n\nBy definition, VR=d_E/d_L, so the answer is 4.\n\nOption A takes the reciprocal. Option D confuses the effort displacement with the ratio.\n\n**Correction to Q6:** The correct answer is **B**, not D. The effort is 360,N, and VR=5/30=1/6. The earlier answer label was incorrect.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_10_151vm",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Pulley system: Finding the total supported weight",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What total weight is supported by the three strands?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 175\" width=\"100%\">\n    <path d=\"M25 20 H315\" stroke=\"#64748b\" stroke-width=\"5\"/>\n    <path d=\"M75 23 V82 A40 40 0 0 0 155 82 V43\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n    <circle cx=\"115\" cy=\"82\" r=\"23\" fill=\"none\" stroke=\"#64748b\" stroke-width=\"3\"/>\n    <path d=\"M115 105 V117\" stroke=\"#64748b\" stroke-width=\"3\"/>\n    <rect x=\"79\" y=\"117\" width=\"72\" height=\"28\" rx=\"3\" fill=\"#94a3b8\" stroke=\"#475569\"/>\n    <text x=\"115\" y=\"135\" text-anchor=\"middle\" font-size=\"10\" fill=\"#111827\">Load + pulley</text>\n    <path d=\"M155 66 V36\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n    <path d=\"M149 47 L155 35 L161 47\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n    <text x=\"173\" y=\"43\" font-size=\"10\" fill=\"#2563eb\">T = 70 N</text>\n    <text x=\"170\" y=\"82\" font-size=\"10\" fill=\"currentColor\">3 supporting strands</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "70,N"
+      },
+      {
+        "key": "B",
+        "text": "140,N"
+      },
+      {
+        "key": "C",
+        "text": "210,N"
+      },
+      {
+        "key": "D",
+        "text": "280,N"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For an ideal system in equilibrium or moving at constant speed, the resultant force is zero. Three supporting strands each exert tension 70,N:\n\n\nW=3T=3(70)=210,N\n\n\nOption B counts only two strands, while option D incorrectly counts four.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_11_rbzhy",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "First-class lever with the bar’s weight acting on the opposite side",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "What effort is required for equilibrium?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 155\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M25 65 H315\" stroke=\"#64748b\" stroke-width=\"5\" stroke-linecap=\"round\" /><path d=\"M122 68 L105 96 H139 Z\" fill=\"#94a3b8\" stroke=\"#475569\" /><path d=\"M25 15 V57\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><path d=\"M19 46 L25 58 L31 46\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><text x=\"25\" y=\"12\" text-anchor=\"middle\" font-size=\"10\" fill=\"#dc2626\">180 N</text><path d=\"M170 15 V57\" stroke=\"#7c3aed\" stroke-width=\"2.5\" /><path d=\"M164 46 L170 58 L176 46\" fill=\"none\" stroke=\"#7c3aed\" stroke-width=\"2.5\" /><text x=\"170\" y=\"12\" text-anchor=\"middle\" font-size=\"10\" fill=\"#7c3aed\">60 N</text><path d=\"M315 112 V70\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><path d=\"M309 82 L315 70 L321 82\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><text x=\"315\" y=\"126\" text-anchor=\"middle\" font-size=\"11\" fill=\"#2563eb\">E</text><text x=\"122\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">F</text><path d=\"M25 136 H122 M122 136 H315\" stroke=\"currentColor\" stroke-width=\"1\" stroke-dasharray=\"3 3\" /><text x=\"73\" y=\"149\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">0.4 m</text><text x=\"218\" y=\"149\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">0.8 m</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "90,N"
+      },
+      {
+        "key": "B",
+        "text": "105,N"
+      },
+      {
+        "key": "C",
+        "text": "120,N"
+      },
+      {
+        "key": "D",
+        "text": "150,N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The load produces an anticlockwise moment about F:\n\n\n180(0.4)=72,N,m\n\n\nThe bar's centre is 0.2,m to the right of F, so its weight produces a clockwise moment of\n\n\n60(0.2)=12,N,m\n\n\nThe effort arm is 0.8,m. Therefore,\n\n\n72=12+0.8E\n\n\n\nE=(60 / 0.8)=75,N\n\n\nThe correct effort is 75,N, which is absent from the choices. This question is invalid as originally offered; the correct answer must not be forced to match an incorrect option.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_12_3zybz",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Movable pulley with an additional downward force",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the effort required to raise the system at constant speed?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 195\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M35 20 H305\" stroke=\"#64748b\" stroke-width=\"5\" /><path d=\"M75 23 V91 A45 45 0 0 0 165 91 V43\" fill=\"none\" stroke=\"#64748b\" stroke-width=\"2.5\" /><circle cx=\"120\" cy=\"91\" r=\"25\" fill=\"none\" stroke=\"#64748b\" stroke-width=\"3\" /><path d=\"M120 116 V127\" stroke=\"#64748b\" stroke-width=\"3\" /><rect x=\"82\" y=\"127\" width=\"76\" height=\"30\" rx=\"3\" fill=\"#94a3b8\" stroke=\"#475569\" /><text x=\"120\" y=\"146\" text-anchor=\"middle\" font-size=\"11\" fill=\"#111827\">250 N</text><path d=\"M120 157 V180\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><path d=\"M114 169 L120 181 L126 169\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><text x=\"132\" y=\"178\" font-size=\"10\" fill=\"#dc2626\">50 N</text><path d=\"M165 79 V40\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><path d=\"M159 51 L165 39 L171 51\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><text x=\"181\" y=\"48\" font-size=\"11\" fill=\"#2563eb\">E</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "125,N"
+      },
+      {
+        "key": "B",
+        "text": "150,N"
+      },
+      {
+        "key": "C",
+        "text": "175,N"
+      },
+      {
+        "key": "D",
+        "text": "300,N"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The total downward force is\n\n\n250+50=300,N\n\n\nTwo rope segments support the assembly, so\n\n\n2E=300Rightarrow E=150,N\n\n\nThe correct answer is **B**, not C. Option C would result from an incorrect total-force calculation.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_13_vgzmq",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Inclined plane: Finding friction from the measured effort",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the frictional force opposing the motion?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M25 125 H285 L285 48 Z\" fill=\"#cbd5e1\" fill-opacity=\"0.5\" stroke=\"#64748b\" stroke-width=\"2\" /><path d=\"M25 125 L285 48\" stroke=\"#2563eb\" stroke-width=\"3\" /><rect x=\"134\" y=\"80\" width=\"36\" height=\"23\" rx=\"2\" transform=\"rotate(-16.5 152 91)\" fill=\"#94a3b8\" stroke=\"#475569\" /><path d=\"M164 78 L207 65\" stroke=\"#16a34a\" stroke-width=\"2.5\" /><path d=\"M195 59 L209 64 L199 73\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2.5\" /><text x=\"211\" y=\"60\" font-size=\"10\" fill=\"#16a34a\">220 N</text><text x=\"130\" y=\"143\" font-size=\"10\" fill=\"currentColor\">5 m</text><text x=\"291\" y=\"91\" font-size=\"10\" fill=\"currentColor\">3 m</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "40,N"
+      },
+      {
+        "key": "B",
+        "text": "60,N"
+      },
+      {
+        "key": "C",
+        "text": "100,N"
+      },
+      {
+        "key": "D",
+        "text": "120,N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The component of the load’s weight parallel to the plane is\n\n\n300(3 / 5)=180,N\n\n\nAt constant speed, the effort balances this component plus friction:\n\n\n220=180+f\n\n\n\nf=40,N\n\n\nThe correct answer is **A**, not B. Option B results from an incorrect subtraction.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_14_hfm4j",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Lever: Finding the centre of gravity from a balancing diagram",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "What upward effort balances the bar?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20 60 H300\" stroke=\"#64748b\" stroke-width=\"5\" /><path d=\"M160 63 L143 91 H177 Z\" fill=\"#94a3b8\" stroke=\"#475569\" /><path d=\"M112 13 V52\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><path d=\"M106 41 L112 53 L118 41\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><text x=\"112\" y=\"11\" text-anchor=\"middle\" font-size=\"10\" fill=\"#dc2626\">120 N</text><path d=\"M300 101 V64\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><path d=\"M294 76 L300 64 L306 76\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><text x=\"300\" y=\"116\" text-anchor=\"middle\" font-size=\"10\" fill=\"#2563eb\">E</text><path d=\"M160 14 V52\" stroke=\"#7c3aed\" stroke-width=\"2.5\" /><path d=\"M154 41 L160 53 L166 41\" fill=\"none\" stroke=\"#7c3aed\" stroke-width=\"2.5\" /><text x=\"160\" y=\"11\" text-anchor=\"middle\" font-size=\"10\" fill=\"#7c3aed\">90 N</text><text x=\"160\" y=\"107\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">F</text><text x=\"136\" y=\"135\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">0.3 m</text><text x=\"235\" y=\"135\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">0.9 m</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "30,N"
+      },
+      {
+        "key": "B",
+        "text": "40,N"
+      },
+      {
+        "key": "C",
+        "text": "50,N"
+      },
+      {
+        "key": "D",
+        "text": "60,N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The bar’s own weight acts at F, so it produces zero moment about F.\n\n\n120(0.3)=E(0.9)\n\n\n\nE=(36 / 0.9)=40,N\n\n\nOption C incorrectly assigns a moment to the bar’s weight even though it acts through the pivot.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_15_fruuf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Lever with an inclined effort: Only the perpendicular component produces a moment",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "What effort balances the lever?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 170\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M24 85 H312\" stroke=\"#64748b\" stroke-width=\"5\" stroke-linecap=\"round\" /><path d=\"M132 88 L116 117 H148 Z\" fill=\"#94a3b8\" stroke=\"#475569\" /><path d=\"M66 22 V76\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><path d=\"M60 65 L66 77 L72 65\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><text x=\"66\" y=\"16\" text-anchor=\"middle\" font-size=\"11\" fill=\"#dc2626\">100 N</text><path d=\"M274 85 L250 26\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><path d=\"M249 40 L249 25 L262 32\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><text x=\"277\" y=\"24\" font-size=\"11\" fill=\"#2563eb\">E</text><path d=\"M274 43 V85\" stroke=\"#94a3b8\" stroke-width=\"1.5\" stroke-dasharray=\"3 3\" /><path d=\"M274 57 A28 28 0 0 0 263 59\" fill=\"none\" stroke=\"#64748b\" stroke-width=\"1.5\" /><text x=\"281\" y=\"62\" font-size=\"10\" fill=\"currentColor\">30°</text><text x=\"132\" y=\"131\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">F</text><text x=\"70\" y=\"151\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">20 cm</text><text x=\"214\" y=\"151\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">50 cm</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "40,N"
+      },
+      {
+        "key": "B",
+        "text": "46.2,N"
+      },
+      {
+        "key": "C",
+        "text": "80,N"
+      },
+      {
+        "key": "D",
+        "text": "100,N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Only the component perpendicular to the lever contributes to the turning moment. Since the force makes 30^° with the vertical, its vertical component is Ecos30^°.\n\n\n100(0.20)=Ecos30^°(0.50)\n\n\n\nE=(20 / 0.50cos30^°)\n≈46.2,N\n\n\nOption A ignores the angle; option C incorrectly treats the perpendicular component as Esin30^°.\n\n**Correction to Q9 — replacement question:** The effort must act **downward**, not upward, at B. With the 200,N load at A, the 100,N bar weight, and the same distances, the required downward effort is 33.3,N. This follows from 200(0.5)=100(0.5)+E(1.5).\n\n**Correction to Q11:** The correct answer is **B (40,N**, as shown by the two successive force divisions. The answer label C was a mistake.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_16_w1ubd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Block and tackle: Inferring the load from effort displacement",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal block-and-tackle system has a velocity ratio of 6. The effort moves through 1.8,m, and the load rises through 0.3,m. If the applied effort is 150,N, what load is raised?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "600,N"
+      },
+      {
+        "key": "B",
+        "text": "750,N"
+      },
+      {
+        "key": "C",
+        "text": "900,N"
+      },
+      {
+        "key": "D",
+        "text": "1,200,N"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The displacement ratio confirms\n\n\nVR=(1.8 / 0.3)=6\n\n\nFor an ideal machine, MA=VR=6. Thus,\n\n\nL=MA× E=6(150)=900,N\n\n\nOption B incorrectly uses a ratio of 5.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_17_qlsro",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Lever: Inferring efficiency from MA and VR",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the efficiency calculated from the measured forces and lever arms?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 140\" width=\"100%\">\n    <path d=\"M20 62 H320\" stroke=\"#64748b\" stroke-width=\"5\"/>\n    <path d=\"M140 65 L123 92 H157 Z\" fill=\"#94a3b8\" stroke=\"#475569\"/>\n    <path d=\"M45 14 V54\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n    <path d=\"M39 43 L45 55 L51 43\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n    <text x=\"45\" y=\"12\" text-anchor=\"middle\" font-size=\"10\" fill=\"#dc2626\">450 N</text>\n    <path d=\"M320 101 V66\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n    <path d=\"M314 78 L320 66 L326 78\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n    <text x=\"320\" y=\"115\" text-anchor=\"middle\" font-size=\"10\" fill=\"#2563eb\">150 N</text>\n    <text x=\"140\" y=\"106\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">F</text>\n    <text x=\"91\" y=\"135\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">40 cm</text>\n    <text x=\"229\" y=\"135\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">80 cm</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "50%"
+      },
+      {
+        "key": "B",
+        "text": "66.7%"
+      },
+      {
+        "key": "C",
+        "text": "75%"
+      },
+      {
+        "key": "D",
+        "text": "100%"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "MA=(450 / 150)=3\n\n\n\nVR=(80 / 40)=2\n\n\nThus,\n\n\neta=(3 / 2)×100=150%\n\n\nThis exceeds 100%, which is physically impossible for a passive machine under the stated conditions. The observations are inconsistent: the measured forces, lever arms and claimed steady operation cannot all be correct. This question is withdrawn rather than assigning a physically impossible efficiency.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_18_2146j",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Energy-loss diagram: Determining the wasted fraction",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "What percentage of the input energy is wasted?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 155\" width=\"100%\">\n    <rect x=\"8\" y=\"49\" width=\"84\" height=\"43\" rx=\"5\" fill=\"#dbeafe\" stroke=\"#2563eb\" stroke-width=\"1.5\"/>\n    <text x=\"50\" y=\"66\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d4ed8\">Input energy</text>\n    <text x=\"50\" y=\"80\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d4ed8\">1200 J</text>\n    <path d=\"M92 70 H119\" stroke=\"#64748b\" stroke-width=\"2.5\"/>\n    <path d=\"M111 64 L121 70 L111 76\" fill=\"none\" stroke=\"#64748b\" stroke-width=\"2.5\"/>\n    <rect x=\"121\" y=\"49\" width=\"80\" height=\"43\" rx=\"5\" fill=\"#e2e8f0\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n    <text x=\"161\" y=\"75\" text-anchor=\"middle\" font-size=\"11\" fill=\"#111827\">Machine</text>\n    <path d=\"M201 59 H224\" stroke=\"#16a34a\" stroke-width=\"2.5\"/>\n    <path d=\"M216 53 L226 59 L216 65\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2.5\"/>\n    <rect x=\"226\" y=\"35\" width=\"106\" height=\"39\" rx=\"5\" fill=\"#dcfce7\" stroke=\"#16a34a\" stroke-width=\"1.5\"/>\n    <text x=\"279\" y=\"50\" text-anchor=\"middle\" font-size=\"10\" fill=\"#166534\">Useful output</text>\n    <text x=\"279\" y=\"64\" text-anchor=\"middle\" font-size=\"11\" fill=\"#166534\">900 J</text>\n    <path d=\"M161 92 V116 H226\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n    <path d=\"M218 110 L228 116 L218 122\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n    <text x=\"231\" y=\"105\" font-size=\"10\" fill=\"#dc2626\">Wasted energy</text>\n    <text x=\"231\" y=\"132\" font-size=\"11\" fill=\"#dc2626\">300 J</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "15%"
+      },
+      {
+        "key": "B",
+        "text": "20%"
+      },
+      {
+        "key": "C",
+        "text": "25%"
+      },
+      {
+        "key": "D",
+        "text": "30%"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Wasted energy:\n\n\nW_{wasted}=1200-900=300,J\n\n\nPercentage wasted:\n\n\n(300 / 1200)×100=25%\n\n\nThe correct answer is **C**, not D. The remaining energy is one-quarter of the input.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_19_gejok",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Fixed pulley: Comparing input and useful work",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the efficiency of the pulley?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 130\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M35 16 H285\" stroke=\"#64748b\" stroke-width=\"5\" /><circle cx=\"155\" cy=\"43\" r=\"22\" fill=\"none\" stroke=\"#64748b\" stroke-width=\"3\" /><path d=\"M133 43 V87 M177 43 V87\" stroke=\"#64748b\" stroke-width=\"2.5\" /><rect x=\"111\" y=\"87\" width=\"44\" height=\"25\" rx=\"2\" fill=\"#94a3b8\" stroke=\"#475569\" /><text x=\"133\" y=\"103\" text-anchor=\"middle\" font-size=\"10\" fill=\"#111827\">150 N</text><path d=\"M177 60 V90\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><path d=\"M171 79 L177 91 L183 79\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><text x=\"191\" y=\"77\" font-size=\"10\" fill=\"#2563eb\">Effort</text><text x=\"17\" y=\"125\" font-size=\"10\" fill=\"currentColor\">Load rises 2 m; effort moves 2 m</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "50%"
+      },
+      {
+        "key": "B",
+        "text": "60%"
+      },
+      {
+        "key": "C",
+        "text": "75%"
+      },
+      {
+        "key": "D",
+        "text": "80%"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Useful output work:\n\n\nW_{out}=150×2=300,J\n\n\nInput work is 400,J.\n\n\neta=(300 / 400)×100=75%\n\n\nThe remaining 100,J is lost, mainly through friction. Option D overestimates the useful fraction.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_20_crb3e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Machine: Comparing input power and useful output power",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the efficiency?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M35 18 H285\" stroke=\"#64748b\" stroke-width=\"5\" /><path d=\"M160 22 V57\" stroke=\"#64748b\" stroke-width=\"2.5\" /><rect x=\"124\" y=\"57\" width=\"72\" height=\"35\" rx=\"3\" fill=\"#94a3b8\" stroke=\"#475569\" /><text x=\"160\" y=\"78\" text-anchor=\"middle\" font-size=\"11\" fill=\"#111827\">500 N</text><path d=\"M218 93 V56\" stroke=\"#16a34a\" stroke-width=\"2.5\" /><path d=\"M212 68 L218 56 L224 68\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2.5\" /><text x=\"229\" y=\"70\" font-size=\"10\" fill=\"#16a34a\">3 m</text><text x=\"160\" y=\"119\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Time = 10 s</text><text x=\"160\" y=\"134\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Input power = 200 W</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "50%"
+      },
+      {
+        "key": "B",
+        "text": "60%"
+      },
+      {
+        "key": "C",
+        "text": "75%"
+      },
+      {
+        "key": "D",
+        "text": "80%"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Useful work:\n\n\nW_{out}=500(3)=1500,J\n\n\nUseful output power:\n\n\nP_{out}=(1500 / 10)=150,W\n\n\n\neta=(150 / 200)×100=75%\n\n\nThe correct answer is **C**, not B.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_21_v2j0k",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Second-class lever: Load between the fulcrum and effort",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "If the lever is ideal and in equilibrium, which pair is correct?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M25 66 H315\" stroke=\"#64748b\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n    <path d=\"M35 69 L20 96 H50 Z\" fill=\"#94a3b8\" stroke=\"#475569\" stroke-width=\"1.5\"/>\n    <path d=\"M119 14 V58\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n    <path d=\"M113 46 L119 58 L125 46\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n    <text x=\"119\" y=\"11\" text-anchor=\"middle\" font-size=\"11\" fill=\"#dc2626\">L</text>\n    <path d=\"M284 112 V72\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n    <path d=\"M278 84 L284 72 L290 84\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n    <text x=\"284\" y=\"127\" text-anchor=\"middle\" font-size=\"11\" fill=\"#2563eb\">E</text>\n    <text x=\"35\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">F</text>\n    <path d=\"M35 106 H119 M119 106 H284\" stroke=\"currentColor\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/>\n    <text x=\"77\" y=\"120\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">15 cm</text>\n    <text x=\"201\" y=\"120\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">45 cm from F</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "VR=3, MA=3"
+      },
+      {
+        "key": "B",
+        "text": "VR=frac13, MA=frac13"
+      },
+      {
+        "key": "C",
+        "text": "VR=3, MA=frac13"
+      },
+      {
+        "key": "D",
+        "text": "VR=frac13, MA=3"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The effort arm is 45,cm, and the load arm is 15,cm.\n\n\nVR=(45 / 15)=3\n\n\nFor an ideal machine, efficiency is 100%, so MA=VR=3.\n\nOption C describes the MA of a possible real lever with losses, not an ideal one.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_22_a8tnh",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Real fixed pulley: Efficiency from measured forces",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the efficiency of the pulley?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 180\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M36 20 H304\" stroke=\"#64748b\" stroke-width=\"5\"/>\n    <circle cx=\"160\" cy=\"53\" r=\"27\" fill=\"none\" stroke=\"#64748b\" stroke-width=\"3\"/>\n    <path d=\"M133 53 V122 M187 53 V122\" stroke=\"#64748b\" stroke-width=\"2.5\"/>\n    <rect x=\"109\" y=\"122\" width=\"48\" height=\"30\" rx=\"3\" fill=\"#94a3b8\" stroke=\"#475569\"/>\n    <text x=\"133\" y=\"141\" text-anchor=\"middle\" font-size=\"11\" fill=\"#111827\">60 N</text>\n    <path d=\"M187 82 V119\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n    <path d=\"M181 108 L187 120 L193 108\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n    <text x=\"199\" y=\"104\" font-size=\"11\" fill=\"#2563eb\">70 N</text>\n    <text x=\"160\" y=\"57\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Pulley</text>\n    <text x=\"20\" y=\"168\" font-size=\"10\" fill=\"currentColor\">Equal effort and load displacements</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "70%"
+      },
+      {
+        "key": "B",
+        "text": "85.7%"
+      },
+      {
+        "key": "C",
+        "text": "100%"
+      },
+      {
+        "key": "D",
+        "text": "116.7%"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The velocity ratio is 1 because the effort and load move equal distances.\n\n\nMA=(60 / 70)=frac67\n\n\n\neta=(MA / VR)×100\n=frac67×100≈85.7%\n\n\nOption C assumes the pulley is ideal despite the measured effort exceeding the load. Efficiency cannot exceed 100% for an ordinary machine operating without an additional energy source.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_23_ftjav",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "The Load on a Wheelbarrow",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A load of 200 N is carried in a wheelbarrow at a distance of 0.4 m from the wheel axle (fulcrum). If the effort is applied vertically upwards at a distance of 1.2 m from the axle, what is the minimum effort required to lift the load?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"42\" cy=\"111\" r=\"16\" fill=\"none\" stroke=\"#64748b\" stroke-width=\"3\" /><circle cx=\"42\" cy=\"111\" r=\"3\" fill=\"#64748b\" /><path d=\"M42 111 L266 51\" stroke=\"#64748b\" stroke-width=\"5\" stroke-linecap=\"round\" /><path d=\"M266 51 L309 39\" stroke=\"#64748b\" stroke-width=\"5\" stroke-linecap=\"round\" /><path d=\"M101 95 L140 55 L176 87 Z\" fill=\"#cbd5e1\" stroke=\"#64748b\" stroke-width=\"2\" /><path d=\"M140 55 L140 24\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><path d=\"M134 35 L140 23 L146 35\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><text x=\"140\" y=\"18\" text-anchor=\"middle\" font-size=\"11\" fill=\"#dc2626\">L</text><path d=\"M289 35 V8\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><path d=\"M283 19 L289 7 L295 19\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><text x=\"306\" y=\"12\" font-size=\"11\" fill=\"#2563eb\">E</text><text x=\"42\" y=\"139\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">F</text><path d=\"M42 132 H140 M140 132 H289\" stroke=\"currentColor\" stroke-width=\"1\" stroke-dasharray=\"3 3\" /><text x=\"91\" y=\"145\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">40 cm</text><text x=\"214\" y=\"145\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">120 cm from F</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "40 N"
+      },
+      {
+        "key": "B",
+        "text": "66.7 N"
+      },
+      {
+        "key": "C",
+        "text": "100 N"
+      },
+      {
+        "key": "D",
+        "text": "600 N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By the principle of moments for a Class II lever: Effort × Effort Arm = Load × Load Arm. Effort × 1.2 m = 200 N × 0.4 m => Effort × 1.2 = 80 => Effort = 80 / 1.2 = 66.7 N.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_24_3qx58",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Uniform lever: Accounting for the weight of the bar",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "What upward effort is needed to balance the bar?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 160\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M24 70 H316\" stroke=\"#64748b\" stroke-width=\"5\" stroke-linecap=\"round\" /><path d=\"M96 73 L79 101 H113 Z\" fill=\"#94a3b8\" stroke=\"#475569\" stroke-width=\"1.5\" /><path d=\"M24 17 V61\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><path d=\"M18 50 L24 62 L30 50\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\" /><text x=\"24\" y=\"12\" font-size=\"10\" text-anchor=\"middle\" fill=\"#dc2626\">200 N</text><path d=\"M316 114 V79\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><path d=\"M310 90 L316 78 L322 90\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><text x=\"316\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"#2563eb\">E</text><path d=\"M170 22 V60\" stroke=\"#7c3aed\" stroke-width=\"2.5\" /><path d=\"M164 49 L170 61 L176 49\" fill=\"none\" stroke=\"#7c3aed\" stroke-width=\"2.5\" /><text x=\"170\" y=\"16\" font-size=\"10\" text-anchor=\"middle\" fill=\"#7c3aed\">100 N</text><text x=\"96\" y=\"115\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">F</text><text x=\"24\" y=\"145\" font-size=\"10\" fill=\"currentColor\">A</text><text x=\"316\" y=\"145\" font-size=\"10\" fill=\"currentColor\">B</text><text x=\"58\" y=\"137\" font-size=\"10\" fill=\"currentColor\">0.5 m</text><text x=\"205\" y=\"137\" font-size=\"10\" fill=\"currentColor\">1.5 m</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "50,N"
+      },
+      {
+        "key": "B",
+        "text": "100,N"
+      },
+      {
+        "key": "C",
+        "text": "150,N"
+      },
+      {
+        "key": "D",
+        "text": "200,N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Take moments about F. The load at A produces an anticlockwise moment:\n\n\n200×0.5=100,N,m\n\n\nThe bar’s weight acts at its centre, 1.0,m from A, which is 0.5,m to the right of F. It produces a clockwise moment of 100×0.5=50,N,m.\n\nThe effort acts 1.5,m from F and produces an anticlockwise moment:\n\n\nE(1.5)+100=50\n\n\nThus,\n\n\nE=-33.3,N\n\n\nThe negative result means the assumed upward effort cannot balance this configuration; the effort must act downward. Therefore, the question as drawn has no valid listed answer. **This item is withdrawn and will be replaced by a physically consistent question.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_25_9hfbw",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "First-class lever: Calculating the fulcrum position",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A weightless lever is 1.5,m long. A load of 240,N acts at the left end, and an upward effort of 80,N acts at the right end. The lever balances horizontally. How far is the fulcrum from the left end?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.25,m"
+      },
+      {
+        "key": "B",
+        "text": "0.375,m"
+      },
+      {
+        "key": "C",
+        "text": "0.75,m"
+      },
+      {
+        "key": "D",
+        "text": "1.125,m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Let the fulcrum be x metres from the left end. Its distance from the right end is 1.5-x.\n\nBy the principle of moments,\n\n\n240x=80(1.5-x)\n\n\n\n240x=120-80x\n\n\n\n320x=120\n\n\n\nx=0.375,m\n\n\nOption C incorrectly assumes equal lever arms.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_26_u0nuc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Two students make the following statements about an ordinary real machine:",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "- Student P: “Its efficiency can be 100% if the effort is applied very slowly.” - Student Q: “Its efficiency may be improved by reducing friction, even if its velocity ratio remains unchanged.” Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both P and Q are correct."
+      },
+      {
+        "key": "B",
+        "text": "P is correct, but Q is incorrect."
+      },
+      {
+        "key": "C",
+        "text": "P is incorrect, but Q is correct."
+      },
+      {
+        "key": "D",
+        "text": "Both P and Q are incorrect."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Applying effort slowly does not eliminate friction or other energy losses, so it does not guarantee 100% efficiency. Reducing friction can increase efficiency while the velocity ratio remains unchanged.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_27_o0wvi",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Combined numerical problem: MA, VR and efficiency",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A machine raises a load of 720,N using an effort of 180,N. During the operation, the effort moves 2.4,m while the load moves 0.6,m. Calculate its efficiency and the energy wasted if the effort completes this displacement once.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50%, 216,J"
+      },
+      {
+        "key": "B",
+        "text": "75%, 216,J"
+      },
+      {
+        "key": "C",
+        "text": "80%, 108,J"
+      },
+      {
+        "key": "D",
+        "text": "100%, 0,J"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Mechanical advantage:\n\n\nMA=(720 / 180)=4\n\n\nVelocity ratio:\n\n\nVR=(2.4 / 0.6)=4\n\n\nTherefore,\n\n\neta=frac44×100=100%\n\n\nInput work:\n\n\nW_{in}=180(2.4)=432,J\n\n\nUseful output work:\n\n\nW_{out}=720(0.6)=432,J\n\n\nThus, the energy wasted is 0,J. The correct answer is **D**, not B.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_28_w4jb9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Inclined plane: Frictional work and efficiency",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 400,N load is pulled up a rough inclined plane of length 5,m and height 3,m. The effort parallel to the plane is 300,N. Calculate the work done against friction.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "300,J"
+      },
+      {
+        "key": "B",
+        "text": "500,J"
+      },
+      {
+        "key": "C",
+        "text": "600,J"
+      },
+      {
+        "key": "D",
+        "text": "900,J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Input work:\n\n\nW_{in}=300×5=1500,J\n\n\nUseful work against gravity:\n\n\nW_{useful}=400×3=1200,J\n\n\nWork dissipated against friction:\n\n\nW_f=1500-1200=300,J\n\n\nThe correct answer is **A**, not C.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_29_6kg03",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Movable pulley: Acceleration is not constant speed",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 180,N load is attached to an ideal movable pulley. The upward effort is 120,N. What is the net force on the movable assembly, including the load, and in which direction does it act? Ignore the pulley’s mass.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "60,N upward"
+      },
+      {
+        "key": "B",
+        "text": "60,N downward"
+      },
+      {
+        "key": "C",
+        "text": "120,N upward"
+      },
+      {
+        "key": "D",
+        "text": "Zero"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Two rope segments each have tension 120,N, so the total upward force is\n\n\n2T=240,N\n\n\nThe downward load is 180,N, giving a net force of\n\n\n240-180=60,N\n\n\nThe net force is actually **60,N upward**, so the correct answer is **A**, not B. A downward net force would occur only if the total downward force exceeded the upward support.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_machines_30_vgeco",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Machines",
+    "title": "Comparing two machines by efficiency",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Machine P raises a 400,N load through 2,m using 1,200,J of input work. Machine Q raises a 500,N load through 1.5,m using 1,000,J of input work. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P is more efficient by 5 percentage points."
+      },
+      {
+        "key": "B",
+        "text": "Q is more efficient by 5 percentage points."
+      },
+      {
+        "key": "C",
+        "text": "Both have the same efficiency."
+      },
+      {
+        "key": "D",
+        "text": "P is more efficient by 10 percentage points."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For P:\n\n\neta_P=(400(2) / 1200)×100\n=66.7%\n\n\nFor Q:\n\n\neta_Q=(500(1.5) / 1000)×100\n=75%\n\n\nThus Q is more efficient by approximately 8.3 percentage points. The correct answer is not among the options; this item is withdrawn rather than assigning a false comparison.",
+    "concept_name": "Machines",
+    "concept_tag": "machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  }
+]

@@ -1,0 +1,1364 @@
+[
+  {
+    "globalId": "qb_hots_analytical_chemistry_1_29ppi",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Identifying an incorrect row in an observation matrix",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "The following results are recorded for four separate samples treated with NaOH in small quantity and then in excess. | Sample | Initial precipitate | Excess NaOH | | A | White | Remains insoluble | | B | White | Dissolves | | C | Pale blue | Remains insoluble | | D | Reddish brown | Remains insoluble | A student assigns A = Ca²⁺, B = Pb²⁺, C = Cu²⁺ and D = Fe³⁺. Which part of the assignment needs further testing because it is not uniquely established by the data?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A = Ca²⁺"
+      },
+      {
+        "key": "B",
+        "text": "B = Pb²⁺"
+      },
+      {
+        "key": "C",
+        "text": "C = Cu²⁺"
+      },
+      {
+        "key": "D",
+        "text": "D = Fe³⁺"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A white precipitate that dissolves in excess NaOH is consistent with either Zn²⁺ or Pb²⁺. The data do not uniquely establish B as Pb²⁺. An excess NH₄OH test on a fresh sample is needed: Zn(OH)₂ dissolves, whereas Pb(OH)₂ remains insoluble.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "4358c9908568ca1373c1552c3ad3d280b77cd44e642945517adc443dee30c8ab",
+    "question_skeleton": "the following results are recorded for four separate samples treated with naoh in small quantity and then in excess sample initial precipitate excess naoh a white remains insoluble b white dissolves c pale blue remains insoluble d reddish brown remains insoluble a student assigns a ca b pb c cu and d fe which part of the assignment needs further testing because it is not uniquely established by the data"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_2_abc95",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Identifying an inconsistent colour–formula pairing",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A laboratory notebook contains these entries: 1. Dirty green precipitate — Fe(OH)₂. 2. Reddish brown precipitate — Fe(OH)₃. 3. Pale blue precipitate — Cu(OH)₂. 4. White precipitate — Ca(OH)₃. Which entry is chemically incorrect?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Entry 1"
+      },
+      {
+        "key": "B",
+        "text": "Entry 4"
+      },
+      {
+        "key": "C",
+        "text": "Entry 2"
+      },
+      {
+        "key": "D",
+        "text": "Entry 3"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Calcium is Ca²⁺, so two OH⁻ ions are needed to form neutral Ca(OH)₂. Ca(OH)₃ is not the correct formula. The other entries correctly match the characteristic precipitate colours to their hydroxide formulae.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "0644fabf391b0c641f0fb676eb4925f9a1d21a273596c7b30c8a7e5d2c21b825",
+    "question_skeleton": "a laboratory notebook contains these entries 1 dirty green precipitate fe oh 2 reddish brown precipitate fe oh 3 pale blue precipitate cu oh 4 white precipitate ca oh which entry is chemically incorrect"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_3_r7xpp",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Identifying the incorrect flowchart branch",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student constructs this decision tree for colourless unknowns: - White precipitate with NaOH, insoluble in excess → Ca²⁺. - White precipitate with NaOH, soluble in excess → Zn²⁺ or Pb²⁺. - White precipitate with NH₄OH, soluble in excess → Pb²⁺. - White precipitate with NH₄OH, insoluble in excess → Zn²⁺. Which branch contains the error?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The final two branches are reversed: Zn(OH)₂ dissolves in excess NH₄OH, while Pb(OH)₂ remains insoluble."
+      },
+      {
+        "key": "B",
+        "text": "The first branch is wrong because Ca(OH)₂ dissolves in excess NaOH."
+      },
+      {
+        "key": "C",
+        "text": "The second branch is wrong because neither zinc nor lead hydroxide dissolves in excess NaOH."
+      },
+      {
+        "key": "D",
+        "text": "No branch is wrong."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The first branch correctly identifies calcium, and the second correctly narrows the possibilities to zinc or lead. The final two branches are reversed: zinc hydroxide dissolves in excess NH₄OH, while lead hydroxide remains insoluble.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "6ddd03e83570f58ae01ff69346e26016cbf43d32af9bb2bea9f2988d428d4b6b",
+    "question_skeleton": "a student constructs this decision tree for colourless unknowns white precipitate with naoh insoluble in excess ca white precipitate with naoh soluble in excess zn or pb white precipitate with nh oh soluble in excess pb white precipitate with nh oh insoluble in excess zn which branch contains the error"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_4_pejfn",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Finding the only correct sequence of ionic equations",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "An unknown contains Fe³⁺. A few drops of NaOH produce a reddish brown precipitate. Which pair correctly represents precipitation followed by the effect of adding further NaOH?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fe^{3++2OH⁻→ Fe(OH)₂}; the precipitate dissolves in excess NaOH."
+      },
+      {
+        "key": "B",
+        "text": "Fe^{3++3OH⁻→ Fe(OH)₂}; the precipitate becomes pale blue."
+      },
+      {
+        "key": "C",
+        "text": "Fe^{3++3OH⁻→ Fe(OH)₃}; the reddish brown precipitate remains insoluble in excess NaOH."
+      },
+      {
+        "key": "D",
+        "text": "Fe^{2++3OH⁻→ Fe(OH)₃}; the precipitate dissolves to give a deep blue solution."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Three OH⁻ ions balance the +3 charge of Fe³⁺ and produce neutral Fe(OH)₃. The reddish brown precipitate remains insoluble in excess NaOH. Option A incorrectly uses the formula of iron(II) hydroxide and an insufficient number of hydroxide ions.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "ba42ef5d28120e3065ec734cb759d6a0f4dde6343e8935fd4a41b96a99132a83",
+    "question_skeleton": "an unknown contains fe a few drops of naoh produce a reddish brown precipitate which pair correctly represents precipitation followed by the effect of adding further naoh"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_5_n89wr",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Correcting a false statement about amphoteric hydroxides",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student writes: “Because Zn(OH)₂ is amphoteric, it dissolves in excess NaOH. Therefore, every hydroxide that dissolves in excess NaOH must also dissolve in excess NH₄OH.” Which correction is valid?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The first sentence is correct, but the conclusion is false: Pb(OH)₂ dissolves in excess NaOH yet remains insoluble in excess NH₄OH."
+      },
+      {
+        "key": "B",
+        "text": "Both sentences are correct because the two alkalis have identical effects on all hydroxides."
+      },
+      {
+        "key": "C",
+        "text": "The first sentence is false because Zn(OH)₂ is not amphoteric."
+      },
+      {
+        "key": "D",
+        "text": "Both sentences are false because neither zinc nor lead hydroxide dissolves in excess NaOH."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Zn(OH)₂ is amphoteric and dissolves in excess NaOH. However, solubility with one reagent does not guarantee solubility with the other. Pb(OH)₂ provides the counterexample: it dissolves in excess NaOH but remains insoluble in excess NH₄OH.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "0eee1127e11cd8f497584816dfdbe180711ce996f3c64fca5014058f55e9c7d0",
+    "question_skeleton": "a student writes because zn oh is amphoteric it dissolves in excess naoh therefore every hydroxide that dissolves in excess naoh must also dissolve in excess nh oh which correction is valid"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_6_b1nl4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Three unknowns with starting-solution colours",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Three solutions M, N and P have the following characteristics: - M is pale green. Both NaOH and NH₄OH produce a dirty green precipitate that remains insoluble in excess. - N is yellow or brown. Both reagents produce a reddish brown precipitate that remains insoluble in excess. - P is blue. NaOH produces a pale blue precipitate insoluble in excess, but excess NH₄OH produces a deep blue solution. Which complete assignment is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "M = FeSO₄; N = FeCl₃; P = CuSO₄"
+      },
+      {
+        "key": "B",
+        "text": "M = FeCl₃; N = FeSO₄; P = ZnSO₄"
+      },
+      {
+        "key": "C",
+        "text": "M = CuSO₄; N = FeCl₃; P = Pb(NO₃)₂"
+      },
+      {
+        "key": "D",
+        "text": "M = ZnSO₄; N = CuSO₄; P = FeSO₄"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "M matches Fe²⁺, which forms dirty green Fe(OH)₂. N matches Fe³⁺, which forms reddish brown Fe(OH)₃. P matches Cu²⁺, whose pale blue hydroxide dissolves in excess NH₄OH to form the deep blue complex solution. Both starting colours and reagent responses support the assignment.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "5e57fd971cbde2402fae026dc1ef061c9f94d564580a7bb26ded0058f7ebec5d",
+    "question_skeleton": "three solutions m n and p have the following characteristics m is pale green both naoh and nh oh produce a dirty green precipitate that remains insoluble in excess n is yellow or brown both reagents produce a reddish brown precipitate that remains insoluble in excess p is blue naoh produces a pale blue precipitate insoluble in excess but excess nh oh produces a deep blue solution which complete assignment is correct"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_7_gaosa",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Detecting a reagent-sequence error",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student tests an unknown solution by adding excess NaOH immediately. The mixture appears colourless. The student concludes that no precipitate forms with NaOH. Which correction is scientifically most appropriate?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A colourless final solution proves the cation is calcium."
+      },
+      {
+        "key": "B",
+        "text": "NaOH never forms hydroxide precipitates in aqueous solutions."
+      },
+      {
+        "key": "C",
+        "text": "The experiment is complete because every precipitate remains insoluble in excess alkali."
+      },
+      {
+        "key": "D",
+        "text": "A few drops should be added first and the initial appearance observed; further NaOH is then added to test dissolution."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Some hydroxides initially precipitate and subsequently dissolve in excess NaOH, notably Zn(OH)₂ and Pb(OH)₂. Observing only the final colourless solution can conceal the initial precipitation stage. The correct sequence preserves both observations.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "6b97ab94f4062ef637a43dc2271ca185fe1535b8d8e4193b6663c8a84e4e1078",
+    "question_skeleton": "a student tests an unknown solution by adding excess naoh immediately the mixture appears colourless the student concludes that no precipitate forms with naoh which correction is scientifically most appropriate"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_8_ka06l",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Recognising conflicting evidence",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A solution is labelled ZnSO₄. A student records all of the following on separate portions: 1. NaOH produces a white precipitate that dissolves in excess. 2. NH₄OH produces a white precipitate that dissolves in excess. 3. NH₄OH on a fresh portion produces a white precipitate that remains insoluble even in excess. Which conclusion is best justified?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The records conflict for a pure zinc salt under the specified conditions; repeat the test and check for a sample or recording error."
+      },
+      {
+        "key": "B",
+        "text": "All three observations are characteristic of Zn²⁺ and need no verification."
+      },
+      {
+        "key": "C",
+        "text": "Zinc hydroxide changes into lead hydroxide whenever more NH₄OH is added."
+      },
+      {
+        "key": "D",
+        "text": "The sample must contain Cu²⁺ because copper hydroxide is white."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The first two observations match Zn(OH)₂, which dissolves in excess NaOH and NH₄OH. The third matches Pb(OH)₂ behaviour with excess NH₄OH. These conflicting results do not justify identifying a pure zinc sample as lead; the experiment should be repeated using a fresh, clearly labelled portion.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "c72480b0306ff912b943073b404bc9c0b42e30dcfb9cd91e95ccaea788f8b19a",
+    "question_skeleton": "a solution is labelled znso a student records all of the following on separate portions 1 naoh produces a white precipitate that dissolves in excess 2 nh oh produces a white precipitate that dissolves in excess 3 nh oh on a fresh portion produces a white precipitate that remains insoluble even in excess which conclusion is best justified"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_9_3llsf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Amphoteric behaviour across three hydroxides",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Three white precipitates are labelled X, Y and Z: - X dissolves in excess NaOH but remains insoluble in excess NH₄OH. - Y dissolves in excess NaOH and excess NH₄OH. - Z remains insoluble in excess NaOH, and NH₄OH gives no precipitate or only a very faint one. Which assignment is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "X = Zn(OH)₂; Y = Ca(OH)₂; Z = Pb(OH)₂"
+      },
+      {
+        "key": "B",
+        "text": "X = Ca(OH)₂; Y = Pb(OH)₂; Z = Zn(OH)₂"
+      },
+      {
+        "key": "C",
+        "text": "X = Pb(OH)₂; Y = Zn(OH)₂; Z = Ca(OH)₂"
+      },
+      {
+        "key": "D",
+        "text": "X = Cu(OH)₂; Y = Fe(OH)₂; Z = Fe(OH)₃"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Pb(OH)₂ dissolves in excess NaOH but not NH₄OH; Zn(OH)₂ dissolves in excess of both reagents; Ca(OH)₂ remains insoluble in excess NaOH, while the NH₄OH response is absent or very faint. The distinct behaviour separates the three white hydroxides.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "97bfb14efcefb28cc481a40f2b4538fba2f69fea9dd6a453d8e526abd2ff7c47",
+    "question_skeleton": "three white precipitates are labelled x y and z x dissolves in excess naoh but remains insoluble in excess nh oh y dissolves in excess naoh and excess nh oh z remains insoluble in excess naoh and nh oh gives no precipitate or only a very faint one which assignment is correct"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_10_ri4oc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Formula, colour and solubility as a combined clue",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A metal hydroxide has the formula M(OH)₂. Its precipitate is white, dissolves in excess NaOH and remains insoluble in excess NH₄OH. Which identification is most consistent with all three clues?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca(OH)₂, because calcium hydroxide dissolves in excess NaOH."
+      },
+      {
+        "key": "B",
+        "text": "Pb(OH)₂, because lead(II) hydroxide has the required formula, colour and solubility pattern."
+      },
+      {
+        "key": "C",
+        "text": "Cu(OH)₂, because copper hydroxide is white and insoluble in excess NaOH."
+      },
+      {
+        "key": "D",
+        "text": "Fe(OH)₃, because iron(III) hydroxide contains two hydroxide groups."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Pb²⁺ forms white Pb(OH)₂, which dissolves in excess NaOH but remains insoluble in excess NH₄OH. The formula excludes Fe(OH)₃, and copper hydroxide is pale blue. Calcium hydroxide does not dissolve in excess NaOH.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "abaff0b8934856b595ec4b95b270727370e345401a62396bc58ee685c5194138",
+    "question_skeleton": "a metal hydroxide has the formula mathrm m oh 2 its precipitate is white dissolves in excess naoh and remains insoluble in excess nh oh which identification is most consistent with all three clues"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_11_to882",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Avoiding an invalid inference from NH₄OH",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A colourless unknown solution forms a white precipitate with NH₄OH that remains insoluble in excess. A student concludes that the cation is definitely Pb²⁺. Which assessment is the most accurate under the stated reference conditions?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The conclusion is certain because only lead gives white hydroxides."
+      },
+      {
+        "key": "B",
+        "text": "The conclusion must be changed to Ca²⁺ because calcium gives a strong white precipitate with NH₄OH."
+      },
+      {
+        "key": "C",
+        "text": "The conclusion must be changed to Cu²⁺ because copper hydroxide is white."
+      },
+      {
+        "key": "D",
+        "text": "The observation supports Pb²⁺ among the listed cations, but it should be confirmed using a fresh sample and the NaOH test, which can distinguish lead hydroxide from calcium hydroxide and the other listed hydroxides."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Pb²⁺ forms a white precipitate that remains insoluble in excess NH₄OH. Calcium gives no precipitate or only a very faint one with NH₄OH, while Zn(OH)₂ dissolves in excess and Cu(OH)₂ is pale blue and dissolves in excess. The NaOH test supplies independent confirmation.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "d138a2de7b344fa49c7e39659303e6481b8f489922ed9ec880621a6b4a63d380",
+    "question_skeleton": "a colourless unknown solution forms a white precipitate with nh oh that remains insoluble in excess a student concludes that the cation is definitely pb which assessment is the most accurate under the stated reference conditions"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_12_4wqqs",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Integrated assertion and explanation",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Assertion (A):** A white precipitate that dissolves in excess NaOH cannot, by itself, distinguish Zn²⁺ from Pb²⁺. **Reason (R):** Both Zn(OH)₂ and Pb(OH)₂ dissolve in excess NaOH, but their behaviour in excess NH₄OH differs.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both A and R are true, but R does not explain A."
+      },
+      {
+        "key": "B",
+        "text": "A is true, but R is false."
+      },
+      {
+        "key": "C",
+        "text": "A is false, but R is true."
+      },
+      {
+        "key": "D",
+        "text": "Both A and R are true, and R correctly explains A."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Both hydroxides share the same white-precipitate and excess-NaOH behaviour. Excess NH₄OH distinguishes them: Zn(OH)₂ dissolves, whereas Pb(OH)₂ remains insoluble. The reason directly explains the assertion.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "9c8b821fb1ddf590a318e4e2ebb798b3da38f93e2bb298624fca0dfaedb7a326",
+    "question_skeleton": "assertion a a white precipitate that dissolves in excess naoh cannot by itself distinguish zn from pb reason r both zn oh and pb oh dissolve in excess naoh but their behaviour in excess nh oh differs"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_13_x24y2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Selecting all valid conclusions from a test record",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A solution X has the following results: 1. Its starting colour is blue. 2. NaOH produces a pale blue precipitate that remains insoluble in excess. 3. Excess NH₄OH on a fresh sample produces a deep blue solution after a pale blue precipitate first appears. Which set of conclusions is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "X contains Fe²⁺; its hydroxide is Fe(OH)₂."
+      },
+      {
+        "key": "B",
+        "text": "X contains Cu²⁺; its initial precipitate is Cu(OH)₂ and the deep blue solution contains the tetraamminecopper(II) complex."
+      },
+      {
+        "key": "C",
+        "text": "X contains Zn²⁺; its hydroxide is white and the final solution contains zincate."
+      },
+      {
+        "key": "D",
+        "text": "X contains Pb²⁺; its hydroxide is white and the final solution remains a suspension."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The blue starting solution and pale blue Cu(OH)₂ precipitate identify Cu²⁺. Cu(OH)₂ remains insoluble in excess NaOH but dissolves in excess NH₄OH to produce the deep blue tetraamminecopper(II) complex solution. The other candidates conflict with the colour evidence.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "1406172aa4950fde0c3cafa26212dacec719e7711239181ba442822df3c6f4b6",
+    "question_skeleton": "a solution x has the following results 1 its starting colour is blue 2 naoh produces a pale blue precipitate that remains insoluble in excess 3 excess nh oh on a fresh sample produces a deep blue solution after a pale blue precipitate first appears which set of conclusions is correct"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_14_3t70i",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Matching an equation to a final solution",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "An unknown contains Zn²⁺. A few drops of NaOH produce white Zn(OH)₂. On adding excess NaOH, the precipitate dissolves, producing a colourless solution. Which description correctly represents the second stage without confusing the precipitate with the dissolved product?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zn(OH)₂ changes into a pale blue solid that remains undissolved."
+      },
+      {
+        "key": "B",
+        "text": "Zn(OH)₂ dissolves to produce a reddish brown iron hydroxide solution."
+      },
+      {
+        "key": "C",
+        "text": "Zn(OH)₂ reacts with further OH⁻ to form soluble zincate species in solution."
+      },
+      {
+        "key": "D",
+        "text": "Zn(OH)₂ dissolves to form a deep blue tetraamminecopper(II) solution."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Zn(OH)₂ is amphoteric. In excess NaOH it reacts with further hydroxide ions to form soluble zincate species, so the white precipitate disappears. The deep blue complex is characteristic of Cu²⁺ with excess NH₄OH, not zinc with NaOH.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "1d6db57c34125fc1913209dd84d04f80f689f5743874e2e693739182c492a50e",
+    "question_skeleton": "an unknown contains zn a few drops of naoh produce white zn oh on adding excess naoh the precipitate dissolves producing a colourless solution which description correctly represents the second stage without confusing the precipitate with the dissolved product"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_15_o0vuh",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Distinguishing two white precipitates without relying on colour alone",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Two solutions X and Y each produce a white precipitate with NaOH. - X dissolves in excess NaOH but remains insoluble in excess NH₄OH. - Y dissolves in excess NaOH and excess NH₄OH. - Both starting solutions are colourless. Which conclusion follows from the combined evidence?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "X = Ca²⁺ and Y = Cu²⁺"
+      },
+      {
+        "key": "B",
+        "text": "X = Pb²⁺ and Y = Zn²⁺"
+      },
+      {
+        "key": "C",
+        "text": "X = Zn²⁺ and Y = Pb²⁺"
+      },
+      {
+        "key": "D",
+        "text": "X = Fe²⁺ and Y = Fe³⁺"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "X matches Pb²⁺ because Pb(OH)₂ dissolves in excess NaOH but not in excess NH₄OH. Y matches Zn²⁺ because Zn(OH)₂ dissolves in excess of both reagents. The shared white precipitate and colourless starting solutions are insufficient on their own; the second reagent provides the decisive distinction.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "1a8039818b1aee970569c7820c76ceafe05e9d0b0fddfb48d67703a67c78ea96",
+    "question_skeleton": "two solutions x and y each produce a white precipitate with naoh x dissolves in excess naoh but remains insoluble in excess nh oh y dissolves in excess naoh and excess nh oh both starting solutions are colourless which conclusion follows from the combined evidence"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_16_k0xcn",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Final integrated identification and equation selection",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Two unknown solutions A and B are tested independently. - A forms a reddish brown precipitate with NaOH and NH₄OH. It remains insoluble in excess of either reagent. - B forms a white precipitate with NaOH that dissolves in excess. With NH₄OH, it also forms a white precipitate that remains insoluble in excess. Which option correctly identifies both cations and gives the appropriate precipitation equation for B?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A = Fe²⁺; B = Zn²⁺; Zn^{2++OH⁻→ Zn(OH)₂}"
+      },
+      {
+        "key": "B",
+        "text": "A = Cu²⁺; B = Ca²⁺; Ca^{2++2OH⁻→ Ca(OH)₂}"
+      },
+      {
+        "key": "C",
+        "text": "A = Pb²⁺; B = Fe³⁺; Fe^{3++3OH⁻→ Fe(OH)₃}"
+      },
+      {
+        "key": "D",
+        "text": "A = Fe³⁺; B = Pb²⁺; Pb^{2++2OH⁻→ Pb(OH)₂}"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A matches Fe³⁺ because Fe(OH)₃ is reddish brown and remains insoluble in excess of both reagents. B matches Pb²⁺ because Pb(OH)₂ is white, dissolves in excess NaOH and remains insoluble in excess NH₄OH. The precipitation equation is correctly balanced: one Pb²⁺ ion combines with two OH⁻ ions to form neutral Pb(OH)₂.\n\n---\n\n## Completion status\n\nAll six requested batches are now complete:\n\n| Set | Batches completed | Questions |\n|---|---|---:|\n| Diagrammatic | 1–2 | 40 |\n| Numerical-type | 3–4 | 40 |\n| Theoretical / Conceptual | 5 | 30 |\n| Complex | 6 | 30 |\n| **Total** | **6 batches** | **140 MCQs** |\n\nThe final batch contains **10 year-labelled previous ICSE question adaptations** and **20 board-style complex questions**. The question bank follows the requested cation-focused scope for Ca²⁺, Fe²⁺, Fe³⁺, Cu²⁺, Zn²⁺ and Pb²⁺.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "30ea4f38cc59922fd7a4ec95e40df4bfa810cd2fa4c9857662d0b480230433b6",
+    "question_skeleton": "two unknown solutions a and b are tested independently a forms a reddish brown precipitate with naoh and nh oh it remains insoluble in excess of either reagent b forms a white precipitate with naoh that dissolves in excess with nh oh it also forms a white precipitate that remains insoluble in excess which option correctly identifies both cations and gives the appropriate precipitation equation for b"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_17_uth3c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Identifying the only correct pair of ionic equations",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which pair correctly represents precipitation of lead(II) hydroxide followed by its dissolution in excess NaOH, using the simple plumbite description?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pb^{2++OH⁻→ Pb(OH)₂}; Pb(OH)₂+OH⁻→ PbO"
+      },
+      {
+        "key": "B",
+        "text": "Pb^{2++2OH⁻→ Pb(OH)₂}; Pb(OH)₂+2OH⁻→ [Pb(OH)₄]²⁻"
+      },
+      {
+        "key": "C",
+        "text": "Pb^{2++3OH⁻→ Pb(OH)₃}; Pb(OH)₃+OH⁻→ Pb²⁺"
+      },
+      {
+        "key": "D",
+        "text": "Pb^{2++2OH⁻→ Pb(OH)₃}; Pb(OH)₃+2OH⁻→ PbO"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The first equation balances one Pb²⁺ ion with two OH⁻ ions to form Pb(OH)₂. The second represents dissolution of this amphoteric hydroxide in excess alkali to form a soluble plumbite species. The other options have incorrect stoichiometry or formulae.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "093dbc5307e56bb77846dabe0272ba33fcaa1c24b3ed25804cf0b0bb7722f1c6",
+    "question_skeleton": "which pair correctly represents precipitation of lead ii hydroxide followed by its dissolution in excess naoh using the simple plumbite description"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_18_inm83",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Finding the incorrect inference from a numerical observation set",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student records the following for 1 mol of each cation, assuming enough OH⁻ is supplied for complete precipitation. - Zn²⁺ forms 1 mol of Zn(OH)₂. - Fe²⁺ forms 1 mol of Fe(OH)₂. - Fe³⁺ forms 1 mol of Fe(OH)₃. - Cu²⁺ forms 2 mol of Cu(OH)₂. Which record is incorrect?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The Zn²⁺ record"
+      },
+      {
+        "key": "B",
+        "text": "The Fe²⁺ record"
+      },
+      {
+        "key": "C",
+        "text": "The Fe³⁺ record"
+      },
+      {
+        "key": "D",
+        "text": "The Cu²⁺ record"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The precipitation equation is Cu^{2++2OH⁻→ Cu(OH)₂}. One mole of Cu²⁺ produces one mole of Cu(OH)₂, not two. The amount of precipitate follows the 1:1 mole ratio between the cation and hydroxide.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "b1e31adc31313c57b92eb0a11dcaf833d90d53ea971c897ccb1ca8c0f8760d9a",
+    "question_skeleton": "a student records the following for 1 mol of each cation assuming enough oh is supplied for complete precipitation zn forms 1 mol of zn oh fe forms 1 mol of fe oh fe forms 1 mol of fe oh cu forms 2 mol of cu oh which record is incorrect"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_19_ebr54",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Previous Board Question, 2004 — Matching precipitate colour and solubility",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A technician tests four salt solutions with NaOH, first in small quantity and then in excess. Which option gives the correct complete set of observations for CuSO₄, Zn(NO₃)₂, Pb(NO₃)₂ and Fe₂(SO₄)₃, respectively?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "CuSO₄: pale blue, soluble in excess; Zn(NO₃)₂: white, insoluble; Pb(NO₃)₂: white, soluble; Fe₂(SO₄)₃: reddish brown, insoluble"
+      },
+      {
+        "key": "B",
+        "text": "CuSO₄: pale blue, insoluble in excess; Zn(NO₃)₂: white, soluble; Pb(NO₃)₂: white, soluble; Fe₂(SO₄)₃: reddish brown, insoluble"
+      },
+      {
+        "key": "C",
+        "text": "CuSO₄: white, insoluble; Zn(NO₃)₂: pale blue, soluble; Pb(NO₃)₂: reddish brown, insoluble; Fe₂(SO₄)₃: dirty green, insoluble"
+      },
+      {
+        "key": "D",
+        "text": "CuSO₄: pale blue, insoluble; Zn(NO₃)₂: white, soluble; Pb(NO₃)₂: white, insoluble; Fe₂(SO₄)₃: dirty green, soluble"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Cu²⁺ produces pale blue Cu(OH)₂ that remains insoluble. Zn²⁺ and Pb²⁺ form white hydroxides that dissolve in excess NaOH. Fe³⁺ forms reddish brown Fe(OH)₃, which remains insoluble. The decisive traps are the solubility of lead hydroxide and the colour of iron(III) hydroxide. \n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "2e6f07e0b6adda906430c7c31a30359260654a7f1b410105753fdeeb022db6c2",
+    "question_skeleton": "a technician tests four salt solutions with naoh first in small quantity and then in excess which option gives the correct complete set of observations for cuso zn no pb no and fe so respectively"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_20_1j7ia",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Previous Board Question, 2020 — Distinguishing calcium nitrate from zinc nitrate",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Two colourless solutions contain Ca(NO₃)₂ and Zn(NO₃)₂, one in each test tube. Which procedure using NH₄OH distinguishes them?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both form white precipitates that dissolve in excess."
+      },
+      {
+        "key": "B",
+        "text": "Zinc nitrate gives a white precipitate that dissolves in excess; calcium nitrate gives no precipitate or only a very faint one."
+      },
+      {
+        "key": "C",
+        "text": "Calcium nitrate gives a pale blue precipitate; zinc nitrate gives a reddish brown precipitate."
+      },
+      {
+        "key": "D",
+        "text": "Zinc nitrate gives a dirty green precipitate; calcium nitrate gives a white precipitate that dissolves in excess."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Zn²⁺ forms white Zn(OH)₂, which dissolves in excess NH₄OH to give a colourless solution. Calcium gives no precipitate or only a very faint one with NH₄OH. Thus the test distinguishes the two salts. \n\n---\n\n# The remaining questions are board-style integrated problems",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "351081ca8dbb3fcab5be16badb7fc9b721741efa6b67e5df854e8bf531932c4b",
+    "question_skeleton": "two colourless solutions contain ca no and zn no one in each test tube which procedure using nh oh distinguishes them"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_21_x3794",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Selecting a decision tree that fully identifies four unknowns",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Four colourless solutions contain Ca²⁺, Zn²⁺, Pb²⁺ and Cu²⁺, one cation in each solution. Which identification strategy gives a valid distinction using the specified reagents?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Use only the original solution colours; all four cations have unique starting colours."
+      },
+      {
+        "key": "B",
+        "text": "Use NaOH to separate the pale blue Cu²⁺ precipitate and the white Ca²⁺ precipitate that remains insoluble; then use excess NH₄OH to distinguish the Zn²⁺ and Pb²⁺ candidates among the white precipitates that dissolve in excess NaOH."
+      },
+      {
+        "key": "C",
+        "text": "Add NH₄OH once to every sample and identify each cation from the formation of a precipitate alone."
+      },
+      {
+        "key": "D",
+        "text": "Add excess NaOH to every sample and assume every white precipitate must be calcium hydroxide."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "NaOH identifies copper by its pale blue precipitate and distinguishes calcium by its white hydroxide remaining insoluble. Zinc and lead hydroxides are both white and dissolve in excess NaOH, so excess NH₄OH resolves that ambiguity. Zinc hydroxide dissolves; lead hydroxide does not.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "5f24f50d33c740de77a892fb9cf78462bc4503dd3c0ffd071c703e4824a19984",
+    "question_skeleton": "four colourless solutions contain ca zn pb and cu one cation in each solution which identification strategy gives a valid distinction using the specified reagents"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_22_tjkzp",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Distinguishing a precipitate from its dissolved product",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "An unknown salt gives a white precipitate with NaOH. In excess NaOH, the precipitate disappears and the solution becomes colourless. Which explanation correctly distinguishes the two stages?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The initial precipitate and final solution are both solid hydroxides."
+      },
+      {
+        "key": "B",
+        "text": "The precipitate has become a blue copper complex."
+      },
+      {
+        "key": "C",
+        "text": "An insoluble hydroxide initially forms; excess OH⁻ then dissolves Zn(OH)₂ or Pb(OH)₂ to produce a soluble zincate or plumbite species, respectively."
+      },
+      {
+        "key": "D",
+        "text": "The white precipitate must be Ca(OH)₂, which dissolves completely in excess NaOH."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The initial white solid may be Zn(OH)₂ or Pb(OH)₂. Both are amphoteric and dissolve in excess NaOH to give colourless solutions containing soluble zincate or plumbite species. Calcium hydroxide remains insoluble, and the deep blue copper complex requires excess NH₄OH.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "660d00524f14c0cad2d126b9274dd6bdba02613f9dbd95c72077b36e99d926e2",
+    "question_skeleton": "an unknown salt gives a white precipitate with naoh in excess naoh the precipitate disappears and the solution becomes colourless which explanation correctly distinguishes the two stages"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_23_1qkqb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Finding the only consistent combination of observations",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Unknown solutions A, B and C are tested with both reagents.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "pale blue precipitate with NaOH, insoluble in excess; pale blue precipitate with NH₄OH, soluble in excess to form deep blue solution."
+      },
+      {
+        "key": "B",
+        "text": "white precipitate with both reagents; soluble in excess of both."
+      },
+      {
+        "key": "C",
+        "text": "white precipitate with NaOH, insoluble in excess; no precipitate or only a very faint one with NH₄OH.\n\nWhich assignment is correct?"
+      },
+      {
+        "key": "A",
+        "text": "A = Fe²⁺; B = Pb²⁺; C = Zn²⁺"
+      },
+      {
+        "key": "B",
+        "text": "A = Zn²⁺; B = Ca²⁺; C = Cu²⁺"
+      },
+      {
+        "key": "C",
+        "text": "A = Cu²⁺; B = Zn²⁺; C = Ca²⁺"
+      },
+      {
+        "key": "D",
+        "text": "A = Pb²⁺; B = Cu²⁺; C = Fe³⁺"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A is Cu²⁺ because it forms pale blue Cu(OH)₂ that dissolves in excess NH₄OH to yield deep blue solution. B is Zn²⁺ because its white hydroxide dissolves in excess of both reagents. C is Ca²⁺ because its white hydroxide remains insoluble in excess NaOH and its NH₄OH response is absent or very faint.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "0c4c1a3fc56e90253603c517a1ff5e332cd639dd60c96ecd60538789b177f383",
+    "question_skeleton": "unknown solutions a b and c are tested with both reagents"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_24_l1tqs",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "The weak alkali trap",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Which statement best explains the result?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zn(OH)₂ is not formed; the white precipitate is zinc metal."
+      },
+      {
+        "key": "B",
+        "text": "NH₄OH is a strong alkali and therefore behaves identically to every other alkali for all cations."
+      },
+      {
+        "key": "C",
+        "text": "Zn(OH)₂ dissolves in excess of both reagents, but the reactions and solution species need not be identical. NaOH is a strong alkali, whereas aqueous NH₄OH is treated as a weak alkali at this level."
+      },
+      {
+        "key": "D",
+        "text": "The final solutions must be deep blue because zinc forms the tetraamminecopper(II) complex."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Both reagents dissolve zinc hydroxide in excess, giving colourless solutions. However, NaOH and NH₄OH differ in strength and chemical behaviour; the observations do not imply that they are interchangeable in every test. The deep blue complex is characteristic of Cu²⁺, not Zn²⁺.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "c1428f4f9ea664a18310e2d16b6e0f964d73947dd803b8741145653948549064",
+    "question_skeleton": "figure two portions of a zinc salt solution are tested separately one receives excess naoh the other receives excess nh oh both initially form white precipitates and both end as colourless solutions which statement best explains the result"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_25_qrps4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Determining the cation charge from hydroxide stoichiometry",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A metal ion forms a hydroxide according to the balanced equation: M^{n++3OH⁻→ M(OH)₃} A sample contains 0.06 mol of the metal ion and requires 0.18 mol of OH⁻ for complete precipitation. What is the charge on the metal ion?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "+3"
+      },
+      {
+        "key": "B",
+        "text": "+1"
+      },
+      {
+        "key": "C",
+        "text": "+2"
+      },
+      {
+        "key": "D",
+        "text": "-3"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The mole ratio is 0.18:0.06=3:1. Each metal ion combines with three OH⁻ ions, so its charge is +3. This is consistent with Fe³⁺ forming Fe(OH)₃.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "dd9370675163d09100acb870aaf368bc54eabe9c2a0b648adc026bed2567ba9f",
+    "question_skeleton": "a metal ion forms a hydroxide according to the balanced equation mathrm m n 3oh rightarrow m oh 3 a sample contains 0 06 mol of the metal ion and requires 0 18 mol of oh for complete precipitation what is the charge on the metal ion"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_26_slf3b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Integrated conceptual identification",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "An unknown colourless salt solution gives a white precipitate with NaOH. The precipitate dissolves in excess NaOH. With NH₄OH, the white precipitate dissolves in excess to give a colourless solution. Which conclusion is justified?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The cation is Zn²⁺ because both excess-reagent results match Zn(OH)₂."
+      },
+      {
+        "key": "B",
+        "text": "The cation is Pb²⁺ because lead hydroxide dissolves in excess NH₄OH."
+      },
+      {
+        "key": "C",
+        "text": "The cation is Ca²⁺ because calcium hydroxide dissolves in excess NaOH."
+      },
+      {
+        "key": "D",
+        "text": "The cation is Cu²⁺ because copper hydroxide is white."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Zn(OH)₂ is white and dissolves in excess NaOH and NH₄OH to give colourless solutions. Pb(OH)₂ remains insoluble in excess NH₄OH, Ca(OH)₂ remains insoluble in excess NaOH, and Cu(OH)₂ is pale blue.\n\n---\n\n**Batch 5 complete: Theoretical (Conceptual) Questions 1–30.**\n\nReply **YES** for the final batch: **Complex Questions 1–30**, including exactly 10 verified previous ICSE board questions where the original year and question can be established; otherwise, the questions will be clearly labelled **[Board-style]**.",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "e3574c82b9c406680293a6bacff42cfac3bf8a0492472bc0d1a3f2d62c7069be",
+    "question_skeleton": "an unknown colourless salt solution gives a white precipitate with naoh the precipitate dissolves in excess naoh with nh oh the white precipitate dissolves in excess to give a colourless solution which conclusion is justified"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_27_l3xns",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Interpreting a dirty green precipitate",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "Tube I Excess NaOH Tube II Excess NH₄OH Which conclusion is justified by these observations?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fe³⁺ is present because Fe(OH)₃ is dirty green."
+      },
+      {
+        "key": "B",
+        "text": "Fe²⁺ is present because Fe(OH)₂ is dirty green and insoluble in excess of either reagent."
+      },
+      {
+        "key": "C",
+        "text": "Cu²⁺ is present because Cu(OH)₂ is dirty green in both reagents."
+      },
+      {
+        "key": "D",
+        "text": "Zn²⁺ is present because Zn(OH)₂ remains dirty green in excess NaOH."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both reagents produce dirty green Fe(OH)₂ from Fe²⁺, and the precipitate remains in excess. Fe³⁺ instead gives reddish brown Fe(OH)₃. The key trap is reversing the characteristic colours of the two iron hydroxides.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "6f43adee7fd7d0409aa5d9c573baa2dfeeef94d0cb28adb329f45b879943d63f",
+    "question_skeleton": "figure a pale green feso solution is split into two portions one portion receives excess naoh the other receives excess nh oh both tubes show a dirty green precipitate that remains undissolved div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 asyncimage query chemistry test tube dirty green precipitate settled bottom pale clear liquid scientific lab illustration aspectratio 3 4 width 90px span tube i span div style font size 0 85rem color 64748b margin top 2px excess naoh div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 asyncimage query chemistry test tube dirty green precipitate settled bottom pale clear liquid scientific lab illustration aspectratio 3 4 width 90px span tube ii span div style font size 0 85rem color 64748b margin top 2px excess nh oh div div div div which conclusion is justified by these observations"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_28_yvpw1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Counting hydroxide ions required for precipitation",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A sample contains 0.25 mol of Zn²⁺ ions. The precipitation reaction is: Zn^{2++2OH⁻→ Zn(OH)₂} How many moles of OH⁻ ions are required for complete precipitation, assuming the reaction proceeds exactly according to this equation?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.125 mol"
+      },
+      {
+        "key": "B",
+        "text": "0.25 mol"
+      },
+      {
+        "key": "C",
+        "text": "1.00 mol"
+      },
+      {
+        "key": "D",
+        "text": "0.50 mol"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Each mole of Zn²⁺ requires two moles of OH⁻.\n\n\n0.25×2=0.50 mol OH⁻\n\n\nOption B incorrectly assumes a 1:1 ratio instead of the 1:2 ratio.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "a2d856219e1140a1a12e794e6c989713c025decff44a318ae9153d78b28a2f32",
+    "question_skeleton": "a sample contains 0 25 mol of zn ions the precipitation reaction is mathrm zn 2 2oh rightarrow zn oh 2 how many moles of oh ions are required for complete precipitation assuming the reaction proceeds exactly according to this equation"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_29_d78n4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Previous Board Question, 2012 — Inferring observations from two salts",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A student performs two experiments: - Excess NH₄OH is added to Pb(NO₃)₂ solution. - NaOH is added in excess to FeCl₃ solution. Which pair of observations is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "First: white precipitate dissolves; second: dirty green precipitate dissolves."
+      },
+      {
+        "key": "B",
+        "text": "First: white precipitate remains insoluble; second: reddish brown precipitate remains insoluble."
+      },
+      {
+        "key": "C",
+        "text": "First: pale blue precipitate dissolves into deep blue solution; second: white precipitate remains."
+      },
+      {
+        "key": "D",
+        "text": "First: reddish brown precipitate dissolves; second: pale blue precipitate remains."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Pb(OH)₂ is white and remains insoluble in excess NH₄OH. FeCl₃ supplies Fe³⁺, which forms reddish brown Fe(OH)₃ that remains insoluble in excess NaOH. The incorrect choices confuse the behaviours of copper, zinc and iron hydroxides. \n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "4586c41dad45811ad6c7deedba4f5620e7d5934cca8e518db407797340a969d4",
+    "question_skeleton": "a student performs two experiments excess nh oh is added to pb no solution naoh is added in excess to fecl solution which pair of observations is correct"
+  },
+  {
+    "globalId": "qb_hots_analytical_chemistry_30_0p6tj",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "HOTS",
+    "chapter": "Analytical Chemistry",
+    "title": "Board-style — Balancing two precipitation equations",
+    "question_type": "hots",
+    "types_supported": [
+      "hots",
+      "complex"
+    ],
+    "question": "A technician must write the net ionic precipitation equations for Zn²⁺ and Fe³⁺ reacting with OH⁻. Which pair is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zn^{2++2OH⁻→ Zn(OH)₂} and Fe^{3++3OH⁻→ Fe(OH)₃}"
+      },
+      {
+        "key": "B",
+        "text": "Zn^{2++OH⁻→ Zn(OH)₂} and Fe^{3++2OH⁻→ Fe(OH)₃}"
+      },
+      {
+        "key": "C",
+        "text": "Zn^{2++3OH⁻→ Zn(OH)₃} and Fe^{3++2OH⁻→ Fe(OH)₂}"
+      },
+      {
+        "key": "D",
+        "text": "Zn^{2++2OH⁻→ Zn(OH)₃} and Fe^{3++3OH⁻→ Fe(OH)₂}"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Zn²⁺ needs two OH⁻ ions to form neutral Zn(OH)₂, while Fe³⁺ requires three OH⁻ ions to form neutral Fe(OH)₃. Both equations balance atoms and charge.\n\n---",
+    "concept_name": "Analytical Chemistry",
+    "concept_tag": "analytical_chemistry complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry HOTS Question Bank",
+    "source_status": "verified",
+    "normalized_question_hash": "5d7ec15f1f2f50ee968a2a5769649f5f5b03630a16b5702818a42de092fa36d7",
+    "question_skeleton": "a technician must write the net ionic precipitation equations for zn and fe reacting with oh which pair is correct"
+  }
+]

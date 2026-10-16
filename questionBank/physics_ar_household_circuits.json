@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_household_circuits_1_6b728a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: High voltage electrical power transmission",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Electric power generated at power stations is stepped up to high voltages (e.g. 132 kV or 220 kV) before long-distance transmission. **Reason (R):** Stepping up voltage reduces transmission current for a given power (P = VI), dramatically minimizing I²R heating losses in cables. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Power loss in cables is P_loss = I²R. Transmitting at high voltage reduces current I proportionally, drastically reducing I²R loss.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "40b12d5b44177ad722928c68e88de183f3f8eabbaa3d488afde580070b2f21ad",
+    "question_skeleton": "assertion a electric power generated at power stations is stepped up to high voltages e g # kv or # kv before long distance transmission reason r stepping up voltage reduces transmission current for a given power p vi dramatically minimizing i r heating losses in cables choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_2_cb12b4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Switch connected in live wire",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An electric switch must always be installed in the live conductor, never in the neutral conductor. **Reason (R):** When the switch is placed in the live wire and turned OFF, the entire appliance is completely disconnected from high potential, preventing electric shock. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and ensuring zero potential at the appliance when the switch is OFF is the essential personal safety rationale.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "010e7981141c81002235a87fea3ee8eb704a80832ec89c43beb4b6579a3701f1",
+    "question_skeleton": "assertion a an electric switch must always be installed in the live conductor never in the neutral conductor reason r when the switch is placed in the live wire and turned off the entire appliance is completely disconnected from high potential preventing electric shock choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_3_d41895",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Hazard of switch in neutral wire",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If a switch is mistakenly connected in the neutral wire, an appliance remains live at 220 V even when the switch is turned OFF. **Reason (R):** The live wire remains permanently connected directly to the appliance, so touching an internal heating element completes a fatal circuit to Earth. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and continuous live wire connection explains why neutral switching is dangerous.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "314a67f7d911a65479db0314356c565c0a0956a9e9a4aca561ca920c3776d5de",
+    "question_skeleton": "assertion a if a switch is mistakenly connected in the neutral wire an appliance remains live at # v even when the switch is turned off reason r the live wire remains permanently connected directly to the appliance so touching an internal heating element completes a fatal circuit to earth choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_4_971012",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Earth pin thickness and length",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The earth pin in a standard three-pin plug is made thicker and longer than the live and neutral pins. **Reason (R):** Being longer, the earth pin enters the socket first to ground the metal casing before live contact is made, and being thicker, it cannot enter live or neutral sockets. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and prior grounding plus anti-mismating geometry explains both the longer length and thicker diameter.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ba3fca8106416d8e81f2e22fb0e6ca305718bc815f2b53896aa57fe94db8faaa",
+    "question_skeleton": "assertion a the earth pin in a standard three pin plug is made thicker and longer than the live and neutral pins reason r being longer the earth pin enters the socket first to ground the metal casing before live contact is made and being thicker it cannot enter live or neutral sockets choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_5_539b92",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Earthing of electrical appliances",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Metal casings of high-power domestic appliances like refrigerators, irons, and toasters must be securely connected to the earth wire. **Reason (R):** In case of damaged insulation, the metal casing becomes live; the earth wire provides a path of very low resistance, draining current and blowing the fuse. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and low-resistance fault current triggering fuse blowout prevents severe electric shock to the user.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "70cf91cab50ac487eb742010d494d4fd7fd4fd5db56283a08139784948c1bfb5",
+    "question_skeleton": "assertion a metal casings of high power domestic appliances like refrigerators irons and toasters must be securely connected to the earth wire reason r in case of damaged insulation the metal casing becomes live the earth wire provides a path of very low resistance draining current and blowing the fuse choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_6_4df98b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Fuse rating selection",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A 2 kW electric geyser operating on a 220 V supply should be protected by a 13 A or 15 A fuse rather than a 5 A fuse. **Reason (R):** The normal operating current drawn by the geyser is I = P/V = 2000 / 220 ≈ 9.1 A, which would immediately melt a 5 A fuse. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and operating current of 9.1 A requires a fuse rated slightly above 9.1 A (10 A to 15 A).",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c732abfb6a0db77d73c051b618bce3dbc2f8fb78ee427f8840e6f0f2a015e7f3",
+    "question_skeleton": "assertion a a # kw electric geyser operating on a # v supply should be protected by a # a or # a fuse rather than a # a fuse reason r the normal operating current drawn by the geyser is i p v # # # a which would immediately melt a # a fuse choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_7_6ce11b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Ring system of wiring advantages",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The ring distribution system of domestic wiring is preferred over the older tree system. **Reason (R):** In a ring system, current can reach any appliance through two parallel paths, allowing thinner wires and individual fuses for each appliance. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and dual current paths saving cable thickness while enabling isolated fuses justify the ring system.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d97121d925ad3b0c2d8d6213abdc1cda1029e69c7b4d7d283224e0748cd8aece",
+    "question_skeleton": "assertion a the ring distribution system of domestic wiring is preferred over the older tree system reason r in a ring system current can reach any appliance through two parallel paths allowing thinner wires and individual fuses for each appliance choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_8_a9a104",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Parallel connection of household lamps",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** All light bulbs in a house are connected in parallel across the electrical distribution board. **Reason (R):** In parallel wiring, if one bulb burns out, the remaining bulbs continue to operate unaffected at full mains voltage. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and independent branch operation at full 220 V voltage explains parallel domestic wiring.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "46d845038ea0362974f3701a3d1f12429d50d2811459bd308b987b32178afd02",
+    "question_skeleton": "assertion a all light bulbs in a house are connected in parallel across the electrical distribution board reason r in parallel wiring if one bulb burns out the remaining bulbs continue to operate unaffected at full mains voltage choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_9_1d66db",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Fuse placed before switch",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A domestic fuse is connected in the live wire before the consumer distribution switch. **Reason (R):** Placing the fuse first protects the switch, wiring, and appliance against overcurrent and short circuits. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and upstream placement protects both the switch mechanism and downstream wiring.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "39a1557010ea338945635d7957d7174dfa546c982024e0b8f64c1799c1e00965",
+    "question_skeleton": "assertion a a domestic fuse is connected in the live wire before the consumer distribution switch reason r placing the fuse first protects the switch wiring and appliance against overcurrent and short circuits choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_10_1a0110",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: MCB vs fuse wire",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Miniature Circuit Breakers (MCBs) are widely preferred over traditional rewireable fuses in modern electrical panels. **Reason (R):** An MCB trips automatically within milliseconds upon overload or short circuit, and can be easily reset by toggling a lever without replacing wire. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and fast automatic electromagnetic/thermal trip plus convenient manual reset explains MCB adoption.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "74e37afe4e0343fabd82d18b02a2436f920941553ccb3460b291a20ceff2400d",
+    "question_skeleton": "assertion a miniature circuit breakers mcbs are widely preferred over traditional rewireable fuses in modern electrical panels reason r an mcb trips automatically within milliseconds upon overload or short circuit and can be easily reset by toggling a lever without replacing wire choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_11_ed77c9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Color coding of wires in three-core cable",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Under the new international color code convention, the live wire is brown, neutral is light blue, and earth is green and yellow. **Reason (R):** Harmonized color coding allows easy visual identification to prevent dangerous miswiring of appliances. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and international safety standardization explains the brown, light blue, and green-yellow scheme.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "faf8e678f007dc6a4cb100c838380314be10d2c3a794f1dcddd5816dd42b12c7",
+    "question_skeleton": "assertion a under the new international color code convention the live wire is brown neutral is light blue and earth is green and yellow reason r harmonized color coding allows easy visual identification to prevent dangerous miswiring of appliances choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_12_239f95",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Three-pin socket wiring layout",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When viewing a standard three-pin wall socket from the front, the live terminal is on the right. **Reason (R):** The top large hole is for earth, the bottom right is for live, and the bottom left is for neutral. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the standard socket pin assignment (E top, L right, N left) confirms the assertion.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "683cc9016ac89683164bd62a11b4b8c8529e2f5501ec7b21e8dcfec87b9ab9de",
+    "question_skeleton": "assertion a when viewing a standard three pin wall socket from the front the live terminal is on the right reason r the top large hole is for earth the bottom right is for live and the bottom left is for neutral choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_13_df793a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Thick copper wire cannot be used as fuse",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A thick copper wire should never be used as a replacement for a blown fuse wire. **Reason (R):** A thick copper wire has very low resistance and a very high melting point, so it will not melt during overload, risking house fire. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and failure to melt under excessive current destroys the protective role of the fuse.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b27659cefa65f329f345add34604292eb6a42b6fd9a83cd3a3109fed0e2ab94c",
+    "question_skeleton": "assertion a a thick copper wire should never be used as a replacement for a blown fuse wire reason r a thick copper wire has very low resistance and a very high melting point so it will not melt during overload risking house fire choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_14_9ce19b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Two-pin plug limitations",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Appliances with double-insulated plastic bodies (like hair dryers or mobile phone chargers) safely use two-pin plugs. **Reason (R):** Double-insulated appliances have no exposed metal casing, eliminating the risk of shock from casing contact, so an earth wire is unnecessary. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and non-conductive all-plastic bodies eliminate the need for grounding wires.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "987771d067c2407568bdb26f7c3c6a8865ed9703268d364d04a191f1c5d7bdf4",
+    "question_skeleton": "assertion a appliances with double insulated plastic bodies like hair dryers or mobile phone chargers safely use two pin plugs reason r double insulated appliances have no exposed metal casing eliminating the risk of shock from casing contact so an earth wire is unnecessary choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_15_6b67c8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Local earthing at consumer premises",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Local earthing is installed near the electricity meter by burying a thick copper plate in a pit surrounded by charcoal and salt. **Reason (R):** Charcoal and salt maintain moisture in the surrounding soil, ensuring a permanent path of very low electrical resistance to deep earth. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and moisture retention by charcoal/salt maintaining low grounding resistance explains the pit construction.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "45c5349c8da0aeb8a06a5d07b58eaf89cf79b38260f410003a76f66db9d88444",
+    "question_skeleton": "assertion a local earthing is installed near the electricity meter by burying a thick copper plate in a pit surrounded by charcoal and salt reason r charcoal and salt maintain moisture in the surrounding soil ensuring a permanent path of very low electrical resistance to deep earth choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_16_16c19b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Company fuse on pole",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The service company fuse (pole fuse) has a higher current rating than any individual consumer sub-circuit fuse. **Reason (R):** The company fuse must carry the total simultaneous load current drawn by the entire household without blowing under normal operation. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and carrying aggregate household current requires a higher rating (e.g. 50 A or 60 A) than branch fuses.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cfb28a1d75bf961204f2e5d6241192289aac6d6dc99051103113066bf6fd8c86",
+    "question_skeleton": "assertion a the service company fuse pole fuse has a higher current rating than any individual consumer sub circuit fuse reason r the company fuse must carry the total simultaneous load current drawn by the entire household without blowing under normal operation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_17_2f0f78",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Electricity meter location",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The kWh electricity meter is installed after the service fuse and before the consumer's main switch. **Reason (R):** Placing the meter before the main switch allows it to record all electrical energy delivered to the premises, while being protected by the service fuse. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and measuring total consumption while protected by the pole fuse explains the sequence.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b4905d1e013507531768681a68d1866844591313624a9e555a9643f3ef4e799e",
+    "question_skeleton": "assertion a the kwh electricity meter is installed after the service fuse and before the consumer s main switch reason r placing the meter before the main switch allows it to record all electrical energy delivered to the premises while being protected by the service fuse choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_18_c57d4c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Main double-pole switch function",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The main switch in a house distribution board is a double-pole (DP) switch that cuts both live and neutral simultaneously. **Reason (R):** Cutting both live and neutral ensures that the internal household wiring is completely isolated from the external supply during maintenance. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and simultaneous isolation of both conductors provides absolute safety during repair.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1b57c5921e4c1ec3eea34c0efd2cdb8336d03ef01779bb9fe104ad89ce9f39a1",
+    "question_skeleton": "assertion a the main switch in a house distribution board is a double pole dp switch that cuts both live and neutral simultaneously reason r cutting both live and neutral ensures that the internal household wiring is completely isolated from the external supply during maintenance choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_19_eddff6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Staircase switch wiring",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A staircase lighting circuit allows a lamp to be turned ON or OFF independently from either the top or bottom of the stairs. **Reason (R):** A staircase circuit uses two two-way single-pole double-throw (SPDT) switches connected by dual traveler wires. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and dual-pole two-way switching explains bidirectional control of a single light.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e41fa069fbb4a11622188393ed71ed6909b63150a5f0c7a7f30c360fd151bfbe",
+    "question_skeleton": "assertion a a staircase lighting circuit allows a lamp to be turned on or off independently from either the top or bottom of the stairs reason r a staircase circuit uses two two way single pole double throw spdt switches connected by dual traveler wires choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_20_7ee727",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Fuse rating independent of length",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The current rating of a fuse wire depends on its diameter and material, but is practically independent of its length. **Reason (R):** Heat produced per second (I²R ∝ l) and heat radiated per second (area ∝ l) are both directly proportional to length, so length cancels out in the thermal balance equation. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The equilibrium equation I²(4ρl/πd²) = h(πdl)(T - T₀) has l on both sides, making the blowing current independent of length.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ff2719f8e30c43c7f918cb4fe69b2f9d82e703e31765b8e0ae788530c561a680",
+    "question_skeleton": "assertion a the current rating of a fuse wire depends on its diameter and material but is practically independent of its length reason r heat produced per second i r l and heat radiated per second area l are both directly proportional to length so length cancels out in the thermal balance equation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_21_f6c45f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Fuse wire alloy composition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A fuse wire is commonly made of an alloy of lead and tin (63% tin, 37% lead). **Reason (R):** The lead-tin alloy has a low melting point (approx. 200°C) and a higher resistivity than pure copper, making it ideal for rapid melting. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and low melting point combined with adequate resistivity ensures rapid fusing under overload.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fd2c9fa22a416421b679a6d048af0d45e7ee993b1ea9ed2bfb78c3252dfe7036",
+    "question_skeleton": "assertion a a fuse wire is commonly made of an alloy of lead and tin # tin # lead reason r the lead tin alloy has a low melting point approx # c and a higher resistivity than pure copper making it ideal for rapid melting choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_22_7e2f10",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Earthing does not consume electrical energy",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An intact earth wire in normal operation carries zero current and does not consume any electrical energy. **Reason (R):** In a properly functioning appliance, all current enters through the live wire and returns through the neutral wire; current flows in earth wire only during a fault. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and fault-only conduction explains zero energy consumption during normal operation.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3274389c8aa59de2a8eb227d4540a7bcc66e33f46d22a6500c364904dd4cad1f",
+    "question_skeleton": "assertion a an intact earth wire in normal operation carries zero current and does not consume any electrical energy reason r in a properly functioning appliance all current enters through the live wire and returns through the neutral wire current flows in earth wire only during a fault choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_23_890ac8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Separate circuits for power vs lighting",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In a house, heavy appliances (geysers, ACs) are wired in a separate 15 A power circuit from the 5 A lighting circuit. **Reason (R):** Separating circuits prevents high starting currents of heavy appliances from causing voltage dips or blowing the lighting fuse. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and isolating heavy loads prevents nuisance tripping and voltage flickering in lighting.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1f3d3663c484a65f7ece90a27d180823342f74189d4b31c460238a6ae89b0965",
+    "question_skeleton": "assertion a in a house heavy appliances geysers acs are wired in a separate # a power circuit from the # a lighting circuit reason r separating circuits prevents high starting currents of heavy appliances from causing voltage dips or blowing the lighting fuse choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_24_ec08c0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Socket shutter mechanism",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Modern three-pin safety sockets have spring-loaded shutters covering the live and neutral holes. **Reason (R):** The shutters are designed to open only when the longer earth pin enters the top hole first, preventing children from inserting objects into live slots. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and mechanical interlock triggered by earth pin entry protects children from shock.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8ef1e45a770c14465db7a4e66f4d4207d1419e653db4e4518a3767243a884ec5",
+    "question_skeleton": "assertion a modern three pin safety sockets have spring loaded shutters covering the live and neutral holes reason r the shutters are designed to open only when the longer earth pin enters the top hole first preventing children from inserting objects into live slots choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_25_05e4b3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Neutral wire potential",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The neutral wire of the domestic supply is maintained at approximately zero volts potential relative to Earth. **Reason (R):** The neutral wire is connected to an earth pit at the local distribution transformer substation. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and grounding of the neutral line at the local substation holds its potential near zero volts.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0bf8b5060f8dd945c84074ce4236ba7ec98cf8e316b9acb2e30c4d5ea43e0989",
+    "question_skeleton": "assertion a the neutral wire of the domestic supply is maintained at approximately zero volts potential relative to earth reason r the neutral wire is connected to an earth pit at the local distribution transformer substation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_26_15caad",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Live wire dangerous to touch",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Touching the live wire of a 220 V domestic circuit while standing barefoot on a moist floor can be fatal. **Reason (R):** Moist ground and bare feet provide a low-resistance path to Earth, allowing a dangerous current (>50 mA) to pass through the body across the 220 V potential difference. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and low body-to-ground resistance completing a 220 V path explains electrocution.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1999acf32f5767949fea323eedd9b0ab3a2f5840640aafc8f4ad9057084c8d6b",
+    "question_skeleton": "assertion a touching the live wire of a # v domestic circuit while standing barefoot on a moist floor can be fatal reason r moist ground and bare feet provide a low resistance path to earth allowing a dangerous current # ma to pass through the body across the # v potential difference choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_27_0ab2df",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: High resistance in appliance connections hazard",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A loose screw connection in a high-current wall socket can cause the plug to overheat and melt. **Reason (R):** A loose contact introduces high localized contact resistance, generating intense Joule heating (I²R_contact) under heavy current. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and localized contact resistance creating high I²R heat at the plug pins causes thermal melting.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ad4f62d809321e58afc9ce71bbf4ee80642151175d33d08612cb5256af711bcd",
+    "question_skeleton": "assertion a a loose screw connection in a high current wall socket can cause the plug to overheat and melt reason r a loose contact introduces high localized contact resistance generating intense joule heating i r contact under heavy current choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_28_339c46",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Residual Current Circuit Breaker (RCCB)",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An RCCB (Residual Current Circuit Breaker) trips to protect against electrocution even when the current drawn is below the fuse rating. **Reason (R):** An RCCB continuously compares current in the live wire and neutral wire, tripping if a leakage imbalance as small as 30 mA occurs. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and differential current sensing detecting tiny leakage currents through a human body explains RCCB sensitivity.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b7aa643c9f84db587a94d6596c137db49b160e17d38203557517863431b7481c",
+    "question_skeleton": "assertion a an rccb residual current circuit breaker trips to protect against electrocution even when the current drawn is below the fuse rating reason r an rccb continuously compares current in the live wire and neutral wire tripping if a leakage imbalance as small as # ma occurs choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_29_f3d68b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Overloading definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Connecting too many high-power appliances simultaneously to a single multi-plug socket causes electrical overloading. **Reason (R):** Total current drawn from the supply exceeds the safe current carrying capacity of the socket and connecting wires, causing severe overheating. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and aggregate current exceeding wire capacity defines electrical overloading.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "95a20dab6708e21e49a9ae090f3c973cbf0c23092b24aae7742bd9e1d7a39849",
+    "question_skeleton": "assertion a connecting too many high power appliances simultaneously to a single multi plug socket causes electrical overloading reason r total current drawn from the supply exceeds the safe current carrying capacity of the socket and connecting wires causing severe overheating choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_30_251d85",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Short circuit definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A short circuit occurs when a bare live wire accidentally comes into direct physical contact with a bare neutral wire. **Reason (R):** Direct contact creates a circuit of almost zero resistance, causing an immediate surge of extremely high current. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and zero resistance causing an instantaneous massive current surge defines a short circuit.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e929a94de7f62767e7df862934b57f626b9be680b5f3946754657242387c1278",
+    "question_skeleton": "assertion a a short circuit occurs when a bare live wire accidentally comes into direct physical contact with a bare neutral wire reason r direct contact creates a circuit of almost zero resistance causing an immediate surge of extremely high current choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_31_7665be",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Electricity consumption billing unit",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Electricity supply bills are calculated based on the total number of kilowatt-hours (units) consumed. **Reason (R):** One kilowatt-hour (1 kWh) represents 1000 watts of electrical power consumed continuously over an interval of one hour. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the definition of a Board of Trade unit (1 kWh = 1 unit) explains billing calculation.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8c0d33862b3d0d840ca40ebc570568abd1fea206562cdeacdf1e9c5ee31935de",
+    "question_skeleton": "assertion a electricity supply bills are calculated based on the total number of kilowatt hours units consumed reason r one kilowatt hour # kwh represents # watts of electrical power consumed continuously over an interval of one hour choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_32_e94cd3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Earthing of bathroom water heater",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Earthing the metallic body of an electric water geyser in a bathroom is critically important for life safety. **Reason (R):** Water and wet human skin have very low electrical resistance, vastly increasing the current that would pass through the body in case of a casing fault. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and lower body resistance in wet conditions creating extreme shock danger highlights the need for earthing.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "33eb0d9d7892dcfd5c8fdb80104b4a5b27ae6c4a835a444c7752922722dd1a42",
+    "question_skeleton": "assertion a earthing the metallic body of an electric water geyser in a bathroom is critically important for life safety reason r water and wet human skin have very low electrical resistance vastly increasing the current that would pass through the body in case of a casing fault choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_33_09960a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Three-pin plug casing material",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The outer casing of a three-pin plug is made of hard moulded plastic or rubber. **Reason (R):** Plastic and rubber are excellent electrical insulators that prevent the user from making contact with internal live terminals. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and high dielectric insulation preventing electric shock during handling explains casing material.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cedac32bf365bd357fd8e01aaecb82a4155fc6ecae5a4d04403b5064dc0a7c49",
+    "question_skeleton": "assertion a the outer casing of a three pin plug is made of hard moulded plastic or rubber reason r plastic and rubber are excellent electrical insulators that prevent the user from making contact with internal live terminals choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_34_07a427",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Fuse rating vs appliance power",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A 60 W light bulb on a 220 V supply requires a fuse rated at only 1 A or 2 A. **Reason (R):** Operating current I = P/V = 60 / 220 ≈ 0.27 A, so a 1 A fuse provides ample margin without blowing during minor fluctuations. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and 0.27 A operating current is safely protected by a 1 A fuse.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "44cb1e2c358e73e76a27e2e29a50ad3e176021a2fbac15b29b3ed8e174b7b22d",
+    "question_skeleton": "assertion a a # w light bulb on a # v supply requires a fuse rated at only # a or # a reason r operating current i p v # # # a so a # a fuse provides ample margin without blowing during minor fluctuations choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_35_fbae3a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Earth wire resistance requirement",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The electrical resistance of the earth wire connection must be as close to zero as possible (typically < 1 Ω). **Reason (R):** The earth wire must offer a much lower resistance path than the human body (which has a resistance of roughly 1000 Ω to 100,000 Ω). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and low impedance compared to human body ensures fault current diverts safely to ground.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dadac17a0f2db266bcdd72f49683ed763c12668422ac8a04d50abb31bf60a28c",
+    "question_skeleton": "assertion a the electrical resistance of the earth wire connection must be as close to zero as possible typically # reason r the earth wire must offer a much lower resistance path than the human body which has a resistance of roughly # to # # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_36_a4b40a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Dual voltage systems",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Appliances manufactured for 110 V countries (like USA) cannot be plugged directly into 220 V Indian mains without a step-down transformer. **Reason (R):** Applying 220 V to a 110 V rated appliance quadruples the power dissipated (P = V²/R), instantly burning out internal circuits. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since P = V²/R, doubling voltage quadruples power dissipation (220/110)² = 4, destroying 110 V windings.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e75f322aac46d3891fc0c59155f5a7a77c642e6a311c07e58112e93ffc4de476",
+    "question_skeleton": "assertion a appliances manufactured for # v countries like usa cannot be plugged directly into # v indian mains without a step down transformer reason r applying # v to a # v rated appliance quadruples the power dissipated p v r instantly burning out internal circuits choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_37_1db091",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Ring main continuity",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In a ring main circuit, an accidental break at one point in the ring cable does not cause the appliances on the ring to stop working. **Reason (R):** Electricity can still reach every socket on the ring along the other unbroken branch of the loop. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and redundant closed-loop topology ensures power continuity even if a break occurs at one spot.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "99ef80c04f74406315ad419c5d8f3a336166a2cdb6cc339a09f95219bcf9392c",
+    "question_skeleton": "assertion a in a ring main circuit an accidental break at one point in the ring cable does not cause the appliances on the ring to stop working reason r electricity can still reach every socket on the ring along the other unbroken branch of the loop choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_38_286b55",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Color of neutral wire in old Indian convention",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Under the old Indian wiring code, the neutral wire was black and the earth wire was green. **Reason (R):** Old wiring conventions used red for live, black for neutral, and green for earth. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the historic Indian/British standard color coding confirms black for neutral and green for earth.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "baeb90f19519d01148f3451c3c2d1bcbaac6765dc0bd84d2b85f20301fbb67dc",
+    "question_skeleton": "assertion a under the old indian wiring code the neutral wire was black and the earth wire was green reason r old wiring conventions used red for live black for neutral and green for earth choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_39_986f31",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: Cartridge fuse design",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Cartridge fuses used in electronic equipment have a glass or ceramic tube with metal end caps and internal quartz sand. **Reason (R):** The silica sand extinguishes electric arcs formed when the fuse wire vaporizes under heavy short-circuit currents. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and silica sand quenching arcs and preventing glass explosion explains cartridge fuse construction.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b8cd1d2978e662842994ace4df7205ac60825b9611dd2eea0a2ea73c94e00a4f",
+    "question_skeleton": "assertion a cartridge fuses used in electronic equipment have a glass or ceramic tube with metal end caps and internal quartz sand reason r the silica sand extinguishes electric arcs formed when the fuse wire vaporizes under heavy short circuit currents choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_household_circuits_40_d4681a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Household Circuits",
+    "title": "Assertion–Reason: High tension cable earthing",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** High-voltage transmission pylons carry a top grounded shield wire. **Reason (R):** The top shield wire intercepts direct lightning strikes and safely diverts electrical surges down the pylon tower to earth. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and lightning strike interception protecting underlying phase lines explains overhead shield wires.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b09a8cb18489b31e7744357bacd4412cecfa6710cecafa9633e0c98e3e40c2b9",
+    "question_skeleton": "assertion a high voltage transmission pylons carry a top grounded shield wire reason r the top shield wire intercepts direct lightning strikes and safely diverts electrical surges down the pylon tower to earth choose the correct option"
+  }
+]

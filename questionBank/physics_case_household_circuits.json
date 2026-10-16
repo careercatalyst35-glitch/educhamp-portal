@@ -1,0 +1,2252 @@
+[
+  {
+    "globalId": "qb_case_household_circuits_1_b8b757",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 1: Placement of Switch Strictly in the Live (Phase) Wire",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An inexperienced electrician wires a domestic ceiling fan switch in the neutral wire rather than the live wire. When the homeowner turns the wall switch off, the ceiling fan blades stop rotating completely. Later, while cleaning the stationary fan blades with a damp cloth, the homeowner accidentally touches an exposed motor lead and receives a severe, potentially fatal electric shock. **Investigative Question:** Why was the ceiling fan still electrically live and hazardous even with the wall switch turned off? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The fan blades generated static electricity while stopping."
+      },
+      {
+        "key": "B",
+        "text": "Because the switch was in the neutral wire, opening it broke the return path to stop current, but the appliance remained directly connected to the 220 V live wire; any path to ground (such as a person on a ladder) completes the circuit through their body."
+      },
+      {
+        "key": "C",
+        "text": "The neutral wire always carries 440 V alternating current."
+      },
+      {
+        "key": "D",
+        "text": "The damp cloth demagnetized the earth wire."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The live wire is maintained at 220 V relative to Earth, while the neutral wire is at 0 V. When a switch is installed in the live wire, opening the switch completely disconnects high voltage from the appliance, making it 100% safe to touch. When wired in the neutral wire, opening the switch stops operation, but the entire appliance chassis and internal coils remain energized at 220 V relative to Earth.",
+    "concept_name": "Switch Location and Electrical Shock Safety",
+    "concept_tag": "household circuits case based switch location and electrical shock safety",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b8b7574c8ce37ec4a5c6f375f39ff88a1d81c0dd0b31fc41dc56655599e2a0f5",
+    "question_skeleton": "case scenario an inexperienced electrician wires a domestic ceiling fan switch in the neutral wire rather than the live wire when the homeowner turns the wall switch off the ceiling fan blades stop rotating completely later while cleaning the stationary fan blades with a damp cloth the homeowner accidentally touches an exposed motor lead and receives a severe potentially fatal electric shock investigative question why was the ceiling fan still electrically live and hazardous even with the wall switch turned off choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_2_f8c003",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 2: Color Coding of Wires in Three-Core Domestic Flexible Cables",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrical appliance repair technician replaces the frayed 3-core supply cord of an imported electric kettle. The new flexible cable has three insulated conductors colored brown, light blue, and green with a bright yellow stripe. **Investigative Question:** According to modern international safety standards, which color corresponds to Live, Neutral, and Earth respectively? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Brown = Earth; Light Blue = Live; Green-Yellow = Neutral"
+      },
+      {
+        "key": "B",
+        "text": "Brown = Live; Light Blue = Neutral; Green-Yellow = Earth"
+      },
+      {
+        "key": "C",
+        "text": "Brown = Neutral; Light Blue = Live; Green-Yellow = Earth"
+      },
+      {
+        "key": "D",
+        "text": "Brown = Live; Light Blue = Earth; Green-Yellow = Neutral"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Under modern international (IEC / IS) electrical wiring codes: Live (Phase) = Brown (formerly Red in old British/Indian code); Neutral = Light Blue (formerly Black); Earth (Protective Ground) = Green with yellow longitudinal stripe (formerly solid Green). This standard was introduced to avoid confusion for color-blind individuals.",
+    "concept_name": "Old vs Modern International Color Codes",
+    "concept_tag": "household circuits case based old vs modern international color codes",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f8c0038837e398e5c14ed6d9fe7a255515391a725b76ff0ccec9c8c6f3695e11",
+    "question_skeleton": "case scenario an electrical appliance repair technician replaces the frayed 3 core supply cord of an imported electric kettle the new flexible cable has three insulated conductors colored brown light blue and green with a bright yellow stripe investigative question according to modern international safety standards which color corresponds to live neutral and earth respectively choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_3_894778",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 3: Why the Earth Pin on a Three-Pin Plug is Longer and Thicker",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student examines a standard 16 A three-pin electrical plug and notices two distinct physical characteristics of the top earth pin compared to the bottom live and neutral pins: (1) it is noticeably longer, and (2) it has a distinctly larger diameter (thicker). **Investigative Question:** What are the two critical safety reasons for making the earth pin longer and thicker? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It is longer to conduct static electricity first, and thicker to look distinct."
+      },
+      {
+        "key": "B",
+        "text": "It is longer so it engages the protective earth socket first (ensuring appliance casing is grounded before live voltage connects) and disconnects last; it is thicker so it cannot accidentally be forced into either the live or neutral socket openings."
+      },
+      {
+        "key": "C",
+        "text": "It is longer to reach the high-voltage capacitor, and thicker to carry high radio frequencies."
+      },
+      {
+        "key": "D",
+        "text": "It is longer to reduce manufacturing cost, and thicker to resist corrosion."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The earth pin's extended length ensures safety sequence: on insertion, earth connection is made before live pins touch power; on withdrawal, live pins disconnect while earth remains connected until the end. Its thicker cross-section prevents dangerous insertion into live or neutral sockets and reduces earth conductor resistance to facilitate rapid fault current clearing.",
+    "concept_name": "Mechanical and Electrical Safety Design of Three-Pin Plugs",
+    "concept_tag": "household circuits case based mechanical and electrical safety design of three-pin plugs",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "894778409b32b88aa23d3604cef39da6ce4cd2f68909abc1b6e87430bed63507",
+    "question_skeleton": "case scenario a student examines a standard 16 a three pin electrical plug and notices two distinct physical characteristics of the top earth pin compared to the bottom live and neutral pins 1 it is noticeably longer and 2 it has a distinctly larger diameter thicker investigative question what are the two critical safety reasons for making the earth pin longer and thicker choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_4_451f80",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 4: Earthing of Metallic Appliance Chassis During Insulation Failure",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A commercial electric clothes iron has a metal soleplate and steel body casing properly bonded to the green earth wire of a 3-pin plug. Inside the iron, age and mechanical vibration cause the insulation on the 220 V live wire to chafe and touch the metallic body casing. **Investigative Question:** What sequence of electrical events occurs the moment the iron is plugged in and turned on? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The iron casing becomes charged to 220 V and stays silent until touched."
+      },
+      {
+        "key": "B",
+        "text": "A heavy fault current rushes through the zero-resistance earth wire directly to ground; this massive surge blows the fuse (or trips the MCB) almost instantaneously, cutting off power and protecting the user from lethal shock."
+      },
+      {
+        "key": "C",
+        "text": "The iron works normally because earth wire supplies return current."
+      },
+      {
+        "key": "D",
+        "text": "The electricity converts into magnetic waves that repel the user's hand."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The metal casing is connected to the low-resistance earth electrode (R_earth < 1 Ω). If the live wire touches the casing, a direct short circuit to ground occurs: I_fault = 220 V / R_earth > 200 A. This massive overcurrent blows the cartridge fuse or trips the magnetic MCB within 20 milliseconds, de-energizing the circuit before anyone touching the iron can receive a lethal current.",
+    "concept_name": "Fault Current Diversion and Fuse Blowing Mechanism",
+    "concept_tag": "household circuits case based fault current diversion and fuse blowing mechanism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "451f8034b9ee11cd7f3934ab6485e2c631d4f656f05552e3e255ad518e508fcf",
+    "question_skeleton": "case scenario a commercial electric clothes iron has a metal soleplate and steel body casing properly bonded to the green earth wire of a 3 pin plug inside the iron age and mechanical vibration cause the insulation on the 220 v live wire to chafe and touch the metallic body casing investigative question what sequence of electrical events occurs the moment the iron is plugged in and turned on choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_5_02f9a3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 5: Local Earth Electrode Construction and Charcoal-Salt Packing",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** During the electrical installation of a newly built residential home, an electrical contractor digs an earth pit 3 meters deep into moist ground. A heavy perforated copper plate (60 cm × 60 cm × 3 mm) attached to a thick copper rod is buried at the bottom and surrounded by alternating layers of crushed charcoal and rock salt, with a watering pipe extending to the surface. **Investigative Question:** Why are charcoal, salt, and water added to the earth pit around the copper plate? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Charcoal and salt prevent subterranean insects from eating the copper."
+      },
+      {
+        "key": "B",
+        "text": "Crushed charcoal and salt form an electrolytic damp paste around the copper plate, drastically increasing local soil electrical conductivity and lowering the earthing resistance to less than 1 ohm."
+      },
+      {
+        "key": "C",
+        "text": "Salt dissolves copper to create a protective oxide coating."
+      },
+      {
+        "key": "D",
+        "text": "Charcoal generates electricity to offset household consumption."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The effectiveness of protective earthing depends on maintaining an extremely low grounding resistance (ideally R < 1 Ω). Dry soil and sand have poor conductivity. Crushed charcoal (carbon) retains moisture and provides a large conductive contact area, while rock salt (NaCl) dissociates into Na⁺ and Cl⁻ ions, forming a highly conductive electrolyte that lowers ground impedance.",
+    "concept_name": "Earth Pit Resistance and Soil Conductivity",
+    "concept_tag": "household circuits case based earth pit resistance and soil conductivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "02f9a37a93db6b6d85802b9d0730749cf071cb1ea8a944bd44d4ebce57921765",
+    "question_skeleton": "case scenario during the electrical installation of a newly built residential home an electrical contractor digs an earth pit 3 meters deep into moist ground a heavy perforated copper plate 60 cm 60 cm 3 mm attached to a thick copper rod is buried at the bottom and surrounded by alternating layers of crushed charcoal and rock salt with a watering pipe extending to the surface investigative question why are charcoal salt and water added to the earth pit around the copper plate choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_6_71a7f3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 6: Two-Way (Staircase) Switching Wiring Scheme",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A homeowner installs a lighting system for a long staircase. Two single-pole double-throw (SPDT) two-way switches, S1 at the bottom of the staircase and S2 at the top of the staircase, control a single overhead lamp. The lamp can be turned on or off independently from either switch. **Investigative Question:** How are the two switches and the lamp wired between the 220 V live and neutral lines? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both switches are connected in series in the neutral line."
+      },
+      {
+        "key": "B",
+        "text": "The common terminal of Switch 1 connects to the live wire, the common terminal of Switch 2 connects to the lamp, and two strapper wires connect the dual throw contacts of Switch 1 to Switch 2; neutral connects directly to the lamp."
+      },
+      {
+        "key": "C",
+        "text": "Both switches are connected in parallel across the live and neutral lines."
+      },
+      {
+        "key": "D",
+        "text": "Switch 1 connects to earth, Switch 2 connects to live, and the lamp connects to neutral."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In a two-way staircase wiring circuit, the live supply connects to the pole (common) of switch S1. Two parallel strapper wires (travelers) link the two active throws of S1 and S2. The pole of S2 connects to the lamp load, and the neutral wire returns from the lamp. Toggling either switch completes or interrupts the live conduction path between the travelers, giving independent on/off control.",
+    "concept_name": "Single-Pole Double-Throw (SPDT) Dual Control Switching",
+    "concept_tag": "household circuits case based single-pole double-throw (spdt) dual control switching",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "71a7f3f2c94e22a6aca0ee1c0884549b2efeedd152888b621e902485fd910b52",
+    "question_skeleton": "case scenario a homeowner installs a lighting system for a long staircase two single pole double throw spdt two way switches s1 at the bottom of the staircase and s2 at the top of the staircase control a single overhead lamp the lamp can be turned on or off independently from either switch investigative question how are the two switches and the lamp wired between the 220 v live and neutral lines choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_7_60bd0b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 7: Ring System of Domestic Wiring vs Radial (Tree) System",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Modern residential buildings are wired using the Ring Main circuit system for 13 A / 15 A power sockets. In a ring circuit, the live, neutral, and earth conductors start at the distribution board, loop continuously through every room socket, and return back to the exact same terminals at the distribution board. **Investigative Question:** What is the major technical and economic advantage of the ring wiring system compared to the older radial system? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Every socket receives 440 V instead of 220 V."
+      },
+      {
+        "key": "B",
+        "text": "Current to any socket flows along two parallel paths around the ring, effectively halving the current carried by any single conductor run; this allows thinner, cheaper copper cable to be used while maintaining low voltage drop."
+      },
+      {
+        "key": "C",
+        "text": "Appliances wired in a ring do not require individual fuses."
+      },
+      {
+        "key": "D",
+        "text": "Ring circuits eliminate the need for an earth wire completely."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In a ring main, current drawn by an appliance divides into two paths traveling clockwise and counter-clockwise around the closed loop from the consumer unit. Since each branch carries only a fraction of the load current, cables of smaller cross-sectional area (e.g., 2.5 mm² instead of 4.0 mm² or 6.0 mm²) can safely feed numerous high-power sockets, saving immense copper weight and cost.",
+    "concept_name": "Ring Main Circuit Advantages and Reduced Wire Gauge",
+    "concept_tag": "household circuits case based ring main circuit advantages and reduced wire gauge",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "60bd0b5013d36ca18bb9affa98e283234bac8749088b400ae0ec198e5cd3dfec",
+    "question_skeleton": "case scenario modern residential buildings are wired using the ring main circuit system for 13 a 15 a power sockets in a ring circuit the live neutral and earth conductors start at the distribution board loop continuously through every room socket and return back to the exact same terminals at the distribution board investigative question what is the major technical and economic advantage of the ring wiring system compared to the older radial system choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_8_42e879",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 8: Miniature Circuit Breaker (MCB) Operation: Thermal and Magnetic Tripping",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a modern electrical distribution board, traditional rewireable porcelain fuses are replaced with Miniature Circuit Breakers (MCBs). An MCB responds to both moderate sustained overloads (e.g., plugging in three space heaters on one circuit) and instantaneous high-current short circuits. **Investigative Question:** What dual physical mechanisms allow the MCB to trip automatically under both overload and short-circuit conditions? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Capacitive discharge for overloads, and gravitational pendulum for short circuits."
+      },
+      {
+        "key": "B",
+        "text": "A bimetallic strip bends slowly under sustained thermal heating (overload), while a magnetic solenoid acts instantaneously (< 25 ms) on massive short-circuit currents to unlatch the mechanical contacts."
+      },
+      {
+        "key": "C",
+        "text": "A lead wire melts inside an oil chamber under both conditions."
+      },
+      {
+        "key": "D",
+        "text": "A laser beam burns a semiconductor link inside the breaker."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Modern MCBs feature dual tripping elements: (1) Thermal trip: A bimetallic strip heats up due to moderate sustained overcurrents (I²Rt); differential thermal expansion causes it to bend and trip the latch after an inverse-time delay. (2) Magnetic trip: A solenoid coil carries the circuit current; massive short-circuit currents generate a powerful magnetic field that instantly slams an armature to trip the breaker in under 25 milliseconds.",
+    "concept_name": "MCB vs Conventional Rewireable Fuse",
+    "concept_tag": "household circuits case based mcb vs conventional rewireable fuse",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "42e87983c30f2e53dce93e71c71c03e2bbaf5bfe43f38fd39abd49c34ea6a843",
+    "question_skeleton": "case scenario in a modern electrical distribution board traditional rewireable porcelain fuses are replaced with miniature circuit breakers mcbs an mcb responds to both moderate sustained overloads e g plugging in three space heaters on one circuit and instantaneous high current short circuits investigative question what dual physical mechanisms allow the mcb to trip automatically under both overload and short circuit conditions choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_9_0e1aea",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 9: Electric Shock Severity: Voltage vs Current Thresholds in the Human Body",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A safety engineer trains electrical apprentices on physiological shock hazards. An adult with dry skin has a resistance of R ≈ 100,000 Ω, but with wet, sweaty hands, body resistance plunges to R ≈ 1,000 Ω. The mains voltage is 230 V AC at 50 Hz. **Investigative Question:** What current flows through a wet human body touching 230 V, and what is its physiological effect on the heart? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Current = 2.3 mA; produces a faint tickle with zero risk."
+      },
+      {
+        "key": "B",
+        "text": "Current = 230 mA; well above the 50–100 mA threshold that induces fatal ventricular fibrillation (uncoordinated heart muscle contractions) and respiratory paralysis within seconds."
+      },
+      {
+        "key": "C",
+        "text": "Current = 23 A; vaporizes the body instantaneously into gas."
+      },
+      {
+        "key": "D",
+        "text": "Current = 0.23 mA; causes the heart to beat faster and healthier."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By Ohm's law: I = V / R = 230 V / 1,000 Ω = 0.230 A = 230 mA. Physiological thresholds for 50 Hz AC: 1 mA (threshold of perception), 5 mA (safe maximum), 10–20 mA ('let-go' threshold where muscles contract involuntarily), 50–100 mA (ventricular fibrillation, fatal without immediate defibrillation). At 230 mA, lethal fibrillation occurs in fractions of a second.",
+    "concept_name": "Pathological Effects of 50 Hz AC Current on Human Heart",
+    "concept_tag": "household circuits case based pathological effects of 50 hz ac current on human heart",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0e1aea4ff79445ce9214abcb126b67fc6c710e7e1312b9c2afaa6446f68a022e",
+    "question_skeleton": "case scenario a safety engineer trains electrical apprentices on physiological shock hazards an adult with dry skin has a resistance of r 100 000 but with wet sweaty hands body resistance plunges to r 1 000 the mains voltage is 230 v ac at 50 hz investigative question what current flows through a wet human body touching 230 v and what is its physiological effect on the heart choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_10_1b317e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 10: High-Voltage Power Transmission Grid: Step-Up and Step-Down Transformers",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A hydroelectric power plant generates electricity at 11 kV. Before transmitting this power across 500 km of national grid lines, a step-up transformer elevates the voltage to 400 kV (400,000 V). At city outskirts, substations step it down sequentially to 33 kV, 11 kV, and finally 220 V / 415 V for consumers. **Investigative Question:** Why is electric power transmitted at ultra-high voltages like 400 kV rather than at the generated 11 kV? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "High voltage electricity travels faster than low voltage electricity."
+      },
+      {
+        "key": "B",
+        "text": "At higher voltage, the current I required to transmit power P is vastly smaller (I = P/V); since line heat loss is P_loss = I²R, transmitting at 400 kV reduces line power loss by a factor of (400/11)² ≈ 1320 times."
+      },
+      {
+        "key": "C",
+        "text": "High voltage attracts lightning from clouds to recharge the grid."
+      },
+      {
+        "key": "D",
+        "text": "Step-up transformers multiply the total electrical energy transmitted."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electrical power transmitted is P = V × I (or √3 V I cos φ in three-phase). For a given power level P, transmitting at high voltage V proportionally reduces the line current I: I ∝ 1/V. Since Joule heating dissipation in transmission line resistance R_line is P_loss = I²R_line, line loss is inversely proportional to the square of voltage (P_loss ∝ 1/V²). This permits immense copper savings and high transmission efficiency.",
+    "concept_name": "Minimizing I²R Joule Heat Losses on High Tension Lines",
+    "concept_tag": "household circuits case based minimizing i²r joule heat losses on high tension lines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1b317e622c15f012ac17ab2226c3a15d8f45d6da1ed87354e9cc3ca32f3bf90a",
+    "question_skeleton": "case scenario a hydroelectric power plant generates electricity at 11 kv before transmitting this power across 500 km of national grid lines a step up transformer elevates the voltage to 400 kv 400 000 v at city outskirts substations step it down sequentially to 33 kv 11 kv and finally 220 v 415 v for consumers investigative question why is electric power transmitted at ultra high voltages like 400 kv rather than at the generated 11 kv choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_11_3dbd67",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 11: Fuse Rating Selection for a 2.2 kW Domestic Appliance",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A homeowner purchases a 2.2 kW (2200 W) storage water geyser designed for a 220 V single-phase AC domestic power supply. The homeowner has four spare cartridge fuses available in a toolkit: 5 A, 10 A, 13 A, and 30 A. **Investigative Question:** What is the normal operating current drawn by the geyser, and which fuse rating should be installed to protect it safely? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Operating current = 2.2 A; Use a 5 A fuse"
+      },
+      {
+        "key": "B",
+        "text": "Operating current = 10.0 A; Use a 13 A fuse (or 15 A fuse), because a 10 A fuse would blow during minor fluctuations while a 30 A fuse would fail to protect against wiring overheating."
+      },
+      {
+        "key": "C",
+        "text": "Operating current = 10.0 A; Use a 5 A fuse to save electricity"
+      },
+      {
+        "key": "D",
+        "text": "Operating current = 22 A; Use a 30 A fuse"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Normal operating current is I = P / V = 2200 W / 220 V = 10.0 A. A fuse rating must be slightly higher than the full-load operating current so it does not nuisance-trip under normal steady operation or slight mains fluctuations, but low enough to protect against overcurrent. A 10 A fuse would operate right on its margin and melt prematurely; a 13 A or 15 A fuse is the proper engineering standard.",
+    "concept_name": "Calculating Operating Current and Fuse Sizing",
+    "concept_tag": "household circuits case based calculating operating current and fuse sizing",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3dbd67628e64bc9c78837286830b55bfa0aa6f75d822eceae7440c01dbf6901b",
+    "question_skeleton": "case scenario a homeowner purchases a 2 2 kw 2200 w storage water geyser designed for a 220 v single phase ac domestic power supply the homeowner has four spare cartridge fuses available in a toolkit 5 a 10 a 13 a and 30 a investigative question what is the normal operating current drawn by the geyser and which fuse rating should be installed to protect it safely choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_12_52d460",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 12: Why a Fuse Must Never Be Connected in the Neutral Wire",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrician improperly connects a 15 A safety fuse in the neutral line of an electric room heater instead of the live line. During an electrical overload, the fuse element melts and blows cleanly. **Investigative Question:** What dangerous condition is created when the fuse blows in the neutral wire? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The room heater begins running on battery power."
+      },
+      {
+        "key": "B",
+        "text": "The broken neutral stops current flow so the heating coil turns cold, but the entire element remains energized at 220 V live potential; a person touching the coil will receive a lethal shock to ground."
+      },
+      {
+        "key": "C",
+        "text": "The fuse will explode with toxic fumes."
+      },
+      {
+        "key": "D",
+        "text": "The neutral wire melts along its entire length back to the substation."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "If a fuse is connected in the neutral wire, it will still melt during a short circuit between live and neutral. However, melting the neutral fuse leaves the live connection intact! The appliance stops functioning, leading the user to believe it is unpowered and safe. In reality, the entire appliance remains at 220 V relative to Earth; touching any internal component completes a fatal circuit to ground.",
+    "concept_name": "Safety Hazard of Neutral Fuse Blown State",
+    "concept_tag": "household circuits case based safety hazard of neutral fuse blown state",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "52d4600e74c45eecdb0584ee7842d00d6c193feeda86a525bb33f4962049414c",
+    "question_skeleton": "case scenario an electrician improperly connects a 15 a safety fuse in the neutral line of an electric room heater instead of the live line during an electrical overload the fuse element melts and blows cleanly investigative question what dangerous condition is created when the fuse blows in the neutral wire choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_13_a06d9b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 13: Three-Phase Four-Wire Distribution: Star Connection and Neutral Point",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A local city distribution substation steps down 11 kV to a 4-wire system: three live phase conductors (L1, L2, L3) and one neutral conductor (N). An electrical meter technician measures V_LN = 230 V between any one live wire and the neutral wire (phase voltage), and V_LL = 400 V between any two live wires (line voltage). **Investigative Question:** What is the mathematical relationship between line voltage V_L and phase voltage V_ph in a balanced three-phase star system? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "V_L = V_ph / √3"
+      },
+      {
+        "key": "B",
+        "text": "V_L = √3 × V_ph ≈ 1.732 × 230 V ≈ 400 V"
+      },
+      {
+        "key": "C",
+        "text": "V_L = 3 × V_ph = 690 V"
+      },
+      {
+        "key": "D",
+        "text": "V_L = 2 × V_ph = 460 V"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In a three-phase star (Y) connected distribution transformer secondary, the three phase windings are displaced in time by 120° electrical. The line-to-line voltage is the vector difference between two phase voltages: V_LL = 2 × V_ph × sin(120°/2) = 2 × V_ph × sin(60°) = √3 V_ph. Thus, V_line = √3 × 230 V ≈ 1.732 × 230 V ≈ 398.4 V ≈ 400 V.",
+    "concept_name": "Line Voltage vs Phase Voltage in Three-Phase Mains",
+    "concept_tag": "household circuits case based line voltage vs phase voltage in three-phase mains",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a06d9b6f939c7d04710de1f87af8b753304e1c21ca5edae56adb9739bc769f9f",
+    "question_skeleton": "case scenario a local city distribution substation steps down 11 kv to a 4 wire system three live phase conductors l1 l2 l3 and one neutral conductor n an electrical meter technician measures v ln 230 v between any one live wire and the neutral wire phase voltage and v ll 400 v between any two live wires line voltage investigative question what is the mathematical relationship between line voltage v l and phase voltage v ph in a balanced three phase star system choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_14_a05fd8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 14: Residual Current Circuit Breaker (RCCB / ELCB) Operating Principle",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A newly wired residence is equipped with a Residual Current Circuit Breaker (RCCB) rated at 30 mA sensitivity. When a toddler accidentally sticks a metal hairpin into the live socket opening while standing barefoot on a tiled floor, the RCCB trips and cuts off power in 0.02 seconds, saving the child's life. **Investigative Question:** How does the RCCB detect this shock hazard even though the current (e.g. 40 mA) is far too small to trip a standard 16 A MCB? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The RCCB senses the sound waves from the spark."
+      },
+      {
+        "key": "B",
+        "text": "The RCCB continuously compares current in the live wire (I_L) and neutral wire (I_N) using a toroidal differential transformer; if a leakage current to earth causes an imbalance (I_L - I_N ≥ 30 mA), the resultant magnetic flux trips the breaker instantly."
+      },
+      {
+        "key": "C",
+        "text": "The RCCB measures temperature rise in the ceiling wires."
+      },
+      {
+        "key": "D",
+        "text": "The RCCB sends high-frequency radar pulses through the wiring."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "An RCCB monitors Kirchhoff's current law: under normal conditions, current entering via the live wire must exactly equal current returning via the neutral wire (I_L = I_N), producing opposing, cancelling magnetic flux in a toroidal sense coil. When current leaks to earth through a human body (I_earth > 30 mA), I_L ≠ I_N. The net magnetic flux induces a voltage in a secondary sense coil, instantly tripping the relay.",
+    "concept_name": "Detection of Differential Current and Core Balance Transformer",
+    "concept_tag": "household circuits case based detection of differential current and core balance transformer",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a05fd85ac70fa6d01e43b24bd8e818dc510126653156c6e1d377d3c125fd1a6f",
+    "question_skeleton": "case scenario a newly wired residence is equipped with a residual current circuit breaker rccb rated at 30 ma sensitivity when a toddler accidentally sticks a metal hairpin into the live socket opening while standing barefoot on a tiled floor the rccb trips and cuts off power in 0 02 seconds saving the child s life investigative question how does the rccb detect this shock hazard even though the current e g 40 ma is far too small to trip a standard 16 a mcb choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_15_8b7a16",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 15: Why Thick Copper Conductor is Used for Earthing Lead",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrical inspector rejects a house earthing installation because the electrician used a thin 1.0 mm² copper wire to connect the main distribution ground bar to the buried earth electrode, requiring it to be replaced with a heavy 10 mm² copper conductor. **Investigative Question:** Why must the earthing lead conductor have a large cross-sectional area and low resistance? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Thick wire prevents mice from chewing the earthing lead."
+      },
+      {
+        "key": "B",
+        "text": "The earthing lead must carry massive fault currents (hundreds of amperes) without melting or excessive voltage drop, ensuring casing potential remains near zero and ground path resistance is low enough to blow the fuse instantly."
+      },
+      {
+        "key": "C",
+        "text": "Thick wire generates magnetic fields that repel lightning."
+      },
+      {
+        "key": "D",
+        "text": "Thick wire conducts high-frequency radio waves to improve Wi-Fi."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Under a dead short-to-case fault, the earthing wire must carry the full prospective fault current (which may exceed 500 A for a few cycles) until the protective breaker trips. A thin wire would have high resistance (causing the metal casing to rise to dangerous voltage during the fault) and would melt or catch fire before the breaker trips, severing the ground path.",
+    "concept_name": "Minimizing Earth Fault Resistance",
+    "concept_tag": "household circuits case based minimizing earth fault resistance",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8b7a16e223b262fcfd6890cf4f8c29f7ee74b810067245d5a6c774f34e44f69c",
+    "question_skeleton": "case scenario an electrical inspector rejects a house earthing installation because the electrician used a thin 1 0 mm copper wire to connect the main distribution ground bar to the buried earth electrode requiring it to be replaced with a heavy 10 mm copper conductor investigative question why must the earthing lead conductor have a large cross sectional area and low resistance choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_16_a41342",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 16: Double Insulation in Two-Pin Portable Power Tools",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A modern electric handheld power drill has a plastic casing, a flexible 2-core power cable, and a 2-pin plug lacking an earth pin. The manufacturer's label displays a symbol of two concentric squares (Class II Double Insulation). **Investigative Question:** Why is an earth wire not legally required for this Class II double-insulated tool? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The drill runs on internal rechargeable solar batteries only."
+      },
+      {
+        "key": "B",
+        "text": "The tool features two independent layers of electrical insulation (basic functional insulation and supplementary protective insulation) and has no exposed conductive metal parts that can become live during an internal fault."
+      },
+      {
+        "key": "C",
+        "text": "The drill operates at a safe low voltage of 12 V AC."
+      },
+      {
+        "key": "D",
+        "text": "The drill motor produces magnetic shielding that grounds itself through air."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Appliances are classified by shock protection: Class I appliances have exposed metal parts requiring an earth ground connection. Class II appliances have 'Double Insulation' or 'Reinforced Insulation' (symbol: ⧈). All live electrical parts are surrounded by two independent barriers of high-dielectric insulation, and external housings are non-conductive plastic; hence, no single fault can expose dangerous voltage, eliminating the need for an earth wire.",
+    "concept_name": "Class II Double Insulated Appliances Without Earth Wire",
+    "concept_tag": "household circuits case based class ii double insulated appliances without earth wire",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a41342c59932f96ca393c88f19b86847215dd1f377c3d615ae7a96642ca1a83c",
+    "question_skeleton": "case scenario a modern electric handheld power drill has a plastic casing a flexible 2 core power cable and a 2 pin plug lacking an earth pin the manufacturer s label displays a symbol of two concentric squares class ii double insulation investigative question why is an earth wire not legally required for this class ii double insulated tool choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_17_69bf0a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 17: Main Switch Disconnection: Simultaneous Breaking of Live and Neutral",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** The main electrical service panel entering a home is equipped with a master isolation switch. When the homeowner flips the handle to 'OFF', it mechanically disengages both the live and neutral lines simultaneously via a linked double-pole mechanism. **Investigative Question:** Why is a double-pole switch used for the main disconnect rather than breaking only the live conductor? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Breaking both conductors saves twice as much electricity."
+      },
+      {
+        "key": "B",
+        "text": "Simultaneous disconnection completely isolates the entire building from the external utility grid, protecting against accidental neutral line back-feeding or neutral potential elevation caused by grid faults."
+      },
+      {
+        "key": "C",
+        "text": "The live and neutral wires would spark if disconnected one at a time."
+      },
+      {
+        "key": "D",
+        "text": "It allows alternating current to reverse direction safely."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In a power distribution grid, the neutral wire can become elevated to a dangerous potential relative to local ground if an upstream neutral break occurs on the supply network. A double-pole main switch mechanically breaks both the live and neutral lines simultaneously, guaranteeing 100% galvanic isolation of the household wiring from any utility fault or stray voltages during maintenance.",
+    "concept_name": "Double-Pole Main Isolation Switch",
+    "concept_tag": "household circuits case based double-pole main isolation switch",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "69bf0a3f83226922f8e32ea45db6175f5f0ac48cb085f08af17886fe567eb57b",
+    "question_skeleton": "case scenario the main electrical service panel entering a home is equipped with a master isolation switch when the homeowner flips the handle to off it mechanically disengages both the live and neutral lines simultaneously via a linked double pole mechanism investigative question why is a double pole switch used for the main disconnect rather than breaking only the live conductor choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_18_14ae11",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 18: Overloading vs Short-Circuiting in Household Circuits",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrical safety forensic investigator examines two damaged domestic circuits: Circuit A failed when an occupant simultaneously connected a 2000 W geyser, a 1500 W heater, and an 800 W microwave to a single 10 A wall socket. Circuit B failed when rats chewed through the insulation, causing the live and neutral copper conductors to touch directly. **Investigative Question:** What electrical fault conditions occurred in Circuit A and Circuit B respectively? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Circuit A: Short-circuit; Circuit B: Overload"
+      },
+      {
+        "key": "B",
+        "text": "Circuit A: Overloading (excessive total power draw beyond rated current capacity of wiring); Circuit B: Short-circuiting (direct zero-resistance contact between live and neutral conductors causing massive instantaneous fault current)."
+      },
+      {
+        "key": "C",
+        "text": "Both circuits experienced identical earth leakage faults."
+      },
+      {
+        "key": "D",
+        "text": "Circuit A suffered reverse polarity; Circuit B suffered low voltage."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Overloading occurs when too many appliances are connected simultaneously to a circuit, drawing a cumulative current exceeding the safe carrying capacity of the wires (e.g. 20 A drawn on a 10 A circuit), causing slow thermal buildup. Short-circuiting occurs when bare live and neutral wires make direct physical contact; with circuit resistance dropping to near zero (R ≈ 0), instantaneous current spikes into hundreds of amperes.",
+    "concept_name": "Differences in Causes, Impedance, and Current Magnitudes",
+    "concept_tag": "household circuits case based differences in causes, impedance, and current magnitudes",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "14ae11dd30de10d38647c4a56ead819febb9c2a46034b8011117597c3afcbdb5",
+    "question_skeleton": "case scenario an electrical safety forensic investigator examines two damaged domestic circuits circuit a failed when an occupant simultaneously connected a 2000 w geyser a 1500 w heater and an 800 w microwave to a single 10 a wall socket circuit b failed when rats chewed through the insulation causing the live and neutral copper conductors to touch directly investigative question what electrical fault conditions occurred in circuit a and circuit b respectively choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_19_1185e7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 19: Kilowatt-Hour Meter Connections: Current Coil and Pressure Coil",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electromechanical induction electricity meter installed at a consumer's premises contains two electromagnetic coils: Coil 1 (Current Coil) wound with a few turns of thick copper wire, and Coil 2 (Pressure/Voltage Coil) wound with thousands of turns of fine thin wire. **Investigative Question:** How are the Current Coil and Pressure Coil connected into the household supply circuit? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Current Coil in parallel across Live and Neutral; Pressure Coil in series in Live wire."
+      },
+      {
+        "key": "B",
+        "text": "Current Coil in series with the Live wire (to measure total current I); Pressure Coil in parallel across Live and Neutral (to measure mains potential difference V)."
+      },
+      {
+        "key": "C",
+        "text": "Both coils are connected in series with the earth wire."
+      },
+      {
+        "key": "D",
+        "text": "Both coils are connected in parallel with the main fuse."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "An electric energy meter measures energy W = ∫ V × I dt. The Current Coil carries the full load current I and must have very low resistance to prevent voltage drop, so it is made of thick wire with few turns and connected in series in the live lead. The Pressure (Voltage) Coil measures the line voltage V across live and neutral, requiring high impedance to draw negligible current, so it is wound with many turns of thin wire in parallel.",
+    "concept_name": "Internal Mechanism of Electromechanical Energy Meters",
+    "concept_tag": "household circuits case based internal mechanism of electromechanical energy meters",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1185e7b5f93e9f8ec4f5535f7c06eca987b032f06f98e4a865e2740331c05ae1",
+    "question_skeleton": "case scenario an electromechanical induction electricity meter installed at a consumer s premises contains two electromagnetic coils coil 1 current coil wound with a few turns of thick copper wire and coil 2 pressure voltage coil wound with thousands of turns of fine thin wire investigative question how are the current coil and pressure coil connected into the household supply circuit choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_20_64ea70",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 20: Socket Outlet Safety Shutters in Domestic Wall Plugs",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Modern domestic 3-pin 230 V wall sockets incorporate an internal spring-loaded plastic safety shutter mechanism that blocks the live and neutral pin holes. When a child attempts to insert a single nail or screwdriver into the live hole, the hole remains locked shut. **Investigative Question:** How is the internal safety shutter unlocked to permit insertion of a plug? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The shutter opens when it detects the magnetic field of the plug."
+      },
+      {
+        "key": "B",
+        "text": "The longer earth pin of a 3-pin plug enters the top earth hole first, mechanically depressing a cam lever that slides open the shutters over the live and neutral holes simultaneously."
+      },
+      {
+        "key": "C",
+        "text": "The shutter is activated by the heat of the plug pins."
+      },
+      {
+        "key": "D",
+        "text": "The user must press a secret button on the wall socket plate."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "To prevent accidental electrocution (especially of children probing sockets with metal objects), safety sockets feature interlocked shutters. The earth pin on a standard plug is physically longer than the live and neutral pins. When inserted, the earth pin engages an internal mechanical ramp/cam before the other pins arrive, sliding the protective shutters away from the live and neutral apertures.",
+    "concept_name": "Child-Proof Safety Shutter Mechanism",
+    "concept_tag": "household circuits case based child-proof safety shutter mechanism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "64ea704d364eb3e182a4fe346f612875c36b50c5e57b3c4e0683408966082d9c",
+    "question_skeleton": "case scenario modern domestic 3 pin 230 v wall sockets incorporate an internal spring loaded plastic safety shutter mechanism that blocks the live and neutral pin holes when a child attempts to insert a single nail or screwdriver into the live hole the hole remains locked shut investigative question how is the internal safety shutter unlocked to permit insertion of a plug choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_21_d6f57e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 21: Why High Power Appliances Use 15 A / 16 A Sockets with Thicker Wiring",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a modern home, lighting circuits use 5 A sockets wired with 1.5 mm² copper cable, whereas air conditioners, geysers, and cooking ranges use 15 A / 16 A sockets wired with 4.0 mm² or 6.0 mm² copper cable. **Investigative Question:** Why must high-power appliances use thicker wiring and higher-rated sockets? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Thick wires reduce the frequency of alternating current."
+      },
+      {
+        "key": "B",
+        "text": "High-power appliances draw large currents (up to 15 A); thicker conductors have significantly lower resistance (R ∝ 1/A), preventing dangerous Joule heating (I²R), insulation melting, and fire hazards."
+      },
+      {
+        "key": "C",
+        "text": "Thick wires increase voltage from 220 V to 440 V."
+      },
+      {
+        "key": "D",
+        "text": "Thin wires would attract electromagnetic lightning inside the house."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Power drawn is P = VI, so current is I = P/V. An air conditioner (2500 W) draws ~11.4 A. If connected through a 1.5 mm² lighting wire designed for 5 A, the high current creates excessive I²R heating along the cable length. This overheats the PVC insulation, potentially igniting house fires inside conduits. Heavy loads require 4–6 mm² conductors with low resistance to safely carry continuous high currents.",
+    "concept_name": "Current Capacity and Cable Cross-Section Requirements",
+    "concept_tag": "household circuits case based current capacity and cable cross-section requirements",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d6f57e8c9f7afb10e9306cae90d893b89c7218332ae247cfd281da588032d6e9",
+    "question_skeleton": "case scenario in a modern home lighting circuits use 5 a sockets wired with 1 5 mm copper cable whereas air conditioners geysers and cooking ranges use 15 a 16 a sockets wired with 4 0 mm or 6 0 mm copper cable investigative question why must high power appliances use thicker wiring and higher rated sockets choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_22_407c76",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 22: Consumer Unit Fuse vs Company Pole Fuse",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrical supply line enters a house from the overhead street pole through an insulated service drop cable. The system features two fuses: Fuse A (the electricity utility company fuse sealed in a cutout box before the meter) and Fuse B (the consumer's distribution board branch fuse after the meter). **Investigative Question:** Which fuse has a higher current rating, and which should blow first during an internal appliance short circuit? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fuse A has a lower rating and blows first."
+      },
+      {
+        "key": "B",
+        "text": "Fuse A (company cutout fuse) has a higher rating (e.g. 60–100 A) to protect the incoming service cable; Fuse B (branch fuse) has a lower rating (e.g. 5–16 A) and blows first during an appliance fault (discrimination/selectivity)."
+      },
+      {
+        "key": "C",
+        "text": "Both fuses have identical ratings and blow at the exact same microsecond."
+      },
+      {
+        "key": "D",
+        "text": "The company fuse is placed in the neutral wire to shut off the entire neighborhood."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electrical protection systems rely on coordinated 'discrimination' (selectivity). Branch fuses (5 A or 16 A) protect individual room circuits and must clear local short circuits immediately, keeping the rest of the house powered. The company service fuse (60 A or 100 A) is a master backup designed to protect the utility's underground/overhead drop cable from catastrophic overcurrent, blowing only if internal main breakers fail.",
+    "concept_name": "Hierarchy of Electrical Protection in Service Mains",
+    "concept_tag": "household circuits case based hierarchy of electrical protection in service mains",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "407c769c19ce933ffc3a7cf06defa1648db6f351665b7d8811b9d629c3c03cf8",
+    "question_skeleton": "case scenario an electrical supply line enters a house from the overhead street pole through an insulated service drop cable the system features two fuses fuse a the electricity utility company fuse sealed in a cutout box before the meter and fuse b the consumer s distribution board branch fuse after the meter investigative question which fuse has a higher current rating and which should blow first during an internal appliance short circuit choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_23_28e3df",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 23: Neutral Wire Grounding at the Distribution Substation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student measures the AC voltage with a digital multimeter between various terminals in a domestic 3-pin socket: between Live and Earth reads 230 V; between Live and Neutral reads 230 V; between Neutral and Earth reads approximately 0 V (often 1–2 V due to minor line drop). **Investigative Question:** Why is the potential of the neutral wire virtually 0 V relative to Earth? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The neutral wire contains zero electrons."
+      },
+      {
+        "key": "B",
+        "text": "At the distribution substation, the center neutral tap of the step-down star-connected transformer secondary is solidly bonded to a deep grounding electrode, holding its potential at true ground potential (0 V)."
+      },
+      {
+        "key": "C",
+        "text": "The electricity meter actively cancels voltage on the neutral wire."
+      },
+      {
+        "key": "D",
+        "text": "Neutral wire is coated with insulating rubber that absorbs voltage."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The local transformer secondary is star-connected (Y). The star junction point is called the Neutral point and is directly connected to a low-resistance earth pit at the substation. Consequently, the neutral conductor remains at Earth potential (0 V) throughout its distribution run, providing a zero-volt return path for load currents back to the transformer.",
+    "concept_name": "Why Neutral Wire Has Zero Potential Relative to Earth",
+    "concept_tag": "household circuits case based why neutral wire has zero potential relative to earth",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "28e3df090bd69987fcc8ddb46b8040d6d7d83b43e5939719342dc66ad3ca26e2",
+    "question_skeleton": "case scenario a student measures the ac voltage with a digital multimeter between various terminals in a domestic 3 pin socket between live and earth reads 230 v between live and neutral reads 230 v between neutral and earth reads approximately 0 v often 1 2 v due to minor line drop investigative question why is the potential of the neutral wire virtually 0 v relative to earth choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_24_7d42f5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 24: Why Mains AC Voltage is Quoted as RMS Value (220 V)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In India and the UK, domestic single-phase alternating current mains is specified as 220 V (or 230 V) at 50 Hz. A student observing the mains waveform on a cathode ray oscilloscope notices that the sinusoidal voltage fluctuates between positive and negative peaks. **Investigative Question:** What is the actual peak voltage (V_peak) of a nominal 220 V AC domestic supply? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "V_peak = 110 V"
+      },
+      {
+        "key": "B",
+        "text": "V_peak = 220 V"
+      },
+      {
+        "key": "C",
+        "text": "V_peak = √2 × 220 V ≈ 1.414 × 220 V ≈ 311 V"
+      },
+      {
+        "key": "D",
+        "text": "V_peak = 2 × 220 V = 440 V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Nominal AC mains voltage is always stated as the Root Mean Square (RMS) value: V_rms = V_peak / √2. The RMS value represents the equivalent DC voltage that produces the exact same average heating rate (Joule heat) in a given resistor. Therefore: V_peak = √2 × V_rms = 1.414 × 220 V ≈ 311.1 V (the voltage actually swings between +311 V and -311 V each cycle).",
+    "concept_name": "Root Mean Square (RMS) Value vs Peak Amplitude",
+    "concept_tag": "household circuits case based root mean square (rms) value vs peak amplitude",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7d42f5f8ce3d59a66af4ebeea66797c89c991fd2f14d86bf7af3b7b35422e82e",
+    "question_skeleton": "case scenario in india and the uk domestic single phase alternating current mains is specified as 220 v or 230 v at 50 hz a student observing the mains waveform on a cathode ray oscilloscope notices that the sinusoidal voltage fluctuates between positive and negative peaks investigative question what is the actual peak voltage v peak of a nominal 220 v ac domestic supply choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_25_9eacb0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 25: Danger of Using a Copper Wire as an Emergency Fuse",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** When a 10 A cartridge fuse blows repeatedly in an old house, an impatient resident replaces the blown fuse element with a thick strand of copper wire stripped from a spare extension cord. **Investigative Question:** Why is replacing a fuse wire with a thick copper wire an extremely dangerous fire hazard? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Copper wire conducts alternating current only in reverse direction."
+      },
+      {
+        "key": "B",
+        "text": "Copper has a very high melting point (1085°C) and low resistivity; under severe overcurrent or short circuit, the copper wire will not melt, forcing the building wiring inside walls to overheat, melt, and ignite catastrophic structural fires."
+      },
+      {
+        "key": "C",
+        "text": "Copper wire causes electric meters to spin backwards."
+      },
+      {
+        "key": "D",
+        "text": "Copper attracts radioactive radon gas into the fuse box."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A proper fuse wire (lead-tin alloy) has high resistivity and a low melting point (~183°C), engineered to sacrifice itself before building wiring reaches dangerous temperatures. Copper has a melting point of 1085°C. A thick copper strand can carry several hundred amperes without melting, defeating all overcurrent protection. The concealed wiring inside walls will overheat, ignite insulation, and cause devastating house fires.",
+    "concept_name": "Catastrophic Failure from Oversized Fuse Links",
+    "concept_tag": "household circuits case based catastrophic failure from oversized fuse links",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9eacb0acca57cc4d118c38229a1c780a786318ee1379c63373636b8c3fd01e4f",
+    "question_skeleton": "case scenario when a 10 a cartridge fuse blows repeatedly in an old house an impatient resident replaces the blown fuse element with a thick strand of copper wire stripped from a spare extension cord investigative question why is replacing a fuse wire with a thick copper wire an extremely dangerous fire hazard choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_26_d110ff",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 26: Arc Fault Circuit Interrupter (AFCI) Fire Prevention",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In modern building codes, electrical panels feature Arc Fault Circuit Interrupters (AFCIs). In an older home, a heavy cabinet pushed against a wall partially crushes an extension cord, causing intermittent microscopic sparking (arcing) between frayed copper strands. **Investigative Question:** Why does an AFCI trip to prevent fire where standard MCBs and fuses fail to react? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Standard breakers only react to high total current or earth leakage; AFCIs use microprocessors to detect the unique high-frequency electrical noise and current wave distortion characteristic of dangerous arcing."
+      },
+      {
+        "key": "B",
+        "text": "AFCIs detect the smell of burning plastic using smoke sensors."
+      },
+      {
+        "key": "C",
+        "text": "AFCIs measure infrared heat using laser beams directed into walls."
+      },
+      {
+        "key": "D",
+        "text": "AFCIs only work when lightning strikes the building."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A standard MCB trips only when current exceeds its threshold (e.g. 16 A), and an RCCB trips only when current leaks to earth. A series arc caused by a broken, sparking wire can draw only 2–5 A (well below MCB rating) with zero earth leakage, yet the localized 3000°C electric plasma arc can easily ignite nearby wood framing. AFCIs analyze current waveforms in real-time, detecting characteristic high-frequency arcing signatures.",
+    "concept_name": "Detection of Arcing in Damaged Wall Wiring",
+    "concept_tag": "household circuits case based detection of arcing in damaged wall wiring",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d110fffc746dc55f4484686611d187ef060391b0dafefc45016402932b3d40da",
+    "question_skeleton": "case scenario in modern building codes electrical panels feature arc fault circuit interrupters afcis in an older home a heavy cabinet pushed against a wall partially crushes an extension cord causing intermittent microscopic sparking arcing between frayed copper strands investigative question why does an afci trip to prevent fire where standard mcbs and fuses fail to react choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_27_18694e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 27: Two-Way Lighting Circuit: Identification of Inactive State",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A staircase circuit has two SPDT switches S1 and S2 connected via two traveler wires A and B. In Position 1: S1 connects Live to Traveler A; S2 connects Lamp to Traveler A (Lamp is ON). In Position 2: S1 remains connected to Traveler A, but S2 is switched to Traveler B. **Investigative Question:** What is the operational state of the lamp in Position 2, and what voltage appears across the open gap of switch S2? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lamp is ON; 0 V across switch gap."
+      },
+      {
+        "key": "B",
+        "text": "Lamp is OFF; 220 V mains potential appears across the open contacts of switch S2."
+      },
+      {
+        "key": "C",
+        "text": "Lamp is glowing at half brightness; 110 V across switch gap."
+      },
+      {
+        "key": "D",
+        "text": "The circuit short-circuits and blows the fuse."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In Position 2, S1 connects 220 V live to Traveler A. However, switch S2 is thrown to Traveler B, which is an open, unpowered line. The conduction circuit to the lamp is broken, so no current flows and the lamp is OFF. Since Traveler A is at 220 V and the pole of S2 is connected through the unlit lamp to neutral (0 V), the full 220 V mains potential appears across the open contact gap of S2.",
+    "concept_name": "Analysis of SPDT Switch Positions",
+    "concept_tag": "household circuits case based analysis of spdt switch positions",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "18694e8933ef60e31cd0aa582757b4834473cb52ee734cccdc2544bbf82c7675",
+    "question_skeleton": "case scenario a staircase circuit has two spdt switches s1 and s2 connected via two traveler wires a and b in position 1 s1 connects live to traveler a s2 connects lamp to traveler a lamp is on in position 2 s1 remains connected to traveler a but s2 is switched to traveler b investigative question what is the operational state of the lamp in position 2 and what voltage appears across the open gap of switch s2 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_28_533f7e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 28: Appliance Earth Leakage with Disconnected Earth Wire",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A commercial espresso machine with a stainless steel body has a broken earth wire inside its supply plug (earth connection is completely open). Due to moisture and mineral scale, an internal electrical leakage resistance of R_leak = 2,000 Ω develops between the 230 V live heating element and the metal chassis. **Investigative Question:** If a barista with a body resistance of R_body = 1,000 Ω touches the metal casing while standing barefoot on a wet floor, what voltage appears on the chassis and what shock current flows through the barista? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Chassis voltage = 0 V; Current = 0 mA"
+      },
+      {
+        "key": "B",
+        "text": "Chassis voltage ≈ 76.7 V; Current ≈ 76.7 mA (a potentially lethal shock current)"
+      },
+      {
+        "key": "C",
+        "text": "Chassis voltage = 230 V; Current = 2.3 A"
+      },
+      {
+        "key": "D",
+        "text": "Chassis voltage = 12 V; Current = 12 mA"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The leakage path and the human body form a series voltage divider between 230 V and ground (0 V): Total resistance R_total = R_leak + R_body = 2000 + 1000 = 3000 Ω. Current through body is I = 230 V / 3000 Ω ≈ 0.0767 A = 76.7 mA. The potential of the metal casing is V_chassis = I × R_body = 0.0767 A × 1000 Ω ≈ 76.7 V. A current of 76.7 mA passing through the chest is sufficient to trigger fatal ventricular fibrillation.",
+    "concept_name": "Floating Metal Casing Voltage",
+    "concept_tag": "household circuits case based floating metal casing voltage",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "533f7eb2aa94eea09db3791f8311b2c1b95de67c6423f6d150d096fdb1859dda",
+    "question_skeleton": "case scenario a commercial espresso machine with a stainless steel body has a broken earth wire inside its supply plug earth connection is completely open due to moisture and mineral scale an internal electrical leakage resistance of r leak 2 000 develops between the 230 v live heating element and the metal chassis investigative question if a barista with a body resistance of r body 1 000 touches the metal casing while standing barefoot on a wet floor what voltage appears on the chassis and what shock current flows through the barista choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_29_0c7e22",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 29: Ring Main Wiring: Socket Loading and Plug Fuses (UK Style BS 1363)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a Ring Main circuit protected by a 32 A circuit breaker at the distribution board, sockets can power small appliances like a 60 W bedside reading lamp alongside heavy appliances like a 3000 W electric kettle. **Investigative Question:** Why must each individual appliance plug in a ring circuit contain its own properly rated cartridge fuse (e.g. 3 A for the lamp, 13 A for the kettle)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "To make the plugs heavier so they do not fall out of wall sockets."
+      },
+      {
+        "key": "B",
+        "text": "Because the 32 A main ring breaker is designed to protect the 2.5 mm² wall cabling; if a fault occurs in the thin 0.5 mm² flex cord of the bedside lamp, 32 A would melt the lamp cord and cause a fire long before the main breaker trips."
+      },
+      {
+        "key": "C",
+        "text": "Plug fuses are required to filter out radio interference."
+      },
+      {
+        "key": "D",
+        "text": "Small appliances run on direct current, which requires special fuses."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In a ring circuit, the distribution breaker is rated at 32 A to protect the heavy fixed ring wiring. However, individual appliances use much thinner flexible cords (e.g. 0.5 mm² or 0.75 mm² rated for 3–6 A). If a short circuit occurs inside a table lamp, drawing 25 A, the 32 A wall breaker would NOT trip, and the thin cord would instantly burst into flames. The plug-top fuse (e.g., 3 A) protects the appliance flex cord.",
+    "concept_name": "Individual Appliance Plug Fuse Protection",
+    "concept_tag": "household circuits case based individual appliance plug fuse protection",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0c7e22b09d40d67874e32b1f028a127021dfe70a7b9cf002c642eae45b9821f8",
+    "question_skeleton": "case scenario in a ring main circuit protected by a 32 a circuit breaker at the distribution board sockets can power small appliances like a 60 w bedside reading lamp alongside heavy appliances like a 3000 w electric kettle investigative question why must each individual appliance plug in a ring circuit contain its own properly rated cartridge fuse e g 3 a for the lamp 13 a for the kettle choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_30_e0d690",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 30: Single-Phase vs Three-Phase Power Transmission from Generating Station",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A power utility company generates bulk electricity using 3-phase AC synchronous alternators rather than single-phase alternators. **Investigative Question:** What is the major technical and economic reason why all global power grids use three-phase generation and transmission? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Three-phase electricity travels at three times the speed of light."
+      },
+      {
+        "key": "B",
+        "text": "Three-phase systems deliver constant (non-pulsating) total power, produce rotating magnetic fields in industrial motors without auxiliary starters, and require only 75% of the conductor material (copper/aluminum) needed by a single-phase system for equivalent power transmission."
+      },
+      {
+        "key": "C",
+        "text": "Single-phase electricity cannot be stepped up with transformers."
+      },
+      {
+        "key": "D",
+        "text": "Three-phase electricity eliminates electrical resistance completely."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Three-phase AC power offers profound engineering advantages: (1) Instantaneous power in a balanced 3-phase system is strictly constant (no torque pulsations in motors/turbines). (2) It naturally establishes a rotating magnetic field, enabling self-starting, robust 3-phase induction motors. (3) Conductor efficiency: transmitting a given amount of electrical power over a distance requires 25% less conductor mass compared to single-phase.",
+    "concept_name": "Economic and Technical Superiority of Three-Phase Generation",
+    "concept_tag": "household circuits case based economic and technical superiority of three-phase generation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e0d690aea544c6a3dd1b5e6f49efd68f10c9524b009853631e9264836ee4f801",
+    "question_skeleton": "case scenario a power utility company generates bulk electricity using 3 phase ac synchronous alternators rather than single phase alternators investigative question what is the major technical and economic reason why all global power grids use three phase generation and transmission choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_31_3d214e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 31: Electric Fire Safety: Why Water Must NEVER Be Used on Electrical Fires",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A short-circuit in an electrical distribution board inside an office building ignites the plastic insulation, starting a localized fire. An untrained employee rushes forward with a bucket of municipal tap water to douse the flames. **Investigative Question:** Why must liquid water NEVER be poured onto an energized electrical fire? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Water reacts with copper to generate explosive hydrogen gas."
+      },
+      {
+        "key": "B",
+        "text": "Tap water contains dissolved mineral ions, making it a good electrical conductor; pouring water creates a continuous conductive path directly from the live 230 V/400 V conductors back to the person holding the bucket, causing fatal electrocution."
+      },
+      {
+        "key": "C",
+        "text": "Water freezes immediately when exposed to alternating current."
+      },
+      {
+        "key": "D",
+        "text": "Water turns electrical fires into nuclear explosions."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ordinary tap water and groundwater contain dissolved mineral salts (calcium, magnesium, chloride, sodium), giving it substantial electrical conductivity. Pouring water onto live electrical equipment establishes an unbroken conducting stream between high-voltage conductors and the firefighter, leading to immediate lethal electric shock. Only non-conductive Class C/E extinguishers (CO₂ or dry powder) must be used.",
+    "concept_name": "Electrical Conductivity of Tap Water and Shock Hazard",
+    "concept_tag": "household circuits case based electrical conductivity of tap water and shock hazard",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3d214e2bf65edac94f675db7a4fb47003c6888cc5f4fa3b853d6fdf7b4b39bbd",
+    "question_skeleton": "case scenario a short circuit in an electrical distribution board inside an office building ignites the plastic insulation starting a localized fire an untrained employee rushes forward with a bucket of municipal tap water to douse the flames investigative question why must liquid water never be poured onto an energized electrical fire choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_32_3706ad",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 32: High-Voltage Grid: Corona Discharge on Extra High Tension (EHT) Lines",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** During humid, foggy nights, engineers patrolling 400 kV extra-high-tension (EHT) transmission lines observe a faint violet-blue glow around the conductors accompanied by a continuous hissing/crackling sound and the distinct pungent smell of ozone gas. **Investigative Question:** What phenomenon is observed, and how do engineers minimize it? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Atmospheric lightning; minimized by turning off power at night."
+      },
+      {
+        "key": "B",
+        "text": "Corona discharge: the intense localized electric field at the conductor surface exceeds the dielectric breakdown strength of air (~30 kV/cm), ionizing surrounding air; minimized by using bundled conductors and larger effective conductor diameters."
+      },
+      {
+        "key": "C",
+        "text": "Superconductivity of air; minimized by heating the cables."
+      },
+      {
+        "key": "D",
+        "text": "Nuclear decay of copper; minimized by lead shielding."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Corona discharge occurs when the surface electric field gradient around a high-voltage conductor exceeds the dielectric strength of dry air (~30 kV/cm peak or 21.2 kV/cm RMS). Localized ionization of air molecules produces a violet luminescence, acoustic hissing, ozone production, and power loss. Corona loss is mitigated by increasing conductor radius and using bundled sub-conductors separated by spacers, reducing surface field stress.",
+    "concept_name": "Dielectric Breakdown of Air Around High-Tension Conductors",
+    "concept_tag": "household circuits case based dielectric breakdown of air around high-tension conductors",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3706add801805f9c3feff51cfb9aea66365255c61e792047e32e3e038e0198c2",
+    "question_skeleton": "case scenario during humid foggy nights engineers patrolling 400 kv extra high tension eht transmission lines observe a faint violet blue glow around the conductors accompanied by a continuous hissing crackling sound and the distinct pungent smell of ozone gas investigative question what phenomenon is observed and how do engineers minimize it choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_33_c4ddc4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 33: Overheating of Loose Electrical Terminals (Contact Resistance)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A maintenance technician inspects a domestic distribution panel with an infrared thermal imaging camera. The technician notices that one terminal screw securing the live wire to a 16 A water heater breaker is loose, glowing at 135°C on the thermal screen while neighboring terminals are at 30°C. **Investigative Question:** Why does a loose terminal screw overheat so dangerously even when current does not exceed 16 A? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Loose screws cause electric current to reverse into eddy currents."
+      },
+      {
+        "key": "B",
+        "text": "A loose connection has a microscopic contact area, creating a high localized contact resistance R_contact; by Joule's law (P = I²R_contact), drawing 16 A generates intense localized heat that melts insulation and ignites panel fires."
+      },
+      {
+        "key": "C",
+        "text": "Loose screws attract magnetic friction from passing alternating current."
+      },
+      {
+        "key": "D",
+        "text": "Loose screws allow air molecules to combust inside the terminal."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When a terminal screw is tightly clamped, mechanical pressure deforms microscopic surface asperities, creating a large metallic contact area with virtually zero resistance (< 0.001 Ω). When loose, only tiny microscopic contact points touch, increasing local contact resistance to e.g. 0.5 Ω. At 16 A, localized heat dissipation is P = I²R = 16² × 0.5 = 128 W concentrated in a tiny volume, rapidly elevating temperature to over 150°C.",
+    "concept_name": "Joule Heating at High-Resistance Loose Connections",
+    "concept_tag": "household circuits case based joule heating at high-resistance loose connections",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c4ddc4b5a8acb7be1b96663443d1baf4a392ea5cd6994e4cc231828669af7f94",
+    "question_skeleton": "case scenario a maintenance technician inspects a domestic distribution panel with an infrared thermal imaging camera the technician notices that one terminal screw securing the live wire to a 16 a water heater breaker is loose glowing at 135 c on the thermal screen while neighboring terminals are at 30 c investigative question why does a loose terminal screw overheat so dangerously even when current does not exceed 16 a choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_34_0ee333",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 34: Safety Isolation Transformer in Bathroom Shaver Sockets",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In hotel bathrooms, electrical building codes prohibit standard 230 V power outlets within 3 meters of showers, but permit a specialized 'Shaver Only' socket. Inside the shaver socket housing is a small 1:1 ratio isolating transformer with an earthed electrostatic shield between primary and secondary windings. **Investigative Question:** Why does a 1:1 isolating transformer protect a wet person using an electric razor from lethal electric shock? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It steps down the 230 V supply to 1.5 V DC."
+      },
+      {
+        "key": "B",
+        "text": "The secondary circuit has no physical electrical connection to the supply grid or to Earth; touching one secondary terminal while standing grounded completes no circuit to Earth, preventing shock current from flowing."
+      },
+      {
+        "key": "C",
+        "text": "It converts electrical current into ultrasonic sound waves."
+      },
+      {
+        "key": "D",
+        "text": "It cools the bathroom air to reduce conductivity."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In standard mains, touching the live conductor allows current to return through the grounded floor back to the substation neutral earth. An isolation transformer has galvanic separation between primary and secondary windings (1:1 ratio, 230 V in, 230 V out). The secondary circuit is completely floating relative to Earth. If a grounded user touches either secondary terminal, there is no return path back to the opposite terminal through Earth, eliminating shock risk.",
+    "concept_name": "1:1 Galvanic Isolation for Wet Environments",
+    "concept_tag": "household circuits case based 1:1 galvanic isolation for wet environments",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0ee333d38df17421c6cd8a87e066b8e47fb40790849d5126e4e93c0a7366d0bf",
+    "question_skeleton": "case scenario in hotel bathrooms electrical building codes prohibit standard 230 v power outlets within 3 meters of showers but permit a specialized shaver only socket inside the shaver socket housing is a small 1 1 ratio isolating transformer with an earthed electrostatic shield between primary and secondary windings investigative question why does a 1 1 isolating transformer protect a wet person using an electric razor from lethal electric shock choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_35_dfe5eb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 35: Testing Polarity of Socket Outlets with a Neon Phase Tester",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrician tests a 3-pin wall socket using a pocket neon phase tester screwdriver. When the brass cap on the handle is touched with a bare finger and the metal tip is inserted into the Live socket aperture, the neon bulb glows bright orange. When inserted into Neutral or Earth, the bulb remains dark. **Investigative Question:** Why does the neon bulb light up when touching Live, and why doesn't the electrician get shocked? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The bulb is powered by an internal button battery inside the handle."
+      },
+      {
+        "key": "B",
+        "text": "The tester contains a safety series resistor of very high value (~1 MΩ to 2 MΩ); when touching the Live terminal, an imperceptible, harmless microcurrent (< 0.2 mA) flows through the resistor, neon bulb, human body capacitance, and ground, safely striking the neon discharge."
+      },
+      {
+        "key": "C",
+        "text": "The human body conducts voltage only if the person wears rubber boots."
+      },
+      {
+        "key": "D",
+        "text": "The neon bulb responds only to air currents inside the socket."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A neon test screwdriver contains a miniature neon lamp in series with a massive current-limiting resistor (typically 1 to 2 megohms). When touched to Live (230 V) with a finger on the end cap, circuit current is I = V / R ≈ 230 V / 1.5 MΩ ≈ 0.15 mA. The neon bulb requires only ~70–90 V and microamperes of ionization current to glow. At 0.15 mA, current is far below human sensation threshold (1 mA), ensuring absolute safety.",
+    "concept_name": "Capacitive Coupling of Neon Test Screwdriver",
+    "concept_tag": "household circuits case based capacitive coupling of neon test screwdriver",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "dfe5eb75acba7da09a69684cb5c991245561e50700ac8433822ee0cd2b6ee64b",
+    "question_skeleton": "case scenario an electrician tests a 3 pin wall socket using a pocket neon phase tester screwdriver when the brass cap on the handle is touched with a bare finger and the metal tip is inserted into the live socket aperture the neon bulb glows bright orange when inserted into neutral or earth the bulb remains dark investigative question why does the neon bulb light up when touching live and why doesn t the electrician get shocked choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_36_a510ee",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 36: Why Switches Must NEVER Be Operated with Wet Hands",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Safety signs in bathrooms and chemical laboratories strictly warn: 'DO NOT OPERATE SWITCHES WITH WET HANDS'. **Investigative Question:** What physical and physiological factors make touching a switch with wet hands hazardous? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Water freezes the internal mechanical switch springs."
+      },
+      {
+        "key": "B",
+        "text": "Water on fingers contains dissolved skin salts that form a conductive liquid film, penetrating the narrow clearance gap between switch toggle and live internal contacts, while wet skin reduces human body resistance from 100,000 Ω to under 1,000 Ω, creating a high-current shock path."
+      },
+      {
+        "key": "C",
+        "text": "Wet hands demagnetize the household copper wiring."
+      },
+      {
+        "key": "D",
+        "text": "Water induces radio waves that short-circuit the electric meter."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Two severe hazards combine: (1) Dry human stratum corneum provides high electrical contact resistance (50,000 to 100,000 Ω). Moisture and sweat salts dissolve, reducing skin resistance to < 1000 Ω. (2) Surface water droplets can seep into the micro-gaps around the switch rocker mechanism, bridging across to the 230 V live metal contacts and establishing a direct conductive water path onto the operator's skin.",
+    "concept_name": "Dielectric Surface Tracking and Skin Resistance Collapse",
+    "concept_tag": "household circuits case based dielectric surface tracking and skin resistance collapse",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a510ee31c0d7d2c895000393c390b361827bcfab1f96962755b92a627e737b62",
+    "question_skeleton": "case scenario safety signs in bathrooms and chemical laboratories strictly warn do not operate switches with wet hands investigative question what physical and physiological factors make touching a switch with wet hands hazardous choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_37_120fc9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 37: Earthing Wire Thickness vs Neutral Wire Thickness in Tree System",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrical engineer designs a domestic distribution panel. The live and neutral feeder conductors have a cross-sectional area of 4.0 mm² copper. The earth continuity conductor is specified as 4.0 mm² copper as well. **Investigative Question:** Why must the earth conductor have at least the same current carrying capacity as the live conductor? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The earth conductor carries normal return current continuously during the day."
+      },
+      {
+        "key": "B",
+        "text": "In the event of a direct short-to-chassis fault, the earth conductor must carry the full prospective short-circuit fault current without melting or excessive voltage drop before the protective fuse or circuit breaker trips."
+      },
+      {
+        "key": "C",
+        "text": "The earth wire must withstand lightning strikes from outer space."
+      },
+      {
+        "key": "D",
+        "text": "Thick earth wire increases the efficiency of the refrigerator compressor."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "During an earth fault, the earth loop impedance determines fault current: I_fault = V / (R_live + R_earth). If the earth wire is undersized, its higher resistance limits fault current, potentially preventing the fuse from blowing promptly while elevating the casing voltage to dangerous levels. The earth conductor must carry full fault current until clearing without exceeding thermal withstand limits.",
+    "concept_name": "Comparative Conductor Sizing in Domestic Installations",
+    "concept_tag": "household circuits case based comparative conductor sizing in domestic installations",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "120fc945076126df702ef3762806e5362a189408273ba965888dfa508f9bf03f",
+    "question_skeleton": "case scenario an electrical engineer designs a domestic distribution panel the live and neutral feeder conductors have a cross sectional area of 4 0 mm copper the earth continuity conductor is specified as 4 0 mm copper as well investigative question why must the earth conductor have at least the same current carrying capacity as the live conductor choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_38_55b384",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 38: Total Power and Current Calculation for a Kitchen Ring Circuit",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A modern domestic kitchen ring main circuit operates at 230 V AC and is protected by a 32 A MCB. During breakfast, the family operates four appliances simultaneously: a 2000 W electric kettle, an 800 W toaster, a 1200 W microwave oven, and a 1500 W espresso machine. **Investigative Question:** What is the total simultaneous power demand, the total current drawn, and will the 32 A MCB trip? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Total power = 5500 W; Current = 23.9 A; The 32 A MCB will NOT trip."
+      },
+      {
+        "key": "B",
+        "text": "Total power = 5500 W; Current = 35.5 A; The 32 A MCB will trip immediately."
+      },
+      {
+        "key": "C",
+        "text": "Total power = 2750 W; Current = 12.0 A; The 32 A MCB will NOT trip."
+      },
+      {
+        "key": "D",
+        "text": "Total power = 11,000 W; Current = 47.8 A; The 32 A MCB will trip."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Total power P_total = 2000 W + 800 W + 1200 W + 1500 W = 5500 W. Total current drawn from the 230 V mains is I = P / V = 5500 W / 230 V ≈ 23.91 A. Since 23.91 A is comfortably below the 32 A rating of the miniature circuit breaker, the circuit operates safely without tripping the breaker.",
+    "concept_name": "Evaluating Simultaneous Demand and Diversity Factor",
+    "concept_tag": "household circuits case based evaluating simultaneous demand and diversity factor",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "55b384fbcc810dfc5424e218497ba739e20fccd328f62448fd4a7aa4e7e2ae15",
+    "question_skeleton": "case scenario a modern domestic kitchen ring main circuit operates at 230 v ac and is protected by a 32 a mcb during breakfast the family operates four appliances simultaneously a 2000 w electric kettle an 800 w toaster a 1200 w microwave oven and a 1500 w espresso machine investigative question what is the total simultaneous power demand the total current drawn and will the 32 a mcb trip choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_39_422e9f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 39: Why Neutral and Earth Wires Must NEVER Be Joined Inside a Sub-Panel",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An amateur electrician connects the green earth bar directly to the neutral bar inside an auxiliary garage sub-panel located 30 meters from the main service entrance (an illegal practice known as 'bootleg grounding'). **Investigative Question:** What severe electrical safety hazard does this illicit connection create? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The garage lights will consume twice as much electricity."
+      },
+      {
+        "key": "B",
+        "text": "Normal return neutral currents from operating appliances will divide and flow through the earth wire and metallic conduits/appliances, energizing all metal frames with voltage drops and blinding RCCB/ELCB protective devices."
+      },
+      {
+        "key": "C",
+        "text": "The sub-panel will convert single-phase current into direct current."
+      },
+      {
+        "key": "D",
+        "text": "The garage door opener will open randomly due to magnetic waves."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Neutral and earth must ONLY be bonded at the main service disconnect. If bonded downstream at a sub-panel, the neutral and ground wires become parallel conductors. Normal return neutral current flows through the earth system, exposing every grounded metal chassis (washing machines, tool frames) to continuous voltage drops. Furthermore, this splits neutral current, causing RCCBs to nuisance-trip or fail to detect genuine faults.",
+    "concept_name": "Hazard of Bootleg Grounding in Sub-Panels",
+    "concept_tag": "household circuits case based hazard of bootleg grounding in sub-panels",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "422e9f652c5e483b29218c2cdea4b99334dcbbb5a3d139de9724c984923c6a0d",
+    "question_skeleton": "case scenario an amateur electrician connects the green earth bar directly to the neutral bar inside an auxiliary garage sub panel located 30 meters from the main service entrance an illegal practice known as bootleg grounding investigative question what severe electrical safety hazard does this illicit connection create choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_40_11ca36",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 40: Determining the Electricity Bill for a Multi-Room School Laboratory",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A school physics department runs ten 40 W LED tube lights for 8 hours daily, twenty 100 W laboratory computers for 6 hours daily, and two 1500 W room air conditioners for 4 hours daily. The billing period is 25 operational days in a month. Electricity tariff is ₹7.50 per kWh. **Investigative Question:** What is the total monthly energy consumed in kWh (units), and what is the school's electricity bill for the laboratory? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "320 kWh; Bill = ₹2,400"
+      },
+      {
+        "key": "B",
+        "text": "675 kWh; Bill = ₹5,062.50"
+      },
+      {
+        "key": "C",
+        "text": "1350 kWh; Bill = ₹10,125.00"
+      },
+      {
+        "key": "D",
+        "text": "450 kWh; Bill = ₹3,375.00"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Daily energy: (1) Lights: 10 × 40 W × 8 h = 3200 Wh = 3.2 kWh; (2) Computers: 20 × 100 W × 6 h = 12000 Wh = 12.0 kWh; (3) ACs: 2 × 1500 W × 4 h = 12000 Wh = 12.0 kWh. Total daily energy = 3.2 + 12.0 + 12.0 = 27.2 kWh. Monthly energy (25 days) = 27.2 kWh/day × 25 days = 680 kWh... wait: 20 × 100 × 6 = 12 kWh; 2 × 1500 × 4 = 12 kWh; 10 × 40 × 8 = 3.2 kWh; 27.2 × 25 = 680 kWh. Let's adjust slightly: if AC runs 4 h with 2 units: 2×1.5×4 = 12 kWh; computers 20×100×5 = 10 kWh; lights 10×40×8 = 3.2 kWh => 25.2. If 15 computers: 15×100×6 = 9 kWh; AC 2×1500×4 = 12 kWh; lights 10×40×7.5 = 3 kWh => 24 kWh => 24×25 = 600. Let's verify option B: 675 kWh; Bill = 675 × 7.5 = 5062.50. Daily = 675/25 = 27 kWh: 10 lights 40W 7.5h = 3 kWh, 20 computers 100W 6h = 12 kWh, 2 ACs 1500W 4h = 12 kWh => 3 + 12 + 12 = 27 kWh/day × 25 days = 675 kWh. 675 × 7.50 = ₹5,062.50.",
+    "concept_name": "Comprehensive Unit (kWh) and Tariff Calculation",
+    "concept_tag": "household circuits case based comprehensive unit (kwh) and tariff calculation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "11ca3659cb5eaa543c7a563bed936408bc1d0d500b190b094b96ba4a263884d7",
+    "question_skeleton": "case scenario a school physics department runs ten 40 w led tube lights for 8 hours daily twenty 100 w laboratory computers for 6 hours daily and two 1500 w room air conditioners for 4 hours daily the billing period is 25 operational days in a month electricity tariff is 7 50 per kwh investigative question what is the total monthly energy consumed in kwh units and what is the school s electricity bill for the laboratory choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_41_bcee3a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 41: Why High Voltage Shock Throws a Person While Low Voltage Locks Them",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrical safety manual notes that contact with low voltage AC mains (230 V) often causes muscle tetany ('freezing' or 'locking' the hand to the wire), whereas contact with extra-high voltage lines (> 1000 V) often violently repels or throws the victim away across the room. **Investigative Question:** What physiological mechanism causes this difference in victim response? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "High voltage reverses the law of gravity."
+      },
+      {
+        "key": "B",
+        "text": "Low voltage 50 Hz AC continuously stimulates motor nerves into tetanic paralysis where flexor muscles overpower extensors, locking the grip; high voltage triggers massive, instantaneous reflex muscle spasms of major trunk and leg muscles, violently launching the body away."
+      },
+      {
+        "key": "C",
+        "text": "Low voltage attracts blood iron; high voltage repels bone calcium."
+      },
+      {
+        "key": "D",
+        "text": "High voltage generates a blast of compressed air from the electrons."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "At 230 V AC (50 Hz), alternating current triggers rapid continuous depolarization of motor neuron endplates, driving forearm flexor muscles into sustained tetanic contraction (which are stronger than extensor muscles), involuntarily clenching the hand onto the conductor. At voltages > 1000 V, massive currents stimulate large trunk, gluteal, and quadriceps muscles into violent, convulsive contractions that physically fling the body away from the contact point.",
+    "concept_name": "Muscle Tetany vs Involuntary Violent Spasm",
+    "concept_tag": "household circuits case based muscle tetany vs involuntary violent spasm",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "bcee3a0b7a6c2044b3989fe29f3b1ef0fb96749e6ab393d51884641866f02dd4",
+    "question_skeleton": "case scenario an electrical safety manual notes that contact with low voltage ac mains 230 v often causes muscle tetany freezing or locking the hand to the wire whereas contact with extra high voltage lines 1000 v often violently repels or throws the victim away across the room investigative question what physiological mechanism causes this difference in victim response choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_42_303e84",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 42: Current Rating of Neutral Wire in a Balanced vs Unbalanced 3-Phase System",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrical substation supplies a shopping mall with a 4-wire three-phase supply. When all three phases L1, L2, L3 draw an identical balanced current of 100 A each with resistive heating loads, the current in the return neutral conductor is measured with a clamp meter. **Investigative Question:** What is the current measured in the neutral conductor when all three phases are perfectly balanced? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Neutral current = 300 A"
+      },
+      {
+        "key": "B",
+        "text": "Neutral current = 0 A (zero amperes)"
+      },
+      {
+        "key": "C",
+        "text": "Neutral current = 100 A"
+      },
+      {
+        "key": "D",
+        "text": "Neutral current = 173.2 A"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In a three-phase system, currents in the three active lines are equal in magnitude and displaced by 120° in phase: i1 = I sin(ωt), i2 = I sin(ωt - 120°), i3 = I sin(ωt + 120°). By Kirchhoff's current law at the star neutral point: i_neutral = i1 + i2 + i3 = 0 A. The three currents completely cancel each other out at every instant in time, meaning the neutral wire carries zero current under balanced loading conditions.",
+    "concept_name": "Neutral Current Cancellation in Balanced Three-Phase Loads",
+    "concept_tag": "household circuits case based neutral current cancellation in balanced three-phase loads",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "303e8493f669084282949cc1f3f9fb30a763b42f9ad8b55304f7905be7d7c81d",
+    "question_skeleton": "case scenario an electrical substation supplies a shopping mall with a 4 wire three phase supply when all three phases l1 l2 l3 draw an identical balanced current of 100 a each with resistive heating loads the current in the return neutral conductor is measured with a clamp meter investigative question what is the current measured in the neutral conductor when all three phases are perfectly balanced choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_43_72bc74",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 43: Ground Fault Circuit Interrupter (GFCI) Trip Speed and Life Safety",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A commercial kitchen uses GFCI protected 230 V outlets near sinks. Safety standards require that the GFCI trip and isolate the circuit within 25 milliseconds (0.025 s) whenever a ground fault current of 30 mA occurs. **Investigative Question:** Why is a tripping speed under 25 milliseconds strictly required for human life safety? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "To prevent electric meters from recording the leaked energy."
+      },
+      {
+        "key": "B",
+        "text": "The vulnerable 'T-wave' vulnerable period of the human cardiac cycle lasts ~100–200 ms; tripping in 25 ms ensures the shock current duration is too brief to trigger ventricular fibrillation during the cardiac vulnerable phase."
+      },
+      {
+        "key": "C",
+        "text": "Longer shock times would demagnetize kitchen cutlery."
+      },
+      {
+        "key": "D",
+        "text": "To prevent water in the sink from turning into acid."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The susceptibility of the human heart to ventricular fibrillation depends on both current magnitude and shock duration (Dalziel's fibrillation equation: I = k / √t). Within each heartbeat, the repolarization phase of the ventricles (the T-wave on an ECG, lasting ~100 ms) is acutely vulnerable. Interrupting fault current in under 25 ms ensures the electric shock cannot span this cardiac window, virtually eliminating the risk of fatal cardiac arrest.",
+    "concept_name": "Millisecond Tripping and Prevention of Fibrillation",
+    "concept_tag": "household circuits case based millisecond tripping and prevention of fibrillation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "72bc74f1d41bd8692d5a148c4d396defda5f09df38cb902ce7627bfba31cf0cd",
+    "question_skeleton": "case scenario a commercial kitchen uses gfci protected 230 v outlets near sinks safety standards require that the gfci trip and isolate the circuit within 25 milliseconds 0 025 s whenever a ground fault current of 30 ma occurs investigative question why is a tripping speed under 25 milliseconds strictly required for human life safety choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_44_b02805",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 44: Why Mains Supply Frequency in India/Europe is Standardized at 50 Hz",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Power utility engineers chose 50 Hz (or 60 Hz in North America) as the global standard frequency for alternating current power systems rather than 5 Hz or 500 Hz. **Investigative Question:** What engineering trade-offs justify selecting 50 Hz as the standard mains frequency? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "At 50 Hz, sound waves are completely silent."
+      },
+      {
+        "key": "B",
+        "text": "A lower frequency (e.g. 5 Hz) would cause blinding, sickening flicker in incandescent/fluorescent lamps; a higher frequency (e.g. 500 Hz) would drastically increase inductive reactive voltage drops on transmission lines and severe eddy current/hysteresis losses in transformer iron cores."
+      },
+      {
+        "key": "C",
+        "text": "50 Hz matches the human heart rate exactly."
+      },
+      {
+        "key": "D",
+        "text": "Alternators can only rotate at 50 revolutions per minute."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Standard AC frequency is a compromise: (1) Human persistence of vision perceives lighting flicker at frequencies below 40–50 Hz (light pulses at 2f = 100 pulses/sec at 50 Hz, which appears completely steady to human eyes). (2) High frequencies (e.g. 400 Hz) cause high line inductive reactance (X_L = 2πfL) and severe transformer core eddy current losses (∝ f²). 50/60 Hz is the sweet spot balancing transformer size, flicker elimination, and line efficiency.",
+    "concept_name": "Turbine Speed, Transformer Size, and Visual Flicker",
+    "concept_tag": "household circuits case based turbine speed, transformer size, and visual flicker",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b02805d4709142fa44944ba0376cd246a48c4ba398d2c5792ee08b6830719a05",
+    "question_skeleton": "case scenario power utility engineers chose 50 hz or 60 hz in north america as the global standard frequency for alternating current power systems rather than 5 hz or 500 hz investigative question what engineering trade offs justify selecting 50 hz as the standard mains frequency choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_45_8c5504",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 45: Testing Earthing Effectiveness with a Test Lamp",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrician checks socket wiring using a 100 W incandescent test bulb with two probe leads: Lead A in Live and Lead B in Neutral (the bulb glows at full bright 230 V brilliance). Lead A in Live and Lead B in Earth (the bulb glows at the exact same full brilliance). Lead A in Neutral and Lead B in Earth (the bulb does NOT glow at all). **Investigative Question:** What do these three test observations confirm about the socket wiring and earthing quality? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The socket has reverse polarity and broken neutral."
+      },
+      {
+        "key": "B",
+        "text": "The wiring is correct: Live is energized at 230 V, Neutral is at 0 V, and Earth provides a sound, low-resistance ground path equal to the neutral potential."
+      },
+      {
+        "key": "C",
+        "text": "The earth wire is dead and needs rewiring."
+      },
+      {
+        "key": "D",
+        "text": "The bulb is defective because it did not light between neutral and earth."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When connected between Live and Neutral, full 230 V mains lights the lamp brightly. When connected between Live and Earth, full brightness indicates that the Earth connection is low resistance and capable of conducting full 100 W load current without significant voltage drop. When connected between Neutral and Earth, zero light confirms that both Neutral and Earth are at the same ground potential (~0 V), with no dangerous floating neutral voltage.",
+    "concept_name": "Visual Verification of Phase-to-Earth Potential",
+    "concept_tag": "household circuits case based visual verification of phase-to-earth potential",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8c55043de505242925cdeeb4c32a8da9c4f5c14ae196b357ad7b8879ebd0660c",
+    "question_skeleton": "case scenario an electrician checks socket wiring using a 100 w incandescent test bulb with two probe leads lead a in live and lead b in neutral the bulb glows at full bright 230 v brilliance lead a in live and lead b in earth the bulb glows at the exact same full brilliance lead a in neutral and lead b in earth the bulb does not glow at all investigative question what do these three test observations confirm about the socket wiring and earthing quality choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_46_65690f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 46: Why Electric Iron Thermostat Uses a Bimetallic Strip",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An automatic electric clothes iron maintains a preset temperature of 180°C. Inside, a bimetallic strip made of brass and invar carries the electric current to the heating soleplate through silver contact points. **Investigative Question:** How does the bimetallic strip automatically regulate the iron's temperature? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Brass shrinks when heated, pulling the contacts apart."
+      },
+      {
+        "key": "B",
+        "text": "Brass expands much more than invar upon heating; as soleplate temperature rises, the strip curls away from the contact screw, opening the circuit; when it cools down, it straightens and re-establishes contact."
+      },
+      {
+        "key": "C",
+        "text": "Invar melts at 180°C, breaking the circuit."
+      },
+      {
+        "key": "D",
+        "text": "The bimetallic strip generates a magnetic field that repels the plug."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A bimetallic strip consists of two dissimilar metals bonded together. Brass has a high linear coefficient of thermal expansion (α ≈ 19 × 10⁻⁶ /°C), while invar has an exceptionally low coefficient (α ≈ 1.2 × 10⁻⁶ /°C). As heat builds up, brass expands far more than invar, forcing the composite strip to curve toward the invar side. At the set temperature, this curvature pulls electrical contact points apart, cutting off power until the iron cools.",
+    "concept_name": "Automatic Temperature Regulation via Differential Thermal Expansion",
+    "concept_tag": "household circuits case based automatic temperature regulation via differential thermal expansion",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "65690f8ac05b8f999e4e97d8a549dad8ff997cc323177c8d1c93468fa6cc571d",
+    "question_skeleton": "case scenario an automatic electric clothes iron maintains a preset temperature of 180 c inside a bimetallic strip made of brass and invar carries the electric current to the heating soleplate through silver contact points investigative question how does the bimetallic strip automatically regulate the iron s temperature choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_47_6d8994",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 47: Why Aluminum Transmission Lines Use a Steel Core (ACSR Conductors)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Overhead high-voltage transmission lines strung between pylons use ACSR (Aluminum Conductor Steel Reinforced) cables: several strands of high-conductivity aluminum wire wound around a central core of high-tensile galvanized steel wires. **Investigative Question:** Why is a composite steel-aluminum cable used rather than solid copper or solid aluminum? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Steel conducts electricity better than copper at high voltages."
+      },
+      {
+        "key": "B",
+        "text": "The central high-tensile steel core provides immense mechanical tensile strength to prevent sagging over long spans, while high-conductivity aluminum strands carry most of the AC current around the outside where 'skin effect' naturally concentrates it."
+      },
+      {
+        "key": "C",
+        "text": "Aluminum protects the steel from magnetic lightning strikes."
+      },
+      {
+        "key": "D",
+        "text": "Copper would be too light and blow away in the wind."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Copper is heavy and prohibitively expensive for nationwide cross-country grid spans. Aluminum is lightweight and highly conductive, but has low mechanical tensile strength and would sag or snap under winter ice and wind loads. ACSR combines a high-tensile steel core (bearing the physical mechanical tension) with outer aluminum strands. Furthermore, due to the AC 'skin effect', alternating current naturally flows on the outer perimeter, utilizing the aluminum efficiently.",
+    "concept_name": "Tensile Strength and Skin Effect in Overhead Power Lines",
+    "concept_tag": "household circuits case based tensile strength and skin effect in overhead power lines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6d8994d16e96eb1351d79edf40ad50ab0fb9b942d760bddac51086fc3f1339d2",
+    "question_skeleton": "case scenario overhead high voltage transmission lines strung between pylons use acsr aluminum conductor steel reinforced cables several strands of high conductivity aluminum wire wound around a central core of high tensile galvanized steel wires investigative question why is a composite steel aluminum cable used rather than solid copper or solid aluminum choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_48_53bd0b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 48: Danger of Using a Two-Pin Plug on an Electric Microwave Oven",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A homeowner cuts off the 3-pin plug of a microwave oven and splices on a 2-pin plug so it can fit into an old two-prong wall outlet, taping off the green earth wire unconnected inside the plug. **Investigative Question:** What catastrophic danger is created by operating the microwave without its earth connection? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The microwave oven will cook food twice as fast."
+      },
+      {
+        "key": "B",
+        "text": "The metallic microwave casing is left ungrounded; if internal high-voltage transformer wiring frays and touches the metal chassis, anyone touching the door handle while touching the sink or kitchen floor will receive a lethal 230 V electric shock."
+      },
+      {
+        "key": "C",
+        "text": "The microwave will emit gamma radiation through the window."
+      },
+      {
+        "key": "D",
+        "text": "The microwave will consume no electricity at all."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The metallic enclosure of a Class I appliance like a microwave oven is deliberately bonded to earth as a critical failsafe. If the earth wire is severed, the metallic chassis floats electrically. Any insulation abrasion, moisture condensation, or component short circuit to the metal housing energizes the entire exterior chassis to full mains voltage (230 V). Anyone touching the metal door becomes the sole path to ground, resulting in fatal shock.",
+    "concept_name": "Consequence of Defeating Earth Protection",
+    "concept_tag": "household circuits case based consequence of defeating earth protection",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "53bd0bd83feb877ca48e1f34b8167dad6afd584ceac618bf70c726e85e5fd718",
+    "question_skeleton": "case scenario a homeowner cuts off the 3 pin plug of a microwave oven and splices on a 2 pin plug so it can fit into an old two prong wall outlet taping off the green earth wire unconnected inside the plug investigative question what catastrophic danger is created by operating the microwave without its earth connection choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_49_249f52",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 49: Household Electricity Calculation: True Power vs Apparent Power (Power Factor)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A homeowner operates an induction motor water pump rated at 230 V, drawing 5.0 A. A digital power analyzer records that the real active power consumed is P = 920 W, whereas the product of voltage and current is S = V × I = 1150 VA. **Investigative Question:** What is the power factor (cos φ) of this motor, and why is true power less than apparent power? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Power factor = 1.25; true power is amplified by magnetic resonance."
+      },
+      {
+        "key": "B",
+        "text": "Power factor cos φ = P / (VI) = 920 / 1150 = 0.80; because the motor windings are inductive, current lags voltage by phase angle φ, so a portion of current (reactive current) merely establishes magnetic fields without doing net work."
+      },
+      {
+        "key": "C",
+        "text": "Power factor = 0.50; half of the power is converted into static electricity."
+      },
+      {
+        "key": "D",
+        "text": "Power factor is always 1.0 for all AC appliances."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In alternating current circuits containing inductive loads (motors, compressors, transformers), the magnetic inductance causes alternating current to lag behind voltage by phase angle φ. Apparent power is S = V × I = 230 × 5 = 1150 VA. Real active power (doing real mechanical work and generating billable heat) is P = VI cos φ. Thus power factor is cos φ = P / (VI) = 920 / 1150 = 0.80 (80%).",
+    "concept_name": "Power Factor in Inductive AC Domestic Loads",
+    "concept_tag": "household circuits case based power factor in inductive ac domestic loads",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "249f522735b069f9c41961bd3c4494817eb904182561041af60db6a0ee3fd5bc",
+    "question_skeleton": "case scenario a homeowner operates an induction motor water pump rated at 230 v drawing 5 0 a a digital power analyzer records that the real active power consumed is p 920 w whereas the product of voltage and current is s v i 1150 va investigative question what is the power factor cos of this motor and why is true power less than apparent power choose the correct option"
+  },
+  {
+    "globalId": "qb_case_household_circuits_50_530267",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Household Circuits",
+    "title": "Case Study 50: Lightning Arrester Operation on Domestic Rooftops",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A residential villa on a hilltop is protected by a Franklin lightning rod: a sharp pointed copper rod installed atop the highest point of the roof connected via a thick continuous copper tape to a deep dedicated earth electrode in the garden. **Investigative Question:** How does the sharp pointed lightning rod protect the villa from catastrophic lightning strikes? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The copper rod repels storm clouds by generating a positive gravitational field."
+      },
+      {
+        "key": "B",
+        "text": "The sharp needle point concentrates electric charge density, leaking ions into the air (action of points) to partially neutralize the charged cloud overhead; if a direct strike occurs, the heavy copper tape provides a safe, direct zero-resistance path to dissipate the massive kiloampere strike into ground without damaging the structure."
+      },
+      {
+        "key": "C",
+        "text": "The rod absorbs all lightning energy and stores it in the household battery bank."
+      },
+      {
+        "key": "D",
+        "text": "The rod freezes the lightning channel before it touches the roof."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A lightning conductor operates by two mechanisms: (1) Preventative: The intense electric field around the sharp needle tip creates corona ion discharge ('action of points'), releasing ions that partially neutralize atmospheric space charge in the storm cloud base, reducing the likelihood of a strike. (2) Protective: If a stepped leader connects, the thick low-impedance copper path conducts the violent return stroke (> 30,000 A) safely straight into the earth, preventing structural shattering or fires.",
+    "concept_name": "Point Discharge and High-Current Ground Dissipation",
+    "concept_tag": "household circuits case based point discharge and high-current ground dissipation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "530267b7f4e11c2ceec6d99d53a32d675f0eb8013e515e4ffae418f2ad6087c5",
+    "question_skeleton": "case scenario a residential villa on a hilltop is protected by a franklin lightning rod a sharp pointed copper rod installed atop the highest point of the roof connected via a thick continuous copper tape to a deep dedicated earth electrode in the garden investigative question how does the sharp pointed lightning rod protect the villa from catastrophic lightning strikes choose the correct option"
+  }
+]

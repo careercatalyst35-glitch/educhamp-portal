@@ -1,0 +1,2252 @@
+[
+  {
+    "globalId": "qb_case_periodic_table_1_8336bf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 1: Moseley's X-ray Tube and Modern Periodic Law",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In 1913, Henry Moseley bombarded various target metals with high-speed cathode rays and measured the frequencies (ν) of the emitted characteristic X-rays. He discovered that a straight-line plot was obtained when square root of frequency (√ν) was plotted against the atomic number (Z), whereas plotting against atomic mass produced irregular fluctuations. This resolved historical anomalies in Mendeleev's periodic table such as Tellurium (mass 127.6) preceding Iodine (mass 126.9). **Investigative Question:** Why is atomic number rather than atomic weight the fundamental property that dictates an element's position and chemical properties in the periodic table? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Atomic weight varies because isotopes have different proton counts."
+      },
+      {
+        "key": "B",
+        "text": "Atomic number equals the nuclear charge (number of protons) which dictates the ground-state electronic configuration and valence electrons; isotopes differ only in neutrons which do not affect valence chemistry."
+      },
+      {
+        "key": "C",
+        "text": "X-ray frequencies depend solely on the physical density of the metal crystal lattice."
+      },
+      {
+        "key": "D",
+        "text": "Moseley proved that electrons have no mass and therefore atomic weight is an imaginary concept."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Henry Moseley demonstrated that the characteristic X-ray frequency satisfies √ν = a(Z - b). The atomic number Z equals the positive nuclear charge (number of protons), which equals the number of planetary electrons in a neutral atom. Since chemical behavior and valency depend on electronic configuration—specifically valence shell electrons—atomic number is the fundamental criterion of periodicity.",
+    "concept_name": "Modern Periodic Law and Atomic Number",
+    "concept_tag": "periodic table case based modern periodic law and atomic number",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9b3d78487d0bac581ed138bd2971700fb4dcd5a6afce6763b772328b7ca990c6",
+    "question_skeleton": "case scenario in 1913 henry moseley bombarded various target metals with high speed cathode rays and measured the frequencies of the emitted characteristic x rays he discovered that a straight line plot was obtained when square root of frequency was plotted against the atomic number z whereas plotting against atomic mass produced irregular fluctuations this resolved historical anomalies in mendeleev s periodic table such as tellurium mass 127 6 preceding iodine mass 126 9 investigative question why is atomic number rather than atomic weight the fundamental property that dictates an element s position and chemical properties in the periodic table choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_2_6312f8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 2: Successive Ionisation Energies of Magnesium",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physical chemist conducts mass spectrometric photoionisation on gaseous magnesium atoms (Z = 12) and records the successive energy inputs: IE₁ = 738 kJ/mol, IE₂ = 1451 kJ/mol, and IE₃ = 7733 kJ/mol. The student notes that while IE₂ is approximately double IE₁, IE₃ jumps by more than 500% compared to IE₂. **Investigative Question:** What electronic phenomenon explains the massive, discontinuous jump between the second and third ionisation energies of magnesium? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The third electron is removed from an unstable d-orbital."
+      },
+      {
+        "key": "B",
+        "text": "Removing two electrons causes the magnesium nucleus to gain a proton."
+      },
+      {
+        "key": "C",
+        "text": "The first two electrons are removed from the outer 3s valence subshell; removing the third electron requires disrupting the stable, noble-gas neon octet (2p⁶ core), which experiences much higher effective nuclear charge."
+      },
+      {
+        "key": "D",
+        "text": "The third electron has a positive charge and is repelled by the mass spectrometer."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Mg has the configuration 1s² 2s² 2p⁶ 3s². Removing the two 3s valence electrons leaves the isoelectronic Mg²⁺ ion with a stable neon noble gas core (2s² 2p⁶). The third electron must be extracted from the tightly held, shielded 2p subshell with principal quantum number n=2, where effective nuclear charge per electron is vastly higher, causing an enormous energy jump from 1451 to 7733 kJ/mol.",
+    "concept_name": "Successive Ionisation Enthalpies and Core Electron Removal",
+    "concept_tag": "periodic table case based successive ionisation enthalpies and core electron removal",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3152129d3ecc3360e7bc677d74de6c045372ac2e061f511d91bcf4075bca67c4",
+    "question_skeleton": "case scenario a physical chemist conducts mass spectrometric photoionisation on gaseous magnesium atoms z 12 and records the successive energy inputs ie 738 kj mol ie 1451 kj mol and ie 7733 kj mol the student notes that while ie is approximately double ie ie jumps by more than 500 compared to ie investigative question what electronic phenomenon explains the massive discontinuous jump between the second and third ionisation energies of magnesium choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_3_1cf9f1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 3: Electron Affinity Discrepancy: Fluorine vs Chlorine",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical researcher compares the electron affinities of Group 17 halogens. Thermochemical data shows that chlorine has an electron affinity of -349 kJ/mol, whereas fluorine has a surprisingly lower electron affinity of -328 kJ/mol, despite fluorine being significantly smaller and having a higher electronegativity. **Investigative Question:** Why does chlorine possess a higher electron affinity (releases more energy upon electron capture) than fluorine? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Chlorine has more protons in its nucleus, so it always exerts greater pull on any external electron."
+      },
+      {
+        "key": "B",
+        "text": "The 2p valence subshell of fluorine is extremely compact, resulting in high inter-electronic repulsion that partially offsets the nuclear attraction for the incoming electron; chlorine's larger 3p subshell accommodates the extra electron with minimal repulsion."
+      },
+      {
+        "key": "C",
+        "text": "Fluorine is a noble gas that resists gaining any electrons."
+      },
+      {
+        "key": "D",
+        "text": "Chlorine has a metallic lattice that absorbs electrons as delocalised electrons."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Fluorine has a very small atomic radius (r ≈ 72 pm), meaning its 7 valence electrons are crowded into a compact 2p subshell. When an additional electron approaches, strong electron-electron repulsions occur, decreasing the net energy released. In chlorine, the incoming electron enters the larger, more diffuse 3p subshell (r ≈ 99 pm), where inter-electronic repulsion is minimal, resulting in higher electron affinity.",
+    "concept_name": "Electron Gain Enthalpy and Valence Repulsion",
+    "concept_tag": "periodic table case based electron gain enthalpy and valence repulsion",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2871a6313220c4043bed4a8984b57200043f4a45dd3d3d9c9579e6365e565e04",
+    "question_skeleton": "case scenario a chemical researcher compares the electron affinities of group 17 halogens thermochemical data shows that chlorine has an electron affinity of 349 kj mol whereas fluorine has a surprisingly lower electron affinity of 328 kj mol despite fluorine being significantly smaller and having a higher electronegativity investigative question why does chlorine possess a higher electron affinity releases more energy upon electron capture than fluorine choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_4_b7f05c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 4: Isoelectronic Species Radius Comparison",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an advanced crystallography study, an X-ray diffraction analyst tabulates the ionic radii of five isoelectronic species, all containing exactly 10 electrons: N³⁻, O²⁻, F⁻, Na⁺, and Mg²⁺. The measured radii in picometers are: 171 pm, 140 pm, 133 pm, 102 pm, and 72 pm. **Investigative Question:** Which principle correctly accounts for the dramatic shrinkage in radius from N³⁻ to Mg²⁺ despite having the exact same number of electrons? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The number of electron shells decreases from 3 to 1."
+      },
+      {
+        "key": "B",
+        "text": "The nuclear charge increases from +7 in N³⁻ to +12 in Mg²⁺; with more protons attracting the same 10 electrons, the electron cloud is pulled progressively closer to the nucleus."
+      },
+      {
+        "key": "C",
+        "text": "Magnesium loses mass due to radioactive decay in the crystal lattice."
+      },
+      {
+        "key": "D",
+        "text": "Nitrogen atoms absorb photons that inflate their electron orbitals."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "All five species have 10 electrons in the 1s² 2s² 2p⁶ configuration. However, the nuclear charges (proton count) are: N (7), O (8), F (9), Na (11), Mg (12). The effective nuclear charge per electron (Z/e ratio) increases from 7/10 = 0.7 in N³⁻ to 12/10 = 1.2 in Mg²⁺. Greater nuclear positive charge exerts a stronger electrostatic pull on the electron cloud, progressively decreasing the ionic radius.",
+    "concept_name": "Isoelectronic Ions and Effective Nuclear Charge",
+    "concept_tag": "periodic table case based isoelectronic ions and effective nuclear charge",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "57ce66a919fe2ce973fee2ce821d9c7c0a91c78871c928c73f72bd308f92b2a7",
+    "question_skeleton": "case scenario in an advanced crystallography study an x ray diffraction analyst tabulates the ionic radii of five isoelectronic species all containing exactly 10 electrons n o f na and mg the measured radii in picometers are 171 pm 140 pm 133 pm 102 pm and 72 pm investigative question which principle correctly accounts for the dramatic shrinkage in radius from n to mg despite having the exact same number of electrons choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_5_a0a7a5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 5: First Ionisation Energy Anomaly: Nitrogen vs Oxygen",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A spectroscopy team measures the first ionisation energies across Period 2 elements. As expected, IE generally increases from Lithium to Neon. However, Nitrogen (Z = 7) has an IE₁ of 1402 kJ/mol, which is notably higher than that of Oxygen (Z = 8) at 1314 kJ/mol, defying the general left-to-right increasing trend. **Investigative Question:** What is the quantum mechanical origin of Nitrogen having a higher first ionisation energy than Oxygen? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nitrogen has a higher nuclear charge than oxygen."
+      },
+      {
+        "key": "B",
+        "text": "Nitrogen has a stable, half-filled 2p subshell (2p_x¹ 2p_y¹ 2p_z¹) with extra exchange energy, whereas Oxygen has paired electrons in one 2p orbital (2p_x² 2p_y¹ 2p_z¹) causing electron-electron repulsion that facilitates electron removal."
+      },
+      {
+        "key": "C",
+        "text": "Oxygen has fewer protons than nitrogen, so it holds its electrons loosely."
+      },
+      {
+        "key": "D",
+        "text": "Nitrogen forms a triple bond in isolated atomic state."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Nitrogen (1s² 2s² 2p³) has an exactly half-filled 2p subshell with parallel spins, which provides special quantum exchange stability and symmetry. Oxygen (1s² 2s² 2p⁴) contains two paired electrons in one 2p orbital. The inter-electronic repulsion between these two paired electrons in the same spatial orbital raises their energy and makes it easier to remove one electron, resulting in a lower IE₁ for oxygen.",
+    "concept_name": "Half-Filled Orbital Stability and Hund's Rule",
+    "concept_tag": "periodic table case based half-filled orbital stability and hund's rule",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "66d8666f8d4ab64828ca09651369e3aa14514a3f3ebd260098dbf3d3e9e61f27",
+    "question_skeleton": "case scenario a spectroscopy team measures the first ionisation energies across period 2 elements as expected ie generally increases from lithium to neon however nitrogen z 7 has an ie of 1402 kj mol which is notably higher than that of oxygen z 8 at 1314 kj mol defying the general left to right increasing trend investigative question what is the quantum mechanical origin of nitrogen having a higher first ionisation energy than oxygen choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_6_bbb583",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 6: First Ionisation Energy Anomaly: Beryllium vs Boron",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In the same Period 2 survey, Beryllium (Z = 4) exhibits an IE₁ of 899 kJ/mol, whereas Boron (Z = 5) exhibits a lower IE₁ of 801 kJ/mol. A student wonders why Boron, which has a higher nuclear charge (5 protons vs 4 protons) and smaller atomic radius, requires less energy to ionise. **Investigative Question:** Which factor explains why Boron has a lower first ionisation potential than Beryllium? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Beryllium is a non-metal while Boron is a transition metal."
+      },
+      {
+        "key": "B",
+        "text": "The electron removed from Beryllium is a 2s electron from a completely filled, penetrating 2s subshell; the electron removed from Boron is a 2p electron, which is higher in energy, less penetrating, and shielded by the inner 2s electrons."
+      },
+      {
+        "key": "C",
+        "text": "Boron has an octet configuration that repels incoming photons."
+      },
+      {
+        "key": "D",
+        "text": "Beryllium loses a proton during ionisation to become Lithium."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Be has configuration 1s² 2s² (fully filled 2s orbital). B has configuration 1s² 2s² 2p¹. The 2p electron in Boron resides in a higher energy subshell that is more diffuse and heavily shielded by the inner 1s² and 2s² electrons. Furthermore, 2s electrons penetrate closer to the nucleus than 2p electrons. Consequently, less energy is needed to remove the 2p¹ electron of Boron than the 2s² electron of Beryllium.",
+    "concept_name": "Subshell Penetration Effect and s vs p Ionisation",
+    "concept_tag": "periodic table case based subshell penetration effect and s vs p ionisation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "08b5a18ad60ae693dedd4004916bd5e4be40d0a3bf0c4212d370b446ebad0892",
+    "question_skeleton": "case scenario in the same period 2 survey beryllium z 4 exhibits an ie of 899 kj mol whereas boron z 5 exhibits a lower ie of 801 kj mol a student wonders why boron which has a higher nuclear charge 5 protons vs 4 protons and smaller atomic radius requires less energy to ionise investigative question which factor explains why boron has a lower first ionisation potential than beryllium choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_7_40fcfc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 7: Hydrated Radii and Ionic Mobility of Alkali Metals",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrochemist investigates the ionic conductivities of Group 1 alkali metal ions in aqueous solution at 25°C. In the gas phase, Li⁺ has the smallest ionic radius (76 pm) and Cs⁺ has the largest (167 pm). However, in aqueous solution, Li⁺ has the lowest ionic mobility and electrical conductivity, while Cs⁺ has the highest. **Investigative Question:** Why does the tiny Li⁺ ion migrate more slowly through an electric field in water than the much bulkier Cs⁺ ion? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Li⁺ undergoes nuclear fusion with water molecules."
+      },
+      {
+        "key": "B",
+        "text": "Due to its extremely high charge density (small radius with +1 charge), Li⁺ exerts an immense electrostatic pull on polar water dipoles, acquiring a massive hydration sphere that drastically increases its hydrodynamic radius."
+      },
+      {
+        "key": "C",
+        "text": "Cs⁺ loses its positive charge in water and becomes a neutral atom."
+      },
+      {
+        "key": "D",
+        "text": "Water molecules decompose into hydrogen gas when encountering Li⁺ ions."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Hydration enthalpy is inversely proportional to ionic radius (ΔH_hyd ∝ 1/r). Because Li⁺ is tiny, its charge-to-radius ratio is enormous, attracting multiple hydration shells of water molecules. Its hydrated radius is therefore much larger than that of Cs⁺, which has a low charge density and weak hydration. The bulky hydrated Li⁺ ion experiences high viscous drag in solution, reducing its ionic mobility.",
+    "concept_name": "Hydration Enthalpy vs Ionic Size in Aqueous Solution",
+    "concept_tag": "periodic table case based hydration enthalpy vs ionic size in aqueous solution",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ad2006b2a727a85cc9bafb5f0285e4157bd1d24c472b3a8115c9032770a5ccec",
+    "question_skeleton": "case scenario an electrochemist investigates the ionic conductivities of group 1 alkali metal ions in aqueous solution at 25 c in the gas phase li has the smallest ionic radius 76 pm and cs has the largest 167 pm however in aqueous solution li has the lowest ionic mobility and electrical conductivity while cs has the highest investigative question why does the tiny li ion migrate more slowly through an electric field in water than the much bulkier cs ion choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_8_cb5828",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 8: Period 3 Oxides: Acid-Base Transition",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A research chemist tests the chemical behavior of normal oxides across Period 3: Na₂O, MgO, Al₂O₃, SiO₂, P₄O₁₀, SO₃, and Cl₂O₇ by reacting each with water, dilute hydrochloric acid, and sodium hydroxide solution. **Investigative Question:** Which row correctly describes the chemical nature of these oxides from left to right across Period 3? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "All Period 3 oxides are neutral because oxygen has an oxidation state of -2."
+      },
+      {
+        "key": "B",
+        "text": "Na₂O (strongly basic), MgO (basic), Al₂O₃ (amphoteric), SiO₂ (weakly acidic), P₄O₁₀ (acidic), SO₃ (strongly acidic), Cl₂O₇ (very strongly acidic)."
+      },
+      {
+        "key": "C",
+        "text": "Na₂O (acidic), MgO (amphoteric), Al₂O₃ (basic), SiO₂ (neutral), P₄O₁₀ (basic)."
+      },
+      {
+        "key": "D",
+        "text": "Every oxide across Period 3 is amphoteric because aluminium is in Period 3."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Across a period, metallic character decreases and non-metallic character increases as electronegativity rises. Elements on the far left with low electronegativity form basic ionic oxides (Na₂O, MgO). Aluminium has intermediate electronegativity and forms the amphoteric Al₂O₃ (reacts with both acids and bases). Non-metals on the right form covalent acidic anhydrides whose acidity increases with oxidation state (SiO₂ < P₄O₁₀ < SO₃ < Cl₂O₇).",
+    "concept_name": "Electronegativity Difference and Nature of Oxides",
+    "concept_tag": "periodic table case based electronegativity difference and nature of oxides",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c62d0292605c2ce310f0847fdbadb6afef10268ef9232162707c6718c39e9178",
+    "question_skeleton": "case scenario a research chemist tests the chemical behavior of normal oxides across period 3 na o mgo al o sio p o so and cl o by reacting each with water dilute hydrochloric acid and sodium hydroxide solution investigative question which row correctly describes the chemical nature of these oxides from left to right across period 3 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_9_4ec935",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 9: Diagonal Relationship: Lithium and Magnesium",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** During a mineralogical study, an inorganic chemist observes that Lithium (Group 1, Period 2) shows striking behavioral resemblances to Magnesium (Group 2, Period 3) rather than its fellow alkali metals. Both form normal oxides (Li₂O, MgO) rather than superoxides, their carbonates decompose thermally on heating, and their chlorides are deliquescent. **Investigative Question:** What underlying atomic property explains the diagonal relationship between Lithium and Magnesium? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "They possess the exact same atomic mass."
+      },
+      {
+        "key": "B",
+        "text": "Moving right across a period increases polarizing power while moving down a group decreases it; these opposing effects cancel diagonally, giving Li⁺ and Mg²⁺ nearly identical charge-to-radius ratios (polarizing power)."
+      },
+      {
+        "key": "C",
+        "text": "Both elements have full d-orbitals in their valence shell."
+      },
+      {
+        "key": "D",
+        "text": "Lithium and magnesium are isotopes of the same element."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Moving across Period 2 from Li to Be increases nuclear charge and decreases size, raising polarizing power (charge/radius). Moving down from Be to Mg adds an electron shell, increasing size and lowering polarizing power. The net result is that diagonally positioned Li⁺ (r ≈ 76 pm, charge +1) and Mg²⁺ (r ≈ 72 pm, charge +2) have remarkably similar polarizing powers (Li⁺ ≈ 1.3, Mg²⁺ ≈ 2.8), giving rise to similar covalent tendencies, lattice energies, and thermal behaviors.",
+    "concept_name": "Charge-to-Radius Ratio and Diagonal Similarity",
+    "concept_tag": "periodic table case based charge-to-radius ratio and diagonal similarity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "48cf94b04017ee9ba5f1fd87456d346e9c44be52f7d8ccea17c94a999e052303",
+    "question_skeleton": "case scenario during a mineralogical study an inorganic chemist observes that lithium group 1 period 2 shows striking behavioral resemblances to magnesium group 2 period 3 rather than its fellow alkali metals both form normal oxides li o mgo rather than superoxides their carbonates decompose thermally on heating and their chlorides are deliquescent investigative question what underlying atomic property explains the diagonal relationship between lithium and magnesium choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_10_e41834",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 10: Diagonal Relationship: Beryllium and Aluminium",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical engineering student analyzes Beryllium and Aluminium. Both elements resist attack by concentrated nitric acid due to passivation, their hydroxides Be(OH)₂ and Al(OH)₃ dissolve in excess NaOH to form beryllate and aluminate complexes, and their anhydrous chlorides BeCl₂ and AlCl₃ act as Lewis acids that fume in moist air. **Investigative Question:** Why do Beryllium (Group 2, Period 2) and Aluminium (Group 13, Period 3) exhibit virtually identical amphoteric and covalent properties? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Beryllium and aluminium have the same number of valence electrons."
+      },
+      {
+        "key": "B",
+        "text": "Due to the diagonal relationship, Be²⁺ and Al³⁺ have comparable ionic radii and very high charge-to-radius ratios, which strongly polarize electron clouds of adjacent anions, conferring covalent character to their bonds."
+      },
+      {
+        "key": "C",
+        "text": "Both elements are noble gases at room temperature."
+      },
+      {
+        "key": "D",
+        "text": "Aluminium decays radioactively into beryllium in nature."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Be²⁺ (ionic radius 31 pm) and Al³⁺ (ionic radius 53.5 pm) both have extremely high charge density (polarizing power). According to Fajan's rules, high cation charge density pulls electron density away from adjacent anions (like Cl⁻ or O²⁻), transforming otherwise ionic bonds into predominantly covalent bonds. This high covalency accounts for their polymeric/dimeric chlorides, amphoteric hydroxides, and passivity.",
+    "concept_name": "Amphoteric Nature and Covalent Halides",
+    "concept_tag": "periodic table case based amphoteric nature and covalent halides",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "cd1183b08aeb97525f463615bb666bbc231079f56d5f7189db3862d4b19ca0ff",
+    "question_skeleton": "case scenario a chemical engineering student analyzes beryllium and aluminium both elements resist attack by concentrated nitric acid due to passivation their hydroxides be oh and al oh dissolve in excess naoh to form beryllate and aluminate complexes and their anhydrous chlorides becl and alcl act as lewis acids that fume in moist air investigative question why do beryllium group 2 period 2 and aluminium group 13 period 3 exhibit virtually identical amphoteric and covalent properties choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_11_b6bed2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 11: Noble Gas Van der Waals Radii vs Covalent Radii",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a periodic table textbook, a student notices that the atomic radius of Argon is listed as 188 pm, which is noticeably larger than Chlorine (99 pm) and even larger than Sodium (186 pm). The student is puzzled because atomic radius is stated to decrease from left to right across a period. **Investigative Question:** Why is the reported atomic radius of Argon dramatically larger than that of Chlorine? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Argon has an extra electron shell that Chlorine lacks."
+      },
+      {
+        "key": "B",
+        "text": "For noble gases like Argon, the radius measured is the non-bonded Van der Waals radius between adjacent atoms, which is inherently much larger than the covalent radius measured for chemically bonded diatomic Chlorine."
+      },
+      {
+        "key": "C",
+        "text": "Argon has 0 protons, so its electrons fly far away from the nucleus."
+      },
+      {
+        "key": "D",
+        "text": "Argon is an alkali metal that has expanded due to high reactivity."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Chlorine exists as diatomic Cl₂ molecules bonded by covalent single bonds, so its reported radius is the covalent radius (half the internuclear distance between two covalently bonded atoms). Argon, being a monoatomic inert gas, does not form covalent bonds; its radius is measured as the Van der Waals radius (half the distance between two non-bonded atoms in solid/liquid state). Van der Waals forces are weak, resulting in much larger internuclear distances.",
+    "concept_name": "Interatomic Distance and Radii Definitions",
+    "concept_tag": "periodic table case based interatomic distance and radii definitions",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c0014d3f0f97f20a8b4dad877c707af87a4a27876431e71f6554c4c327d196db",
+    "question_skeleton": "case scenario in a periodic table textbook a student notices that the atomic radius of argon is listed as 188 pm which is noticeably larger than chlorine 99 pm and even larger than sodium 186 pm the student is puzzled because atomic radius is stated to decrease from left to right across a period investigative question why is the reported atomic radius of argon dramatically larger than that of chlorine choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_12_765ce9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 12: Anomalous Density of Potassium in Group 1",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A metallurgist measures the physical densities of Group 1 metals at 20°C: Lithium (0.53 g/cm³), Sodium (0.97 g/cm³), Potassium (0.86 g/cm³), Rubidium (1.53 g/cm³), and Cesium (1.87 g/cm³). The general trend shows density increasing down the group, but Potassium is unexpectedly less dense than Sodium. **Investigative Question:** What is the structural cause for Potassium having a lower density than Sodium? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Potassium has fewer protons than sodium."
+      },
+      {
+        "key": "B",
+        "text": "The addition of the fourth electron shell in potassium produces a disproportionately large expansion in atomic volume (due to diffuse 4s orbital and presence of empty 3d subshell) that outweighs the increase in its atomic mass."
+      },
+      {
+        "key": "C",
+        "text": "Potassium reacts with air to produce helium gas bubbles inside its metal crystal."
+      },
+      {
+        "key": "D",
+        "text": "Sodium forms a hexagonal close-packed crystal while potassium is a liquid."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Density is given by mass/volume. From Na (Z=11) to K (Z=19), the mass increases from 23 to 39 u (an increase of ~70%), but the atomic volume increases by over 100% due to the insertion of the bulky 4s shell and the screening of the core. Because the increase in atomic volume exceeds the increase in atomic mass, Potassium has an anomalously low density (0.86 g/cm³) and actually floats on water alongside Li and Na.",
+    "concept_name": "Lattice Volume vs Atomic Mass in Alkali Metals",
+    "concept_tag": "periodic table case based lattice volume vs atomic mass in alkali metals",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a12035bed146f4d6f3079bc88848989bab01a31c183f15079ee8152b349588b3",
+    "question_skeleton": "case scenario a metallurgist measures the physical densities of group 1 metals at 20 c lithium 0 53 g cm sodium 0 97 g cm potassium 0 86 g cm rubidium 1 53 g cm and cesium 1 87 g cm the general trend shows density increasing down the group but potassium is unexpectedly less dense than sodium investigative question what is the structural cause for potassium having a lower density than sodium choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_13_5b3ede",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 13: Halogen Displacement Reactions and Oxidising Trends",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A school lab technician sets up three test tubes containing aqueous solutions of Potassium Chloride, Potassium Bromide, and Potassium Iodide. Upon bubbling fresh chlorine gas into each test tube, Tube 1 (KCl) shows no change, Tube 2 (KBr) turns reddish-orange, and Tube 3 (KI) turns dark brown with violet vapors upon gentle warming. **Investigative Question:** What does this experiment demonstrate regarding the periodic variation of oxidising power down Group 17? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Chlorine is the weakest oxidising agent in Group 17."
+      },
+      {
+        "key": "B",
+        "text": "Oxidising power decreases down Group 17 (F₂ > Cl₂ > Br₂ > I₂); chlorine has a higher electron affinity and reduction potential than bromine and iodine, displacing bromide and iodide ions from their salt solutions."
+      },
+      {
+        "key": "C",
+        "text": "Potassium chloride is an organic substance that cannot react with halogens."
+      },
+      {
+        "key": "D",
+        "text": "Bromine oxidises chlorine to form potassium hypochlorite."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Down Group 17, atomic radius increases and effective nuclear pull on incoming electrons decreases, lowering electron gain enthalpy and standard reduction potential (E°: Cl₂/Cl⁻ = +1.36 V, Br₂/Br⁻ = +1.09 V, I₂/I⁻ = +0.54 V). Thus, Cl₂ is a stronger oxidising agent than Br₂ and I₂: Cl₂ + 2KBr → 2KCl + Br₂ (orange), and Cl₂ + 2KI → 2KCl + I₂ (brown/violet). Cl₂ cannot displace F⁻ because fluorine is even more electronegative.",
+    "concept_name": "Standard Electrode Potentials and Halogen Reactivity",
+    "concept_tag": "periodic table case based standard electrode potentials and halogen reactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "67f3db45677fc52ea1b90f391f8697f8aa6336a672eb373d7b55e1c475b06951",
+    "question_skeleton": "case scenario a school lab technician sets up three test tubes containing aqueous solutions of potassium chloride potassium bromide and potassium iodide upon bubbling fresh chlorine gas into each test tube tube 1 kcl shows no change tube 2 kbr turns reddish orange and tube 3 ki turns dark brown with violet vapors upon gentle warming investigative question what does this experiment demonstrate regarding the periodic variation of oxidising power down group 17 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_14_08e31a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 14: Silicon's Peak Melting Point in Period 3",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A materials scientist plots the melting points of Period 3 elements: Na (98°C), Mg (650°C), Al (660°C), Si (1414°C), P₄ (44°C), S₈ (115°C), Cl₂ (-101°C), and Ar (-189°C). The melting point rises gradually from Na to Al, peaks dramatically at Silicon, and then plunges abruptly at Phosphorus. **Investigative Question:** Why does Silicon exhibit an exceptionally high melting point compared to all other Period 3 elements? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Silicon contains dense metallic bonds with 14 delocalised electrons."
+      },
+      {
+        "key": "B",
+        "text": "Silicon forms a three-dimensional giant covalent network lattice (like diamond) where each atom is held by four strong directional covalent bonds that require massive thermal energy to break."
+      },
+      {
+        "key": "C",
+        "text": "Silicon is a radioactive element that generates internal nuclear heat."
+      },
+      {
+        "key": "D",
+        "text": "Phosphorus and sulphur contain ionic lattices that decompose at room temperature."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Na, Mg, and Al have metallic bonding with increasing valence electrons (1, 2, 3), leading to increasing melting points. Silicon (Group 14) forms a giant three-dimensional macromolecular tetrahedral covalent lattice. Melting silicon requires breaking thousands of strong Si-Si covalent bonds (bond energy ~222 kJ/mol). From P₄ onwards, elements exist as discrete simple molecules held only by weak intermolecular Van der Waals forces, which collapse at low temperatures.",
+    "concept_name": "Giant Covalent Network Lattice vs Metallic/Molecular Bonding",
+    "concept_tag": "periodic table case based giant covalent network lattice vs metallic/molecular bonding",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5be2536f541fd107e07f5966fd3f87368fbbadcf0cddc23c77a11b63a913ae19",
+    "question_skeleton": "case scenario a materials scientist plots the melting points of period 3 elements na 98 c mg 650 c al 660 c si 1414 c p 44 c s 115 c cl 101 c and ar 189 c the melting point rises gradually from na to al peaks dramatically at silicon and then plunges abruptly at phosphorus investigative question why does silicon exhibit an exceptionally high melting point compared to all other period 3 elements choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_15_f233df",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 15: Period 3 Chlorides: Hydrolysis Mechanisms",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical analyst adds liquid Silicon Tetrachloride (SiCl₄) and liquid Carbon Tetrachloride (CCl₄) to separate beakers of cold distilled water. CCl₄ remains completely unreacted, forming a separate immiscible lower layer. In contrast, SiCl₄ hydrolyses violently, effervescing dense white choking fumes of HCl gas and precipitating white hydrated silica (H₄SiO₄). **Investigative Question:** Why does SiCl₄ undergo rapid hydrolysis in water while CCl₄ is completely immune to hydrolysis? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Silicon has lower atomic mass than carbon."
+      },
+      {
+        "key": "B",
+        "text": "Silicon belongs to Period 3 and possesses energetically accessible vacant 3d orbitals that can accept lone pairs from attacking water molecules, whereas Carbon in Period 2 has no d-orbitals and cannot expand its octet."
+      },
+      {
+        "key": "C",
+        "text": "Carbon tetrachloride is an ionic compound that repels water molecules."
+      },
+      {
+        "key": "D",
+        "text": "Silicon tetrachloride contains metallic ionic bonds that dissolve instantly."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Hydrolysis of non-metal halides begins with the nucleophilic attack of a water molecule's lone pair on the central atom. Silicon (1s² 2s² 2p⁶ 3s² 3p²) has vacant 3d orbitals in its valence shell, allowing it to expand its coordination number and form an unstable intermediate [SiCl₄·OH₂] that readily expels HCl. Carbon (Period 2) has only 2s and 2p valence orbitals; its octet is fully locked and steric crowding prevents water from attacking.",
+    "concept_name": "Vacant 3d Orbitals and Covalent Halide Hydrolysis",
+    "concept_tag": "periodic table case based vacant 3d orbitals and covalent halide hydrolysis",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "fa7f5167efc50fb7e680b241cd892f78463148edd6da3968112933d5c89217b1",
+    "question_skeleton": "case scenario a chemical analyst adds liquid silicon tetrachloride sicl and liquid carbon tetrachloride ccl to separate beakers of cold distilled water ccl remains completely unreacted forming a separate immiscible lower layer in contrast sicl hydrolyses violently effervescing dense white choking fumes of hcl gas and precipitating white hydrated silica h sio investigative question why does sicl undergo rapid hydrolysis in water while ccl is completely immune to hydrolysis choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_16_58b0c5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 16: Electronegativity Trend on Pauling Scale",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Linus Pauling evaluated the bond energies of heteronuclear diatomic molecules to construct the Pauling Electronegativity Scale. On this scale, Fluorine is assigned the maximum value of 4.0, Caesium is 0.79, and Francium is 0.7. Across Period 2, the values are: Li (1.0), Be (1.5), B (2.0), C (2.5), N (3.0), O (3.5), and F (4.0). **Investigative Question:** What atomic factors cause electronegativity to increase uniformly across a period and decrease down a group? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Electronegativity depends only on the number of neutrons in the nucleus."
+      },
+      {
+        "key": "B",
+        "text": "Across a period, nuclear charge increases while atomic radius decreases, pulling shared electron pairs closer; down a group, added electron shells increase shielding and distance from the nucleus, weakening the pull on shared electrons."
+      },
+      {
+        "key": "C",
+        "text": "Elements on the right of the table lose electrons easily to form positive ions."
+      },
+      {
+        "key": "D",
+        "text": "Electronegativity is an experimental artifact caused by laboratory atmospheric pressure."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electronegativity is the relative tendency of an atom in a molecule to attract shared pairs of bonding electrons toward itself. Across a period, increasing effective nuclear charge combined with decreasing atomic radius increases the electrostatic pull on bonding pairs. Down a group, each successive element adds a new principal shell, increasing atomic radius and shielding, which progressively weakens nuclear attraction on bonding electrons.",
+    "concept_name": "Nuclear Attraction and Shared Pair Polarization",
+    "concept_tag": "periodic table case based nuclear attraction and shared pair polarization",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6359f5ed31a6ab32f0ac5a96bb5428546a2f3216441a1fdaa54672588d9261fa",
+    "question_skeleton": "case scenario linus pauling evaluated the bond energies of heteronuclear diatomic molecules to construct the pauling electronegativity scale on this scale fluorine is assigned the maximum value of 4 0 caesium is 0 79 and francium is 0 7 across period 2 the values are li 1 0 be 1 5 b 2 0 c 2 5 n 3 0 o 3 5 and f 4 0 investigative question what atomic factors cause electronegativity to increase uniformly across a period and decrease down a group choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_17_03351d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 17: Flame Test Emissions in Groups 1 and 2",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A forensic scientist uses a platinum wire cleaned with concentrated HCl to perform flame tests on unknown white salts: Salt A gives a persistent golden yellow flame; Salt B gives a delicate lilac flame through blue cobalt glass; Salt C gives a brick-red flame. **Investigative Question:** Which fundamental electronic property of s-block elements allows them to produce characteristic flame colors, and which cations are present in A, B, and C? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "High electron affinity releases photons when halogen ions absorb electrons; A=Cl⁻, B=Br⁻, C=I⁻."
+      },
+      {
+        "key": "B",
+        "text": "Low ionisation energies allow thermal energy of the Bunsen burner flame to excite valence electrons to higher energy levels; upon returning to ground state, the electrons emit radiation in the visible spectrum. A=Na⁺, B=K⁺, C=Ca²⁺."
+      },
+      {
+        "key": "C",
+        "text": "Radioactive decay produces beta emission; A=U⁴⁺, B=Th⁴⁺, C=Ra²⁺."
+      },
+      {
+        "key": "D",
+        "text": "The flame heats the platinum wire which oxidises to different colors; no cations are identified."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Alkali and alkaline earth metals have low ionisation energies. When introduced into a non-luminous flame, thermal excitation promotes loosely bound valence electrons to higher quantum energy states. As these excited electrons drop back to ground or lower levels, the absorbed energy is emitted as visible light of specific wavelengths characteristic of the energy gap (ΔE = hc/λ). Na⁺ emits at 589 nm (yellow), K⁺ at 766 nm (lilac), and Ca²⁺ at 622 nm (brick red).",
+    "concept_name": "Low Ionisation Energy and Optical De-excitation",
+    "concept_tag": "periodic table case based low ionisation energy and optical de-excitation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "82762852d6825347b1d9fe77be14e7ba5cc093782cf8303052595a48767287b9",
+    "question_skeleton": "case scenario a forensic scientist uses a platinum wire cleaned with concentrated hcl to perform flame tests on unknown white salts salt a gives a persistent golden yellow flame salt b gives a delicate lilac flame through blue cobalt glass salt c gives a brick red flame investigative question which fundamental electronic property of s block elements allows them to produce characteristic flame colors and which cations are present in a b and c choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_18_3c7425",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 18: Inert Pair Effect in Heavier p-Block Elements",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An inorganic chemist investigates the oxidation states of Group 14 elements: Carbon and Silicon form stable +4 compounds (CO₂, CCl₄, SiO₂), whereas Lead preferentially forms stable +2 compounds (PbO, PbCl₂) and its +4 compounds (PbO₂, PbCl₄) act as strong oxidising agents that readily revert to +2. **Investigative Question:** What periodic phenomenon causes the lower (+2) oxidation state to become increasingly stable over the group oxidation state (+4) in heavier elements like Lead? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lead has an odd atomic number that prevents forming four bonds."
+      },
+      {
+        "key": "B",
+        "text": "The 'inert pair effect', where the 6s² valence electrons are strongly attracted by the high effective nuclear charge (due to poor shielding by intervening 4f and 5d subshells) and remain unshared/reluctant to participate in bonding."
+      },
+      {
+        "key": "C",
+        "text": "Lead atoms lose two neutrons during chemical reactions."
+      },
+      {
+        "key": "D",
+        "text": "Carbon has vacant 6d orbitals that lead lacks."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In heavier p-block elements (Period 6: Tl, Pb, Bi), the valence s-electrons are preceded by 14 4f and 10 5d electrons, which have poor screening efficiency. The effective nuclear charge experienced by the outermost 6s² electrons is extraordinarily high, drawing them closer to the nucleus. Because bond energies decrease down the group, the energy released during bonding is insufficient to unpair and promote the 6s² electrons, rendering them chemically 'inert'.",
+    "concept_name": "Relativistic Contraction of s-Electrons in Post-Transition Elements",
+    "concept_tag": "periodic table case based relativistic contraction of s-electrons in post-transition elements",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "06953ce3b6e052841aca05d362a779eb430b1721dc613265b06232663547cd20",
+    "question_skeleton": "case scenario an inorganic chemist investigates the oxidation states of group 14 elements carbon and silicon form stable 4 compounds co ccl sio whereas lead preferentially forms stable 2 compounds pbo pbcl and its 4 compounds pbo pbcl act as strong oxidising agents that readily revert to 2 investigative question what periodic phenomenon causes the lower 2 oxidation state to become increasingly stable over the group oxidation state 4 in heavier elements like lead choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_19_fe3a98",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 19: Periodicity of Metallic Character Across Period 3",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** During a physics and chemistry interdisciplinary lecture, samples of Sodium, Magnesium, Aluminium, Silicon, Phosphorus, and Sulphur are tested for electrical resistivity at room temperature. Electrical resistivity is very low in Na, Mg, and Al, moderate in Si (exhibiting semiconductor characteristics with negative temperature coefficient), and extremely high in P and S. **Investigative Question:** How does the variation in ionisation potential across Period 3 correlate with this progressive transition from metallic conductors to semiconductors to insulators? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "High ionisation potential produces mobile free electrons in the solid state."
+      },
+      {
+        "key": "B",
+        "text": "Low ionisation potential in Na, Mg, and Al enables valence electrons to be easily released into a delocalised metallic electron sea; intermediate IP in Si creates covalent bonds with a small band gap; high IP in P and S holds electrons tightly in localised covalent bonds."
+      },
+      {
+        "key": "C",
+        "text": "Silicon conducts electricity only because it is contaminated with copper wires."
+      },
+      {
+        "key": "D",
+        "text": "Phosphorus and sulphur conduct electricity better than sodium when placed in a vacuum."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Metallic character is the tendency of an atom to lose electrons and form positive ions (electropositivity). Elements with low ionisation energy (Na, Mg, Al) readily release valence electrons to form a mobile 'electron gas' that conducts electricity. As IE increases across the period, electron loss becomes unfavorable. Silicon shares electrons to form a network lattice with an intermediate band gap (semiconductor). P and S have high IE, locking all electrons into localised covalent bonds (insulators).",
+    "concept_name": "Ionisation Potential and Sea of Delocalised Electrons",
+    "concept_tag": "periodic table case based ionisation potential and sea of delocalised electrons",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "cef960482c4e12a8d060fa028dd60fa99381b9d0956841b06680a283793024de",
+    "question_skeleton": "case scenario during a physics and chemistry interdisciplinary lecture samples of sodium magnesium aluminium silicon phosphorus and sulphur are tested for electrical resistivity at room temperature electrical resistivity is very low in na mg and al moderate in si exhibiting semiconductor characteristics with negative temperature coefficient and extremely high in p and s investigative question how does the variation in ionisation potential across period 3 correlate with this progressive transition from metallic conductors to semiconductors to insulators choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_20_99b41a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 20: Anomalous Properties of Second Period Elements",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical researcher observes that Lithium, Beryllium, Boron, Carbon, Nitrogen, Oxygen, and Fluorine (Period 2) exhibit anomalous physical and chemical behaviors compared to their heavier congeners in the same groups. For instance, Nitrogen is a diatomic gas (N≡N) while Phosphorus is a tetra-atomic solid (P₄); Carbon forms stable pπ-pπ multiple bonds (C=C, C≡C) while Silicon does not. **Investigative Question:** What combination of fundamental atomic features distinguishes Period 2 elements from all subsequent periods in their respective groups? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Period 2 elements have the largest atomic radii and highest number of neutron isotopes."
+      },
+      {
+        "key": "B",
+        "text": "Extremely small atomic size, high electronegativity, high ionisation energy, and the total absence of vacant d-orbitals in their valence shell (principal quantum number n=2 max covalency = 4)."
+      },
+      {
+        "key": "C",
+        "text": "Period 2 elements do not obey Hund's rule or Pauli's exclusion principle."
+      },
+      {
+        "key": "D",
+        "text": "All Period 2 elements are inert noble gases under standard conditions."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Period 2 elements have n=2, which possesses only 2s and 2p subshells (maximum 4 orbitals, enforcing a strict octet limit of covalency 4). They completely lack d-orbitals, meaning they cannot expand their octet (unlike PCl₅, SF₆). Furthermore, their compact size allows their 2p orbitals to overlap laterally with high efficiency, forming strong pπ-pπ multiple bonds (N₂, CO₂, alkenes). Heavier congeners have larger diffuse orbitals that form weak π-bonds.",
+    "concept_name": "Absence of d-Orbitals and Small Atomic Dimensions",
+    "concept_tag": "periodic table case based absence of d-orbitals and small atomic dimensions",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "39638765cc7c0c2f3813bfbbf59a3132c238a81ccb7186027387d760b6e4ed17",
+    "question_skeleton": "case scenario a chemical researcher observes that lithium beryllium boron carbon nitrogen oxygen and fluorine period 2 exhibit anomalous physical and chemical behaviors compared to their heavier congeners in the same groups for instance nitrogen is a diatomic gas n n while phosphorus is a tetra atomic solid p carbon forms stable p p multiple bonds c c c c while silicon does not investigative question what combination of fundamental atomic features distinguishes period 2 elements from all subsequent periods in their respective groups choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_21_758fad",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 21: Group 1 Reactivity with Liquid Water",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemistry teacher performs a demonstration behind a safety blast shield. Small pea-sized chunks of Lithium, Sodium, and Potassium are dropped into separate water troughs containing phenolphthalein. Lithium fizzes steadily and moves slowly; Sodium melts into a silvery ball that darts vigorously across the water with a yellow flame; Potassium instantly explodes into a bright lilac flame with violent splattering. **Investigative Question:** What periodic trend dictates this dramatic escalation in reactivity down Group 1 with water? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nuclear charge decreases down Group 1, making potassium atoms colder."
+      },
+      {
+        "key": "B",
+        "text": "Down Group 1, atomic radius increases and ionisation energy decreases significantly, enabling the metal to lose its valence electron more readily, coupled with a decreasing melting point that causes sodium and potassium to liquefy rapidly during the exothermic reaction."
+      },
+      {
+        "key": "C",
+        "text": "Potassium reacts by nuclear fission while lithium reacts by chemical oxidation."
+      },
+      {
+        "key": "D",
+        "text": "Lithium has zero valence electrons, so it cannot react with water dipoles."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The reaction is 2M(s) + 2H₂O(l) → 2M⁺(aq) + 2OH⁻(aq) + H₂(g). The ease of oxidation depends on low ionisation energy (Li: 520, Na: 496, K: 419 kJ/mol). Lower IE allows Potassium to transfer electrons to water much faster. The immense heat liberated cannot dissipate quickly; because Potassium has a very low melting point (63.5°C), it liquefies immediately, exposing maximal surface area and igniting the evolving H₂ gas with its characteristic potassium emission (lilac).",
+    "concept_name": "Ionisation Energy and Heat of Metal Atomisation",
+    "concept_tag": "periodic table case based ionisation energy and heat of metal atomisation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d6ecd86ef8a14435fcbde94f1620f46659dbd39ce2e2f2fe1ad744cf4d640fad",
+    "question_skeleton": "case scenario a chemistry teacher performs a demonstration behind a safety blast shield small pea sized chunks of lithium sodium and potassium are dropped into separate water troughs containing phenolphthalein lithium fizzes steadily and moves slowly sodium melts into a silvery ball that darts vigorously across the water with a yellow flame potassium instantly explodes into a bright lilac flame with violent splattering investigative question what periodic trend dictates this dramatic escalation in reactivity down group 1 with water choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_22_7f2740",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 22: Halogen Hydracid Strengths in Aqueous Solution",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an analytical laboratory, equal molar concentrations (0.1 M) of four hydrohalic acids: HF, HCl, HBr, and HI are tested with a precision pH meter. The measured pH values are: HF = 2.06 (weak acid, Ka = 6.6 × 10⁻⁴), HCl = 1.0 (strong acid), HBr = 1.0 (strong acid), and HI = 1.0 (strongest acid, pKa ≈ -10). **Investigative Question:** Why is Hydrofluoric acid (HF) a weak acid while Hydroiodic acid (HI) is an exceptionally strong acid, despite Fluorine being far more electronegative than Iodine? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fluorine is a metal that neutralizes acidic hydronium ions."
+      },
+      {
+        "key": "B",
+        "text": "Acid strength down Group 17 is governed by the H–X bond dissociation energy rather than electronegativity; the H–F bond is exceptionally short and strong (567 kJ/mol), resisting dissociation, while the H–I bond is long and very weak (298 kJ/mol), dissociating completely in water."
+      },
+      {
+        "key": "C",
+        "text": "Iodine atoms absorb water molecules to form solid crystals."
+      },
+      {
+        "key": "D",
+        "text": "HF contains no hydrogen ions in its molecular structure."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When comparing acids of elements in the same group of the periodic table, the bond dissociation enthalpy of the H–A bond is the overriding factor, not electronegativity. Down Group 17, halogen atomic radius increases rapidly (F: 72 pm to I: 133 pm), causing the orbital overlap with the small 1s orbital of hydrogen to become increasingly poor. The bond strength drops steeply (H-F: 567 > H-Cl: 431 > H-Br: 366 > H-I: 298 kJ/mol). HI readily cleaves to release H⁺ ions.",
+    "concept_name": "Bond Dissociation Energy vs Electronegativity in Acidic Trends",
+    "concept_tag": "periodic table case based bond dissociation energy vs electronegativity in acidic trends",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3724194ee3316f948803a92bb045da68d46884c6d2c7ac1e349213c547395f6e",
+    "question_skeleton": "case scenario in an analytical laboratory equal molar concentrations 0 1 m of four hydrohalic acids hf hcl hbr and hi are tested with a precision ph meter the measured ph values are hf 2 06 weak acid ka 6 6 10 hcl 1 0 strong acid hbr 1 0 strong acid and hi 1 0 strongest acid pka 10 investigative question why is hydrofluoric acid hf a weak acid while hydroiodic acid hi is an exceptionally strong acid despite fluorine being far more electronegative than iodine choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_23_7e3184",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 23: Lothar Meyer's Atomic Volume Curve",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In 1869, German chemist Lothar Meyer plotted the atomic volume of elements (atomic weight divided by solid-state density) against their atomic weights. The resulting periodic curve featured sharp periodic peaks, descending slopes, bottoms of troughs, and ascending slopes. **Investigative Question:** Which elements occupy the sharp peaks and which occupy the deep troughs of Lothar Meyer's atomic volume curve? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Noble gases occupy the peaks and halogens occupy the troughs."
+      },
+      {
+        "key": "B",
+        "text": "Alkali metals (Li, Na, K, Rb, Cs) occupy the sharp peaks due to their large atomic radii and open body-centered cubic structures; transition metals with high densities and tight packing occupy the deep troughs."
+      },
+      {
+        "key": "C",
+        "text": "Transition metals occupy the peaks and alkali metals occupy the troughs."
+      },
+      {
+        "key": "D",
+        "text": "Non-metals occupy the peaks and metalloids occupy the troughs."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Lothar Meyer showed that physical properties are periodic functions of atomic weights. Alkali metals (Group 1) have the largest atomic radii in their respective periods and crystallize in relatively open BCC lattices, giving them the highest molar volumes (sharp peaks). In contrast, transition metals (like Fe, Co, Ni, Pt) have small atomic radii and dense close-packed crystal structures, placing them at the bottom of the troughs.",
+    "concept_name": "Periodicity of Molar Volume and Physical Properties",
+    "concept_tag": "periodic table case based periodicity of molar volume and physical properties",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d0a81da8071f5691c5104a7518148313385c1c00a8cfaaddb62b49285b028556",
+    "question_skeleton": "case scenario in 1869 german chemist lothar meyer plotted the atomic volume of elements atomic weight divided by solid state density against their atomic weights the resulting periodic curve featured sharp periodic peaks descending slopes bottoms of troughs and ascending slopes investigative question which elements occupy the sharp peaks and which occupy the deep troughs of lothar meyer s atomic volume curve choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_24_c8a7e1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 24: Cation and Anion Size vs Neutral Parent Atom",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A crystallography lab measures the atomic and ionic radii of sodium and chlorine. Neutral Na atom is 186 pm, whereas Na⁺ cation is 102 pm. Neutral Cl atom is 99 pm, whereas Cl⁻ anion is 181 pm. **Investigative Question:** What electronic changes cause a cation to shrink and an anion to expand relative to their parent neutral atoms? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cations gain protons and anions lose protons."
+      },
+      {
+        "key": "B",
+        "text": "Forming a cation removes valence electrons (often losing an entire shell) and increases the effective nuclear charge per remaining electron; forming an anion adds electrons to the same shell, increasing electron-electron repulsion and expanding the cloud."
+      },
+      {
+        "key": "C",
+        "text": "Cations absorb dark matter while anions expel magnetic fields."
+      },
+      {
+        "key": "D",
+        "text": "Anions become lighter in weight, so they float outward."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When Na (2,8,1) loses an electron to become Na⁺ (2,8), it completely sheds its outermost n=3 shell. The remaining 10 electrons are drawn by 11 protons (Z/e = 1.1), contracting the radius from 186 to 102 pm. Conversely, Cl (2,8,7) gains an electron to form Cl⁻ (2,8,8); 17 protons now hold 18 electrons (Z/e = 0.94). The increased inter-electronic repulsions force the valence orbitals to expand outward, increasing the radius from 99 to 181 pm.",
+    "concept_name": "Effective Nuclear Charge in Cations and Anions",
+    "concept_tag": "periodic table case based effective nuclear charge in cations and anions",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "268732174b366ca231151587db9019a7a969aef5ec39a704df5d0bb8192f0c0c",
+    "question_skeleton": "case scenario a crystallography lab measures the atomic and ionic radii of sodium and chlorine neutral na atom is 186 pm whereas na cation is 102 pm neutral cl atom is 99 pm whereas cl anion is 181 pm investigative question what electronic changes cause a cation to shrink and an anion to expand relative to their parent neutral atoms choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_25_658074",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 25: Polarising Power and Fajan's Rules across Periods",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical thermodynamicist measures the melting points of Group 1 chlorides: LiCl (605°C), NaCl (801°C), KCl (770°C), and RbCl (715°C). While melting points normally decrease down a group as ionic radii expand, Lithium Chloride has an anomalously low melting point and is soluble in organic solvents like alcohol and pyridine. **Investigative Question:** According to Fajan's rules, why does Lithium Chloride exhibit pronounced covalent character compared to Sodium Chloride? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lithium is a non-metal that forms molecular compounds."
+      },
+      {
+        "key": "B",
+        "text": "Li⁺ has an exceptionally small ionic radius (76 pm), giving it a very high charge-to-radius ratio (polarising power) that heavily distorts the electron cloud of the Cl⁻ anion, introducing substantial covalent character."
+      },
+      {
+        "key": "C",
+        "text": "Chlorine shares a proton with the lithium nucleus."
+      },
+      {
+        "key": "D",
+        "text": "LiCl decomposes into lithium gas at room temperature."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to Fajan's rules: (1) Small cation size, (2) Large anion size, and (3) High ionic charge favor covalency. The tiny Li⁺ cation has a massive positive electric field gradient at its surface (high polarizing power). When it approaches the large polarizable Cl⁻ anion (radius 181 pm), it pulls the Cl⁻ electron cloud into the internuclear region between the ions. This partial electron sharing confers significant covalent character, lowering its melting point and enabling solubility in non-polar organic solvents.",
+    "concept_name": "Covalent Character in Metal Halides (LiCl vs NaCl)",
+    "concept_tag": "periodic table case based covalent character in metal halides (licl vs nacl)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f5fb2f9defaa4ddcc78678b85ca1a550f6fdf264fe80c2b87b820ba0fd87fc7b",
+    "question_skeleton": "case scenario a chemical thermodynamicist measures the melting points of group 1 chlorides licl 605 c nacl 801 c kcl 770 c and rbcl 715 c while melting points normally decrease down a group as ionic radii expand lithium chloride has an anomalously low melting point and is soluble in organic solvents like alcohol and pyridine investigative question according to fajan s rules why does lithium chloride exhibit pronounced covalent character compared to sodium chloride choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_26_8496c7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 26: Valency Across Period 3 with Oxygen vs Hydrogen",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A teacher presents a table showing the formulas of hydrides and highest oxides of Period 3 elements: Hydrides: NaH, MgH₂, AlH₃, SiH₄, PH₃, H₂S, HCl Highest Oxides: Na₂O, MgO, Al₂O₃, SiO₂, P₂O₅ (P₄O₁₀), SO₃, Cl₂O₇ **Investigative Question:** How does the valency of elements change across Period 3 with respect to hydrogen compared to oxygen? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Valency with respect to hydrogen increases 1 to 7; valency with respect to oxygen remains constant at 2."
+      },
+      {
+        "key": "B",
+        "text": "Valency with respect to hydrogen increases from 1 to 4 and then decreases to 1; valency with respect to oxygen increases steadily from 1 to 7."
+      },
+      {
+        "key": "C",
+        "text": "Both valencies remain constant at 8 across the entire period."
+      },
+      {
+        "key": "D",
+        "text": "Valency with respect to oxygen decreases from 7 to 1, while hydrogen valency remains zero."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Valency with respect to hydrogen represents the number of hydrogen atoms an element combines with. Because hydrogen is electropositive and monovalent, elements from Group 1 to 14 use their valence electrons (1, 2, 3, 4: NaH to SiH₄); from Group 15 to 17, elements share electrons to complete their octet (8 - group number: PH₃, H₂S, HCl: 3, 2, 1). With electronegative oxygen, elements can utilize all their valence electrons in bonding, so the oxidation state rises steadily from +1 to +7 (Na₂O to Cl₂O₇).",
+    "concept_name": "Variable Valence Trends Across Period 3",
+    "concept_tag": "periodic table case based variable valence trends across period 3",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "15b7e6e71114ce88805335bb89ea27f27a0418500157b083b4eaf264490bf6b5",
+    "question_skeleton": "case scenario a teacher presents a table showing the formulas of hydrides and highest oxides of period 3 elements hydrides nah mgh alh sih ph h s hcl highest oxides na o mgo al o sio p o p o so cl o investigative question how does the valency of elements change across period 3 with respect to hydrogen compared to oxygen choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_27_1573a8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 27: Chlorine Disproportionation in Cold vs Hot Alkali",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An industrial chemist bubbles chlorine gas into aqueous sodium hydroxide. Under cold, dilute conditions (15°C), the reaction yields Sodium Chloride and Sodium Hypochlorite (household bleach). Under hot, concentrated conditions (70°C), the reaction yields Sodium Chloride and Sodium Chlorate. **Investigative Question:** What are the oxidation states of Chlorine in the products formed under cold vs hot conditions, and what periodic property drives this disproportionation? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cold: -1 and +1; Hot: -1 and +5; driven by Chlorine's intermediate electronegativity and variable oxidation states (vacant d-orbitals)."
+      },
+      {
+        "key": "B",
+        "text": "Cold: 0 and -2; Hot: +2 and +7; driven by Chlorine's basic character."
+      },
+      {
+        "key": "C",
+        "text": "Cold: -3 and +3; Hot: 0 and +4; driven by Chlorine's metallic conductivity."
+      },
+      {
+        "key": "D",
+        "text": "Chlorine does not change its oxidation state in either reaction."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In cold dilute alkali: Cl₂ + 2NaOH → NaCl (-1) + NaClO (+1) + H₂O. Chlorine simultaneously undergoes reduction (0 to -1) and oxidation (0 to +1). In hot concentrated alkali: 3Cl₂ + 6NaOH → 5NaCl (-1) + NaClO₃ (+5) + 3H₂O. The hypochlorite ion (ClO⁻) is thermally unstable and disproportionates at elevated temperatures: 3ClO⁻ → 2Cl⁻ + ClO₃⁻. This behavior reflects chlorine's ability to exhibit multiple oxidation states (-1, +1, +3, +5, +7) utilizing vacant 3d orbitals.",
+    "concept_name": "Redox Potential and Halogen Disproportionation",
+    "concept_tag": "periodic table case based redox potential and halogen disproportionation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f60b17e9f90223076d1b673007436bc3361d8ca3493cf90d06e82b76c9007545",
+    "question_skeleton": "case scenario an industrial chemist bubbles chlorine gas into aqueous sodium hydroxide under cold dilute conditions 15 c the reaction yields sodium chloride and sodium hypochlorite household bleach under hot concentrated conditions 70 c the reaction yields sodium chloride and sodium chlorate investigative question what are the oxidation states of chlorine in the products formed under cold vs hot conditions and what periodic property drives this disproportionation choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_28_dac0ca",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 28: Thermal Stability of Group 2 Carbonates",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an analytical geochemistry furnace, equal molar amounts of Group 2 carbonates are heated to determine their decomposition temperatures: MgCO₃ decomposes at 540°C CaCO₃ decomposes at 900°C SrCO₃ decomposes at 1290°C BaCO₃ decomposes at 1360°C **Investigative Question:** Why does the thermal stability of alkaline earth metal carbonates increase so dramatically down Group 2? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Barium is radioactive and produces shielding heat."
+      },
+      {
+        "key": "B",
+        "text": "Down Group 2, cation radius increases (Mg²⁺: 72 pm to Ba²⁺: 135 pm), decreasing its polarizing power; smaller Mg²⁺ strongly polarizes and distorts the large CO₃²⁻ anion, weakening the C–O bond and facilitating decomposition into MgO and CO₂ at much lower temperatures."
+      },
+      {
+        "key": "C",
+        "text": "Carbon dioxide gas is heavier when released from magnesium carbonate."
+      },
+      {
+        "key": "D",
+        "text": "Calcium carbonate is an organic compound that does not contain metal ions."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The decomposition reaction is MCO₃(s) → MO(s) + CO₂(g). A carbonate ion (CO₃²⁻) is a large, polarizable oxyanion. A small cation with high charge density (Mg²⁺) exerts a strong polarizing pull on the electron cloud of an oxygen atom in the carbonate ion, drawing it toward itself and weakening the C–O bond. Down the group, as cation radius expands (Mg²⁺ < Ca²⁺ < Sr²⁺ < Ba²⁺), polarizing power weakens, leaving the carbonate lattice intact until much higher thermal energies.",
+    "concept_name": "Polarising Power and Thermal Decomposition Trends",
+    "concept_tag": "periodic table case based polarising power and thermal decomposition trends",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d5621e4129017db705dcdb8d10d42e2342f4185d41b065321eeee2be35f08472",
+    "question_skeleton": "case scenario in an analytical geochemistry furnace equal molar amounts of group 2 carbonates are heated to determine their decomposition temperatures mgco decomposes at 540 c caco decomposes at 900 c srco decomposes at 1290 c baco decomposes at 1360 c investigative question why does the thermal stability of alkaline earth metal carbonates increase so dramatically down group 2 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_29_84cf54",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 29: Acidic Nature of Period 3 Hydrides",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student examines the behavior of Period 3 hydrides in aqueous solution: SiH₄ is neutral and insoluble; PH₃ is very weakly basic (forms PH₄⁺ only with concentrated acids); H₂S is a weak diprotic acid (Ka₁ = 9.1 × 10⁻⁸); and HCl is a very strong monoprotic acid (Ka ≈ 10⁷). **Investigative Question:** What periodic trend explains the transition from neutral hydride (SiH₄) to weakly acidic (H₂S) to strong acid (HCl)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The number of hydrogen atoms decreases, so the acid becomes stronger."
+      },
+      {
+        "key": "B",
+        "text": "Across the period from Si to Cl, electronegativity increases sharply (Si: 1.9, P: 2.1, S: 2.5, Cl: 3.0), creating a strongly polarized H–X bond where electron density is drawn away from H, facilitating the release of H⁺ ions in water."
+      },
+      {
+        "key": "C",
+        "text": "Silicon hydride has more neutrons, which suppresses proton ionization."
+      },
+      {
+        "key": "D",
+        "text": "All hydrides across Period 3 are strong bases in liquid ammonia."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Across Period 3, non-metallic character and electronegativity increase from left to right. In SiH₄, electronegativities of Si (1.9) and H (2.1) are nearly identical, resulting in an essentially non-polar bond. In H₂S, S (2.5) polarizes the H-S bond, allowing weak dissociation in water. In HCl, Cl (3.0) is strongly electronegative, creating a highly polar covalent bond (Hδ+ - Clδ-) that completely dissociates into H₃O⁺ and Cl⁻ in water.",
+    "concept_name": "Electronegativity and Polar Covalent Cleavage",
+    "concept_tag": "periodic table case based electronegativity and polar covalent cleavage",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "588235c9c9376732fb0e71f1d2ad3fb3d8bbbcba6e3175993785a4011c3db7e8",
+    "question_skeleton": "case scenario a student examines the behavior of period 3 hydrides in aqueous solution sih is neutral and insoluble ph is very weakly basic forms ph only with concentrated acids h s is a weak diprotic acid ka 9 1 10 and hcl is a very strong monoprotic acid ka 10 investigative question what periodic trend explains the transition from neutral hydride sih to weakly acidic h s to strong acid hcl choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_30_aa3932",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 30: Position of Hydrogen in Modern Periodic Table",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an advanced chemistry debate, students discuss the placement of Hydrogen (atomic number 1). Student X argues that Hydrogen should be in Group 1 because it has one valence electron (1s¹) and forms H⁺ cations. Student Y argues that Hydrogen should be in Group 17 because it is a non-metal gas, exists as diatomic molecules (H₂), and gains one electron to form hydride anions (H⁻) with a noble gas helium configuration. **Investigative Question:** Why is hydrogen's position considered unique, and how does it differ fundamentally from Group 1 alkali metals? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrogen is a transition metal that forms colored complexes."
+      },
+      {
+        "key": "B",
+        "text": "Hydrogen resembles Group 1 in valency and forming H⁺, but unlike alkali metals, it is a non-metallic gas with an extremely high first ionisation energy (1312 kJ/mol vs Li: 520 kJ/mol) that shares electrons to form covalent bonds."
+      },
+      {
+        "key": "C",
+        "text": "Hydrogen has no nucleus and therefore cannot be classified in any group."
+      },
+      {
+        "key": "D",
+        "text": "Hydrogen belongs strictly to the noble gas Group 18 because it has a full outer shell."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Hydrogen has a unique electronic configuration (1s¹). Like alkali metals (Group 1), it has one valence electron, forms halides (HCl), oxides (H₂O), and loses an electron to form H⁺. Like halogens (Group 17), it requires one electron to achieve a noble gas configuration (He: 1s²), forms diatomic molecules (H₂), and forms ionic hydrides (NaH) containing H⁻. However, its ionisation energy (1312 kJ/mol) is vastly higher than any alkali metal, justifying its standalone placement.",
+    "concept_name": "Dual Resemblance to Alkali Metals and Halogens",
+    "concept_tag": "periodic table case based dual resemblance to alkali metals and halogens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "41c400c649abf46a7f3ec6968e2b4c0c96aff2b845ef1d839299ccc7a8fa0ae4",
+    "question_skeleton": "case scenario in an advanced chemistry debate students discuss the placement of hydrogen atomic number 1 student x argues that hydrogen should be in group 1 because it has one valence electron 1s and forms h cations student y argues that hydrogen should be in group 17 because it is a non metal gas exists as diatomic molecules h and gains one electron to form hydride anions h with a noble gas helium configuration investigative question why is hydrogen s position considered unique and how does it differ fundamentally from group 1 alkali metals choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_31_9d5e8c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 31: Second Electron Gain Enthalpy of Oxygen",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a thermochemical Born-Haber cycle calculation for Magnesium Oxide, a physical chemist records the successive electron gain enthalpies of Oxygen (Z = 8): O(g) + e⁻ → O⁻(g); ΔH_eg1 = -141 kJ/mol (exothermic) O⁻(g) + e⁻ → O²⁻(g); ΔH_eg2 = +780 kJ/mol (strongly endothermic) **Investigative Question:** Why is the second electron gain enthalpy of oxygen strongly positive (endothermic) despite the resulting O²⁻ ion achieving a stable noble gas neon octet? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The second electron must be added to a higher principal quantum shell (n=3)."
+      },
+      {
+        "key": "B",
+        "text": "The incoming electron is repelled by the net negative charge of the O⁻ monoanion; significant electrostatic work must be done to overcome this strong electron-electron repulsion."
+      },
+      {
+        "key": "C",
+        "text": "Oxygen loses a proton when forming the oxide ion."
+      },
+      {
+        "key": "D",
+        "text": "The neon octet is an unstable configuration that repels all electrons."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "While adding the first electron to a neutral oxygen atom is exothermic (energy released due to nuclear attraction), the second electron must be added to an already negatively charged ion (O⁻). The incoming negative electron experiences massive electrostatic repulsion from the existing electron cloud. Energy must be supplied from external surroundings to force the electron into the orbital, making ΔH_eg2 strongly positive (+780 kJ/mol).",
+    "concept_name": "Inter-electronic Repulsion in Dianion Formation",
+    "concept_tag": "periodic table case based inter-electronic repulsion in dianion formation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "04264932d85f09bac0f8bc6748b3417f476a7271103249bc26553f85856eb134",
+    "question_skeleton": "case scenario in a thermochemical born haber cycle calculation for magnesium oxide a physical chemist records the successive electron gain enthalpies of oxygen z 8 o g e o g h eg1 141 kj mol exothermic o g e o g h eg2 780 kj mol strongly endothermic investigative question why is the second electron gain enthalpy of oxygen strongly positive endothermic despite the resulting o ion achieving a stable noble gas neon octet choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_32_25585b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 32: Screening Effect and Effective Nuclear Charge ($Z_{eff}$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A theoretical chemist calculates the effective nuclear charge ($Z_$) experienced by the outermost valence electron in Sodium (Z = 11) and Chlorine (Z = 17). Both elements have electrons occupying the n = 3 principal shell. The calculated $Z_$ for Sodium is +2.2, whereas for Chlorine it is +6.1. **Investigative Question:** Why is the effective nuclear charge for Chlorine nearly three times greater than that of Sodium in the same period? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium has fewer core electrons than chlorine."
+      },
+      {
+        "key": "B",
+        "text": "Across Period 3, each successive proton added to the nucleus is matched by an electron in the SAME valence shell; electrons in the same shell do not shield each other effectively, so $Z_{eff}$ rises rapidly."
+      },
+      {
+        "key": "C",
+        "text": "Chlorine has a smaller mass number than sodium."
+      },
+      {
+        "key": "D",
+        "text": "The screening effect of inner shells increases by 100% at each step across the period."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Effective nuclear charge is given by $Z_{eff} = Z - sigma$, where $sigma$ is the screening constant. Both Na and Cl have identical 10-electron inner cores (1s² 2s² 2p⁶) providing the primary shielding. As we move from Na (Z=11) to Cl (Z=17), 6 protons are added to the nucleus while 6 electrons enter the same 3rd shell. Because electrons in the same principal energy level provide very poor mutual shielding, the nuclear charge outpaces screening, pulling the valence electrons much tighter.",
+    "concept_name": "Slater's Rules and Valence Electron Shielding",
+    "concept_tag": "periodic table case based slater's rules and valence electron shielding",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "76f245691fee0357fb8dd2889e0418e0ae22d9d8bee8935c7a5633d22ef6dbb6",
+    "question_skeleton": "case scenario a theoretical chemist calculates the effective nuclear charge z eff experienced by the outermost valence electron in sodium z 11 and chlorine z 17 both elements have electrons occupying the n 3 principal shell the calculated z eff for sodium is 2 2 whereas for chlorine it is 6 1 investigative question why is the effective nuclear charge for chlorine nearly three times greater than that of sodium in the same period choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_33_33153b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 33: Döbereiner's Triads and Atomic Weight Averages",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In 1829, German chemist Johann Wolfgang Döbereiner grouped elements into sets of three called 'Triads', where the atomic weight of the middle element was approximately equal to the arithmetic mean of the other two elements. For example, in the triad Calcium (40.1), Strontium (87.6), and Barium (137.3), the mean of Ca and Ba is (40.1 + 137.3)/2 = 88.7, which closely matches Strontium. **Investigative Question:** Which triad proposed by Döbereiner failed to establish a universal periodic system, and why was the concept abandoned? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrogen, Helium, Lithium; failed because helium was unknown."
+      },
+      {
+        "key": "B",
+        "text": "Döbereiner could only identify a few isolated triads (e.g., Li-Na-K, Ca-Sr-Ba, Cl-Br-I), while other elements with similar properties (such as Fe, Co, Ni or N, P, As) did not conform to the arithmetic mean rule."
+      },
+      {
+        "key": "C",
+        "text": "Triads were abandoned because atomic weight was proven to be a myth."
+      },
+      {
+        "key": "D",
+        "text": "All triads were proven to be radioactive elements that decomposed into lead."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Döbereiner's Law of Triads was an early attempt to classify elements by atomic weights and chemical properties. However, it was strictly limited to a handful of triads. For example, Nitrogen (14), Phosphorus (31), and Arsenic (75) share identical valencies and chemical behaviors, but the mean of N and As is (14 + 75)/2 = 44.5, which deviates wildly from Phosphorus (31). Hence, it could not serve as a universal classification.",
+    "concept_name": "Historical Development of Periodic Classification",
+    "concept_tag": "periodic table case based historical development of periodic classification",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7753246f16ef383911fff849bf9ab57bb7e85f23ad87b7d580f84f4d010e37a6",
+    "question_skeleton": "case scenario in 1829 german chemist johann wolfgang d bereiner grouped elements into sets of three called triads where the atomic weight of the middle element was approximately equal to the arithmetic mean of the other two elements for example in the triad calcium 40 1 strontium 87 6 and barium 137 3 the mean of ca and ba is 40 1 137 3 2 88 7 which closely matches strontium investigative question which triad proposed by d bereiner failed to establish a universal periodic system and why was the concept abandoned choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_34_8c985f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 34: Newlands' Law of Octaves and Its Failure",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In 1865, English chemist John Newlands arranged elements in increasing order of atomic weights and observed that every eighth element exhibited properties similar to the first, comparing this repetition to the octaves of musical notes (sa, re, ga, ma, pa, dha, ni, sa). **Investigative Question:** At which element did Newlands' Law of Octaves break down completely, and what major discovery later destroyed its 8-element periodicity cycle? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It broke down at Hydrogen; destroyed by discovery of isotopes."
+      },
+      {
+        "key": "B",
+        "text": "It broke down after Calcium (Z = 20) because the insertion of 10 d-block transition elements expanded the period to 18 elements; furthermore, the later discovery of noble gases (Group 18) altered the octave interval to 9."
+      },
+      {
+        "key": "C",
+        "text": "It broke down at Carbon; destroyed by discovery of diamond."
+      },
+      {
+        "key": "D",
+        "text": "It broke down at Uranium; destroyed by discovery of nuclear fission."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Newlands' Law of Octaves was valid only up to Calcium (mass 40). Beyond Calcium, the commencement of the 3d transition series meant that elements separated by 8 places no longer had similar properties (e.g., Chromium and Titanium showed no resemblance to Group 1 or 2). Moreover, Newlands assumed only 56 elements existed. When Ramsay later discovered the inert noble gases (He, Ne, Ar, Kr, Xe), every 9th element became similar, invalidating the octave analogy.",
+    "concept_name": "Periodicity Pattern and Musical Analogy",
+    "concept_tag": "periodic table case based periodicity pattern and musical analogy",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e3cb2d471ef1e7a29a0e2c15af1b258468ad0d7ea7cfbab9c559fb275566066f",
+    "question_skeleton": "case scenario in 1865 english chemist john newlands arranged elements in increasing order of atomic weights and observed that every eighth element exhibited properties similar to the first comparing this repetition to the octaves of musical notes sa re ga ma pa dha ni sa investigative question at which element did newlands law of octaves break down completely and what major discovery later destroyed its 8 element periodicity cycle choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_35_212663",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 35: Anomalous Atomic Weight Pairs in Mendeleev's Table",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Dmitri Mendeleev published his iconic periodic table in 1869, arranging elements primarily by increasing atomic weight. However, to keep elements with similar chemical properties in the same vertical group, Mendeleev boldly inverted the atomic weight order for several pairs: Cobalt (58.9) was placed before Nickel (58.7), Tellurium (127.6) was placed before Iodine (126.9), and Argon (39.9) was later placed before Potassium (39.1). **Investigative Question:** How did Henry Moseley's Modern Periodic Table mathematically vindicate Mendeleev's chemical placement of these anomalous pairs? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Moseley showed that atomic weights had been calculated incorrectly by 50%."
+      },
+      {
+        "key": "B",
+        "text": "Moseley proved that atomic number (Z), not atomic mass, determines periodicity; the true atomic numbers sequence correctly without any inversion: Co (27) before Ni (28), Te (52) before I (53), and Ar (18) before K (19)."
+      },
+      {
+        "key": "C",
+        "text": "Moseley converted all atomic masses into metric grams."
+      },
+      {
+        "key": "D",
+        "text": "Moseley showed that Cobalt radioactively transforms into Nickel."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Mendeleev prioritized chemical properties (e.g., grouping Iodine with halogens and Tellurium with Group 16) over strict atomic mass order. When Moseley measured characteristic X-ray frequencies, he proved that atomic number Z represents nuclear charge. The atomic numbers are: Argon (Z=18) < Potassium (Z=19); Cobalt (Z=27) < Nickel (Z=28); Tellurium (Z=52) < Iodine (Z=53). In terms of atomic number, the sequence is perfectly regular with zero inversions.",
+    "concept_name": "Inversion of Atomic Mass Sequence to Preserve Grouping",
+    "concept_tag": "periodic table case based inversion of atomic mass sequence to preserve grouping",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9adaa12ea45bf7c52e88691c8688cb3a44056b4420e3842f8015b80c09f0213d",
+    "question_skeleton": "case scenario dmitri mendeleev published his iconic periodic table in 1869 arranging elements primarily by increasing atomic weight however to keep elements with similar chemical properties in the same vertical group mendeleev boldly inverted the atomic weight order for several pairs cobalt 58 9 was placed before nickel 58 7 tellurium 127 6 was placed before iodine 126 9 and argon 39 9 was later placed before potassium 39 1 investigative question how did henry moseley s modern periodic table mathematically vindicate mendeleev s chemical placement of these anomalous pairs choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_36_87dd28",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 36: Metallic and Non-Metallic Character in Period 2 vs Group 17",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An advanced chemistry student tracks the metallic character across Period 2 (Li, Be, B, C, N, O, F) and down Group 17 (F, Cl, Br, I, At). Across Period 2, properties shift rapidly from soft, reactive alkali metal (Li) to corrosive non-metal gas (F₂). Down Group 17, dark solid Iodine exhibits a metallic luster and conducts electricity under pressure. **Investigative Question:** What is the dual periodic trend for metallic character across a period and down a group? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Metallic character increases across a period and increases down a group."
+      },
+      {
+        "key": "B",
+        "text": "Metallic character decreases across a period (left to right) and increases down a group (top to bottom)."
+      },
+      {
+        "key": "C",
+        "text": "Metallic character is constant across periods and drops to zero down groups."
+      },
+      {
+        "key": "D",
+        "text": "Metallic character increases across a period and decreases down a group."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Metallic character is the ease with which an atom loses electrons (electropositivity). Across a period, increasing nuclear charge and decreasing atomic size make electron loss difficult, reducing metallic character. Down a group, the addition of electron shells increases the atomic radius and shielding, weakening nuclear pull on valence electrons; hence ionisation energy drops and metallic character increases (e.g., Iodine shows metallic luster and forms I⁺ cations in molten ICl).",
+    "concept_name": "Electropositivity vs Electronegativity Gradients",
+    "concept_tag": "periodic table case based electropositivity vs electronegativity gradients",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b992e96a9b8b9ec6c2dd881e5e2973e3d1e254377f1857db639782f003ef4544",
+    "question_skeleton": "case scenario an advanced chemistry student tracks the metallic character across period 2 li be b c n o f and down group 17 f cl br i at across period 2 properties shift rapidly from soft reactive alkali metal li to corrosive non metal gas f down group 17 dark solid iodine exhibits a metallic luster and conducts electricity under pressure investigative question what is the dual periodic trend for metallic character across a period and down a group choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_37_3c545b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 37: Oxidising vs Reducing Power Across Period 3",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A laboratory technician investigates the redox capabilities of Sodium, Magnesium, Chlorine, and Argon. Sodium reacts vigorously with water, reducing H⁺ to H₂ gas. Chlorine bubbles through iron(II) chloride solution, rapidly oxidising Fe²⁺ to Fe³⁺. Argon exhibits zero redox activity. **Investigative Question:** Which statement accurately summarizes the periodic variation in oxidising and reducing power across Period 3? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Reducing power increases from left to right; oxidising power increases from right to left."
+      },
+      {
+        "key": "B",
+        "text": "Reducing power is strongest on the far left (alkali metals) and decreases across the period; oxidising power is strongest on the far right (halogens) and increases across the period."
+      },
+      {
+        "key": "C",
+        "text": "All elements across Period 3 are strong oxidising agents because they are non-metals."
+      },
+      {
+        "key": "D",
+        "text": "Noble gases on the far right are the strongest reducing agents in the periodic table."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A reducing agent donates electrons (undergoes oxidation). Elements with low ionisation potentials (Group 1: Na) readily donate electrons, making them potent reducing agents. Across the period, ionisation energy increases and electron affinity becomes more negative, making electron donation difficult and electron acceptance highly favorable. Halogens (Group 17: Cl) readily accept electrons, making them powerful oxidising agents. Noble gases (Group 18) are completely inert.",
+    "concept_name": "Electron Transfer Energetics Across Period 3",
+    "concept_tag": "periodic table case based electron transfer energetics across period 3",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b14744cccd831db02193bb4e3f36516e387d2f31392f911e5001d0397d06d2c6",
+    "question_skeleton": "case scenario a laboratory technician investigates the redox capabilities of sodium magnesium chlorine and argon sodium reacts vigorously with water reducing h to h gas chlorine bubbles through iron ii chloride solution rapidly oxidising fe to fe argon exhibits zero redox activity investigative question which statement accurately summarizes the periodic variation in oxidising and reducing power across period 3 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_38_13f719",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 38: Basic to Acidic Character of Period 3 Hydroxides",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A solution of Sodium Hydroxide (NaOH) has a pH of 13. A suspension of Magnesium Hydroxide (Mg(OH)₂) has a pH of 10. Aluminium Hydroxide (Al(OH)₃) dissolves in both HCl and NaOH. Orthosilicic acid (Si(OH)₄), Phosphoric acid (H₃PO₄ / P(O)(OH)₃), Sulphuric acid (H₂SO₄ / SO₂(OH)₂), and Perchloric acid (HClO₄ / ClO₃(OH)) are all acids of increasing strength. **Investigative Question:** What periodic mechanism governs whether an element-hydroxyl compound E–O–H dissociates as a base (E⁺ + OH⁻) or as an acid (EO⁻ + H⁺)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Compounds with higher molecular weight are always bases."
+      },
+      {
+        "key": "B",
+        "text": "If the electronegativity of element E is low (metals like Na, Mg), the E–O bond is ionic and cleaves to release OH⁻ (basic); if the electronegativity of E is high (non-metals like S, Cl), the E–O bond is strongly covalent, polarizing the O–H bond and causing it to cleave to release H⁺ (acidic)."
+      },
+      {
+        "key": "C",
+        "text": "Hydroxides of elements in Period 3 all release hydrogen gas when dissolved in water."
+      },
+      {
+        "key": "D",
+        "text": "The number of oxygen atoms determines whether a compound contains electrons."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In any hydroxy compound E–O–H, dissociation depends on the electronegativity difference. For electropositive metals (Na: 0.9, Mg: 1.2), ΔEN(E-O) is very large (~2.3 to 2.6), making the E-O bond ionic; water breaks the weak ionic E-O bond, yielding E⁺ + OH⁻ (base). For electronegative non-metals (Cl: 3.0), the E-O bond is covalent and strong, but the high positive charge density on E pulls electrons from oxygen, which in turn pulls electrons from hydrogen, weakening the O-H bond so that it cleaves to yield H⁺ (acid).",
+    "concept_name": "Electronegativity and O-H vs M-O Bond Cleavage",
+    "concept_tag": "periodic table case based electronegativity and o-h vs m-o bond cleavage",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5e24d09f8d12b7ad54d208e23d311639a57ddcdffb4a40bcd67cf1d3997e8d0d",
+    "question_skeleton": "case scenario a solution of sodium hydroxide naoh has a ph of 13 a suspension of magnesium hydroxide mg oh has a ph of 10 aluminium hydroxide al oh dissolves in both hcl and naoh orthosilicic acid si oh phosphoric acid h po p o oh sulphuric acid h so so oh and perchloric acid hclo clo oh are all acids of increasing strength investigative question what periodic mechanism governs whether an element hydroxyl compound e o h dissociates as a base e oh or as an acid eo h choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_39_197b32",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 39: Reactivity of Group 17 Halogens with Hydrogen",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physical chemistry researcher compares the reaction conditions required to synthesize hydrogen halides from elemental hydrogen and halogens: F₂ + H₂ → 2HF (reacts explosively even in the dark at -200°C) Cl₂ + H₂ → 2HCl (reacts explosively in direct sunlight, slowly in diffused light) Br₂ + H₂ → 2HBr (requires heating to 200°C in the presence of platinum catalyst) I₂ + H₂ ⇌ 2HI (reversible reaction, sluggish even at 400°C with platinum) **Investigative Question:** What periodic factor drives this rapid diminution in chemical reactivity of halogens toward hydrogen down Group 17? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Down the group, the molecular weight of the halogen increases, causing gravitational deceleration."
+      },
+      {
+        "key": "B",
+        "text": "Down the group, atomic radius increases and electronegativity/electron affinity decreases, lowering the driving force (free energy release) to form the H–X covalent bond as H–X bond enthalpy drops."
+      },
+      {
+        "key": "C",
+        "text": "Iodine molecules are larger than hydrogen molecules, so they cannot collide."
+      },
+      {
+        "key": "D",
+        "text": "Fluorine reacts explosively because it contains radioactive alpha particles."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Reactivity of halogens measures their tendency to act as oxidising agents by gaining an electron from hydrogen. Down Group 17, atomic radius increases (F to I), so effective nuclear attraction on incoming electrons drops. The heat of reaction (ΔH) decreases dramatically: H-F bond formation is extraordinarily exothermic (-271 kJ/mol) due to small atomic size and high orbital overlap, whereas H-I formation is slightly endothermic (+26.5 kJ/mol) and reversible due to long, fragile bonds.",
+    "concept_name": "Bond Enthalpy and Spontaneity of Halogenation",
+    "concept_tag": "periodic table case based bond enthalpy and spontaneity of halogenation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "daf1b8905b4f4534edc07cb4eb0a0c8c1746e131c612edfd97b504e4bb12cb7f",
+    "question_skeleton": "case scenario a physical chemistry researcher compares the reaction conditions required to synthesize hydrogen halides from elemental hydrogen and halogens f h 2hf reacts explosively even in the dark at 200 c cl h 2hcl reacts explosively in direct sunlight slowly in diffused light br h 2hbr requires heating to 200 c in the presence of platinum catalyst i h 2hi reversible reaction sluggish even at 400 c with platinum investigative question what periodic factor drives this rapid diminution in chemical reactivity of halogens toward hydrogen down group 17 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_40_296786",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 40: Atomic Radius Trend across Transition Series (3d)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A crystallographer measures the metallic atomic radii across the 3d transition series (Period 4): Scandium (162 pm), Titanium (147 pm), Vanadium (134 pm), Chromium (128 pm), Manganese (127 pm), Iron (126 pm), Cobalt (125 pm), Nickel (124 pm), Copper (128 pm), and Zinc (138 pm). The student notes that after an initial decrease, the radius remains virtually constant from Cr to Ni and then slightly increases at Cu and Zn. **Investigative Question:** Why does atomic radius remain nearly constant across the middle of the transition series unlike the sharp contraction observed across s- and p-blocks? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Transition elements do not possess atomic nuclei."
+      },
+      {
+        "key": "B",
+        "text": "Electrons are added to the penultimate inner (3d) subshell rather than the outer valence (4s) shell; the shielding provided by these intervening 3d electrons almost perfectly offsets the increasing nuclear charge, keeping effective nuclear charge on 4s nearly constant."
+      },
+      {
+        "key": "C",
+        "text": "Transition metals form crystal lattices that compress under laboratory gravity."
+      },
+      {
+        "key": "D",
+        "text": "Scandium and Zinc have the same number of valence electrons."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In main group elements, electrons enter the outermost valence shell where screening is minimal, causing sharp contractions. In transition elements, electrons enter the penultimate (n-1)d subshell (3d). These inner d-electrons shield the outer 4s electrons from the increasing positive nuclear charge. From Cr to Ni, the increasing nuclear attraction is almost exactly counterbalanced by the repulsive screening of the added 3d electrons, resulting in steady atomic radii (~125 pm).",
+    "concept_name": "Inward Nuclear Pull Balanced by d-Electron Shielding",
+    "concept_tag": "periodic table case based inward nuclear pull balanced by d-electron shielding",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c8079ad369979f3d2965e7750c30cf4d26ccc7c8c8a067a9073aee2e7a3b92d4",
+    "question_skeleton": "case scenario a crystallographer measures the metallic atomic radii across the 3d transition series period 4 scandium 162 pm titanium 147 pm vanadium 134 pm chromium 128 pm manganese 127 pm iron 126 pm cobalt 125 pm nickel 124 pm copper 128 pm and zinc 138 pm the student notes that after an initial decrease the radius remains virtually constant from cr to ni and then slightly increases at cu and zn investigative question why does atomic radius remain nearly constant across the middle of the transition series unlike the sharp contraction observed across s and p blocks choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_41_e33ae0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 41: Thermal Decomposition of Group 1 vs Group 2 Nitrates",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an ICSE chemistry laboratory, a student heats two white crystalline solids in separate hard glass test tubes: Tube 1 containing Sodium Nitrate (NaNO₃) melts and releases a colorless gas that relights a glowing splinter, leaving a pale yellow liquid residue of Sodium Nitrite (NaNO₂). Tube 2 containing Magnesium Nitrate (Mg(NO₃)₂) decrepitates, releasing pungent reddish-brown fumes of NO₂ gas and oxygen, leaving a white solid residue of Magnesium Oxide (MgO). **Investigative Question:** What periodic property explains why Sodium Nitrate decomposes only to nitrite and oxygen, while Magnesium Nitrate decomposes completely to metal oxide, nitrogen dioxide, and oxygen? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium is a transition metal that does not react with nitrogen."
+      },
+      {
+        "key": "B",
+        "text": "Mg²⁺ has a much higher charge-to-radius ratio (polarising power) than Na⁺; it heavily polarizes the nitrate anion, facilitating complete cleavage into the stable oxide lattice (MgO), whereas the weakly polarizing Na⁺ only cleaves the nitrate to nitrite (NaNO₂)."
+      },
+      {
+        "key": "C",
+        "text": "Magnesium nitrate is an organic compound that burns in air."
+      },
+      {
+        "key": "D",
+        "text": "Sodium nitrate contains zero oxygen atoms in its crystal structure."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Group 1 alkali metal nitrates (except LiNO₃) decompose mildly on heating: 2NaNO₃ → 2NaNO₂ + O₂. Na⁺ is a large univalent cation with low polarising power, incapable of destabilizing the nitrite backbone. Group 2 nitrates (and LiNO₃, due to diagonal relationship) contain small, highly charged divalent cations (Mg²⁺, radius 72 pm, charge +2). Mg²⁺ strongly polarizes the electron cloud of the nitrate ion, decomposing it completely: 2Mg(NO₃)₂ → 2MgO + 4NO₂↑ + O₂↑.",
+    "concept_name": "Polarising Power and Nitrate Decomposition Pathway",
+    "concept_tag": "periodic table case based polarising power and nitrate decomposition pathway",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "563b336559142a7efcc7a81e45d2fa2e8562d98faa54ea9b274649a86ea0ef99",
+    "question_skeleton": "case scenario in an icse chemistry laboratory a student heats two white crystalline solids in separate hard glass test tubes tube 1 containing sodium nitrate nano melts and releases a colorless gas that relights a glowing splinter leaving a pale yellow liquid residue of sodium nitrite nano tube 2 containing magnesium nitrate mg no decrepitates releasing pungent reddish brown fumes of no gas and oxygen leaving a white solid residue of magnesium oxide mgo investigative question what periodic property explains why sodium nitrate decomposes only to nitrite and oxygen while magnesium nitrate decomposes completely to metal oxide nitrogen dioxide and oxygen choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_42_112216",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 42: Periodic Variation of Acid Anhydride Strengths",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical chemist measures the acid dissociation constants (pKa) of oxoacids formed by chlorine in its various positive oxidation states: Hypochlorous acid (HClO, Cl = +1): pKa = 7.5 (very weak) Chlorous acid (HClO₂, Cl = +3): pKa = 2.0 (weak) Chloric acid (HClO₃, Cl = +5): pKa = -1.0 (strong) Perchloric acid (HClO₄, Cl = +7): pKa = -10 (extremely strong superacid) **Investigative Question:** What is the structural and periodic reason why the acidic strength of oxoacids increases so drastically with the oxidation state of the central halogen atom? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Chlorine gains protons in its nucleus as the oxidation number rises."
+      },
+      {
+        "key": "B",
+        "text": "A higher oxidation state increases the positive charge on chlorine, which pulls electron density strongly away from the attached oxygen atoms, heavily polarizing the O–H bond and stabilizing the resulting conjugate oxyanion through resonance delocalisation across multiple terminal oxygens."
+      },
+      {
+        "key": "C",
+        "text": "Perchloric acid contains ionic bonds that break instantly in cold air."
+      },
+      {
+        "key": "D",
+        "text": "Hypochlorous acid has a higher molecular weight than perchloric acid."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In oxoacids, hydrogen is bonded to oxygen (Cl-O-H). As the oxidation state of Cl increases from +1 to +7, the number of non-hydrogen-bearing terminal oxygen atoms increases from 0 in HClO to 3 in HClO₄ (written as ClO₃(OH)). Highly electronegative terminal oxygens draw electron density away from Cl, which in turn pulls electrons from the O-H bond, facilitating proton release. Furthermore, the conjugate base (ClO₄⁻) delocalises its negative charge symmetrically over four equivalent oxygen atoms.",
+    "concept_name": "Oxidation State and Acidic Strength of Oxoacids",
+    "concept_tag": "periodic table case based oxidation state and acidic strength of oxoacids",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "cb181a6f2a74e431c574cda2817735c27ede5b27c6a9e11a6899b0ca9a07e17a",
+    "question_skeleton": "case scenario an analytical chemist measures the acid dissociation constants pka of oxoacids formed by chlorine in its various positive oxidation states hypochlorous acid hclo cl 1 pka 7 5 very weak chlorous acid hclo cl 3 pka 2 0 weak chloric acid hclo cl 5 pka 1 0 strong perchloric acid hclo cl 7 pka 10 extremely strong superacid investigative question what is the structural and periodic reason why the acidic strength of oxoacids increases so drastically with the oxidation state of the central halogen atom choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_43_a85e74",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 43: Solubility Trends of Group 2 Sulphates",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a qualitative analysis experiment, solutions of magnesium sulphate, calcium sulphate, and barium sulphate are prepared. Magnesium sulphate (MgSO₄) dissolves readily in water to form a clear concentrated solution; Calcium sulphate (CaSO₄) is sparingly soluble; Barium sulphate (BaSO₄) is completely insoluble, precipitating instantly even at micromolar concentrations. **Investigative Question:** What thermodynamic competition between lattice energy and hydration enthalpy causes the solubility of Group 2 sulphates to decrease so sharply down the group? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Barium sulphate is an explosive compound that repels water molecules."
+      },
+      {
+        "key": "B",
+        "text": "The sulphate anion (SO₄²⁻) is very large, so lattice enthalpy remains nearly constant down the group; however, cation hydration enthalpy drops precipitously as cation size increases (Mg²⁺ to Ba²⁺), making dissolution thermodynamically unfavorable for heavier sulphates."
+      },
+      {
+        "key": "C",
+        "text": "Magnesium sulphate is a non-polar covalent liquid."
+      },
+      {
+        "key": "D",
+        "text": "Barium ions react with water to form insoluble elemental barium metal."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Solubility requires that hydration enthalpy exceeds lattice enthalpy (ΔH_sol = ΔH_lattice - ΔH_hyd < 0). The sulphate ion (SO₄²⁻) is bulky (radius ~230 pm), meaning the change in lattice energy from MgSO₄ to BaSO₄ is minimal. However, hydration enthalpy depends strongly on cation size (1/r). Tiny Mg²⁺ (72 pm) has an enormous hydration enthalpy (-1920 kJ/mol) that easily overcomes lattice energy. Bulky Ba²⁺ (135 pm) has a much smaller hydration enthalpy (-1305 kJ/mol), which cannot overcome the lattice enthalpy.",
+    "concept_name": "Hydration Enthalpy vs Lattice Energy in Group 2",
+    "concept_tag": "periodic table case based hydration enthalpy vs lattice energy in group 2",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "91cbb774395369520467e3a980d9c59866b898fc3827e5ecbc48eb7bd04e18ae",
+    "question_skeleton": "case scenario in a qualitative analysis experiment solutions of magnesium sulphate calcium sulphate and barium sulphate are prepared magnesium sulphate mgso dissolves readily in water to form a clear concentrated solution calcium sulphate caso is sparingly soluble barium sulphate baso is completely insoluble precipitating instantly even at micromolar concentrations investigative question what thermodynamic competition between lattice energy and hydration enthalpy causes the solubility of group 2 sulphates to decrease so sharply down the group choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_44_a2afc5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 44: Basicity of Group 1 Hydroxides down the Group",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrochemist titrates aqueous solutions of Lithium Hydroxide (LiOH), Sodium Hydroxide (NaOH), and Potassium Hydroxide (KOH) against standardized hydrochloric acid. The base dissociation constants (Kb) and electrical conductivities increase in the order: LiOH < NaOH < KOH < RbOH < CsOH. **Investigative Question:** Why does the basic strength of alkali metal hydroxides increase uniformly down Group 1? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cesium has fewer electrons than lithium, so it is more basic."
+      },
+      {
+        "key": "B",
+        "text": "Down Group 1, cation radius increases, which increases the M–OH bond distance and lowers lattice/bond dissociation energy, enabling the ionic hydroxide to dissociate completely and release free OH⁻ ions in solution."
+      },
+      {
+        "key": "C",
+        "text": "Potassium hydroxide absorbs hydrogen ions from the atmosphere."
+      },
+      {
+        "key": "D",
+        "text": "Lithium hydroxide is an organic acid that neutralizes alkali metals."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Basic strength in aqueous solution is measured by the concentration of free hydroxide ions (OH⁻) liberated. Group 1 hydroxides are ionic solids (M⁺ OH⁻). Down the group, the ionic radius of the metal increases (Li⁺: 76 pm to Cs⁺: 167 pm). The electrostatic attraction between M⁺ and OH⁻ weakens with increasing distance (Coulomb's Law: F ∝ 1/r²). Therefore, the M-OH bond dissociates with increasing ease in water, making CsOH the strongest base.",
+    "concept_name": "Ionic Bond Weakening and Hydroxide Ion Liberation",
+    "concept_tag": "periodic table case based ionic bond weakening and hydroxide ion liberation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9ff0afcaaab2e5574bbac376ff5a1184c75721f91d2e35f0290ee23f95ec7c68",
+    "question_skeleton": "case scenario an electrochemist titrates aqueous solutions of lithium hydroxide lioh sodium hydroxide naoh and potassium hydroxide koh against standardized hydrochloric acid the base dissociation constants kb and electrical conductivities increase in the order lioh naoh koh rboh csoh investigative question why does the basic strength of alkali metal hydroxides increase uniformly down group 1 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_45_ea3f77",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 45: Identification of Unknown Element via Successive Ionisation Energies",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physical chemistry researcher subjects gaseous atoms of an unknown main-group element 'X' to mass spectrometric photoionisation. The successive ionisation energies are determined in kJ/mol: IE₁ = 578 IE₂ = 1817 IE₃ = 2745 IE₄ = 11578 IE₅ = 14842 **Investigative Question:** To which group of the modern periodic table does element 'X' belong, and what is the formula of its stable chloride? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Group 1; XCl"
+      },
+      {
+        "key": "B",
+        "text": "Group 2; XCl₂"
+      },
+      {
+        "key": "C",
+        "text": "Group 13; XCl₃"
+      },
+      {
+        "key": "D",
+        "text": "Group 14; XCl₄"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Look at the energy jumps: IE₁ (578) → IE₂ (1817) → IE₃ (2745) increase steadily as electrons are removed from the valence shell. Between IE₃ (2745 kJ/mol) and IE₄ (11,578 kJ/mol), there is a massive jump of nearly 9000 kJ/mol (over 400%). This indicates that the 4th electron is removed from a stable noble-gas inner core. Therefore, element X possesses exactly 3 valence electrons, placing it in Group 13 (such as Aluminium). Its stable chloride is XCl₃.",
+    "concept_name": "Valence Shell Electronic Structure Determination",
+    "concept_tag": "periodic table case based valence shell electronic structure determination",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "fed04db52ffe9950e458ea02b42faf00ee7ce36319546b0679b9368072559e25",
+    "question_skeleton": "case scenario a physical chemistry researcher subjects gaseous atoms of an unknown main group element x to mass spectrometric photoionisation the successive ionisation energies are determined in kj mol ie 578 ie 1817 ie 2745 ie 11578 ie 14842 investigative question to which group of the modern periodic table does element x belong and what is the formula of its stable chloride choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_46_1b6d22",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 46: Reactivity of Halogens with Cold Non-Polar Solvents",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an organic chemistry laboratory, small quantities of elemental Fluorine, Chlorine, Bromine, and Iodine are dissolved in liquid carbon tetrachloride (CCl₄) in separate stoppered flasks. Fluorine and Chlorine are pale gases; Bromine dissolves to form an intense reddish-brown liquid; Iodine dissolves to give a magnificent violet solution. **Investigative Question:** What periodic trend dictates the physical states and intensifying colors of halogens at room temperature down Group 17? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Down Group 17, atomic number increases, causing elements to become radioactive liquids."
+      },
+      {
+        "key": "B",
+        "text": "Down Group 17, the number of electrons increases, expanding the polarisable electron cloud; this dramatically strengthens London dispersion forces (F₂ gas, Cl₂ gas, Br₂ liquid, I₂ solid) and narrows the HOMO-LUMO gap, shifting light absorption from UV into the visible spectrum."
+      },
+      {
+        "key": "C",
+        "text": "Iodine dissolves as a violet liquid because it forms an ionic bond with carbon tetrachloride."
+      },
+      {
+        "key": "D",
+        "text": "All halogens are solids when dissolved in organic solvents."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "All halogens exist as non-polar diatomic molecules (X₂). Down Group 17, atomic size and total electron count increase (F₂: 18 e⁻ to I₂: 106 e⁻). Larger electron clouds are easily distorted (higher polarisability), resulting in much stronger intermolecular London dispersion forces: F₂ and Cl₂ are gases, Br₂ is a liquid (b.p. 59°C), and I₂ is a solid (m.p. 114°C). Furthermore, excitation of valence electrons across the narrowing HOMO-LUMO gap absorbs longer wavelengths (higher complementary visible colors: yellow to violet).",
+    "concept_name": "Dispersion Forces and Color Gradients in Group 17",
+    "concept_tag": "periodic table case based dispersion forces and color gradients in group 17",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a1e72875f06668a69cb301afea67d61a92f4e1ea5a3ba263b30f935d4425d9b1",
+    "question_skeleton": "case scenario in an organic chemistry laboratory small quantities of elemental fluorine chlorine bromine and iodine are dissolved in liquid carbon tetrachloride ccl in separate stoppered flasks fluorine and chlorine are pale gases bromine dissolves to form an intense reddish brown liquid iodine dissolves to give a magnificent violet solution investigative question what periodic trend dictates the physical states and intensifying colors of halogens at room temperature down group 17 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_47_93d4b9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 47: Thermal Stability of Group 1 vs Group 2 Hydroxides",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a high-temperature chemistry furnace, samples of Sodium Hydroxide (NaOH) and Magnesium Hydroxide (Mg(OH)₂) are heated to 500°C. Magnesium hydroxide decomposes rapidly into white Magnesium Oxide (MgO) powder and steam. Sodium hydroxide melts at 318°C into a clear liquid without decomposing even when heated to red heat (800°C). **Investigative Question:** Why is Sodium Hydroxide thermally stable while Magnesium Hydroxide decomposes readily upon heating? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium is an inert noble gas that cannot lose water."
+      },
+      {
+        "key": "B",
+        "text": "Mg²⁺ has a small ionic radius and +2 charge, giving it a high charge density that polarizes the OH⁻ ion and promotes cleavage into the exceptionally stable MgO crystal lattice (very high lattice energy); Na⁺ has a +1 charge and lower charge density, making NaOH thermally resistant to decomposition."
+      },
+      {
+        "key": "C",
+        "text": "Magnesium hydroxide contains organic hydrogen bonds that evaporate at 100°C."
+      },
+      {
+        "key": "D",
+        "text": "Sodium hydroxide is an acid and therefore does not contain hydroxide ions."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Thermal decomposition of hydroxides follows: M(OH)₂ → MO + H₂O. The driving force is the formation of the metal oxide lattice. Mg²⁺ is small and divalent (charge +2), so the lattice energy of MgO (3791 kJ/mol) is colossal due to U ∝ (z+ · z-)/r. This massive lattice enthalpy easily compensates for breaking the Mg-OH bonds. In contrast, Na⁺ is univalent (+1); the lattice energy of Na₂O (2488 kJ/mol) is far lower, so NaOH simply melts into liquid NaOH without thermal decomposition.",
+    "concept_name": "Lattice Energies and Hydroxide Thermal Cleavage",
+    "concept_tag": "periodic table case based lattice energies and hydroxide thermal cleavage",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9a6673fc3046a31c59b650c4c174519e0f0c95444192b9bf1f828d1bf00aa08b",
+    "question_skeleton": "case scenario in a high temperature chemistry furnace samples of sodium hydroxide naoh and magnesium hydroxide mg oh are heated to 500 c magnesium hydroxide decomposes rapidly into white magnesium oxide mgo powder and steam sodium hydroxide melts at 318 c into a clear liquid without decomposing even when heated to red heat 800 c investigative question why is sodium hydroxide thermally stable while magnesium hydroxide decomposes readily upon heating choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_48_71f5c0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 48: Transition Metal Complex Formation vs Main Group Elements",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An inorganic research chemist mixes aqueous ammonia with magnesium sulphate and copper(II) sulphate. With Magnesium, only a temporary white precipitate of Mg(OH)₂ forms. With Copper, a pale blue precipitate forms initially, which dissolves in excess ammonia to produce an intensely deep inky-blue complex solution of [Cu(NH₃)₄]²⁺. **Investigative Question:** What fundamental electronic features of d-block transition elements enable them to readily form stable coordination complex ions, unlike s-block elements? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Transition metals have zero electrons in their valence shell."
+      },
+      {
+        "key": "B",
+        "text": "Transition metal cations have small ionic radii, high effective nuclear charge, and energetically accessible vacant (n-1)d orbitals that can accept lone pairs of electrons from ligand molecules."
+      },
+      {
+        "key": "C",
+        "text": "Magnesium is a radioactive element that repels ammonia molecules."
+      },
+      {
+        "key": "D",
+        "text": "Copper undergoes nuclear transmutation in ammonia solution."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Transition metals excel at forming coordination complexes because: (1) Their cations are relatively small with high nuclear charge density (e.g., Cu²⁺), allowing strong electrostatic attraction for electron-rich ligands. (2) They possess vacant (n-1)d, ns, and np orbitals of appropriate energies that can accept lone electron pairs donated by Lewis bases (ligands like NH₃, H₂O, CN⁻) to form stable coordinate covalent bonds (d²sp³ or sp³d² hybridisation).",
+    "concept_name": "Vacant d-Orbitals and High Nuclear Charge Density",
+    "concept_tag": "periodic table case based vacant d-orbitals and high nuclear charge density",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6f026e4120e83d0df051ba5487b6060613a8672725961c944cef932eabfa3df1",
+    "question_skeleton": "case scenario an inorganic research chemist mixes aqueous ammonia with magnesium sulphate and copper ii sulphate with magnesium only a temporary white precipitate of mg oh forms with copper a pale blue precipitate forms initially which dissolves in excess ammonia to produce an intensely deep inky blue complex solution of cu nh investigative question what fundamental electronic features of d block transition elements enable them to readily form stable coordination complex ions unlike s block elements choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_49_7119f3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 49: Environmental Toxicity Trends in the Periodic Table",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An environmental biochemist studies how toxic heavy metals like Lead (Pb²⁺), Cadmium (Cd²⁺), and Mercury (Hg²⁺) poison human enzymes. In cellular pathways, Lead displaces Calcium (Ca²⁺) in neural junctions, while Cadmium replaces Zinc (Zn²⁺) in metabolic metalloenzymes, causing irreversible protein malfunction. **Investigative Question:** Based on periodic properties, why do heavy p-block and d-block cations successfully displace essential lighter biological ions like Ca²⁺ and Zn²⁺ in human physiology? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Heavy metals have lower atomic weights than calcium and zinc."
+      },
+      {
+        "key": "B",
+        "text": "Heavy metal ions have similar ionic radii and charges to essential ions (Pb²⁺ ≈ Ca²⁺, Cd²⁺ ≈ Zn²⁺), allowing them to occupy the enzyme's binding pocket, but their higher polarisability and soft Lewis acid character form irreversible, permanent covalent bonds with protein thiol (-SH) groups."
+      },
+      {
+        "key": "C",
+        "text": "Heavy metals are radioactive isotopes that destroy all water molecules in blood."
+      },
+      {
+        "key": "D",
+        "text": "Lead and cadmium are alkali metals that dissolve bones."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Biochemical mimicry occurs because Pb²⁺ (ionic radius ~119 pm) is very close in size to Ca²⁺ (100 pm), and Cd²⁺ (95 pm) matches Zn²⁺ (74 pm). The cell's enzyme receptor sites recognize the size and charge (+2). However, while Ca²⁺ and Zn²⁺ form labile, reversible electrostatic bonds, heavy metals have high polarising power and soft Lewis acid character, forming exceptionally strong, permanent covalent bonds with active-site cysteine sulphur atoms (-SH), permanently inactivating the enzyme.",
+    "concept_name": "Heavy Metal Substitution and Chemical Periodicity",
+    "concept_tag": "periodic table case based heavy metal substitution and chemical periodicity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "11ffed73127fd416ce6dfdbc7fc6850ec7000030c6f898c334e69fbf6b7abf70",
+    "question_skeleton": "case scenario an environmental biochemist studies how toxic heavy metals like lead pb cadmium cd and mercury hg poison human enzymes in cellular pathways lead displaces calcium ca in neural junctions while cadmium replaces zinc zn in metabolic metalloenzymes causing irreversible protein malfunction investigative question based on periodic properties why do heavy p block and d block cations successfully displace essential lighter biological ions like ca and zn in human physiology choose the correct option"
+  },
+  {
+    "globalId": "qb_case_periodic_table_50_d610be",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Periodic Table",
+    "title": "Case Study 50: Covalent vs Ionic Character of Metal Chlorides Across Period 3",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student investigates the physical properties of Period 3 chlorides in anhydrous state: NaCl: crystalline solid, m.p. 801°C, conducts electricity in molten state MgCl₂: crystalline solid, m.p. 714°C, conducts electricity in molten state AlCl₃: volatile solid, sublimes at 180°C, does not conduct electricity in molten state, soluble in organic benzene SiCl₄: volatile liquid, b.p. 57°C, non-conductor of electricity **Investigative Question:** What periodic trend explains the sharp transition from high-melting ionic conductors (NaCl, MgCl₂) to volatile covalent non-conductors (AlCl₃, SiCl₄)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The number of chlorine atoms decreases from left to right."
+      },
+      {
+        "key": "B",
+        "text": "Across Period 3, metal electronegativity increases (Na: 0.9 to Si: 1.9), drastically narrowing the electronegativity difference with Chlorine (3.0); simultaneously, cation charge increases and radius shrinks (Al³⁺, Si⁴⁺), maximizing polarising power and transforming ionic bonding into covalent bonding."
+      },
+      {
+        "key": "C",
+        "text": "Silicon tetrachloride is a metallic alloy that boils at low temperature."
+      },
+      {
+        "key": "D",
+        "text": "Sodium chloride contains covalent bonds that strengthen when heated."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Bond character depends on electronegativity difference (ΔEN) and cation polarising power. For NaCl, ΔEN = 3.0 - 0.9 = 2.1 (predominantly ionic lattice). For MgCl₂, ΔEN = 1.8 (ionic). For AlCl₃, ΔEN = 1.4; furthermore, Al³⁺ is a tiny trication with immense polarising power that completely pulls the electron clouds of the three Cl⁻ ions into shared covalent bonds (AlCl₃ exists as covalent Al₂Cl₆ dimers). For SiCl₄, ΔEN = 1.1, yielding discrete tetrahedral non-polar covalent molecules.",
+    "concept_name": "Electronegativity Differences and Fajan's Rules",
+    "concept_tag": "periodic table case based electronegativity differences and fajan's rules",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0a12682fc25dcc3b589f8d65d2daf94f387769064aaa1f95397f1e81304359b3",
+    "question_skeleton": "case scenario a student investigates the physical properties of period 3 chlorides in anhydrous state nacl crystalline solid m p 801 c conducts electricity in molten state mgcl crystalline solid m p 714 c conducts electricity in molten state alcl volatile solid sublimes at 180 c does not conduct electricity in molten state soluble in organic benzene sicl volatile liquid b p 57 c non conductor of electricity investigative question what periodic trend explains the sharp transition from high melting ionic conductors nacl mgcl to volatile covalent non conductors alcl sicl choose the correct option"
+  }
+]

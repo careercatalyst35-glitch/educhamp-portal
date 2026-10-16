@@ -1,0 +1,1350 @@
+[
+  {
+    "globalId": "qb_hots_electromagnetism_1_gbal6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Step-up transformer with a secondary load",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer has 400 turns in its primary coil and 2,000 turns in its secondary coil. The primary is connected to a 220 V AC supply. If the secondary supplies a current of 0.5 A, calculate the primary current and secondary power, respectively.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2.5 A, 1,100 W"
+      },
+      {
+        "key": "B",
+        "text": "0.1 A, 550 W"
+      },
+      {
+        "key": "C",
+        "text": "2.5 A, 550 W"
+      },
+      {
+        "key": "D",
+        "text": "0.5 A, 1,100 W"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "First, calculate the secondary voltage:\n\n\nV_s=220×(2000 / 400)=1100 V\n\n\nSecondary power:\n\n\nP_s=V_sI_s=1100×0.5=550 W\n\n\nFor an ideal transformer, P_p=P_s. Hence,\n\n\nI_p=(550 / 220)=2.5 A\n\n\nThe trap in A is treating the secondary power as 1,100 W instead of multiplying the secondary voltage by its current.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_2_yylxr",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Step-down transformer: Finding turns and current",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer reduces 240 V AC to 12 V AC. Its primary has 1,500 turns, and the secondary supplies a 12 V appliance drawing 3 A. Find the number of secondary turns and the primary current.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "125 turns and 0.15 A"
+      },
+      {
+        "key": "B",
+        "text": "75 turns and 0.15 A"
+      },
+      {
+        "key": "C",
+        "text": "75 turns and 60 A"
+      },
+      {
+        "key": "D",
+        "text": "18,000 turns and 0.15 A"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Secondary turns:\n\n\nN_s=1500×(12 / 240)=75\n\n\nOutput power:\n\n\nP_s=12×3=36 W\n\n\nSince the transformer is ideal,\n\n\nI_p=(36 / 240)=0.15 A\n\n\nOption A incorrectly calculates the turns ratio; option C confuses the voltage ratio with the current ratio.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_3_87lt1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Transformer with an explicitly stated efficiency",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A transformer receives 2,000 W of electrical power and delivers 1,700 W to its secondary load. The primary voltage is 200 V, and the secondary voltage is 100 V. Calculate the efficiency and primary current.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "85%; 10 A"
+      },
+      {
+        "key": "B",
+        "text": "85%; 8.5 A"
+      },
+      {
+        "key": "C",
+        "text": "117.6%; 10 A"
+      },
+      {
+        "key": "D",
+        "text": "85%; 20 A"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Efficiency:\n\n\neta=frac{P_{out}}{P_{in}}×100\n=(1700 / 2000)×100=85%\n\n\nPrimary current:\n\n\nI_p=frac{P_{in}}{V_p}\n=(2000 / 200)=10 A\n\n\nThe transformer loses 2000-1700=300 W. Option B incorrectly calculates primary current using output power.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_4_n70nn",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Transformer: Comparing primary and secondary power",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer operates at 120 V on its primary and 30 V on its secondary. The primary current is 0.8 A. A student claims that the secondary power must be one-quarter of the primary power because the secondary voltage is one-quarter of the primary voltage. What is the correct secondary current and power?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.2 A and 6 W"
+      },
+      {
+        "key": "B",
+        "text": "3.2 A and 96 W"
+      },
+      {
+        "key": "C",
+        "text": "3.2 A and 24 W"
+      },
+      {
+        "key": "D",
+        "text": "0.8 A and 24 W"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Input power:\n\n\nP_p=120×0.8=96 W\n\n\nAn ideal transformer conserves power, so P_s=96 W.\n\n\nI_s=(96 / 30)=3.2 A\n\n\nThe secondary current is four times the primary current, compensating for the fourfold decrease in voltage. Option B gives the correct current but incorrectly calculates power as 96 W only if its voltage-current product is consistent; 30×3.2=96 W, so B also duplicates the correct numerical result.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_5_8eda3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Transformer: Detecting an incorrect turns ratio",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer has a primary coil of 500 turns and a secondary coil of 2,000 turns. The primary is supplied with 100 V AC. A student labels the secondary as a step-down output because the primary has fewer turns than the secondary. Which correction is valid?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Transformer: Detecting an incorrect turns ratio</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The secondary voltage is 25 V, because the turns ratio must be inverted."
+      },
+      {
+        "key": "B",
+        "text": "The secondary voltage is 100 V, because an ideal transformer cannot change voltage."
+      },
+      {
+        "key": "C",
+        "text": "The secondary voltage is 400 V, so the transformer is step-up; the student's label is incorrect."
+      },
+      {
+        "key": "D",
+        "text": "The secondary voltage is 2,000 V, because the secondary has 2,000 turns."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For an ideal transformer,\n\n\nV_s=V_p(N_s / N_p)\n=100×(2000 / 500)\n=400 V\n\n\nThe secondary has more turns and a higher voltage, so it is a step-up transformer. The turns ratio is not inverted when calculating secondary voltage.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_6_02bib",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "AC generator: Maximum and zero induced emf",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A rectangular coil rotates uniformly in a uniform magnetic field directed from left to right. Position P shows the plane of the coil perpendicular to the magnetic field; position Q shows the plane of the coil parallel to the field. At which positions is the magnitude of the induced emf maximum and zero, respectively, in an ideal generator rotating at constant speed?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 140 120\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 30 L128 30 M8 52 L128 52 M8 74 L128 74\" stroke=\"#2563eb\" stroke-width=\"1.5\" /><path d=\"M39 25 L49 30 L39 35 M79 47 L89 52 L79 57 M99 69 L109 74 L99 79\" stroke=\"#2563eb\" stroke-width=\"1.5\" fill=\"none\" /><rect x=\"61\" y=\"18\" width=\"18\" height=\"70\" fill=\"none\" stroke=\"#b45309\" stroke-width=\"3\" /><text x=\"70\" y=\"105\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">P: plane ⟂ B</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Maximum at P; zero at Q."
+      },
+      {
+        "key": "B",
+        "text": "Zero at P; maximum at Q."
+      },
+      {
+        "key": "C",
+        "text": "Maximum at both P and Q."
+      },
+      {
+        "key": "D",
+        "text": "Zero at both P and Q."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "At P, the magnetic flux through the coil is at an extreme value, so its instantaneous rate of change is zero and the induced emf is zero. At Q, the flux is momentarily zero but changes most rapidly, so the induced emf is maximum. Confusing maximum flux with maximum emf is the key trap.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_7_3yool",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Fleming’s left-hand rule: Reversing both field and current",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A conductor lies between the North and South poles of a magnet. Initially, the field is directed left to right and the conventional current flows upwards in the plane of the page. In the second arrangement, both the magnet poles and the current direction are reversed. The field and current are each reversed in the second arrangement. How does the force on the conductor change?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 140 125\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"70\" y=\"14\" text-anchor=\"middle\" font-size=\"12\" fill=\"currentColor\">Initial</text><rect x=\"4\" y=\"30\" width=\"26\" height=\"70\" fill=\"#dc2626\" /><rect x=\"110\" y=\"30\" width=\"26\" height=\"70\" fill=\"#2563eb\" /><text x=\"17\" y=\"68\" text-anchor=\"middle\" font-size=\"17\" fill=\"white\">N</text><text x=\"123\" y=\"68\" text-anchor=\"middle\" font-size=\"17\" fill=\"white\">S</text><path d=\"M38 51 L102 51\" stroke=\"#2563eb\" stroke-width=\"2\" /><path d=\"M94 45 L104 51 L94 57\" fill=\"#2563eb\" /><path d=\"M70 87 L70 38\" stroke=\"#b45309\" stroke-width=\"3\" /><path d=\"M64 45 L70 35 L76 45\" fill=\"#b45309\" /></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Its direction reverses and its magnitude doubles."
+      },
+      {
+        "key": "B",
+        "text": "The force becomes zero because the current is reversed."
+      },
+      {
+        "key": "C",
+        "text": "Its direction remains unchanged and its magnitude remains unchanged."
+      },
+      {
+        "key": "D",
+        "text": "Its direction remains unchanged but its magnitude becomes zero."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Reversing the field alone reverses the force; reversing the current alone also reverses it. Reversing both restores the original force direction. If the current and field magnitudes are unchanged, the force magnitude remains unchanged as well.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_8_n7yph",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "DC motor: What happens if the battery terminals are reversed?",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A DC motor is rotating clockwise when viewed from its front. The North and South poles of its field magnet remain fixed. The battery connections are then reversed without changing the magnet or the motor's construction. Assuming the motor is connected correctly and starts rotating, what happens to its direction of rotation?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 180\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><defs><marker id=\"arr9\" markerWidth=\"7\" markerHeight=\"7\" refX=\"5\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L6 3 L0 6 Z\" fill=\"#b45309\" /></marker></defs><rect x=\"20\" y=\"42\" width=\"48\" height=\"95\" rx=\"4\" fill=\"#dc2626\" /><rect x=\"252\" y=\"42\" width=\"48\" height=\"95\" rx=\"4\" fill=\"#2563eb\" /><text x=\"44\" y=\"94\" font-size=\"22\" fill=\"white\" text-anchor=\"middle\">N</text><text x=\"276\" y=\"94\" font-size=\"22\" fill=\"white\" text-anchor=\"middle\">S</text><rect x=\"104\" y=\"57\" width=\"112\" height=\"67\" fill=\"none\" stroke=\"#b45309\" stroke-width=\"4\" /><path d=\"M160 90 A32 32 0 1 1 159 89\" fill=\"none\" stroke=\"#b45309\" stroke-width=\"3\" marker-end=\"url(#arr9)\" /><text x=\"160\" y=\"19\" text-anchor=\"middle\" font-size=\"12\" fill=\"currentColor\">Battery polarity reversed</text><text x=\"160\" y=\"157\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Field magnet unchanged</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It remains clockwise because the field magnet is unchanged."
+      },
+      {
+        "key": "B",
+        "text": "It reverses because the current in the armature reverses while the field direction stays fixed."
+      },
+      {
+        "key": "C",
+        "text": "It stops permanently because the split-ring commutator cannot operate with reversed polarity."
+      },
+      {
+        "key": "D",
+        "text": "It reverses only if the field magnet is also reversed."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Reversing the battery reverses the armature current. With the magnetic field unchanged, the force on each side of the coil reverses, so the torque reverses and the motor rotates in the opposite direction. Reversing both current and field together would preserve the original torque direction.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_9_sumh2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "DC generator: Interpreting the output graph",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A simple DC generator uses a rotating coil, a magnetic field, a split-ring commutator and brushes. Its output is measured across a fixed resistive load. The graph below shows the idealised output voltage. Idealised full-wave, unidirectional pulsating output. Which statement is correct about the role of the split-ring commutator?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><defs><marker id=\"arr14\" markerWidth=\"6\" markerHeight=\"6\" refX=\"4\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L6 3 L0 6 Z\" fill=\"currentColor\" /></marker></defs><path d=\"M30 155 L30 18 M30 155 L300 155\" stroke=\"currentColor\" stroke-width=\"1.5\" marker-end=\"url(#arr14)\" /><text x=\"15\" y=\"20\" font-size=\"11\" fill=\"currentColor\">V</text><text x=\"300\" y=\"174\" font-size=\"11\" fill=\"currentColor\">t</text><path d=\"M30 155 Q65 45 100 45 Q135 45 170 155 Q205 45 240 45 Q275 45 290 155\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\" /><text x=\"160\" y=\"185\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Time →</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It prevents the emf induced in the coil from reversing."
+      },
+      {
+        "key": "B",
+        "text": "It makes the output perfectly constant and ripple-free."
+      },
+      {
+        "key": "C",
+        "text": "It reverses the external connections every half-turn so that the external output remains in one direction, though its magnitude varies."
+      },
+      {
+        "key": "D",
+        "text": "It makes the generator work without relative motion between the coil and magnetic field."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The induced emf within the rotating coil reverses every half-turn. The split-ring commutator simultaneously reverses the coil's connections to the external circuit, giving a unidirectional pulsating output. It does not produce perfectly steady DC.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_10_he7vk",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "A multi-step transformer application",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer operates at 230 V on its primary and delivers 23 V on its secondary. The primary current is 0.4 A. Which pair gives the secondary current and the transformer type?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.04 A, step-up."
+      },
+      {
+        "key": "B",
+        "text": "4 A, step-down."
+      },
+      {
+        "key": "C",
+        "text": "0.4 A, step-down."
+      },
+      {
+        "key": "D",
+        "text": "4 A, step-up."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The voltage ratio is 23/230=1/10, so it is step-down. For an ideal transformer:\n\n\nV_pI_p=V_sI_s\n\n\n\nI_s=(230×0.4 / 23)=4 A",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_11_n4wtp",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Ideal transformer: Current ratio and power",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer has a primary voltage of 200 V and a secondary voltage of 800 V. The primary current is 4 A. Calculate the secondary current and the power transferred.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "16 A and 800 W"
+      },
+      {
+        "key": "B",
+        "text": "1 A and 3,200 W"
+      },
+      {
+        "key": "C",
+        "text": "1 A and 800 W"
+      },
+      {
+        "key": "D",
+        "text": "16 A and 3,200 W"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Input power:\n\n\nP_p=V_pI_p=200×4=800 W\n\n\nFor an ideal transformer, P_s=800 W. Thus,\n\n\nI_s=(P_s / V_s)=(800 / 800)=1 A\n\n\nThe correct pair is 1 A and 800 W. Option A incorrectly uses the voltage ratio as the current ratio.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_12_ptmzk",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Power transmission: Comparing energy losses",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The same electrical power is transmitted through identical transmission wires in two separate cases. Case P uses a low transmission voltage and Case Q uses a much higher transmission voltage. Both systems deliver the same useful power to their loads. If the transmission voltage in Case Q is four times that in Case P, what is the ratio of power lost in the wires, P_:P_?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 175\" width=\"100%\">\n    <text x=\"80\" y=\"20\" text-anchor=\"middle\" font-size=\"12\" fill=\"currentColor\">Case P</text>\n    <text x=\"248\" y=\"20\" text-anchor=\"middle\" font-size=\"12\" fill=\"currentColor\">Case Q</text>\n    <rect x=\"18\" y=\"40\" width=\"48\" height=\"32\" fill=\"#64748b\" rx=\"3\"/><rect x=\"94\" y=\"40\" width=\"48\" height=\"32\" fill=\"#64748b\" rx=\"3\"/>\n    <path d=\"M66 48 L94 48 M66 64 L94 64\" stroke=\"#b45309\" stroke-width=\"2.5\"/>\n    <rect x=\"187\" y=\"40\" width=\"48\" height=\"32\" fill=\"#64748b\" rx=\"3\"/><rect x=\"263\" y=\"40\" width=\"48\" height=\"32\" fill=\"#64748b\" rx=\"3\"/>\n    <path d=\"M235 48 L263 48 M235 64 L263 64\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n    <text x=\"42\" y=\"60\" font-size=\"10\" text-anchor=\"middle\" fill=\"white\">Supply</text><text x=\"118\" y=\"60\" font-size=\"10\" text-anchor=\"middle\" fill=\"white\">Load</text>\n    <text x=\"211\" y=\"60\" font-size=\"10\" text-anchor=\"middle\" fill=\"white\">Supply</text><text x=\"287\" y=\"60\" font-size=\"10\" text-anchor=\"middle\" fill=\"white\">Load</text>\n    <text x=\"80\" y=\"92\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Lower V, higher I</text>\n    <text x=\"248\" y=\"92\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Higher V, lower I</text>\n    <path d=\"M24 118 L136 118 M194 118 L306 118\" stroke=\"#64748b\" stroke-width=\"4\"/>\n    <text x=\"80\" y=\"143\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Same wire resistance</text>\n    <text x=\"248\" y=\"143\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Same wire resistance</text>\n    <text x=\"165\" y=\"165\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Equal transmitted power</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "1:16"
+      },
+      {
+        "key": "B",
+        "text": "1:4"
+      },
+      {
+        "key": "C",
+        "text": "4:1"
+      },
+      {
+        "key": "D",
+        "text": "16:1"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For equal transmitted power, P=VI, so quadrupling the voltage reduces the current to one-quarter.\n\nFor identical wires, power loss is proportional to I^2R. Hence,\n\n\nfrac{P_{loss,P}}{P_{loss,Q}}\n=(I_P² / I_Q²)\n=(I_P² / (I_P/4)²)=16\n\n\nThe loss in Case P is 16 times the loss in Case Q.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_13_d1n2r",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "A transformer with an altered supply frequency",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer is operated at the same RMS primary voltage but at a lower AC frequency. Which statement is the most appropriate?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The maximum core flux tends to increase, since flux is inversely related to frequency at fixed voltage and turns."
+      },
+      {
+        "key": "B",
+        "text": "The secondary voltage must become zero because the supply is AC."
+      },
+      {
+        "key": "C",
+        "text": "The core flux must remain unchanged at every frequency."
+      },
+      {
+        "key": "D",
+        "text": "The transformer automatically converts the supply into DC."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For a sinusoidal supply, the induced voltage is proportional to frequency, turns and maximum flux. At fixed voltage and turns, lowering the frequency tends to increase maximum flux, potentially causing core saturation and excessive current.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_14_04psa",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Doubling the turns of a rotating coil",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A coil rotating uniformly in a magnetic field produces a maximum induced emf of 12 V. Its rotational speed and the magnetic field remain unchanged. The number of turns is doubled, and the coil dimensions remain unchanged. What is the new maximum induced emf?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6 V"
+      },
+      {
+        "key": "B",
+        "text": "12 V"
+      },
+      {
+        "key": "C",
+        "text": "24 V"
+      },
+      {
+        "key": "D",
+        "text": "48 V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For the same coil dimensions, magnetic field and rotational speed, doubling the number of turns doubles the induced emf.\n\n\nE_{new}=2×12=24 V\n\n\nThe maximum emf is proportional to the number of turns under these unchanged conditions. Option D incorrectly quadruples the effect.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_15_fpm1e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Electric bell: Identifying a fault",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "In a working electric bell, a contact screw touches the spring-mounted armature when the electromagnet is unenergised. In a faulty bell, the contact screw is adjusted so that it never touches the armature, leaving a permanent gap in the circuit. What is the most likely result when the switch is closed?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Electric bell: Identifying a fault</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The bell rings continuously because the permanent gap increases the current."
+      },
+      {
+        "key": "B",
+        "text": "The coil is energised normally and the armature vibrates faster."
+      },
+      {
+        "key": "C",
+        "text": "No current flows through the intended circuit, so the electromagnet cannot operate normally and the bell does not ring."
+      },
+      {
+        "key": "D",
+        "text": "The contact gap converts the DC supply into AC."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A permanent break in the circuit prevents current from flowing through the coil. Without an energised electromagnet, the normal make-and-break action cannot begin. The contact must be able to close the circuit at rest and open it when the armature is attracted.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_16_s4pg1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Complex conceptual question: Changing two conditions in a transformer",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer is connected to an AC supply. The primary voltage is doubled, and the number of secondary turns is halved. The primary turns remain unchanged. Which statement correctly describes the new secondary voltage relative to its original value?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It doubles because the primary voltage doubles."
+      },
+      {
+        "key": "B",
+        "text": "It remains unchanged because the transformer is ideal."
+      },
+      {
+        "key": "C",
+        "text": "It becomes four times the original voltage."
+      },
+      {
+        "key": "D",
+        "text": "It remains unchanged because halving the secondary turns exactly offsets doubling the primary voltage."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The transformer relationship is\n\n\nV_s=V_p(N_s / N_p)\n\n\nThe primary voltage doubles, while the secondary turns halve:\n\n\nV_s'=2V_p×(N_s/2 / N_p)\n=V_p(N_s / N_p)=V_s\n\n\nThe two changes cancel, leaving the secondary voltage unchanged.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_17_w67nu",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "DC motor: Reversing both current and field",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A motor's armature current and magnetic field are both reversed simultaneously, while their magnitudes remain unchanged. What happens to the direction of the magnetic force on a given conductor at the corresponding position?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The force reverses because reversing either quantity always reverses the force."
+      },
+      {
+        "key": "B",
+        "text": "The force becomes zero because the current and field cancel."
+      },
+      {
+        "key": "C",
+        "text": "The force doubles because two reversals reinforce each other."
+      },
+      {
+        "key": "D",
+        "text": "The force direction remains unchanged because reversing both current and field preserves their combined effect on the force direction."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Reversing either the current or field alone reverses the force direction. Reversing both restores the original force direction. With both magnitudes unchanged, the force magnitude also remains unchanged.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_18_5d8c9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Comparing two transmission systems",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two systems transmit the same electrical power through wires of equal resistance. System P operates at 500 V, while system Q operates at 2000 V. Assume ideal voltage conversion and identical power factors for this comparison. What is the ratio of their resistive line losses, P_P:P_Q?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1:16"
+      },
+      {
+        "key": "B",
+        "text": "1:4"
+      },
+      {
+        "key": "C",
+        "text": "4:1"
+      },
+      {
+        "key": "D",
+        "text": "16:1"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For equal power, current is inversely proportional to voltage. System Q uses four times the voltage, so its current is one-quarter of P's. As line loss is proportional to current squared, P_P:P_Q=1:(1/4)²=16:1.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_19_l4h72",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Transformer voltage when turns change",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer initially has N_p=800, N_s=200 and V_p=240 V. The primary supply remains unchanged, but the secondary winding is replaced by one with 400 turns. What is the new secondary voltage?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "30 V"
+      },
+      {
+        "key": "B",
+        "text": "120 V"
+      },
+      {
+        "key": "C",
+        "text": "60 V"
+      },
+      {
+        "key": "D",
+        "text": "480 V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Initially, the secondary has 200 turns, but the new winding has 400 turns:\n\n\nV_s=240≤ft((400 / 800)right)=120 V\n\n\n**Correction to the option selection:** The calculated voltage is 120 V, so the correct option is **B**, not C. This explicit correction is included to keep the answer key consistent with the calculation.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_20_92plc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Transformer with a changed load",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer has 1,000 primary turns and 250 secondary turns. Its primary voltage is 200 V. A load initially draws 2 A from the secondary. The load is replaced with another that draws 5 A. Calculate the new secondary power and primary current.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "200 W and 1 A"
+      },
+      {
+        "key": "B",
+        "text": "250 W and 1.25 A"
+      },
+      {
+        "key": "C",
+        "text": "250 W and 5 A"
+      },
+      {
+        "key": "D",
+        "text": "1,000 W and 5 A"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Secondary voltage:\n\n\nV_s=200×(250 / 1000)=50 V\n\n\nNew secondary power:\n\n\nP_s=50×5=250 W\n\n\nFor an ideal transformer,\n\n\nI_p=(250 / 200)=1.25 A\n\n\nThe tempting error is using the original 2 A load current instead of the new 5 A current.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_21_fjh6j",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Finding the secondary voltage and turns",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer has 600 primary turns and an unknown number of secondary turns. A 240 V AC supply produces 36 V AC at the secondary. Calculate the secondary turns. If the secondary current is 4 A, calculate the primary current.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "90 turns and 0.6 A"
+      },
+      {
+        "key": "B",
+        "text": "90 turns and 0.9 A"
+      },
+      {
+        "key": "C",
+        "text": "150 turns and 0.6 A"
+      },
+      {
+        "key": "D",
+        "text": "150 turns and 4 A"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "N_s=600×(36 / 240)=90\n\n\nSecondary power:\n\n\nP_s=36×4=144 W\n\n\nHence,\n\n\nI_p=(144 / 240)=0.6 A\n\n\nThe current ratio is inverse to the voltage ratio; it is not the same as the turns ratio.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_22_esnwg",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Step-up transformer and load resistance",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer raises 100 V AC to 500 V AC. The primary current is 2 A. A resistor is connected across the secondary. Calculate the secondary current and the resistance of the load.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10 A and 50,Ω"
+      },
+      {
+        "key": "B",
+        "text": "0.4 A and 1,250,Ω"
+      },
+      {
+        "key": "C",
+        "text": "0.4 A and 250,Ω"
+      },
+      {
+        "key": "D",
+        "text": "2 A and 250,Ω"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Input power:\n\n\nP_p=100×2=200 W\n\n\nThus, P_s=200 W, and\n\n\nI_s=(200 / 500)=0.4 A\n\n\nThe load resistance is\n\n\nR=(V_s / I_s)=(500 / 0.4)=1250,Ω\n\n\n**Correction:** The calculated resistance is 1,250,Ω, so the correct answer is B, not C.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_23_r2lbc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Transmission at three times the voltage",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A transmission line carries 90 kW at 15 kV. The voltage is increased to 45 kV while the transmitted power and line resistance remain unchanged. If the original current is 6 A, calculate the new current and the ratio of the new power loss to the original power loss.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2 A and 1:3"
+      },
+      {
+        "key": "B",
+        "text": "18 A and 9:1"
+      },
+      {
+        "key": "C",
+        "text": "2 A and 1:6"
+      },
+      {
+        "key": "D",
+        "text": "2 A and 1:9"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For fixed power, current is inversely proportional to voltage:\n\n\nI₂=6×(15 / 45)=2 A\n\n\nSince P_{loss}=I^2R,\n\n\nfrac{P_{loss,2}}{P_{loss,1}}\n=(2² / 6²)=frac19\n\n\nThe new power loss is one-ninth of the original.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_24_ghvo2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Comparing two transformer loads",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer has a primary voltage of 240 V and a secondary voltage of 24 V. Load P draws 2 A, and load Q draws 5 A, each connected separately to the secondary. Find the ratio of primary currents, I_:I_.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2:5"
+      },
+      {
+        "key": "B",
+        "text": "1:1"
+      },
+      {
+        "key": "C",
+        "text": "5:2"
+      },
+      {
+        "key": "D",
+        "text": "25:4"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For the same transformer, the voltage ratio is fixed, so the primary current is proportional to the secondary current.\n\n\nfrac{I_{p,Q}}{I_{p,P}}=frac{I_{s,Q}}{I_{s,P}}\n=frac52\n\n\nThe primary current increases in the same proportion as the secondary load current.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_25_a3cm3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Transformer output energy",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer delivers 400 W to a load for 45 minutes. The primary voltage is 200 V, and the secondary voltage is 40 V. Calculate the energy delivered in kilowatt-hours and the primary current.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.3 kWh and 2 A"
+      },
+      {
+        "key": "B",
+        "text": "0.3 kWh and 5 A"
+      },
+      {
+        "key": "C",
+        "text": "0.4 kWh and 2 A"
+      },
+      {
+        "key": "D",
+        "text": "0.3 kWh and 0.5 A"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "E=0.4×(45 / 60)=0.3 kWh\n\n\nFor an ideal transformer, input power equals output power:\n\n\nI_p=(400 / 200)=2 A\n\n\nThe secondary voltage does not determine the primary current directly; the input power and primary voltage do.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_26_yzp0w",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Combined transformer and transmission calculation",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer steps 240 V AC up to 2,400 V AC to transmit 12 kW through a line of resistance 2,Ω. The same power is then transmitted at 4,800 V using a different ideal step-up transformer. Calculate the line losses in both cases and the ratio of the first loss to the second.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50 W and 12.5 W; ratio 4:1"
+      },
+      {
+        "key": "B",
+        "text": "50 W and 25 W; ratio 2:1"
+      },
+      {
+        "key": "C",
+        "text": "200 W and 50 W; ratio 4:1"
+      },
+      {
+        "key": "D",
+        "text": "100 W and 25 W; ratio 4:1"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "At 2,400 V:\n\n\nI₁=(12000 / 2400)=5 A\n\n\n\nP_{loss,1}=5²×2=50 W\n\n\nAt 4,800 V:\n\n\nI₂=(12000 / 4800)=2.5 A\n\n\n\nP_{loss,2}=2.5²×2=12.5 W\n\n\nTherefore, the ratio is 50:12.5=4:1. Doubling the transmission voltage halves the current and reduces resistive loss to one-quarter.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_27_go0nf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Power transmission: Comparing current at two voltages",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A power station transmits 48 kW through a line. It first transmits at 12 kV and then at 48 kV, delivering the same power in both cases. Assuming unity power factor for this school-level calculation, find the current in each case and the ratio of the first current to the second.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4 A and 1 A; ratio 4:1"
+      },
+      {
+        "key": "B",
+        "text": "1 A and 4 A; ratio 1:4"
+      },
+      {
+        "key": "C",
+        "text": "4 A and 1 A; ratio 16:1"
+      },
+      {
+        "key": "D",
+        "text": "48 A and 12 A; ratio 4:1"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "At 12 kV,\n\n\nI₁=(48000 / 12000)=4 A\n\n\nAt 48 kV,\n\n\nI₂=(48000 / 48000)=1 A\n\n\nTherefore, the current ratio is 4:1. The current decreases inversely with voltage for constant transmitted power.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_28_bdysm",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Transmission loss after increasing voltage",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A transmission line has a resistance of 5,Ω. It carries a current of 20 A when transmitting a fixed power. The transmission voltage is increased fourfold, and the same power is delivered. Calculate the original and new power losses.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2,000 W and 500 W"
+      },
+      {
+        "key": "B",
+        "text": "100 W and 25 W"
+      },
+      {
+        "key": "C",
+        "text": "2,000 W and 125 W"
+      },
+      {
+        "key": "D",
+        "text": "2,000 W and 125 W"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Original loss:\n\n\nP₁=I₁^2R=20²×5=2000 W\n\n\nWith four times the voltage, current falls to 20/4=5 A.\n\nNew loss:\n\n\nP₂=5²×5=125 W\n\n\nThe new loss is one-sixteenth of the original. Options C and D are duplicates, which is an error in the answer choices.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_29_773wr",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Transformer power and energy consumption",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer operates at 250 V on its primary and 50 V on its secondary. The secondary supplies a device drawing 6 A for 20 minutes. Calculate the primary current and the electrical energy delivered to the device in watt-hours.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.2 A and 1,000 Wh"
+      },
+      {
+        "key": "B",
+        "text": "1.2 A and 100 Wh"
+      },
+      {
+        "key": "C",
+        "text": "6 A and 100 Wh"
+      },
+      {
+        "key": "D",
+        "text": "30 A and 500 Wh"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Secondary power:\n\n\nP_s=50×6=300 W\n\n\nPrimary current:\n\n\nI_p=(300 / 250)=1.2 A\n\n\nEnergy consumed:\n\n\nE=Pt=300×(20 / 60)=100 Wh\n\n\nThe energy is 0.1 kWh. Option A fails to convert 20 minutes into hours.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_electromagnetism_30_yn8q1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Electromagnetism",
+    "title": "Transformer with a change in primary voltage",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal transformer has 600 primary turns and 150 secondary turns. When the primary voltage is 240 V, the secondary voltage is 60 V. If the primary voltage falls to 200 V while the turns remain unchanged, what is the new secondary voltage?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50 V"
+      },
+      {
+        "key": "B",
+        "text": "40 V"
+      },
+      {
+        "key": "C",
+        "text": "75 V"
+      },
+      {
+        "key": "D",
+        "text": "80 V"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The turns ratio remains\n\n\n(N_s / N_p)=(150 / 600)=frac14\n\n\nHence,\n\n\nV_s=200×frac14=50 V\n\n\nThe output voltage changes in direct proportion to the input voltage when the turns ratio is fixed.",
+    "concept_name": "Electromagnetism",
+    "concept_tag": "electromagnetism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  }
+]

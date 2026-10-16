@@ -1,0 +1,2252 @@
+[
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_1_428bfc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 1: Laboratory Verification of Snell's Law in Water Tank",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student in an ICSE physics laboratory directs a narrow red diode laser beam from air into a rectangular acrylic tank filled with pure distilled water. The student measures the angle of incidence in air as i = 45° and the corresponding angle of refraction in water as r = 32°. **Investigative Question:** What is the measured refractive index of water, and what physical constant does this ratio represent? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "μ = sin(45°) / sin(32°) = 0.7071 / 0.5299 ≈ 1.334; represents the ratio of the speed of light in air to that in water."
+      },
+      {
+        "key": "B",
+        "text": "μ = 45° / 32° = 1.406; represents the ratio of incidence to refraction angles directly."
+      },
+      {
+        "key": "C",
+        "text": "μ = tan(45°) / tan(32°) = 1.600; represents the Brewster angle tangent."
+      },
+      {
+        "key": "D",
+        "text": "μ = cos(32°) / cos(45°) = 1.200; represents optical density variance."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By Snell's Law (the second law of refraction), the ratio of the sine of the angle of incidence to the sine of the angle of refraction is a constant for a given pair of media: 1μ2 = sin i / sin r = sin(45°) / sin(32°) = 0.7071 / 0.5299 ≈ 1.334. This constant equals the ratio of the phase speed of light in the first medium (air) to that in the second medium (water): μ = c / v.",
+    "concept_name": "Snell's Law Ratio of Sines",
+    "concept_tag": "refraction of light at plane surfaces case based snell's law ratio of sines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "428bfcb3a54bcbaeee5f432caad79ea3763ce9834c22f5d9370a1397bb2fb0e4",
+    "question_skeleton": "case scenario a student in an icse physics laboratory directs a narrow red diode laser beam from air into a rectangular acrylic tank filled with pure distilled water the student measures the angle of incidence in air as i 45 and the corresponding angle of refraction in water as r 32 investigative question what is the measured refractive index of water and what physical constant does this ratio represent choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_2_1021a8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 2: Normal Incidence of Laser into Dense Flint Glass Block",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A laser beam strikes the top flat polished surface of a dense flint glass block (refractive index μ = 1.65) perpendicularly (normal incidence, i = 0°). The speed of light in air is c = 3.0 × 10^8 m/s. **Investigative Question:** What is the angle of refraction r, and what happens to the direction, speed, and wavelength of the laser light inside the glass? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Angle r = 0° (no deviation in direction); speed decreases to 1.82 × 10^8 m/s and wavelength decreases proportionally."
+      },
+      {
+        "key": "B",
+        "text": "Angle r = 90°; speed increases to 4.95 × 10^8 m/s."
+      },
+      {
+        "key": "C",
+        "text": "Angle r = 0°; speed remains 3.0 × 10^8 m/s because there is no refraction."
+      },
+      {
+        "key": "D",
+        "text": "Angle r = 45°; speed decreases and frequency decreases."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "At normal incidence, i = 0°. By Snell's Law: sin r = (sin 0°) / μ = 0, so r = 0°. The light continues without any change in direction (zero deviation). However, because glass is optically denser than air, the speed of light drops to v = c / μ = 3.0 × 10^8 / 1.65 ≈ 1.818 × 10^8 m/s. Since frequency f is invariant, wavelength inside glass shortens: λ_glass = λ_air / μ.",
+    "concept_name": "No Deviation at i = 0°",
+    "concept_tag": "refraction of light at plane surfaces case based no deviation at i = 0°",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1021a8e478310ae6a106366bf9c08c9da93d9b2b066f48d64d0df012075d3c45",
+    "question_skeleton": "case scenario a laser beam strikes the top flat polished surface of a dense flint glass block refractive index 1 65 perpendicularly normal incidence i 0 the speed of light in air is c 3 0 10 8 m s investigative question what is the angle of refraction r and what happens to the direction speed and wavelength of the laser light inside the glass choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_3_03fd7e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 3: Laser Lateral Displacement Through Rectangular Glass Slab",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A laser beam enters an optical crown glass block of thickness t = 6.0 cm and refractive index μ = 1.5 at an angle of incidence i = 60°. The beam refracts at angle r = 35.26° and emerges from the opposite parallel face parallel to its original path, but shifted sideways by a lateral displacement d. **Investigative Question:** What is the lateral displacement d of the emerging beam? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "d = 6.0 cm × sin(60° - 35.26°) / cos(35.26°) ≈ 3.07 cm"
+      },
+      {
+        "key": "B",
+        "text": "d = 6.0 cm × sin(60°) = 5.20 cm"
+      },
+      {
+        "key": "C",
+        "text": "d = 6.0 cm / 1.5 = 4.0 cm"
+      },
+      {
+        "key": "D",
+        "text": "d = 6.0 cm × cos(60°) = 3.0 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Lateral displacement through a parallel-sided slab is given by d = t·sin(i - r) / cos r. Here i = 60°, r = 35.26°, i - r = 24.74°. sin(24.74°) ≈ 0.4185, cos(35.26°) ≈ 0.8165. d = 6.0 cm × (0.4185 / 0.8165) ≈ 6.0 × 0.5126 ≈ 3.075 cm.",
+    "concept_name": "Lateral Shift Formula",
+    "concept_tag": "refraction of light at plane surfaces case based lateral shift formula",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "03fd7edbc9ff41fb9a2256690be47990905153e2f6f13b5a7930315d681aa98f",
+    "question_skeleton": "case scenario a laser beam enters an optical crown glass block of thickness t 6 0 cm and refractive index 1 5 at an angle of incidence i 60 the beam refracts at angle r 35 26 and emerges from the opposite parallel face parallel to its original path but shifted sideways by a lateral displacement d investigative question what is the lateral displacement d of the emerging beam choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_4_667ae0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 4: Wavelength Dependence of Lateral Displacement",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A composite beam containing collinear red light (λ = 700 nm) and violet light (λ = 400 nm) is incident at i = 45° onto a thick parallel-sided glass slab. Crown glass has refractive index μ_red = 1.51 and μ_violet = 1.53. **Investigative Question:** How does the lateral displacement of the emergent violet beam compare with that of the emergent red beam? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The violet beam suffers greater lateral displacement than the red beam because μ_violet > μ_red."
+      },
+      {
+        "key": "B",
+        "text": "The red beam suffers greater lateral displacement because red light has a longer wavelength."
+      },
+      {
+        "key": "C",
+        "text": "Both beams emerge with identical lateral displacement because they entered along the same path."
+      },
+      {
+        "key": "D",
+        "text": "Neither beam is displaced because the faces are parallel."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Since violet light travels slower in glass than red light (v_violet < v_red), glass has a higher refractive index for violet (μ_violet > μ_red). By Snell's Law, violet refracts more (r_violet < r_red), making (i - r_violet) larger than (i - r_red). Therefore, lateral displacement d = t·sin(i-r)/cos r is greater for violet than for red.",
+    "concept_name": "Dispersion in Lateral Shift",
+    "concept_tag": "refraction of light at plane surfaces case based dispersion in lateral shift",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "667ae02402db23de68c5e0a51de7f23adf869a0d074635de92a71fd26502b1ad",
+    "question_skeleton": "case scenario a composite beam containing collinear red light 700 nm and violet light 400 nm is incident at i 45 onto a thick parallel sided glass slab crown glass has refractive index red 1 51 and violet 1 53 investigative question how does the lateral displacement of the emergent violet beam compare with that of the emergent red beam choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_5_e8e091",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 5: Temperature Effect on Atmospheric Refractive Index",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Meteorologists study laser transmission through the lower atmosphere. On a scorching summer afternoon, the air temperature 1 meter above an asphalt road reaches 50°C, while air 10 meters above is at 25°C. Warm air expands and has lower mass density than cold air. **Investigative Question:** How does the refractive index of hot air compare to cold air, and what does this cause? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hot air has a lower refractive index than cold air; light bends away from the normal as it enters hotter layers."
+      },
+      {
+        "key": "B",
+        "text": "Hot air has a higher refractive index than cold air; light bends toward the normal."
+      },
+      {
+        "key": "C",
+        "text": "Temperature has zero effect on the refractive index of gases."
+      },
+      {
+        "key": "D",
+        "text": "Hot air absorbs light completely, preventing refraction."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When a gas is heated, it expands and its density decreases. With fewer molecules per unit volume, the electromagnetic interaction slows light down less, so the speed of light is higher and the refractive index μ is lower in hot air. Light passing from cold (denser, higher μ) to hot (rarer, lower μ) air bends away from the normal.",
+    "concept_name": "Thermal Expansion and Optical Density",
+    "concept_tag": "refraction of light at plane surfaces case based thermal expansion and optical density",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e8e091c7d9d33e265be7289f77f4dcd9c6396971f16536d2b6b60a5f474c976f",
+    "question_skeleton": "case scenario meteorologists study laser transmission through the lower atmosphere on a scorching summer afternoon the air temperature 1 meter above an asphalt road reaches 50 c while air 10 meters above is at 25 c warm air expands and has lower mass density than cold air investigative question how does the refractive index of hot air compare to cold air and what does this cause choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_6_2c688b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 6: Apparent Depth of a Gold Coin in a Wishing Fountain",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A tourist looks vertically downward into a clear wishing fountain filled with water to a depth of 2.0 meters (refractive index of water μ = 4/3 = 1.333). A gold coin rests on the flat horizontal bottom. **Investigative Question:** At what apparent depth below the water surface does the coin appear to be located, and what is its apparent vertical shift? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Apparent depth = 1.50 m; Apparent upward shift = 0.50 m"
+      },
+      {
+        "key": "B",
+        "text": "Apparent depth = 2.67 m; Apparent upward shift = 0.67 m"
+      },
+      {
+        "key": "C",
+        "text": "Apparent depth = 1.33 m; Apparent upward shift = 0.67 m"
+      },
+      {
+        "key": "D",
+        "text": "Apparent depth = 1.00 m; Apparent upward shift = 1.00 m"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For near-normal viewing: Apparent depth = Real depth / μ = 2.0 m / (4/3) = 2.0 × (3/4) = 1.50 m. Apparent vertical shift = Real depth - Apparent depth = 2.0 m - 1.50 m = 0.50 m (or Shift = Real depth × (1 - 1/μ) = 2.0 × (1 - 3/4) = 0.50 m).",
+    "concept_name": "Apparent Depth = Real Depth / μ",
+    "concept_tag": "refraction of light at plane surfaces case based apparent depth = real depth / μ",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2c688bebb303f633464d1c231c50eb7935a45315794af065106bd9395ffea219",
+    "question_skeleton": "case scenario a tourist looks vertically downward into a clear wishing fountain filled with water to a depth of 2 0 meters refractive index of water 4 3 1 333 a gold coin rests on the flat horizontal bottom investigative question at what apparent depth below the water surface does the coin appear to be located and what is its apparent vertical shift choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_7_e2a08d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 7: Postage Stamp Under a Thick Glass Paperweight",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A collector places a thick rectangular glass paperweight of thickness t = 4.5 cm and refractive index μ = 1.50 directly over a rare postage stamp resting on a desk, viewing it from directly above. **Investigative Question:** By what vertical distance does the postage stamp appear to be raised when viewed through the glass? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.50 cm"
+      },
+      {
+        "key": "B",
+        "text": "3.00 cm"
+      },
+      {
+        "key": "C",
+        "text": "0.75 cm"
+      },
+      {
+        "key": "D",
+        "text": "2.25 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The apparent upward shift of an object viewed through a medium of thickness t and refractive index μ is given by Shift = t × (1 - 1/μ). Here t = 4.5 cm and μ = 1.50 = 3/2: Shift = 4.5 × (1 - 2/3) = 4.5 × (1/3) = 1.50 cm. The stamp appears at depth 4.5 - 1.5 = 3.0 cm, raised by 1.5 cm.",
+    "concept_name": "Apparent Shift Formula Shift = t(1 - 1/μ)",
+    "concept_tag": "refraction of light at plane surfaces case based apparent shift formula shift = t(1 - 1/μ)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e2a08dcb0e2cf573ff6de0f6977aa2f21f7330699367b9d21215eafa2f616547",
+    "question_skeleton": "case scenario a collector places a thick rectangular glass paperweight of thickness t 4 5 cm and refractive index 1 50 directly over a rare postage stamp resting on a desk viewing it from directly above investigative question by what vertical distance does the postage stamp appear to be raised when viewed through the glass choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_8_fc7fdb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 8: Beaker Containing Immiscible Dual Liquid Layers",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A glass beaker contains two immiscible liquids: a 6.0 cm bottom layer of carbon tetrachloride (μ1 = 1.50) topped with an 8.0 cm upper layer of water (μ2 = 1.33 = 4/3). A small metal bead rests on the bottom of the beaker. **Investigative Question:** When viewed from directly above in air, what is the apparent depth of the bead below the top water surface? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10.0 cm"
+      },
+      {
+        "key": "B",
+        "text": "14.0 cm"
+      },
+      {
+        "key": "C",
+        "text": "9.0 cm"
+      },
+      {
+        "key": "D",
+        "text": "10.5 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When viewing through multiple parallel transparent layers, the total apparent depth is the sum of the individual apparent depths: Apparent depth = (d1 / μ1) + (d2 / μ2) = (6.0 cm / 1.50) + (8.0 cm / (4/3)) = 4.0 cm + 6.0 cm = 10.0 cm. The total real depth was 6.0 + 8.0 = 14.0 cm, so the bead appears raised by 4.0 cm.",
+    "concept_name": "Sum of Apparent Depths",
+    "concept_tag": "refraction of light at plane surfaces case based sum of apparent depths",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "fc7fdb06057ff12afc3a02766d0d3d670e5b096d5e68b563ccd1622e1beec169",
+    "question_skeleton": "case scenario a glass beaker contains two immiscible liquids a 6 0 cm bottom layer of carbon tetrachloride 1 1 50 topped with an 8 0 cm upper layer of water 2 1 33 4 3 a small metal bead rests on the bottom of the beaker investigative question when viewed from directly above in air what is the apparent depth of the bead below the top water surface choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_9_e707a8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 9: Bent Appearance of an Immersed Pencil in Water",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A straight wooden pencil is partially immersed obliquely into a glass beaker of clear water. When viewed from the side in air, the submerged portion of the pencil appears bent upwards and thicker at the water surface. **Investigative Question:** What optical phenomenon causes this apparent bend? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Light rays originating from each submerged point bend away from the normal upon leaving water into air, forming virtual images higher than the actual object points."
+      },
+      {
+        "key": "B",
+        "text": "Light reflects off the water surface into the pencil wood."
+      },
+      {
+        "key": "C",
+        "text": "The water magnifies the pencil by chemical reaction."
+      },
+      {
+        "key": "D",
+        "text": "Total internal reflection within the pencil wood."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Light rays traveling from the denser water into the rarer air bend away from the normal. When extrapolated backward, the refracted rays intersect above the actual physical location of the pencil points. As a result, every point on the submerged pencil forms an elevated virtual image, making the pencil appear sharply bent upward at the water-air interface.",
+    "concept_name": "Virtual Image of Refracted Rays",
+    "concept_tag": "refraction of light at plane surfaces case based virtual image of refracted rays",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e707a8cc2c5b448e67cbd62e67e3f193d27f99858a7e767888d00e4b460ac9a6",
+    "question_skeleton": "case scenario a straight wooden pencil is partially immersed obliquely into a glass beaker of clear water when viewed from the side in air the submerged portion of the pencil appears bent upwards and thicker at the water surface investigative question what optical phenomenon causes this apparent bend choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_10_850462",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 10: Submerged Scuba Diver's Window of Vision",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A scuba diver swimming 5.0 meters below the mirror-smooth surface of a clear lake looks directly upward toward the sky on a bright sunny day. Water has a critical angle of C = 48.7° (≈ 49°). **Investigative Question:** What does the diver see when looking upward in all directions? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The entire 180° hemispherical sky compressed into a bright circular cone of apex angle 2C ≈ 98°; beyond this cone, the water surface acts as a mirror reflecting the lake bed."
+      },
+      {
+        "key": "B",
+        "text": "Complete darkness because water absorbs all light below 2 meters."
+      },
+      {
+        "key": "C",
+        "text": "The sky visible uniformly in all directions up to 180°."
+      },
+      {
+        "key": "D",
+        "text": "A magnified inverted image of the sun across the entire surface."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Light rays from the external world entering water at grazing incidence (i ≈ 90°) refract at the critical angle C ≈ 49°. By reversibility of light, all light from the outside hemisphere is compressed into an inverted cone of half-angle C (apex angle 2C ≈ 98°), known as Snell's Window. Beyond this circular cone, the angle of incidence from underwater exceeds C, causing total internal reflection of the dark lake bottom.",
+    "concept_name": "Snell's Window and Critical Angle Cone",
+    "concept_tag": "refraction of light at plane surfaces case based snell's window and critical angle cone",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "85046265ca9beeb94755c35633ffece97f293747161bf48c5d23077a6b5ab6e1",
+    "question_skeleton": "case scenario a scuba diver swimming 5 0 meters below the mirror smooth surface of a clear lake looks directly upward toward the sky on a bright sunny day water has a critical angle of c 48 7 49 investigative question what does the diver see when looking upward in all directions choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_11_cf3bc5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 11: Astronomical Twinkling of Distant Stars",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** On a clear night, an astronomer observes that distant point-like stars appear to twinkle (fluctuate rapidly in apparent position and brightness), whereas broad planetary discs like Jupiter and Mars shine with a steady, non-twinkling light. **Investigative Question:** What is the physical cause of star twinkling, and why do planets not twinkle? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Turbulent atmospheric air currents constantly fluctuate in density and refractive index, shifting the ray path of point-source star light; planets are extended sources whose multi-point fluctuations cancel out."
+      },
+      {
+        "key": "B",
+        "text": "Stars burn with pulsating nuclear flares while planets emit steady nuclear light."
+      },
+      {
+        "key": "C",
+        "text": "Space dust between Earth and stars moves at the speed of light."
+      },
+      {
+        "key": "D",
+        "text": "Earth's magnetic field periodically bends starlight."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Distant stars appear as pinpoints of light. As starlight passes through turbulent layers of the atmosphere with continuously fluctuating temperature, density, and refractive index, the ray is continuously refracted, shifting slightly in position and intensity into the eye (twinkling). Planets are much closer and act as extended discs composed of millions of adjacent point sources; individual fluctuations average out to zero.",
+    "concept_name": "Atmospheric Refraction Fluctuation",
+    "concept_tag": "refraction of light at plane surfaces case based atmospheric refraction fluctuation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "cf3bc5b6e44b26c4daea19383fe5dc641c79a49d84f436acfa57aba9babf29dc",
+    "question_skeleton": "case scenario on a clear night an astronomer observes that distant point like stars appear to twinkle fluctuate rapidly in apparent position and brightness whereas broad planetary discs like jupiter and mars shine with a steady non twinkling light investigative question what is the physical cause of star twinkling and why do planets not twinkle choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_12_bfc840",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 12: Advanced Sunrise and Delayed Sunset",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Due to Earth's atmosphere having an optical density that decreases with altitude, a solar observer at the equator sees the sun rise above the eastern horizon approximately 2 minutes before the sun geometrically crosses the horizon, and sees it set 2 minutes after it has geometrically dropped below the horizon. **Investigative Question:** What is the total lengthening of daylight caused by atmospheric refraction, and how does the light bend? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Daylight is lengthened by about 4 minutes; rays from below the horizon bend progressively toward the normal into denser lower air, curving around the Earth."
+      },
+      {
+        "key": "B",
+        "text": "Daylight is lengthened by 2 minutes; rays bend away from the normal."
+      },
+      {
+        "key": "C",
+        "text": "Daylight is shortened by 4 minutes due to atmospheric absorption."
+      },
+      {
+        "key": "D",
+        "text": "Daylight is unchanged because refraction does not alter time."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rays of sunlight from the sun slightly below the horizon enter the atmosphere from the vacuum of space, traveling through air layers of increasing optical density and refractive index. The rays bend continuously toward the normal, following a curved path around Earth's curvature. This elevates the sun's apparent image by about 0.5° (its own diameter) at both sunrise and sunset, lengthening daylight by 2 + 2 = 4 minutes.",
+    "concept_name": "Atmospheric Curvature Refraction",
+    "concept_tag": "refraction of light at plane surfaces case based atmospheric curvature refraction",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "bfc8404f025950760e4f1e7a7253343d75e4fb6ee664481597ba1b852c2d33f2",
+    "question_skeleton": "case scenario due to earth s atmosphere having an optical density that decreases with altitude a solar observer at the equator sees the sun rise above the eastern horizon approximately 2 minutes before the sun geometrically crosses the horizon and sees it set 2 minutes after it has geometrically dropped below the horizon investigative question what is the total lengthening of daylight caused by atmospheric refraction and how does the light bend choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_13_fd08f0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 13: Oval Flattening of the Sun at Sunrise and Sunset",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** When photographing the sun as it touches the ocean horizon at sunset, the solar disc appears distinctly flattened vertically into an oval/elliptical shape rather than a perfect circle. **Investigative Question:** What optical explanation accounts for this vertical flattening? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The lower limb of the sun is closer to the horizon where atmospheric density gradient is steeper, refracting its light upward by about 35', while the upper limb is refracted upward by only 29'."
+      },
+      {
+        "key": "B",
+        "text": "Gravitational tidal pull from the ocean distorts the sun."
+      },
+      {
+        "key": "C",
+        "text": "Air temperature increases with altitude, compressing the top of the sun."
+      },
+      {
+        "key": "D",
+        "text": "The camera lens suffers from cylindrical spherical aberration at sea level."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Atmospheric density increases rapidly toward ground level. Light from the sun's lower limb travels through denser, steeper atmospheric gradients and is refracted upward by approximately 35 arcminutes, whereas light from the upper limb (0.5° higher) is refracted upward by only 29 arcminutes. This differential vertical lift compresses the vertical diameter by about 6 arcminutes while the horizontal diameter is unaffected, creating an oval shape.",
+    "concept_name": "Differential Atmospheric Refraction",
+    "concept_tag": "refraction of light at plane surfaces case based differential atmospheric refraction",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "fd08f060839823ba8990456aa984e9ee9805ce930851900650ad6c771c6acafc",
+    "question_skeleton": "case scenario when photographing the sun as it touches the ocean horizon at sunset the solar disc appears distinctly flattened vertically into an oval elliptical shape rather than a perfect circle investigative question what optical explanation accounts for this vertical flattening choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_14_dbc988",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 14: Highway Desert Mirage on a Scorching Day",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A motorist driving across a desert highway on a hot afternoon observes what appears to be a pool of shimmering water on the asphalt several hundred meters ahead, reflecting inverted images of distant trees and sky. Upon reaching the spot, the asphalt is completely dry. **Investigative Question:** What optical sequence produces this inferior mirage? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Air layers closest to the hot asphalt become intensely heated and optically rarer; light rays from the sky bending away from the normal undergo Total Internal Reflection, curving upward into the motorist's eye."
+      },
+      {
+        "key": "B",
+        "text": "Moisture evaporating from the tarmac condenses into a temporary pool."
+      },
+      {
+        "key": "C",
+        "text": "Light reflects off the polished tarmac via Brewster's polarization angle."
+      },
+      {
+        "key": "D",
+        "text": "Heat haze dissolves the asphalt into an optical mirror."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The sun heats the dark road surface, creating a temperature gradient where air density and refractive index increase with height. Light from the sky travels downward through layers of progressively lower refractive index, bending continuously away from the normal. When the angle of incidence exceeds the critical angle, the ray undergoes Total Internal Reflection, curving upward into the observer's eye, who perceives an inverted sky reflection resembling water.",
+    "concept_name": "Inferior Mirage Total Internal Reflection",
+    "concept_tag": "refraction of light at plane surfaces case based inferior mirage total internal reflection",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "dbc988bfb3ce619aa9fe98213e85b5c50ea552ac4675c9f8ed25043cc3d191c9",
+    "question_skeleton": "case scenario a motorist driving across a desert highway on a hot afternoon observes what appears to be a pool of shimmering water on the asphalt several hundred meters ahead reflecting inverted images of distant trees and sky upon reaching the spot the asphalt is completely dry investigative question what optical sequence produces this inferior mirage choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_15_8af5e0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 15: Arctic Superior Mirage and Looming Over Cold Seas",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In polar regions, sailors frequently observe 'looming', where distant ships that are far over the geometric horizon appear elevated and hovering high in the sky, sometimes inverted above the sea surface. **Investigative Question:** What temperature and refractive index conditions produce a superior mirage? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A strong temperature inversion where ice chills the lowest air layer, making it optically dense with higher μ, causing light rays to curve concave downward toward Earth."
+      },
+      {
+        "key": "B",
+        "text": "Superheated ocean water creating low-density air at the sea surface."
+      },
+      {
+        "key": "C",
+        "text": "Atmospheric ozone reflecting radio waves into visual spectra."
+      },
+      {
+        "key": "D",
+        "text": "Cloud shadows projecting ship images onto the troposphere."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a superior mirage (looming), cold sea ice cools the air directly above it, while air higher up remains warmer (temperature inversion). The lowest air layer has the highest density and refractive index. Light rays traveling upward from a ship bend continuously toward the denser lower layers (concave downward), entering the observer's eyes from above horizontal sightlines, making the ship appear elevated in mid-air.",
+    "concept_name": "Superior Mirage Refraction",
+    "concept_tag": "refraction of light at plane surfaces case based superior mirage refraction",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8af5e01794ed4b6de4fdfbfbf36d1195b0fd1228e482db83f0335ace3ec0b317",
+    "question_skeleton": "case scenario in polar regions sailors frequently observe looming where distant ships that are far over the geometric horizon appear elevated and hovering high in the sky sometimes inverted above the sea surface investigative question what temperature and refractive index conditions produce a superior mirage choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_16_1edae8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 16: Critical Angle Determination for Pure Water",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An optical laboratory measures the refractive index of pure water as μ = 1.333 (4/3). A laser immersed inside the water tank directs light toward the water-air interface at varying angles. **Investigative Question:** What is the critical angle C for the water-air boundary, and what happens if light strikes the interface at 55° from within the water? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Critical angle C = 48.6° (≈ 49°); at 55°, the light undergoes 100% Total Internal Reflection back into the water."
+      },
+      {
+        "key": "B",
+        "text": "Critical angle C = 45.0°; at 55°, the light refracts into air at 90°."
+      },
+      {
+        "key": "C",
+        "text": "Critical angle C = 60.0°; at 55°, the light refracts into air with minor reflection."
+      },
+      {
+        "key": "D",
+        "text": "Critical angle C = 30.0°; at 55°, the light is absorbed completely."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Critical angle C is the angle of incidence in the denser medium for which the angle of refraction in the rarer medium is 90°. By Snell's Law: sin C = 1 / μ = 1 / (4/3) = 3/4 = 0.75 => C = arcsin(0.75) ≈ 48.59° ≈ 48.6° (or 49°). At an angle of incidence i = 55° > C, the conditions for Total Internal Reflection are met, and the entire beam reflects back into water obeying the laws of reflection.",
+    "concept_name": "Formula sin C = 1 / μ",
+    "concept_tag": "refraction of light at plane surfaces case based formula sin c = 1 / μ",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1edae875a00c989f1ee89f5a2d063efc33af22a53ab3231a25142d47096ea39b",
+    "question_skeleton": "case scenario an optical laboratory measures the refractive index of pure water as 1 333 4 3 a laser immersed inside the water tank directs light toward the water air interface at varying angles investigative question what is the critical angle c for the water air boundary and what happens if light strikes the interface at 55 from within the water choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_17_16ff33",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 17: Critical Angle of Crown Glass vs Flint Glass",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An optician compares two optical prisms: Prism A made of crown glass (μ = 1.50) and Prism B made of dense flint glass (μ = 1.66). **Investigative Question:** What are the critical angles of Prism A and Prism B, and how does critical angle vary with refractive index? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Prism A: C ≈ 41.8° (≈ 42°); Prism B: C ≈ 37.0°; critical angle decreases as refractive index increases."
+      },
+      {
+        "key": "B",
+        "text": "Prism A: C ≈ 48.6°; Prism B: C ≈ 52.0°; critical angle increases with refractive index."
+      },
+      {
+        "key": "C",
+        "text": "Both prisms have C = 45.0° because they are made of glass."
+      },
+      {
+        "key": "D",
+        "text": "Prism A: C ≈ 30.0°; Prism B: C ≈ 60.0°."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By the relation sin C = 1 / μ: For crown glass: sin C_A = 1 / 1.50 = 0.6667 => C_A ≈ 41.81° (typically 42°). For flint glass: sin C_B = 1 / 1.66 = 0.6024 => C_B ≈ 37.04° (typically 37°). The critical angle is inversely related to the refractive index: an optically denser material with higher μ possesses a smaller critical angle.",
+    "concept_name": "Refractive Index and Critical Angle Relationship",
+    "concept_tag": "refraction of light at plane surfaces case based refractive index and critical angle relationship",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "16ff33c9bb079e8f4e8b8bafd5e83b81eaee83e442438b5b695c7d590844e25c",
+    "question_skeleton": "case scenario an optician compares two optical prisms prism a made of crown glass 1 50 and prism b made of dense flint glass 1 66 investigative question what are the critical angles of prism a and prism b and how does critical angle vary with refractive index choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_18_5113ae",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 18: Brilliance and Fire of a Cut Diamond",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Gemologists cut diamond (refractive index μ = 2.42) into brilliant round shapes with precise faceted angles. In contrast, glass (μ = 1.50) cut in the exact same geometry appears lifeless and dull. **Investigative Question:** What is the critical angle of diamond, and why does diamond sparkle with intense brilliance? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Critical angle C ≈ 24.4°; its exceptionally small critical angle ensures light entering the top facets undergoes multiple Total Internal Reflections before emerging from the top."
+      },
+      {
+        "key": "B",
+        "text": "Critical angle C ≈ 45.0°; diamond emits its own radioactive luminescence."
+      },
+      {
+        "key": "C",
+        "text": "Critical angle C ≈ 60.0°; diamond absorbs all light and re-radiates it as ultraviolet."
+      },
+      {
+        "key": "D",
+        "text": "Critical angle C ≈ 12.0°; diamond polarizes light into circular spectra."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For diamond: sin C = 1 / 2.42 = 0.4132 => C ≈ 24.41° (approx 24°). This extremely small critical angle means that almost any light ray entering diamond strikes an internal facet at an angle greater than 24.4°, undergoing multiple successive Total Internal Reflections without escaping through the sides or bottom. The rays ultimately exit through the top crown facets, producing dazzling sparkle and high dispersion ('fire').",
+    "concept_name": "Extremely Small Critical Angle and Facet Angles",
+    "concept_tag": "refraction of light at plane surfaces case based extremely small critical angle and facet angles",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5113ae28b4f484ed19af97ec25bdac93a0116dada22ec8247d012c0913974f9c",
+    "question_skeleton": "case scenario gemologists cut diamond refractive index 2 42 into brilliant round shapes with precise faceted angles in contrast glass 1 50 cut in the exact same geometry appears lifeless and dull investigative question what is the critical angle of diamond and why does diamond sparkle with intense brilliance choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_19_02a902",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 19: Periscope 45°-90°-45° Total Reflecting Prisms",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A submarine periscope uses two right-angled isosceles glass prisms (45°-90°-45°, μ = 1.50, critical angle C = 42°) to guide light from above the water down to the observer's eye. **Investigative Question:** How does light pass through each prism, and why is this superior to using plane silvered mirrors? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Light enters normal to a cathetus face without deviation, strikes the hypotenuse at i = 45° (> 42°) undergoing 100% TIR, and exits normal; produces 100% reflection with zero ghost images and no silver degradation."
+      },
+      {
+        "key": "B",
+        "text": "Light refracts at 90° into the hypotenuse and reflects off silver backing."
+      },
+      {
+        "key": "C",
+        "text": "Light disperses into a rainbow inside each prism."
+      },
+      {
+        "key": "D",
+        "text": "Light undergoes two reflections at 30° each."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Light enters face AB normally (i = 0°, r = 0°). It strikes the hypotenuse AC inside glass at i = 45°. Since 45° > critical angle (42°), it undergoes 100% Total Internal Reflection, turning through 90° toward face BC where it emerges normally. Unlike plane mirrors which reflect only ~85-90% and suffer silver corrosion and ghost images, total reflecting prisms reflect nearly 100% of light losslessly.",
+    "concept_name": "Deviation by 90° via TIR",
+    "concept_tag": "refraction of light at plane surfaces case based deviation by 90° via tir",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "02a902bdca0c46afd89dbcc2da3c61130030c62506b77e9ecd014e0f72af7980",
+    "question_skeleton": "case scenario a submarine periscope uses two right angled isosceles glass prisms 45 90 45 1 50 critical angle c 42 to guide light from above the water down to the observer s eye investigative question how does light pass through each prism and why is this superior to using plane silvered mirrors choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_20_e9aceb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 20: Porro Prisms in Prism Binoculars",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A pair of binoculars utilizes a Porro prism system comprising two identical right-angled isosceles glass prisms (45°-90°-45°, critical angle 42°). Light from the objective enters the hypotenuse face normally and undergoes internal reflections. **Investigative Question:** What total deviation does each Porro prism produce, and what is its optical effect on the image? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Deviates the beam by 180° through two successive Total Internal Reflections (at 45° each), inverting the image and shortening the binocular body length."
+      },
+      {
+        "key": "B",
+        "text": "Deviates the beam by 90° through one reflection."
+      },
+      {
+        "key": "C",
+        "text": "Deviates the beam by 360° without inverting the image."
+      },
+      {
+        "key": "D",
+        "text": "Deviates the beam by 45°."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a Porro prism, light enters the hypotenuse face normally (i = 0°). It strikes the first cathetus face at i = 45° (> 42° TIR), turns 90°, strikes the second cathetus face at i = 45° (> 42° TIR), and turns another 90°, emerging from the hypotenuse parallel to the entry beam (total deviation = 90° + 90° = 180°). Two such orthogonal prisms fully erect the inverted image from the objective and fold the optical path.",
+    "concept_name": "Deviation by 180° and Image Inversion",
+    "concept_tag": "refraction of light at plane surfaces case based deviation by 180° and image inversion",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e9aceb5eaf9ae94ef183ce7f54f8f2d0625ef41f3131f240a9f5c1a5d6b1f265",
+    "question_skeleton": "case scenario a pair of binoculars utilizes a porro prism system comprising two identical right angled isosceles glass prisms 45 90 45 critical angle 42 light from the objective enters the hypotenuse face normally and undergoes internal reflections investigative question what total deviation does each porro prism produce and what is its optical effect on the image choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_21_f98f75",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 21: Erecting Dove Prism in Optical Instruments",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An optical spectrometer incorporates a truncated right-angled prism known as a Dove prism (trapezoidal glass block with 45° base angles, μ = 1.50). A beam of parallel light enters one slanted face, refracts toward the base, undergoes Total Internal Reflection at the flat bottom base, and emerges from the second slanted face. **Investigative Question:** What is the optical effect of the Dove prism on the transmitted image? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It inverts the image upside-down while allowing the light beam to continue along the same straight-line optical axis without angular deviation."
+      },
+      {
+        "key": "B",
+        "text": "It deviates the light beam by 90° into a periscope."
+      },
+      {
+        "key": "C",
+        "text": "It magnifies the image by a factor of 2."
+      },
+      {
+        "key": "D",
+        "text": "It disperses the light into a pure spectrum."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a Dove prism, rays entering the tilted face are refracted toward the base at an angle that exceeds the critical angle (42°), causing TIR at the bottom flat base. The rays then refract out of the opposite slanted face along the original axis. This single reflection inverts the image vertically while maintaining the forward collinear direction of the beam.",
+    "concept_name": "Inversion Without Lateral Axis Deviation",
+    "concept_tag": "refraction of light at plane surfaces case based inversion without lateral axis deviation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f98f75e63cb8e4be6a5949caafa762ad390237bc5a49d440ef0b49da156129ef",
+    "question_skeleton": "case scenario an optical spectrometer incorporates a truncated right angled prism known as a dove prism trapezoidal glass block with 45 base angles 1 50 a beam of parallel light enters one slanted face refracts toward the base undergoes total internal reflection at the flat bottom base and emerges from the second slanted face investigative question what is the optical effect of the dove prism on the transmitted image choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_22_711023",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 22: Equilateral 60° Prism Ray Tracing and TIR",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A monochromatic ray of light is incident normally (i = 0°) onto face AB of an equilateral crown glass prism ABC (all angles 60°, critical angle C = 42°). **Investigative Question:** What is the subsequent path of the ray inside and upon exiting the prism? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The ray passes undeviated to face AC, strikes it at i = 60° (> 42°), undergoes TIR toward base BC, strikes BC at i = 30° (< 42°), and refracts out into air at r = 48.6°."
+      },
+      {
+        "key": "B",
+        "text": "The ray refracts out of face AC at 90°."
+      },
+      {
+        "key": "C",
+        "text": "The ray undergoes TIR at all three faces indefinitely."
+      },
+      {
+        "key": "D",
+        "text": "The ray emerges from face AC without deviation."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "At face AB: normal incidence means the ray enters undeviated. At face AC: geometric normal to AC is at 60° to the horizontal ray, so angle of incidence is i = 60°. Since 60° > 42° (critical angle), Total Internal Reflection occurs. The reflected ray travels at 60° downward to base BC, striking it at angle i = 30°. Since 30° < 42°, it refracts into air: sin r = 1.5 × sin(30°) = 1.5 × 0.5 = 0.75 => r = arcsin(0.75) ≈ 48.6°.",
+    "concept_name": "Total Internal Reflection in Equilateral Prism",
+    "concept_tag": "refraction of light at plane surfaces case based total internal reflection in equilateral prism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "711023c9e08c331e96cf73d1f1701c4b2e60eba46614199cf23935bd48abda5a",
+    "question_skeleton": "case scenario a monochromatic ray of light is incident normally i 0 onto face ab of an equilateral crown glass prism abc all angles 60 critical angle c 42 investigative question what is the subsequent path of the ray inside and upon exiting the prism choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_23_818ff7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 23: Right-Angled 30°-60°-90° Prism Path Analysis",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A light ray enters normally (i = 0°) into face AB of a glass prism ABC having angles A = 90°, B = 30°, and C = 60° (glass critical angle C = 42°). The ray strikes the hypotenuse BC from inside the glass. **Investigative Question:** What is the angle of incidence on the hypotenuse BC, and does the ray undergo Total Internal Reflection or refraction? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Angle of incidence on hypotenuse is 60°; since 60° > 42°, it undergoes Total Internal Reflection."
+      },
+      {
+        "key": "B",
+        "text": "Angle of incidence on hypotenuse is 30°; it refracts into air at 48.6°."
+      },
+      {
+        "key": "C",
+        "text": "Angle of incidence on hypotenuse is 45°; it undergoes TIR."
+      },
+      {
+        "key": "D",
+        "text": "Angle of incidence on hypotenuse is 0°; it passes undeviated."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The ray enters face AB normally and travels straight to hypotenuse BC. In right triangle with angles 90° and 30°, the third angle between the ray and BC is 30°. The angle of incidence i with the normal to hypotenuse BC is 90° - 30° = 60°. Since 60° exceeds the critical angle of glass (42°), the ray undergoes 100% Total Internal Reflection at the hypotenuse.",
+    "concept_name": "Critical Angle Threshold in 30-60-90 Prism",
+    "concept_tag": "refraction of light at plane surfaces case based critical angle threshold in 30-60-90 prism",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "818ff7997ca6c4afea779cb6121eced0b7e42192b3d2d18278505b6f7c5657a4",
+    "question_skeleton": "case scenario a light ray enters normally i 0 into face ab of a glass prism abc having angles a 90 b 30 and c 60 glass critical angle c 42 the ray strikes the hypotenuse bc from inside the glass investigative question what is the angle of incidence on the hypotenuse bc and does the ray undergo total internal reflection or refraction choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_24_6dd772",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 24: Fiber Optic Telecommunications Cable Core and Cladding",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A transoceanic fiber optic cable carries high-speed laser pulses across thousands of kilometers. The cable comprises an inner glass core of refractive index μ_core = 1.48 surrounded by an outer glass cladding of refractive index μ_cladding = 1.45. **Investigative Question:** What is the critical angle at the core-cladding boundary, and how do light pulses travel through the core without leaking out? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Critical angle C = arcsin(1.45 / 1.48) ≈ 78.5°; light injected at small angles strikes the core wall at angles > 78.5°, propagating via continuous lossless Total Internal Reflection."
+      },
+      {
+        "key": "B",
+        "text": "Critical angle C = 45°; light reflects off a silver mirror coating on the cladding."
+      },
+      {
+        "key": "C",
+        "text": "Critical angle C = 90°; light travels in a straight line without touching the walls."
+      },
+      {
+        "key": "D",
+        "text": "Critical angle C = 30°; light refracts into the cladding and back into the core."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By Snell's Law for a boundary between two dense media: sin C = μ_rarer / μ_denser = μ_cladding / μ_core = 1.45 / 1.48 ≈ 0.9797 => C ≈ 78.5°. Because the core is optically denser than the cladding, light rays striking the boundary at grazing angles of incidence greater than 78.5° undergo repeated Total Internal Reflection, traveling thousands of kilometers with negligible signal attenuation.",
+    "concept_name": "Total Internal Reflection Waveguiding",
+    "concept_tag": "refraction of light at plane surfaces case based total internal reflection waveguiding",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6dd77283817c2f2676148b1c597efccefe39a2739e294506ad6051a891b6aade",
+    "question_skeleton": "case scenario a transoceanic fiber optic cable carries high speed laser pulses across thousands of kilometers the cable comprises an inner glass core of refractive index core 1 48 surrounded by an outer glass cladding of refractive index cladding 1 45 investigative question what is the critical angle at the core cladding boundary and how do light pulses travel through the core without leaking out choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_25_28aa66",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 25: Medical Endoscope Coherent Optical Fiber Bundle",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A gastroenterologist performs an endoscopy to examine a patient's stomach lining. The endoscope flexible insertion tube contains two bundles of thousands of microscopic optical fibers: an incoherent light guide bundle for illumination, and a coherent imaging bundle. **Investigative Question:** What optical principle guides light through the flexible fibers even when the endoscope tube is bent around sharp anatomical curves? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Total Internal Reflection within each individual fiber, provided the bending radius does not cause the internal incidence angle to drop below the critical angle."
+      },
+      {
+        "key": "B",
+        "text": "Diffraction of light around the curvature of the tube."
+      },
+      {
+        "key": "C",
+        "text": "Conduction of photons through hollow silver capillary tubes."
+      },
+      {
+        "key": "D",
+        "text": "Phosphorescent emission from radioactive tracers inside the tube."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Each microscopic fiber in the bundle consists of a high-refractive-index glass core coated with lower-index cladding. Light injected into the fiber undergoes tens of thousands of Total Internal Reflections per meter. Even when the flexible tube curves inside the body, the angle of incidence on the core walls remains greater than the critical angle, allowing lossless image transmission.",
+    "concept_name": "Internal Organ Visualization via TIR",
+    "concept_tag": "refraction of light at plane surfaces case based internal organ visualization via tir",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "28aa66d9e55742bd41d64eacfff179e8bae3196bee3db17ed3b0f1347f099eaa",
+    "question_skeleton": "case scenario a gastroenterologist performs an endoscopy to examine a patient s stomach lining the endoscope flexible insertion tube contains two bundles of thousands of microscopic optical fibers an incoherent light guide bundle for illumination and a coherent imaging bundle investigative question what optical principle guides light through the flexible fibers even when the endoscope tube is bent around sharp anatomical curves choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_26_7e457c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 26: Total Internal Reflection vs Reflection from Silvered Glass Mirror",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An optical designer compares using a 45°-90°-45° glass total reflecting prism versus a flat silvered glass mirror to direct light in a high-precision surveying theodolite. **Investigative Question:** What are two decisive optical advantages of the total reflecting prism over the silvered glass mirror? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The prism provides 100% reflection with zero light absorption, and produces a single sharp image with no secondary ghost reflections."
+      },
+      {
+        "key": "B",
+        "text": "The prism is lighter in mass and costs less than silver foil."
+      },
+      {
+        "key": "C",
+        "text": "The mirror produces higher reflectance (99.9%) than total internal reflection."
+      },
+      {
+        "key": "D",
+        "text": "The prism polarizes light into monochromatic ultraviolet rays."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a silvered glass mirror: (1) Reflection at the metallic silver backing is never 100% (~10-15% of light is absorbed/scattered), and (2) Partial reflection from the front glass surface produces faint, overlapping 'ghost' images. In contrast, Total Internal Reflection within a prism is 100% lossless (zero energy absorbed), and since reflection occurs at a single internal boundary, it produces a single pristine image that never tarnishes.",
+    "concept_name": "100% Reflectance and Zero Ghost Images",
+    "concept_tag": "refraction of light at plane surfaces case based 100% reflectance and zero ghost images",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7e457cf6e268ad5582df455f10c644d6c941456c8c9b560766f78fed8f6644f1",
+    "question_skeleton": "case scenario an optical designer compares using a 45 90 45 glass total reflecting prism versus a flat silvered glass mirror to direct light in a high precision surveying theodolite investigative question what are two decisive optical advantages of the total reflecting prism over the silvered glass mirror choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_27_b00a64",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 27: Ghost Images in a Thick Back-Silvered Glass Mirror",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student places a glowing candle in front of a thick plate-glass mirror that is silvered on its rear surface. Looking into the mirror obliquely, the student observes a series of multiple images of the candle flame. **Investigative Question:** Which image in the series is the brightest, and why? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The second image is the brightest, because it is formed by strong reflection from the rear silvered surface (~85-90% light), while the first image is from faint front-surface reflection (~4-10%)."
+      },
+      {
+        "key": "B",
+        "text": "The first image is the brightest because light strikes it first."
+      },
+      {
+        "key": "C",
+        "text": "The third image is the brightest due to optical resonance."
+      },
+      {
+        "key": "D",
+        "text": "All images are of strictly identical brightness."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Light from the candle strikes the front surface of the thick glass: ~4% reflects to form Image 1 (faint). The remaining ~96% enters the glass, travels to the back silvered surface, and undergoes strong metallic reflection (~85-90%), emerging through the front face to form Image 2, which is by far the brightest. Internal bouncing between front and rear surfaces produces subsequent increasingly faint images (3rd, 4th, etc.).",
+    "concept_name": "Multiple Reflections in Thick Mirror",
+    "concept_tag": "refraction of light at plane surfaces case based multiple reflections in thick mirror",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b00a64d63c429a936b57ea41f6507e89cb86d23967779199450d4fd4eedb2ebc",
+    "question_skeleton": "case scenario a student places a glowing candle in front of a thick plate glass mirror that is silvered on its rear surface looking into the mirror obliquely the student observes a series of multiple images of the candle flame investigative question which image in the series is the brightest and why choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_28_b8d95d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 28: Angle of Minimum Deviation in an Equilateral Prism",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A laboratory spectrometer measures the deviation produced by an equilateral crown glass prism (angle A = 60°, μ = 1.50). The angle of incidence i1 is varied systematically while measuring the deviation angle δ. **Investigative Question:** What unique symmetry condition occurs at the angle of minimum deviation δ_min, and what is the orientation of the refracted ray inside the prism? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Angle of incidence equals angle of emergence (i1 = i2), angles of refraction are equal (r1 = r2 = A/2 = 30°), and the ray travels parallel to the base."
+      },
+      {
+        "key": "B",
+        "text": "Angle of incidence is 90° and the ray exits along the apex."
+      },
+      {
+        "key": "C",
+        "text": "Angle of incidence is 0° and deviation is zero."
+      },
+      {
+        "key": "D",
+        "text": "The ray undergoes Total Internal Reflection at both faces."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "At the angle of minimum deviation δ_min, light traverses the prism symmetrically: the angle of incidence equals the angle of emergence (i1 = i2 = i), and the internal angles of refraction are equal: r1 = r2 = r = A / 2 = 60° / 2 = 30°. For an equilateral or isosceles prism, this geometric symmetry forces the refracted ray inside the prism to travel completely parallel to the base.",
+    "concept_name": "Symmetry Condition i1 = i2 and r1 = r2",
+    "concept_tag": "refraction of light at plane surfaces case based symmetry condition i1 = i2 and r1 = r2",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b8d95dd328a16ba23570cd34d6aeb3286a423c859f0f7135763fdd39c7ebb22f",
+    "question_skeleton": "case scenario a laboratory spectrometer measures the deviation produced by an equilateral crown glass prism angle a 60 1 50 the angle of incidence i1 is varied systematically while measuring the deviation angle investigative question what unique symmetry condition occurs at the angle of minimum deviation min and what is the orientation of the refracted ray inside the prism choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_29_42f730",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 29: Prism Refractive Index Formula Calculation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a physics board examination practical, a student measures the angle of a prism as A = 60° and finds that the angle of minimum deviation for yellow sodium light is δ_min = 38°. **Investigative Question:** What is the refractive index μ of the prism material? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "μ = sin(49°) / sin(30°) = 0.7547 / 0.5000 ≈ 1.509"
+      },
+      {
+        "key": "B",
+        "text": "μ = sin(60°) / sin(38°) = 0.866 / 0.6157 ≈ 1.406"
+      },
+      {
+        "key": "C",
+        "text": "μ = (60° + 38°) / 60° = 1.633"
+      },
+      {
+        "key": "D",
+        "text": "μ = sin(38°) / sin(30°) = 0.6157 / 0.5000 = 1.231"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The standard prism formula relates refractive index to prism angle A and minimum deviation δ_min: μ = sin((A + δ_min) / 2) / sin(A / 2). Substituting A = 60° and δ_min = 38°: μ = sin((60° + 38°) / 2) / sin(60° / 2) = sin(98° / 2) / sin(30°) = sin(49°) / sin(30°) = 0.7547 / 0.5000 ≈ 1.509.",
+    "concept_name": "Formula μ = sin((A + δ_min)/2) / sin(A/2)",
+    "concept_tag": "refraction of light at plane surfaces case based formula μ = sin((a + δ_min)/2) / sin(a/2)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "42f7309b64ffe334db1584968239baed042d8745f443c85744e89a92184fa2ef",
+    "question_skeleton": "case scenario in a physics board examination practical a student measures the angle of a prism as a 60 and finds that the angle of minimum deviation for yellow sodium light is min 38 investigative question what is the refractive index of the prism material choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_30_f2f857",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 30: Hollow Glass Prism Filled with Water",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A hollow prism constructed from thin optical microscope slides of angle A = 60° is filled with pure water (μ = 1.333 = 4/3). A student compares its angle of minimum deviation with a solid glass prism of identical angle A = 60° (μ = 1.50). **Investigative Question:** How does the angle of minimum deviation of the water-filled prism compare with the solid glass prism? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The water prism has a smaller angle of minimum deviation (~22°) than the glass prism (~38°) because μ_water < μ_glass."
+      },
+      {
+        "key": "B",
+        "text": "The water prism has a larger angle of minimum deviation because water has greater mass."
+      },
+      {
+        "key": "C",
+        "text": "Both prisms have identical minimum deviation because angle A is 60° for both."
+      },
+      {
+        "key": "D",
+        "text": "The water prism produces zero deviation because water is transparent."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The angle of deviation depends directly on the refractive index of the prism material relative to air. Since water (μ = 1.33) is optically less dense than glass (μ = 1.50), light slows down less in water, producing less refraction at both faces. Consequently, the angle of minimum deviation for water (~22°) is substantially smaller than that for glass (~38°).",
+    "concept_name": "Liquid Prism Refraction and Minimum Deviation",
+    "concept_tag": "refraction of light at plane surfaces case based liquid prism refraction and minimum deviation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f2f8579dfb3f2d73a4caeaacee47d6fa294b56792d6726654ba86ecb6391dabb",
+    "question_skeleton": "case scenario a hollow prism constructed from thin optical microscope slides of angle a 60 is filled with pure water 1 333 4 3 a student compares its angle of minimum deviation with a solid glass prism of identical angle a 60 1 50 investigative question how does the angle of minimum deviation of the water filled prism compare with the solid glass prism choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_31_2cbba7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 31: Air-Filled Hollow Prism Immersed Inside a Water Aquarium",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A hollow glass prism containing air (μ = 1.0) is sealed and submerged inside a large glass aquarium filled with water (μ = 1.33). A horizontal laser beam in the water strikes the prism face. **Investigative Question:** In which direction does the light ray bend as it passes through the air prism inside water? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The ray bends toward the apex of the prism (away from the base), opposite to normal prism behavior."
+      },
+      {
+        "key": "B",
+        "text": "The ray bends toward the base of the prism as usual."
+      },
+      {
+        "key": "C",
+        "text": "The ray passes completely undeviated."
+      },
+      {
+        "key": "D",
+        "text": "The ray undergoes Total Internal Reflection inside the air cavity."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Normally, a prism bends light toward its thicker base because the prism is optically denser than the surrounding air (μ_prism > μ_surroundings). However, inside water, the air prism is optically rarer than the surrounding water (μ_air = 1.0 < μ_water = 1.33). As light enters the rarer air, it bends away from the normal, and upon exiting into water, it bends toward the normal, causing the net deviation to bend toward the apex.",
+    "concept_name": "Inversion of Deviation Direction",
+    "concept_tag": "refraction of light at plane surfaces case based inversion of deviation direction",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2cbba764533a83825dc2a574f5e6fca27389b66e8f23a840ec1edcfb3fda2998",
+    "question_skeleton": "case scenario a hollow glass prism containing air 1 0 is sealed and submerged inside a large glass aquarium filled with water 1 33 a horizontal laser beam in the water strikes the prism face investigative question in which direction does the light ray bend as it passes through the air prism inside water choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_32_7eb97d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 32: Semi-Circular Glass Slab Critical Angle Experiment",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student conducts an optical bench experiment using a semi-circular glass slab of radius R = 8.0 cm. A narrow laser beam is directed toward the curved surface such that its path is along a radius directed toward the center O of the flat diameter edge. **Investigative Question:** Why does the ray enter the curved glass surface without any deviation, and what happens at the central point O? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The ray is normal to the curved surface at all points (along radius, i = 0°); at O, it strikes the flat face from inside glass, allowing precise measurement of the critical angle."
+      },
+      {
+        "key": "B",
+        "text": "The curved surface has zero refractive index."
+      },
+      {
+        "key": "C",
+        "text": "Total internal reflection occurs at the curved surface."
+      },
+      {
+        "key": "D",
+        "text": "The ray curves into a spiral toward the center."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Any line drawn along the radius of a circle is perpendicular to the circumference at the point of entry. Therefore, a radial ray strikes the curved surface at normal incidence (i = 0°, r = 0°), entering the glass with zero deviation. It reaches the flat boundary at center O cleanly, allowing the student to vary the internal angle of incidence simply by rotating the laser.",
+    "concept_name": "Radial Incidence with Zero Surface Deviation",
+    "concept_tag": "refraction of light at plane surfaces case based radial incidence with zero surface deviation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7eb97d9d912906cc8310df7f8dfe7367ded102f39135fe0877fcafeee7ebe09a",
+    "question_skeleton": "case scenario a student conducts an optical bench experiment using a semi circular glass slab of radius r 8 0 cm a narrow laser beam is directed toward the curved surface such that its path is along a radius directed toward the center o of the flat diameter edge investigative question why does the ray enter the curved glass surface without any deviation and what happens at the central point o choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_33_ba8af3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 33: Fish Looking Upward at an Angler on the Riverbank",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A trout swimming underwater looks upward at an angler of true height H = 1.80 m standing on the riverbank at the water's edge (taking refractive index of water μ = 4/3). **Investigative Question:** Does the angler appear taller, shorter, or the same height to the fish, and what is the apparent height? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The angler appears taller (Apparent height = H × μ = 1.80 m × (4/3) = 2.40 m)."
+      },
+      {
+        "key": "B",
+        "text": "The angler appears shorter (Apparent height = 1.80 m / (4/3) = 1.35 m)."
+      },
+      {
+        "key": "C",
+        "text": "The angler appears exactly 1.80 m tall."
+      },
+      {
+        "key": "D",
+        "text": "The angler appears completely inverted."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When viewing from a denser medium (water) into a rarer medium (air), light rays from the top of the object bend toward the normal as they enter the water. Projecting these refracted rays backward makes the virtual image appear farther and higher than the actual object. Apparent height = Real height × μ = 1.80 m × (4/3) = 2.40 m. The angler appears significantly taller.",
+    "concept_name": "Apparent Height Elevation for Submerged Observer",
+    "concept_tag": "refraction of light at plane surfaces case based apparent height elevation for submerged observer",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ba8af3fd067362ec01f1ec9d8b4027ed132df60e36836edf348bbc894ab3b9e4",
+    "question_skeleton": "case scenario a trout swimming underwater looks upward at an angler of true height h 1 80 m standing on the riverbank at the water s edge taking refractive index of water 4 3 investigative question does the angler appear taller shorter or the same height to the fish and what is the apparent height choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_34_d372de",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 34: Measuring Refractive Index Using Traveling Microscope",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a physics laboratory, a student measures the refractive index of a liquid using a vernier traveling microscope. The microscope focuses on: (1) A scratch on the beaker bottom (Reading R1 = 2.40 cm); (2) The scratch viewed through 6.0 cm of the liquid (Reading R2 = 3.90 cm); and (3) Lycopodium powder sprinkled on the liquid surface (Reading R3 = 8.40 cm). **Investigative Question:** What is the refractive index of the liquid? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "μ = Real depth / Apparent depth = (8.40 - 2.40) / (8.40 - 3.90) = 6.00 / 4.50 = 1.333"
+      },
+      {
+        "key": "B",
+        "text": "μ = 3.90 / 2.40 = 1.625"
+      },
+      {
+        "key": "C",
+        "text": "μ = 8.40 / 6.00 = 1.400"
+      },
+      {
+        "key": "D",
+        "text": "μ = 4.50 / 2.40 = 1.875"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Real depth = Surface reading - Bottom reading = R3 - R1 = 8.40 cm - 2.40 cm = 6.00 cm. Apparent depth = Surface reading - Apparent bottom reading = R3 - R2 = 8.40 cm - 3.90 cm = 4.50 cm. Refractive index μ = Real depth / Apparent depth = 6.00 / 4.50 = 4/3 ≈ 1.333 (confirming pure water).",
+    "concept_name": "Formula μ = Real Depth / Apparent Depth",
+    "concept_tag": "refraction of light at plane surfaces case based formula μ = real depth / apparent depth",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d372ded648e4c37498fe95077c51537dc3b9df6e146c5973eaa4a42269b4d799",
+    "question_skeleton": "case scenario in a physics laboratory a student measures the refractive index of a liquid using a vernier traveling microscope the microscope focuses on 1 a scratch on the beaker bottom reading r1 2 40 cm 2 the scratch viewed through 6 0 cm of the liquid reading r2 3 90 cm and 3 lycopodium powder sprinkled on the liquid surface reading r3 8 40 cm investigative question what is the refractive index of the liquid choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_35_8269fd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 35: Glass Block with Silvered Rear Face",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A thick glass block of thickness t = 9.0 cm and refractive index μ = 1.50 has its rear face silvered to act as a plane mirror. A small pin is placed in front of the unsilvered front face at a distance of 15.0 cm. **Investigative Question:** At what distance from the front face is the final image of the pin formed by the silvered block? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "27.0 cm behind the front face"
+      },
+      {
+        "key": "B",
+        "text": "33.0 cm behind the front face"
+      },
+      {
+        "key": "C",
+        "text": "24.0 cm behind the front face"
+      },
+      {
+        "key": "D",
+        "text": "15.0 cm behind the front face"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The glass slab of thickness t = 9 cm has an apparent optical thickness = t / μ = 9 / 1.5 = 6.0 cm. The position of the mirror effectively appears at a distance = 15.0 cm (in air) + 6.0 cm (apparent glass thickness) = 21.0 cm from the pin. The image formed by the mirror lies 21.0 cm behind the effective mirror position, which corresponds to 6.0 + 21.0 = 27.0 cm behind the front face.",
+    "concept_name": "Refraction Plus Reflection Equivalent System",
+    "concept_tag": "refraction of light at plane surfaces case based refraction plus reflection equivalent system",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8269fda5a4e15625d4f39cde17942aeb70f9268beb2dd43c897a029f3e167071",
+    "question_skeleton": "case scenario a thick glass block of thickness t 9 0 cm and refractive index 1 50 has its rear face silvered to act as a plane mirror a small pin is placed in front of the unsilvered front face at a distance of 15 0 cm investigative question at what distance from the front face is the final image of the pin formed by the silvered block choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_36_faa0b8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 36: Refraction Through Sequential Liquid-Glass Layers",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A light ray passes from Air (1) into Water (2, μ = 4/3), then into Crown Glass (3, μ = 3/2), and finally emerges back into Air (1). All layer interfaces are parallel. **Investigative Question:** What is the relative refractive index of glass with respect to water (w_μ_g), and what is the direction of the final emergent ray in air? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "w_μ_g = μ_glass / μ_water = (3/2) / (4/3) = 9/8 = 1.125; emergent ray is strictly parallel to the initial incident ray."
+      },
+      {
+        "key": "B",
+        "text": "w_μ_g = 2.00; emergent ray is deviated by 45°."
+      },
+      {
+        "key": "C",
+        "text": "w_μ_g = 0.889; emergent ray is reflected back into glass."
+      },
+      {
+        "key": "D",
+        "text": "w_μ_g = 1.50; emergent ray is perpendicular to incident ray."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By the principle of consecutive media: 1μ2 × 2μ3 × 3μ1 = 1. The relative refractive index of glass with respect to water is w_μ_g = a_μ_g / a_μ_w = (1.50) / (1.333) = (3/2) / (4/3) = 9/8 = 1.125. Because all interfaces are parallel, the angle of emergence from the final glass-air boundary equals the original angle of incidence in air, meaning the emergent ray is strictly parallel to the incident ray.",
+    "concept_name": "Principle of Consecutive Media 1μ3 = 1μ2 × 2μ3",
+    "concept_tag": "refraction of light at plane surfaces case based principle of consecutive media 1μ3 = 1μ2 × 2μ3",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "faa0b8cd4318c3bb089feb0674b01ac6ad7c7c2b3ad61da8de8f14aa16348e0a",
+    "question_skeleton": "case scenario a light ray passes from air 1 into water 2 4 3 then into crown glass 3 3 2 and finally emerges back into air 1 all layer interfaces are parallel investigative question what is the relative refractive index of glass with respect to water w g and what is the direction of the final emergent ray in air choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_37_09d5ce",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 37: Critical Angle at a Glass-Water Submerged Boundary",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An underwater camera housing is made of crown glass (μ_glass = 1.50 = 3/2) submerged in sea water (μ_water = 1.333 = 4/3). An internal flash lamp inside the glass housing directs light toward the glass-water interface. **Investigative Question:** What is the critical angle C for Total Internal Reflection at this glass-water boundary? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "C = arcsin((4/3) / (3/2)) = arcsin(8/9) ≈ 62.7°"
+      },
+      {
+        "key": "B",
+        "text": "C = arcsin(1 / 1.5) ≈ 41.8°"
+      },
+      {
+        "key": "C",
+        "text": "C = arcsin(1 / 1.33) ≈ 48.6°"
+      },
+      {
+        "key": "D",
+        "text": "C = arcsin(1.5 / 1.33) = undefined"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When light attempts to pass from a denser medium (glass, μ_d = 1.50) into an adjacent rarer medium (water, μ_r = 1.333): sin C = μ_r / μ_d = (4/3) / (3/2) = 8/9 ≈ 0.8889 => C = arcsin(0.8889) ≈ 62.73° (approx 62.7°). Notice that the critical angle at a glass-water interface (62.7°) is significantly larger than at a glass-air interface (42°).",
+    "concept_name": "Relative Critical Angle sin C = μ_r / μ_d",
+    "concept_tag": "refraction of light at plane surfaces case based relative critical angle sin c = μ_r / μ_d",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "09d5ce9c9454ba9c17e6bcff8faf8ace8d36871c7f5f893d8e498cb4beef0981",
+    "question_skeleton": "case scenario an underwater camera housing is made of crown glass glass 1 50 3 2 submerged in sea water water 1 333 4 3 an internal flash lamp inside the glass housing directs light toward the glass water interface investigative question what is the critical angle c for total internal reflection at this glass water boundary choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_38_b3f75a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 38: Principle of Reversibility of Light Path",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physics experiment establishes that the refractive index of glass with respect to air is a_μ_g = 1.50 (3/2). A light ray is then directed in reverse, traveling from glass into air. **Investigative Question:** What is the refractive index of air with respect to glass (g_μ_a), and what physical principle governs this? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "g_μ_a = 1 / a_μ_g = 1 / 1.50 = 2/3 ≈ 0.667; governed by the Principle of Reversibility of Light."
+      },
+      {
+        "key": "B",
+        "text": "g_μ_a = -1.50; governed by reflection laws."
+      },
+      {
+        "key": "C",
+        "text": "g_μ_a = 1.50; refractive index is independent of light direction."
+      },
+      {
+        "key": "D",
+        "text": "g_μ_a = 0; light cannot enter air from glass."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By the Principle of Reversibility of Light, if the path of a ray of light is reversed after suffering any number of refractions and reflections, it retraces its entire path in reverse. Therefore: 1μ2 = 1 / 2μ1 => g_μ_a = 1 / a_μ_g = 1 / (3/2) = 2/3 ≈ 0.667.",
+    "concept_name": "Reversibility Law 1μ2 = 1 / 2μ1",
+    "concept_tag": "refraction of light at plane surfaces case based reversibility law 1μ2 = 1 / 2μ1",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b3f75add804bb67beb6324a5d0c63a416656f19f9f8a3bcdc14b5109831400db",
+    "question_skeleton": "case scenario a physics experiment establishes that the refractive index of glass with respect to air is a g 1 50 3 2 a light ray is then directed in reverse traveling from glass into air investigative question what is the refractive index of air with respect to glass g a and what physical principle governs this choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_39_ebf4d3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 39: Angle of Deviation Curve for a Triangular Prism",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student systematically plots the angle of deviation δ against the angle of incidence i for a 60° glass prism, recording data from i = 30° to i = 80°. **Investigative Question:** What is the shape and characteristic behavior of the resulting i-δ curve? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "U-shaped curve: as i increases, δ first decreases to a minimum value (δ_min) and then increases."
+      },
+      {
+        "key": "B",
+        "text": "A straight line with negative slope."
+      },
+      {
+        "key": "C",
+        "text": "A horizontal line showing deviation is independent of incidence angle."
+      },
+      {
+        "key": "D",
+        "text": "A parabola opening downward with a maximum peak."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The i-δ characteristic curve of a prism is distinctly U-shaped. Starting from small incidence angles, as i increases, the angle of deviation δ decreases steadily until it reaches a unique minimum point (the angle of minimum deviation δ_min). Beyond this point, any further increase in i causes the deviation δ to rise again.",
+    "concept_name": "Variation of Deviation with Angle of Incidence",
+    "concept_tag": "refraction of light at plane surfaces case based variation of deviation with angle of incidence",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ebf4d3c9eabb172cbde5419c2a455018f39049076fd96189f69467835eda7a26",
+    "question_skeleton": "case scenario a student systematically plots the angle of deviation against the angle of incidence i for a 60 glass prism recording data from i 30 to i 80 investigative question what is the shape and characteristic behavior of the resulting i curve choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_40_7316a9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 40: Deviation Produced by a Thin Prism (A < 10°)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An optometrist uses a thin ophthalmic prism of small refracting angle A = 4.0° made of crown glass (μ = 1.52) to correct strabismus (eye misalignment) in a patient. **Investigative Question:** What is the approximate angular deviation produced by this thin prism for near-normal incidence? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "δ ≈ (μ - 1)·A = (1.52 - 1) × 4.0° = 2.08°"
+      },
+      {
+        "key": "B",
+        "text": "δ = 1.52 × 4.0° = 6.08°"
+      },
+      {
+        "key": "C",
+        "text": "δ = 4.0° / 1.52 = 2.63°"
+      },
+      {
+        "key": "D",
+        "text": "δ = (1.52 + 1) × 4.0° = 10.08°"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For a thin prism with small refracting angle A (typically A ≤ 10°), the sines of angles can be approximated by the angles in radians (sin θ ≈ θ). The standard prism formula simplifies to: δ ≈ (μ - 1)·A. Substituting μ = 1.52 and A = 4.0°: δ = (1.52 - 1) × 4.0° = 0.52 × 4.0° = 2.08°.",
+    "concept_name": "Formula δ ≈ (μ - 1)·A",
+    "concept_tag": "refraction of light at plane surfaces case based formula δ ≈ (μ - 1)·a",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7316a9191ea308a98a807d3fec4111b4f4f14e90131b0f5b382197a977a831c3",
+    "question_skeleton": "case scenario an optometrist uses a thin ophthalmic prism of small refracting angle a 4 0 made of crown glass 1 52 to correct strabismus eye misalignment in a patient investigative question what is the approximate angular deviation produced by this thin prism for near normal incidence choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_41_101e36",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 41: Color Dependence of Prism Angular Deviation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A narrow beam of white light containing all visible wavelengths from red (700 nm) to violet (400 nm) strikes the face of a 60° flint glass prism at an incidence angle of 50°. **Investigative Question:** Which color of light undergoes the greatest angular deviation, and why? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Violet light undergoes the greatest deviation because its shorter wavelength experiences the highest refractive index (μ_violet > μ_red)."
+      },
+      {
+        "key": "B",
+        "text": "Red light undergoes the greatest deviation because it carries greater momentum."
+      },
+      {
+        "key": "C",
+        "text": "Green light undergoes the greatest deviation because it lies at the spectrum center."
+      },
+      {
+        "key": "D",
+        "text": "All colors deviate equally because they share the same angle of incidence."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to Cauchy's dispersion formula, the refractive index of a transparent medium is inversely related to wavelength (μ = A + B/λ²). Since violet light has the shortest visible wavelength (~400 nm), it travels slowest in glass and experiences the highest refractive index: μ_violet > μ_red. By δ ≈ (μ - 1)·A, violet deviates the most (at the bottom of spectrum) while red deviates the least.",
+    "concept_name": "Dispersion Due to Wavelength Dependence of μ",
+    "concept_tag": "refraction of light at plane surfaces case based dispersion due to wavelength dependence of μ",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "101e36bcb2299a9ec904d0cc271cfe9d24c4fe51af09b071fc0bbbe2b5819cc3",
+    "question_skeleton": "case scenario a narrow beam of white light containing all visible wavelengths from red 700 nm to violet 400 nm strikes the face of a 60 flint glass prism at an incidence angle of 50 investigative question which color of light undergoes the greatest angular deviation and why choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_42_e15d9e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 42: Color Dependence of the Critical Angle",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physicist tests the critical angle of crown glass for red laser light (λ = 650 nm) versus violet laser light (λ = 405 nm). The refractive indices are μ_red = 1.510 and μ_violet = 1.532. **Investigative Question:** Which color has a larger critical angle in glass, and what are their respective values? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Red light has a larger critical angle: C_red ≈ 41.47° > C_violet ≈ 40.75°."
+      },
+      {
+        "key": "B",
+        "text": "Violet light has a larger critical angle: C_violet ≈ 45.0° > C_red ≈ 40.0°."
+      },
+      {
+        "key": "C",
+        "text": "Both colors have strictly identical critical angles of 42.0°."
+      },
+      {
+        "key": "D",
+        "text": "Critical angle does not depend on the wavelength of light."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By definition, sin C = 1 / μ. Because refractive index is smaller for longer wavelengths (μ_red < μ_violet), the ratio 1/μ is larger for red: sin C_red = 1 / 1.510 ≈ 0.6623 => C_red ≈ 41.47°. For violet: sin C_violet = 1 / 1.532 ≈ 0.6527 => C_violet ≈ 40.75°. Hence, C_red > C_violet. Red light can strike the boundary at steeper angles before undergoing Total Internal Reflection.",
+    "concept_name": "Critical Angle Ordering C_red > C_violet",
+    "concept_tag": "refraction of light at plane surfaces case based critical angle ordering c_red > c_violet",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e15d9efcaa51458a18445df29f5d489e6f219d21dcd875cd598ee0dbf63aaa41",
+    "question_skeleton": "case scenario a physicist tests the critical angle of crown glass for red laser light 650 nm versus violet laser light 405 nm the refractive indices are red 1 510 and violet 1 532 investigative question which color has a larger critical angle in glass and what are their respective values choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_43_57b1f4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 43: Apparent Depth of a Swimming Pool",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A swimmer stands beside a commercial swimming pool of uniform depth 2.40 m filled with clear water (μ = 4/3). Looking down obliquely into the water, the swimmer estimates the depth before diving in. **Investigative Question:** Why does the pool bottom appear dangerously shallower than its true depth? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The apparent depth is only 3/4 of the true depth (Apparent depth = 2.40 / (4/3) = 1.80 m), making it look 60 cm shallower than it actually is."
+      },
+      {
+        "key": "B",
+        "text": "The pool bottom appears deeper by 4/3 (3.20 m)."
+      },
+      {
+        "key": "C",
+        "text": "Light reflections from chlorine make the floor look inverted."
+      },
+      {
+        "key": "D",
+        "text": "The pool appears shallower because water evaporates rapidly."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Light rays traveling from the pool floor into air bend away from the normal at the water surface. Virtual backward extensions of these divergent rays intersect at an apparent depth h' = h / μ = 2.40 m / (4/3) = 1.80 m. An apparent upward shift of 60 cm (25% reduction) misleads swimmers into underestimating water depth.",
+    "concept_name": "Why Swimming Pools Look Deeper When Wet",
+    "concept_tag": "refraction of light at plane surfaces case based why swimming pools look deeper when wet",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "57b1f48d98e643fbc58bd07f674c1be07e7bff9f6eec3047f32715ddc1020810",
+    "question_skeleton": "case scenario a swimmer stands beside a commercial swimming pool of uniform depth 2 40 m filled with clear water 4 3 looking down obliquely into the water the swimmer estimates the depth before diving in investigative question why does the pool bottom appear dangerously shallower than its true depth choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_44_9a6229",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 44: Pyrex Glass Stirring Rod Invisible in Vegetable Glycerin",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a classroom chemistry magic demonstration, a teacher lowers a transparent Pyrex glass stirring rod (refractive index μ_glass = 1.474) into a beaker filled with clear pure vegetable glycerin (refractive index μ_liquid = 1.474). **Investigative Question:** What happens to the appearance of the submerged glass rod, and what is the physical reason? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The glass rod becomes completely invisible because both glass and glycerin have identical refractive indices, causing zero refraction and zero reflection at the boundary."
+      },
+      {
+        "key": "B",
+        "text": "The rod glows brightly due to chemical phosphorescence."
+      },
+      {
+        "key": "C",
+        "text": "The rod appears bent at a 90° angle."
+      },
+      {
+        "key": "D",
+        "text": "The rod dissolves instantly in glycerin."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "An object is visible because light undergoes reflection and refraction at its surface due to a difference in refractive index between the object and the surrounding medium. When a glass rod is immersed in a liquid of identical refractive index (μ_glass = μ_liquid = 1.474), light passes across the interface without any change in speed, direction, or reflection (Snell's Law: r = i, reflection = 0%). The interface ceases to exist optically.",
+    "concept_name": "Index Matching and Zero Refraction",
+    "concept_tag": "refraction of light at plane surfaces case based index matching and zero refraction",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9a6229e20e65fe51775407835ad11e8b947b9833a2adda3eb5ed7169a25d25c2",
+    "question_skeleton": "case scenario in a classroom chemistry magic demonstration a teacher lowers a transparent pyrex glass stirring rod refractive index glass 1 474 into a beaker filled with clear pure vegetable glycerin refractive index liquid 1 474 investigative question what happens to the appearance of the submerged glass rod and what is the physical reason choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_45_26134f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 45: Turpentine vs Water Optical Density Paradox",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student in a chemistry-physics interdisciplinary lab measures the physical properties of water and oil of turpentine. Water has mass density ρ = 1.00 g/cm³ and refractive index μ = 1.33. Turpentine has mass density ρ = 0.87 g/cm³ (floats on water) but refractive index μ = 1.47. **Investigative Question:** What crucial distinction does this experiment demonstrate regarding mass density and optical density? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Optical density is related to the speed of light in the medium and does not necessarily track mass density; turpentine has lower mass density but higher optical density than water."
+      },
+      {
+        "key": "B",
+        "text": "Mass density and optical density are always directly proportional."
+      },
+      {
+        "key": "C",
+        "text": "Turpentine must have higher mass density because it has a higher refractive index."
+      },
+      {
+        "key": "D",
+        "text": "Light travels faster in turpentine than in water."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Mass density is mass per unit volume (g/cm³). Optical density is the property of a medium that determines the speed of light within it (governed by molecular polarizability and refractive index μ = c/v). Turpentine has lower mass density (0.87 < 1.00 g/cm³) and floats on water, yet it has higher optical density (μ = 1.47 > 1.33), meaning light travels slower in turpentine (v = 2.04 × 10^8 m/s) than in water (v = 2.25 × 10^8 m/s).",
+    "concept_name": "Mass Density vs Optical Density",
+    "concept_tag": "refraction of light at plane surfaces case based mass density vs optical density",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "26134fa3fc0d63ef4b5f1dc1d972bb79b2f808a29fa85839e463aa5692f1cb88",
+    "question_skeleton": "case scenario a student in a chemistry physics interdisciplinary lab measures the physical properties of water and oil of turpentine water has mass density 1 00 g cm and refractive index 1 33 turpentine has mass density 0 87 g cm floats on water but refractive index 1 47 investigative question what crucial distinction does this experiment demonstrate regarding mass density and optical density choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_46_85305b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 46: Primary Rainbow Internal Reflection Mechanics",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** During a late afternoon sun shower, an observer with their back to the sun sees a brilliant primary rainbow arc across the eastern sky. Sunlight strikes spherical airborne raindrops. **Investigative Question:** What is the complete optical sequence inside a raindrop producing the primary rainbow? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Refraction with dispersion as light enters the drop -> One internal reflection at the back curved wall -> Second refraction out of the drop into air."
+      },
+      {
+        "key": "B",
+        "text": "Two internal reflections followed by one refraction."
+      },
+      {
+        "key": "C",
+        "text": "Pure external reflection off the raindrop surface without entry."
+      },
+      {
+        "key": "D",
+        "text": "Diffraction through the air space between adjacent drops."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a primary rainbow, sunlight enters the spherical raindrop, refracting and dispersing into constituent colors (violet bending most, red least). The dispersed rays strike the back wall at an angle where they undergo one internal reflection. Finally, the rays refract out of the front of the drop into air, emerging at an angle of 40° (violet) to 42° (red) relative to the incident sunlight.",
+    "concept_name": "Refraction, Dispersion, and Single Internal Reflection",
+    "concept_tag": "refraction of light at plane surfaces case based refraction, dispersion, and single internal reflection",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "85305bd17bfe9368cdae7af8165f8c45e70152b406fc208f2abbcc1f30ffb255",
+    "question_skeleton": "case scenario during a late afternoon sun shower an observer with their back to the sun sees a brilliant primary rainbow arc across the eastern sky sunlight strikes spherical airborne raindrops investigative question what is the complete optical sequence inside a raindrop producing the primary rainbow choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_47_f5330e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 47: Gemstone Faceting and Critical Angle Optimization",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A lapidary cut artisan cuts facets on a cubic zirconia gemstone (μ = 2.15, critical angle C ≈ 27.7°). If the pavilion (bottom) facets are cut at an angle of 43° to the normal. **Investigative Question:** Why must pavilion facet angles be engineered strictly relative to the critical angle? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cutting pavilion facets such that incoming rays strike at angles greater than the critical angle ensures total internal reflection, directing light back up through the crown facets."
+      },
+      {
+        "key": "B",
+        "text": "To allow light to escape through the bottom into the jewelry setting."
+      },
+      {
+        "key": "C",
+        "text": "To absorb ultraviolet rays and emit green fluorescence."
+      },
+      {
+        "key": "D",
+        "text": "To make the gemstone appear darker and opaque."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "If pavilion facets are cut too shallow or too steep, light striking them hits at an angle less than the critical angle (i < C) and refracts out through the bottom of the stone (known as 'light leakage' or 'fish-eye' effect). Lapidaries calculate facet angles precisely so that rays entering through the top crown strike pavilion facets at i > C (27.7°), undergoing multiple TIR bounces that bounce 100% of light back out through the top face.",
+    "concept_name": "Facet Angle Engineering for Maximum Sparkle",
+    "concept_tag": "refraction of light at plane surfaces case based facet angle engineering for maximum sparkle",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f5330ef110d4ad1160ad1d7cd12d1d3df87ec938cc1485453aa5bf3adcebf06f",
+    "question_skeleton": "case scenario a lapidary cut artisan cuts facets on a cubic zirconia gemstone 2 15 critical angle c 27 7 if the pavilion bottom facets are cut at an angle of 43 to the normal investigative question why must pavilion facet angles be engineered strictly relative to the critical angle choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_48_b8fb9c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 48: Apparent Elevation of Heavenly Bodies Near Zenith",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An astronomical observatory tracks a distant star located at a true zenith angle of 45°. Because of Earth's atmosphere. **Investigative Question:** Does the apparent position of the star appear higher or lower in the sky than its true physical position, and why? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Higher in the sky (closer to zenith), because incoming starlight bends continuously toward the vertical normal as it traverses increasingly dense atmospheric layers."
+      },
+      {
+        "key": "B",
+        "text": "Lower in the sky (closer to the horizon)."
+      },
+      {
+        "key": "C",
+        "text": "Exactly at its true position because starlight travels at c."
+      },
+      {
+        "key": "D",
+        "text": "Shifted horizontally East or West depending on Earth's spin."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Starlight enters Earth's atmosphere from the vacuum of space, passing through layers of air of continuously increasing density and refractive index. At each boundary, the ray bends toward the normal (which points vertically downward toward Earth's center). An observer looking back along the final tangent sees the star elevated above its true geometric position (closer to the zenith).",
+    "concept_name": "Continuous Atmospheric Ray Bending",
+    "concept_tag": "refraction of light at plane surfaces case based continuous atmospheric ray bending",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b8fb9cef14dd2875a3630e30e489c18ad26ba99b86ed35713521866621b92878",
+    "question_skeleton": "case scenario an astronomical observatory tracks a distant star located at a true zenith angle of 45 because of earth s atmosphere investigative question does the apparent position of the star appear higher or lower in the sky than its true physical position and why choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_49_2ed314",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 49: Total Internal Reflection Prism in SLR Camera Pentaprism",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A single-lens reflex (SLR) camera viewfinder employs a solid glass pentaprism (or roof pentaprism) with silvered and total reflecting faces. **Investigative Question:** What is the optical function of the pentaprism in the viewfinder? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It reflects light from the reflex mirror twice, correcting both vertical inversion and left-right reversal to present a fully erect, true-sided view in the eyepiece."
+      },
+      {
+        "key": "B",
+        "text": "It magnifies the image tenfold like a compound microscope."
+      },
+      {
+        "key": "C",
+        "text": "It polarizes light to reduce glare on the camera sensor."
+      },
+      {
+        "key": "D",
+        "text": "It acts as a shutter to regulate exposure time."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The 45° reflex mirror inside an SLR camera flips the image from the lens right-side up, but leaves it laterally reversed (mirror image). The pentaprism positioned above the focusing screen reflects the light twice internally via precision roof facets, correcting the lateral reversal so that the photographer sees a completely natural, upright, and non-reversed image through the viewfinder.",
+    "concept_name": "Roof Pentaprism Image Erection",
+    "concept_tag": "refraction of light at plane surfaces case based roof pentaprism image erection",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2ed314440aae3af36bd0b1604ca4329f043fa0233b8b40b081b1765fed2dc1f0",
+    "question_skeleton": "case scenario a single lens reflex slr camera viewfinder employs a solid glass pentaprism or roof pentaprism with silvered and total reflecting faces investigative question what is the optical function of the pentaprism in the viewfinder choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_of_light_at_plane_surfaces_50_6f26fe",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction of Light at Plane Surfaces",
+    "title": "Case Study 50: Apparent Thickness of a Glass Cube Viewed from Opposite Faces",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A solid glass cube of edge length L = 12.0 cm and refractive index μ = 1.50 contains a tiny air bubble trapped inside. When viewed normally from Face 1, the bubble appears to be 5.0 cm deep. When viewed normally from the opposite Face 2, what is its apparent depth? **Investigative Question:** 3.0 cm Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "5.0 cm"
+      },
+      {
+        "key": "B",
+        "text": "7.0 cm"
+      },
+      {
+        "key": "C",
+        "text": "4.0 cm"
+      },
+      {
+        "key": "D",
+        "text": "A"
+      }
+    ],
+    "correct_option": "Let real distance of bubble from Face 1 be x1, and from Face 2 be x2. Total thickness x1 + x2 = L = 12.0 cm. Apparent depth from Face 1: d1' = x1 / μ => 5.0 cm = x1 / 1.5 => x1 = 5.0 × 1.5 = 7.5 cm. Therefore, real distance from Face 2 is x2 = 12.0 - 7.5 = 4.5 cm. Apparent depth from Face 2: d2' = x2 / μ = 4.5 cm / 1.5 = 3.0 cm.",
+    "concept_name": "Shift in Multi-Faced Optical Blocks",
+    "concept_tag": "refraction of light at plane surfaces case based shift in multi-faced optical blocks",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6f26fec8f26ff3564c6da9ab5033166a2142a53fd6bcf55a0c35d84c35e16b82",
+    "question_skeleton": "case scenario a solid glass cube of edge length l 12 0 cm and refractive index 1 50 contains a tiny air bubble trapped inside when viewed normally from face 1 the bubble appears to be 5 0 cm deep when viewed normally from the opposite face 2 what is its apparent depth investigative question 3 0 cm choose the correct option",
+    "explanation": ""
+  }
+]

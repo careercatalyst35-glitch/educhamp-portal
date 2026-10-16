@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_force_1_5971b9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Moment of force handle length",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A spanner with a long handle is preferred over a short one to loosen a tight nut. **Reason (R):** The turning effect of a force is directly proportional to the perpendicular distance from the axis of rotation. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The moment of force equals force times perpendicular distance. Increasing the handle length increases the moment for the same applied effort, which correctly explains why a longer handle is preferred.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bfcd1f8891bfca41ae007fc03897912f81161ba78f47c80c172bdacd9aa1dcde",
+    "question_skeleton": "assertion a a spanner with a long handle is preferred over a short one to loosen a tight nut reason r the turning effect of a force is directly proportional to the perpendicular distance from the axis of rotation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_2_7e8f2f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "The Couple on a Steering Wheel",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "A driver applies a couple consisting of two equal and opposite forces of 15 N each on the outer rim of a steering wheel of diameter 0.4 m. If the driver now applies forces of 30 N each on an inner rim having a diameter of 0.2 m, what is the new moment of the couple?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3 N m"
+      },
+      {
+        "key": "B",
+        "text": "6 N m"
+      },
+      {
+        "key": "C",
+        "text": "12 N m"
+      },
+      {
+        "key": "D",
+        "text": "24 N m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The moment of a couple is given by: Moment = Either Force × Arm of Couple (perpendicular distance between forces). Initial couple = 15 N × 0.4 m = 6 N m. When applying 30 N forces on an inner rim of diameter 0.2 m: New couple = 30 N × 0.2 m = 6 N m. Therefore, doubling the force while halving the couple arm leaves the moment of the couple unchanged at 6 N m.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "193d50f2a6e6a105cd63f85d30b4fcd1bcab8a3c1855f4ede8568991a7a53ea1",
+    "question_skeleton": "assertion a heavy vehicles like trucks and buses have steering wheels of larger diameter than small cars reason r a couple consists of two equal and opposite parallel forces whose lines of action do not coincide choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_3_0a393c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Uniform circular motion acceleration",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A body moving in a circle with constant speed is in accelerated motion. **Reason (R):** In uniform circular motion, the direction of velocity continuously changes at every point along the path. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Because velocity is a vector, continuous change in the direction of motion constitutes an acceleration (centripetal acceleration directed towards the center).",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "577a0167d9315ebbfef3136d0b0d8a7abb552c14c1c56a1278551bf32bb16933",
+    "question_skeleton": "assertion a a body moving in a circle with constant speed is in accelerated motion reason r in uniform circular motion the direction of velocity continuously changes at every point along the path choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_4_7ea81b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Centripetal vs Centrifugal force",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Centrifugal force is a real force acting towards the center of a circular path. **Reason (R):** Centripetal force is directed towards the center of rotation and is necessary to maintain circular motion. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because centrifugal force is a fictitious or pseudo force that appears in a rotating frame of reference and acts radially outwards, not towards the center. Reason is true.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "99abcf96f068ed5b34ea49c86828ffa0e72af5e5255f9bc6fb697fda59c845d6",
+    "question_skeleton": "assertion a centrifugal force is a real force acting towards the center of a circular path reason r centripetal force is directed towards the center of rotation and is necessary to maintain circular motion choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_5_3e7ce0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Centre of gravity of a hollow sphere",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The centre of gravity of a uniform hollow sphere lies at its geometric centre. **Reason (R):** The centre of gravity of a body always lies within the material of the body. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Assertion is true (the CG of a hollow sphere is at its geometric center). Reason is false because the centre of gravity can lie in empty space outside the physical material, as in a hollow sphere, a ring, or a horseshoe.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "eab4a46da892016c25f9022f3bff83938cfafdc8239c14aa2f3e1abcd23427d3",
+    "question_skeleton": "assertion a the centre of gravity of a uniform hollow sphere lies at its geometric centre reason r the centre of gravity of a body always lies within the material of the body choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_6_8976c0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Stability of a racing car",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Racing cars are designed with a broad wheel base and a very low chassis. **Reason (R):** A body is more stable when its centre of gravity is low and the area of its base is large. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason correctly explains the design of racing cars for maximum rotational and translational stability against toppling.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8cd52b03106bee587bf1760b965fb6339946ae68148adeb447c47d4d99f37e18",
+    "question_skeleton": "assertion a racing cars are designed with a broad wheel base and a very low chassis reason r a body is more stable when its centre of gravity is low and the area of its base is large choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_7_e4acd0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Translational equilibrium condition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If a body is in static equilibrium under multiple forces, the algebraic sum of all forces acting on it must be zero. **Reason (R):** Translational equilibrium requires that the net external force on the body is zero. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the requirement of zero resultant force correctly explains translational equilibrium.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3e21216eb0b23ca16e68590f08e1ee28ca0948974470b2d789e669afc7e77774",
+    "question_skeleton": "assertion a if a body is in static equilibrium under multiple forces the algebraic sum of all forces acting on it must be zero reason r translational equilibrium requires that the net external force on the body is zero choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_8_325386",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Rotational equilibrium condition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A meter rule pivoted at its 50 cm mark remains horizontal when equal weights are suspended at the 10 cm and 90 cm marks. **Reason (R):** Clockwise moment of force is equal in magnitude to anticlockwise moment of force about the pivot. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The distance from the 50 cm mark to 10 cm is 40 cm (anticlockwise), and to 90 cm is 40 cm (clockwise). Equal weights at equal distances produce equal and opposite moments, fulfilling the principle of moments.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6377272915fb88620e8ac44d65478256d57a07fc613ba0ee1939bf21563f66d9",
+    "question_skeleton": "assertion a a meter rule pivoted at its # cm mark remains horizontal when equal weights are suspended at the # cm and # cm marks reason r clockwise moment of force is equal in magnitude to anticlockwise moment of force about the pivot choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_9_fb8463",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Sign convention of moments",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An anticlockwise moment of force is taken as positive by international convention. **Reason (R):** Clockwise moments tend to rotate a body in the direction of the hands of a clock. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both Assertion and Reason are true statements, but the definition of clockwise rotation is not the causal reason for the arbitrary sign convention adopting anticlockwise as positive.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a9fb647d786195f5701a60298289731449005f6e8c28c35c5c685531598060e5",
+    "question_skeleton": "assertion a an anticlockwise moment of force is taken as positive by international convention reason r clockwise moments tend to rotate a body in the direction of the hands of a clock choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_10_4e4d36",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Work done by centripetal force",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The work done by the centripetal force on an electron revolving around the nucleus in a circular orbit is zero. **Reason (R):** The centripetal force is always perpendicular to the instantaneous displacement of the body. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since force and instantaneous displacement are perpendicular (angle 90°), W = F·s·cos(90°) = 0.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1f6c532daf359f20ca3a132e524bd55b51dc667f1748eb7f959d2ec4cd9c81a8",
+    "question_skeleton": "assertion a the work done by the centripetal force on an electron revolving around the nucleus in a circular orbit is zero reason r the centripetal force is always perpendicular to the instantaneous displacement of the body choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_11_bb33b8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Base of a dam",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The base of a dam is made very thick and wide compared to its top. **Reason (R):** Liquid pressure increases directly with increasing depth. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the increasing hydrostatic pressure with depth explains why the bottom must be thicker to withstand the lateral thrust.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "66ed499dd1275b1b90a67675fd5322c861614bfcbc6d77d5fed55d8b873bc62f",
+    "question_skeleton": "assertion a the base of a dam is made very thick and wide compared to its top reason r liquid pressure increases directly with increasing depth choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_12_dbf9a9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Point of application of gravitational force",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The entire weight of a body can be considered to act at its centre of gravity for calculating moments. **Reason (R):** The algebraic sum of moments of weights of all constituent particles of a body about its centre of gravity is zero. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the vanishing sum of individual gravitational moments about the CG defines why the body balances at that point.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6f36bd7c040f424b7c85c4691b78a9d5aa4ebd200e7c8b393bc7a11e4485c5c1",
+    "question_skeleton": "assertion a the entire weight of a body can be considered to act at its centre of gravity for calculating moments reason r the algebraic sum of moments of weights of all constituent particles of a body about its centre of gravity is zero choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_13_9111ee",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Door handle placement",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A door handle is fixed near the hinged edge of the door for convenient operation. **Reason (R):** A force applied at the hinge produces maximum moment of force. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Both Assertion and Reason are false. In fact, Assertion is false because the handle is placed near the free edge (furthest from the hinge), and Reason is false because a force at the hinge has zero perpendicular distance, hence zero moment.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ca52dbcd12c2571c3493ca046819622f2ea6a16c3e80eac680594fc21841ed4d",
+    "question_skeleton": "assertion a a door handle is fixed near the hinged edge of the door for convenient operation reason r a force applied at the hinge produces maximum moment of force choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_14_290674",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Couple acting on a body",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A couple produces pure rotational motion in a free rigid body without causing linear acceleration. **Reason (R):** The resultant linear force of a couple is zero because the two constituent forces are equal in magnitude and opposite in direction. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the zero resultant force correctly explains why there is no translational acceleration.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "11879da40be19ad7f06cc00779cca096f60e5cf908364de74109bd38530e964d",
+    "question_skeleton": "assertion a a couple produces pure rotational motion in a free rigid body without causing linear acceleration reason r the resultant linear force of a couple is zero because the two constituent forces are equal in magnitude and opposite in direction choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_15_18e474",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "The Centre of Gravity Shifts",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "A uniform metre rule of length 100 cm has its centre of gravity at the 50 cm mark. If a small metal weight is attached securely to the rule at the 80 cm mark, what happens to the position of the combined centre of gravity of the system?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It remains at 50 cm."
+      },
+      {
+        "key": "B",
+        "text": "It shifts to the left of 50 cm."
+      },
+      {
+        "key": "C",
+        "text": "It shifts to the right of 50 cm, towards the added mass."
+      },
+      {
+        "key": "D",
+        "text": "It moves beyond 100 cm."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The centre of gravity of a composite body is the point where the resultant weight acts. Adding a mass to the right side (at 80 cm) shifts the resultant balance point towards the added mass, to the right of 50 cm.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fa83844c448fa3192cd8cc4715b939729746be60c5007f5e839b6f53a23c71ac",
+    "question_skeleton": "assertion a when a loaded ship is unloaded its centre of gravity shifts downward reason r the position of the centre of gravity depends upon the distribution of mass within the body choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_16_582e21",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Circular motion vs linear motion speed",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In uniform circular motion, speed is constant but linear momentum is not constant. **Reason (R):** Linear momentum is a vector quantity and depends on velocity, whose direction changes continuously in a circle. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the vector nature of momentum explains why it continuously changes direction even when speed is constant.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a2f40b236af00521914fc1dc8fcf859479df9f077b2cfa370142fbbbab4cf1cc",
+    "question_skeleton": "assertion a in uniform circular motion speed is constant but linear momentum is not constant reason r linear momentum is a vector quantity and depends on velocity whose direction changes continuously in a circle choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_17_487ffd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Dynamic equilibrium example",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A raindrop falling with a constant terminal velocity is in dynamic equilibrium. **Reason (R):** The downward gravitational force on the raindrop is balanced by the upward buoyant force and viscous drag force. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the net zero resultant force on a moving body explains why it is in dynamic equilibrium.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "04e918c1637394da9e755d1d080387b8da7e6ccc102c715b586286bf2a7bd495",
+    "question_skeleton": "assertion a a raindrop falling with a constant terminal velocity is in dynamic equilibrium reason r the downward gravitational force on the raindrop is balanced by the upward buoyant force and viscous drag force choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_18_65dab4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Centrifugal force origin",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Centrifugal force on a stone whirled in a circle by a string is the reaction force to the centripetal force. **Reason (R):** Centripetal and centrifugal forces form an action-reaction pair according to Newton's third law. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Both Assertion and Reason are false. Centrifugal force is a fictitious force in a rotating frame, not Newton's third law reaction to centripetal force. The reaction to the tension on the stone is the outward pull exerted by the stone on the hand.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fce414991400fec150d7da30ce64a696f33e3aaa23781169dff1d98ce71c2b37",
+    "question_skeleton": "assertion a centrifugal force on a stone whirled in a circle by a string is the reaction force to the centripetal force reason r centripetal and centrifugal forces form an action reaction pair according to newton s third law choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_19_2876fe",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Turning of a water tap",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** To open or close a water tap, two equal and opposite forces are applied by the fingers. **Reason (R):** A single force cannot produce rotation in a pivoted body. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Assertion is true (a couple is applied to turn the tap spindle). Reason is false because a single force can easily produce rotation if the body is pivoted at a point away from the line of action.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e8af39ecdb8506b137e9c12b194c14a3c6c9dacfb34e88aedb5516d92e5c9684",
+    "question_skeleton": "assertion a to open or close a water tap two equal and opposite forces are applied by the fingers reason r a single force cannot produce rotation in a pivoted body choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_20_c86e5d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Equilibrium of a triangular lamina",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A uniform triangular lamina balances horizontally when supported on the tip of a pencil at the intersection of its medians. **Reason (R):** The centroid of a uniform triangular lamina coincides with its centre of gravity. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the centroid being the centre of gravity explains why the lamina balances stably on that point.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dbcb1e5144f1a70eabebda6956070c3e57fade28e53cf1c74038b7050b80e1be",
+    "question_skeleton": "assertion a a uniform triangular lamina balances horizontally when supported on the tip of a pencil at the intersection of its medians reason r the centroid of a uniform triangular lamina coincides with its centre of gravity choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_21_b7ddad",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Moment of a force unit",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The SI unit of moment of force is newton-metre (N m). **Reason (R):** 1 N m of moment of force is equal to 1 joule of energy because both have the same base dimensional formula. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Assertion is true. Reason is false because moment of force is a vector quantity representing rotational effect, whereas joule is reserved exclusively for work and energy (scalar quantities).",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3d577444d08888c26f66704d9f6ff89e6795f2bf6ecaeb580a79268585d59fd6",
+    "question_skeleton": "assertion a the si unit of moment of force is newton metre n m reason r # n m of moment of force is equal to # joule of energy because both have the same base dimensional formula choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_22_a092f6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Centre of gravity of a bent wire",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If a straight uniform wire is bent into an L-shape with equal arms, its centre of gravity lies on the wire itself. **Reason (R):** The centre of gravity of any symmetric body must lie on its axis of symmetry. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because the CG of an L-shaped wire lies in empty space between the two arms, not on the wire itself. Reason is true for symmetrical mass distributions.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6a9853230997d6b9e9ae3cb63134e7529e2e77dcb1a60da820204b9a03132e4a",
+    "question_skeleton": "assertion a if a straight uniform wire is bent into an l shape with equal arms its centre of gravity lies on the wire itself reason r the centre of gravity of any symmetric body must lie on its axis of symmetry choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_23_b1bd69",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Balancing a scale off-center",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A uniform metre scale can be balanced at the 40 cm mark by suspending a suitable mass at the 10 cm mark. **Reason (R):** The weight of the scale itself acts at its 50 cm mark and produces a clockwise moment about the 40 cm pivot. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The scale's weight at 50 cm creates a clockwise moment (distance 10 cm), which is balanced by the anticlockwise moment of the suspended mass at 10 cm (distance 30 cm).",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "be937554ae082cc1e379f7ae07ba88ca517f5522d513d0cef992ab05dba60a40",
+    "question_skeleton": "assertion a a uniform metre scale can be balanced at the # cm mark by suspending a suitable mass at the # cm mark reason r the weight of the scale itself acts at its # cm mark and produces a clockwise moment about the # cm pivot choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_24_06afd4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Planetary orbit centripetal force",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The gravitational attraction between the Sun and a planet provides the necessary centripetal force for the planet's orbital motion. **Reason (R):** Centripetal force is not a new fundamental force of nature but is provided by real physical forces such as gravity, tension, or electrostatic attraction. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason accurately explains how gravitational force acts as the centripetal provider.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7f8146786d4e59a5815eca356e12a780646ec625337d8fb5c9f4169c4b0023a4",
+    "question_skeleton": "assertion a the gravitational attraction between the sun and a planet provides the necessary centripetal force for the planet s orbital motion reason r centripetal force is not a new fundamental force of nature but is provided by real physical forces such as gravity tension or electrostatic attraction choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_25_bd2ad9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Neutral equilibrium definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A uniform sphere rolling on a flat horizontal floor is in neutral equilibrium. **Reason (R):** In neutral equilibrium, when the body is slightly displaced, its centre of gravity neither rises nor falls. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the constant height of the centre of gravity during displacement defines neutral equilibrium.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3e14e3e3cc80a1d5e9ca22df8b7b2dced2833cc29f30adc44cad5be2f52acd7d",
+    "question_skeleton": "assertion a a uniform sphere rolling on a flat horizontal floor is in neutral equilibrium reason r in neutral equilibrium when the body is slightly displaced its centre of gravity neither rises nor falls choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_26_4bc5eb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Leaning Tower of Pisa stability",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The Leaning Tower of Pisa does not topple over despite its noticeable tilt. **Reason (R):** The vertical line passing through its centre of gravity falls well within its base of support. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the line of gravity remaining inside the base of support correctly explains why it does not topple.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9dabe5ded77ffb9b1e100df0e5791b64cc7516cd02869bc15ca2a218d821e27e",
+    "question_skeleton": "assertion a the leaning tower of pisa does not topple over despite its noticeable tilt reason r the vertical line passing through its centre of gravity falls well within its base of support choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_27_fa559a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Effect of force along axis of rotation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A force whose line of action passes through the axis of rotation produces zero moment of force. **Reason (R):** The perpendicular distance from the axis of rotation to the line of action of the force is zero. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Since moment = force × distance, a distance of zero guarantees zero torque.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "364649c73b04472208edbc008ca33c54e308e76437c391af4708b4fc8ece4d3a",
+    "question_skeleton": "assertion a a force whose line of action passes through the axis of rotation produces zero moment of force reason r the perpendicular distance from the axis of rotation to the line of action of the force is zero choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_28_5e8ef1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Circular motion tangential acceleration",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In non-uniform circular motion, the acceleration of the body is directed strictly towards the center. **Reason (R):** Whenever a body moves along a circular path, it possesses centripetal acceleration. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because in non-uniform circular motion, there is both a centripetal acceleration and a tangential acceleration, so the net acceleration is not purely central. Reason is true.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1a7c5d49a8dddbae9c051daadb37996fbf359c38cdbd45257b8b55a7ba828f3c",
+    "question_skeleton": "assertion a in non uniform circular motion the acceleration of the body is directed strictly towards the center reason r whenever a body moves along a circular path it possesses centripetal acceleration choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_29_ca7722",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Unstable equilibrium cone on apex",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A solid cone balanced vertically on its apex is in unstable equilibrium. **Reason (R):** A slight tilt causes its centre of gravity to lower, creating a toppling moment in the direction of tilt. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the lowering of the centre of gravity upon displacement characterizes unstable equilibrium.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cf74656bcea7b925e70d083288f7c20bfa195e58ca3b3c9de13e4293cc46f9ef",
+    "question_skeleton": "assertion a a solid cone balanced vertically on its apex is in unstable equilibrium reason r a slight tilt causes its centre of gravity to lower creating a toppling moment in the direction of tilt choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_30_e70f15",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Hand grinder handle placement",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The handle of a domestic hand-flour grinder is placed near its outer rim. **Reason (R):** Locating the handle far from the central axle maximizes the lever arm, minimizing the muscular force required. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and maximizing the lever arm to minimize effort is the correct physical explanation.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cc97af14e392af645ab0953a519e759f88a2e7da83b35febf3c522245ef05537",
+    "question_skeleton": "assertion a the handle of a domestic hand flour grinder is placed near its outer rim reason r locating the handle far from the central axle maximizes the lever arm minimizing the muscular force required choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_31_9816ca",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Mass and centre of gravity relationship",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The centre of mass of a body and its centre of gravity always coincide in any gravitational field. **Reason (R):** Centre of gravity depends on the local acceleration due to gravity, whereas centre of mass depends solely on mass distribution. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because in a non-uniform gravitational field (e.g. over a very large satellite or mountain), the CG shifts away from the CM toward the region of stronger field. Reason is true.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7451a9c88c2035f4aaf73409f37d428416315c0689bfed1531d883e9245a4e89",
+    "question_skeleton": "assertion a the centre of mass of a body and its centre of gravity always coincide in any gravitational field reason r centre of gravity depends on the local acceleration due to gravity whereas centre of mass depends solely on mass distribution choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_32_44fb84",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Bicycle banking on curves",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A cyclist leans inward while negotiating a sharp curved track. **Reason (R):** Leaning inward allows the normal reaction from the ground to provide the necessary centripetal force. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the inward tilt resolves the ground reaction into a horizontal component providing centripetal force.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a6d81ce431a6c04dcd7b3f07bc6f3cd18f8ef1c894cbb3fc06681df6e8fab40a",
+    "question_skeleton": "assertion a a cyclist leans inward while negotiating a sharp curved track reason r leaning inward allows the normal reaction from the ground to provide the necessary centripetal force choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_33_58718c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "The Couple on a Steering Wheel",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "A driver applies a couple consisting of two equal and opposite forces of 15 N each on the outer rim of a steering wheel of diameter 0.4 m. If the driver now applies forces of 30 N each on an inner rim having a diameter of 0.2 m, what is the new moment of the couple?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3 N m"
+      },
+      {
+        "key": "B",
+        "text": "6 N m"
+      },
+      {
+        "key": "C",
+        "text": "12 N m"
+      },
+      {
+        "key": "D",
+        "text": "24 N m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The moment of a couple is given by: Moment = Either Force × Arm of Couple (perpendicular distance between forces). Initial couple = 15 N × 0.4 m = 6 N m. When applying 30 N forces on an inner rim of diameter 0.2 m: New couple = 30 N × 0.2 m = 6 N m. Therefore, doubling the force while halving the couple arm leaves the moment of the couple unchanged at 6 N m.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7f3f2445fc09faf1a386ddc421cec8dfe4535893ab29433e902fd57450305e8e",
+    "question_skeleton": "assertion a turning a steering wheel with two hands requires less effort than turning it with one hand reason r two hands apply a couple whose forces produce moments in the same rotational sense choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_34_0d8344",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Uniform velocity and equilibrium",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An aircraft cruising at a steady altitude with constant velocity is in dynamic equilibrium. **Reason (R):** The forward engine thrust balances air drag, and the aerodynamic lift balances the weight of the aircraft. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the exact balance of all opposing forces explains the constant-velocity dynamic equilibrium.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "996f8d6c9bc266fbc9f43c11976fd8ad22b759244834665751f4b30d3631390f",
+    "question_skeleton": "assertion a an aircraft cruising at a steady altitude with constant velocity is in dynamic equilibrium reason r the forward engine thrust balances air drag and the aerodynamic lift balances the weight of the aircraft choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_35_1731fb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Tightrope walker pole role",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A tightrope walker holds a long, flexible pole to maintain balance. **Reason (R):** The long pole lowers the overall centre of gravity and increases rotational inertia, reducing rapid tipping. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the lowering of the CG and increased moment of inertia explain the stability advantage.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "245e6611e353f07add4c98dc064bf41d28e398d75d9394f1695dac0b907e62bf",
+    "question_skeleton": "assertion a a tightrope walker holds a long flexible pole to maintain balance reason r the long pole lowers the overall centre of gravity and increases rotational inertia reducing rapid tipping choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_36_391393",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Zero resultant moment and translation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If the net torque on a rigid body is zero, the body cannot undergo any motion. **Reason (R):** Zero torque guarantees that the body has no angular acceleration. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because the body can still undergo linear acceleration if the net linear force is non-zero, or it can maintain uniform linear motion. Reason is true.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9d4c11c5819b127e48be5c197f199b08a9f1234689270733597783d4d0fd1a75",
+    "question_skeleton": "assertion a if the net torque on a rigid body is zero the body cannot undergo any motion reason r zero torque guarantees that the body has no angular acceleration choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_37_9c5f37",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Centre of gravity of irregular lamina",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The centre of gravity of an irregular planar lamina can be located by suspending it freely from three plumb-line points. **Reason (R):** When freely suspended from any point, the centre of gravity always lies vertically below the point of suspension. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the vertical alignment of the CG beneath the suspension point is the exact operating principle of the plumb-line method.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dd56292c0a557ea4b6bc87fcbb7c24e8cdcf4de2da35f07de1e2165534f9ed54",
+    "question_skeleton": "assertion a the centre of gravity of an irregular planar lamina can be located by suspending it freely from three plumb line points reason r when freely suspended from any point the centre of gravity always lies vertically below the point of suspension choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_38_8071a8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Centripetal force on Earth",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The Earth does not fall into the Sun despite the immense gravitational pull between them. **Reason (R):** The gravitational attraction provides the continuous centripetal acceleration required to curve the Earth's path into an elliptical orbit. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the continuous redirection into a closed orbit explains why orbital motion avoids collision.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c89268003e6b118053b7bcf581ba4cddadb6f476799891e53690420ddd2f76d6",
+    "question_skeleton": "assertion a the earth does not fall into the sun despite the immense gravitational pull between them reason r the gravitational attraction provides the continuous centripetal acceleration required to curve the earth s path into an elliptical orbit choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_39_a127b2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Static equilibrium definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A book lying at rest on a horizontal table is an example of static equilibrium. **Reason (R):** Static equilibrium occurs only when no forces of any kind act on a body. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Assertion is true. Reason is false because static equilibrium requires that the net resultant force is zero (the downward gravitational force is balanced by the upward normal reaction), not that zero forces exist.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7067a373a0fb3bf67f9324119b7ce4c5e27bf48dc9fd6af19ab15d7dec94220a",
+    "question_skeleton": "assertion a a book lying at rest on a horizontal table is an example of static equilibrium reason r static equilibrium occurs only when no forces of any kind act on a body choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_force_40_01f930",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Force",
+    "title": "Assertion–Reason: Perpendicular distance in torque",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Pushing perpendicular to the surface of a door produces a greater turning effect than pushing at an oblique angle with the same force. **Reason (R):** The perpendicular distance from the hinge to the line of action of the force is maximum when the force is applied perpendicular to the plane of the door. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and maximum perpendicular distance at 90° yields maximum torque.",
+    "concept_name": "Force",
+    "concept_tag": "force assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f148a98b0908f19a613a57e3739b76226764e402edb27a3540daaf2c9a296b78",
+    "question_skeleton": "assertion a pushing perpendicular to the surface of a door produces a greater turning effect than pushing at an oblique angle with the same force reason r the perpendicular distance from the hinge to the line of action of the force is maximum when the force is applied perpendicular to the plane of the door choose the correct option"
+  }
+]

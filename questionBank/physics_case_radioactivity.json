@@ -1,0 +1,2252 @@
+[
+  {
+    "globalId": "qb_case_radioactivity_1_e6f867",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 1: Radioactivity as a Purely Nuclear Phenomenon",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a nuclear research laboratory, a sample of radioactive radium chloride (RaCl₂) is subjected to extreme conditions: (1) heated in an electric arc furnace to 2500°C, (2) cooled to near absolute zero (2 K) in liquid helium, (3) compressed in a diamond anvil cell to 500,000 atmospheres, and (4) reacted chemically with sulfuric acid to precipitate insoluble radium sulfate (RaSO₄). **Investigative Question:** How does the half-life and decay rate (activity) of the radium atoms change across these four extreme tests? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Heating speeds up decay by 50%; cooling stops decay completely."
+      },
+      {
+        "key": "B",
+        "text": "The decay rate and half-life remain strictly, identically unchanged across all tests, proving that radioactivity originates solely within the atomic nucleus and is completely independent of orbital electron configurations, chemical bonds, pressure, or temperature."
+      },
+      {
+        "key": "C",
+        "text": "Reacting with sulfuric acid converts radium into a non-radioactive isotope."
+      },
+      {
+        "key": "D",
+        "text": "Compression increases the half-life tenfold by squeezing the nucleus."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Radioactivity is a spontaneous nuclear phenomenon involving the decay of unstable atomic nuclei. Chemical reactions, temperature, pressure, oxidation states, and electric/magnetic fields affect only the valence electronic shells, which involve electron-volt energy scales (~eV). Nuclear binding forces operate inside the nucleus at mega-electron-volt energy scales (~MeV). Thus, external physical and chemical environments have zero effect on nuclear decay rate.",
+    "concept_name": "Invariance Under Chemical and Physical Changes",
+    "concept_tag": "radioactivity case based invariance under chemical and physical changes",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e6f867567ed359709daac71f023512f07e19feb18067bd837e542689d3a90ecd",
+    "question_skeleton": "case scenario in a nuclear research laboratory a sample of radioactive radium chloride racl is subjected to extreme conditions 1 heated in an electric arc furnace to 2500 c 2 cooled to near absolute zero 2 k in liquid helium 3 compressed in a diamond anvil cell to 500 000 atmospheres and 4 reacted chemically with sulfuric acid to precipitate insoluble radium sulfate raso investigative question how does the half life and decay rate activity of the radium atoms change across these four extreme tests choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_2_4dfe68",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 2: Alpha Particle Nature, Charge, and Mass",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Ernest Rutherford and Thomas Royds fired alpha particles emitted from radon gas through an ultra-thin glass wall into an evacuated discharge tube. After several days of collection, an electric discharge was passed through the collected gas, and its optical emission spectrum was analyzed. **Investigative Question:** What gas spectrum was observed in the discharge tube, confirming the physical identity of alpha particles? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrogen gas spectrum, proving alpha particles are protons."
+      },
+      {
+        "key": "B",
+        "text": "Helium gas spectrum, proving that an alpha particle is a helium nucleus consisting of 2 protons and 2 neutrons (doubly ionized helium ion, He²⁺) of mass ~4 u and charge +2e."
+      },
+      {
+        "key": "C",
+        "text": "Oxygen gas spectrum, proving alpha particles are ozone ions."
+      },
+      {
+        "key": "D",
+        "text": "Nitrogen gas spectrum, proving alpha particles are atmospheric fragments."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rutherford and Royds' famous 1909 experiment proved conclusively that alpha particles are bare helium nuclei (⁴₂He²⁺). An alpha particle consists of two protons and two neutrons tightly bound by strong nuclear forces (mass = 4.0015 u, electric charge = +2e = +3.2 × 10⁻¹⁹ C). Upon capturing two free orbital electrons from its surroundings, every alpha particle neutralizes into a normal helium atom.",
+    "concept_name": "Characteristics of Doubly Ionized Helium Nuclei",
+    "concept_tag": "radioactivity case based characteristics of doubly ionized helium nuclei",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4dfe68fd7b38c8f55d0afcdc5b481a4e1c5c86d5d1b7a3eae3a8fff108bed7d9",
+    "question_skeleton": "case scenario ernest rutherford and thomas royds fired alpha particles emitted from radon gas through an ultra thin glass wall into an evacuated discharge tube after several days of collection an electric discharge was passed through the collected gas and its optical emission spectrum was analyzed investigative question what gas spectrum was observed in the discharge tube confirming the physical identity of alpha particles choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_3_6b853b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 3: Beta-Minus Decay Mechanism and Origin in the Nucleus",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Since an atomic nucleus contains only protons and neutrons and contains zero electrons, a physics student wonders how a radioactive nucleus can emit a high-speed beta-minus (β⁻) electron during radioactive decay. **Investigative Question:** What subatomic nuclear transformation produces the beta-minus electron emitted from the nucleus? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "An orbital electron from the K-shell is sucked into the nucleus and ejected."
+      },
+      {
+        "key": "B",
+        "text": "An unstable neutron inside the nucleus spontaneously transforms into a proton, creating an electron (the beta particle) and an antineutrino, which are immediately ejected: n -> p + e⁻ + ν̅."
+      },
+      {
+        "key": "C",
+        "text": "Protons lose positive charge by friction, turning into electrons."
+      },
+      {
+        "key": "D",
+        "text": "Nuclear binding energy condenses directly into static electricity."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In a neutron-rich nucleus, stability is attained when a neutron decays via the weak nuclear interaction: ¹₀n -> ¹₁p + ⁰₋₁e⁻ + ν̅_e. The newly created proton remains bound inside the nucleus (increasing atomic number Z by 1), while the electron (β⁻ particle) and electron antineutrino (ν̅_e) are instantaneously expelled at relativistic speeds.",
+    "concept_name": "Neutron to Proton Conversion and Antineutrino Emission",
+    "concept_tag": "radioactivity case based neutron to proton conversion and antineutrino emission",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6b853bf324b31c02f66a65f187c1dda5086dfef51388c60845da4cac62d098f6",
+    "question_skeleton": "case scenario since an atomic nucleus contains only protons and neutrons and contains zero electrons a physics student wonders how a radioactive nucleus can emit a high speed beta minus electron during radioactive decay investigative question what subatomic nuclear transformation produces the beta minus electron emitted from the nucleus choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_4_93449c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 4: Comparison of Ionizing Power: Alpha vs Beta vs Gamma",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A cloud chamber is exposed to alpha particles, beta particles, and gamma rays. The track detector reveals: Radiation A produces broad, dense, continuous, thick straight vapor tracks. Radiation B produces thin, wispy, erratic zig-zag tracks. Radiation C produces no direct tracks, only sparse isolated specks where secondary electrons are liberated. **Investigative Question:** What are the identities of Radiations A, B, and C, and what is their relative order of ionizing power? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A: Gamma; B: Beta; C: Alpha (Gamma > Beta > Alpha)"
+      },
+      {
+        "key": "B",
+        "text": "A: Alpha; B: Beta; C: Gamma (Alpha ~ 10,000 > Beta ~ 100 > Gamma = 1)"
+      },
+      {
+        "key": "C",
+        "text": "A: Beta; B: Alpha; C: Gamma (Beta > Alpha > Gamma)"
+      },
+      {
+        "key": "D",
+        "text": "All three radiations produce identical track densities."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ionizing power depends on electric charge and velocity. Alpha particles carry double positive charge (+2e) and move relatively slowly (~1.5 × 10⁷ m/s), exerting strong Coulomb forces on gas atoms to produce ~10,000 ion pairs per millimeter (thick straight tracks). Beta particles have single charge (-e) and high relativistic speeds, ionizing ~100 times less (thin zig-zag tracks due to electron collisions). Gamma rays are uncharged photons, ionizing only indirectly via rare Compton/photoelectric interactions.",
+    "concept_name": "Differential Ionization Densities in Gas Chambers",
+    "concept_tag": "radioactivity case based differential ionization densities in gas chambers",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "93449c114cbcccea59b33f39a63d4e87fee77e023848069b3b54fb6010923022",
+    "question_skeleton": "case scenario a cloud chamber is exposed to alpha particles beta particles and gamma rays the track detector reveals radiation a produces broad dense continuous thick straight vapor tracks radiation b produces thin wispy erratic zig zag tracks radiation c produces no direct tracks only sparse isolated specks where secondary electrons are liberated investigative question what are the identities of radiations a b and c and what is their relative order of ionizing power choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_5_01aa7e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 5: Comparison of Penetrating Power: Alpha vs Beta vs Gamma",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A radiation safety officer sets up a Geiger-Muller counter behind various shields: Shield 1 is a single sheet of copy paper (0.1 mm thick); Shield 2 is a 5 mm aluminum plate; Shield 3 is a 10 cm thick dense lead block. **Investigative Question:** Which radiation is stopped by Shield 1 (paper), which penetrates Shield 1 but is stopped by Shield 2 (aluminum), and which requires Shield 3 (lead)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Paper stops Gamma; Aluminum stops Beta; Lead stops Alpha."
+      },
+      {
+        "key": "B",
+        "text": "Paper stops Alpha; Aluminum stops Beta; Lead attenuates Gamma."
+      },
+      {
+        "key": "C",
+        "text": "Paper stops Beta; Aluminum stops Alpha; Lead stops Gamma."
+      },
+      {
+        "key": "D",
+        "text": "All three penetrate paper and aluminum with zero attenuation."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Penetrating power is inversely related to ionizing power: (1) Alpha particles lose energy rapidly through intense ionization, completely absorbed by a sheet of paper or 3–5 cm of air. (2) Beta particles have lower mass and charge, penetrating paper but completely stopped by ~3–5 mm of aluminum or 1 m of air. (3) Gamma rays, possessing zero rest mass and charge, interact weakly with matter, requiring decimeters of lead or thick reinforced concrete to attenuate them.",
+    "concept_name": "Shielding Materials and Absorption Thicknesses",
+    "concept_tag": "radioactivity case based shielding materials and absorption thicknesses",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "01aa7e7ab289179d203ce497a9b3d6709436443d32c4c429c4cae7feaa1fdef6",
+    "question_skeleton": "case scenario a radiation safety officer sets up a geiger muller counter behind various shields shield 1 is a single sheet of copy paper 0 1 mm thick shield 2 is a 5 mm aluminum plate shield 3 is a 10 cm thick dense lead block investigative question which radiation is stopped by shield 1 paper which penetrates shield 1 but is stopped by shield 2 aluminum and which requires shield 3 lead choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_6_a47f64",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 6: Alpha Decay Displacement Law (Soddy-Fajans Rule)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A radioactive uranium-238 nucleus (²³⁸₉₂U) undergoes alpha decay to form a thorium daughter nucleus (Th) with the emission of an alpha particle (⁴₂He). **Investigative Question:** What are the mass number A and atomic number Z of the resulting thorium nucleus? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mass number A = 234; Atomic number Z = 90 (²³⁴₉₀Th)"
+      },
+      {
+        "key": "B",
+        "text": "Mass number A = 236; Atomic number Z = 91"
+      },
+      {
+        "key": "C",
+        "text": "Mass number A = 238; Atomic number Z = 94"
+      },
+      {
+        "key": "D",
+        "text": "Mass number A = 242; Atomic number Z = 90"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the Soddy-Fajans alpha decay law: when a parent nucleus emits an alpha particle (⁴₂He), its mass number decreases by 4 and its atomic number decreases by 2: ²³⁸₉₂U -> ²³⁴₉₀Th + ⁴₂He. The daughter thorium nucleus lies two places to the left in the periodic table.",
+    "concept_name": "Nuclear Transformation: ΔA = -4 and ΔZ = -2",
+    "concept_tag": "radioactivity case based nuclear transformation: δa = -4 and δz = -2",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a47f6400e984874697e8e1626180c55c4859c73861b5d5737dbafb7ef8bb7be3",
+    "question_skeleton": "case scenario a radioactive uranium 238 nucleus u undergoes alpha decay to form a thorium daughter nucleus th with the emission of an alpha particle he investigative question what are the mass number a and atomic number z of the resulting thorium nucleus choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_7_5006ab",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 7: Beta-Minus Decay Displacement Law and Isobar Formation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A radioactive carbon-14 nucleus (¹⁴₆C) used in archaeological radiocarbon dating undergoes beta-minus decay to produce a stable nitrogen nucleus (N). **Investigative Question:** What are the mass number A and atomic number Z of the daughter nitrogen nucleus, and what nuclear relationship exists between parent and daughter? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A = 13, Z = 7; they are isotopes."
+      },
+      {
+        "key": "B",
+        "text": "A = 14, Z = 7 (¹⁴₇N); they are isobars (nuclei with identical mass number A = 14 but different atomic numbers Z)."
+      },
+      {
+        "key": "C",
+        "text": "A = 14, Z = 5; they are isotones."
+      },
+      {
+        "key": "D",
+        "text": "A = 10, Z = 4; they are isomers."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In beta-minus decay, a neutron converts to a proton inside the nucleus: ¹⁴₆C -> ¹⁴₇N + ⁰₋₁e⁻ + ν̅. Total nucleon count (mass number A) remains 14 (ΔA = 0), while atomic number increases by 1 from 6 to 7 (ΔZ = +1). Nuclei with the same mass number A but different atomic numbers Z are isobars. The daughter shifts one place to the right in the periodic table.",
+    "concept_name": "Nuclear Transformation: ΔA = 0 and ΔZ = +1",
+    "concept_tag": "radioactivity case based nuclear transformation: δa = 0 and δz = +1",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5006abe935e560c4ed65608045e424d6af9e9e363f590f11d66fe777b9274060",
+    "question_skeleton": "case scenario a radioactive carbon 14 nucleus c used in archaeological radiocarbon dating undergoes beta minus decay to produce a stable nitrogen nucleus n investigative question what are the mass number a and atomic number z of the daughter nitrogen nucleus and what nuclear relationship exists between parent and daughter choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_8_f57610",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 8: Gamma Ray Emission: De-Excitation of Excited Nuclear States",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Following an alpha or beta decay, the daughter nucleus is frequently left in an energetically excited nuclear state, designated as (AZ X*). To shed this excess binding energy, the nucleus emits a gamma-ray photon (γ) to reach the ground state. **Investigative Question:** How do the mass number A and atomic number Z of the nucleus change during gamma ray emission? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mass number decreases by 1; atomic number increases by 1."
+      },
+      {
+        "key": "B",
+        "text": "Both mass number A and atomic number Z remain strictly unchanged (ΔA = 0, ΔZ = 0); the nucleus merely transitions from a higher nuclear energy level to a lower stable energy level."
+      },
+      {
+        "key": "C",
+        "text": "Mass number decreases by 2; atomic number decreases by 1."
+      },
+      {
+        "key": "D",
+        "text": "Atomic number increases by 2; mass number remains unchanged."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Gamma emission is the nuclear analogue of atomic photon emission. When an excited nucleus transitions to a lower energy state: AZ X* -> AZ X + γ. Because a photon carries zero rest mass and zero electric charge, there is no change in the number of protons or neutrons: ΔZ = 0 and ΔA = 0. The chemical identity and isotopic species remain identical.",
+    "concept_name": "Nuclear Isomeric Transitions with Zero Change in A and Z",
+    "concept_tag": "radioactivity case based nuclear isomeric transitions with zero change in a and z",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f57610741e985de1bf1fe592f48fcd5e611d59b0393642a2d4af3ab46ecf5fdb",
+    "question_skeleton": "case scenario following an alpha or beta decay the daughter nucleus is frequently left in an energetically excited nuclear state designated as az x to shed this excess binding energy the nucleus emits a gamma ray photon to reach the ground state investigative question how do the mass number a and atomic number z of the nucleus change during gamma ray emission choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_9_0d014c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 9: Radioactive Decay Series: Calculating Number of Alpha and Beta Particles",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A primordial uranium-238 nucleus (²³⁸₉₂U) undergoes a long radioactive decay cascade through successive alpha and beta emissions, terminating at a stable lead-206 nucleus (²⁰⁶₈₂Pb). **Investigative Question:** How many alpha (α) particles and beta (β⁻) particles are emitted during this entire decay series? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6 alpha particles and 8 beta particles"
+      },
+      {
+        "key": "B",
+        "text": "8 alpha particles and 6 beta particles"
+      },
+      {
+        "key": "C",
+        "text": "4 alpha particles and 2 beta particles"
+      },
+      {
+        "key": "D",
+        "text": "8 alpha particles and 8 beta particles"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Only alpha decay alters the mass number (each α reduces A by 4). Change in mass number: ΔA = 238 - 206 = 32. Number of alpha particles: n_α = ΔA / 4 = 32 / 4 = 8 alpha particles. Each alpha particle decreases Z by 2, so 8 alpha decays decrease Z by 8 × 2 = 16 (from 92 to 76). However, the final atomic number is Z = 82 (lead). The difference is restored by beta decays (each β⁻ increases Z by 1): n_β = 82 - 76 = 6 beta particles. Thus: 8 α and 6 β⁻.",
+    "concept_name": "Sequential Decay from Uranium-238 to Lead-206",
+    "concept_tag": "radioactivity case based sequential decay from uranium-238 to lead-206",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0d014c16a03f7962507db7ea56a2944a8feb891d296f8338b77d3dcaaea93938",
+    "question_skeleton": "case scenario a primordial uranium 238 nucleus u undergoes a long radioactive decay cascade through successive alpha and beta emissions terminating at a stable lead 206 nucleus pb investigative question how many alpha particles and beta particles are emitted during this entire decay series choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_10_849c66",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 10: Half-Life Calculation of a Radioactive Sample",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A radiochemist prepares a fresh 80 mg sample of radioactive iodine-131 (¹³¹I), which has a half-life of T₁/2 = 8.0 days. The sample is stored safely in a lead-lined vault. **Investigative Question:** What mass of radioactive iodine-131 remains undecayed after 32 days? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "40 mg"
+      },
+      {
+        "key": "B",
+        "text": "20 mg"
+      },
+      {
+        "key": "C",
+        "text": "5.0 mg"
+      },
+      {
+        "key": "D",
+        "text": "2.5 mg"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The number of half-life periods elapsed is n = t / T₁/2 = 32 days / 8.0 days = 4 half-lives. The remaining mass of undecayed radioactive substance is given by m = m₀ × (1/2)ⁿ = 80 mg × (1/2)⁴ = 80 mg × (1/16) = 5.0 mg. (75 mg has decayed into stable xenon-131).",
+    "concept_name": "Exponential Decay Law N = N₀ (1/2)^n",
+    "concept_tag": "radioactivity case based exponential decay law n = n₀ (1/2)^n",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "849c669849cc6bd16dce59ba81ac6221402783cba08cf5dce48f214166b9ff71",
+    "question_skeleton": "case scenario a radiochemist prepares a fresh 80 mg sample of radioactive iodine 131 i which has a half life of t 1 2 8 0 days the sample is stored safely in a lead lined vault investigative question what mass of radioactive iodine 131 remains undecayed after 32 days choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_11_81889d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 11: Activity of a Radioactive Source and the Becquerel (Bq)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A medical cobalt-60 (⁶⁰Co) radiotherapy capsule contains N = 3.7 × 10¹⁶ radioactive atoms. The decay constant for cobalt-60 is λ = 4.17 × 10⁻⁹ s⁻¹. **Investigative Question:** What is the activity A of this radiotherapy source in Becquerels (Bq) and in Curies (Ci)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A = 1.54 × 10⁸ Bq ≈ 4.17 mCi"
+      },
+      {
+        "key": "B",
+        "text": "A = 3.7 × 10¹⁰ Bq = 1.0 Ci"
+      },
+      {
+        "key": "C",
+        "text": "A = 1.54 × 10¹⁰ Bq ≈ 0.417 Ci"
+      },
+      {
+        "key": "D",
+        "text": "A = 1000 Bq = 1.0 μCi"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Activity A is the number of disintegrations per second: A = λ × N = (4.17 × 10⁻⁹ s⁻¹) × (3.7 × 10¹⁶ atoms) ≈ 1.543 × 10⁸ disintegrations per second (Becquerels, Bq). Since 1 Curie (Ci) = 3.7 × 10¹⁰ Bq: Activity in Curies = (1.543 × 10⁸) / (3.7 × 10¹⁰) ≈ 4.17 × 10⁻³ Ci = 4.17 mCi.",
+    "concept_name": "Decay Constant and Activity Formula A = λN",
+    "concept_tag": "radioactivity case based decay constant and activity formula a = λn",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "81889dfc10d7f53223dc1a265200f709e917b3e4f1aa7896cbb28e9ea6426683",
+    "question_skeleton": "case scenario a medical cobalt 60 co radiotherapy capsule contains n 3 7 10 radioactive atoms the decay constant for cobalt 60 is 4 17 10 s investigative question what is the activity a of this radiotherapy source in becquerels bq and in curies ci choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_12_4e5107",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 12: Background Radiation: Cosmic Rays, Radon Gas, and Internal Radioisotopes",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A health physicist measures the count rate of an empty radiation lab using a sensitive scintillation detector with no radioactive sources present. The detector consistently registers 25 to 30 counts per minute. **Investigative Question:** What accounts for this persistent baseline count rate, and what are its major natural sources? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Electrical noise from the building's 50 Hz AC wiring."
+      },
+      {
+        "key": "B",
+        "text": "Natural background radiation, originating from cosmic rays entering from outer space, radon gas (²²²Rn) seeping from subterranean granite, and primordial radionuclides (⁴⁰K, ¹⁴C) naturally present in rocks, building bricks, food, and human bones."
+      },
+      {
+        "key": "C",
+        "text": "Thermal infrared radiation emitted by room air molecules."
+      },
+      {
+        "key": "D",
+        "text": "Leakage of radio waves from nearby FM radio towers."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Background radiation is ubiquitous. Natural sources contribute ~80% of human annual dose: (1) Radon-222 gas, an alpha-emitting noble gas product of subterranean uranium decay, accumulates in basements and soil. (2) Cosmic radiation from stellar/solar sources. (3) Terrestrial radionuclides in rocks and concrete (uranium, thorium decay chains). (4) Internal radioisotopes inside the human body (mainly Potassium-40, ⁴⁰K, and Carbon-14, ¹⁴C).",
+    "concept_name": "Ubiquitous Environmental Radiation Exposure",
+    "concept_tag": "radioactivity case based ubiquitous environmental radiation exposure",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4e510774bbb03822c18c2d28cb6caadcd7776c249ca370fbe2a4ed91f67dd573",
+    "question_skeleton": "case scenario a health physicist measures the count rate of an empty radiation lab using a sensitive scintillation detector with no radioactive sources present the detector consistently registers 25 to 30 counts per minute investigative question what accounts for this persistent baseline count rate and what are its major natural sources choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_13_35e584",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 13: Carbon-14 Dating of Ancient Wooden Artifacts",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An archaeologist discovers an ancient wooden ceremonial bowl in an Egyptian tomb. Living wood exhibits a Carbon-14 activity of 16.0 disintegrations per minute per gram of carbon (dpm/g). Laboratory accelerator mass spectrometry reveals that the ancient wooden bowl has an activity of only 4.0 dpm/g. The half-life of Carbon-14 is 5,730 years. **Investigative Question:** How old is the archaeological wooden bowl? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2,865 years old"
+      },
+      {
+        "key": "B",
+        "text": "5,730 years old"
+      },
+      {
+        "key": "C",
+        "text": "11,460 years old"
+      },
+      {
+        "key": "D",
+        "text": "22,920 years old"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "While an organism is alive, continuous photosynthesis and food intake maintain Carbon-14 in dynamic equilibrium with atmospheric ¹⁴C/¹²C ratio (16 dpm/g). Upon death, carbon intake ceases and ¹⁴C decays (half-life 5,730 years). Current activity / Initial activity = 4.0 / 16.0 = 1/4 = (1/2)². Exactly n = 2 half-lives have elapsed. Age = 2 × 5,730 years = 11,460 years.",
+    "concept_name": "Radiocarbon Equilibrium and Beta Decay of Carbon-14",
+    "concept_tag": "radioactivity case based radiocarbon equilibrium and beta decay of carbon-14",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "35e5841ef54e4380bc5318277c36fec067f9c39d6cf122d76eb6e91e916d1dad",
+    "question_skeleton": "case scenario an archaeologist discovers an ancient wooden ceremonial bowl in an egyptian tomb living wood exhibits a carbon 14 activity of 16 0 disintegrations per minute per gram of carbon dpm g laboratory accelerator mass spectrometry reveals that the ancient wooden bowl has an activity of only 4 0 dpm g the half life of carbon 14 is 5 730 years investigative question how old is the archaeological wooden bowl choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_14_922332",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 14: Thickness Gauging in Paper Manufacturing Using Beta Radiation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a high-speed papermaking mill, continuous paper rolls moving at 20 m/s pass between a beta radiation source (Krypton-85 or Strontium-90) positioned below the sheet and a radiation detector mounted above it. **Investigative Question:** Why is a beta source chosen over alpha or gamma sources for measuring the thickness of paper sheets? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Alpha particles would burn through the paper with intense heat."
+      },
+      {
+        "key": "B",
+        "text": "Alpha particles cannot penetrate even a single sheet of paper, while gamma rays are too penetrating and would pass through with virtually zero attenuation; beta particles are partially attenuated by paper, so detected count rate varies sensitively with paper thickness and density."
+      },
+      {
+        "key": "C",
+        "text": "Gamma rays would make the paper radioactive."
+      },
+      {
+        "key": "D",
+        "text": "Beta particles reflect off paper like a mirror."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For thickness gauging, the radiation attenuation must be highly sensitive to microscopic changes in sheet thickness. Alpha particles are completely absorbed by paper (zero transmission). Gamma rays penetrate easily with < 0.1% attenuation (zero sensitivity). Beta particles are moderately absorbed (exponential attenuation I = I₀ e^(-μx)); small thickness variations produce sharp changes in transmitted beta counts, allowing real-time roller adjustment.",
+    "concept_name": "Non-Contact Industrial Quality Control with Beta Attenuation",
+    "concept_tag": "radioactivity case based non-contact industrial quality control with beta attenuation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "922332cd66c28d40f89b776de20e5a2501101488081c0ee84f91431b19383820",
+    "question_skeleton": "case scenario in a high speed papermaking mill continuous paper rolls moving at 20 m s pass between a beta radiation source krypton 85 or strontium 90 positioned below the sheet and a radiation detector mounted above it investigative question why is a beta source chosen over alpha or gamma sources for measuring the thickness of paper sheets choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_15_a95972",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 15: Medical Radiotherapy: Cobalt-60 Gamma Knife for Deep Tumors",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An oncology department uses a Cobalt-60 teletherapy machine (emitting gamma photons of 1.17 MeV and 1.33 MeV) to treat deep-seated brain tumors. Multiple collimated gamma beams converge precisely at the tumor target from multiple angles while the patient's head remains immobilized. **Investigative Question:** Why are gamma rays chosen for deep tumor therapy rather than alpha or beta particles? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Alpha and beta particles cannot penetrate skin and skull bone to reach deep brain tissue; high-energy gamma rays penetrate deeply with cross-firing beams delivering a lethal ionizing dose at the focal intersection while sparing surrounding healthy tissue."
+      },
+      {
+        "key": "B",
+        "text": "Gamma rays only kill cancerous cells while leaving all other cells completely unaffected."
+      },
+      {
+        "key": "C",
+        "text": "Gamma rays carry negative charge that attracts tumor blood vessels."
+      },
+      {
+        "key": "D",
+        "text": "Alpha particles would turn the patient's skull into gold."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Alpha particles cannot penetrate dead stratum corneum of skin (~0.05 mm), and beta particles penetrate only ~5–10 mm in soft tissue. For tumors buried centimeters deep, deeply penetrating gamma radiation is mandatory. By rotating multiple weak gamma beams that intersect at the exact stereotactic focal point of the tumor (Gamma Knife), the tumor receives a destructive cumulative radiation dose while surrounding healthy brain tissue receives minimal exposure.",
+    "concept_name": "High Penetration of Gamma Rays in Cancer Therapy",
+    "concept_tag": "radioactivity case based high penetration of gamma rays in cancer therapy",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a959729fec2dd932b0c632df02a92ab9be3653c69ed064ef33161efc96871586",
+    "question_skeleton": "case scenario an oncology department uses a cobalt 60 teletherapy machine emitting gamma photons of 1 17 mev and 1 33 mev to treat deep seated brain tumors multiple collimated gamma beams converge precisely at the tumor target from multiple angles while the patient s head remains immobilized investigative question why are gamma rays chosen for deep tumor therapy rather than alpha or beta particles choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_16_d3ba46",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 16: Radioactive Tracers: Detecting Underground Water Pipe Leaks with Sodium-24",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A municipal water utility suspects an underground drinking water pipe is leaking beneath city streets. Engineers inject a tiny amount of Sodium-24 (²⁴Na, a beta/gamma emitter with a half-life of 15 hours) into the water pipeline and trace the pipeline route on the surface with a Geiger-Muller counter. **Investigative Question:** How is the exact leak location pinpointed, and why is Sodium-24 safe to use in municipal water? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The pipe explodes at the leak location."
+      },
+      {
+        "key": "B",
+        "text": "Water pooling into the surrounding soil at the leak site creates a sharp spike in detected surface radiation; Sodium-24 has a very short half-life (15 hours), so its radioactivity decays away completely to harmless trace levels within a few days."
+      },
+      {
+        "key": "C",
+        "text": "Sodium-24 turns the leaking water bright fluorescent green."
+      },
+      {
+        "key": "D",
+        "text": "The detector measures the temperature rise caused by nuclear fusion."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Where a pipe is cracked, radioactive water seeps into adjacent soil, accumulating a concentrated pool that registers as an unmistakable localized peak count rate on surface Geiger counters. Sodium-24 is ideal because: (1) it emits penetrating gamma rays detectable through soil, and (2) its 15-hour half-life ensures that after 10 half-lives (~6 days), its radioactivity is reduced by 2¹⁰ = 1024 times, leaving the water completely safe.",
+    "concept_name": "Short Half-Life Radiotracers for Leak Detection",
+    "concept_tag": "radioactivity case based short half-life radiotracers for leak detection",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d3ba4627df20a13e71717a11a32a2356ed407f29755f4e7d4c9ea755109537f9",
+    "question_skeleton": "case scenario a municipal water utility suspects an underground drinking water pipe is leaking beneath city streets engineers inject a tiny amount of sodium 24 na a beta gamma emitter with a half life of 15 hours into the water pipeline and trace the pipeline route on the surface with a geiger muller counter investigative question how is the exact leak location pinpointed and why is sodium 24 safe to use in municipal water choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_17_49f697",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 17: Radiation Protection Rules and Safety Equipment in Nuclear Laboratories",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A nuclear physics technician handles a strong gamma radiation source. The lab safety protocol mandates: (1) minimizing exposure time, (2) handling sources with 1-meter-long remote tongs, (3) working behind a thick lead-glass shield, and (4) wearing a personal thermoluminescent dosimeter (TLD) badge. **Investigative Question:** What physical radiation protection principles justify the use of long tongs and lead shielding? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tongs prevent static electricity; lead cools the radiation down."
+      },
+      {
+        "key": "B",
+        "text": "By the inverse square law (I ∝ 1/r²), doubling distance reduces radiation dose rate fourfold (1-meter tongs reduce dose by 100-fold compared to 10 cm); dense lead provides high atomic number (Z = 82) to attenuate gamma photons by photoelectric and Compton absorption."
+      },
+      {
+        "key": "C",
+        "text": "Tongs reflect gamma rays back toward the floor."
+      },
+      {
+        "key": "D",
+        "text": "Lead absorbs neutrons and converts them into alpha particles."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The fundamental tenets of radiation safety are Time, Distance, and Shielding: (1) Distance is immensely powerful: radiation intensity follows the inverse-square law (I ∝ 1/r²); increasing distance from 1 cm to 100 cm with tongs reduces dose rate by 10,000 times! (2) Shielding: Lead (Pb, Z = 82, density 11.3 g/cm³) has high electron density, maximizing photon attenuation via photoelectric effect and Compton scattering.",
+    "concept_name": "Time, Distance, Shielding, and Dosimetry",
+    "concept_tag": "radioactivity case based time, distance, shielding, and dosimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "49f69770dddaeee7ef2154bc4240f07360c321913894cc7304941552062c0fde",
+    "question_skeleton": "case scenario a nuclear physics technician handles a strong gamma radiation source the lab safety protocol mandates 1 minimizing exposure time 2 handling sources with 1 meter long remote tongs 3 working behind a thick lead glass shield and 4 wearing a personal thermoluminescent dosimeter tld badge investigative question what physical radiation protection principles justify the use of long tongs and lead shielding choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_18_30b454",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 18: Nuclear Fission: Uranium-235 Fission by Slow (Thermal) Neutrons",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a commercial nuclear power reactor, a slow thermal neutron (kinetic energy ~0.025 eV) is absorbed by a uranium-235 nucleus (²³⁵₉₂U), forming an unstable uranium-236 compound nucleus which violently fissions into barium-141 (¹⁴¹₅₆Ba), krypton-92 (⁹²₃₆Kr), and 3 fast neutrons. **Investigative Question:** What is the source of the immense energy (~200 MeV) released in this nuclear fission reaction? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Combustion of uranium atoms with oxygen gas."
+      },
+      {
+        "key": "B",
+        "text": "The total rest mass of the fission products and emitted neutrons is slightly less than the initial mass of the uranium nucleus plus incident neutron; this mass defect Δm is converted into energy via Einstein's mass-energy equivalence: ΔE = Δm · c²."
+      },
+      {
+        "key": "C",
+        "text": "Kinetic energy created by gravitational compression of the reactor core."
+      },
+      {
+        "key": "D",
+        "text": "Electrostatic repulsion between water molecules in the cooling pool."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Fission: ²³⁵₉₂U + ¹₀n -> ²³⁶₉₂U* -> ¹⁴¹₅₆Ba + ⁹²₃₆Kr + 3 ¹₀n + Q. The sum of the masses of the daughter fragments and neutrons is strictly less than the initial reactants (mass defect Δm ≈ 0.215 u per fission). According to Einstein's equation ΔE = Δm · c² (where 1 u = 931.5 MeV), this missing mass is transformed into ~200 MeV of kinetic energy of fragments and gamma radiation.",
+    "concept_name": "Fission Reaction, Fragment Nuclei, and Mass Defect",
+    "concept_tag": "radioactivity case based fission reaction, fragment nuclei, and mass defect",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "30b454a8603a43ea8a84386902f578149154407106927a16c05eb13eb940db27",
+    "question_skeleton": "case scenario in a commercial nuclear power reactor a slow thermal neutron kinetic energy 0 025 ev is absorbed by a uranium 235 nucleus u forming an unstable uranium 236 compound nucleus which violently fissions into barium 141 ba krypton 92 kr and 3 fast neutrons investigative question what is the source of the immense energy 200 mev released in this nuclear fission reaction choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_19_b92214",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 19: Nuclear Fusion: Thermonuclear Fusion in the Core of the Sun",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In the deep core of the Sun at temperatures exceeding 15 million Kelvin and pressures exceeding 250 billion atmospheres, four hydrogen nuclei (protons) fuse through the proton-proton chain to form one stable helium-4 nucleus (⁴₂He), two positrons, two neutrinos, and gamma photons. **Investigative Question:** Why does nuclear fusion require extraordinarily high temperatures and pressures that do not exist naturally on Earth's surface? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "To prevent hydrogen from freezing into ice."
+      },
+      {
+        "key": "B",
+        "text": "Protons carry positive electric charges and strongly repel each other via Coulomb's electrostatic force; extreme thermal kinetic energy (> 10⁷ K) is required to overcome this electrostatic repulsion barrier so nuclei can approach within 10⁻¹⁵ m where attractive strong nuclear forces take over."
+      },
+      {
+        "key": "C",
+        "text": "High pressure is required to break helium into neutrons."
+      },
+      {
+        "key": "D",
+        "text": "Hydrogen atoms need high temperatures to absorb sound waves."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For two nuclei to fuse, they must overcome the formidable Coulomb electrostatic repulsion barrier between positively charged protons (F ∝ q1·q2 / r²). At ordinary temperatures, thermal velocities are far too low, causing nuclei to bounce apart. At temperatures > 10⁷ K, thermal kinetic energy (KE = (3/2)kT) is sufficiently high that colliding nuclei penetrate the Coulomb barrier, allowing the short-range (< 10⁻¹⁵ m) strong nuclear force to bind them together.",
+    "concept_name": "Proton-Proton Chain and Extreme Ignition Conditions",
+    "concept_tag": "radioactivity case based proton-proton chain and extreme ignition conditions",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b922146ff9975c28c975f0626311fa10b914802e931143e62367a170d81914a3",
+    "question_skeleton": "case scenario in the deep core of the sun at temperatures exceeding 15 million kelvin and pressures exceeding 250 billion atmospheres four hydrogen nuclei protons fuse through the proton proton chain to form one stable helium 4 nucleus he two positrons two neutrinos and gamma photons investigative question why does nuclear fusion require extraordinarily high temperatures and pressures that do not exist naturally on earth s surface choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_20_b22abe",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 20: Controlled Nuclear Chain Reaction: Moderators and Control Rods",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A pressurized heavy water nuclear reactor (PHWR) maintains a critical chain reaction where the multiplication factor is exactly k = 1.00. The core contains fuel bundles of natural uranium, a heavy water (D₂O) moderator, and movable cadmium or boron control rods. **Investigative Question:** What are the specific functions of the heavy water moderator and the cadmium control rods? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Moderator cools the electrical generator; cadmium rods generate electricity directly."
+      },
+      {
+        "key": "B",
+        "text": "The moderator slows down fast fission neutrons (from 2 MeV to 0.025 eV thermal neutrons) via elastic collisions so they can be captured by ²³⁵U; cadmium/boron control rods absorb excess neutrons to regulate or safely shut down the chain reaction."
+      },
+      {
+        "key": "C",
+        "text": "Moderator reflects gamma rays; control rods accelerate neutrons to light speed."
+      },
+      {
+        "key": "D",
+        "text": "Moderator converts uranium into plutonium; control rods melt the fuel."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Fission neutrons are born fast (~2 MeV), but ²³⁵U has a very small cross-section for fast neutrons and captures slow thermal neutrons (~0.025 eV) with vastly higher probability. A moderator (D₂O or graphite) has light nuclei that elastically scatter fast neutrons, slowing them without absorbing them. Control rods (cadmium or boron) have huge neutron-absorption cross-sections; inserting them absorbs neutrons, reducing k below 1 to safely halt the reaction.",
+    "concept_name": "Role of Heavy Water/Graphite and Boron/Cadmium Rods",
+    "concept_tag": "radioactivity case based role of heavy water/graphite and boron/cadmium rods",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b22abef3d90215486a7c93aadc8d1a7c5905d5626a0a4844dfa638d1eaa39395",
+    "question_skeleton": "case scenario a pressurized heavy water nuclear reactor phwr maintains a critical chain reaction where the multiplication factor is exactly k 1 00 the core contains fuel bundles of natural uranium a heavy water d o moderator and movable cadmium or boron control rods investigative question what are the specific functions of the heavy water moderator and the cadmium control rods choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_21_47b3cb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 21: Energy Yield Comparison: Nuclear Fusion vs Nuclear Fission",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An energy engineer compares the energy released per unit mass from two nuclear fuels: 1.0 kg of Uranium-235 undergoing fission, versus 1.0 kg of a Deuterium-Tritium mixture undergoing thermonuclear fusion. **Investigative Question:** How does the energy released per kilogram in nuclear fusion compare with that in nuclear fission? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fission releases 100 times more energy per kilogram than fusion."
+      },
+      {
+        "key": "B",
+        "text": "Fusion releases approximately 3 to 4 times more energy per kilogram than fission (approx 3.4 × 10¹⁴ J/kg for D-T fusion vs 8.2 × 10¹³ J/kg for U-235 fission), because the mass defect percentage is significantly higher for light nuclei fusing than for heavy nuclei fissioning."
+      },
+      {
+        "key": "C",
+        "text": "Both processes release identical energy per kilogram."
+      },
+      {
+        "key": "D",
+        "text": "Fission releases energy while fusion absorbs net energy."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Although a single U-235 fission releases ~200 MeV and a single D-T fusion releases 17.6 MeV, the reactants in fusion are vastly lighter! A U-235 atom has mass 235 u (energy density = 200 MeV / 235 u ≈ 0.85 MeV/u). A D-T pair has mass 2 + 3 = 5 u (energy density = 17.6 MeV / 5 u ≈ 3.52 MeV/u). Thus, nuclear fusion yields over 4 times more energy per unit mass of fuel than nuclear fission.",
+    "concept_name": "Energy Output per Unit Mass of Reactants",
+    "concept_tag": "radioactivity case based energy output per unit mass of reactants",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "47b3cbaddf1ad958c27d41c43b0d8fd37cc609d8e25dda7a9f22768bc6a3d2a7",
+    "question_skeleton": "case scenario an energy engineer compares the energy released per unit mass from two nuclear fuels 1 0 kg of uranium 235 undergoing fission versus 1 0 kg of a deuterium tritium mixture undergoing thermonuclear fusion investigative question how does the energy released per kilogram in nuclear fusion compare with that in nuclear fission choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_22_50e9c5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 22: Biological Damage of Ionizing Radiation: Somatic vs Genetic Effects",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A radiobiologist classifies the physiological health hazards of ionizing radiation exposure into somatic injuries (affecting the irradiated individual) and genetic mutations (affecting future offspring). **Investigative Question:** What cellular mechanism causes radiation-induced cancers and hereditary genetic mutations? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Radiation boils cytoplasmic water by microwave heating."
+      },
+      {
+        "key": "B",
+        "text": "Ionizing radiation directly breaks covalent bonds in nuclear DNA strands or radiolyzes intracellular water into reactive free radicals (·OH), causing un-repaired double-strand DNA breaks that lead to uncontrolled cellular proliferation (cancer) or defective gamete chromosomes."
+      },
+      {
+        "key": "C",
+        "text": "Radiation magnetizes hemoglobin, stopping blood circulation."
+      },
+      {
+        "key": "D",
+        "text": "Radiation turns cellular proteins into radioactive isotopes."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ionizing radiation damages biological tissue via direct and indirect action: Direct action ionizes atoms in the DNA backbone, causing single- and double-strand breaks. Indirect action radiolyzes water molecules (H₂O -> H⁺ + ·OH), generating highly reactive hydroxyl free radicals that chemically attack DNA bases. Mismatched repair can silence tumor-suppressor genes, initiating cancer, or alter germline DNA in sperm/ova, transmitting mutations to offspring.",
+    "concept_name": "Radiation Damage to Cellular DNA and Carcinogenesis",
+    "concept_tag": "radioactivity case based radiation damage to cellular dna and carcinogenesis",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "50e9c5e9b612888d8512c7291e30fed940a506418ee4933b9f26167a2024f6de",
+    "question_skeleton": "case scenario a radiobiologist classifies the physiological health hazards of ionizing radiation exposure into somatic injuries affecting the irradiated individual and genetic mutations affecting future offspring investigative question what cellular mechanism causes radiation induced cancers and hereditary genetic mutations choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_23_058115",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 23: Disposal of High-Level Nuclear Waste in Deep Geological Repositories",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Spent nuclear fuel removed from power reactors contains intensely radioactive fission products (Cesium-137, Strontium-90, half-lives ~30 years) and long-lived transuranic actinides (Plutonium-239, half-life 24,100 years). **Investigative Question:** What is the accepted international engineering strategy for long-term safe containment of high-level nuclear waste? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dumping the waste into ocean trenches or shooting it into the Sun."
+      },
+      {
+        "key": "B",
+        "text": "Vitrification (immobilizing waste into molten borosilicate glass blocks), encasing in corrosion-resistant copper/steel canisters, and burying in stable, deep geological repositories 500 meters underground in ancient granite or salt formations."
+      },
+      {
+        "key": "C",
+        "text": "Diluting the waste with tap water and spraying it over agricultural fields."
+      },
+      {
+        "key": "D",
+        "text": "Burning the waste in municipal trash incinerators."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "High-level nuclear waste remains hazardous for tens of thousands of years. The proven multi-barrier disposal method involves: (1) Vitrification: high-level liquid waste is fused into chemically inert, leach-resistant borosilicate glass. (2) Encapsulation: sealed inside thick copper/stainless-steel canisters. (3) Deep Geological Repository (DGR): burial 500+ meters deep in dry, seismically stable bedrock sealed with swelling bentonite clay.",
+    "concept_name": "Shielding and Transmutation of Long-Lived Actinides",
+    "concept_tag": "radioactivity case based shielding and transmutation of long-lived actinides",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "058115b5238ec238002220f9aeef62b4c3d97d54c4fa157a749023d941b952f8",
+    "question_skeleton": "case scenario spent nuclear fuel removed from power reactors contains intensely radioactive fission products cesium 137 strontium 90 half lives 30 years and long lived transuranic actinides plutonium 239 half life 24 100 years investigative question what is the accepted international engineering strategy for long term safe containment of high level nuclear waste choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_24_cc7274",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 24: Mass Defect and Nuclear Binding Energy per Nucleon Curve",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A graph of nuclear binding energy per nucleon (B/A) versus atomic mass number A rises steeply from hydrogen, peaks at approximately 8.8 MeV per nucleon for iron-56 (⁵⁶₂₆Fe), and then gradually declines toward 7.6 MeV per nucleon for heavy nuclei like uranium-238. **Investigative Question:** How does the peak of the binding energy curve at iron-56 explain why both nuclear fusion of light elements and nuclear fission of heavy elements release energy? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Iron-56 is the most radioactive element in the universe."
+      },
+      {
+        "key": "B",
+        "text": "Systems transition toward greater nuclear stability (higher binding energy per nucleon); fusing light nuclei (below iron) climbs the curve releasing energy, and splitting heavy nuclei (above iron) moves toward the iron peak, also releasing energy."
+      },
+      {
+        "key": "C",
+        "text": "Fission and fusion both convert iron into hydrogen."
+      },
+      {
+        "key": "D",
+        "text": "Binding energy per nucleon is zero for all stable elements."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Binding energy per nucleon represents the tightness with which nucleons are bound. Iron-56 lies at the global thermodynamic pinnacle of nuclear stability (~8.8 MeV/nucleon). Fusing light elements (A < 20) moves the system up the steep left slope toward iron, increasing binding energy and converting mass defect into kinetic energy. Fissioning heavy elements (A > 200) splits large nuclei into middle-mass fragments closer to iron, releasing ~0.8 MeV/nucleon.",
+    "concept_name": "Peak Nuclear Stability Around Iron-56",
+    "concept_tag": "radioactivity case based peak nuclear stability around iron-56",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "cc7274d2b2e3ee777a91abc1c6b467317872c3c43ed209030118babd3bc92623",
+    "question_skeleton": "case scenario a graph of nuclear binding energy per nucleon b a versus atomic mass number a rises steeply from hydrogen peaks at approximately 8 8 mev per nucleon for iron 56 fe and then gradually declines toward 7 6 mev per nucleon for heavy nuclei like uranium 238 investigative question how does the peak of the binding energy curve at iron 56 explain why both nuclear fusion of light elements and nuclear fission of heavy elements release energy choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_25_c1fad0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 25: Deflection of Nuclear Radiations in an Electric Field",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A narrow beam of emissions from a radium source passes between two parallel metal plates connected to a high-voltage DC source: Plate 1 is at +5000 V and Plate 2 is at -5000 V. **Investigative Question:** How does the electric field separate the three components of the radiation beam? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Alpha bends sharply toward positive; Beta bends gently toward negative; Gamma goes straight."
+      },
+      {
+        "key": "B",
+        "text": "Alpha particles (+2e) deflect gently toward the negative plate; Beta particles (-e) deflect sharply toward the positive plate; Gamma rays (uncharged) pass through straight without any deflection."
+      },
+      {
+        "key": "C",
+        "text": "All three radiations deflect toward the negative plate."
+      },
+      {
+        "key": "D",
+        "text": "Gamma rays deflect toward both plates simultaneously."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In an electric field E: (1) Gamma rays are neutral electromagnetic photons (q = 0); electric force F = qE = 0, so they travel straight without deviation. (2) Alpha particles have positive charge (+2e); electric force attracts them toward the negative plate. Due to their large mass (m_α = 7300 m_e), their acceleration a = qE/m is small (gentle curve). (3) Beta particles have negative charge (-e); attracted toward positive plate with high acceleration due to tiny electron mass (sharp curve).",
+    "concept_name": "Separation of Alpha, Beta, and Gamma Beams",
+    "concept_tag": "radioactivity case based separation of alpha, beta, and gamma beams",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c1fad0361f51593e824caa82df65e37e0865139b1a0876af857f406120e243d2",
+    "question_skeleton": "case scenario a narrow beam of emissions from a radium source passes between two parallel metal plates connected to a high voltage dc source plate 1 is at 5000 v and plate 2 is at 5000 v investigative question how does the electric field separate the three components of the radiation beam choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_26_ecb529",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 26: Geiger-Muller (GM) Tube Operation and Avalanche Ionization",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A Geiger-Muller radiation survey meter consists of a cylindrical metal tube filled with low-pressure argon gas and alcohol vapor, containing a central thin tungsten anode wire held at +1000 V. When a single beta particle enters the thin mica window, an electrical pulse is recorded. **Investigative Question:** How does a single ionizing beta particle produce a measurable voltage pulse in the GM tube? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The beta particle strikes the tungsten wire and rebounds."
+      },
+      {
+        "key": "B",
+        "text": "The beta particle ionizes argon atoms, creating electron-ion pairs; the intense radial electric field accelerates electrons toward the thin anode wire, creating an avalanche of secondary ionizations (Townsend avalanche) that produces a substantial current pulse."
+      },
+      {
+        "key": "C",
+        "text": "The beta particle heats the argon gas until it catches fire."
+      },
+      {
+        "key": "D",
+        "text": "The tube uses piezoelectric crystals that vibrate when struck."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The GM tube operates in the Geiger plateau region: primary ionization by an incident particle frees a few electrons. In the intense electric field near the thin central anode wire (E ∝ 1/r), these electrons gain sufficient kinetic energy to cause secondary ionization, triggering an escalating cascade (Townsend avalanche). Millions of electrons strike the anode in microseconds, creating a uniform, easily detectable ~1 V electrical pulse.",
+    "concept_name": "Gas Amplification and Townsend Avalanche",
+    "concept_tag": "radioactivity case based gas amplification and townsend avalanche",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ecb5295474c79bf58e64f21a230d72eefab05a3f638e3f7ba223ac49fd8bb0f4",
+    "question_skeleton": "case scenario a geiger muller radiation survey meter consists of a cylindrical metal tube filled with low pressure argon gas and alcohol vapor containing a central thin tungsten anode wire held at 1000 v when a single beta particle enters the thin mica window an electrical pulse is recorded investigative question how does a single ionizing beta particle produce a measurable voltage pulse in the gm tube choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_27_231c96",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 27: Isotopes, Isobars, and Isotones: Nuclear Classification",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A nuclear physics exam asks students to match three pairs of nuclides: Pair 1: (¹²₆C and ¹⁴₆C); Pair 2: (⁴⁰₁₉K and ⁴⁰₂₀Ca); Pair 3: (¹³₆C and ¹⁴₇N). **Investigative Question:** What are the correct scientific classifications for Pair 1, Pair 2, and Pair 3 respectively? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pair 1: Isotones; Pair 2: Isobars; Pair 3: Isotopes"
+      },
+      {
+        "key": "B",
+        "text": "Pair 1: Isotopes (same Z = 6, different A); Pair 2: Isobars (same A = 40, different Z); Pair 3: Isotones (same number of neutrons N = A - Z = 7)."
+      },
+      {
+        "key": "C",
+        "text": "Pair 1: Isobars; Pair 2: Isotopes; Pair 3: Isomers"
+      },
+      {
+        "key": "D",
+        "text": "All three pairs are identical allotropes of carbon."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Definitions: (1) Isotopes: nuclides with the same atomic number Z (same protons), but different mass numbers A (different neutrons): ¹²₆C (6p, 6n) and ¹⁴₆C (6p, 8n). (2) Isobars: nuclides with the same mass number A (same nucleons), but different Z: ⁴⁰₁₉K and ⁴⁰₂₀Ca. (3) Isotones: nuclides with the exact same neutron number N = A - Z: ¹³₆C (13 - 6 = 7 neutrons) and ¹⁴₇N (14 - 7 = 7 neutrons).",
+    "concept_name": "Definitions and Nuclear Composition",
+    "concept_tag": "radioactivity case based definitions and nuclear composition",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "231c964326f9b6b758f81588925e16a335a09e6476c85a8149a00b9881b585ae",
+    "question_skeleton": "case scenario a nuclear physics exam asks students to match three pairs of nuclides pair 1 c and c pair 2 k and ca pair 3 c and n investigative question what are the correct scientific classifications for pair 1 pair 2 and pair 3 respectively choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_28_044a13",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 28: Smoke Detector Operation Using Americium-241 Alpha Source",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A domestic ionization smoke detector contains a microscopic foil of Americium-241 (²⁴¹Am, an alpha emitter with a 432-year half-life) placed inside an open-air sensing chamber with two charged electrode plates. **Investigative Question:** How does the presence of smoke particles in the room trigger the alarm in this ionization detector? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Smoke particles burn the americium foil, setting off the buzzer."
+      },
+      {
+        "key": "B",
+        "text": "Alpha particles continuously ionize air molecules, allowing a tiny steady microcurrent to flow across the chamber; when smoke enters, smoke particles attach to ions, slowing them down and dropping the current, which triggers the electronic alarm circuit."
+      },
+      {
+        "key": "C",
+        "text": "Americium emits heat that melts a bimetallic strip in the smoke."
+      },
+      {
+        "key": "D",
+        "text": "Alpha particles reflect off smoke particles into a photo-sensor."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The ²⁴¹Am source constantly emits alpha particles that knock electrons off nitrogen and oxygen molecules, producing a steady stream of air ions that creates an electrical current (~10⁻¹¹ A) across the sensing gap. When microscopic combustion aerosols (smoke) enter the chamber, ions stick to the heavy smoke particles, drastically reducing ion mobility and causing the gap current to plunge. An operational amplifier detects this drop and sounds the siren.",
+    "concept_name": "Ionization Smoke Detection Chamber",
+    "concept_tag": "radioactivity case based ionization smoke detection chamber",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "044a139a708a6852893d751958b42f1912eea9c95162ef23e23aff4f62e567e4",
+    "question_skeleton": "case scenario a domestic ionization smoke detector contains a microscopic foil of americium 241 am an alpha emitter with a 432 year half life placed inside an open air sensing chamber with two charged electrode plates investigative question how does the presence of smoke particles in the room trigger the alarm in this ionization detector choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_29_5b8b6c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 29: Thermoluminescent Dosimeter (TLD) Badge for Radiation Workers",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Radiology nurses and nuclear plant technicians wear personal TLD badges containing lithium fluoride (LiF) crystals. At the end of each quarterly monitoring period, the badge crystals are heated inside a reader device, which measures emitted visible light to determine cumulative radiation exposure. **Investigative Question:** How does the LiF crystal record radiation exposure, and why does heating release visible light? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The crystal becomes permanently radioactive upon exposure."
+      },
+      {
+        "key": "B",
+        "text": "Ionizing radiation excites electrons into metastable trap states in the crystal lattice; upon controlled laboratory heating, the trapped electrons escape and drop to ground state, emitting visible photons whose total intensity is directly proportional to cumulative absorbed radiation dose."
+      },
+      {
+        "key": "C",
+        "text": "The crystal melts upon heating, releasing stored heat."
+      },
+      {
+        "key": "D",
+        "text": "Radiation creates chemical acids inside the plastic badge."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In a TLD crystal (LiF doped with Mg and Ti), incident ionizing radiation excites valence electrons, which become trapped at lattice defect impurities. These metastable traps are deep enough to store electrons indefinitely at room temperature. In the reader, the crystal is heated to ~250°C, providing thermal energy for trapped electrons to overcome the energy barrier and recombine with luminescence centers, emitting visible light proportional to absorbed dose.",
+    "concept_name": "Radiation Monitoring via Trapped Crystal Electrons",
+    "concept_tag": "radioactivity case based radiation monitoring via trapped crystal electrons",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5b8b6ce924e7ca087893dec8bb92abd56f24473ca33566e740ad93f79d8d6548",
+    "question_skeleton": "case scenario radiology nurses and nuclear plant technicians wear personal tld badges containing lithium fluoride lif crystals at the end of each quarterly monitoring period the badge crystals are heated inside a reader device which measures emitted visible light to determine cumulative radiation exposure investigative question how does the lif crystal record radiation exposure and why does heating release visible light choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_30_25c498",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 30: Radiation Sickness and Acute Radiation Syndrome (ARS) Thresholds",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Following a severe radiation accident, workers receive whole-body absorbed doses of gamma radiation. The absorbed dose is measured in Grays (1 Gy = 1 J/kg), and the biologically equivalent dose is measured in Sieverts (Sv = Gy × Quality Factor). **Investigative Question:** What whole-body acute radiation dose produces early gastrointestinal symptoms and hemopoietic syndrome in humans? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A dose of 0.001 mSv (equivalent to eating a banana)"
+      },
+      {
+        "key": "B",
+        "text": "A whole-body acute dose of 2 to 6 Sieverts (causing severe bone marrow destruction, immune collapse, and nausea within hours)."
+      },
+      {
+        "key": "C",
+        "text": "A dose of 100,000 Sieverts"
+      },
+      {
+        "key": "D",
+        "text": "Human tissue is immune to all radiation doses."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Equivalent dose in Sieverts (Sv) accounts for biological damage. Background dose is ~2.4 mSv/year. Doses < 100 mSv produce no acute clinical symptoms (minor statistical cancer risk). Doses of 1–2 Sv produce mild radiation sickness. Doses between 2–6 Sv destroy rapidly dividing hematopoietic stem cells in bone marrow, causing severe thrombocytopenia, hemorrhage, infection, and hair loss; without medical care (blood transfusions, bone marrow transplant), mortality is high (LD 50/60 ≈ 4 Sv).",
+    "concept_name": "Dose Equivalent Units (Sievert vs Gray)",
+    "concept_tag": "radioactivity case based dose equivalent units (sievert vs gray)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "25c49804e12ea5bf5bffdef42e9f519241baf0b8fd743f55ab322429192b732b",
+    "question_skeleton": "case scenario following a severe radiation accident workers receive whole body absorbed doses of gamma radiation the absorbed dose is measured in grays 1 gy 1 j kg and the biologically equivalent dose is measured in sieverts sv gy quality factor investigative question what whole body acute radiation dose produces early gastrointestinal symptoms and hemopoietic syndrome in humans choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_31_e7d7c3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 31: Food Irradiation for Sterilization and Shelf-Life Extension",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Bulk grain silos, fresh spices, and packaged poultry are exposed to cobalt-60 gamma radiation or electron beams at doses of 1 to 10 kGy to eliminate Salmonella, E. coli, and insect larvae. **Investigative Question:** Does irradiating food make the food itself radioactive or unsafe to eat? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yes, irradiated food becomes dangerously radioactive and glows in the dark."
+      },
+      {
+        "key": "B",
+        "text": "No, gamma photons destroy microbial DNA without altering atomic nuclei; the food never becomes radioactive, and food safety agencies certify irradiated food as safe and wholesome."
+      },
+      {
+        "key": "C",
+        "text": "Yes, irradiation converts all food minerals into radioactive isotopes."
+      },
+      {
+        "key": "D",
+        "text": "Food irradiation is only permitted for non-edible cotton."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Food irradiation uses electromagnetic gamma rays (⁶⁰Co or ¹³⁷Cs) or electron beams with photon energies capped at 5–10 MeV, well below the photoneutron threshold required to induce nuclear transmutation in common elements (C, H, O, N). The radiation passes through the food, ionizing and killing bacteria and parasites, but leaves no radioactive residues whatsoever, preserving food safely.",
+    "concept_name": "Inactivation of Foodborne Pathogens with Gamma Radiation",
+    "concept_tag": "radioactivity case based inactivation of foodborne pathogens with gamma radiation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e7d7c30636d5b2f6c866abd316f0dcf08375abde7c76fee72adb6b996833121b",
+    "question_skeleton": "case scenario bulk grain silos fresh spices and packaged poultry are exposed to cobalt 60 gamma radiation or electron beams at doses of 1 to 10 kgy to eliminate salmonella e coli and insect larvae investigative question does irradiating food make the food itself radioactive or unsafe to eat choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_32_c2f2eb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 32: Decay Law: Number of Half-Lives for 99.9% Decay",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A hospital receives a consignment of technetium-99m (T₁/2 = 6.0 hours). The nuclear medicine physician calculates how long it takes for the initial activity of the source to decline to less than 0.1% (1/1000th) of its original value. **Investigative Question:** Approximately how many half-life periods (n) and how many hours must elapse for radioactivity to decline to less than 0.1%? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3 half-lives (18 hours)"
+      },
+      {
+        "key": "B",
+        "text": "10 half-lives (60 hours, since 2¹⁰ = 1024 so (1/2)¹⁰ ≈ 0.098%)"
+      },
+      {
+        "key": "C",
+        "text": "5 half-lives (30 hours)"
+      },
+      {
+        "key": "D",
+        "text": "100 half-lives (600 hours)"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Remaining fraction is (1/2)ⁿ. We want (1/2)ⁿ ≤ 0.001 = 1/1000 => 2ⁿ ≥ 1000. Since 2¹⁰ = 1024, exactly 10 half-lives reduce radioactivity to 1/1024 ≈ 0.0977% (less than 0.1%). For technetium-99m with T₁/2 = 6.0 hours: Elapsed time = 10 × 6.0 hours = 60 hours (2.5 days).",
+    "concept_name": "Exponential Decay Fraction (1/2)^n = 0.001",
+    "concept_tag": "radioactivity case based exponential decay fraction (1/2)^n = 0.001",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c2f2ebdf899836d0f08afaf5e13ca7322dfc825a2b0752eb0fbd6b73e4b50e36",
+    "question_skeleton": "case scenario a hospital receives a consignment of technetium 99m t 1 2 6 0 hours the nuclear medicine physician calculates how long it takes for the initial activity of the source to decline to less than 0 1 1 1000th of its original value investigative question approximately how many half life periods n and how many hours must elapse for radioactivity to decline to less than 0 1 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_33_3b748e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 33: Why Light Nuclei are Stable with N/Z ≈ 1 While Heavy Nuclei Need N/Z ≈ 1.5",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In stable light nuclei such as helium (⁴₂He), carbon (¹²₆C), and oxygen (¹⁶₈O), the neutron-to-proton ratio is N/Z = 1.0. In stable heavy nuclei like lead (²⁰⁸₈₂Pb), the ratio rises to N/Z ≈ 1.54 (126 neutrons to 82 protons). **Investigative Question:** Why do stable heavy nuclei require a much higher proportion of neutrons than light nuclei? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Neutrons carry negative charge that cancels proton positive charge."
+      },
+      {
+        "key": "B",
+        "text": "Protons exert long-range disruptive electrostatic repulsion on each other; as Z grows, extra neutrons are required to provide short-range attractive strong nuclear forces to glue the nucleus together without adding repulsive electric charge."
+      },
+      {
+        "key": "C",
+        "text": "Heavy nuclei have fewer electrons to balance protons."
+      },
+      {
+        "key": "D",
+        "text": "Excess neutrons are required to generate radioactive decay."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Nuclear stability is a balance between the attractive strong nuclear force (which acts between all nucleons: p-p, p-n, n-n, but only at short range ~1–2 fm) and the repulsive Coulomb force (which acts between all protons and has infinite range). In large nuclei, every proton repels every other proton across the entire nuclear diameter. Extra uncharged neutrons add strong binding glue without adding repulsive electrostatic forces, stabilizing heavy nuclei.",
+    "concept_name": "Neutron-to-Proton Ratio and Nuclear Stability Belt",
+    "concept_tag": "radioactivity case based neutron-to-proton ratio and nuclear stability belt",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3b748ef1769835663b2a9f2006bad9850445aa46f781a0a4904e2f2359a2e99a",
+    "question_skeleton": "case scenario in stable light nuclei such as helium he carbon c and oxygen o the neutron to proton ratio is n z 1 0 in stable heavy nuclei like lead pb the ratio rises to n z 1 54 126 neutrons to 82 protons investigative question why do stable heavy nuclei require a much higher proportion of neutrons than light nuclei choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_34_33ba5a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 34: Radioactive Gold-198 Grains in Prostate Cancer Brachytherapy",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In prostate brachytherapy, a surgeon permanently implants 50 microscopic radioactive Gold-198 seeds (T₁/2 = 2.7 days, emitting beta particles and soft gamma rays) directly into a patient's prostate gland. **Investigative Question:** What is the clinical advantage of interstitial brachytherapy over external beam radiation? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gold seeds can be extracted and sold after curing the patient."
+      },
+      {
+        "key": "B",
+        "text": "The radioactive seeds deliver a localized high-dose radiation field directly inside the tumor tissue, while rapid distance attenuation (1/r²) and the short half-life spare surrounding healthy bladder and rectal tissues."
+      },
+      {
+        "key": "C",
+        "text": "Gold seeds completely prevent any radiation from reaching tumor cells."
+      },
+      {
+        "key": "D",
+        "text": "Gold-198 emits ultrasonic sound that dissolves tumor cells."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Brachytherapy places sealed radiation sources directly inside the malignancy. Inverse square radiation fall-off (I ∝ 1/r²) ensures that adjacent healthy structures (rectum, bladder) receive negligible doses. Furthermore, Gold-198's short half-life (2.7 days) delivers ~90% of its cumulative therapeutic dose within 9 days, completely decaying to stable mercury-198 within a few weeks without requiring surgical removal.",
+    "concept_name": "Short-Range Internal Radiation Delivery",
+    "concept_tag": "radioactivity case based short-range internal radiation delivery",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "33ba5af9f0a0bb89f6166f763b6be05c40ef6eb688134d1b6672dfe0fc68e3ec",
+    "question_skeleton": "case scenario in prostate brachytherapy a surgeon permanently implants 50 microscopic radioactive gold 198 seeds t 1 2 2 7 days emitting beta particles and soft gamma rays directly into a patient s prostate gland investigative question what is the clinical advantage of interstitial brachytherapy over external beam radiation choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_35_741064",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 35: Discovery of Radioactivity: Henri Becquerel's Accidental Uranium Experiment",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In 1896, French physicist Henri Becquerel placed crystals of potassium uranyl sulfate atop a photographic plate wrapped securely in thick black opaque paper, storing them inside a dark desk drawer for several days. Upon chemical development, the photographic plate revealed sharp, dark silhouettes of the uranium crystals. **Investigative Question:** What revolutionary conclusion did Becquerel draw from this experiment? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The crystals reflected sunlight through the wooden drawer."
+      },
+      {
+        "key": "B",
+        "text": "Uranium compounds spontaneously and continuously emit invisible, deeply penetrating radiations without requiring prior exposure to sunlight or optical fluorescence, proving an intrinsic atomic phenomenon."
+      },
+      {
+        "key": "C",
+        "text": "The black paper was chemically defective and reacted with silver."
+      },
+      {
+        "key": "D",
+        "text": "Dark drawers generate static electricity that exposes films."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Becquerel was investigating phosphorescence, expecting that uranium salts required excitation by sunlight to emit X-rays. Because the days were overcast, he stored the crystals atop light-tight black-wrapped plates in a pitch-black drawer. The developed plate showed dark exposures anyway, proving that uranium continuously and spontaneously generates penetrating rays without external illumination—the historic discovery of radioactivity.",
+    "concept_name": "Spontaneous Dark Exposure of Wrapped Photographic Plates",
+    "concept_tag": "radioactivity case based spontaneous dark exposure of wrapped photographic plates",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7410645df381699d5961534bd93ae03902749763615a01c34a71721746317692",
+    "question_skeleton": "case scenario in 1896 french physicist henri becquerel placed crystals of potassium uranyl sulfate atop a photographic plate wrapped securely in thick black opaque paper storing them inside a dark desk drawer for several days upon chemical development the photographic plate revealed sharp dark silhouettes of the uranium crystals investigative question what revolutionary conclusion did becquerel draw from this experiment choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_36_5de94f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 36: Rutherford's Alpha Scattering Experiment and Nuclear Discovery",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In 1911, Ernest Rutherford directed a beam of high-energy alpha particles at an ultra-thin gold foil (thickness ~400 nm). Most alpha particles passed straight through with negligible deflection, but approximately 1 in 8,000 alpha particles rebounded backward at angles greater than 90°. **Investigative Question:** What groundbreaking model of the atom did Rutherford deduce from these backward-scattered alpha particles? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Thomson's 'plum pudding' model was completely confirmed."
+      },
+      {
+        "key": "B",
+        "text": "Most of the atom is completely empty space, with all of its positive charge and almost all of its mass concentrated in an extraordinarily dense, microscopic central core called the nucleus."
+      },
+      {
+        "key": "C",
+        "text": "Gold atoms are made of solid continuous lead."
+      },
+      {
+        "key": "D",
+        "text": "Alpha particles are deflected by orbital electrons."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Under J.J. Thomson's diffuse 'plum pudding' model, positive charge was spread thinly throughout the atom; electric fields would be far too weak to turn an energetic alpha particle around. The astonishing observation of large-angle (> 90°) backward deflections ('as if you fired a 15-inch shell at tissue paper and it bounced back') proved that the positive charge and mass are concentrated in a tiny core (nucleus, r ~ 10⁻¹⁴ m) surrounded by vast empty space.",
+    "concept_name": "Large-Angle Deflection and the Dense Positive Nucleus",
+    "concept_tag": "radioactivity case based large-angle deflection and the dense positive nucleus",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5de94f02a37cc98c020ea9a0748ce8d43dae46662f23984a3271d48755ad4dde",
+    "question_skeleton": "case scenario in 1911 ernest rutherford directed a beam of high energy alpha particles at an ultra thin gold foil thickness 400 nm most alpha particles passed straight through with negligible deflection but approximately 1 in 8 000 alpha particles rebounded backward at angles greater than 90 investigative question what groundbreaking model of the atom did rutherford deduce from these backward scattered alpha particles choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_37_4143dc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 37: Nuclear Fusion in the Tokamak Magnetic Confinement Device",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Experimental fusion reactors such as the international ITER Tokamak confine a Deuterium-Tritium plasma heated to 150 million Kelvin inside a toroidal vacuum chamber using powerful superconducting magnetic coils. **Investigative Question:** Why must the fusion plasma be confined by magnetic fields rather than by physical solid container walls? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Solid walls would make the plasma freeze into liquid hydrogen."
+      },
+      {
+        "key": "B",
+        "text": "No material container on Earth can withstand contact with a 150 million °C plasma; contact with physical walls would instantly vaporize the container wall and immediately quench and cool the plasma below fusion ignition temperature."
+      },
+      {
+        "key": "C",
+        "text": "Magnetic fields are required to supply neutrons to the plasma."
+      },
+      {
+        "key": "D",
+        "text": "Solid walls absorb all electromagnetic radiation from the plasma."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A thermonuclear fusion plasma operates at > 100,000,000°C, hotter than the core of the Sun. No known material can withstand these temperatures (tungsten melts at 3422°C). In a Tokamak, helical magnetic field lines trap charged ions and electrons along magnetic drift paths in mid-air, suspending the superheated plasma in a vacuum 'magnetic bottle' without touching the chamber walls.",
+    "concept_name": "Magnetic Bottle and Lawson Criterion for Fusion Plasma",
+    "concept_tag": "radioactivity case based magnetic bottle and lawson criterion for fusion plasma",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4143dcb6ecd49212d7ae8145f1f7db9139d4b6c3a15f682f26840d771deb25d5",
+    "question_skeleton": "case scenario experimental fusion reactors such as the international iter tokamak confine a deuterium tritium plasma heated to 150 million kelvin inside a toroidal vacuum chamber using powerful superconducting magnetic coils investigative question why must the fusion plasma be confined by magnetic fields rather than by physical solid container walls choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_38_8774f8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 38: Natural Decay Chain: Thorium-232 Decay Series",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A thorium-232 nucleus (²³²₉₀Th) decays through a series of radioactive transformations to reach the stable end-product lead-208 (²⁰⁸₈₂Pb). **Investigative Question:** How many alpha particles and beta particles are emitted in the Thorium-232 decay series? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6 alpha particles and 4 beta particles"
+      },
+      {
+        "key": "B",
+        "text": "4 alpha particles and 4 beta particles"
+      },
+      {
+        "key": "C",
+        "text": "8 alpha particles and 6 beta particles"
+      },
+      {
+        "key": "D",
+        "text": "6 alpha particles and 6 beta particles"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Change in mass number: ΔA = 232 - 208 = 24. Since only alpha particles carry mass (4 u each): n_α = 24 / 4 = 6 alpha particles. Six alpha emissions reduce the atomic number by 6 × 2 = 12 (from 90 to 78). The final nucleus has atomic number Z = 82 (lead). The change in Z from 78 to 82 is achieved by beta-minus decays (each β⁻ increases Z by 1): n_β = 82 - 78 = 4 beta particles. Thus: 6 α and 4 β⁻.",
+    "concept_name": "Sequential Emissions to Stable Lead-208",
+    "concept_tag": "radioactivity case based sequential emissions to stable lead-208",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8774f83f2164e98057baa7092363563e695bfa3fdf9c3904f550afd81d5132fc",
+    "question_skeleton": "case scenario a thorium 232 nucleus th decays through a series of radioactive transformations to reach the stable end product lead 208 pb investigative question how many alpha particles and beta particles are emitted in the thorium 232 decay series choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_39_28a045",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 39: Positron Emission (Beta-Plus Decay) and PET Imaging",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In clinical Positron Emission Tomography (PET), a cancer patient is injected with fluorodeoxyglucose tagged with Fluorine-18 (¹⁸₉F, a beta-plus emitter). When an emitted positron (e⁺) collides with a tissue electron (e⁻), both annihilate. **Investigative Question:** What radiation is produced by electron-positron annihilation, and how does the PET scanner detect tumors? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A single alpha particle is emitted; detected by photographic film."
+      },
+      {
+        "key": "B",
+        "text": "Two collinear 511 keV gamma-ray photons are emitted in exactly opposite directions (180° apart); ring detectors detect these coincident photons to reconstruct high-resolution 3D metabolic tumor maps."
+      },
+      {
+        "key": "C",
+        "text": "Microwaves are emitted; detected by radar antennas."
+      },
+      {
+        "key": "D",
+        "text": "The tissue emits bright visible blue light."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In beta-plus decay: ¹⁸₉F -> ¹⁸₈O + ⁰₊₁e⁺ + ν_e. The emitted positron travels ~1 mm before encountering an ambient atomic electron. Their mass converts into energy via matter-antimatter annihilation (e⁺ + e⁻ -> 2γ). By conservation of momentum, two identical 511 keV gamma photons shoot out in precisely opposite directions (180°). Coincidence detection circuits triangulate the exact point of annihilation with millimeter precision.",
+    "concept_name": "Proton to Neutron Conversion and Matter-Antimatter Annihilation",
+    "concept_tag": "radioactivity case based proton to neutron conversion and matter-antimatter annihilation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "28a0457a72bb01e9353d884bf7990461f1e1a38212470d348d7b4927ceddc59c",
+    "question_skeleton": "case scenario in clinical positron emission tomography pet a cancer patient is injected with fluorodeoxyglucose tagged with fluorine 18 f a beta plus emitter when an emitted positron e collides with a tissue electron e both annihilate investigative question what radiation is produced by electron positron annihilation and how does the pet scanner detect tumors choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_40_ac0f89",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 40: Why Lead is Universally Used for Radiation Shielding",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Nuclear medicine transport containers, X-ray room walls, and radioactive waste shipping casks are heavily lined with solid lead (Pb) metal rather than aluminum, steel, or wood. **Investigative Question:** What two physical properties make lead the premier shielding material against gamma and X-radiation? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lead is transparent to gamma rays and reflects them."
+      },
+      {
+        "key": "B",
+        "text": "Lead has very high mass density (11.34 g/cm³) and a high atomic number (Z = 82), maximizing the cross-section for photoelectric absorption and Compton scattering per unit thickness."
+      },
+      {
+        "key": "C",
+        "text": "Lead is a superconductor at room temperature."
+      },
+      {
+        "key": "D",
+        "text": "Lead absorbs radiation by undergoing nuclear fusion."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Gamma and X-ray photon attenuation depends exponentially on atomic number (photoelectric absorption cross-section scales as Z⁴ to Z⁵) and electron density. Lead (Z = 82) possesses tightly packed atomic shells and high physical density (11.34 g/cm³), providing immense stopping power in compact thicknesses compared to lightweight elements like aluminum (Z = 13) or iron (Z = 26).",
+    "concept_name": "High Density and High Atomic Number Attenuation",
+    "concept_tag": "radioactivity case based high density and high atomic number attenuation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ac0f8974b53c94aceaec01c221824b04275713958da115d0080086c1d6b2a255",
+    "question_skeleton": "case scenario nuclear medicine transport containers x ray room walls and radioactive waste shipping casks are heavily lined with solid lead pb metal rather than aluminum steel or wood investigative question what two physical properties make lead the premier shielding material against gamma and x radiation choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_41_669a31",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 41: Neutron Activation Analysis (NAA) for Trace Elemental Detection",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Forensic detectives investigating a historical poisoning suspect examine a strand of hair using Neutron Activation Analysis. The hair is irradiated with thermal neutrons inside a research reactor, and the emitted gamma-ray spectrum is recorded. **Investigative Question:** How does neutron bombardment identify trace arsenic atoms inside the hair strand? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Arsenic atoms burn into black carbon ash."
+      },
+      {
+        "key": "B",
+        "text": "Stable Arsenic-75 captures a neutron to become radioactive Arsenic-76 (⁷⁶₃₃As), which decays by emitting gamma rays of precise characteristic energies (559 keV), identifying the element uniquely like a nuclear fingerprint."
+      },
+      {
+        "key": "C",
+        "text": "Arsenic emits alpha particles that melt the hair."
+      },
+      {
+        "key": "D",
+        "text": "Neutrons change arsenic into pure gold."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In Neutron Activation Analysis (NAA), non-radioactive stable nuclei in a sample capture thermal neutrons (n, γ reaction): ⁷⁵₃₃As + ¹₀n -> ⁷⁶₃₃As* -> ⁷⁶₃₃As + γ. The radioactive ⁷⁶₃₃As daughter decays with a 26.3-hour half-life, emitting gamma photons at precise quantized energies (559.1 keV, 657.0 keV). Measuring these discrete gamma energy lines with a high-purity germanium detector identifies parts-per-billion trace elements.",
+    "concept_name": "Thermal Neutron Capture and Characteristic Gamma Spectroscopy",
+    "concept_tag": "radioactivity case based thermal neutron capture and characteristic gamma spectroscopy",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "669a3172a0384a617ccbfcc58764a0febf65cd25e0be437a8612697c30154432",
+    "question_skeleton": "case scenario forensic detectives investigating a historical poisoning suspect examine a strand of hair using neutron activation analysis the hair is irradiated with thermal neutrons inside a research reactor and the emitted gamma ray spectrum is recorded investigative question how does neutron bombardment identify trace arsenic atoms inside the hair strand choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_42_caa47b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 42: Mass-Energy Equivalence: Calculation of Energy Released by 1 amu",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A nuclear physics calculation determines the exact energy equivalent of one unified atomic mass unit (1 u = 1.6605 × 10⁻²⁷ kg). The speed of light is c = 2.998 × 10⁸ m/s, and 1 eV = 1.602 × 10⁻¹⁹ J. **Investigative Question:** What is the energy equivalent of 1 atomic mass unit (1 u) in Joules and in Mega-electron-volts (MeV)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "E = 1.492 × 10⁻¹⁰ J ≈ 931.5 MeV"
+      },
+      {
+        "key": "B",
+        "text": "E = 1.000 × 10⁻⁶ J ≈ 1000 MeV"
+      },
+      {
+        "key": "C",
+        "text": "E = 9.315 × 10⁻¹³ J ≈ 9.315 MeV"
+      },
+      {
+        "key": "D",
+        "text": "E = 3.00 × 10⁸ J ≈ 300 MeV"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By Einstein's mass-energy equation E = m c²: E = (1.66054 × 10⁻²⁷ kg) × (2.99792 × 10⁸ m/s)² = 1.66054 × 10⁻²⁷ × 8.98755 × 10¹⁶ J ≈ 1.4924 × 10⁻¹⁰ Joules. Converting Joules to electron-volts: E = (1.4924 × 10⁻¹⁰ J) / (1.60218 × 10⁻¹⁹ J/eV) ≈ 9.315 × 10⁸ eV = 931.5 MeV. This fundamental constant converts nuclear mass defects directly into energy.",
+    "concept_name": "Einstein's Equation E = mc² and the 931.5 MeV Constant",
+    "concept_tag": "radioactivity case based einstein's equation e = mc² and the 931.5 mev constant",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "caa47bf553b11a038601f569d534c0ed9c8e20e13476a80253f856a951eeee08",
+    "question_skeleton": "case scenario a nuclear physics calculation determines the exact energy equivalent of one unified atomic mass unit 1 u 1 6605 10 kg the speed of light is c 2 998 10 m s and 1 ev 1 602 10 j investigative question what is the energy equivalent of 1 atomic mass unit 1 u in joules and in mega electron volts mev choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_43_b203f1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 43: Radon Gas (Rn-222) Seepage and Residential Lung Cancer Risk",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Environmental health authorities test basements of homes built over granite bedrock for Radon-222 gas (an alpha emitter, half-life 3.8 days). Radon is identified as the second leading cause of lung cancer worldwide after tobacco smoking. **Investigative Question:** Why does inhaled Radon-222 pose such a catastrophic lung cancer risk while external alpha sources outside the body are completely harmless? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "External alpha particles are absorbed by clothing; inside the lungs, inhaled radon and its solid decay progeny (Polonium-218, Polonium-214) deposit directly on unprotected mucosal cells, delivering dense alpha ionization directly to bronchial epithelial DNA."
+      },
+      {
+        "key": "B",
+        "text": "Radon gas reacts with oxygen to form hydrofluoric acid in the lungs."
+      },
+      {
+        "key": "C",
+        "text": "Radon emits gamma rays that ignite lung tissue."
+      },
+      {
+        "key": "D",
+        "text": "Radon gas dissolves lung tissue by freezing it."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "External alpha radiation cannot penetrate the outer non-living stratum corneum of human skin. However, Radon-222 is an inert noble gas that is easily inhaled deep into the respiratory tract. When it decays inside lung airways, it produces short-lived solid daughter isotopes (²¹⁸Po, ²¹⁴Po) that lodge against thin, delicate bronchial epithelial cells. Their high-LET alpha emissions directly bombard pulmonary stem cell DNA, causing double-strand breaks and lung carcinoma.",
+    "concept_name": "Alpha Emitters Inhaled into Pulmonary Bronchial Epithelium",
+    "concept_tag": "radioactivity case based alpha emitters inhaled into pulmonary bronchial epithelium",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b203f1f71c468515d0d1853197555c669a61390267bb5d10453fab939d068352",
+    "question_skeleton": "case scenario environmental health authorities test basements of homes built over granite bedrock for radon 222 gas an alpha emitter half life 3 8 days radon is identified as the second leading cause of lung cancer worldwide after tobacco smoking investigative question why does inhaled radon 222 pose such a catastrophic lung cancer risk while external alpha sources outside the body are completely harmless choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_44_c3da2f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 44: Critical Mass in an Uncontrolled Nuclear Fission Chain Reaction",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Nuclear weapon designers assemble a sub-critical sphere of pure Uranium-235 of mass 15 kg. Spontaneous fission neutrons escape through the surface into ambient air faster than new neutrons are generated, so no chain reaction occurs. When an implosion explosive compresses the fissile mass into a dense sphere of supercritical geometry, a runaway exponential chain reaction explodes in microseconds. **Investigative Question:** What is 'critical mass', and why does compressing fissile material achieve supercriticality? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Critical mass is the mass at which uranium becomes flammable."
+      },
+      {
+        "key": "B",
+        "text": "Critical mass is the minimum mass of fissile material necessary to sustain a self-propagating nuclear chain reaction; compression increases density, shortening the mean free path of neutrons so they induce fission before escaping through the surface."
+      },
+      {
+        "key": "C",
+        "text": "Compression forces uranium to undergo nuclear fusion."
+      },
+      {
+        "key": "D",
+        "text": "Compressing uranium removes all neutrons from the core."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In a fissile body, neutrons are produced throughout the volume (∝ R³) but leak out through the external surface area (∝ R²). For small masses, the surface-to-volume ratio is too high, and excess neutrons leak out before causing fission (subcritical). 'Critical mass' is the exact threshold where neutron production balances leakage plus non-fission absorption (multiplication factor k = 1). Compressing the sphere increases density ρ, dramatically shortening neutron mean free path and driving k > 1.",
+    "concept_name": "Surface Area to Volume Ratio and Neutron Leakage",
+    "concept_tag": "radioactivity case based surface area to volume ratio and neutron leakage",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c3da2f0e64d510eb91ce951aba13dc6b71fb1a3fc019b1387f7a38f2aaa2b3f5",
+    "question_skeleton": "case scenario nuclear weapon designers assemble a sub critical sphere of pure uranium 235 of mass 15 kg spontaneous fission neutrons escape through the surface into ambient air faster than new neutrons are generated so no chain reaction occurs when an implosion explosive compresses the fissile mass into a dense sphere of supercritical geometry a runaway exponential chain reaction explodes in microseconds investigative question what is critical mass and why does compressing fissile material achieve supercriticality choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_45_66e883",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 45: Iodine-131 Thyroid Therapy and Potassium Iodide Prophylaxis",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A patient suffering from hyperthyroidism (Graves' disease) swallows a capsule containing Iodine-131 (a beta and gamma emitter, half-life 8.0 days). In nuclear emergency guidelines, civilians near damaged reactors are issued stable Potassium Iodide (KI) tablets. **Investigative Question:** Why does Iodine-131 selectively destroy thyroid tissue, and how do KI tablets protect the thyroid during a reactor accident? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The thyroid gland is magnetic and attracts iodine ions."
+      },
+      {
+        "key": "B",
+        "text": "The human thyroid gland actively absorbs nearly all dietary iodine; radioactive ¹³¹I concentrates in the thyroid where localized beta particles destroy overactive follicular cells. Taking stable non-radioactive KI tablets saturates thyroid receptors, blocking uptake of radioactive iodine fallout."
+      },
+      {
+        "key": "C",
+        "text": "Iodine-131 cools the thyroid to freezing temperatures."
+      },
+      {
+        "key": "D",
+        "text": "Potassium iodide tablets absorb gamma rays like lead."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The thyroid gland uses iodine to synthesize hormones (T3/T4) and possesses sodium-iodide symporter pumps that concentrate iodine ~100-fold compared to blood. Ingested ¹³¹I concentrates almost exclusively in the thyroid. Beta particles (range ~1–2 mm in tissue) selectively irradiate and destroy hyperactive thyroid cells with minimal collateral whole-body damage. Taking stable KI floods receptors, preventing uptake of dangerous radioactive fallout.",
+    "concept_name": "Targeted Radioisotope Uptake in Endocrine Tissues",
+    "concept_tag": "radioactivity case based targeted radioisotope uptake in endocrine tissues",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "66e883a10c5907e53e17e9e38bc09d692fb1cfa5d709a106c7c52ae5452fe3a6",
+    "question_skeleton": "case scenario a patient suffering from hyperthyroidism graves disease swallows a capsule containing iodine 131 a beta and gamma emitter half life 8 0 days in nuclear emergency guidelines civilians near damaged reactors are issued stable potassium iodide ki tablets investigative question why does iodine 131 selectively destroy thyroid tissue and how do ki tablets protect the thyroid during a reactor accident choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_46_943875",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 46: Activity Comparison: Short Half-Life vs Long Half-Life Sources",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A radiochemistry laboratory has two equal masses (1.0 milligram each) of two pure radioisotopes: Isotope X has a half-life of T₁/2 = 1.0 hour, while Isotope Y has a half-life of T₁/2 = 10,000 years. Both have approximately the same atomic mass. **Investigative Question:** How does the initial activity (disintegrations per second) of Isotope X compare to Isotope Y? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Isotope Y is vastly more active because it lives longer."
+      },
+      {
+        "key": "B",
+        "text": "Isotope X is millions of times more radioactive (higher activity) than Isotope Y, because activity is inversely proportional to half-life (A = λN = (ln 2 / T₁/2) N); short half-life means atoms disintegrate at a tremendously faster rate."
+      },
+      {
+        "key": "C",
+        "text": "Both have identical activity because their masses are equal."
+      },
+      {
+        "key": "D",
+        "text": "Isotope X emits only light while Isotope Y emits neutrons."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Activity A is defined as A = -dN/dt = λ N = (ln 2 / T₁/2) × N. For equal masses and molar weights, both samples contain the same number of radioactive atoms N. However, the decay rate is inversely proportional to half-life (A ∝ 1 / T₁/2). Isotope X (1 hour) decays ~87 million times faster than Isotope Y (10,000 years = ~8.76 × 10⁷ hours). A short half-life means intense, concentrated radioactivity, while a long half-life means low, prolonged emission.",
+    "concept_name": "Decay Constant Inversely Proportional to Half-Life (λ = ln 2 / T_1/2)",
+    "concept_tag": "radioactivity case based decay constant inversely proportional to half-life (λ = ln 2 / t_1/2)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "943875c660bb1cce3eb503628c437ce9f9e0b836a70297596e6ef6de30054b19",
+    "question_skeleton": "case scenario a radiochemistry laboratory has two equal masses 1 0 milligram each of two pure radioisotopes isotope x has a half life of t 1 2 1 0 hour while isotope y has a half life of t 1 2 10 000 years both have approximately the same atomic mass investigative question how does the initial activity disintegrations per second of isotope x compare to isotope y choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_47_f706a0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 47: Why Nuclear Fusion Is Inherently Safer Than Nuclear Fission for Power",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In debates on future clean energy, nuclear physicists emphasize that commercial magnetic confinement fusion reactors (like ITER) will be inherently incapable of experiencing runaway Chernobyl- or Fukushima-style meltdowns. **Investigative Question:** Why can a nuclear fusion reactor never experience a catastrophic runaway nuclear meltdown? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fusion uses water that automatically douses any explosion."
+      },
+      {
+        "key": "B",
+        "text": "A fusion reactor contains only a tiny amount of fuel (~1 gram of gas) in the reaction chamber at any instant; any malfunction or loss of magnetic confinement instantly cools the plasma and quenches the reaction within milliseconds, making a runaway chain reaction physically impossible."
+      },
+      {
+        "key": "C",
+        "text": "Fusion reactors operate at absolute zero temperature."
+      },
+      {
+        "key": "D",
+        "text": "Fusion reactions do not generate any heat."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Fission reactors contain years' worth of fuel inside the core (~100 tons of uranium), which continues producing decaying afterheat even after scram, risking core meltdown if cooling fails. A fusion Tokamak operates with only ~1–2 grams of D-T fuel in a 1000 m³ chamber at any moment. Because fusion requires ultra-precise plasma conditions, any disruption, vacuum leak, or cooling failure immediately cools the plasma, halting the reaction passively in milliseconds.",
+    "concept_name": "Absence of Meltdown Risk and High-Level Long-Lived Waste",
+    "concept_tag": "radioactivity case based absence of meltdown risk and high-level long-lived waste",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f706a0262bdf789673b32f6d87b91473b5714429c398e89069187d7f09a24708",
+    "question_skeleton": "case scenario in debates on future clean energy nuclear physicists emphasize that commercial magnetic confinement fusion reactors like iter will be inherently incapable of experiencing runaway chernobyl or fukushima style meltdowns investigative question why can a nuclear fusion reactor never experience a catastrophic runaway nuclear meltdown choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_48_2f87c0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 48: Beta Spectrum Continuous Energy Distribution vs Discrete Alpha Energy",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** When alpha particles are emitted from a given radioactive nuclide, they emerge with sharp, discrete, monochromatic kinetic energies (e.g. exactly 5.3 MeV for Polonium-210). When beta particles are emitted from a radioactive nuclide, they emerge with a continuous spectrum of kinetic energies ranging from zero up to an endpoint maximum E_max. **Investigative Question:** Why do beta particles exhibit a continuous energy spectrum, and what fundamental particle did Wolfgang Pauli propose to resolve this mystery? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Beta particles lose energy by friction with orbital electrons."
+      },
+      {
+        "key": "B",
+        "text": "In beta decay, the decay energy is shared between three bodies (daughter nucleus, beta electron, and an elusive neutral particle called the neutrino); the continuous sharing of momentum and energy between electron and neutrino produces the continuous beta spectrum."
+      },
+      {
+        "key": "C",
+        "text": "Beta particles are made of varying numbers of quarks."
+      },
+      {
+        "key": "D",
+        "text": "Beta decay violates the Law of Conservation of Energy permanently."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In 2-body alpha decay (Parent -> Daughter + α), conservation of energy and momentum uniquely fixes the kinetic energy of the alpha particle. In beta decay, if only the electron and daughter were produced, the electron would also be monochromatic. The observed continuous energy distribution appeared to violate conservation of energy. In 1930, Pauli proposed that a third, nearly massless, uncharged particle—the neutrino (ν)—shares the decay energy: E_decay = E_beta + E_neutrino.",
+    "concept_name": "Discovery of the Neutrino by Wolfgang Pauli",
+    "concept_tag": "radioactivity case based discovery of the neutrino by wolfgang pauli",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2f87c05133b9833c0e677619b340ac76f806917d0ffd155f302818d645593b47",
+    "question_skeleton": "case scenario when alpha particles are emitted from a given radioactive nuclide they emerge with sharp discrete monochromatic kinetic energies e g exactly 5 3 mev for polonium 210 when beta particles are emitted from a radioactive nuclide they emerge with a continuous spectrum of kinetic energies ranging from zero up to an endpoint maximum e max investigative question why do beta particles exhibit a continuous energy spectrum and what fundamental particle did wolfgang pauli propose to resolve this mystery choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_49_754b34",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 49: Radioactive Secular Equilibrium in Geological Rocks",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an ancient unweathered uranium ore deposit (pitchblende, age 2 billion years), Uranium-238 (T₁/2 = 4.5 billion years) is in secular equilibrium with its decay product Radium-226 (T₁/2 = 1,600 years). **Investigative Question:** How does the activity (disintegrations per second) of Radium-226 compare with that of Uranium-238 in the rock? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Radium-226 activity is 2.8 million times higher than Uranium-238."
+      },
+      {
+        "key": "B",
+        "text": "The activity of Radium-226 exactly equals the activity of Uranium-238 (A_Ra = A_U), because in secular equilibrium the daughter decays at the exact same rate at which it is produced by the long-lived parent."
+      },
+      {
+        "key": "C",
+        "text": "Radium-226 has zero activity in solid rock."
+      },
+      {
+        "key": "D",
+        "text": "Uranium-238 activity is 2.8 million times higher than Radium-226."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When a parent nuclide has an extremely long half-life compared to its daughter (T_parent ≫ T_daughter), the system reaches secular equilibrium after ~7 daughter half-lives. At this state, the rate of production of daughter nuclei equals their rate of decay: dN_daughter / dt = λ_parent N_parent - λ_daughter N_daughter = 0. Therefore: Activity_daughter = Activity_parent (λ_d N_d = λ_p N_p). The ratio of atoms present is N_d / N_p = T_d / T_p = 1,600 / 4.5 × 10⁹ ≈ 1 : 2.8 × 10⁶.",
+    "concept_name": "Activity Equality in Parent-Daughter Chains (A_parent = A_daughter)",
+    "concept_tag": "radioactivity case based activity equality in parent-daughter chains (a_parent = a_daughter)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "754b3481cb6b628b0601817255252f5a28baa760ea6ee134754c3dff0998aa33",
+    "question_skeleton": "case scenario in an ancient unweathered uranium ore deposit pitchblende age 2 billion years uranium 238 t 1 2 4 5 billion years is in secular equilibrium with its decay product radium 226 t 1 2 1 600 years investigative question how does the activity disintegrations per second of radium 226 compare with that of uranium 238 in the rock choose the correct option"
+  },
+  {
+    "globalId": "qb_case_radioactivity_50_3ba46c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Radioactivity",
+    "title": "Case Study 50: Nuclear Binding Energy and the Strong Nuclear Force Characteristics",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A theoretical nuclear physicist summarizes the fundamental characteristics of the strong nuclear force that binds protons and neutrons together inside atomic nuclei. **Investigative Question:** Which statement correctly summarizes the key physical properties of the strong nuclear force? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It is a long-range electromagnetic force that acts only on positively charged protons."
+      },
+      {
+        "key": "B",
+        "text": "It is the strongest known force in nature (100 times stronger than electromagnetism), has an extremely short range (~1 to 2 fm), is strictly charge-independent (acts equally between p-p, n-n, and p-n), and exhibits saturation (each nucleon interacts only with its immediate neighbors)."
+      },
+      {
+        "key": "C",
+        "text": "It is identical to the gravitational force and acts across astronomical distances."
+      },
+      {
+        "key": "D",
+        "text": "It repels neutrons while attracting protons and electrons."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The strong nuclear force possesses four unique characteristics: (1) Immense strength: within its range, it is ~100 times stronger than Coulomb repulsion and 10³⁸ times stronger than gravity. (2) Short range: acts only over subatomic distances (1–2 fm); at distances > 2.5 fm it drops to zero, and at < 0.5 fm it becomes strongly repulsive (preventing nuclear collapse). (3) Charge independence: identical between p-p, p-n, and n-n. (4) Saturation: each nucleon only binds with adjacent neighbors.",
+    "concept_name": "Short-Range, Charge-Independent, and Saturation Properties",
+    "concept_tag": "radioactivity case based short-range, charge-independent, and saturation properties",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3ba46ca983ed5ec123ef61d6e91106821f7ea399c391a5700b429811b225ada1",
+    "question_skeleton": "case scenario a theoretical nuclear physicist summarizes the fundamental characteristics of the strong nuclear force that binds protons and neutrons together inside atomic nuclei investigative question which statement correctly summarizes the key physical properties of the strong nuclear force choose the correct option"
+  }
+]

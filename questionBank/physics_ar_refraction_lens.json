@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_refraction_lens_1_b7955a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Convex lens magnification condition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A convex lens can produce a magnified virtual and erect image of an object. **Reason (R):** When an object is placed between the optical centre and the principal focus of a convex lens, the refracted rays diverge and appear to meet behind the object. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the divergent nature of rays behind the lens when u < f explains why a magnified virtual image is formed (magnifying glass).",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7f562c49b40bf42d832c85cb1f257655c4739efecfb0a78c6d2529cb9acd367a",
+    "question_skeleton": "assertion a a convex lens can produce a magnified virtual and erect image of an object reason r when an object is placed between the optical centre and the principal focus of a convex lens the refracted rays diverge and appear to meet behind the object choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_2_2d2a3e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Concave lens image nature",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A concave lens always produces a virtual, erect, and diminished image of a real object, regardless of object distance. **Reason (R):** A concave lens is a diverging lens that diverges incident light away from the principal axis. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and divergence of rays ensures they always appear to originate from between the optical centre and the focal point.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d2a743a97c44198a525e1ea4b18a9b4d435f624ce966d5663e2bc0196ce318ac",
+    "question_skeleton": "assertion a a concave lens always produces a virtual erect and diminished image of a real object regardless of object distance reason r a concave lens is a diverging lens that diverges incident light away from the principal axis choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_3_6ebbc3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Power of convex and concave lens signs",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The power of a convex lens is positive, while the power of a concave lens is negative. **Reason (R):** Power is the reciprocal of focal length in metres (P = 1/f), and by sign convention, the focal length of a convex lens is positive and that of a concave lens is negative. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and P = 1/f combined with Cartesian sign convention explains the signs of power.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0b84a83491a18f739f255c7926b4470a40b43faede1e275badb9217005c30d8e",
+    "question_skeleton": "assertion a the power of a convex lens is positive while the power of a concave lens is negative reason r power is the reciprocal of focal length in metres p # f and by sign convention the focal length of a convex lens is positive and that of a concave lens is negative choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_4_960007",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Thick vs thin lens focal length",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A thick convex lens has a shorter focal length than a thin convex lens of the same material and diameter. **Reason (R):** A thicker lens has greater surface curvature, causing stronger refraction and bending of light rays closer to the lens. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and greater surface curvature bends rays more sharply, shortening focal length.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9f89749e2a1dbf497c0285d3bc02f057bd94faf5e0b237ca2246cabf34d66145",
+    "question_skeleton": "assertion a a thick convex lens has a shorter focal length than a thin convex lens of the same material and diameter reason r a thicker lens has greater surface curvature causing stronger refraction and bending of light rays closer to the lens choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_5_14ba42",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Lens immersed in water focal length",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When a convex glass lens is immersed in water, its focal length increases. **Reason (R):** The relative refractive index of glass with respect to water is less than that of glass with respect to air, so light rays bend less. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and smaller refractive index ratio reduces ray deviation, shifting the focus farther away.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "7e3428f8f4877531b595ede4be2f5bfe5ed4e588909d5dfc3a9ab90e28444d7d",
+    "question_skeleton": "assertion a when a convex glass lens is immersed in water its focal length increases reason r the relative refractive index of glass with respect to water is less than that of glass with respect to air so light rays bend less choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_6_ec896a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Air bubble in water as diverging lens",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An air bubble trapped inside water acts as a diverging (concave) lens. **Reason (R):** The refractive index of air inside the bubble is less than the refractive index of the surrounding water. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Although shaped convexly, light travels from denser water to rarer air, causing rays to bend away from the normal and diverge.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "30678e6db50dbec4709ed51f8801033a8be7789e3a98c2e2382e4c9ef0cce343",
+    "question_skeleton": "assertion a an air bubble trapped inside water acts as a diverging concave lens reason r the refractive index of air inside the bubble is less than the refractive index of the surrounding water choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_7_7097e1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Object at 2F of a convex lens",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When an object is placed at 2F of a convex lens, its image is formed at 2F on the other side with magnification equal to -1. **Reason (R):** From the lens formula 1/f = 1/v - 1/u, substituting u = -2f gives v = +2f, and m = v/u = +2f/(-2f) = -1. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the lens formula mathematically confirms v = 2f and m = -1 (real, inverted, same size).",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "207fde48bad790dc1aa7dc6900bfd0c7d271316a9dac5987bd11144f66125c2e",
+    "question_skeleton": "assertion a when an object is placed at f of a convex lens its image is formed at f on the other side with magnification equal to # reason r from the lens formula # f # v # u substituting u f gives v f and m v u f f # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_8_ee1ffc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Ray passing through optical centre",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A ray of light passing through the optical centre of a thin lens undergoes no deviation. **Reason (R):** At the optical centre, the central portion of the lens acts like a thin, parallel-sided glass slab with negligible lateral displacement. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the parallel-faced central zone explains why deviation is zero for thin lenses.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4c79e1d52714e38e894165e9901c2d1b7118c96fcc18bbeb1b1b07f2c2176ee7",
+    "question_skeleton": "assertion a a ray of light passing through the optical centre of a thin lens undergoes no deviation reason r at the optical centre the central portion of the lens acts like a thin parallel sided glass slab with negligible lateral displacement choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_9_531e02",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Dioptre definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** One dioptre is the power of a lens having a focal length of 1 metre. **Reason (R):** The SI unit of optical power of a lens is the dioptre (D = m⁻¹). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and P = 1 / f(in m) directly gives 1 D for f = 1 m.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0cbafb93e9cd6a07173def9eb319c4dbe258aaff437c86bdbd0d0a4d7c505d2f",
+    "question_skeleton": "assertion a one dioptre is the power of a lens having a focal length of # metre reason r the si unit of optical power of a lens is the dioptre d m choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_10_ccd386",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Covering half of a lens with black paper",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If the lower half of a convex lens forming a sharp image on a screen is covered with black paper, half of the image disappears. **Reason (R):** Covering half of the lens blocks light rays originating from the lower half of the object. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false and Reason is false. Light rays from every point of the object pass through every part of the lens; covering half the lens forms the complete image, but with reduced brightness (half the intensity).",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3c1c6699866db26af04c22fb8599813cf28239e9e269e64505f236e8e8c32614",
+    "question_skeleton": "assertion a if the lower half of a convex lens forming a sharp image on a screen is covered with black paper half of the image disappears reason r covering half of the lens blocks light rays originating from the lower half of the object choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_11_1a27f2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Magnification formula for lenses",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Linear magnification produced by a spherical lens is given by m = v / u. **Reason (R):** Linear magnification is defined as the ratio of image height to object height (m = h_i / h_o). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and from similar triangles formed by object and image, h_i / h_o = v / u.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a7af529656c3e1b3094039798ecb7c16d0087cb0d640e6fca5f5472a256a93c1",
+    "question_skeleton": "assertion a linear magnification produced by a spherical lens is given by m v u reason r linear magnification is defined as the ratio of image height to object height m h i h o choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_12_2a02c1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Real image on a screen",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A real image can always be caught on a screen, but a virtual image cannot be captured on a screen. **Reason (R):** Light rays actually converge and intersect at the location of a real image, whereas they only appear to diverge from a virtual image. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and real convergence of photon energy at the focal point allows screen capture.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1a260f5991614f3a66e2310c1906494334887f3a8d8679c88d65addd17c8cabe",
+    "question_skeleton": "assertion a a real image can always be caught on a screen but a virtual image cannot be captured on a screen reason r light rays actually converge and intersect at the location of a real image whereas they only appear to diverge from a virtual image choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_13_2d3ba6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Convex lens burning glass",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A convex lens can be used as a burning glass to ignite a dry leaf under bright sunlight. **Reason (R):** A convex lens converges the parallel rays of sunlight to a single hot focal point, concentrating solar thermal energy. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and concentrating parallel solar rays onto the focal point explains ignition.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "67c2de309d5ce67a88d83359710c3d85eccb5934c0feae1b525893c39fd15343",
+    "question_skeleton": "assertion a a convex lens can be used as a burning glass to ignite a dry leaf under bright sunlight reason r a convex lens converges the parallel rays of sunlight to a single hot focal point concentrating solar thermal energy choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_14_da6529",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Combination of two lenses power",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When a convex lens of +4 D is placed in contact with a concave lens of -2 D, the combination acts as a convex lens of +2 D. **Reason (R):** The net power of two thin lenses in contact is the algebraic sum of their individual powers (P = P₁ + P₂). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. P = P₁ + P₂ = (+4 D) + (-2 D) = +2 D, which has positive power (convex behavior).",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "013567a5c983a9b5dce30c93e4981d1d3efc62e025f2b6644c9c977acf20aa9a",
+    "question_skeleton": "assertion a when a convex lens of # d is placed in contact with a concave lens of # d the combination acts as a convex lens of # d reason r the net power of two thin lenses in contact is the algebraic sum of their individual powers p p p choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_15_9b1c5d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Focal length and color of light in lens",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The focal length of a convex glass lens is longer for red light than for violet light. **Reason (R):** Glass has a smaller refractive index for red light than for violet light, causing red light to bend less sharply. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Smaller refractive index for red means weaker convergence, focusing rays further away (f_red > f_violet).",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e2c93b2e608183e1f41860762bd9e1e3a4c735d705d658683d2314201fd16936",
+    "question_skeleton": "assertion a the focal length of a convex glass lens is longer for red light than for violet light reason r glass has a smaller refractive index for red light than for violet light causing red light to bend less sharply choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_16_5fe59f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Magnifying glass focal length choice",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A convex lens of short focal length is preferred as a simple magnifying glass. **Reason (R):** The magnifying power of a magnifying glass for normal vision is given by M = 1 + D/f, which increases as focal length f decreases. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and M = 1 + D/f mathematically confirms higher magnification for smaller f.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4554344bbe5c25ced95d45e75b156c753497e42ec0e9db86a3ec1412bec7b848",
+    "question_skeleton": "assertion a a convex lens of short focal length is preferred as a simple magnifying glass reason r the magnifying power of a magnifying glass for normal vision is given by m # d f which increases as focal length f decreases choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_17_00b91d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Object at principal focus of convex lens",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When an object is placed at the principal focus of a convex lens, its image is formed at infinity. **Reason (R):** Light rays originating from the principal focus emerge parallel to the principal axis after refraction through the lens. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and parallel emerging rays by definition meet at infinity.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "da9d5b2fbf246ebc2a9f8f653d90b4b4e5916de94d1da6934661be52b0b4e308",
+    "question_skeleton": "assertion a when an object is placed at the principal focus of a convex lens its image is formed at infinity reason r light rays originating from the principal focus emerge parallel to the principal axis after refraction through the lens choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_18_c7187b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Virtual image magnification sign",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The linear magnification for a virtual image formed by any spherical lens is always positive. **Reason (R):** A virtual image is always erect with respect to the object, so both object height and image height have the same sign. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and m = +h_i / +h_o > 0 for all erect images.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a817dd156c59f21d392b0cf8120888680c2921fe19e55307317a542120ab785f",
+    "question_skeleton": "assertion a the linear magnification for a virtual image formed by any spherical lens is always positive reason r a virtual image is always erect with respect to the object so both object height and image height have the same sign choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_19_9c29fa",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Real image magnification sign",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The linear magnification for a real image formed by a lens is always negative. **Reason (R):** A real image formed by a single lens is always inverted with respect to the object. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and an inverted image means h_i is negative, making m = h_i / h_o negative.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "39c9bcacb62641eb4b99c8bf5c41d7c6b307d3dd059fc503d08c9691b8761dab",
+    "question_skeleton": "assertion a the linear magnification for a real image formed by a lens is always negative reason r a real image formed by a single lens is always inverted with respect to the object choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_20_c8b962",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Concave lens as reading glass",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A concave lens can be used as a reading glass to read fine newspaper print. **Reason (R):** A concave lens produces erect and magnified images when placed close to an object. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Both Assertion and Reason are false. A concave lens always produces diminished images (m < 1), making fine print even smaller; convex lenses are used as reading glasses.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b9bf81997da85873f7cfef2dc2e709537bb990c98b7bf71bbcdde1f28749ce08",
+    "question_skeleton": "assertion a a concave lens can be used as a reading glass to read fine newspaper print reason r a concave lens produces erect and magnified images when placed close to an object choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_21_386d07",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Principal focus definition convex lens",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A convex lens has two real principal foci equidistant from its optical centre for a symmetric lens. **Reason (R):** Light can pass through a lens from either direction, and parallel rays from either side converge to a focus on the opposite side. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and symmetry of the two refracting surfaces confirms two equidistant foci.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "10214f7d2cf4983fbee3095284a231753e66156eb9049cc4af3804ce8596e060",
+    "question_skeleton": "assertion a a convex lens has two real principal foci equidistant from its optical centre for a symmetric lens reason r light can pass through a lens from either direction and parallel rays from either side converge to a focus on the opposite side choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_22_ca4668",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Concave lens focus reality",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The principal focus of a concave lens is a virtual focus. **Reason (R):** Rays incident parallel to the principal axis diverge after passing through the lens and appear to meet at the focus when extended backward. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and apparent convergence of backward-extended rays defines a virtual focus.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "aed5b23fd3248d241bbde15f60fdf0469ed62cc6f8b07ece7cfb8f3ae7a6f9a3",
+    "question_skeleton": "assertion a the principal focus of a concave lens is a virtual focus reason r rays incident parallel to the principal axis diverge after passing through the lens and appear to meet at the focus when extended backward choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_23_aa095a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Lens immersed in liquid of equal refractive index",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A glass lens placed in a liquid having the exact same refractive index as the glass becomes completely invisible. **Reason (R):** No refraction or reflection occurs at the interface between two media of identical refractive index. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and zero refraction/reflection means light passes straight through without bending or boundary contrast.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "86f5bbd5df0a24db59e50ba8ee13a5cdf9ef7f632ef6d7a0ba2506376004542c",
+    "question_skeleton": "assertion a a glass lens placed in a liquid having the exact same refractive index as the glass becomes completely invisible reason r no refraction or reflection occurs at the interface between two media of identical refractive index choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_24_a4a776",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Lens immersed in liquid of greater refractive index",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A convex glass lens immersed in carbon disulfide (μ = 1.63 > μ_glass = 1.5) behaves as a diverging lens. **Reason (R):** When the surrounding medium has a higher refractive index than the lens material, the direction of refraction at each surface is reversed. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and reversed relative refractive index inverts a converging geometry into a diverging lens.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "39c74c2d4294b307df2e15858a34fbe3c2c649690fbb16e6b7440202dc6d9346",
+    "question_skeleton": "assertion a a convex glass lens immersed in carbon disulfide # glass # behaves as a diverging lens reason r when the surrounding medium has a higher refractive index than the lens material the direction of refraction at each surface is reversed choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_25_502c43",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Camera lens type",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The objective lens of a photographic camera is a convex lens. **Reason (R):** A camera requires a real, inverted, and diminished image to be focused on the photographic film or digital sensor. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and a convex lens focusing distant objects into real, diminished images matches camera sensor requirements.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "321052e6c858f682880585a999fbdba903ba4c15a4e02f9b4da766e8afdf408b",
+    "question_skeleton": "assertion a the objective lens of a photographic camera is a convex lens reason r a camera requires a real inverted and diminished image to be focused on the photographic film or digital sensor choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_26_668226",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Human eye crystalline lens",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The crystalline lens of the human eye is a biconvex lens of variable focal length. **Reason (R):** Ciliary muscles contract and relax to alter the curvature and focal length of the eye lens for accommodation. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the action of ciliary muscles altering curvature explains accommodation.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5c07dff2f8e48e222b71e6017966781e329d4fac3aa4f9d7a0b8fd7350de8bb5",
+    "question_skeleton": "assertion a the crystalline lens of the human eye is a biconvex lens of variable focal length reason r ciliary muscles contract and relax to alter the curvature and focal length of the eye lens for accommodation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_27_75c27b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Minimum distance between object and real image",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The minimum distance between a real object and its real image formed by a convex lens of focal length f is 4f. **Reason (R):** This occurs when the object is at 2F (distance 2f from lens) and the image is formed at 2F on the other side (total distance = 2f + 2f = 4f). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and calculus or the 2f+2f geometry confirms 4f as the minimum real-to-real separation.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "77e035a797e10f0ae5f25f1547861d2c4169344d18a971a3d43643420b4fda6f",
+    "question_skeleton": "assertion a the minimum distance between a real object and its real image formed by a convex lens of focal length f is f reason r this occurs when the object is at f distance f from lens and the image is formed at f on the other side total distance f f f choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_28_053db3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Plano-convex lens focal length",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A plano-convex lens has a longer focal length than a double-convex lens of the same material and same radius of curvature. **Reason (R):** A plano-convex lens has only one curved refracting surface, providing only half the converging power of an equiconvex lens. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. From the lens maker's formula, 1/f = (μ - 1)(1/R), which is half of (μ - 1)(2/R), doubling the focal length.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fc0a28e957cf69d7b82b3921a1746e765a3a6c0b9f849fc12a0de25106ed818d",
+    "question_skeleton": "assertion a a plano convex lens has a longer focal length than a double convex lens of the same material and same radius of curvature reason r a plano convex lens has only one curved refracting surface providing only half the converging power of an equiconvex lens choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_29_147f76",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Sign convention object distance",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** According to Cartesian sign convention, the object distance u is always taken as negative for a real object. **Reason (R):** A real object is always placed to the left of the lens, in the direction opposite to the incident light. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and measuring against the incident light direction assigns a negative sign to u.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c35ca475df444821ad8bebe17d38af0c95a9a44a2926070e967335ea55fc51a6",
+    "question_skeleton": "assertion a according to cartesian sign convention the object distance u is always taken as negative for a real object reason r a real object is always placed to the left of the lens in the direction opposite to the incident light choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_30_1dac7d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Aperture and image brightness",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A camera lens with a larger diameter aperture produces a brighter image on the sensor. **Reason (R):** The amount of light collected by a lens is directly proportional to the square of its aperture diameter (area ∝ d²). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and area ∝ d² confirms that larger aperture collects more light, increasing brightness.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "226aa3c7178abdc709222774b3b27c1925f8ff0edce32f8d4a2b6048646847f9",
+    "question_skeleton": "assertion a a camera lens with a larger diameter aperture produces a brighter image on the sensor reason r the amount of light collected by a lens is directly proportional to the square of its aperture diameter area d choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_31_53571a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Myopia corrective lens",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A person suffering from myopia (short-sightedness) is prescribed spectacles with concave lenses. **Reason (R):** A concave lens diverges parallel incoming rays so that they appear to come from the person's far point, focusing precisely on the retina. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and divergence of distant rays to move the image back onto the retina corrects myopia.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dbb649f9878b8e653435f46e20c245614b8e46c723b074abe7d588985fbbaa66",
+    "question_skeleton": "assertion a a person suffering from myopia short sightedness is prescribed spectacles with concave lenses reason r a concave lens diverges parallel incoming rays so that they appear to come from the person s far point focusing precisely on the retina choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_32_197249",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Hypermetropia corrective lens",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A person with hypermetropia (long-sightedness) requires convex lenses for reading. **Reason (R):** A convex lens provides converging power to form a virtual image of a nearby object at the person's near point. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and auxiliary converging power focusing near rays onto the retina corrects hypermetropia.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5e120d7c95ed9bfa71bf17d5bdaa8e1989a5ec0854b3cf4da19c5f55e3c1d9c4",
+    "question_skeleton": "assertion a a person with hypermetropia long sightedness requires convex lenses for reading reason r a convex lens provides converging power to form a virtual image of a nearby object at the person s near point choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_33_6c9aae",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Convex lens beyond 2F image size",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When an object is placed beyond 2F of a convex lens, its image is real, inverted, and diminished. **Reason (R):** The image is formed between F and 2F on the opposite side of the lens. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. When u > 2f, f < v < 2f, and magnification |m| = v/u < 1, producing a diminished real image.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b5d2339da6da35a2dcf29cb49cc01ef93025e00e05be3349fe610f3f3eb4f4b8",
+    "question_skeleton": "assertion a when an object is placed beyond f of a convex lens its image is real inverted and diminished reason r the image is formed between f and f on the opposite side of the lens choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_34_de2f29",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Convex lens between F and 2F image size",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When an object is placed between F and 2F of a convex lens, its image is real, inverted, and magnified. **Reason (R):** The image is formed beyond 2F on the opposite side, where image distance v is greater than object distance u. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. When f < u < 2f, v > 2f, so |m| = v/u > 1, producing an enlarged real image.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b4bf6bd27647380daa18e21d0d0afc8a81da956f5c8ae9e3ad114fab68a0aa60",
+    "question_skeleton": "assertion a when an object is placed between f and f of a convex lens its image is real inverted and magnified reason r the image is formed beyond f on the opposite side where image distance v is greater than object distance u choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_35_69d396",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Focal length independent of light intensity",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The focal length of a lens remains identical whether exposed to bright sunlight or dim moonlight. **Reason (R):** Focal length is determined strictly by the radii of curvature and refractive index of the lens material, independent of beam intensity. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and independence of refractive index from light intensity ensures constant focal length.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cf2b43679b8d5a933fa248773482273101c2efa988957ecd30a1087e8d331207",
+    "question_skeleton": "assertion a the focal length of a lens remains identical whether exposed to bright sunlight or dim moonlight reason r focal length is determined strictly by the radii of curvature and refractive index of the lens material independent of beam intensity choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_36_19f183",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Power of plane glass plate",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The optical power of a flat, plane glass window sheet is zero. **Reason (R):** A plane glass plate has infinite radius of curvature, so its focal length is infinity and power P = 1 / ∞ = 0. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and P = 1/f = 1/∞ = 0 explains zero optical power.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ef910fd17e009ad5fb173d6b15e08899e73669eb3a23aaba521b2f59af74fc6a",
+    "question_skeleton": "assertion a the optical power of a flat plane glass window sheet is zero reason r a plane glass plate has infinite radius of curvature so its focal length is infinity and power p # # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_37_88ff8d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Sign convention focal length of convex lens",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The focal length of a convex lens is taken as positive in all ray-tracing calculations. **Reason (R):** The primary focus where parallel incident rays converge lies on the right side of the lens in the direction of the incident light. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and measurement along the direction of incident light assigns a positive sign.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "aa10a03ce95f39139c2383264a5678da049d549b672c7d681f3d12de2284486f",
+    "question_skeleton": "assertion a the focal length of a convex lens is taken as positive in all ray tracing calculations reason r the primary focus where parallel incident rays converge lies on the right side of the lens in the direction of the incident light choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_38_0930d2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Chromatic aberration in single lens",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A single spherical glass lens does not focus all colors of white light to the exact same point. **Reason (R):** The refractive index of glass varies with wavelength, causing violet light to focus closer to the lens than red light. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and chromatic dispersion (μ_v > μ_r) causing split focal points defines chromatic aberration.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "889f965fa9d2bb745c6a6ad0f66ad6220c385e085565b40127280a2f83856e89",
+    "question_skeleton": "assertion a a single spherical glass lens does not focus all colors of white light to the exact same point reason r the refractive index of glass varies with wavelength causing violet light to focus closer to the lens than red light choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_39_d11c1e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Convex lens virtual image position",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When a convex lens forms a virtual image, the image is always formed on the same side of the lens as the object. **Reason (R):** The refracted rays diverge, and when produced backward, they intersect on the incident side. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and backward extension on the incident side defines virtual image formation on the object's side.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2ace58a40d0db08a6b8f73c9a71bba54272597f40d9b456b5567407bb3df16a8",
+    "question_skeleton": "assertion a when a convex lens forms a virtual image the image is always formed on the same side of the lens as the object reason r the refracted rays diverge and when produced backward they intersect on the incident side choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_refraction_lens_40_ccf85d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Refraction through a Lens",
+    "title": "Assertion–Reason: Lens cutting along principal axis",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If a symmetrical convex lens is cut into two halves along its principal axis, the focal length of each half remains equal to f. **Reason (R):** The radii of curvature of the curved surfaces of each half are unchanged, and the refractive index of the glass remains the same. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The lens maker's formula 1/f = (μ-1)(2/R) depends only on R and μ; cutting along the axis changes aperture/brightness, but not focal length.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "610cc87a22e89b5aabd354d4f95fc9b1f2f57ecea3cdd96d1a28416e155615d7",
+    "question_skeleton": "assertion a if a symmetrical convex lens is cut into two halves along its principal axis the focal length of each half remains equal to f reason r the radii of curvature of the curved surfaces of each half are unchanged and the refractive index of the glass remains the same choose the correct option"
+  }
+]

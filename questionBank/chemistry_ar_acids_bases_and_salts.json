@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_1_f8037b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Basicity of orthophosphorous acid",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Orthophosphorous acid (H₃PO₃) is a dibasic acid, not a tribasic acid. **Reason (R):** In H₃PO₃, only two hydrogen atoms are bonded to oxygen atoms as ionisable -OH groups, while the third hydrogen is bonded directly to phosphorus. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Only hydrogen atoms attached to electronegative oxygen atoms ionise in aqueous solution to yield H₃O⁺ ions.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "861976591135f63ad6f5ba93a96744ed1e71eb4830e5b1debd7c839bfe8e6c82",
+    "question_skeleton": "assertion a orthophosphorous acid h po is a dibasic acid not a tribasic acid reason r in h po only two hydrogen atoms are bonded to oxygen atoms as ionisable oh groups while the third hydrogen is bonded directly to phosphorus choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_2_becc2b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Basicity of orthophosphoric acid",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Orthophosphoric acid (H₃PO₄) is a tribasic acid. **Reason (R):** All three hydrogen atoms in H₃PO₄ are present as ionisable hydroxyl (-OH) groups attached to the central phosphorus atom. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. H₃PO₄ ionises in three steps in water, yielding 3 moles of H₃O⁺ per mole of acid.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1aa2b1bb9433db8999bbeda263c598266cae671d0effd59baa4a92c3600db512",
+    "question_skeleton": "assertion a orthophosphoric acid h po is a tribasic acid reason r all three hydrogen atoms in h po are present as ionisable hydroxyl oh groups attached to the central phosphorus atom choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_3_84d54c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Basicity of hypophosphorous acid",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Hypophosphorous acid (H₃PO₂) is a monobasic acid. **Reason (R):** H₃PO₂ contains only one P-OH bond and two P-H bonds; only the oxygen-linked hydrogen can ionise in water. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. P-H bonds are non-polar and do not release protons in aqueous solution.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "aafa688cde6060eb1d1cec5542646d65a0c608e585fb623c933682cf52339464",
+    "question_skeleton": "assertion a hypophosphorous acid h po is a monobasic acid reason r h po contains only one p oh bond and two p h bonds only the oxygen linked hydrogen can ionise in water choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_4_41d6e1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Basicity of acetic acid",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Acetic acid (CH₃COOH) has four hydrogen atoms but is a monobasic acid. **Reason (R):** Only the hydrogen atom in the carboxyl (-COOH) group ionises in water; the three hydrogen atoms of the methyl group are non-ionisable. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. CH₃COOH ⇌ CH₃COO⁻ + H⁺ in water, providing only one replaceable hydrogen ion per molecule.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e252a9d014d6cf7669c0c615aacd2190c053c1ea6b92a0d048db610231c27a81",
+    "question_skeleton": "assertion a acetic acid ch cooh has four hydrogen atoms but is a monobasic acid reason r only the hydrogen atom in the carboxyl cooh group ionises in water the three hydrogen atoms of the methyl group are non ionisable choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_5_1fc72a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Acidity of a base definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Aluminium hydroxide, Al(OH)₃, is a triacidic base. **Reason (R):** The acidity of a base is the number of replaceable hydroxyl (OH⁻) ions produced per molecule of the base in aqueous solution. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. One mole of Al(OH)₃ neutralises three moles of a monobasic acid like HCl.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b2b02d097302ff39b5596a93f5d6930519357808e8ef6d5c5385449d4f59ad27",
+    "question_skeleton": "assertion a aluminium hydroxide al oh is a triacidic base reason r the acidity of a base is the number of replaceable hydroxyl oh ions produced per molecule of the base in aqueous solution choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_6_dc7959",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Strong acid vs weak acid distinction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Hydrochloric acid is a strong acid, whereas acetic acid is a weak acid. **Reason (R):** Hydrochloric acid completely ionises in dilute aqueous solution, while acetic acid undergoes only partial ionisation. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Strong acids dissociate ~100% into ions; weak acids remain predominantly as undissociated molecules in dynamic equilibrium with their ions.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "806901083e40a95e630963c9220ddd82385ac28533577896b8fa3b0fc3b6c7cd",
+    "question_skeleton": "assertion a hydrochloric acid is a strong acid whereas acetic acid is a weak acid reason r hydrochloric acid completely ionises in dilute aqueous solution while acetic acid undergoes only partial ionisation choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_7_71ef7c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Alkali definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** All alkalis are bases, but not all bases are alkalis. **Reason (R):** An alkali is specifically a water-soluble base that furnishes OH⁻ ions in aqueous solution, whereas insoluble metallic hydroxides like Cu(OH)₂ are bases but not alkalis. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Soluble bases like NaOH and KOH are alkalis; insoluble bases like Fe(OH)₃ and Cu(OH)₂ are not alkalis.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a36748b5ffe1745f46bd176deef262db4ac9b7fb43f99b43e98b4fec4cded92c",
+    "question_skeleton": "assertion a all alkalis are bases but not all bases are alkalis reason r an alkali is specifically a water soluble base that furnishes oh ions in aqueous solution whereas insoluble metallic hydroxides like cu oh are bases but not alkalis choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_8_881b6c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Action of dilute acid on carbonates",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Dilute hydrochloric acid reacts with calcium carbonate with brisk effervescence. **Reason (R):** Carbonates react with dilute acids to liberate carbon dioxide gas, which turns lime water milky. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂↑. The rapid release of CO₂ produces brisk effervescence.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a7c3c47007556505296015a0e7291be5641a5e3c1a5ff12af40e57977171688c",
+    "question_skeleton": "assertion a dilute hydrochloric acid reacts with calcium carbonate with brisk effervescence reason r carbonates react with dilute acids to liberate carbon dioxide gas which turns lime water milky choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_9_adc147",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Action of dilute acid on sulphites",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When dilute sulphuric acid is added to sodium sulphite, a gas with the choking smell of burning sulphur is evolved. **Reason (R):** Sulphur dioxide (SO₂) gas is liberated, which turns acidified potassium dichromate solution from orange to green. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Na₂SO₃ + H₂SO₄ → Na₂SO₄ + H₂O + SO₂↑. SO₂ reduces orange Cr₂O₇²⁻ to green Cr³⁺.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "76695bcbc9fb84167912f4de4a1ecfffa07caa65146cf65fb181e1abec325e87",
+    "question_skeleton": "assertion a when dilute sulphuric acid is added to sodium sulphite a gas with the choking smell of burning sulphur is evolved reason r sulphur dioxide so gas is liberated which turns acidified potassium dichromate solution from orange to green choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_10_949698",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Action of dilute acid on sulphides",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Adding dilute hydrochloric acid to iron(II) sulphide produces a gas with a rotten egg smell. **Reason (R):** Hydrogen sulphide (H₂S) gas is liberated, which turns moist lead acetate paper silvery black. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. FeS + 2HCl → FeCl₂ + H₂S↑. H₂S reacts with (CH₃COO)₂Pb to precipitate black PbS.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a9a5df773ecbaef96b4525656bef3e877bec1c33ed36446a42130f111bdb60db",
+    "question_skeleton": "assertion a adding dilute hydrochloric acid to iron ii sulphide produces a gas with a rotten egg smell reason r hydrogen sulphide h s gas is liberated which turns moist lead acetate paper silvery black choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_11_cb7e0f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Formation of acid salt vs normal salt",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Sodium hydrogen sulphate (NaHSO₄) is an acid salt, whereas sodium sulphate (Na₂SO₄) is a normal salt. **Reason (R):** An acid salt is formed by the partial replacement of ionisable hydrogen atoms of a polybasic acid by a metal ion. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. H₂SO₄ has two replaceable H⁺ ions. Replacing one yields NaHSO₄; replacing both yields Na₂SO₄.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "33639d651bdfd47599aa002507b80bd0a1c666a06105c7f849263704e5a26330",
+    "question_skeleton": "assertion a sodium hydrogen sulphate nahso is an acid salt whereas sodium sulphate na so is a normal salt reason r an acid salt is formed by the partial replacement of ionisable hydrogen atoms of a polybasic acid by a metal ion choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_12_86c6b1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Acidic nature of NaHSO4 solution",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An aqueous solution of sodium hydrogen sulphate turns blue litmus red. **Reason (R):** NaHSO₄ ionises in water to produce H⁺ (or H₃O⁺) ions: NaHSO₄ → Na⁺ + H⁺ + SO₄²⁻. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The presence of the replaceable hydrogen ion gives the solution an acidic pH and turns blue litmus red.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e059b46392dd1ceae90a075f38c9c3892204c27bcbfa404712b06be6e0154fcc",
+    "question_skeleton": "assertion a an aqueous solution of sodium hydrogen sulphate turns blue litmus red reason r nahso ionises in water to produce h or h o ions nahso na h so choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_13_69f7ea",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Normal salt from monobasic acid",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Hydrochloric acid (HCl) cannot form an acid salt. **Reason (R):** HCl is a monobasic acid and has only one replaceable hydrogen atom per molecule. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Only polybasic acids (dibasic or tribasic) can form acid salts through incomplete neutralisation.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "121c9515edd2ef01c829cb26be2c6d66e31c99ad9c6f434a482470ae082a17ed",
+    "question_skeleton": "assertion a hydrochloric acid hcl cannot form an acid salt reason r hcl is a monobasic acid and has only one replaceable hydrogen atom per molecule choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_14_5f004c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Insoluble salt preparation by precipitation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Barium sulphate is prepared in the laboratory by precipitation (double decomposition), not by direct neutralisation. **Reason (R):** Barium sulphate is insoluble in water and precipitates immediately when solutions of barium chloride and sodium sulphate are mixed. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. BaCl₂(aq) + Na₂SO₄(aq) → BaSO₄↓ + 2NaCl(aq). Precipitation is the standard method for preparing insoluble salts.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ddace1842377d9f7edd1f6107f47ea307d9bbb84ad396f2053938335c700162e",
+    "question_skeleton": "assertion a barium sulphate is prepared in the laboratory by precipitation double decomposition not by direct neutralisation reason r barium sulphate is insoluble in water and precipitates immediately when solutions of barium chloride and sodium sulphate are mixed choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_15_6312b6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Soluble salt preparation by titration",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Sodium chloride is prepared in the laboratory by titrating sodium hydroxide against hydrochloric acid using phenolphthalein. **Reason (R):** Both the reactants (NaOH, HCl) and the product salt (NaCl) are soluble in water, necessitating an indicator to detect the exact neutralisation point. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Titration allows determining the stoichiometric equivalence point before evaporating the neutral solution to crystallise NaCl.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "469cff91eba52c7ebeadf7de27222703465a45cc77482efb56e09a5d591a52a0",
+    "question_skeleton": "assertion a sodium chloride is prepared in the laboratory by titrating sodium hydroxide against hydrochloric acid using phenolphthalein reason r both the reactants naoh hcl and the product salt nacl are soluble in water necessitating an indicator to detect the exact neutralisation point choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_16_779ec2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Insoluble base and acid reaction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Copper(II) sulphate crystals can be prepared by reacting black copper(II) oxide with dilute sulphuric acid. **Reason (R):** An insoluble basic oxide neutralises dilute sulphuric acid on gentle warming to form soluble copper sulphate and water. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. CuO(s) + H₂SO₄(aq) → CuSO₄(aq) + H₂O(l). Excess insoluble CuO is filtered off, leaving pure blue CuSO₄ solution.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9ef36af95a0edb02d3a58680a2ef56f631aa975100cfc47998c70829c53c3c31",
+    "question_skeleton": "assertion a copper ii sulphate crystals can be prepared by reacting black copper ii oxide with dilute sulphuric acid reason r an insoluble basic oxide neutralises dilute sulphuric acid on gentle warming to form soluble copper sulphate and water choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_17_1cd5c8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Why copper does not react with dilute HCl",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Copper metal does not react with dilute hydrochloric acid to produce hydrogen gas. **Reason (R):** Copper lies below hydrogen in the electrochemical (activity) series and cannot displace hydrogen from dilute non-oxidising acids. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Elements with standard reduction potentials higher than hydrogen cannot reduce H⁺ to H₂.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a16185af00707c16399badb418ea86f47f7213a8379629ae435647639261da9d",
+    "question_skeleton": "assertion a copper metal does not react with dilute hydrochloric acid to produce hydrogen gas reason r copper lies below hydrogen in the electrochemical activity series and cannot displace hydrogen from dilute non oxidising acids choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_18_275c6a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Why lead reacts sluggishly with dilute H2SO4",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Lead appears to stop reacting after a few seconds when treated with dilute sulphuric acid. **Reason (R):** An insoluble coating of lead sulphate (PbSO₄) forms on the surface of lead, preventing further contact with the acid. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The insoluble crust of PbSO₄ halts the reaction (passivation).",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "783a00c2acdfe932c5df8aeb17aa1520bd4792839aa8835cd952763eb6e18d4d",
+    "question_skeleton": "assertion a lead appears to stop reacting after a few seconds when treated with dilute sulphuric acid reason r an insoluble coating of lead sulphate pbso forms on the surface of lead preventing further contact with the acid choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_19_cf0e88",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Why lead reacts sluggishly with dilute HCl",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The reaction between lead metal and dilute hydrochloric acid ceases prematurely. **Reason (R):** Lead(II) chloride (PbCl₂) is insoluble in cold water and forms a protective barrier over the metal surface. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. PbCl₂ precipitates on the metal in cold acid; it only dissolves upon heating.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "167de0201e77393eb5b81ed8edf2ac5b398acd1418094e324285652b78e98d99",
+    "question_skeleton": "assertion a the reaction between lead metal and dilute hydrochloric acid ceases prematurely reason r lead ii chloride pbcl is insoluble in cold water and forms a protective barrier over the metal surface choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_20_68915e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Efflorescence definition and example",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Washing soda crystals (Na₂CO₃·10H₂O) crumble to a white powder when exposed to dry air. **Reason (R):** Washing soda is an efflorescent substance that loses its water of crystallisation because its crystal vapor pressure exceeds atmospheric moisture vapor pressure. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Na₂CO₃·10H₂O loses 9 molecules of water to form a monohydrate powder: Na₂CO₃·H₂O.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2a8896ac999ca55220cb5f61b6ee6a566c09cf02f0a45e6a23464d948b3ce863",
+    "question_skeleton": "assertion a washing soda crystals na co h o crumble to a white powder when exposed to dry air reason r washing soda is an efflorescent substance that loses its water of crystallisation because its crystal vapor pressure exceeds atmospheric moisture vapor pressure choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_21_004edb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Deliquescence definition and example",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Solid anhydrous calcium chloride (CaCl₂) turns into a puddle of liquid when left exposed to humid air. **Reason (R):** Calcium chloride is a deliquescent substance that absorbs moisture from the air and dissolves in the absorbed water to form a concentrated solution. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Deliquescent salts have vapor pressures significantly lower than the partial pressure of water vapor in air.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fc9c34871a3b520bc34cfa619f0d74a9028f406e1a874182ebd25f5c775013ae",
+    "question_skeleton": "assertion a solid anhydrous calcium chloride cacl turns into a puddle of liquid when left exposed to humid air reason r calcium chloride is a deliquescent substance that absorbs moisture from the air and dissolves in the absorbed water to form a concentrated solution choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_22_4342ee",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Hygroscopic substances vs deliquescent",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Concentrated sulphuric acid is hygroscopic, but not deliquescent. **Reason (R):** Hygroscopic substances absorb moisture from the atmosphere without changing their physical state, whereas deliquescent solids dissolve in the absorbed moisture. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Concentrated H₂SO₄ is already a liquid; it absorbs moisture and becomes diluted without undergoing a phase change.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6ad5da162c3aea9afd4b3bbb6083579dcf1add53f047f66c2f678d066666d7bb",
+    "question_skeleton": "assertion a concentrated sulphuric acid is hygroscopic but not deliquescent reason r hygroscopic substances absorb moisture from the atmosphere without changing their physical state whereas deliquescent solids dissolve in the absorbed moisture choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_23_083117",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: pH scale logarithmic relationship",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A solution with pH = 3 has ten times higher hydronium ion concentration than a solution with pH = 4. **Reason (R):** pH is defined as the negative logarithm to the base 10 of the hydronium ion concentration: pH = -log₁₀[H₃O⁺]. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Each decrease of 1 pH unit represents a 10-fold increase in [H₃O⁺].",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ac1723ad4cb4e85f1291417ef1c1c37890c155cd93e74ca6da7b601854861bf6",
+    "question_skeleton": "assertion a a solution with ph # has ten times higher hydronium ion concentration than a solution with ph # reason r ph is defined as the negative logarithm to the base # of the hydronium ion concentration ph log h o choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_24_3db1b5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Effect of dilution on pH of an acid",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Diluting an aqueous solution of an acid increases its pH towards 7. **Reason (R):** Dilution decreases the concentration of H₃O⁺ ions per unit volume of the solution. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Lower [H₃O⁺] corresponds to a higher numerical value of -log₁₀[H₃O⁺], approaching 7 at infinite dilution.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6a61935cbf7e0a1098fe892ace0e2f7638f182b6067540907a5fb9e16e389bb7",
+    "question_skeleton": "assertion a diluting an aqueous solution of an acid increases its ph towards # reason r dilution decreases the concentration of h o ions per unit volume of the solution choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_25_1763d3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Effect of dilution on pH of an alkali",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Adding water to an aqueous solution of sodium hydroxide decreases its pH towards 7. **Reason (R):** Dilution reduces the concentration of OH⁻ ions per unit volume, which increases the [H₃O⁺] concentration through the ionic product of water. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. [H₃O⁺][OH⁻] = 10⁻¹⁴; decreasing [OH⁻] increases [H₃O⁺], lowering pH from e.g. 13 towards 7.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d49c6262f186bf3431bdbc10ed1f2ca29dad7271476f63ca7f43dc7ddecbcca8",
+    "question_skeleton": "assertion a adding water to an aqueous solution of sodium hydroxide decreases its ph towards # reason r dilution reduces the concentration of oh ions per unit volume which increases the h o concentration through the ionic product of water choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_26_5aa642",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Universal indicator advantage over litmus",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Universal indicator is preferred over litmus paper for measuring the strength of acids and bases. **Reason (R):** Litmus paper only indicates whether a solution is acidic or alkaline, whereas universal indicator displays a full spectrum of colors corresponding to specific pH values. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Universal indicator is a mixture of organic dyes that shows red for pH 1-2, green for pH 7, and purple/violet for pH 13-14.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "41fc469c7f5a616faa440bafd3e6db8b465aa479afe1bd2c0ab9e37e771fd74b",
+    "question_skeleton": "assertion a universal indicator is preferred over litmus paper for measuring the strength of acids and bases reason r litmus paper only indicates whether a solution is acidic or alkaline whereas universal indicator displays a full spectrum of colors corresponding to specific ph values choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_27_a54bcd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Why sodium cannot be used with dilute acids in laboratory",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Sodium metal is never used with dilute acids to prepare hydrogen gas in school laboratories. **Reason (R):** The reaction between sodium and dilute acids is violently explosive and highly exothermic, igniting the liberated hydrogen. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Granulated zinc with dilute HCl or H₂SO₄ is preferred for safe, steady hydrogen evolution.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4e1abaabe8745badc140361cbe6bdd7907c67345fc13fd7d951490382a35098c",
+    "question_skeleton": "assertion a sodium metal is never used with dilute acids to prepare hydrogen gas in school laboratories reason r the reaction between sodium and dilute acids is violently explosive and highly exothermic igniting the liberated hydrogen choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_28_63a61d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Concentrated sulphuric acid non-volatile nature",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Concentrated sulphuric acid is used to prepare volatile acids like HCl and HNO₃ from their respective salts. **Reason (R):** Concentrated sulphuric acid has a high boiling point (338°C) and acts as a non-volatile acid that displaces more volatile acids upon heating. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. NaCl + H₂SO₄ → NaHSO₄ + HCl↑ (HCl boils at -85°C and readily escapes as vapor).",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2eaa141103ff7b5b9af4f8bccbf08ebba6e5d862e9f98ed8dde8751be1292688",
+    "question_skeleton": "assertion a concentrated sulphuric acid is used to prepare volatile acids like hcl and hno from their respective salts reason r concentrated sulphuric acid has a high boiling point # c and acts as a non volatile acid that displaces more volatile acids upon heating choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_29_b32b31",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Why concentrated nitric acid cannot prepare HCl",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Concentrated nitric acid cannot replace concentrated sulphuric acid in the laboratory preparation of HCl. **Reason (R):** Nitric acid is volatile and would vaporise along with HCl, and it also oxidises HCl to chlorine gas. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. HNO₃ would contaminate the HCl gas with nitric acid vapors and toxic nitrosyl chloride/chlorine.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b7511acd0e4b52dc8f2bcaeb8ab2c2f7bb8239d72dee9b239cc8746d4e7817f9",
+    "question_skeleton": "assertion a concentrated nitric acid cannot replace concentrated sulphuric acid in the laboratory preparation of hcl reason r nitric acid is volatile and would vaporise along with hcl and it also oxidises hcl to chlorine gas choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_30_cb5fb4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Direct combination for preparing anhydrous iron(III) chloride",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Anhydrous iron(III) chloride (FeCl₃) is prepared by direct combination (synthesis), not by reacting iron with dilute HCl. **Reason (R):** Reacting iron with dilute hydrochloric acid produces iron(II) chloride (FeCl₂) because liberated hydrogen gas prevents oxidation to iron(III). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 2Fe + 3Cl₂ → 2FeCl₃ (direct synthesis). Fe + 2HCl → FeCl₂ + H₂↑ (reducing atmosphere of H₂ prevents FeCl₃ formation).",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f44cef1ada88147dd3091d63bf83fa35dec8a133ab4e2635eb9fb096d9a4a5e7",
+    "question_skeleton": "assertion a anhydrous iron iii chloride fecl is prepared by direct combination synthesis not by reacting iron with dilute hcl reason r reacting iron with dilute hydrochloric acid produces iron ii chloride fecl because liberated hydrogen gas prevents oxidation to iron iii choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_31_86d9f7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Water of crystallisation definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Copper(II) sulphate pentahydrate crystals turn from blue to white upon strong heating. **Reason (R):** Heating drives off the five molecules of water of crystallisation, forming anhydrous white copper(II) sulphate. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. CuSO₄·5H₂O(blue) → CuSO₄(white) + 5H₂O↑. The blue color is due to hydrated Cu²⁺ coordination complexes.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ef08280abddb6c08539cc9a3ba40acefe806e450447d182e730a17d045cfd841",
+    "question_skeleton": "assertion a copper ii sulphate pentahydrate crystals turn from blue to white upon strong heating reason r heating drives off the five molecules of water of crystallisation forming anhydrous white copper ii sulphate choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_32_6e08df",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Hydrolysis of salts of weak acid and strong base",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An aqueous solution of sodium carbonate (Na₂CO₃) turns red litmus paper blue. **Reason (R):** Sodium carbonate undergoes salt hydrolysis in water, producing a strong base (NaOH) and a weak acid (H₂CO₃), leaving an excess of OH⁻ ions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. CO₃²⁻ + 2H₂O ⇌ H₂CO₃ + 2OH⁻; the solution is alkaline with pH > 7.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "799d7acf589b91c0656979b7743bc95b2b71b10634d5cae180e4be4c4cc1bbef",
+    "question_skeleton": "assertion a an aqueous solution of sodium carbonate na co turns red litmus paper blue reason r sodium carbonate undergoes salt hydrolysis in water producing a strong base naoh and a weak acid h co leaving an excess of oh ions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_33_93d316",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Hydrolysis of salts of strong acid and weak base",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An aqueous solution of ammonium chloride (NH₄Cl) is acidic to litmus. **Reason (R):** NH₄Cl undergoes hydrolysis to produce strong hydrochloric acid and weak ammonium hydroxide, yielding an excess of H₃O⁺ ions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. NH₄⁺ + H₂O ⇌ NH₄OH + H⁺; the presence of free H⁺ makes the solution acidic with pH < 7.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5f7cca304918720d056ce80804323fcf65c4e42493a54fb90fcc7fde4b6cbea4",
+    "question_skeleton": "assertion a an aqueous solution of ammonium chloride nh cl is acidic to litmus reason r nh cl undergoes hydrolysis to produce strong hydrochloric acid and weak ammonium hydroxide yielding an excess of h o ions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_34_e13672",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Neutral salt solution from strong acid and strong base",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An aqueous solution of potassium nitrate (KNO₃) has a pH of 7. **Reason (R):** KNO₃ is formed from strong potassium hydroxide and strong nitric acid; neither K⁺ nor NO₃⁻ undergoes hydrolysis. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Salts of strong acids and strong bases yield neutral solutions that do not alter the color of litmus.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "716b888eb4d1424cf20b2797c597014cfb78a3554b9a90662c27380ba625489e",
+    "question_skeleton": "assertion a an aqueous solution of potassium nitrate kno has a ph of # reason r kno is formed from strong potassium hydroxide and strong nitric acid neither k nor no undergoes hydrolysis choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_35_45862f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Basic salt formation",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Basic lead chloride, Pb(OH)Cl, is classified as a basic salt. **Reason (R):** A basic salt is formed by the partial replacement of hydroxyl ions of a diacidic or triacidic base by an acid radical. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Pb(OH)₂ + HCl → Pb(OH)Cl + H₂O. The presence of the unneutralised -OH group makes it a basic salt.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "509daa1fe48d9b6bf1a892dd4ffbe0e216f4f7db3a378d66bf5e71cc3263bda0",
+    "question_skeleton": "assertion a basic lead chloride pb oh cl is classified as a basic salt reason r a basic salt is formed by the partial replacement of hydroxyl ions of a diacidic or triacidic base by an acid radical choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_36_3db626",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Amphoteric hydroxide reaction with alkali",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Zinc hydroxide dissolves in excess sodium hydroxide solution. **Reason (R):** Zinc hydroxide is an amphoteric hydroxide that reacts with excess alkali to form a soluble complex salt, sodium zincate (Na₂ZnO₂). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Zn(OH)₂ + 2NaOH → Na₂ZnO₂ + 2H₂O. The precipitate dissolves to form a clear colorless solution.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4bd0b0264fb268a0cdcc956be75a0449fe05e1a5b573ded6bcd17f00f6982cba",
+    "question_skeleton": "assertion a zinc hydroxide dissolves in excess sodium hydroxide solution reason r zinc hydroxide is an amphoteric hydroxide that reacts with excess alkali to form a soluble complex salt sodium zincate na zno choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_37_3eae15",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Dehydrating action vs drying action of H2SO4",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Concentrated sulphuric acid turns blue copper sulphate crystals into a white anhydrous powder. **Reason (R):** Concentrated sulphuric acid acts as a powerful dehydrating agent, chemically removing the water of crystallisation from hydrated salts. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Dehydration involves the removal of chemically combined water molecules, distinct from absorbing surface moisture.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0993df65dfc77bd6e150b1a7ce3e909b56f3f530a6a47e6b3dde6ebf26fead78",
+    "question_skeleton": "assertion a concentrated sulphuric acid turns blue copper sulphate crystals into a white anhydrous powder reason r concentrated sulphuric acid acts as a powerful dehydrating agent chemically removing the water of crystallisation from hydrated salts choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_38_0e1fc1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Charring of sugar by concentrated H2SO4",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Adding concentrated sulphuric acid to cane sugar produces a spongy black mass of carbon accompanied by steam. **Reason (R):** Concentrated sulphuric acid dehydrates cane sugar (C₁₂H₂₂O₁₁) by removing hydrogen and oxygen in the exact ratio of water (2:1). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. C₁₂H₂₂O₁₁ → 12C + 11H₂O. The intense heat of hydration boils the water into steam, leaving spongy sugar charcoal.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "50c787291b0f3f07deb2e8b26127b21cb058ef8ef9cf700d8cea428f5f4e9b9c",
+    "question_skeleton": "assertion a adding concentrated sulphuric acid to cane sugar produces a spongy black mass of carbon accompanied by steam reason r concentrated sulphuric acid dehydrates cane sugar c h o by removing hydrogen and oxygen in the exact ratio of water # # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_39_f98919",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Action of heat on calcium hydrogen carbonate",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Temporary hardness in water containing Ca(HCO₃)₂ can be removed by simple boiling. **Reason (R):** Heating decomposes soluble calcium hydrogen carbonate into insoluble calcium carbonate precipitate, water, and carbon dioxide. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Ca(HCO₃)₂ → CaCO₃↓ + H₂O + CO₂↑. Insoluble CaCO₃ is filtered out, softening the water.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f6480c14eb31edfff8ecd0f55f2797eb01f14535973ed372b2899d98a80eb2d3",
+    "question_skeleton": "assertion a temporary hardness in water containing ca hco can be removed by simple boiling reason r heating decomposes soluble calcium hydrogen carbonate into insoluble calcium carbonate precipitate water and carbon dioxide choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_acids_bases_and_salts_40_2b796f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Acids, Bases and Salts",
+    "title": "Assertion–Reason: Acidic nature of non-metal oxides",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Carbon monoxide (CO) turns moist blue litmus red. **Reason (R):** All oxides of non-metals are acidic oxides. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false; carbon monoxide is a neutral oxide and has no effect on litmus. Reason is false; several non-metallic oxides like CO, NO, and N₂O are neutral, not acidic.",
+    "concept_name": "Acids, Bases and Salts",
+    "concept_tag": "acids bases and salts assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9beffcd488ecd0d00a44d3b9ff24ad541d34a76f408a9b1b7158f447342dfb4c",
+    "question_skeleton": "assertion a carbon monoxide co turns moist blue litmus red reason r all oxides of non metals are acidic oxides choose the correct option"
+  }
+]

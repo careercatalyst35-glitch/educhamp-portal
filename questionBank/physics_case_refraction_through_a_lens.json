@@ -1,0 +1,2252 @@
+[
+  {
+    "globalId": "qb_case_refraction_through_a_lens_1_873cb1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 1: Solar Fire-Starter Burning Glass",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A survival instructor uses a thick biconvex glass lens of diameter 8.0 cm and focal length f = 15 cm to ignite dry tinder. The instructor points the lens directly toward the midday sun, holding a sheet of dry paper behind it. When the paper is positioned exactly 15 cm from the lens center, a blinding, needle-sharp point of light forms and the paper bursts into flame. **Investigative Question:** Why does the paper ignite precisely at 15 cm from the lens? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sunlight rays arrive virtually parallel from infinity and converge at the second principal focus F2 (15 cm), concentrating solar thermal energy into a microscopic area."
+      },
+      {
+        "key": "B",
+        "text": "The lens magnifies the sun's image to cover the entire paper."
+      },
+      {
+        "key": "C",
+        "text": "Frictional heat from air passing through the lens sets the paper on fire."
+      },
+      {
+        "key": "D",
+        "text": "The glass emits ultraviolet radiation that chemically combusts cellulose."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Because the sun is at an effective optical distance of infinity (u = ∞), incoming solar rays are parallel to the principal axis. A convex lens refracts all parallel incident rays to its second principal focus F2 at a distance equal to its focal length (v = f = 15 cm). The concentrated solar radiant flux at this tiny focal spot raises the paper's temperature above its ignition point.",
+    "concept_name": "Principal Focus and Solar Convergence",
+    "concept_tag": "refraction through a lens case based principal focus and solar convergence",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "873cb1f3acea4fe27ca3d357c74fb2b53562071256782a3dac345021d753458e",
+    "question_skeleton": "case scenario a survival instructor uses a thick biconvex glass lens of diameter 8 0 cm and focal length f 15 cm to ignite dry tinder the instructor points the lens directly toward the midday sun holding a sheet of dry paper behind it when the paper is positioned exactly 15 cm from the lens center a blinding needle sharp point of light forms and the paper bursts into flame investigative question why does the paper ignite precisely at 15 cm from the lens choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_2_70ef1e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 2: Photographic Camera Landscape Imaging",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A landscape photographer focuses a 35 mm SLR camera fitted with a 50 mm prime lens (f = +5.0 cm) on a distant mountain peak 500 meters away. **Investigative Question:** Where is the image formed inside the camera, and what are its physical characteristics? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Formed between F2 and 2F2 (practically at the focal plane F2 at 5.0 cm); real, inverted, and highly diminished."
+      },
+      {
+        "key": "B",
+        "text": "Formed beyond 2F2; real, inverted, and magnified."
+      },
+      {
+        "key": "C",
+        "text": "Formed between the optical center and F1; virtual and erect."
+      },
+      {
+        "key": "D",
+        "text": "Formed at 2F2; real, inverted, and same size."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When an object is positioned beyond 2F1 (in this case, at u = 500 m >> 2f = 10 cm), a convex lens forms a real, inverted, and diminished image located between F2 and 2F2, exceedingly close to the focal plane F2. In cameras, the digital sensor or film is positioned at this focal plane to record the sharp, miniature image.",
+    "concept_name": "Convex Lens: Object Beyond 2F1",
+    "concept_tag": "refraction through a lens case based convex lens: object beyond 2f1",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "70ef1e4fed0c94fee8b5af51ca24af91ca9878d81b07a141cbc41bbcc77135bf",
+    "question_skeleton": "case scenario a landscape photographer focuses a 35 mm slr camera fitted with a 50 mm prime lens f 5 0 cm on a distant mountain peak 500 meters away investigative question where is the image formed inside the camera and what are its physical characteristics choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_3_07b480",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 3: Office Photocopier 1:1 Scale Duplication",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An optical analog photocopier uses an internal imaging convex lens of focal length f = 20 cm to project an image of an original document onto an electrostatic drum with an exact 1:1 scale reproduction (same size, linear magnification |m| = 1.0). **Investigative Question:** Where must the document and the electrostatic drum be positioned relative to the lens? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Document at 40 cm (2F1) in front of the lens; drum at 40 cm (2F2) behind the lens."
+      },
+      {
+        "key": "B",
+        "text": "Document at 20 cm (F1); drum at infinity."
+      },
+      {
+        "key": "C",
+        "text": "Document at 30 cm; drum at 60 cm."
+      },
+      {
+        "key": "D",
+        "text": "Document at 10 cm; drum at 20 cm."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "To produce an inverted real image of exactly the same size as the object (magnification m = -1, |m| = 1.0), the object must be placed at twice the focal length (u = -2f = -40 cm). By the lens formula: 1/v - 1/(-40) = 1/20 => 1/v = 1/20 - 1/40 = 1/40 => v = +40 cm (+2f). Both document and drum are positioned at 2f from the lens.",
+    "concept_name": "Convex Lens: Object at 2F1",
+    "concept_tag": "refraction through a lens case based convex lens: object at 2f1",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "07b48079cc4085eae2ef8aa06166d280d8a4b9429aff8117f513784c3b7288f8",
+    "question_skeleton": "case scenario an optical analog photocopier uses an internal imaging convex lens of focal length f 20 cm to project an image of an original document onto an electrostatic drum with an exact 1 1 scale reproduction same size linear magnification m 1 0 investigative question where must the document and the electrostatic drum be positioned relative to the lens choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_4_ae71a3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 4: Classroom Slide Projector Image Projection",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A digital cinema projector uses a projection lens of focal length f = 10 cm to project a slide of width 3.5 cm onto an auditorium screen located 4.0 meters (400 cm) in front of the lens. **Investigative Question:** Where is the slide positioned relative to the lens, and how must it be mounted in the holder to appear upright on the screen? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Positioned between F1 and 2F1 (at u ≈ 10.26 cm); mounted upside-down because the lens produces an inverted real image."
+      },
+      {
+        "key": "B",
+        "text": "Positioned inside F1 (at u = 8 cm); mounted right-side up."
+      },
+      {
+        "key": "C",
+        "text": "Positioned beyond 2F1 (at u = 30 cm); mounted sideways."
+      },
+      {
+        "key": "D",
+        "text": "Positioned at F1 (at u = 10 cm); mounted upside-down."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "To project an enlarged real image on a distant screen (v = +400 cm >> 2f), the object must be placed between F1 and 2F1: 1/u = 1/v - 1/f = 1/400 - 1/10 = (1 - 40)/400 = -39/400 => u ≈ -10.26 cm. Because all real images formed by a convex lens are inverted (upside-down and laterally reversed), slides must be inserted upside-down and backwards so the projected image appears normal.",
+    "concept_name": "Convex Lens: Object Between F1 and 2F1",
+    "concept_tag": "refraction through a lens case based convex lens: object between f1 and 2f1",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ae71a3c7911b4f11fba379d14cbe9675946bb0fadd56dc14a890d0c4a3ef56fc",
+    "question_skeleton": "case scenario a digital cinema projector uses a projection lens of focal length f 10 cm to project a slide of width 3 5 cm onto an auditorium screen located 4 0 meters 400 cm in front of the lens investigative question where is the slide positioned relative to the lens and how must it be mounted in the holder to appear upright on the screen choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_5_4c40a9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 5: Lighthouse Beam Collimation and Searchlights",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A marine lighthouse beacon features a high-intensity xenon arc lamp placed at the focal point of a massive convex lens of focal length f = 80 cm. **Investigative Question:** What is the nature of the emergent light beam traveling out to sea? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A powerful parallel beam of uniform diameter that travels to infinity without divergence or focal convergence."
+      },
+      {
+        "key": "B",
+        "text": "A converging beam that focuses to a sharp point 80 cm out to sea."
+      },
+      {
+        "key": "C",
+        "text": "A widely diverging cone of light that dissipates within 50 meters."
+      },
+      {
+        "key": "D",
+        "text": "A virtual beam trapped inside the lens housing."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By the principle of optical reversibility, when a point source of light is situated at the first principal focus F1 of a convex lens, all diverging rays striking the lens refract parallel to the principal axis. The emergent light forms a parallel, non-diverging collimated beam capable of penetrating sea fog over tens of nautical miles.",
+    "concept_name": "Convex Lens: Object at Principal Focus F1",
+    "concept_tag": "refraction through a lens case based convex lens: object at principal focus f1",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4c40a9bf1b7ba9d53cfb2438c22d68e234acb543ce0b1a642fb336203db543f4",
+    "question_skeleton": "case scenario a marine lighthouse beacon features a high intensity xenon arc lamp placed at the focal point of a massive convex lens of focal length f 80 cm investigative question what is the nature of the emergent light beam traveling out to sea choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_6_cb42e6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 6: Jeweler's Eye Loupe (Simple Magnifying Glass)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A master watchmaker inspects an antique watch balance wheel using a small convex loupe lens of focal length f = +5.0 cm held close to the eye. The watch wheel is held at a distance of 4.0 cm from the lens. **Investigative Question:** Where is the image formed, and what are its characteristics? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Formed 20 cm in front of the lens on the same side as the object; virtual, erect, and magnified 5 times."
+      },
+      {
+        "key": "B",
+        "text": "Formed 20 cm behind the lens; real, inverted, and magnified."
+      },
+      {
+        "key": "C",
+        "text": "Formed at 5.0 cm behind the lens; real and point-sized."
+      },
+      {
+        "key": "D",
+        "text": "Formed at infinity; virtual and diminished."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Object distance u = -4.0 cm, focal length f = +5.0 cm. Using 1/f = 1/v - 1/u => 1/5 = 1/v - 1/(-4.0) => 1/v = 1/5 - 1/4 = (4 - 5)/20 = -1/20 => v = -20 cm. Magnification m = v / u = (-20) / (-4.0) = +5.0. The negative image distance confirms a virtual image on the same side as the object, erect (m > 0), and enlarged 5 times.",
+    "concept_name": "Convex Lens: Object Inside F1",
+    "concept_tag": "refraction through a lens case based convex lens: object inside f1",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "cb42e674e0259b4337be3e9ae00ceb41dea9144c86503748d955b5aee37c4d1a",
+    "question_skeleton": "case scenario a master watchmaker inspects an antique watch balance wheel using a small convex loupe lens of focal length f 5 0 cm held close to the eye the watch wheel is held at a distance of 4 0 cm from the lens investigative question where is the image formed and what are its characteristics choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_7_8a0c8b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 7: Concave Diverging Lens Peephole in Apartment Door",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An apartment security door is fitted with a wide-angle peephole viewer utilizing a concave lens of focal length f = -10 cm. A visitor stands outside the door at a distance of 90 cm from the lens. **Investigative Question:** Where is the image of the visitor formed, and what are its optical characteristics? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Formed at v = -9.0 cm (between optical center and focus); virtual, erect, and diminished 10 times."
+      },
+      {
+        "key": "B",
+        "text": "Formed at v = +90 cm; real, inverted, and same size."
+      },
+      {
+        "key": "C",
+        "text": "Formed at v = -100 cm; virtual, inverted, and magnified."
+      },
+      {
+        "key": "D",
+        "text": "Formed at v = +10 cm; real and magnified."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For a concave lens: f = -10 cm, u = -90 cm. By lens formula: 1/v = 1/f + 1/u = 1/(-10) + 1/(-90) = (-9 - 1)/90 = -10/90 = -1/9 => v = -9.0 cm. Magnification m = v / u = (-9.0) / (-90) = +0.10. For any real object at any distance, a concave lens always forms a virtual, erect, and diminished image located between the optical center and the focus, providing a wide-angle field of view.",
+    "concept_name": "Concave Lens Virtual Diminished Image",
+    "concept_tag": "refraction through a lens case based concave lens virtual diminished image",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8a0c8b8086670096d0daf181acbf1f1ff31f354413d38404fbb1d04140b33c84",
+    "question_skeleton": "case scenario an apartment security door is fitted with a wide angle peephole viewer utilizing a concave lens of focal length f 10 cm a visitor stands outside the door at a distance of 90 cm from the lens investigative question where is the image of the visitor formed and what are its optical characteristics choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_8_9255f0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 8: Bench Optical Distance Verification via Lens Formula",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student places an illuminated wire-mesh object 30 cm in front of a convex lens (u = -30 cm). A sharp real image is captured on a white paper screen placed 60 cm behind the lens (v = +60 cm). **Investigative Question:** What is the focal length of the convex lens and the linear magnification of the image? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "f = +20 cm; Magnification m = -2.0 (real, inverted, magnified)"
+      },
+      {
+        "key": "B",
+        "text": "f = +90 cm; Magnification m = +2.0"
+      },
+      {
+        "key": "C",
+        "text": "f = -20 cm; Magnification m = -0.5"
+      },
+      {
+        "key": "D",
+        "text": "f = +10 cm; Magnification m = -1.5"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Applying Cartesian sign convention: u = -30 cm, v = +60 cm. By the lens formula: 1/f = 1/v - 1/u = 1/60 - 1/(-30) = 1/60 + 2/60 = 3/60 = 1/20 => f = +20 cm. Magnification m = v / u = (+60) / (-30) = -2.0. The negative sign denotes a real and inverted image, while |m| = 2.0 indicates an image twice as tall as the object.",
+    "concept_name": "Cartesian Sign Convention Application",
+    "concept_tag": "refraction through a lens case based cartesian sign convention application",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9255f0697abe57bec72faa531cf8b89b776bcaafe06de7b76314d2b7bcc6ba71",
+    "question_skeleton": "case scenario a student places an illuminated wire mesh object 30 cm in front of a convex lens u 30 cm a sharp real image is captured on a white paper screen placed 60 cm behind the lens v 60 cm investigative question what is the focal length of the convex lens and the linear magnification of the image choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_9_c49397",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 9: Optometrist's Dioptric Power of Reading Glasses",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An eye specialist tests a pair of reading glasses prescribed for a farsighted patient. The glasses contain convex lenses of focal length f = +40 cm (+0.40 m). **Investigative Question:** What is the optical power of the lenses in Dioptres? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "+2.5 D"
+      },
+      {
+        "key": "B",
+        "text": "+0.25 D"
+      },
+      {
+        "key": "C",
+        "text": "-2.5 D"
+      },
+      {
+        "key": "D",
+        "text": "+4.0 D"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The power of a lens is defined as the reciprocal of its focal length expressed in meters: P = 1 / f(in m). For f = +40 cm = +0.40 m: P = 1 / (+0.40) = +2.5 Dioptres (D). Convex lenses have positive power (+), whereas concave lenses have negative power (-).",
+    "concept_name": "Power of a Lens P = 1 / f",
+    "concept_tag": "refraction through a lens case based power of a lens p = 1 / f",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c49397448049b70adb9141d37fc82b9acf8d0734defd62ddfe69f9662dc35c48",
+    "question_skeleton": "case scenario an eye specialist tests a pair of reading glasses prescribed for a farsighted patient the glasses contain convex lenses of focal length f 40 cm 0 40 m investigative question what is the optical power of the lenses in dioptres choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_10_0d739e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 10: Myopia Corrective Spectacle Lens Power",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A high school student diagnosed with myopia (nearsightedness) cannot see clearly beyond a far point of 50 cm (0.50 m). An optometrist prescribes a concave corrective lens of focal length f = -50 cm. **Investigative Question:** What is the power of the prescribed spectacle lens? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "-2.0 D"
+      },
+      {
+        "key": "B",
+        "text": "+2.0 D"
+      },
+      {
+        "key": "C",
+        "text": "-0.5 D"
+      },
+      {
+        "key": "D",
+        "text": "-5.0 D"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Focal length f = -50 cm = -0.50 m. Optical power P = 1 / f(m) = 1 / (-0.50 m) = -2.0 D. The negative sign designates a concave diverging lens designed to push the virtual image of distant objects back to the student's natural far point.",
+    "concept_name": "Negative Power of Concave Lenses",
+    "concept_tag": "refraction through a lens case based negative power of concave lenses",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0d739e756d17fb2390419ef16651973d6a14110bbe35b5ff87dc2dc05f6abb34",
+    "question_skeleton": "case scenario a high school student diagnosed with myopia nearsightedness cannot see clearly beyond a far point of 50 cm 0 50 m an optometrist prescribes a concave corrective lens of focal length f 50 cm investigative question what is the power of the prescribed spectacle lens choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_11_22abc3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 11: Two Thin Lenses Placed in Direct Contact",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An optometry researcher places a convex lens of focal length f1 = +20 cm in direct coaxial contact with a second convex lens of focal length f2 = +50 cm. **Investigative Question:** What is the combined power and equivalent focal length of this two-lens combination? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P_total = +7.0 D; F_eq = +14.29 cm"
+      },
+      {
+        "key": "B",
+        "text": "P_total = +3.5 D; F_eq = +28.57 cm"
+      },
+      {
+        "key": "C",
+        "text": "P_total = +10.0 D; F_eq = +10.0 cm"
+      },
+      {
+        "key": "D",
+        "text": "P_total = +2.5 D; F_eq = +70.0 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "P1 = 1 / 0.20 m = +5.0 D. P2 = 1 / 0.50 m = +2.0 D. For thin lenses in contact: P_total = P1 + P2 = +5.0 D + 2.0 D = +7.0 D. Equivalent focal length F_eq = 1 / P_total = 1 / 7.0 m ≈ 0.1429 m = 14.29 cm (or 1/F = 1/20 + 1/50 = 7/100 => F = 100/7 ≈ 14.29 cm).",
+    "concept_name": "Combined Power P = P1 + P2",
+    "concept_tag": "refraction through a lens case based combined power p = p1 + p2",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "22abc3ceb3337e0fec00934115a60386f5a2098fcb488e9ef1ac466dc106d441",
+    "question_skeleton": "case scenario an optometry researcher places a convex lens of focal length f1 20 cm in direct coaxial contact with a second convex lens of focal length f2 50 cm investigative question what is the combined power and equivalent focal length of this two lens combination choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_12_ff78c0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 12: Contact Combination of Equal Convex and Concave Lenses",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student mounts a convex lens of focal length +25 cm (P1 = +4.0 D) in direct contact with an identical concave lens of focal length -25 cm (P2 = -4.0 D). **Investigative Question:** How does the combined optical system behave when a beam of parallel light passes through it? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The combination has net power P = 0 D (F = ∞), behaving optically like a flat plane-parallel glass plate with zero convergence or divergence."
+      },
+      {
+        "key": "B",
+        "text": "It behaves like a powerful magnifying lens of focal length 12.5 cm."
+      },
+      {
+        "key": "C",
+        "text": "It reflects 100% of the light backward as a plane mirror."
+      },
+      {
+        "key": "D",
+        "text": "It splits light into an inverted rainbow spectrum."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Net power P_eq = P1 + P2 = +4.0 D + (-4.0 D) = 0 D. Equivalent focal length F = 1 / P = 1 / 0 = ∞. A lens system with infinite focal length produces zero convergence and zero divergence; incoming parallel rays emerge completely parallel and undeviated, exactly like a parallel-sided plane glass sheet.",
+    "concept_name": "Neutralization to Zero Power",
+    "concept_tag": "refraction through a lens case based neutralization to zero power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ff78c003801fe2422ecfce5505d364104fedd435e69ac35d63b69d4e748f9d1c",
+    "question_skeleton": "case scenario a student mounts a convex lens of focal length 25 cm p1 4 0 d in direct contact with an identical concave lens of focal length 25 cm p2 4 0 d investigative question how does the combined optical system behave when a beam of parallel light passes through it choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_13_a51a2b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 13: Contact Combination of Unequal Convex and Concave Lenses",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A compound optical doublet consists of a convex lens of focal length f1 = +10 cm (P1 = +10 D) cemented in contact with a concave lens of focal length f2 = -20 cm (P2 = -5 D). **Investigative Question:** What is the net power and nature of the combination? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Net power = +5.0 D; behaves as a converging convex lens of focal length +20 cm."
+      },
+      {
+        "key": "B",
+        "text": "Net power = -5.0 D; behaves as a diverging concave lens."
+      },
+      {
+        "key": "C",
+        "text": "Net power = +15.0 D; behaves as a convex lens of focal length 6.67 cm."
+      },
+      {
+        "key": "D",
+        "text": "Net power = 0 D; neutral system."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "P_net = P1 + P2 = +10 D + (-5 D) = +5.0 D. Equivalent focal length F = 1 / (+5.0 D) = +0.20 m = +20 cm. Because the convex lens has a shorter focal length (10 cm < 20 cm), it possesses greater refractive power (+10 D > |-5 D|). The combination behaves as a converging (convex) lens dominated by the more powerful component.",
+    "concept_name": "Dominance of Shorter Focal Length",
+    "concept_tag": "refraction through a lens case based dominance of shorter focal length",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a51a2bb80e44a2a7bc87be15a127212f8d3c6d89d509051bd6fddeafeb333983",
+    "question_skeleton": "case scenario a compound optical doublet consists of a convex lens of focal length f1 10 cm p1 10 d cemented in contact with a concave lens of focal length f2 20 cm p2 5 d investigative question what is the net power and nature of the combination choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_14_03cc8e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 14: Submerging a Glass Convex Lens in Water",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A biconvex crown glass lens (μ_glass = 1.50) has a focal length of f_air = 20 cm in air. The lens is placed in an underwater camera housing submerged in pure water (μ_water = 1.33 = 4/3). **Investigative Question:** What happens to the focal length of the lens in water? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Its focal length increases roughly fourfold to approx f_water ≈ 80 cm, because the relative refractive index difference (μ_glass / μ_water - 1) is much smaller."
+      },
+      {
+        "key": "B",
+        "text": "Its focal length decreases to 5 cm because water is denser than air."
+      },
+      {
+        "key": "C",
+        "text": "Its focal length remains unchanged at 20 cm."
+      },
+      {
+        "key": "D",
+        "text": "The lens transforms into a plane mirror."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By the Lens Maker's formula, 1/f = (μ_lens / μ_medium - 1) × (1/R1 - 1/R2). In air: (1.50/1.0 - 1) = 0.50. In water: (1.50 / 1.333 - 1) = (9/8 - 1) = 1/8 = 0.125. Ratio f_water / f_air = 0.50 / 0.125 = 4.0. Therefore, f_water = 4 × 20 cm = 80 cm. In water, the optical density difference is reduced, so rays bend far less sharply, quadrupling the focal length.",
+    "concept_name": "Focal Length Elongation in Liquids",
+    "concept_tag": "refraction through a lens case based focal length elongation in liquids",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "03cc8eb3509404f69bc0c880cf94b50ea72010e09a290dda1f951bcb605a874f",
+    "question_skeleton": "case scenario a biconvex crown glass lens glass 1 50 has a focal length of f air 20 cm in air the lens is placed in an underwater camera housing submerged in pure water water 1 33 4 3 investigative question what happens to the focal length of the lens in water choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_15_99d415",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 15: Glass Convex Lens Submerged in Carbon Disulfide",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A biconvex crown glass lens (μ_glass = 1.50) is submerged in a glass trough filled with clear carbon disulfide liquid (refractive index μ_liquid = 1.63). A beam of parallel light is directed through the submerged lens. **Investigative Question:** How does the submerged glass lens behave in carbon disulfide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It behaves as a diverging (concave) lens, causing parallel rays to diverge outwards upon emergence."
+      },
+      {
+        "key": "B",
+        "text": "It converges light much more strongly than in air."
+      },
+      {
+        "key": "C",
+        "text": "It behaves as an opaque barrier absorbing all light."
+      },
+      {
+        "key": "D",
+        "text": "It reflects light with 100% Total Internal Reflection."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When a lens of refractive index μ_lens is immersed in a liquid of HIGHER refractive index (μ_liquid > μ_lens), the relative index (μ_lens / μ_liquid) becomes less than 1 (1.50 / 1.63 < 1), making (μ_rel - 1) negative. Consequently, the focal length reverses sign: a converging biconvex lens behaves as a diverging lens, and a concave lens behaves as a converging lens.",
+    "concept_name": "Converging Lens Becoming Diverging",
+    "concept_tag": "refraction through a lens case based converging lens becoming diverging",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "99d41561c157cf8564f0e1e2d34f6a3bdadc4f018c9522e4ac05cff823267104",
+    "question_skeleton": "case scenario a biconvex crown glass lens glass 1 50 is submerged in a glass trough filled with clear carbon disulfide liquid refractive index liquid 1 63 a beam of parallel light is directed through the submerged lens investigative question how does the submerged glass lens behave in carbon disulfide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_16_d0f9ba",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 16: Immersion of Glass Lens in Index-Matched Liquid",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A plano-convex glass lens made of borosilicate glass (μ = 1.474) is dropped into a beaker containing pure vegetable glycerin (μ = 1.474). A laser beam is shone through the liquid across the lens. **Investigative Question:** What is the effective focal length of the lens in glycerin, and what does an observer see? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Focal length becomes infinite (f = ∞); the lens is completely invisible, and the laser beam passes straight through undeviated."
+      },
+      {
+        "key": "B",
+        "text": "Focal length becomes zero; the laser beam focuses onto the glass surface."
+      },
+      {
+        "key": "C",
+        "text": "The lens appears as a dark black silhouette."
+      },
+      {
+        "key": "D",
+        "text": "The laser beam undergoes Total Internal Reflection inside the glycerin."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When μ_lens = μ_medium, (μ_lens / μ_medium - 1) = (1 - 1) = 0. Therefore, 1/f = 0 => f = ∞. With zero difference in refractive index across the curved boundary, light experiences no change in speed and suffers zero refraction and zero reflection. The lens has zero optical power and becomes physically invisible in the liquid.",
+    "concept_name": "Zero Refraction and Disappearance",
+    "concept_tag": "refraction through a lens case based zero refraction and disappearance",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d0f9ba5caa1c9a0b1b3aa9ad148da4bf7d87c3f9ec6dd508d3197ee928711b73",
+    "question_skeleton": "case scenario a plano convex glass lens made of borosilicate glass 1 474 is dropped into a beaker containing pure vegetable glycerin 1 474 a laser beam is shone through the liquid across the lens investigative question what is the effective focal length of the lens in glycerin and what does an observer see choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_17_a2ee76",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 17: Air Bubble Trapped Inside a Solid Glass Paperweight",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A spherical air bubble (μ_air = 1.0) of radius 1.0 cm is trapped inside a transparent solid glass paperweight (μ_glass = 1.50). A beam of parallel light inside the glass strikes the curved front face of the air bubble. **Investigative Question:** How does this spherical air cavity behave optically toward the light beam? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It behaves as a diverging (concave) lens, spreading the light rays outward."
+      },
+      {
+        "key": "B",
+        "text": "It behaves as a converging (convex) lens, focusing light to a point inside the bubble."
+      },
+      {
+        "key": "C",
+        "text": "It acts as a plane mirror reflecting light backward."
+      },
+      {
+        "key": "D",
+        "text": "It has no optical effect because air has no mass."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Although the air bubble is convex in physical shape (thicker in the center), it contains an optically rarer medium (air, μ = 1.0) embedded within an optically denser medium (glass, μ = 1.50). When rays enter from denser glass to rarer air, they bend away from the normal, causing the rays to diverge outwards. Thus, an air bubble in glass or water always acts as a diverging lens.",
+    "concept_name": "Spherical Air Cavity Diverging Effect",
+    "concept_tag": "refraction through a lens case based spherical air cavity diverging effect",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a2ee76e5def50d499dee155533a5b90216a24bd4be24836b1d83f1155a5aa2a2",
+    "question_skeleton": "case scenario a spherical air bubble air 1 0 of radius 1 0 cm is trapped inside a transparent solid glass paperweight glass 1 50 a beam of parallel light inside the glass strikes the curved front face of the air bubble investigative question how does this spherical air cavity behave optically toward the light beam choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_18_5c4d71",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 18: Covering the Top Half of a Camera Lens",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A photographer uses a camera with a large 50 mm diameter convex lens to photograph a bird perched on a branch. A black cardboard disc accidentally covers exactly the upper 50% of the lens aperture. **Investigative Question:** How does this blockage affect the image recorded on the camera sensor? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The complete bird is still imaged in full detail, but the overall brightness and intensity of the image is reduced by half (50%)."
+      },
+      {
+        "key": "B",
+        "text": "Only the bottom half of the bird is visible on the sensor."
+      },
+      {
+        "key": "C",
+        "text": "Only the top half of the bird is visible."
+      },
+      {
+        "key": "D",
+        "text": "The image is completely blackened out."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Every single point on the object radiates light rays in all directions toward the entire surface of the lens. The lower unblocked half of the lens still receives and refracts rays from every point on the bird (both top and bottom), forming a complete image. However, because half of the total light collection area is blocked, the total radiant energy reaching the image plane is halved, reducing brightness by 50%.",
+    "concept_name": "Full Image Formation with Reduced Brightness",
+    "concept_tag": "refraction through a lens case based full image formation with reduced brightness",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5c4d71095978e0ccfad5807907b96cbf438bc7302e6775cbbefa5b6634c59754",
+    "question_skeleton": "case scenario a photographer uses a camera with a large 50 mm diameter convex lens to photograph a bird perched on a branch a black cardboard disc accidentally covers exactly the upper 50 of the lens aperture investigative question how does this blockage affect the image recorded on the camera sensor choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_19_f69aca",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 19: Cutting a Biconvex Lens Vertically Along its Diameter",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An optical technician cuts a symmetrical biconvex glass lens of focal length f = 20 cm vertically into two identical plano-convex lenses along its transverse diameter plane. **Investigative Question:** What is the focal length of each resulting plano-convex lens in air? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Each plano-convex lens has focal length f' = 2f = 40 cm."
+      },
+      {
+        "key": "B",
+        "text": "Each plano-convex lens has focal length f' = f / 2 = 10 cm."
+      },
+      {
+        "key": "C",
+        "text": "Each plano-convex lens has focal length f' = 20 cm."
+      },
+      {
+        "key": "D",
+        "text": "Focal length becomes infinite."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By the Lens Maker's formula for a symmetrical biconvex lens: 1/f = (μ - 1)(1/R - (-1/R)) = (μ - 1)(2/R) => f = R / [2(μ - 1)]. When cut vertically, each half is a plano-convex lens with one curved face (radius R) and one flat face (radius ∞): 1/f' = (μ - 1)(1/R - 1/∞) = (μ - 1)(1/R) => f' = R / (μ - 1) = 2f. For f = 20 cm, f' = 40 cm (power is halved, focal length doubles).",
+    "concept_name": "Halved Curvature and Doubled Focal Length",
+    "concept_tag": "refraction through a lens case based halved curvature and doubled focal length",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f69aca48bf171940699bb91d134b5b6bbe25a577ad7e3450dc911c3bb9300abf",
+    "question_skeleton": "case scenario an optical technician cuts a symmetrical biconvex glass lens of focal length f 20 cm vertically into two identical plano convex lenses along its transverse diameter plane investigative question what is the focal length of each resulting plano convex lens in air choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_20_f594f6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 20: Cutting a Biconvex Lens Horizontally Along the Principal Axis",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A biconvex lens of focal length f = 15 cm and aperture diameter D is cut into two equal halves along its horizontal principal axis. **Investigative Question:** What are the focal length and image brightness characteristics of each horizontal half lens? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Focal length remains f' = 15 cm for each half, but image brightness drops to 50% due to halved collection aperture."
+      },
+      {
+        "key": "B",
+        "text": "Focal length doubles to 30 cm."
+      },
+      {
+        "key": "C",
+        "text": "Focal length halves to 7.5 cm."
+      },
+      {
+        "key": "D",
+        "text": "Each half can only form half of the object's image."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Cutting a lens horizontally along its principal axis does not alter the radius of curvature R1 or R2 of either refracting surface. Since the radii of curvature and refractive index are unchanged, the focal length remains exactly the same (f' = 15 cm). However, each half has only half the surface aperture area, so it collects half the light flux, reducing image intensity by 50%.",
+    "concept_name": "Unchanged Focal Length with Halved Intensity",
+    "concept_tag": "refraction through a lens case based unchanged focal length with halved intensity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f594f675dd19da58f2fa4c212b107377d20b1710469d4acdba5e26c14fd21cd4",
+    "question_skeleton": "case scenario a biconvex lens of focal length f 15 cm and aperture diameter d is cut into two equal halves along its horizontal principal axis investigative question what are the focal length and image brightness characteristics of each horizontal half lens choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_21_b16a01",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 21: Simple Magnifier Normal Adjustment vs Near Point",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A watchmaker tests a pocket magnifier lens of focal length f = +5.0 cm. The standard least distance of distinct vision is D = 25 cm. **Investigative Question:** What is the maximum magnifying power when the image is formed at the near point (D = 25 cm), and what is the magnifying power for a relaxed eye (image at infinity)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "At near point: m = 1 + D/f = 1 + 25/5 = 6; At infinity (relaxed eye): m = D/f = 25/5 = 5"
+      },
+      {
+        "key": "B",
+        "text": "At near point: m = 5; At infinity: m = 6"
+      },
+      {
+        "key": "C",
+        "text": "At near point: m = 25; At infinity: m = 5"
+      },
+      {
+        "key": "D",
+        "text": "At near point: m = 2.5; At infinity: m = 1.0"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When a simple microscope (magnifying glass) forms the virtual image at the eye's near point (D = 25 cm), maximum angular magnification is achieved: m = 1 + D / f = 1 + 25 / 5 = 6.0. When the object is placed at the principal focus so the image is at infinity, the eye muscles are completely relaxed (normal adjustment), and the magnifying power is m = D / f = 25 / 5 = 5.0.",
+    "concept_name": "Angular Magnification m = 1 + D/f vs D/f",
+    "concept_tag": "refraction through a lens case based angular magnification m = 1 + d/f vs d/f",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b16a0102155bafe5a89ad8a88f932030519583417d8aaf8aa64685effcd6a73b",
+    "question_skeleton": "case scenario a watchmaker tests a pocket magnifier lens of focal length f 5 0 cm the standard least distance of distinct vision is d 25 cm investigative question what is the maximum magnifying power when the image is formed at the near point d 25 cm and what is the magnifying power for a relaxed eye image at infinity choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_22_2fc705",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 22: Compound Microscope Optical Train Specifications",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A laboratory biological compound microscope is designed to produce a total magnification of 400x. **Investigative Question:** What are the relative focal lengths and aperture sizes of the objective lens compared to the eyepiece lens? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The objective lens has a very short focal length and small aperture; the eyepiece lens has a larger focal length and larger aperture."
+      },
+      {
+        "key": "B",
+        "text": "The objective has a long focal length and large aperture; the eyepiece has a short focal length."
+      },
+      {
+        "key": "C",
+        "text": "Both objective and eyepiece must have identical focal lengths."
+      },
+      {
+        "key": "D",
+        "text": "The objective lens must be concave and the eyepiece convex."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a compound microscope: (1) The objective lens must have a very short focal length (a few millimeters) so that a tiny specimen placed just outside its focus produces a highly magnified real intermediate image; its aperture is small to minimize spherical aberration. (2) The eyepiece acts as a simple magnifier to view this intermediate image, requiring a moderately larger focal length and wider aperture to accommodate the observer's eye pupil.",
+    "concept_name": "Objective vs Eyepiece Focal Length Roles",
+    "concept_tag": "refraction through a lens case based objective vs eyepiece focal length roles",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2fc7056d27c4af1b9a6b266894cf5b96a39373c777cc3167f2bbdab20e63904b",
+    "question_skeleton": "case scenario a laboratory biological compound microscope is designed to produce a total magnification of 400x investigative question what are the relative focal lengths and aperture sizes of the objective lens compared to the eyepiece lens choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_23_5b44e6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 23: Astronomical Refracting Telescope Optical Train",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An astronomical observatory refracts starlight from distant galaxies using a giant 1.0-meter diameter refracting telescope. **Investigative Question:** Why must the objective lens of an astronomical telescope have a very long focal length and an exceptionally large aperture, in stark contrast to a microscope? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A large aperture collects maximum light flux from faint distant stars, and a long focal length produces large angular magnification M = f_objective / f_eyepiece."
+      },
+      {
+        "key": "B",
+        "text": "A large aperture prevents atmospheric air from entering the tube."
+      },
+      {
+        "key": "C",
+        "text": "A long focal length reduces the speed of starlight."
+      },
+      {
+        "key": "D",
+        "text": "The objective must produce a virtual image inside the tube."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Telescopes view objects at optical infinity. The angular magnification is M = f_o / f_e. To maximize magnification, the objective focal length f_o must be as long as possible, while the eyepiece f_e is short. Crucially, astronomical objects are faint, so the objective aperture must be as huge as possible to maximize light-gathering power (proportional to Area ∝ D²), resolving dim stars.",
+    "concept_name": "Large Objective for Light Gathering",
+    "concept_tag": "refraction through a lens case based large objective for light gathering",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5b44e6a9093ff92f50ddda0658107fac5aca90ac64ab7e41be9984763ca5274d",
+    "question_skeleton": "case scenario an astronomical observatory refracts starlight from distant galaxies using a giant 1 0 meter diameter refracting telescope investigative question why must the objective lens of an astronomical telescope have a very long focal length and an exceptionally large aperture in stark contrast to a microscope choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_24_8b9024",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 24: Terrestrial Telescope Erecting Lens System",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A terrestrial telescope used for birdwatching includes a third intermediate convex lens of focal length f_erect = 8.0 cm positioned between the objective and the eyepiece. **Investigative Question:** Where is the intermediate image from the objective located relative to this erecting lens, and what is its optical effect? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Located at 2f (16 cm) from the erecting lens; produces an inverted image at 2f on the other side with 1:1 size, making the final view upright without changing magnification."
+      },
+      {
+        "key": "B",
+        "text": "Located at f; collimates the light into a parallel laser beam."
+      },
+      {
+        "key": "C",
+        "text": "Located at optical center; magnifies the image by 4x."
+      },
+      {
+        "key": "D",
+        "text": "Located at infinity; creates a virtual image."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a terrestrial telescope, the objective produces an inverted real image. To make the view comfortable for earthly viewing without upside-down landscapes, an erecting lens is placed so that the first image falls at its 2F point (16 cm). The erecting lens forms a real image at its opposite 2F point with magnification m = -1 (same size, inverted again), erecting the image without altering overall telescope magnification.",
+    "concept_name": "Intermediate 1:1 Inverting Lens",
+    "concept_tag": "refraction through a lens case based intermediate 1:1 inverting lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8b9024d0849a9366bb786162fe18147324bee6330cfef901ccea78b9f4cc6d1d",
+    "question_skeleton": "case scenario a terrestrial telescope used for birdwatching includes a third intermediate convex lens of focal length f erect 8 0 cm positioned between the objective and the eyepiece investigative question where is the intermediate image from the objective located relative to this erecting lens and what is its optical effect choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_25_8028f7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 25: Camera Lens f-Stop Aperture and Exposure Time",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A photographer adjusts a camera lens from f-number f/4 to f/8. The f-number is defined as N = f / D, where f is focal length and D is aperture diameter. **Investigative Question:** How does stopping down from f/4 to f/8 change the aperture area and the required exposure time to achieve the same film exposure? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Aperture diameter is halved, reducing light collection area to 1/4; exposure shutter time must be quadrupled (4x)."
+      },
+      {
+        "key": "B",
+        "text": "Aperture area is halved; exposure time must be doubled."
+      },
+      {
+        "key": "C",
+        "text": "Aperture area quadruples; exposure time is halved."
+      },
+      {
+        "key": "D",
+        "text": "f-number does not affect light transmission."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "f-number N = f / D => D = f / N. Shifting from f/4 to f/8 doubles N, so aperture diameter D is halved. The light-admitting area is proportional to D² (Area ∝ 1/N²). Halving the diameter reduces the area to (1/2)² = 1/4 of its original value. To deliver the identical total photon energy (Exposure = Intensity × time), the shutter exposure time must be increased fourfold.",
+    "concept_name": "Aperture Diameter and Light Flux",
+    "concept_tag": "refraction through a lens case based aperture diameter and light flux",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8028f7951447f34d17ee3096340ce02b502884635a60369324222072267b601f",
+    "question_skeleton": "case scenario a photographer adjusts a camera lens from f number f 4 to f 8 the f number is defined as n f d where f is focal length and d is aperture diameter investigative question how does stopping down from f 4 to f 8 change the aperture area and the required exposure time to achieve the same film exposure choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_26_484a2f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 26: Eyeglass Correction of Myopia (Nearsightedness)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A 15-year-old student can read textbooks clearly but struggles to read the classroom whiteboard beyond a distance of 1.2 meters because their eyeball is elongated anteroposteriorly, causing light from distant objects to converge in front of the retina. **Investigative Question:** What type of lens corrects this condition, and how does it alter incoming light rays? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A concave (diverging) lens; it slightly diverges incoming parallel rays so that after passing through the eye's crystalline lens, they focus sharply on the retina."
+      },
+      {
+        "key": "B",
+        "text": "A convex lens; it converges rays faster before entering the pupil."
+      },
+      {
+        "key": "C",
+        "text": "A cylindrical lens; it eliminates astigmatism."
+      },
+      {
+        "key": "D",
+        "text": "A bifocal lens with tinted polarized filters."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In myopia (short-sightedness), the refractive power of the eye is excessively strong or the eyeball is too long, focusing distant parallel rays in the vitreous humor in front of the retina. A concave lens of appropriate negative power provides just enough initial divergence so that the combined cornea-lens system brings the focal point exactly onto the retina surface.",
+    "concept_name": "Ray Divergence to Bring Distant Focus to Retina",
+    "concept_tag": "refraction through a lens case based ray divergence to bring distant focus to retina",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "484a2f3aa2409c5856f78855af9c6cc480866c337008232289b13846500710c8",
+    "question_skeleton": "case scenario a 15 year old student can read textbooks clearly but struggles to read the classroom whiteboard beyond a distance of 1 2 meters because their eyeball is elongated anteroposteriorly causing light from distant objects to converge in front of the retina investigative question what type of lens corrects this condition and how does it alter incoming light rays choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_27_0fdfb2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 27: Eyeglass Correction of Hypermetropia (Farsightedness)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A 45-year-old patient can see distant airplanes sharply, but holding a book closer than 60 cm results in blurred text because the eye lens cannot converge rays sufficiently, causing rays from near objects to focus behind the retina. **Investigative Question:** What type of corrective lens restores normal near vision (D = 25 cm)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A convex (converging) lens of positive power that pre-converges diverging rays from the book."
+      },
+      {
+        "key": "B",
+        "text": "A concave lens of negative power."
+      },
+      {
+        "key": "C",
+        "text": "A plano-parallel glass plate."
+      },
+      {
+        "key": "D",
+        "text": "An aperture pinhole mask."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In hypermetropia (long-sightedness), the eye lens is too flat or the eyeball is too short, so diverging rays from a near object (at 25 cm) strike the retina before converging, focusing at a virtual point behind the retina. A convex lens provides supplementary converging power (+D), bringing the focal point forward onto the retinal surface.",
+    "concept_name": "Additional Convergence for Short Eyeballs",
+    "concept_tag": "refraction through a lens case based additional convergence for short eyeballs",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0fdfb2a70275e9c3965a9c6f3348fdd88c7174f16a83efd474b54e64a0c901eb",
+    "question_skeleton": "case scenario a 45 year old patient can see distant airplanes sharply but holding a book closer than 60 cm results in blurred text because the eye lens cannot converge rays sufficiently causing rays from near objects to focus behind the retina investigative question what type of corrective lens restores normal near vision d 25 cm choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_28_50aa29",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 28: Presbyopia in Senior Citizens and Bifocal Lenses",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A 65-year-old retired teacher experiences presbyopia: the aging crystalline eye lenses have lost their flexibility, and the ciliary muscles can no longer alter lens curvature to accommodate between reading a newspaper and driving a car. **Investigative Question:** What specialized corrective eyewear is prescribed, and how is it constructed? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bifocal glasses: the upper segment contains a concave or neutral lens for distant viewing, while the lower segment contains a convex lens for reading."
+      },
+      {
+        "key": "B",
+        "text": "Pure concave glasses of -6.0 D power."
+      },
+      {
+        "key": "C",
+        "text": "Pure convex sunglasses with UV coating."
+      },
+      {
+        "key": "D",
+        "text": "Prismatic lenses oriented horizontally."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Presbyopia is age-related loss of accommodation. To avoid constantly swapping glasses, bifocal lenses feature two distinct optical zones: the upper portion provides distance vision (often concave for myopic seniors or plain glass), while the lower portion incorporates a convex reading segment that compensates for the stiffened eye lens during downward reading gaze.",
+    "concept_name": "Loss of Ciliary Accommodation",
+    "concept_tag": "refraction through a lens case based loss of ciliary accommodation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "50aa2975b124a2c8b552ad06bd1f4834cb19d7e1cf8a5f48e42b99a5af2c2f38",
+    "question_skeleton": "case scenario a 65 year old retired teacher experiences presbyopia the aging crystalline eye lenses have lost their flexibility and the ciliary muscles can no longer alter lens curvature to accommodate between reading a newspaper and driving a car investigative question what specialized corrective eyewear is prescribed and how is it constructed choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_29_0740a0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 29: Corneal Astigmatism and Cylindrical Corrective Lenses",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An optometry patient has corneal astigmatism where the cornea is curved like the side of an American football rather than a basketball, having a steeper curvature in the vertical meridian than in the horizontal meridian. **Investigative Question:** What type of lens is required to correct astigmatism? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A cylindrical lens that has curvature and refractive power in only one specific meridian, equalizing the focal planes."
+      },
+      {
+        "key": "B",
+        "text": "A standard spherical biconvex lens."
+      },
+      {
+        "key": "C",
+        "text": "A standard spherical biconcave lens."
+      },
+      {
+        "key": "D",
+        "text": "A dark tinted polarizing filter."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Astigmatism arises because the cornea has unequal radii of curvature in orthogonal planes (e.g. vertical meridian focuses closer than horizontal meridian), preventing a sharp point focus. A cylindrical lens has power in only one axis. By orienting the cylindrical axis perpendicular to the corneal defect, it adds power solely in the flatter meridian, restoring a single sharp focal point.",
+    "concept_name": "Non-Spherical Asymmetrical Curvature",
+    "concept_tag": "refraction through a lens case based non-spherical asymmetrical curvature",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0740a09943f9dc75939bfe9658c6452b8fd37f3fd9760a53f871dfba686d10a8",
+    "question_skeleton": "case scenario an optometry patient has corneal astigmatism where the cornea is curved like the side of an american football rather than a basketball having a steeper curvature in the vertical meridian than in the horizontal meridian investigative question what type of lens is required to correct astigmatism choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_30_07fcb6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 30: Water Droplet on a Waxy Leaf as a Magnifier",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A morning dew droplet rests on a lotus leaf. Because of high water surface tension and waxy leaf cuticle, the droplet forms a smooth, curved hemispherical dome with a flat bottom. **Investigative Question:** How does the water droplet affect the appearance of microscopic leaf cells directly beneath it? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It acts as a plano-convex converging lens, forming an erect, magnified virtual image of the underlying leaf cells."
+      },
+      {
+        "key": "B",
+        "text": "It acts as a diverging concave lens, making cells look smaller."
+      },
+      {
+        "key": "C",
+        "text": "It acts as an opaque liquid mirror reflecting the sky."
+      },
+      {
+        "key": "D",
+        "text": "It burns a hole in the leaf immediately."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The curved upper dome of the water droplet in air forms a convex refracting surface, while the bottom resting on the leaf is flat, creating a plano-convex lens (μ_water = 1.33). Because the leaf cells lie well within the focal length of this microscopic liquid lens (u < f), it functions as a simple magnifier, producing an erect, magnified virtual image.",
+    "concept_name": "Plano-Convex Liquid Lens",
+    "concept_tag": "refraction through a lens case based plano-convex liquid lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "07fcb604b7c108667c4ece4cb7d660d061c5f50b0c18d07dcd62d8e281fc7c95",
+    "question_skeleton": "case scenario a morning dew droplet rests on a lotus leaf because of high water surface tension and waxy leaf cuticle the droplet forms a smooth curved hemispherical dome with a flat bottom investigative question how does the water droplet affect the appearance of microscopic leaf cells directly beneath it choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_31_6e0e48",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 31: Chromatic Aberration in Single Uncoated Glass Lenses",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An amateur astronomer builds a simple telescope using a single large biconvex crown glass lens as the objective. When viewing a bright white star, the star appears surrounded by an annoying colored purple-blue halo. **Investigative Question:** What optical aberration causes this colored fringe, and where do the different colors focus? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Chromatic aberration: glass has a higher refractive index for violet than for red, so violet light converges closer to the lens than red light (f_violet < f_red)."
+      },
+      {
+        "key": "B",
+        "text": "Spherical aberration caused by dust particles."
+      },
+      {
+        "key": "C",
+        "text": "Coma aberration caused by atmospheric wind."
+      },
+      {
+        "key": "D",
+        "text": "Doppler shift caused by the star's rapid motion."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Because glass is dispersive (refractive index varies with wavelength: μ_violet > μ_red), a single lens acts like a combination of prisms. By the lens maker's formula, 1/f = (μ - 1)(2/R), so f_violet < f_red. White light is split along the optical axis, with violet focusing closer to the lens and red focusing further back. At any single focal plane, unfocused colors form an annoying colored fringe (chromatic aberration).",
+    "concept_name": "Dispersion of Focal Points f_violet < f_red",
+    "concept_tag": "refraction through a lens case based dispersion of focal points f_violet < f_red",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6e0e48856f92e505a40e962fdf475888922ab258af7d23e15e608a1a416e4f84",
+    "question_skeleton": "case scenario an amateur astronomer builds a simple telescope using a single large biconvex crown glass lens as the objective when viewing a bright white star the star appears surrounded by an annoying colored purple blue halo investigative question what optical aberration causes this colored fringe and where do the different colors focus choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_32_c86155",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 32: Achromatic Doublet Lens Architecture",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** To eliminate chromatic aberration, telescope designers cement two different lenses together in contact to form an 'achromatic doublet': a converging biconvex lens made of crown glass (lower dispersion) paired with a diverging plano-concave lens made of dense flint glass (higher dispersion). **Investigative Question:** How does this two-lens doublet eliminate colored fringes while retaining net converging power? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The angular dispersion produced by the convex crown lens is exactly canceled by the opposite dispersion of the concave flint lens, while leaving a net positive converging power."
+      },
+      {
+        "key": "B",
+        "text": "Both lenses absorb all wavelengths except monochromatic yellow."
+      },
+      {
+        "key": "C",
+        "text": "The flint lens polarizes light to cancel reflection."
+      },
+      {
+        "key": "D",
+        "text": "The cement between lenses slows all colors to identical speeds."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In an achromatic doublet, the converging crown lens disperses colors in one direction, while the weaker diverging flint lens (which has higher dispersive power) disperses colors in the opposite direction. By matching lens geometries, the chromatic dispersions of red and blue cancel out completely (bringing their focal points together), while the net focal power remains positive (P_net = P_crown - P_flint > 0).",
+    "concept_name": "Crown and Flint Glass Aberration Cancellation",
+    "concept_tag": "refraction through a lens case based crown and flint glass aberration cancellation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c861552809bfefb954abd4a1645ec269eaf1265fa2753701550ad3e0d9ee5944",
+    "question_skeleton": "case scenario to eliminate chromatic aberration telescope designers cement two different lenses together in contact to form an achromatic doublet a converging biconvex lens made of crown glass lower dispersion paired with a diverging plano concave lens made of dense flint glass higher dispersion investigative question how does this two lens doublet eliminate colored fringes while retaining net converging power choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_33_984ad5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 33: Spherical Aberration in Wide-Aperture Thick Lenses",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A laboratory technician tests a thick biconvex lens of large aperture. Rays passing through the outer rim of the lens (marginal rays) converge at point F_m = 18.0 cm, while rays passing close to the central axis (paraxial rays) converge at point F_p = 20.0 cm. **Investigative Question:** What is this defect called, and what is a common practical method to eliminate it? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Spherical aberration; eliminated by using an annular stop (diaphragm) to block marginal rays, or by using aspheric lens surfaces."
+      },
+      {
+        "key": "B",
+        "text": "Chromatic aberration; eliminated by using red laser light."
+      },
+      {
+        "key": "C",
+        "text": "Astigmatism; eliminated by rotating the lens 90°."
+      },
+      {
+        "key": "D",
+        "text": "Curvature of field; eliminated by increasing lens thickness."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Spherical aberration occurs because spherical lens surfaces bend outer marginal rays more severely than central paraxial rays, causing marginal rays to focus closer to the lens (F_m < F_p). This prevents a sharp point focus for large apertures. It can be minimized by: (1) Placing an aperture stop to block peripheral marginal rays, (2) Combining convex and concave lenses, or (3) Grinding the glass to non-spherical (aspheric) profiles.",
+    "concept_name": "Marginal vs Paraxial Ray Focal Discrepancy",
+    "concept_tag": "refraction through a lens case based marginal vs paraxial ray focal discrepancy",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "984ad518e157a8a3498869cc92c19e744af1ef47f7e69758dbc97f04912b6c7c",
+    "question_skeleton": "case scenario a laboratory technician tests a thick biconvex lens of large aperture rays passing through the outer rim of the lens marginal rays converge at point f m 18 0 cm while rays passing close to the central axis paraxial rays converge at point f p 20 0 cm investigative question what is this defect called and what is a common practical method to eliminate it choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_34_bf5f2b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 34: Fresnel Lens in Historic Coastal Lighthouses",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In the 1820s, French physicist Augustin-Jean Fresnel revolutionized lighthouse design by replacing massive, multi-tonne glass convex lenses with stepped 'Fresnel lenses' consisting of concentric annular prism rings mounted in a light bronze frame. **Investigative Question:** Why does a Fresnel lens produce the same powerful collimating focal power as a thick solid lens while weighing only a fraction as much? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Refraction occurs exclusively at the curved surface boundaries; by removing the inert interior bulk glass and stepping the profile into concentric rings, full optical power is retained with minimal weight and absorption."
+      },
+      {
+        "key": "B",
+        "text": "Fresnel lenses are made of lightweight radioactive glass."
+      },
+      {
+        "key": "C",
+        "text": "Fresnel lenses reflect light via Total Internal Reflection rather than refraction."
+      },
+      {
+        "key": "D",
+        "text": "The bronze frame magnetizes light rays into parallel paths."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Refraction depends solely on the angle between the incident ray and the surface normal at the entry and exit faces; the bulk glass inside a thick lens contributes nothing to focal convergence except dead weight and absorption. Fresnel segmented the continuous curved surface into concentric annular sections with identical surface curvature but stepped thicknesses, maintaining the exact same focal power with 85% less glass mass.",
+    "concept_name": "Mass Reduction via Concentric Stepped Prisms",
+    "concept_tag": "refraction through a lens case based mass reduction via concentric stepped prisms",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "bf5f2b06ae922fd5742b6ffb77f0bc29197960e695ef88450d6f735eba05422f",
+    "question_skeleton": "case scenario in the 1820s french physicist augustin jean fresnel revolutionized lighthouse design by replacing massive multi tonne glass convex lenses with stepped fresnel lenses consisting of concentric annular prism rings mounted in a light bronze frame investigative question why does a fresnel lens produce the same powerful collimating focal power as a thick solid lens while weighing only a fraction as much choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_35_90d1ad",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 35: Telephoto Camera Lens Construction",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A wildlife photographer uses a 400 mm telephoto lens. If constructed from a single convex element, the lens barrel would have to be over 40 cm long. Instead, optical engineers place a front converging lens group paired with a rear diverging lens group, achieving a 400 mm effective focal length inside a compact 22 cm barrel. **Investigative Question:** How does the rear diverging lens group allow the physical lens barrel to be much shorter than its effective focal length? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The rear diverging group bends the converging cone of rays outward, making them appear to originate from an equivalent single lens located far in front of the actual camera body."
+      },
+      {
+        "key": "B",
+        "text": "It compresses the wavelength of light inside the barrel."
+      },
+      {
+        "key": "C",
+        "text": "It slows down light to increase refractive index."
+      },
+      {
+        "key": "D",
+        "text": "It reflects rays back and forth multiple times like a kaleidoscope."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a telephoto design, the front convex group converges light, and the rear concave group diverges the converging cone slightly before it reaches the sensor. Projecting the final cone of rays backward places the 'principal plane' far in front of the physical lens mount. This achieves a long effective focal length (e.g. 400 mm) within a physically compact barrel (220 mm).",
+    "concept_name": "Physical Barrel Shortening via Diverging Group",
+    "concept_tag": "refraction through a lens case based physical barrel shortening via diverging group",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "90d1ad4e5b6ed261baf8f85039575de7b8ead0a21670ea109a9ea6b6d972a932",
+    "question_skeleton": "case scenario a wildlife photographer uses a 400 mm telephoto lens if constructed from a single convex element the lens barrel would have to be over 40 cm long instead optical engineers place a front converging lens group paired with a rear diverging lens group achieving a 400 mm effective focal length inside a compact 22 cm barrel investigative question how does the rear diverging lens group allow the physical lens barrel to be much shorter than its effective focal length choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_36_dc349c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 36: Optical Center Behavior in Thin vs Thick Lenses",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An optical physics student traces a ray passing through the optical center O of a thin lens versus a thick lens. **Investigative Question:** What is the exact distinction between how a thin lens and a thick glass lens refract a ray directed through the optical center? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "In a thin lens, the ray passes completely undeviated and unshifted; in a thick lens, the ray emerges parallel to its initial path but with a measurable lateral displacement."
+      },
+      {
+        "key": "B",
+        "text": "In a thin lens, the ray deviates by 90°; in a thick lens, it reflects."
+      },
+      {
+        "key": "C",
+        "text": "Both produce identical large lateral shifts of 5 cm."
+      },
+      {
+        "key": "D",
+        "text": "Neither lens allows light to pass through the optical center."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The optical center O is a point on the principal axis such that any ray passing through it emerges parallel to its incident direction. In a thick lens, the two opposite surfaces act like a parallel-sided glass slab, producing a small lateral shift. In a thin lens, the glass thickness t approaches zero (t -> 0), so the lateral displacement d = t·sin(i-r)/cos r vanishes completely, and the ray passes strictly undeviated.",
+    "concept_name": "Lateral Shift in Thick Lenses vs Null in Thin Lenses",
+    "concept_tag": "refraction through a lens case based lateral shift in thick lenses vs null in thin lenses",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "dc349c05a5f2763fc90827d8802cc6fb115bb390580079dc9b93a5c3b9e3565b",
+    "question_skeleton": "case scenario an optical physics student traces a ray passing through the optical center o of a thin lens versus a thick lens investigative question what is the exact distinction between how a thin lens and a thick glass lens refract a ray directed through the optical center choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_37_dc25b6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 37: First vs Second Principal Focus of a Convex Lens",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an ICSE physics viva examination, an examiner asks a student to define the difference between the first principal focus (F1) and second principal focus (F2) of a convex lens. **Investigative Question:** Which definition correctly distinguishes F1 from F2? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "F1 is the position of a point object on the axis whose rays emerge parallel to the axis; F2 is the convergence point on the axis for incident rays that enter parallel to the axis."
+      },
+      {
+        "key": "B",
+        "text": "F1 is always virtual, while F2 is always real."
+      },
+      {
+        "key": "C",
+        "text": "F1 is for white light, while F2 is for laser light."
+      },
+      {
+        "key": "D",
+        "text": "F1 lies on the lens surface, while F2 lies at infinity."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For a convex lens: First Principal Focus F1 is a fixed point on the principal axis such that rays starting from it (or directed toward it) become parallel to the principal axis after refraction. Second Principal Focus F2 is a fixed point on the principal axis where rays initially parallel to the axis converge after refraction. In a symmetrical lens, both lie at distance f on opposite sides.",
+    "concept_name": "Definition and Optical Reversibility",
+    "concept_tag": "refraction through a lens case based definition and optical reversibility",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "dc25b6d38d47fc19fa8472497beef76040e634254e3c912c796a976151250199",
+    "question_skeleton": "case scenario in an icse physics viva examination an examiner asks a student to define the difference between the first principal focus f1 and second principal focus f2 of a convex lens investigative question which definition correctly distinguishes f1 from f2 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_38_ac5c8f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 38: First vs Second Principal Focus of a Concave Lens",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student examines a concave lens. Rays entering parallel to the principal axis diverge outwards, appearing to emanate from point F_A on the incident side. Conversely, rays converging toward point F_B on the opposite side emerge parallel to the axis. **Investigative Question:** What are points F_A and F_B respectively? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Point F_A is the Second Principal Focus (F2); Point F_B is the First Principal Focus (F1)."
+      },
+      {
+        "key": "B",
+        "text": "Point F_A is the First Principal Focus; Point F_B is the Second Principal Focus."
+      },
+      {
+        "key": "C",
+        "text": "Both are centers of curvature."
+      },
+      {
+        "key": "D",
+        "text": "Point F_A is real; Point F_B is virtual."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For a concave lens: The Second Principal Focus F2 is the point on the principal axis from which incident rays parallel to the axis appear to diverge after refraction (lies on the incident side). The First Principal Focus F1 is the point toward which incident rays must converge in order to emerge parallel to the principal axis after refraction (lies on the opposite side). Both foci are virtual.",
+    "concept_name": "Virtual Focal Points of Diverging Lenses",
+    "concept_tag": "refraction through a lens case based virtual focal points of diverging lenses",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ac5c8f400cddbd6355ea6b0aa8d4c3dcc8d83128cf29f835edff98452638dbcc",
+    "question_skeleton": "case scenario a student examines a concave lens rays entering parallel to the principal axis diverge outwards appearing to emanate from point f a on the incident side conversely rays converging toward point f b on the opposite side emerge parallel to the axis investigative question what are points f a and f b respectively choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_39_dbdbe6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 39: Bessel's Displacement Method for Measuring Focal Length",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** On an optical bench, an illuminated pin object and a screen are held fixed at a distance D = 100 cm apart. A convex lens of focal length f is moved between them and produces sharp images on the screen at two distinct lens positions separated by a displacement distance d = 20 cm. **Investigative Question:** What is the focal length f of the convex lens? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "f = (100² - 20²) / (4 × 100) = (10,000 - 400) / 400 = 9600 / 400 = 24.0 cm"
+      },
+      {
+        "key": "B",
+        "text": "f = (100 + 20) / 4 = 30.0 cm"
+      },
+      {
+        "key": "C",
+        "text": "f = (100 - 20) / 2 = 40.0 cm"
+      },
+      {
+        "key": "D",
+        "text": "f = sqrt(100 × 20) = 44.7 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In Bessel's displacement method, when the fixed distance D between object and screen exceeds 4f (D > 4f), there are two conjugate lens positions that cast a sharp image on the screen. The focal length is given by: f = (D² - d²) / (4D). Here D = 100 cm and d = 20 cm: f = (10,000 - 400) / 400 = 9600 / 400 = 24.0 cm.",
+    "concept_name": "Formula f = (D² - d²) / (4D)",
+    "concept_tag": "refraction through a lens case based formula f = (d² - d²) / (4d)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "dbdbe629cfe344bba8683fce8dc9f2381b5d2411363b848f31dc89a187e109c3",
+    "question_skeleton": "case scenario on an optical bench an illuminated pin object and a screen are held fixed at a distance d 100 cm apart a convex lens of focal length f is moved between them and produces sharp images on the screen at two distinct lens positions separated by a displacement distance d 20 cm investigative question what is the focal length f of the convex lens choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_40_ad413f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 40: Ratio of Conjugate Image Heights in Displacement Method",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Using the displacement method with fixed object-screen distance D, the height of the magnified image formed at the first lens position is I1 = 8.0 cm, while the height of the diminished image formed at the second lens position is I2 = 2.0 cm. **Investigative Question:** What is the true height O of the object? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "O = sqrt(I1 × I2) = sqrt(8.0 × 2.0) = sqrt(16) = 4.0 cm"
+      },
+      {
+        "key": "B",
+        "text": "O = (8.0 + 2.0) / 2 = 5.0 cm"
+      },
+      {
+        "key": "C",
+        "text": "O = 8.0 - 2.0 = 6.0 cm"
+      },
+      {
+        "key": "D",
+        "text": "O = 8.0 × 2.0 = 16.0 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Let m1 and m2 be the magnifications at the two conjugate positions: m1 = I1 / O = v1 / u1, and m2 = I2 / O = v2 / u2. Since the two positions are conjugate, u2 = v1 and v2 = u1, so m1 × m2 = 1. Therefore: (I1 / O) × (I2 / O) = 1 => O² = I1 × I2 => O = sqrt(I1 × I2) = sqrt(8.0 × 2.0) = 4.0 cm. The object height is the geometric mean of the two image heights.",
+    "concept_name": "Formula O = sqrt(I1 × I2)",
+    "concept_tag": "refraction through a lens case based formula o = sqrt(i1 × i2)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ad413f5e2bca4f524748646cdb95ffec92e4899d855e93d11774b1b7d9a19486",
+    "question_skeleton": "case scenario using the displacement method with fixed object screen distance d the height of the magnified image formed at the first lens position is i1 8 0 cm while the height of the diminished image formed at the second lens position is i2 2 0 cm investigative question what is the true height o of the object choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_41_5ba933",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 41: Plano-Convex Lens with Silvered Flat Surface",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A plano-convex lens of refractive index μ = 1.50 has a curved face of radius R = 30 cm and a flat rear face that is silvered to act as a plane mirror. **Investigative Question:** What is the equivalent focal length of this silvered optical system, and how does it behave? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It behaves as a concave mirror of focal length F = R / (2μ) = 30 / (2 × 1.5) = 10 cm."
+      },
+      {
+        "key": "B",
+        "text": "It behaves as a convex mirror of focal length 30 cm."
+      },
+      {
+        "key": "C",
+        "text": "It behaves as a plane mirror of focal length infinity."
+      },
+      {
+        "key": "D",
+        "text": "It behaves as a diverging lens of focal length 15 cm."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Light enters the curved face (refraction, P_L), reflects off the silvered flat face (reflection, P_M = 0 since flat mirror R=∞), and refracts back out of the curved face (refraction, P_L). Total optical power P = 2·P_L + P_M = 2·[(μ - 1)/R] + 0 = 2·(0.5 / 30) = 1/30 cm⁻1. Equivalent focal length of system acting as a mirror is F = 1 / (2·P_L) = R / [2(μ - 1) × 2]... simpler: F = R / (2μ) = 30 / (2 × 1.5) = 10 cm (concave mirror behavior).",
+    "concept_name": "Equivalent Concave Mirror",
+    "concept_tag": "refraction through a lens case based equivalent concave mirror",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5ba93387c3a969917c4fd54e303c9fccc605b3dae76d4833b2b46819d18168e8",
+    "question_skeleton": "case scenario a plano convex lens of refractive index 1 50 has a curved face of radius r 30 cm and a flat rear face that is silvered to act as a plane mirror investigative question what is the equivalent focal length of this silvered optical system and how does it behave choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_42_0601eb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 42: Plano-Convex Lens with Silvered Curved Surface",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A plano-convex lens (μ = 1.50, curved face radius R = 20 cm) is silvered on its curved convex surface so that light enters through the flat face. **Investigative Question:** What is the equivalent optical focal length of this silvered system? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "F = R / (2·μ) = 20 / (2 × 1.5) ≈ 6.67 cm (concave mirror behavior)"
+      },
+      {
+        "key": "B",
+        "text": "F = 20 cm"
+      },
+      {
+        "key": "C",
+        "text": "F = 40 cm"
+      },
+      {
+        "key": "D",
+        "text": "F = 10 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Light refracts through flat face (P_L1 = 0), reflects off silvered concave inner curved face (P_M = 2/R), and refracts out through flat face. Total power P = 2·P_L + P_M. Since curved face is silvered, F_eq = R / (2μ) = 20 / (2 × 1.5) ≈ 6.67 cm. It acts as a concave mirror of short focal length.",
+    "concept_name": "Silvered Curved Face Behavior",
+    "concept_tag": "refraction through a lens case based silvered curved face behavior",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0601eb75e2fbe206b17c8a8ab8e4ae1db993d812ff44db4f637aca8bbf956d7a",
+    "question_skeleton": "case scenario a plano convex lens 1 50 curved face radius r 20 cm is silvered on its curved convex surface so that light enters through the flat face investigative question what is the equivalent optical focal length of this silvered system choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_43_8e2367",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 43: Convex Lens Immersed in Equal Refractive Index Oil",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An oil-immersion microscope objective uses specialized synthetic cedarwood oil with refractive index μ_oil = 1.515 placed between the glass coverslip (μ = 1.515) and the front lens element (μ = 1.515). **Investigative Question:** Why does eliminating the air gap between coverslip and lens dramatically improve image resolution? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It eliminates refraction and Total Internal Reflection at the glass-air boundary, allowing wide-angle light rays to enter the lens without deviation, maximizing numerical aperture."
+      },
+      {
+        "key": "B",
+        "text": "It magnifies the specimen by 2x."
+      },
+      {
+        "key": "C",
+        "text": "It polarizes light to eliminate blue reflections."
+      },
+      {
+        "key": "D",
+        "text": "It cools the microscope light bulb."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a dry objective, light rays emerging obliquely from the glass coverslip into air bend away from the normal; at steep angles, they undergo Total Internal Reflection and cannot enter the lens. By filling the gap with immersion oil of the same refractive index as glass (μ = 1.515), the boundary vanishes optically. Light travels straight from coverslip into lens, dramatically increasing light collection and optical resolution.",
+    "concept_name": "Refraction Disappearance in Immersion Oil",
+    "concept_tag": "refraction through a lens case based refraction disappearance in immersion oil",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8e23679b3c71334521b5c3d540d5540454acceb5525eaddc05367af583c5d113",
+    "question_skeleton": "case scenario an oil immersion microscope objective uses specialized synthetic cedarwood oil with refractive index oil 1 515 placed between the glass coverslip 1 515 and the front lens element 1 515 investigative question why does eliminating the air gap between coverslip and lens dramatically improve image resolution choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_44_c594a3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 44: Asymmetrical Biconvex Lens Orientation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student tests an unsymmetrical biconvex thin lens having radii of curvature R1 = 10 cm and R2 = 30 cm. In Experiment 1, the R1 face faces the incoming parallel beam. In Experiment 2, the lens is flipped 180° so the R2 face faces the incoming beam. **Investigative Question:** How does the focal length in Experiment 1 compare with Experiment 2? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Focal length is strictly identical in both orientations (f1 = f2) for a thin lens in air."
+      },
+      {
+        "key": "B",
+        "text": "f1 is 3 times longer than f2."
+      },
+      {
+        "key": "C",
+        "text": "f2 is 3 times longer than f1."
+      },
+      {
+        "key": "D",
+        "text": "Experiment 1 converges light while Experiment 2 diverges light."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By the Lens Maker's formula: 1/f = (μ - 1)(1/R1 - 1/R2). In orientation 1: 1/f = (μ - 1)(1/10 - (-1/30)) = (μ - 1)(4/30). In orientation 2: R1' = 30 cm, R2' = -10 cm: 1/f = (μ - 1)(1/30 - (-1/10)) = (μ - 1)(4/30). The resulting focal length is completely identical regardless of which face receives the incident light.",
+    "concept_name": "Lens Inversion Invariance in Thin Lenses",
+    "concept_tag": "refraction through a lens case based lens inversion invariance in thin lenses",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c594a3327045b404e070c44ce851801d942a519c1ee044ac74cbe67c3977f000",
+    "question_skeleton": "case scenario a student tests an unsymmetrical biconvex thin lens having radii of curvature r1 10 cm and r2 30 cm in experiment 1 the r1 face faces the incoming parallel beam in experiment 2 the lens is flipped 180 so the r2 face faces the incoming beam investigative question how does the focal length in experiment 1 compare with experiment 2 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_45_5417ee",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 45: Thick Solid Glass Marble as a Ball Lens",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A child plays with a perfectly spherical solid glass marble of radius R = 1.5 cm and refractive index μ = 1.50. **Investigative Question:** What is the distance from the center of the marble to its focal point for parallel incident light? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2.25 cm from the center (0.75 cm outside the rear surface)"
+      },
+      {
+        "key": "B",
+        "text": "1.5 cm (exactly on the rear surface)"
+      },
+      {
+        "key": "C",
+        "text": "3.0 cm from the center"
+      },
+      {
+        "key": "D",
+        "text": "4.5 cm from the center"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For a solid sphere of radius R and refractive index μ in air, the effective focal length from the center is given by f = (μ·R) / [2(μ - 1)]. For μ = 1.50: f = (1.5 × 1.5 cm) / [2 × 0.50] = 2.25 / 1.0 = 2.25 cm from the center. Since the radius is 1.5 cm, the focal point lies 2.25 - 1.5 = 0.75 cm outside the rear glass surface.",
+    "concept_name": "Short Focal Length and High Aberration",
+    "concept_tag": "refraction through a lens case based short focal length and high aberration",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5417ee5b82299caef5483ef1a028391982a548715eca38e1961e646deb4c6f61",
+    "question_skeleton": "case scenario a child plays with a perfectly spherical solid glass marble of radius r 1 5 cm and refractive index 1 50 investigative question what is the distance from the center of the marble to its focal point for parallel incident light choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_46_46d262",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 46: Liquid Lens with Adjustable Curvature Membrane",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A bio-medical engineering team designs an artificial intraocular lens using a transparent silicone fluid encapsulated between two flexible polydimethylsiloxane (PDMS) membranes. A micropump injects or withdraws fluid, altering the membrane radius of curvature R from 20 mm to 8.0 mm. **Investigative Question:** What happens to the optical power of the liquid lens as fluid is injected to decrease R? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Optical power increases (lens becomes more converging, focal length shortens) as curvature increases."
+      },
+      {
+        "key": "B",
+        "text": "Optical power decreases to zero."
+      },
+      {
+        "key": "C",
+        "text": "Optical power becomes negative, turning into a concave lens."
+      },
+      {
+        "key": "D",
+        "text": "Focal length remains constant because fluid volume is conserved."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The focal length of a biconvex lens is given by f = R / [2(μ - 1)], and optical power is P = 1/f = [2(μ - 1)] / R. As fluid is pumped into the lens, the membrane bulges outward, reducing its radius of curvature R. Since power P is inversely proportional to R, decreasing R directly increases the optical converging power, mimicking human eye accommodation.",
+    "concept_name": "Variable Focal Length by Pressure",
+    "concept_tag": "refraction through a lens case based variable focal length by pressure",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "46d262a494b82292c6291cd873df51820fe57a8829d6d99d0c1b8ee47956ec08",
+    "question_skeleton": "case scenario a bio medical engineering team designs an artificial intraocular lens using a transparent silicone fluid encapsulated between two flexible polydimethylsiloxane pdms membranes a micropump injects or withdraws fluid altering the membrane radius of curvature r from 20 mm to 8 0 mm investigative question what happens to the optical power of the liquid lens as fluid is injected to decrease r choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_47_39fd97",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 47: Human Eye Lens Accommodation Mechanism",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** When a person looks at a distant mountain, the ciliary muscles of the eye relax, stretching the suspensory zonule ligaments and pulling the crystalline lens thin and flat (maximum focal length f ≈ 2.5 cm). When the person shifts gaze to read a smartphone held 25 cm away. **Investigative Question:** What physiological changes occur in the eye lens to focus on the nearby screen? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ciliary muscles contract, relaxing the suspensory ligaments; the elastic lens bulges thicker with smaller radius of curvature, increasing its converging power."
+      },
+      {
+        "key": "B",
+        "text": "Ciliary muscles relax further, flattening the lens."
+      },
+      {
+        "key": "C",
+        "text": "The eyeball elongates by 5 mm."
+      },
+      {
+        "key": "D",
+        "text": "The pupil closes completely to act as a pinhole."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Accommodation for near vision is an active muscular process. The circular ciliary muscles contract, releasing tension on the suspensory ligaments. Freed from outward tension, the naturally elastic crystalline lens bulges more convex (radius of curvature decreases). This increases its refractive power (shorter focal length), sharply focusing divergent rays from the near smartphone onto the retina.",
+    "concept_name": "Ciliary Muscle Contraction and Lens Curvature",
+    "concept_tag": "refraction through a lens case based ciliary muscle contraction and lens curvature",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "39fd9785525f5c440f90e198bbf5dd2d948b65f7a93770c5f89e4c3775a9b3f9",
+    "question_skeleton": "case scenario when a person looks at a distant mountain the ciliary muscles of the eye relax stretching the suspensory zonule ligaments and pulling the crystalline lens thin and flat maximum focal length f 2 5 cm when the person shifts gaze to read a smartphone held 25 cm away investigative question what physiological changes occur in the eye lens to focus on the nearby screen choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_48_afda3a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 48: Virtual Image Formed by Convex Lens vs Concave Lens",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student views a 2.0 cm tall postage stamp through Lens X and observes an erect virtual image of height 6.0 cm. The student then views the stamp through Lens Y and observes an erect virtual image of height 1.0 cm. **Investigative Question:** What are the types of lenses X and Y? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lens X is a Convex lens (magnifier, m = +3.0 > 1); Lens Y is a Concave lens (diminisher, m = +0.5 < 1)."
+      },
+      {
+        "key": "B",
+        "text": "Lens X is a Concave lens; Lens Y is a Convex lens."
+      },
+      {
+        "key": "C",
+        "text": "Both are Convex lenses."
+      },
+      {
+        "key": "D",
+        "text": "Both are Concave lenses."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both lenses can produce virtual, erect images, but their magnifications differ fundamentally: (1) A convex lens produces a virtual image ONLY when the object is inside its focus (u < f), and the virtual image is always magnified (m > 1, here m = 6/2 = +3.0). (2) A concave lens produces a virtual image for ALL object positions, and the virtual image is always diminished (m < 1, here m = 1/2 = +0.5).",
+    "concept_name": "Distinction in Virtual Images",
+    "concept_tag": "refraction through a lens case based distinction in virtual images",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "afda3a39d3577519552ba97ea490b0aa78312e59c4567c0bb80ce4430085b047",
+    "question_skeleton": "case scenario a student views a 2 0 cm tall postage stamp through lens x and observes an erect virtual image of height 6 0 cm the student then views the stamp through lens y and observes an erect virtual image of height 1 0 cm investigative question what are the types of lenses x and y choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_49_19354a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 49: Convex Lens Projecting Sun Image on Thermopile",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A solar research station uses a quartz convex lens of diameter D = 10 cm (area A = π·D² / 4) and focal length f = 20 cm to focus solar radiation onto a calibrated thermopile sensor at the focus. On a clear day, solar irradiance is 1000 W/m². **Investigative Question:** What total thermal power is focused onto the thermopile focal spot, assuming 90% transmission? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "≈ 7.07 Watts"
+      },
+      {
+        "key": "B",
+        "text": "≈ 70.7 Watts"
+      },
+      {
+        "key": "C",
+        "text": "≈ 1.57 Watts"
+      },
+      {
+        "key": "D",
+        "text": "≈ 100 Watts"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Lens aperture radius R = 5.0 cm = 0.05 m. Lens aperture area A = π·R² = 3.1416 × (0.05 m)² = 0.007854 m². Total incident solar power = Irradiance × Area = 1000 W/m² × 0.007854 m² ≈ 7.854 W. With 90% optical transmission: Focused power = 0.90 × 7.854 W ≈ 7.07 W.",
+    "concept_name": "Solar Irradiance Measurement",
+    "concept_tag": "refraction through a lens case based solar irradiance measurement",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "19354aac737ae600c7054bbd2062b35a67241e48b566457fa29480731970eba6",
+    "question_skeleton": "case scenario a solar research station uses a quartz convex lens of diameter d 10 cm area a d 4 and focal length f 20 cm to focus solar radiation onto a calibrated thermopile sensor at the focus on a clear day solar irradiance is 1000 w m investigative question what total thermal power is focused onto the thermopile focal spot assuming 90 transmission choose the correct option"
+  },
+  {
+    "globalId": "qb_case_refraction_through_a_lens_50_9ead45",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Refraction through a Lens",
+    "title": "Case Study 50: Compound Microscope Final Virtual Image Formation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a compound microscope, the short-focus objective lens produces a real, inverted, magnified image A'B' of a cell specimen. This intermediate image A'B' is positioned just inside the first principal focus F_e of the eyepiece lens. **Investigative Question:** What are the characteristics and orientation of the final image A''B'' seen by the observer through the eyepiece? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Virtual, highly magnified, and inverted with respect to the original specimen (erect with respect to intermediate image A'B')."
+      },
+      {
+        "key": "B",
+        "text": "Real, erect with respect to the specimen, and diminished."
+      },
+      {
+        "key": "C",
+        "text": "Virtual and erect with respect to the original specimen."
+      },
+      {
+        "key": "D",
+        "text": "Real and formed at the objective focus."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The objective lens forms a real, inverted, and magnified intermediate image A'B'. The eyepiece acts as a simple magnifying glass positioned so that A'B' lies inside its focal length (u < f_e). The eyepiece forms a virtual, erect image of A'B'. Since A'B' was already inverted relative to the original specimen, the final virtual image A''B'' remains inverted with respect to the original specimen, but is magnified enormously.",
+    "concept_name": "Eyepiece Acting as Simple Magnifier",
+    "concept_tag": "refraction through a lens case based eyepiece acting as simple magnifier",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9ead4548cccb0a8a4aa976397bf71270775da9fdc9cf8a7dcbe2fe1bf8bee2fe",
+    "question_skeleton": "case scenario in a compound microscope the short focus objective lens produces a real inverted magnified image a b of a cell specimen this intermediate image a b is positioned just inside the first principal focus f e of the eyepiece lens investigative question what are the characteristics and orientation of the final image a b seen by the observer through the eyepiece choose the correct option"
+  }
+]

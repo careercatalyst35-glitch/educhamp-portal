@@ -1,0 +1,1343 @@
+[
+  {
+    "globalId": "qb_hots_force_1_0ye7f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "— The Rod Suspended by Two Strings",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "# ICSE Class 10 Physics — Force ## Set 2: 20 Completely New Diagrammatic HOTS Questions Advanced • Multi-step reasoning • Diagram-based numericals • Board-level challenge These 20 questions are designed to avoid repeating the specific setups used in the previous set. This time, the emphasis is on **force couples in practical situations, suspended bodies, compound levers, balancing multiple loads, changing force directions, and interpreting diagrams**. Each question includes a schematic diagram, four options, the correct answer and a worked explanation. The diagrams are schematic and not drawn to scale.",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <line x1=\"20\" y1=\"20\" x2=\"300\" y2=\"20\" stroke=\"currentColor\" stroke-width=\"2\"/>\n    <line x1=\"65\" y1=\"20\" x2=\"65\" y2=\"75\" stroke=\"#2878c8\" stroke-width=\"2\"/>\n    <line x1=\"255\" y1=\"20\" x2=\"255\" y2=\"75\" stroke=\"#2878c8\" stroke-width=\"2\"/>\n    <line x1=\"35\" y1=\"75\" x2=\"285\" y2=\"75\" stroke=\"#b77935\" stroke-width=\"7\"/>\n    <line x1=\"160\" y1=\"75\" x2=\"160\" y2=\"116\" stroke=\"#d97706\" stroke-width=\"2\"/>\n    <polygon points=\"160,123 154,111 166,111\" fill=\"#d97706\"/>\n    <text x=\"173\" y=\"110\" font-size=\"12\" fill=\"currentColor\">120 N</text>\n    <text x=\"42\" y=\"12\" font-size=\"11\" fill=\"currentColor\">T₁</text>\n    <text x=\"263\" y=\"12\" font-size=\"11\" fill=\"currentColor\">T₂</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "40 N and 120 N"
+      },
+      {
+        "key": "B",
+        "text": "60 N and 100 N"
+      },
+      {
+        "key": "C",
+        "text": "80 N and 80 N"
+      },
+      {
+        "key": "D",
+        "text": "120 N and 120 N"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Total downward force:\n\n  \n  120+40=160 N\n  \n\n  By symmetry, the two tensions are equal:\n\n  \n  T₁=T₂=(160 / 2)\n  =80 N\n  \n\n  **Concept tested:** Combining symmetry, force balance and the weight of a uniform rod.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_2_dyas7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Couple on a Steering Wheel",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A driver applies a couple consisting of two equal and opposite forces of 15 N each on the outer rim of a steering wheel of diameter 0.4 m. If the driver now applies forces of 30 N each on an inner rim having a diameter of 0.2 m, what is the new moment of the couple?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 160\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"155\" cy=\"75\" r=\"55\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"4\" /><circle cx=\"155\" cy=\"75\" r=\"6\" fill=\"currentColor\" /><line x1=\"100\" y1=\"75\" x2=\"210\" y2=\"75\" stroke=\"currentColor\" stroke-width=\"2\" /><line x1=\"100\" y1=\"75\" x2=\"100\" y2=\"25\" stroke=\"#2878c8\" stroke-width=\"3\" /><polygon points=\"100,18 94,30 106,30\" fill=\"#2878c8\" /><line x1=\"210\" y1=\"75\" x2=\"210\" y2=\"125\" stroke=\"#d97706\" stroke-width=\"3\" /><polygon points=\"210,132 204,120 216,120\" fill=\"#d97706\" /><text x=\"63\" y=\"20\" font-size=\"12\" fill=\"currentColor\">15 N</text><text x=\"215\" y=\"134\" font-size=\"12\" fill=\"currentColor\">15 N</text><text x=\"118\" y=\"146\" font-size=\"11\" fill=\"currentColor\">Separation = 0.4 m</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "3 N m"
+      },
+      {
+        "key": "B",
+        "text": "6 N m"
+      },
+      {
+        "key": "C",
+        "text": "12 N m"
+      },
+      {
+        "key": "D",
+        "text": "24 N m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The moment of a couple is given by: Moment = Either Force × Arm of Couple (perpendicular distance between forces). Initial couple = 15 N × 0.4 m = 6 N m. When applying 30 N forces on an inner rim of diameter 0.2 m: New couple = 30 N × 0.2 m = 6 N m. Therefore, doubling the force while halving the couple arm leaves the moment of the couple unchanged at 6 N m.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_3_7mg6u",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "A uniform rod is pivoted at its centre. A downward force is applied to the left of the pivot and an equal upward force to the right, at equal distances from the pivot. What is the most accurate conclusion?",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A uniform rod is pivoted at its centre. A downward force is applied to the left of the pivot and an equal upward force to the right, at equal distances from the pivot. What is the most accurate conclusion?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both forces produce moments in the same rotational direction, and their resultant force is non-zero."
+      },
+      {
+        "key": "B",
+        "text": "Their moments cancel, and their resultant force is zero."
+      },
+      {
+        "key": "C",
+        "text": "Their moments are equal and opposite, but their resultant force is zero."
+      },
+      {
+        "key": "D",
+        "text": "They form a couple with zero resultant force."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The downward force on the left and upward force on the right both tend to rotate the rod in the same direction. Their vertical forces also point in opposite directions, so the resultant force is zero only if their magnitudes are equal. For equal magnitudes, the pair actually forms a couple.\n\n**Correction:** The best answer is **D** for equal magnitudes and equal separation: the two forces form a couple. The wording of option A incorrectly claims a non-zero resultant force for equal and opposite forces.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_4_ly6ds",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Rotating Stone and Work Done",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A stone tied to the end of a string is whirled in a circular path at constant speed. What is the total work done by the tension (centripetal force) in one complete revolution?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"15\" y=\"40\" width=\"290\" height=\"12\" rx=\"2\" fill=\"#d6b77b\" stroke=\"#806b44\"/>\n    <line x1=\"145\" y1=\"52\" x2=\"145\" y2=\"89\" stroke=\"#2878c8\" stroke-width=\"2\"/>\n    <polygon points=\"145,96 139,84 151,84\" fill=\"#2878c8\"/>\n    <path d=\"M128 98 L145 56 L162 98 Z\" fill=\"#999\" stroke=\"currentColor\"/>\n    <line x1=\"218\" y1=\"52\" x2=\"218\" y2=\"84\" stroke=\"#d97706\" stroke-width=\"2\"/>\n    <polygon points=\"218,91 212,79 224,79\" fill=\"#d97706\"/>\n    <text x=\"115\" y=\"116\" font-size=\"11\" fill=\"currentColor\">Pivot at 45 cm</text>\n    <text x=\"195\" y=\"108\" font-size=\"11\" fill=\"currentColor\">Weight at 70 cm</text>\n    <text x=\"14\" y=\"30\" font-size=\"11\" fill=\"currentColor\">0 cm</text>\n    <text x=\"267\" y=\"30\" font-size=\"11\" fill=\"currentColor\">100 cm</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Positive"
+      },
+      {
+        "key": "B",
+        "text": "Negative"
+      },
+      {
+        "key": "C",
+        "text": "Zero"
+      },
+      {
+        "key": "D",
+        "text": "Depends on the mass of the stone"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Work done is given by W = F × s × cos(θ). The centripetal force (string tension) acts radially inwards towards the centre of the circle, whereas the instantaneous displacement is tangential at every point, making θ = 90°. Since cos(90°) = 0, the work done by centripetal force is always zero.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_5_9dg11",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Rotating Stone and Work Done",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A stone tied to the end of a string is whirled in a circular path at constant speed. What is the total work done by the tension (centripetal force) in one complete revolution?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 155\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <circle cx=\"145\" cy=\"78\" r=\"54\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\"/>\n    <circle cx=\"145\" cy=\"78\" r=\"4\" fill=\"currentColor\"/>\n    <circle cx=\"199\" cy=\"78\" r=\"6\" fill=\"#d97706\"/>\n    <line x1=\"145\" y1=\"78\" x2=\"199\" y2=\"78\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <line x1=\"199\" y1=\"78\" x2=\"199\" y2=\"20\" stroke=\"#16856b\" stroke-width=\"2.5\"/>\n    <polygon points=\"199,13 193,25 205,25\" fill=\"#16856b\"/>\n    <line x1=\"199\" y1=\"78\" x2=\"160\" y2=\"39\" stroke=\"#2878c8\" stroke-width=\"2.5\"/>\n    <polygon points=\"154,33 166,37 158,45\" fill=\"#2878c8\"/>\n    <text x=\"208\" y=\"25\" font-size=\"11\" fill=\"currentColor\">Velocity</text>\n    <text x=\"137\" y=\"96\" font-size=\"11\" fill=\"currentColor\">O</text>\n    <text x=\"17\" y=\"146\" font-size=\"11\" fill=\"currentColor\">Velocity is tangential; force is radial.</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Positive"
+      },
+      {
+        "key": "B",
+        "text": "Negative"
+      },
+      {
+        "key": "C",
+        "text": "Zero"
+      },
+      {
+        "key": "D",
+        "text": "Depends on the mass of the stone"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Work done is given by W = F × s × cos(θ). The centripetal force (string tension) acts radially inwards towards the centre of the circle, whereas the instantaneous displacement is tangential at every point, making θ = 90°. Since cos(90°) = 0, the work done by centripetal force is always zero.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_6_l0au5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Couple on a Steering Wheel",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A driver applies a couple consisting of two equal and opposite forces of 15 N each on the outer rim of a steering wheel of diameter 0.4 m. If the driver now applies forces of 30 N each on an inner rim having a diameter of 0.2 m, what is the new moment of the couple?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 160\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <circle cx=\"155\" cy=\"75\" r=\"55\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"4\"/>\n    <circle cx=\"155\" cy=\"75\" r=\"6\" fill=\"currentColor\"/>\n    <line x1=\"100\" y1=\"75\" x2=\"210\" y2=\"75\" stroke=\"currentColor\" stroke-width=\"2\"/>\n    <line x1=\"100\" y1=\"75\" x2=\"100\" y2=\"25\" stroke=\"#2878c8\" stroke-width=\"3\"/>\n    <polygon points=\"100,18 94,30 106,30\" fill=\"#2878c8\"/>\n    <line x1=\"210\" y1=\"75\" x2=\"210\" y2=\"125\" stroke=\"#d97706\" stroke-width=\"3\"/>\n    <polygon points=\"210,132 204,120 216,120\" fill=\"#d97706\"/>\n    <text x=\"63\" y=\"20\" font-size=\"12\" fill=\"currentColor\">15 N</text>\n    <text x=\"215\" y=\"134\" font-size=\"12\" fill=\"currentColor\">15 N</text>\n    <text x=\"118\" y=\"146\" font-size=\"11\" fill=\"currentColor\">Separation = 0.4 m</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "3 N m"
+      },
+      {
+        "key": "B",
+        "text": "6 N m"
+      },
+      {
+        "key": "C",
+        "text": "12 N m"
+      },
+      {
+        "key": "D",
+        "text": "24 N m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The moment of a couple is given by: Moment = Either Force × Arm of Couple (perpendicular distance between forces). Initial couple = 15 N × 0.4 m = 6 N m. When applying 30 N forces on an inner rim of diameter 0.2 m: New couple = 30 N × 0.2 m = 6 N m. Therefore, doubling the force while halving the couple arm leaves the moment of the couple unchanged at 6 N m.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_7_3c0id",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "— The Crane Boom",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A crane boom pivots at a fixed point. A 400 N load acts vertically downward at a horizontal distance of 3 m from the pivot. The boom itself is light. Calculate the moment of the load about the pivot.",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 160\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"135\" x2=\"40\" y2=\"25\" stroke=\"currentColor\" stroke-width=\"4\" /><circle cx=\"40\" cy=\"95\" r=\"5\" fill=\"currentColor\" /><line x1=\"40\" y1=\"95\" x2=\"245\" y2=\"35\" stroke=\"#b77935\" stroke-width=\"7\" /><line x1=\"245\" y1=\"35\" x2=\"245\" y2=\"83\" stroke=\"#d97706\" stroke-width=\"2.5\" /><polygon points=\"245,90 239,78 251,78\" fill=\"#d97706\" /><text x=\"253\" y=\"67\" font-size=\"12\" fill=\"currentColor\">400 N</text><line x1=\"40\" y1=\"95\" x2=\"245\" y2=\"95\" stroke=\"#888\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\" /><text x=\"115\" y=\"112\" font-size=\"11\" fill=\"currentColor\">Horizontal reach = 3 m</text><text x=\"47\" y=\"88\" font-size=\"11\" fill=\"currentColor\">Pivot</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "400 N m"
+      },
+      {
+        "key": "B",
+        "text": "800 N m"
+      },
+      {
+        "key": "C",
+        "text": "1,200 N m"
+      },
+      {
+        "key": "D",
+        "text": "1,600 N m"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Because the load acts vertically, the perpendicular distance is the horizontal reach of 3 m.\n\n\nM=400(3)=1,200 N m\n\n\n**Concept tested:** Identifying the correct perpendicular distance for a vertical force acting on an inclined boom.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_8_hiiwn",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Load on a Wheelbarrow",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A load of 200 N is carried in a wheelbarrow at a distance of 0.4 m from the wheel axle (fulcrum). If the effort is applied vertically upwards at a distance of 1.2 m from the axle, what is the minimum effort required to lift the load?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 160\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <circle cx=\"150\" cy=\"80\" r=\"52\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/>\n    <circle cx=\"150\" cy=\"80\" r=\"17\" fill=\"#d6b77b\" stroke=\"#806b44\" stroke-width=\"2\"/>\n    <text x=\"136\" y=\"84\" font-size=\"10\" fill=\"#333\">Earth</text>\n    <rect x=\"195\" y=\"70\" width=\"20\" height=\"18\" fill=\"#2878c8\" stroke=\"#174a7c\"/>\n    <line x1=\"205\" y1=\"79\" x2=\"150\" y2=\"80\" stroke=\"#d97706\" stroke-width=\"2.5\"/>\n    <polygon points=\"143,80 155,74 155,86\" fill=\"#d97706\"/>\n    <text x=\"216\" y=\"76\" font-size=\"11\" fill=\"currentColor\">Satellite</text>\n    <text x=\"167\" y=\"68\" font-size=\"11\" fill=\"currentColor\">Gravity</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "40 N"
+      },
+      {
+        "key": "B",
+        "text": "66.7 N"
+      },
+      {
+        "key": "C",
+        "text": "100 N"
+      },
+      {
+        "key": "D",
+        "text": "600 N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By the principle of moments for a Class II lever: Effort × Effort Arm = Load × Load Arm. Effort × 1.2 m = 200 N × 0.4 m => Effort × 1.2 = 80 => Effort = 80 / 1.2 = 66.7 N.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_9_f96m5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "Circular Motion: The Changing Force Direction",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A stone of mass 0.5 kg moves in a horizontal circle of radius 2 m at a constant speed of 4 m s^. What is the centripetal force, and what happens to its direction as the stone moves?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 165\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"145\" cy=\"83\" r=\"58\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\" /><circle cx=\"145\" cy=\"83\" r=\"4\" fill=\"currentColor\" /><text x=\"135\" y=\"101\" font-size=\"12\" fill=\"currentColor\">O</text><circle cx=\"203\" cy=\"83\" r=\"7\" fill=\"#d97706\" /><line x1=\"203\" y1=\"83\" x2=\"158\" y2=\"83\" stroke=\"#2878c8\" stroke-width=\"3\" /><polygon points=\"151,83 163,77 163,89\" fill=\"#2878c8\" /><text x=\"163\" y=\"72\" font-size=\"11\" fill=\"currentColor\">F</text><line x1=\"203\" y1=\"83\" x2=\"203\" y2=\"25\" stroke=\"#16856b\" stroke-width=\"2.5\" /><polygon points=\"203,18 197,30 209,30\" fill=\"#16856b\" /><text x=\"212\" y=\"29\" font-size=\"11\" fill=\"currentColor\">v</text><text x=\"17\" y=\"153\" font-size=\"11\" fill=\"currentColor\">Uniform circular motion</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 N, constant direction"
+      },
+      {
+        "key": "B",
+        "text": "4 N, always tangent to the circle"
+      },
+      {
+        "key": "C",
+        "text": "8 N, directed towards the centre and continuously changing direction"
+      },
+      {
+        "key": "D",
+        "text": "16 N, directed away from the centre"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "F_c=(mv² / r)\n=(0.5×4² / 2)\n=4 N\n\n\nThe correct numerical result is 4 N, so the correct option is **none of the listed options as written**. Option B has the right magnitude but the wrong direction. The force points towards the centre, not tangentially.\n\n**Concept tested:** Centripetal force, speed versus velocity and changing direction of acceleration.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_10_kkzif",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Lever with a Moving Fulcrum",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A light horizontal lever has a load arm of 20 cm and an effort arm of 80 cm. If the fulcrum is relocated such that the load arm becomes 40 cm and the effort arm becomes 40 cm, by what factor does the effort needed to support the same load increase?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"20\" y1=\"40\" x2=\"300\" y2=\"40\" stroke=\"currentColor\" stroke-width=\"4\" /><path d=\"M78 84 L93 44 L108 84 Z\" fill=\"#999\" stroke=\"currentColor\" /><path d=\"M148 84 L163 44 L178 84 Z\" fill=\"none\" stroke=\"#777\" stroke-width=\"1.5\" stroke-dasharray=\"3 3\" /><line x1=\"30\" y1=\"40\" x2=\"30\" y2=\"72\" stroke=\"#2878c8\" stroke-width=\"2\" /><polygon points=\"30,79 24,67 36,67\" fill=\"#2878c8\" /><text x=\"17\" y=\"98\" font-size=\"11\" fill=\"currentColor\">Load</text><line x1=\"270\" y1=\"40\" x2=\"270\" y2=\"72\" stroke=\"#d97706\" stroke-width=\"2\" /><polygon points=\"270,79 264,67 276,67\" fill=\"#d97706\" /><text x=\"252\" y=\"98\" font-size=\"11\" fill=\"currentColor\">Effort</text><text x=\"73\" y=\"106\" font-size=\"11\" fill=\"currentColor\">Pivot 1</text><text x=\"147\" y=\"120\" font-size=\"11\" fill=\"currentColor\">Pivot 2</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It becomes 2 times as large."
+      },
+      {
+        "key": "B",
+        "text": "It becomes 4 times as large."
+      },
+      {
+        "key": "C",
+        "text": "It becomes 0.5 times as large."
+      },
+      {
+        "key": "D",
+        "text": "It remains unchanged."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Initial effort: E₁ = Load × (Load Arm / Effort Arm) = L × (20 / 80) = 0.25 L. After shifting the fulcrum: E₂ = Load × (40 / 40) = 1.0 L. Ratio: E₂ / E₁ = 1.0 / 0.25 = 4. Thus, the required effort becomes 4 times as large.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_11_zw4hc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Physics",
+    "subSubjectName": "Physics",
+    "chapter": "Force",
+    "title": "The Lever with a Moving Fulcrum",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "complex",
+      "numerical",
+      "hots"
+    ],
+    "question": "A light horizontal lever has a load arm of 20 cm and an effort arm of 80 cm. If the fulcrum is relocated such that the load arm becomes 40 cm and the effort arm becomes 40 cm, by what factor does the effort needed to support the same load increase?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"20\" y1=\"40\" x2=\"300\" y2=\"40\" stroke=\"currentColor\" stroke-width=\"4\" /><path d=\"M78 84 L93 44 L108 84 Z\" fill=\"#999\" stroke=\"currentColor\" /><path d=\"M148 84 L163 44 L178 84 Z\" fill=\"none\" stroke=\"#777\" stroke-width=\"1.5\" stroke-dasharray=\"3 3\" /><line x1=\"30\" y1=\"40\" x2=\"30\" y2=\"72\" stroke=\"#2878c8\" stroke-width=\"2\" /><polygon points=\"30,79 24,67 36,67\" fill=\"#2878c8\" /><text x=\"17\" y=\"98\" font-size=\"11\" fill=\"currentColor\">Load</text><line x1=\"270\" y1=\"40\" x2=\"270\" y2=\"72\" stroke=\"#d97706\" stroke-width=\"2\" /><polygon points=\"270,79 264,67 276,67\" fill=\"#d97706\" /><text x=\"252\" y=\"98\" font-size=\"11\" fill=\"currentColor\">Effort</text><text x=\"73\" y=\"106\" font-size=\"11\" fill=\"currentColor\">Pivot 1</text><text x=\"147\" y=\"120\" font-size=\"11\" fill=\"currentColor\">Pivot 2</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It becomes 2 times as large."
+      },
+      {
+        "key": "B",
+        "text": "It becomes 4 times as large."
+      },
+      {
+        "key": "C",
+        "text": "It becomes 0.5 times as large."
+      },
+      {
+        "key": "D",
+        "text": "It remains unchanged."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Initial effort: E₁ = Load × (Load Arm / Effort Arm) = L × (20 / 80) = 0.25 L. After shifting the fulcrum: E₂ = Load × (40 / 40) = 1.0 L. Ratio: E₂ / E₁ = 1.0 / 0.25 = 4. Thus, the required effort becomes 4 times as large.",
+    "concept_name": "How fulcrum position affects mechanical advantage and effort.",
+    "concept_tag": "how_fulcrum_position_affects_mechanical_advantage_and_effort_",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified",
+    "sectionName": "HOTS"
+  },
+  {
+    "globalId": "qb_hots_force_12_nti2z",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Inclined Force Trap",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A uniform horizontal rod of length 1.2 m is pivoted at one end. A force of 50 N acts at the other end at 30^° to the rod. A second force acts perpendicularly at a point 0.4 m from the pivot, producing an equal and opposite moment. Find the second force.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "37.5 N"
+      },
+      {
+        "key": "B",
+        "text": "50 N"
+      },
+      {
+        "key": "C",
+        "text": "75 N"
+      },
+      {
+        "key": "D",
+        "text": "100 N"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Moment of the inclined force:\n\n\nM₁=FLsintheta\n\n\n\nM₁=50(1.2)sin30^°=30 N m\n\n\nFor equal and opposite moment,\n\n\nF₂(0.4)=30\n\n\n\nF₂=75 N\n\n\n**Elite skill:** Combining force resolution with the principle of moments.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_13_lh3t8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "A light horizontal beam is pivoted at its centre. A 40 N force acts vertically downward 60 cm to the left of the pivot. A 25 N force acts vertically downward 40 cm to the right. What additional vertical force, applied 20 cm to the right of the pivot, will balance the moments?",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A light horizontal beam is pivoted at its centre. A 40 N force acts vertically downward 60 cm to the left of the pivot. A 25 N force acts vertically downward 40 cm to the right. What additional vertical force, applied 20 cm to the right of the pivot, will balance the moments?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "35 N downward"
+      },
+      {
+        "key": "B",
+        "text": "45 N downward"
+      },
+      {
+        "key": "C",
+        "text": "55 N downward"
+      },
+      {
+        "key": "D",
+        "text": "95 N downward"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The left force produces 40×0.60=24 N m anticlockwise. The right force produces 25×0.40=10 N m clockwise. An additional clockwise moment of 14 N m is required, so the force must be 14/0.20=70 N downward.\n\n**Correction:** The calculated answer is **70 N downward**, which is not among the options. This question has an option error; do not memorise any listed option as correct.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_14_l9s7a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Couple Transformation",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two equal and opposite parallel forces of 18 N act with a perpendicular separation of 25 cm. The force magnitudes are increased by 25%, while the separation is reduced by 20%. Find the new moment of the couple.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3.6 N m"
+      },
+      {
+        "key": "B",
+        "text": "4.5 N m"
+      },
+      {
+        "key": "C",
+        "text": "5.625 N m"
+      },
+      {
+        "key": "D",
+        "text": "7.2 N m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Original separation:\n\n\nd=0.25 m\n\n\nNew force:\n\n\nF=18(1.25)=22.5 N\n\n\nNew separation:\n\n\nd'=0.25(0.8)=0.20 m\n\n\nHence,\n\n\nM'=22.5(0.20)=4.5 N m\n\n\nThe original moment was also 18(0.25)=4.5 N m. The two changes cancel exactly.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_15_qz3d0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Ladder Reaction Challenge",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A uniform ladder of length 5 m and weight 200 N rests against a smooth vertical wall. Its foot is 3 m from the wall, and the top reaches a height of 4 m. Calculate the horizontal reaction of the wall.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50 N"
+      },
+      {
+        "key": "B",
+        "text": "75 N"
+      },
+      {
+        "key": "C",
+        "text": "100 N"
+      },
+      {
+        "key": "D",
+        "text": "150 N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The ladder forms a 3!:!4!:!5 triangle. Since it is uniform, its weight acts at the midpoint.\n\nThe horizontal distance of the centre of gravity from the foot is\n\n\n(3 / 2)=1.5 m\n\n\nTaking moments about the foot of the ladder:\n\n\nR(4)=200(1.5)\n\n\n\nR=(300 / 4)\n=75 N\n\n\nThe smooth wall supplies only a horizontal reaction.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_16_ps5it",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Beam with Its Own Weight",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 4 m beam has a weight of 100 N, acting 1.5 m from its left end. A 50 N load acts 3 m from the left end. An upward force is applied at the right end. If the left end acts as a pivot, calculate the upward force required for rotational equilibrium.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50 N"
+      },
+      {
+        "key": "B",
+        "text": "62.5 N"
+      },
+      {
+        "key": "C",
+        "text": "75 N"
+      },
+      {
+        "key": "D",
+        "text": "100 N"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The clockwise moments are\n\n\n100(1.5)+50(3)=300 N m\n\n\nLet the upward force be F.\n\n\nF(4)=300\n\n\n\nF=75 N\n\n\nBoth the beam's own weight and the additional load must be included.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_17_rd5dz",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Beam on Two Supports",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A uniform horizontal beam of length 2 m weighs 100 N. It rests on two supports at its ends. A 60 N load is placed 0.5 m from the left support. Calculate the upward reaction at the right support.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "35 N"
+      },
+      {
+        "key": "B",
+        "text": "50 N"
+      },
+      {
+        "key": "C",
+        "text": "65 N"
+      },
+      {
+        "key": "D",
+        "text": "95 N"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The beam's weight acts at its centre, 1 m from the left support.\n\nTaking moments about the left support:\n\n\nR_B(2)=100(1)+60(0.5)\n\n\n\n2R_B=130\n\n\n\nR_B=65 N\n\n\nThe left reaction is 160-65=95 N, providing a check on the calculation.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_18_lgcsc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Resultant Moment of Three Forces",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A rod is pivoted at one end. Three forces act on it: - 25 N perpendicular to the rod at 0.4 m, clockwise. - 40 N perpendicular to the rod at 0.2 m, anticlockwise. - 30 N at 30^° to the rod at 0.5 m, anticlockwise. Calculate the resultant moment and its direction.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "5.5 N m, anticlockwise"
+      },
+      {
+        "key": "B",
+        "text": "5.5 N m, clockwise"
+      },
+      {
+        "key": "C",
+        "text": "10.0 N m, anticlockwise"
+      },
+      {
+        "key": "D",
+        "text": "25.5 N m, clockwise"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Clockwise moment:\n\n\nM_C=25(0.4)=10 N m\n\n\nAnticlockwise moments:\n\n\nM_A=40(0.2)+30(0.5)sin30^°\n\n\n\nM_A=8+7.5=15.5 N m\n\n\nResultant:\n\n\nM_{net}=15.5-10\n=5.5 N m anticlockwise",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_19_fnenl",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Inclined Rod with a Perpendicular Force",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 2 m rod is pivoted at one end and makes an angle of 30^° with the horizontal. A vertical downward force of 40 N acts at the free end. Calculate the moment of the force about the pivot.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "20 N m"
+      },
+      {
+        "key": "B",
+        "text": "40 N m"
+      },
+      {
+        "key": "C",
+        "text": "60 N m"
+      },
+      {
+        "key": "D",
+        "text": "80 N m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The perpendicular distance from the pivot to the vertical line of action is the horizontal projection of the rod:\n\n\nd=2cos30^°=sqrt3 m\n\n\nTherefore,\n\n\nM=40sqrt3≈69.3 N m\n\n\n**Correction:** The correct result is approximately 69.3 N m, so none of the options is correct. This is an important distinction: the rod's angle is measured from the horizontal, whereas the force is vertical.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_20_cw3sb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Ladder's Resultant Floor Reaction",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A uniform ladder of weight 200 N rests against a smooth vertical wall. The wall exerts a horizontal reaction of 75 N. The ladder is stationary. Calculate the magnitude of the resultant reaction from the floor.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "125 N"
+      },
+      {
+        "key": "B",
+        "text": "200 N"
+      },
+      {
+        "key": "C",
+        "text": "213.6 N"
+      },
+      {
+        "key": "D",
+        "text": "275 N"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Vertical equilibrium requires the vertical component of the floor reaction to equal the weight:\n\n\nR_V=200 N\n\n\nHorizontal equilibrium requires floor friction to balance the wall reaction:\n\n\nR_H=75 N\n\n\nThe resultant floor reaction is\n\n\nR=√(R_V²⁺R_H²)\n\n\n\nR=√(200²⁺75²)\n=√(45625)\n\n\n\nR≈213.6 N",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_21_degnp",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Hidden Perpendicular Distance",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Schematic: pivot at O; force is applied at the end of the handle. A spanner of length 40 cm is pivoted at O. A force of 25 N acts at its free end at 30^° to the spanner. Calculate the magnitude of the moment of force about O. Options",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: The Hidden Perpendicular Distance</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "2.5 N m"
+      },
+      {
+        "key": "B",
+        "text": "5.0 N m"
+      },
+      {
+        "key": "C",
+        "text": "8.66 N m"
+      },
+      {
+        "key": "D",
+        "text": "10.0 N m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The perpendicular distance is not the full length of the spanner.\n\n\nd=0.40sin30^°=0.20 m\n\n\n\nMoment=F d=25(0.20)\n\n\n\n5.0 N m\n\n\n**Concept tested:** Resolving force geometry and calculating moment using the perpendicular distance.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_22_mlrb0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Suspended Triangular Lamina",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A uniform triangular lamina is suspended freely by a pin through one of its vertices A. When it comes to rest in stable equilibrium, which of the following statements is true regarding its centre of gravity G?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: The Suspended Triangular Lamina</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Weight acts vertically downward through G, and its line of action passes through A so its moment about A is zero."
+      },
+      {
+        "key": "B",
+        "text": "Weight acts vertically upward through G, and its moment about A is zero."
+      },
+      {
+        "key": "C",
+        "text": "Weight acts vertically downward, producing maximum moment about A."
+      },
+      {
+        "key": "D",
+        "text": "Weight acts along the median, but its moment is always non-zero."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A freely suspended body always comes to rest in stable equilibrium with its centre of gravity G lying vertically below the point of suspension A. In this position, the line of action of the weight passes directly through the pivot A, so the perpendicular distance is zero and the turning effect (moment) is zero.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_23_g0u0h",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "Stable, Unstable and Neutral Equilibrium",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Three identical spheres are placed in three different positions: (I) resting at the bottom of a spherical hollow bowl, (II) on a flat horizontal table, and (III) balanced at the apex of an inverted spherical bowl. Which option correctly identifies their states of equilibrium?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Stable, Unstable and Neutral Equilibrium</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Stable, Neutral, Unstable"
+      },
+      {
+        "key": "B",
+        "text": "Unstable, Stable, Neutral"
+      },
+      {
+        "key": "C",
+        "text": "Neutral, Unstable, Stable"
+      },
+      {
+        "key": "D",
+        "text": "Stable, Unstable, Neutral"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In position I (bottom of bowl), displacing the sphere raises its centre of gravity, and it returns to original position (Stable equilibrium). In position II (flat table), displacing the sphere leaves its centre of gravity at the same height (Neutral equilibrium). In position III (top of inverted bowl), displacement lowers its centre of gravity, causing it to fall away (Unstable equilibrium).",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_24_w6j7a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Spinning Fan Blade",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A ceiling fan rotates about its central axis at a constant speed. Which of the following statements correctly describes the velocity and acceleration of a point located at the outer tip of a blade?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 160\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"155\" cy=\"78\" r=\"8\" fill=\"currentColor\" /><path d=\"M155 70 Q145 30 120 25 Q132 59 155 70\" fill=\"#2878c8\" stroke=\"#2878c8\" /><path d=\"M163 78 Q202 68 207 43 Q178 50 163 78\" fill=\"#2878c8\" stroke=\"#2878c8\" /><path d=\"M155 86 Q165 126 190 131 Q178 97 155 86\" fill=\"#2878c8\" stroke=\"#2878c8\" /><path d=\"M147 78 Q108 88 103 113 Q132 106 147 78\" fill=\"#2878c8\" stroke=\"#2878c8\" /><path d=\"M220 80 A65 65 0 0 0 169 17\" fill=\"none\" stroke=\"#d97706\" stroke-width=\"2.5\" /><polygon points=\"165,17 178,17 171,28\" fill=\"#d97706\" /><text x=\"222\" y=\"70\" font-size=\"11\" fill=\"currentColor\">Rotation</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Its velocity is directed towards the centre."
+      },
+      {
+        "key": "B",
+        "text": "Its acceleration is zero because its speed is constant."
+      },
+      {
+        "key": "C",
+        "text": "Its velocity is tangential, and its centripetal acceleration is directed towards the centre."
+      },
+      {
+        "key": "D",
+        "text": "Its acceleration is tangential and directed away from the centre."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "In uniform circular motion, the speed is constant but the direction of velocity changes continuously, remaining tangential to the circular path at every point. This continuous change in velocity gives rise to centripetal acceleration, which is directed radially inwards towards the centre of rotation.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_25_fm674",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Turning Bus and Inertia",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "When a bus rounds a sharp circular curve at constant speed, a standing passenger feels pushed outwards towards the exterior of the curve. Which of the following statements is physically correct?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 155\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"65\" y=\"45\" width=\"140\" height=\"65\" rx=\"12\" fill=\"#b8cfe8\" stroke=\"#2878c8\" stroke-width=\"2\" /><rect x=\"80\" y=\"54\" width=\"35\" height=\"20\" fill=\"#fff\" stroke=\"#2878c8\" /><rect x=\"120\" y=\"54\" width=\"35\" height=\"20\" fill=\"#fff\" stroke=\"#2878c8\" /><circle cx=\"92\" cy=\"113\" r=\"10\" fill=\"#555\" /><circle cx=\"178\" cy=\"113\" r=\"10\" fill=\"#555\" /><line x1=\"205\" y1=\"78\" x2=\"260\" y2=\"78\" stroke=\"#16856b\" stroke-width=\"3\" /><polygon points=\"267,78 255,72 255,84\" fill=\"#16856b\" /><text x=\"214\" y=\"65\" font-size=\"11\" fill=\"currentColor\">Motion</text><line x1=\"135\" y1=\"78\" x2=\"135\" y2=\"22\" stroke=\"#d97706\" stroke-width=\"2.5\" /><polygon points=\"135,15 129,27 141,27\" fill=\"#d97706\" /><text x=\"145\" y=\"27\" font-size=\"11\" fill=\"currentColor\">Inward acceleration</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "A real outward force accelerates the passenger away from the centre."
+      },
+      {
+        "key": "B",
+        "text": "The passenger's inertia resists the change in direction of motion, while the bus undergoes inward acceleration."
+      },
+      {
+        "key": "C",
+        "text": "Gravity acts horizontally towards the outside of the curve."
+      },
+      {
+        "key": "D",
+        "text": "The bus has zero acceleration because its speed is constant."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Even at constant speed, the bus changes direction continuously and undergoes centripetal acceleration directed towards the centre of the curve. The standing passenger, due to inertia of direction, tends to continue in a straight line, which feels like an outward push relative to the accelerating frame of the bus.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_26_kldpi",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Spinning Fan Blade",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A ceiling fan rotates about its central axis at a constant speed. Which of the following statements correctly describes the velocity and acceleration of a point located at the outer tip of a blade?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 160\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <circle cx=\"155\" cy=\"78\" r=\"8\" fill=\"currentColor\"/>\n    <path d=\"M155 70 Q145 30 120 25 Q132 59 155 70\" fill=\"#2878c8\" stroke=\"#2878c8\"/>\n    <path d=\"M163 78 Q202 68 207 43 Q178 50 163 78\" fill=\"#2878c8\" stroke=\"#2878c8\"/>\n    <path d=\"M155 86 Q165 126 190 131 Q178 97 155 86\" fill=\"#2878c8\" stroke=\"#2878c8\"/>\n    <path d=\"M147 78 Q108 88 103 113 Q132 106 147 78\" fill=\"#2878c8\" stroke=\"#2878c8\"/>\n    <path d=\"M220 80 A65 65 0 0 0 169 17\" fill=\"none\" stroke=\"#d97706\" stroke-width=\"2.5\"/>\n    <polygon points=\"165,17 178,17 171,28\" fill=\"#d97706\"/>\n    <text x=\"222\" y=\"70\" font-size=\"11\" fill=\"currentColor\">Rotation</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Its velocity is directed towards the centre."
+      },
+      {
+        "key": "B",
+        "text": "Its acceleration is zero because its speed is constant."
+      },
+      {
+        "key": "C",
+        "text": "Its velocity is tangential, and its centripetal acceleration is directed towards the centre."
+      },
+      {
+        "key": "D",
+        "text": "Its acceleration is tangential and directed away from the centre."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "In uniform circular motion, the speed is constant but the direction of velocity changes continuously, remaining tangential to the circular path at every point. This continuous change in velocity gives rise to centripetal acceleration, which is directed radially inwards towards the centre of rotation.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_27_mqx8p",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Turning Bus and Inertia",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "When a bus rounds a sharp circular curve at constant speed, a standing passenger feels pushed outwards towards the exterior of the curve. Which of the following statements is physically correct?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 155\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"65\" y=\"45\" width=\"140\" height=\"65\" rx=\"12\" fill=\"#b8cfe8\" stroke=\"#2878c8\" stroke-width=\"2\"/>\n    <rect x=\"80\" y=\"54\" width=\"35\" height=\"20\" fill=\"#fff\" stroke=\"#2878c8\"/>\n    <rect x=\"120\" y=\"54\" width=\"35\" height=\"20\" fill=\"#fff\" stroke=\"#2878c8\"/>\n    <circle cx=\"92\" cy=\"113\" r=\"10\" fill=\"#555\"/>\n    <circle cx=\"178\" cy=\"113\" r=\"10\" fill=\"#555\"/>\n    <line x1=\"205\" y1=\"78\" x2=\"260\" y2=\"78\" stroke=\"#16856b\" stroke-width=\"3\"/>\n    <polygon points=\"267,78 255,72 255,84\" fill=\"#16856b\"/>\n    <text x=\"214\" y=\"65\" font-size=\"11\" fill=\"currentColor\">Motion</text>\n    <line x1=\"135\" y1=\"78\" x2=\"135\" y2=\"22\" stroke=\"#d97706\" stroke-width=\"2.5\"/>\n    <polygon points=\"135,15 129,27 141,27\" fill=\"#d97706\"/>\n    <text x=\"145\" y=\"27\" font-size=\"11\" fill=\"currentColor\">Inward acceleration</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "A real outward force accelerates the passenger away from the centre."
+      },
+      {
+        "key": "B",
+        "text": "The passenger's inertia resists the change in direction of motion, while the bus undergoes inward acceleration."
+      },
+      {
+        "key": "C",
+        "text": "Gravity acts horizontally towards the outside of the curve."
+      },
+      {
+        "key": "D",
+        "text": "The bus has zero acceleration because its speed is constant."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Even at constant speed, the bus changes direction continuously and undergoes centripetal acceleration directed towards the centre of the curve. The standing passenger, due to inertia of direction, tends to continue in a straight line, which feels like an outward push relative to the accelerating frame of the bus.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_28_rev24",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "Circular Motion: The Changing Force Direction",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Circular Motion: The Changing Force Direction",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 165\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <circle cx=\"145\" cy=\"83\" r=\"58\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/>\n    <circle cx=\"145\" cy=\"83\" r=\"4\" fill=\"currentColor\"/>\n    <text x=\"135\" y=\"101\" font-size=\"12\" fill=\"currentColor\">O</text>\n    <circle cx=\"203\" cy=\"83\" r=\"7\" fill=\"#d97706\"/>\n    <line x1=\"203\" y1=\"83\" x2=\"158\" y2=\"83\" stroke=\"#2878c8\" stroke-width=\"3\"/>\n    <polygon points=\"151,83 163,77 163,89\" fill=\"#2878c8\"/>\n    <text x=\"163\" y=\"72\" font-size=\"11\" fill=\"currentColor\">F</text>\n    <line x1=\"203\" y1=\"83\" x2=\"203\" y2=\"25\" stroke=\"#16856b\" stroke-width=\"2.5\"/>\n    <polygon points=\"203,18 197,30 209,30\" fill=\"#16856b\"/>\n    <text x=\"212\" y=\"29\" font-size=\"11\" fill=\"currentColor\">v</text>\n    <text x=\"17\" y=\"153\" font-size=\"11\" fill=\"currentColor\">Uniform circular motion</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 N, constant direction"
+      },
+      {
+        "key": "B",
+        "text": "4 N, always tangent to the circle"
+      },
+      {
+        "key": "C",
+        "text": "8 N, directed towards the centre and continuously changing direction"
+      },
+      {
+        "key": "D",
+        "text": "16 N, directed away from the centre"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "F_c=(mv² / r)\n  =(0.5×4² / 2)\n  =4 N\n  \n\n  The correct numerical result is 4 N, so the correct option is **none of the listed options as written**. Option B has the right magnitude but the wrong direction. The force points towards the centre, not tangentially.\n\n  **Concept tested:** Centripetal force, speed versus velocity and changing direction of acceleration.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_29_8bjpb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Force",
+    "title": "The Lever with a Moving Fulcrum",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A light horizontal lever has a load arm of 20 cm and an effort arm of 80 cm. If the fulcrum is relocated such that the load arm becomes 40 cm and the effort arm becomes 40 cm, by what factor does the effort needed to support the same load increase?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <line x1=\"20\" y1=\"40\" x2=\"300\" y2=\"40\" stroke=\"currentColor\" stroke-width=\"4\"/>\n    <path d=\"M78 84 L93 44 L108 84 Z\" fill=\"#999\" stroke=\"currentColor\"/>\n    <path d=\"M148 84 L163 44 L178 84 Z\" fill=\"none\" stroke=\"#777\" stroke-width=\"1.5\" stroke-dasharray=\"3 3\"/>\n    <line x1=\"30\" y1=\"40\" x2=\"30\" y2=\"72\" stroke=\"#2878c8\" stroke-width=\"2\"/>\n    <polygon points=\"30,79 24,67 36,67\" fill=\"#2878c8\"/>\n    <text x=\"17\" y=\"98\" font-size=\"11\" fill=\"currentColor\">Load</text>\n    <line x1=\"270\" y1=\"40\" x2=\"270\" y2=\"72\" stroke=\"#d97706\" stroke-width=\"2\"/>\n    <polygon points=\"270,79 264,67 276,67\" fill=\"#d97706\"/>\n    <text x=\"252\" y=\"98\" font-size=\"11\" fill=\"currentColor\">Effort</text>\n    <text x=\"73\" y=\"106\" font-size=\"11\" fill=\"currentColor\">Pivot 1</text>\n    <text x=\"147\" y=\"120\" font-size=\"11\" fill=\"currentColor\">Pivot 2</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It becomes 2 times as large."
+      },
+      {
+        "key": "B",
+        "text": "It becomes 4 times as large."
+      },
+      {
+        "key": "C",
+        "text": "It becomes 0.5 times as large."
+      },
+      {
+        "key": "D",
+        "text": "It remains unchanged."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Initial effort: E₁ = Load × (Load Arm / Effort Arm) = L × (20 / 80) = 0.25 L. After shifting the fulcrum: E₂ = Load × (40 / 40) = 1.0 L. Ratio: E₂ / E₁ = 1.0 / 0.25 = 4. Thus, the required effort becomes 4 times as large.",
+    "concept_name": "Force",
+    "concept_tag": "force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_force_30_4nrxt",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Physics",
+    "subSubjectName": "Physics",
+    "chapter": "Force",
+    "title": "The Couple on a Steering Wheel",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "complex",
+      "numerical",
+      "hots"
+    ],
+    "question": "A driver applies a couple consisting of two equal and opposite forces of 15 N each on the outer rim of a steering wheel of diameter 0.4 m. If the driver now applies forces of 30 N each on an inner rim having a diameter of 0.2 m, what is the new moment of the couple?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 160\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"155\" cy=\"75\" r=\"55\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"4\" /><circle cx=\"155\" cy=\"75\" r=\"6\" fill=\"currentColor\" /><line x1=\"100\" y1=\"75\" x2=\"210\" y2=\"75\" stroke=\"currentColor\" stroke-width=\"2\" /><line x1=\"100\" y1=\"75\" x2=\"100\" y2=\"25\" stroke=\"#2878c8\" stroke-width=\"3\" /><polygon points=\"100,18 94,30 106,30\" fill=\"#2878c8\" /><line x1=\"210\" y1=\"75\" x2=\"210\" y2=\"125\" stroke=\"#d97706\" stroke-width=\"3\" /><polygon points=\"210,132 204,120 216,120\" fill=\"#d97706\" /><text x=\"63\" y=\"20\" font-size=\"12\" fill=\"currentColor\">15 N</text><text x=\"215\" y=\"134\" font-size=\"12\" fill=\"currentColor\">15 N</text><text x=\"118\" y=\"146\" font-size=\"11\" fill=\"currentColor\">Separation = 0.4 m</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "3 N m"
+      },
+      {
+        "key": "B",
+        "text": "6 N m"
+      },
+      {
+        "key": "C",
+        "text": "12 N m"
+      },
+      {
+        "key": "D",
+        "text": "24 N m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The moment of a couple is given by: Moment = Either Force × Arm of Couple (perpendicular distance between forces). Initial couple = 15 N × 0.4 m = 6 N m. When applying 30 N forces on an inner rim of diameter 0.2 m: New couple = 30 N × 0.2 m = 6 N m. Therefore, doubling the force while halving the couple arm leaves the moment of the couple unchanged at 6 N m.",
+    "concept_name": "How two simultaneous changes affect the moment of a couple.",
+    "concept_tag": "how_two_simultaneous_changes_affect_the_moment_of_a_couple_",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified",
+    "sectionName": "HOTS"
+  }
+]

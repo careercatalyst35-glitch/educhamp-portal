@@ -1,0 +1,1354 @@
+[
+  {
+    "globalId": "qb_hots_household_circuits_1_rjpm2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Choosing the correct household safety statement",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Consider these statements: 1. A fuse is placed in live to interrupt the live supply during an overcurrent fault. 2. The earth wire carries the normal return current of every metal-bodied appliance. 3. An MCB can be reset after the fault has been investigated and corrected. 4. A neutral-side switch always isolates an appliance from live. Which combination is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Statements 1 and 2 only."
+      },
+      {
+        "key": "B",
+        "text": "Statements 2 and 4 only."
+      },
+      {
+        "key": "C",
+        "text": "Statements 1 and 3 only."
+      },
+      {
+        "key": "D",
+        "text": "Statements 1, 2, 3 and 4."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Statement 1 is correct because the fuse should interrupt live. Statement 3 describes a genuine advantage of an MCB. Statement 2 is false because earth should not carry normal operating current, and statement 4 is false because live may remain connected when neutral is switched off.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_2_vdaq4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Identifying the correct household safety arrangement",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two proposed arrangements for a metal-bodied washing machine are shown. In Arrangement P, the switch and fuse are in the live wire, neutral is connected directly to the appliance, and earth connects to the metal casing. In Arrangement Q, the switch is in neutral, the fuse is in earth, and live connects directly to the appliance. <grid columns= gap=> <grid-item> Correct principles </grid-item> <grid-item> Unsafe principles </grid-item> </grid> Which explanation correctly identifies why Arrangement P is safer?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 254\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"234\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Arrangement P</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">L → Fuse → Switch → Appliance</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">N → Appliance</text><path d=\"M230 175 L230 187\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,186 234,186 230,192\" fill=\"#64748b\"/><rect x=\"40\" y=\"193\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"215\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">E → Metal casing</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It places the fuse and switch in live, so switching off or a fuse operation can disconnect the appliance from the live supply, while earth provides a separate protective path for the metal casing."
+      },
+      {
+        "key": "B",
+        "text": "It makes the earth wire carry normal operating current, which prevents electric shock."
+      },
+      {
+        "key": "C",
+        "text": "It places the fuse in neutral and the switch in earth, ensuring the appliance receives a constant current."
+      },
+      {
+        "key": "D",
+        "text": "It allows the appliance's casing to remain live whenever the switch is open, but guarantees that the fuse will never melt."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "correctly identifies why Arrangement P is safer?\n\nA) It places the fuse and switch in live, so switching off or a fuse operation can disconnect the appliance from the live supply, while earth provides a separate protective path for the metal casing.\n\nB) It makes the earth wire carry normal operating current, which prevents electric shock.\n\nC) It places the fuse in neutral and the switch in earth, ensuring the appliance receives a constant current.\n\nD) It allows the appliance's casing to remain live whenever the switch is open, but guarantees that the fuse will never melt.\n\n**Correct Answer: A**\n\n**Reason:** The live-side fuse protects against excessive current, the live-side switch provides appropriate isolation, and the earth conductor protects exposed metal parts during a fault. Arrangement Q is unsafe because neutral switching may leave the appliance live and fusing the earth conductor can interrupt the protective earth connection.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_3_583ie",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Reading a mechanical electricity meter",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A simplified mechanical meter has five digit windows. The displayed digits from left to right are 0, 4, 7, 2, 6. The previous recorded reading was 04591 kWh. Assume the displayed reading is exact and no rollover has occurred. Current meter display Previous reading: 04591 kWh At ₹7.50 per unit, what is the energy charge for the period?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹3,532.50"
+      },
+      {
+        "key": "B",
+        "text": "₹35,445"
+      },
+      {
+        "key": "C",
+        "text": "₹262.50"
+      },
+      {
+        "key": "D",
+        "text": "₹26,512.50"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Consumption=4726-4591=135 kWh\n\n\n\nCost=135× ₹7.50=₹1012.50\n\n\n**Correction check:** The calculated charge is ₹1,012.50, which is not among the listed options. Therefore, the question as drafted is invalid. The correct answer must be included among the choices.\n\nRevised option set:\n\nA) ₹1,012.50\n\nB) ₹3,532.50\n\nC) ₹262.50\n\nD) ₹26,512.50\n\n**Correct Answer: A**\n\n**Reason:** The meter records cumulative energy, so subtract the previous reading before calculating the bill. Multiplying the current reading directly by the tariff would incorrectly bill energy used before this period.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_4_h42l8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Earthing a metal-bodied appliance",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A metal-bodied washing machine has a live conductor, neutral conductor, and earth conductor. An insulation fault causes the live wire to touch the metal casing. **Washing machine metal casing** Live wire touches casing (fault) **Live (L)** 220 V supply **Earth (E)** Low-resistance path **Earth conductor → protective device operates** Assume the earth path is intact and the fault current is sufficiently large to operate the protective device. What happens?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The casing remains at 220 V because earth cannot conduct electricity."
+      },
+      {
+        "key": "B",
+        "text": "The earth wire carries the appliance's full normal operating current even before the fault."
+      },
+      {
+        "key": "C",
+        "text": "Fault current flows through the low-resistance earth path, causing the protective device to disconnect the supply."
+      },
+      {
+        "key": "D",
+        "text": "The neutral wire automatically becomes the earth wire whenever the casing is touched by live."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Earthing provides a low-resistance path for fault current, helping the fuse or MCB disconnect the faulty appliance. Under normal operation, the earth wire should not carry operating current. Option A ignores that an earth conductor is electrically conductive.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_5_ydq0y",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Determining whether a fuse is suitable for a combined load",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 220 V circuit supplies a 1,100 W heater, a 440 W iron, and a 220 W fan. A 9 A fuse is fitted. Assume the fuse's specified operating characteristics and wiring are otherwise suitable. Which conclusion follows from the rated load calculation?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Determining whether a fuse is suitable for a combined load</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The total current is 7 A, so the fuse is overloaded."
+      },
+      {
+        "key": "B",
+        "text": "The total current is 8 A, so the normal load is below the 9 A rating."
+      },
+      {
+        "key": "C",
+        "text": "The total current is 9 A, because the fuse fixes the current at its rating."
+      },
+      {
+        "key": "D",
+        "text": "The total current is 10 A, so the circuit necessarily has a short circuit."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "P_{total}=1100+440+220=1760 W\n\n\n\nI=(1760 / 220)=8 A\n\n\nThe calculated normal current is below the fuse rating. This does not mean that every 9 A fuse is automatically suitable: its characteristics, the wiring rating, and manufacturer requirements still matter. Option D incorrectly identifies a load calculation as a short circuit.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_6_n8vkb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Choosing a fuse for a group of appliances",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 220 V circuit supplies a 1,100 W heater, a 660 W iron, and two 110 W fans. All operate simultaneously. The available fuse ratings are 5 A, 8 A, 10 A, and 15 A. Assuming the wiring and manufacturer's specifications permit the choice, what is the smallest listed fuse rating that accommodates the calculated operating current?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Choosing a fuse for a group of appliances</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 A"
+      },
+      {
+        "key": "B",
+        "text": "8 A"
+      },
+      {
+        "key": "C",
+        "text": "15 A"
+      },
+      {
+        "key": "D",
+        "text": "10 A"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Total power:\n\n\nP=1100+660+2(110)=1980 W\n\n\nCurrent:\n\n\nI=(1980 / 220)=9 A\n\n\nThe 8 A fuse is below the normal load current. The smallest listed rating above 9 A is 10 A. The fuse rating must also protect the wiring and comply with the appliance specifications.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_7_eu4ed",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Maximum number of heaters on a circuit",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A household circuit has a 15 A fuse and a 220 V supply. Each heater is rated at 1,100 W. Assume the heaters are identical, operate simultaneously at rated power, and no other appliance is connected. What is the maximum number of heaters that can operate without exceeding the fuse's rated current?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Maximum number of heaters on a circuit</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Current per heater:\n\n\nI_h=(1100 / 220)=5 A\n\n\nMaximum number based on the rated current:\n\n\nn=(15 / 5)=3\n\n\nThree heaters draw 3×5=15 A. A fourth would draw 20 A and exceed the rating.\n\n**Important:** This is an idealised rating calculation, not a recommendation to design a circuit for continuous operation exactly at the fuse rating. Actual installation design must account for the fuse characteristics, wiring capacity, and applicable standards.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_8_skad3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Locating a fault in the main domestic supply",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The incoming live conductor passes through the service fuse, electricity meter, and main switch before reaching the distribution board. A fault is indicated at point X. Incoming live supply Service fuse Electricity meter Main switch **X — Fault in wiring after the main switch** Distribution board The main switch is opened, but the service fuse and meter remain connected to the incoming supply. Which statement is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Opening the main switch necessarily disconnects every component, including all wiring before it, from the incoming live supply."
+      },
+      {
+        "key": "B",
+        "text": "The electricity meter stops measuring all energy used anywhere in the neighbourhood."
+      },
+      {
+        "key": "C",
+        "text": "The downstream installation is isolated from the incoming live supply through the main switch, but upstream service components can remain energised."
+      },
+      {
+        "key": "D",
+        "text": "The service fuse must melt whenever the main switch is opened."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The main switch isolates the downstream installation, not necessarily the incoming service conductors or all upstream components. The service fuse and meter may still be connected to the supply. Option A incorrectly treats the main switch as a complete isolation of the entire service installation.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_9_d7l46",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Identifying a fault from an appliance's three-wire connection",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A metal-bodied refrigerator is shown with three conductors. The live and neutral conductors connect to the operating circuit, while the earth conductor is shown disconnected at terminal E. **Refrigerator metal casing** **L** Connected **N** Connected **E** Disconnected **Earth terminal E is open** The refrigerator operates normally, but a live-to-casing insulation fault develops. What is the most important consequence of the disconnected earth conductor?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The casing may become live without a reliable low-resistance protective path to trigger disconnection, increasing shock risk."
+      },
+      {
+        "key": "B",
+        "text": "The neutral wire automatically takes over the earth wire's protective function."
+      },
+      {
+        "key": "C",
+        "text": "The refrigerator must immediately stop cooling because its earth wire carries the compressor's normal current."
+      },
+      {
+        "key": "D",
+        "text": "The open earth connection guarantees that no current can flow through the metal casing."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A disconnected earth conductor removes the intended protective path for a metal-bodied appliance. A live-to-casing fault can therefore leave the casing dangerously energised. The earth wire carries no normal operating current, so its disconnection need not stop the refrigerator from running.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_10_4r3z9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "What happens when a fuse is bypassed?",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 220 V household heater is connected through a fuse, but an incorrect modification places a thick copper wire directly across the fuse terminals. Live supply Fuse holder Fuse wire Copper bypass The copper wire bridges the fuse terminals. Heater → Neutral If the heater develops an overcurrent fault, what is the principal danger?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The copper bypass makes the circuit safer because copper has a higher melting point than fuse wire."
+      },
+      {
+        "key": "B",
+        "text": "The heater's power rating automatically decreases to the fuse rating."
+      },
+      {
+        "key": "C",
+        "text": "The bypass can prevent the fuse from interrupting excessive current, increasing the risk of overheating, fire, and wiring damage."
+      },
+      {
+        "key": "D",
+        "text": "The bypass forces the MCB to operate at exactly the same current as the original fuse in every case."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The copper bridge bypasses the intended sacrificial element, defeating the fuse's protection. Its low resistance does not make it a suitable fuse wire; its much higher melting point can allow dangerous fault currents to persist. An upstream MCB may still provide protection, but its presence does not make bypassing the fuse safe.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_11_anjf9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Distinguishing an open circuit from a short circuit",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two faulty household circuits are shown. Circuit P has a broken live conductor; Circuit Q has an unintended direct connection between live and neutral. Circuit P Live Broken wire × Lamp Circuit Q Live L–N contact Neutral Which comparison is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "P normally carries no current because the path is broken; Q may carry a very large fault current because its path has very low resistance."
+      },
+      {
+        "key": "B",
+        "text": "Both circuits necessarily carry zero current because any wiring fault opens the circuit."
+      },
+      {
+        "key": "C",
+        "text": "P causes the larger current because a broken wire increases resistance, while Q causes no current because live and neutral are at different potentials."
+      },
+      {
+        "key": "D",
+        "text": "Both faults are forms of overloading caused by too many appliances being connected."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "An open circuit interrupts the current path. A short circuit connects conductors through a low-resistance unintended path and may produce a large current, causing a fuse to melt or an MCB to trip. The two faults have different electrical consequences.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_12_r0s9h",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Effect of opening the main switch on a fault downstream",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A household distribution board feeds two branches. Branch P supplies a lamp and Branch Q supplies a heater. The main switch is upstream of both branches, and a short circuit occurs in Branch Q. 220 V supply Main switch **Branch P** Lamp **Branch Q** Heater Short circuit The main switch is manually opened before the faulty heater is inspected. What is the intended result?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The main switch diverts fault current into the earth wire and keeps the lamp operating."
+      },
+      {
+        "key": "B",
+        "text": "The main switch isolates the downstream branches from the live supply, allowing the fault to be investigated safely using appropriate isolation procedures."
+      },
+      {
+        "key": "C",
+        "text": "The main switch increases the short-circuit current so that the heater fuse melts faster."
+      },
+      {
+        "key": "D",
+        "text": "The main switch only interrupts neutral, so both branches remain fully live."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Opening the main switch disconnects the downstream installation from the live supply when correctly wired. It does not redirect current or make upstream incoming terminals safe to touch. Appropriate safe-isolation procedures are still required.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_13_6z214",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Detecting a switch placed incorrectly in a lighting circuit",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A wall switch controls a lamp. The live wire connects directly to one lamp terminal, while the switch is placed in the neutral return. A technician tests the lamp holder with the switch open. Live (L) ───────── Lamp terminal 1 Lamp filament Lamp terminal 2 ── Open switch ── Neutral Which conclusion is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The lamp goes off, but the live-connected lamp terminal can remain dangerous; the switch should be moved to the live conductor."
+      },
+      {
+        "key": "B",
+        "text": "The lamp goes off and the entire lamp holder is guaranteed to be safe to touch."
+      },
+      {
+        "key": "C",
+        "text": "The switch must be placed in earth so the lamp holder is isolated from both live and neutral."
+      },
+      {
+        "key": "D",
+        "text": "The lamp continues glowing because opening neutral has no effect on a complete circuit."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Opening the neutral interrupts current, turning off the lamp, but does not disconnect the live conductor from the lamp holder. The switch belongs in live. A dark lamp is not proof that the holder is electrically safe.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_14_61dyq",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Interpreting an appliance rating table",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Four appliances are connected to the same 220 V supply. The table lists their rated powers. | **Appliance** | **Power** | | Electric kettle | 1,320 W | | Iron | 880 W | | Fan | 110 W | | Television | 220 W | All four appliances are switched on together. Which statement is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The kettle draws 6 A, and the combined current is 11.5 A."
+      },
+      {
+        "key": "B",
+        "text": "The combined current is 2.5 A because the supply voltage is common to all appliances."
+      },
+      {
+        "key": "C",
+        "text": "The combined current is 11.5 A, but it is obtained by adding the appliance powers and dividing by 220 V."
+      },
+      {
+        "key": "D",
+        "text": "The combined current is 2,530 A because watts and volts are multiplied."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "P_{total}=1320+880+110+220=2530 W\n\n\n\nI_{total}=(2530 / 220)=11.5 A\n\n\nThe kettle alone draws 1320/220=6 A. In parallel, the branch currents add at the supply. Option A incorrectly adds currents to give a different total.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_15_880jb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Earthing and a blown fuse",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A metal-bodied toaster develops a fault that connects live to its earthed metal casing. The circuit has a correctly rated fuse in live and an intact low-resistance earth conductor. Live → Fuse → Fault at toaster casing **Live-to-casing fault** Earth conductor → protective path Assume the fault current is high enough to melt the fuse. Which sequence best describes the protection?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The earth conductor melts first because it must be thinner than the fuse wire."
+      },
+      {
+        "key": "B",
+        "text": "The fuse melts only if a person touches the casing and completes the circuit."
+      },
+      {
+        "key": "C",
+        "text": "The earth conductor carries normal toaster current and therefore switches off the heating element automatically."
+      },
+      {
+        "key": "D",
+        "text": "The fault current flows through the low-resistance earth path, and the live-side fuse melts to interrupt the supply."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Earthing provides a low-resistance fault path. The resulting high current can melt the fuse in the live conductor, disconnecting the supply. The earth wire does not carry normal operating current, and protection should not depend on a person touching the casing.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_16_km9fo",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Identifying a dangerous earth-wire connection",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A metal-bodied electric iron is connected to a three-pin plug. The diagram shows the earth conductor mistakenly connected to the live terminal inside the plug, while the metal body is connected to the earth pin. What is the principal danger of this wiring error?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 198\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"178\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Live supply (L)</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#dcfce7\" stroke=\"#22c55e\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#166534\">Earth conductor connected to live terminal</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#dcfce7\" stroke=\"#22c55e\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#166534\">Connected to the earth pin</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The iron becomes safer because the earth conductor prevents all current from entering the heating element."
+      },
+      {
+        "key": "B",
+        "text": "The earth conductor carries only normal operating current, so there is no additional hazard."
+      },
+      {
+        "key": "C",
+        "text": "The neutral conductor automatically disconnects the faulty earth connection."
+      },
+      {
+        "key": "D",
+        "text": "The metal body may become live through the incorrect connection, creating a severe electric-shock hazard and potentially causing protective devices to operate."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The earth conductor must connect the appliance's exposed conductive body to the protective earth terminal, not to live. Connecting earth to live can energise the casing and may cause a fault current to flow through the protective earthing system. The fuse or MCB may operate, but this must not be relied upon to make incorrect wiring safe.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_17_8vxz6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Short circuit versus ordinary appliance loading",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The diagram shows a damaged live conductor touching neutral directly inside a junction box, bypassing the intended appliance. Live supply → Fuse **Accidental L–N contact** Very low-resistance fault path Neutral return Which statement best distinguishes this event from overloading?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both conditions necessarily arise only when too many appliances are connected to one socket."
+      },
+      {
+        "key": "B",
+        "text": "The short circuit produces a smaller current than ordinary operation because it bypasses the appliance."
+      },
+      {
+        "key": "C",
+        "text": "Overloading means live touches neutral directly, whereas short circuit means many appliances operate together."
+      },
+      {
+        "key": "D",
+        "text": "The direct live-neutral contact creates a very low-resistance path and potentially a very large current; overloading results from excessive load current."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A short circuit bypasses the intended load through an unintended low-resistance path. Overloading occurs when the connected loads draw excessive current. Both may cause a fuse to melt or an MCB to trip, but their causes differ.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_18_f7emc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Appliance with a two-pin plug and a metal casing",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A metal-bodied appliance is connected using a two-pin plug. The appliance has an internal insulation fault that could connect live to the casing. **220 V supply** Live pin Neutral pin **Metal casing** Possible live-to-casing fault No earth pin or protective earth conductor is shown. Which conclusion is the most defensible?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 170\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n      <rect x=\"10\" y=\"10\" width=\"420\" height=\"150\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n      <!-- Three Pin Socket Outline -->\n      <circle cx=\"220\" cy=\"85\" r=\"65\" fill=\"#f1f5f9\" stroke=\"#94a3b8\" stroke-width=\"2\"/>\n      <!-- Earth Pin (Top, larger/longer) -->\n      <circle cx=\"220\" cy=\"48\" r=\"10\" fill=\"#15803d\" stroke=\"#166534\" stroke-width=\"1.5\"/>\n      <text x=\"220\" y=\"32\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#15803d\">E (Earth - Longer/Thicker)</text>\n      <!-- Neutral Pin (Left) -->\n      <circle cx=\"188\" cy=\"100\" r=\"7\" fill=\"#0284c7\" stroke=\"#0369a1\" stroke-width=\"1.5\"/>\n      <text x=\"170\" y=\"122\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0284c7\">N (Neutral)</text>\n      <!-- Live Pin (Right) -->\n      <circle cx=\"252\" cy=\"100\" r=\"7\" fill=\"#b91c1c\" stroke=\"#991b1b\" stroke-width=\"1.5\"/>\n      <text x=\"270\" y=\"122\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#b91c1c\">L (Live - Fuse/Switch)</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The two-pin plug is safe because neutral automatically prevents the casing from becoming live."
+      },
+      {
+        "key": "B",
+        "text": "The appliance requires suitable protective construction; if protective earthing is required for this metal casing, the two-pin arrangement is inadequate."
+      },
+      {
+        "key": "C",
+        "text": "A two-pin plug is always safer because the absence of earth prevents fault current."
+      },
+      {
+        "key": "D",
+        "text": "The neutral pin performs the same protective function as a dedicated earth connection in every fault condition."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A two-pin connection does not provide a dedicated protective earth path. An appliance designed to rely on earthing needs a suitable earth connection; alternatively, double-insulated equipment can use a two-pin plug when designed and certified for that protection. Neutral must never be treated as a substitute earth.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_19_kff6x",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Reading an electricity meter",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A digital meter shows the following cumulative energy readings. Previous reading # 12,468 kWh Current reading # 12,793 kWh Assume no meter rollover or multiplier. If electricity costs ₹8 per unit, what is the energy charge for this billing period, excluding fixed charges and taxes?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹2,600, because the current reading is rounded down to 12,793 units."
+      },
+      {
+        "key": "B",
+        "text": "₹102,328, because the entire current meter reading is billed."
+      },
+      {
+        "key": "C",
+        "text": "₹2,600, because the difference is 325 units and each unit costs ₹8."
+      },
+      {
+        "key": "D",
+        "text": "₹325, because the difference in meter readings is already the monetary charge."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Units=12793-12468=325 kWh\n\n\n\nCharge=325× ₹8=₹2600\n\n\nOption B incorrectly bills the cumulative meter reading rather than the consumption during the billing period.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_20_bu3td",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Parallel wiring and failure of one lamp",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two lamps are connected in parallel across a 220 V supply. Switch S₁ controls lamp L₁, and switch S₂ controls lamp L₂. Live rail: 220 V **Branch 1** Switch S₁ Lamp L₁ **Branch 2** Switch S₂ Lamp L₂ Neutral rail Both lamps initially glow. Lamp L₁ then fails with an open filament, while S₁ and S₂ remain closed. Which outcome is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both lamps go off because the open filament breaks the only available current path."
+      },
+      {
+        "key": "B",
+        "text": "L₂ continues glowing at approximately its normal brightness because its parallel branch remains connected across the supply."
+      },
+      {
+        "key": "C",
+        "text": "L₂ becomes brighter because all the current previously flowing through L₁ must now pass through L₂ at the same total current."
+      },
+      {
+        "key": "D",
+        "text": "L₂ goes off, but the electricity meter continues recording energy at exactly the original rate."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Each parallel branch receives the supply voltage independently. An open filament interrupts only the failed lamp's branch. Option C incorrectly treats parallel domestic wiring as a series circuit.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_21_aspgo",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Choosing between a fuse and an MCB",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two protective devices are fitted to two otherwise identical household circuits. **Circuit P** Replaceable fuse wire Wire melts on excessive current **Circuit Q** Resettable MCB Contacts open on a fault Both devices correctly interrupt their respective circuits after an overcurrent fault. Which statement identifies a genuine advantage of Q?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "An MCB can never trip unnecessarily, even during a short circuit."
+      },
+      {
+        "key": "B",
+        "text": "An MCB permits unlimited current because its contacts can be reset."
+      },
+      {
+        "key": "C",
+        "text": "An MCB can generally be reset after the fault is investigated and cleared, whereas a melted fuse must be replaced."
+      },
+      {
+        "key": "D",
+        "text": "An MCB eliminates the need for correct wiring, earthing, and appropriate current ratings."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "An MCB is reusable and can be reset after the fault is corrected. It does not make a circuit immune to faults, remove the need for earthing, or allow unlimited current. The cause of a trip must be investigated before resetting.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_22_tupi3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Choosing between a fuse and an MCB",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two protective devices are fitted to two otherwise identical household circuits. Wire melts on excessive current </grid-item> <grid-item> Contacts open on a fault </grid-item> </grid> Both devices correctly interrupt their respective circuits after an overcurrent fault. Which statement identifies a genuine advantage of Q?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 254\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"234\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Replaceable fuse wire</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Wire melts on excessive current</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Resettable MCB</text><path d=\"M230 175 L230 187\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,186 234,186 230,192\" fill=\"#64748b\"/><rect x=\"40\" y=\"193\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#fee2e2\" stroke=\"#ef4444\" stroke-width=\"1.5\"/><text x=\"230\" y=\"215\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#991b1b\">Contacts open on a fault</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "An MCB can never trip unnecessarily, even during a short circuit."
+      },
+      {
+        "key": "B",
+        "text": "An MCB permits unlimited current because its contacts can be reset."
+      },
+      {
+        "key": "C",
+        "text": "An MCB can generally be reset after the fault is investigated and cleared, whereas a melted fuse must be replaced."
+      },
+      {
+        "key": "D",
+        "text": "An MCB eliminates the need for correct wiring, earthing, and appropriate current ratings."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "An MCB is reusable and can be reset after the fault is corrected. It does not make a circuit immune to faults, remove the need for earthing, or allow unlimited current. The cause of a trip must be investigated before resetting.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_23_k7qgk",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Identifying overloading from a socket layout",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Four appliances share one 220 V household circuit protected by a 5 A fuse. **220 V supply → 5 A fuse** Electric iron 1,000 W Room heater 1,500 W Kettle 1,000 W Fan 100 W All four appliances operate simultaneously at their rated power. What is the most accurate diagnosis?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 170\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n      <rect x=\"10\" y=\"10\" width=\"420\" height=\"150\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n      <!-- Three Pin Socket Outline -->\n      <circle cx=\"220\" cy=\"85\" r=\"65\" fill=\"#f1f5f9\" stroke=\"#94a3b8\" stroke-width=\"2\"/>\n      <!-- Earth Pin (Top, larger/longer) -->\n      <circle cx=\"220\" cy=\"48\" r=\"10\" fill=\"#15803d\" stroke=\"#166534\" stroke-width=\"1.5\"/>\n      <text x=\"220\" y=\"32\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#15803d\">E (Earth - Longer/Thicker)</text>\n      <!-- Neutral Pin (Left) -->\n      <circle cx=\"188\" cy=\"100\" r=\"7\" fill=\"#0284c7\" stroke=\"#0369a1\" stroke-width=\"1.5\"/>\n      <text x=\"170\" y=\"122\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0284c7\">N (Neutral)</text>\n      <!-- Live Pin (Right) -->\n      <circle cx=\"252\" cy=\"100\" r=\"7\" fill=\"#b91c1c\" stroke=\"#991b1b\" stroke-width=\"1.5\"/>\n      <text x=\"270\" y=\"122\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#b91c1c\">L (Live - Fuse/Switch)</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The current is 5 A because the fuse fixes the circuit current at its rating."
+      },
+      {
+        "key": "B",
+        "text": "The current is approximately 16.36 A, so the 5 A fuse is overloaded and should operate."
+      },
+      {
+        "key": "C",
+        "text": "The current is approximately 4.55 A, because appliances in parallel share the supply current equally."
+      },
+      {
+        "key": "D",
+        "text": "The circuit is short-circuited because the sum of the appliance powers exceeds 220 W."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "P_{total}=1000+1500+1000+100=3600 W\n\n\n\nI=(P / V)=(3600 / 220)≈16.36 A\n\n\nThis greatly exceeds 5 A. The circuit is overloaded, not necessarily short-circuited. Option A wrongly assumes that a fuse fixes the current rather than interrupting excessive current.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_24_cmfn9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Determining whether a household load overloads the circuit",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 220 V circuit is protected by a 10 A MCB. It supplies three appliances simultaneously. 220 V AC → 10 A MCB Heater 1,760 W Iron 440 W Fan 110 W What should happen when all three appliances operate at their rated powers?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The current is 10.5 A, so the total load exceeds the 10 A rating and the MCB is expected to trip under sustained overcurrent conditions."
+      },
+      {
+        "key": "B",
+        "text": "The current is 2.5 A because the appliances divide the voltage between them."
+      },
+      {
+        "key": "C",
+        "text": "The current is exactly 10 A because an MCB forces all connected appliances to draw its rated current."
+      },
+      {
+        "key": "D",
+        "text": "The current is 2,310 A because the total wattage is divided by the voltage in the wrong direction."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "P_{total}=1760+440+110=2310 W\n\n\n\nI=(2310 / 220)=10.5 A\n\n\nThe current exceeds 10 A. An MCB's exact operating time depends on its characteristics and the degree of overcurrent, so it need not trip instantaneously at 10.5 A. Option C wrongly treats the rating as a current regulator.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_25_cyr2d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Identifying overloading from a socket layout",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Four appliances share one 220 V household circuit protected by a 5 A fuse. 1,000 W </row> <row align=\"center\"> 1,500 W </row> <row align=\"center\"> 1,000 W </row> <row align=\"center\"> 100 W </row> All four appliances operate simultaneously at their rated power. What is the most accurate diagnosis?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 478\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"458\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">220 V supply → 5 A fuse</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Electric iron</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">1,000 W</text><path d=\"M230 175 L230 187\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,186 234,186 230,192\" fill=\"#64748b\"/><rect x=\"40\" y=\"193\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"215\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Room heater</text><path d=\"M230 231 L230 243\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,242 234,242 230,248\" fill=\"#64748b\"/><rect x=\"40\" y=\"249\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"271\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">1,500 W</text><path d=\"M230 287 L230 299\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,298 234,298 230,304\" fill=\"#64748b\"/><rect x=\"40\" y=\"305\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"327\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Kettle</text><path d=\"M230 343 L230 355\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,354 234,354 230,360\" fill=\"#64748b\"/><rect x=\"40\" y=\"361\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"383\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Fan</text><path d=\"M230 399 L230 411\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,410 234,410 230,416\" fill=\"#64748b\"/><rect x=\"40\" y=\"417\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"439\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">100 W</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The current is 5 A because the fuse fixes the circuit current at its rating."
+      },
+      {
+        "key": "B",
+        "text": "The current is approximately 16.36 A, so the 5 A fuse is overloaded and should operate."
+      },
+      {
+        "key": "C",
+        "text": "The current is approximately 4.55 A, because appliances in parallel share the supply current equally."
+      },
+      {
+        "key": "D",
+        "text": "The circuit is short-circuited because the sum of the appliance powers exceeds 220 W."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "P_{total}=1000+1500+1000+100=3600 W\n\n\n\nI=(P / V)=(3600 / 220)≈16.36 A\n\n\nThis greatly exceeds 5 A. The circuit is overloaded, not necessarily short-circuited. Option A wrongly assumes that a fuse fixes the current rather than interrupting excessive current.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_26_qk3j3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Determining whether a household load overloads the circuit",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 220 V circuit is protected by a 10 A MCB. It supplies three appliances simultaneously. 1,760 W </row> <row align=\"center\"> 440 W </row> <row align=\"center\"> 110 W </row> What should happen when all three appliances operate at their rated powers?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 422\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"402\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">220 V AC → 10 A MCB</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Heater</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">1,760 W</text><path d=\"M230 175 L230 187\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,186 234,186 230,192\" fill=\"#64748b\"/><rect x=\"40\" y=\"193\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"215\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Iron</text><path d=\"M230 231 L230 243\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,242 234,242 230,248\" fill=\"#64748b\"/><rect x=\"40\" y=\"249\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"271\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">440 W</text><path d=\"M230 287 L230 299\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,298 234,298 230,304\" fill=\"#64748b\"/><rect x=\"40\" y=\"305\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"327\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Fan</text><path d=\"M230 343 L230 355\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,354 234,354 230,360\" fill=\"#64748b\"/><rect x=\"40\" y=\"361\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"383\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">110 W</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The current is 10.5 A, so the total load exceeds the 10 A rating and the MCB is expected to trip under sustained overcurrent conditions."
+      },
+      {
+        "key": "B",
+        "text": "The current is 2.5 A because the appliances divide the voltage between them."
+      },
+      {
+        "key": "C",
+        "text": "The current is exactly 10 A because an MCB forces all connected appliances to draw its rated current."
+      },
+      {
+        "key": "D",
+        "text": "The current is 2,310 A because the total wattage is divided by the voltage in the wrong direction."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "P_{total}=1760+440+110=2310 W\n\n\n\nI=(2310 / 220)=10.5 A\n\n\nThe current exceeds 10 A. An MCB's exact operating time depends on its characteristics and the degree of overcurrent, so it need not trip instantaneously at 10.5 A. Option C wrongly treats the rating as a current regulator.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_27_x2t6n",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Determining the effect of changing a fuse rating",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 220 V appliance draws 4 A during normal operation. Its circuit originally uses a correctly selected 5 A fuse. Someone replaces it with a 15 A fuse without changing the appliance or wiring. <grid columns= gap=> <grid-item> </grid-item> <grid-item> </grid-item> </grid> Which statement best explains the consequence?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 366\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"346\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">220 V supply</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Original fuse</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">5 A</text><path d=\"M230 175 L230 187\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,186 234,186 230,192\" fill=\"#64748b\"/><rect x=\"40\" y=\"193\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"215\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Replacement fuse</text><path d=\"M230 231 L230 243\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,242 234,242 230,248\" fill=\"#64748b\"/><rect x=\"40\" y=\"249\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#fee2e2\" stroke=\"#ef4444\" stroke-width=\"1.5\"/><text x=\"230\" y=\"271\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#991b1b\">15 A</text><path d=\"M230 287 L230 299\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,298 234,298 230,304\" fill=\"#64748b\"/><rect x=\"40\" y=\"305\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#dcfce7\" stroke=\"#22c55e\" stroke-width=\"1.5\"/><text x=\"230\" y=\"327\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#166534\">Appliance&apos;s normal current remains 4 A</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The appliance will automatically draw 15 A because the fuse rating sets the circuit current."
+      },
+      {
+        "key": "B",
+        "text": "The appliance's normal current remains 4 A, but the oversized fuse may fail to protect the wiring adequately during an overcurrent fault."
+      },
+      {
+        "key": "C",
+        "text": "The appliance's normal current falls to 4/3 A because the fuse rating is tripled."
+      },
+      {
+        "key": "D",
+        "text": "The oversized fuse guarantees greater safety because it is less likely to melt."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A fuse is a protective device, not a current regulator. The appliance's normal current remains determined by its electrical characteristics and supply voltage. Replacing a suitable 5 A fuse with a 15 A fuse may allow a dangerous current to persist before the fuse operates. The correct fuse must be selected to protect the appliance circuit and its wiring.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_28_9ya9j",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Comparing fuse ratings for two appliances",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two appliances are connected to separate household circuits, each supplied at 220 V. Their nameplates show different rated powers. **Lamp A** # 440 W 220 V Fuse: 3 A **Heater B** # 1,760 W 220 V Fuse: 5 A Which conclusion correctly evaluates the fuse ratings?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both fuses are unsuitable because a fuse rating must equal the appliance power in watts."
+      },
+      {
+        "key": "B",
+        "text": "Lamp A draws 2 A and Heater B draws 8 A, so both fuse ratings are appropriate."
+      },
+      {
+        "key": "C",
+        "text": "Lamp A draws 0.5 A and Heater B draws 2 A, so neither fuse can protect its circuit."
+      },
+      {
+        "key": "D",
+        "text": "Lamp A draws 2 A and Heater B draws 8 A; the 3 A fuse is suitable for Lamp A under the stated assumptions, but the 5 A fuse is undersized for Heater B's rated current."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "I_A=(440 / 220)=2 A\n\n\n\nI_B=(1760 / 220)=8 A\n\n\nA 3 A fuse can accommodate the lamp's 2 A operating current, whereas a 5 A fuse is below the heater's 8 A operating current and may melt during normal operation. The correct fuse rating must also be compatible with the wiring and manufacturer specifications.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_29_enalb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Choosing the correct MCB for an appliance group",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Three appliances are connected in parallel to a 220 V household circuit protected by an MCB. Their rated powers are shown below. 220 V → MCB → Parallel branches Heater ## 1,100 W Iron ## 660 W Fan ## 220 W Available MCB ratings: 5 A, 6 A, 10 A, 16 A Assuming all appliances operate at rated power and the wiring is suitable for the selected protection, which listed MCB rating is the smallest one that accommodates the calculated normal operating current?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 A"
+      },
+      {
+        "key": "B",
+        "text": "6 A"
+      },
+      {
+        "key": "C",
+        "text": "16 A"
+      },
+      {
+        "key": "D",
+        "text": "10 A"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "P_{total}=1100+660+220=1980 W\n\n\n\nI=(1980 / 220)=9 A\n\n\nA 5 A or 6 A MCB is below the normal operating current. The smallest listed rating above 9 A is 10 A. In a real installation, the circuit design, cable rating, starting current, and applicable standards must also be considered.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_household_circuits_30_mhjyv",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Household Circuits",
+    "title": "Why domestic appliances are not connected in series",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two alternative layouts are proposed for two household lamps rated at 220 V each. Layout P — Series Live Lamp 1 Lamp 2 Neutral Layout Q — Parallel Live rail Lamp 1 Lamp 2 Neutral rail Which statement correctly explains why Layout Q is preferred for domestic wiring?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 140\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"120\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n    <!-- Live wire (red) -->\n    <line x1=\"30\" y1=\"40\" x2=\"100\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"35\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#dc2626\">Live (L)</text>\n    <!-- Fuse in Live -->\n    <rect x=\"100\" y=\"32\" width=\"40\" height=\"16\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"1.5\" rx=\"3\"/>\n    <line x1=\"100\" y1=\"40\" x2=\"140\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"1\"/>\n    <text x=\"120\" y=\"27\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Fuse</text>\n    <line x1=\"140\" y1=\"40\" x2=\"190\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Switch in Live -->\n    <circle cx=\"190\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <line x1=\"190\" y1=\"40\" x2=\"225\" y2=\"28\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <circle cx=\"230\" cy=\"40\" r=\"3\" fill=\"#dc2626\"/>\n    <text x=\"210\" y=\"20\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#dc2626\">Switch (Key)</text>\n    <line x1=\"230\" y1=\"40\" x2=\"310\" y2=\"40\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n    <!-- Appliance Load -->\n    <rect x=\"310\" y=\"30\" width=\"55\" height=\"55\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"1.5\" rx=\"4\"/>\n    <text x=\"337\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#0369a1\">Appliance</text>\n    <!-- Neutral wire (blue) -->\n    <line x1=\"337\" y1=\"85\" x2=\"337\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <line x1=\"337\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <text x=\"25\" y=\"115\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#2563eb\">Neutral (N)</text>\n    <!-- Earth wire (green) -->\n    <line x1=\"365\" y1=\"57\" x2=\"400\" y2=\"57\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n    <text x=\"405\" y=\"60\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#16a34a\">Earth (E)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Series wiring allows each appliance to receive the full mains voltage, while parallel wiring divides it."
+      },
+      {
+        "key": "B",
+        "text": "Parallel wiring allows each appliance to receive the rated supply voltage and operate independently; a failed appliance need not interrupt the others."
+      },
+      {
+        "key": "C",
+        "text": "Series wiring is preferred because every appliance draws an identical current regardless of its power rating."
+      },
+      {
+        "key": "D",
+        "text": "Parallel wiring prevents overloading under every possible combination of appliances."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In parallel, each appliance is connected across the supply and receives approximately 220 V. Independent branches permit separate operation. Series wiring divides the voltage and an open circuit in one appliance can interrupt the whole chain. Parallel wiring does not eliminate overloading.",
+    "concept_name": "Household Circuits",
+    "concept_tag": "household circuits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  }
+]

@@ -1,0 +1,2252 @@
+[
+  {
+    "globalId": "qb_case_machines_1_ef9fa4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 1: Electrician's Side-Cutting Pliers",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrician uses heavy-duty lineman's pliers to shear through a thick 4.0 mm solid copper wire. The pliers measure 20 cm in total length, with the central pivot pin located 2.5 cm from the cutting blades and 17.5 cm from the grip handles. The electrician squeezes the handles with an effort of 150 N. **Investigative Question:** What is the mechanical advantage (MA) and the cutting force exerted on the copper wire, assuming 100% efficiency? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "MA = 7.0; Cutting force = 1050 N"
+      },
+      {
+        "key": "B",
+        "text": "MA = 0.143; Cutting force = 21.4 N"
+      },
+      {
+        "key": "C",
+        "text": "MA = 8.0; Cutting force = 1200 N"
+      },
+      {
+        "key": "D",
+        "text": "MA = 3.5; Cutting force = 525 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Pliers are a Class I lever with the fulcrum between the effort and the load. Effort arm = 17.5 cm, Load arm = 2.5 cm. Mechanical Advantage MA = Effort arm / Load arm = 17.5 / 2.5 = 7.0. Cutting force (Load) = Effort × MA = 150 N × 7.0 = 1050 N. Because the effort arm is much longer than the load arm (MA > 1), pliers act as a powerful force multiplier.",
+    "concept_name": "Class I Lever as a Force Multiplier",
+    "concept_tag": "machines case based class i lever as a force multiplier",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ef9fa45f1e3ee13d5b2cbe5f47c83e9de511f5dfba9761e8f3855a85d4273ae7",
+    "question_skeleton": "case scenario an electrician uses heavy duty lineman s pliers to shear through a thick 4 0 mm solid copper wire the pliers measure 20 cm in total length with the central pivot pin located 2 5 cm from the cutting blades and 17 5 cm from the grip handles the electrician squeezes the handles with an effort of 150 n investigative question what is the mechanical advantage ma and the cutting force exerted on the copper wire assuming 100 efficiency choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_2_6a6182",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 2: Metal-Cutting Shears vs Tailor's Paper Scissors",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a vocational workshop, students compare two cutting tools: Tool A (tinman's metal shears) with short blades of length 4 cm and long handles of length 24 cm; and Tool B (tailor's fabric shears) with long blades of length 20 cm and short handles of length 5 cm. **Investigative Question:** What are the mechanical functions and classifications of Tool A and Tool B? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tool A is a force multiplier (MA = 6.0 > 1); Tool B is a speed/distance multiplier (MA = 0.25 < 1); both are Class I levers."
+      },
+      {
+        "key": "B",
+        "text": "Tool A is a speed multiplier; Tool B is a force multiplier; both are Class II levers."
+      },
+      {
+        "key": "C",
+        "text": "Tool A is a Class II lever; Tool B is a Class III lever."
+      },
+      {
+        "key": "D",
+        "text": "Both tools have MA = 1 and serve only to change the direction of force."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both tools have their fulcrum (pivot pin) between the load and effort, making them Class I levers. In Tool A (metal shears), Effort arm (24 cm) > Load arm (4 cm), so MA = 24/4 = 6.0 > 1 (force multiplier needed to shear tough metal). In Tool B (tailor's scissors), Effort arm (5 cm) < Load arm (20 cm), so MA = 5/20 = 0.25 < 1, but VR = 0.25 (speed multiplier: a small movement of fingers produces a large, rapid cut in cloth).",
+    "concept_name": "Effort Arm to Load Arm Design Ratios",
+    "concept_tag": "machines case based effort arm to load arm design ratios",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6a618237089dc8677e95b12a95c31ca6518c0e9b882d3707ecf8f1a8e9f2f82f",
+    "question_skeleton": "case scenario in a vocational workshop students compare two cutting tools tool a tinman s metal shears with short blades of length 4 cm and long handles of length 24 cm and tool b tailor s fabric shears with long blades of length 20 cm and short handles of length 5 cm investigative question what are the mechanical functions and classifications of tool a and tool b choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_3_3b4597",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 3: Quarry Crowbar Dislodging a Heavy Granite Block",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A stonemason uses a heavy steel crowbar of total length 1.5 m to pry up a granite slab weighing 3600 N. The mason rests the crowbar on a small wooden block acting as a fulcrum placed 15 cm (0.15 m) from the tip wedged under the slab, leaving an effort arm of 1.35 m. **Investigative Question:** What minimum downward effort must the mason exert at the free end to lift the slab? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "400 N"
+      },
+      {
+        "key": "B",
+        "text": "266.7 N"
+      },
+      {
+        "key": "C",
+        "text": "600 N"
+      },
+      {
+        "key": "D",
+        "text": "360 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a Class I lever: Load × Load arm = Effort × Effort arm. Load = 3600 N, Load arm = 0.15 m, Effort arm = 1.50 - 0.15 = 1.35 m. Effort = (Load × Load arm) / Effort arm = (3600 N × 0.15 m) / 1.35 m = 540 / 1.35 = 400 N. The crowbar provides a mechanical advantage of 1.35 / 0.15 = 9.0.",
+    "concept_name": "Class I Lever with Movable Fulcrum",
+    "concept_tag": "machines case based class i lever with movable fulcrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3b459788313e1f1d56852a6f847670ed64bf23724579098d0f9715afb942d736",
+    "question_skeleton": "case scenario a stonemason uses a heavy steel crowbar of total length 1 5 m to pry up a granite slab weighing 3600 n the mason rests the crowbar on a small wooden block acting as a fulcrum placed 15 cm 0 15 m from the tip wedged under the slab leaving an effort arm of 1 35 m investigative question what minimum downward effort must the mason exert at the free end to lift the slab choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_4_fc06b9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 4: Heavy Claw Hammer Extracting a Timber Spike",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A carpenter uses a claw hammer to pull a 75 mm nail from an oak beam. The curved head acts as a pivot located 3.5 cm from the nail claw. The carpenter pulls the handle perpendicularly at a point 28 cm from the pivot, applying an effort of 70 N. **Investigative Question:** What is the mechanical advantage of the hammer and the extracting force exerted on the nail? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "MA = 8.0; Extracting force = 560 N"
+      },
+      {
+        "key": "B",
+        "text": "MA = 0.125; Extracting force = 8.75 N"
+      },
+      {
+        "key": "C",
+        "text": "MA = 4.0; Extracting force = 280 N"
+      },
+      {
+        "key": "D",
+        "text": "MA = 10.0; Extracting force = 700 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The claw hammer functions as a Class I lever with the fulcrum at the curved head contact point. Effort arm = 28 cm, Load arm = 3.5 cm. MA = Effort arm / Load arm = 28 / 3.5 = 8.0. Pulling force on nail (Load) = Effort × MA = 70 N × 8.0 = 560 N.",
+    "concept_name": "Curved Head Fulcrum Mechanics",
+    "concept_tag": "machines case based curved head fulcrum mechanics",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "fc06b99e3677cbad838065d6e4757e511e15eada524feed46f176f71626413f2",
+    "question_skeleton": "case scenario a carpenter uses a claw hammer to pull a 75 mm nail from an oak beam the curved head acts as a pivot located 3 5 cm from the nail claw the carpenter pulls the handle perpendicularly at a point 28 cm from the pivot applying an effort of 70 n investigative question what is the mechanical advantage of the hammer and the extracting force exerted on the nail choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_5_f5334a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 5: Symmetrical Playground Seesaw",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Two children of equal mass 30 kg sit on opposite seats of a uniform playground seesaw of length 3.0 m pivoted exactly at its central midpoint (taking g = 10 m/s²). **Investigative Question:** What is the class of lever, the mechanical advantage, and the primary function of this machine? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Class I lever; MA = 1; neither multiplies force nor speed, but balances equal loads at equal distances."
+      },
+      {
+        "key": "B",
+        "text": "Class II lever; MA > 1; acts as a force multiplier."
+      },
+      {
+        "key": "C",
+        "text": "Class III lever; MA < 1; acts as a speed multiplier."
+      },
+      {
+        "key": "D",
+        "text": "Class I lever; MA = 2; doubles the weight of each child."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A seesaw has its fulcrum between the load and the effort (Class I lever). Because the fulcrum is at the exact center, Effort arm = Load arm = 1.5 m. Mechanical Advantage MA = 1.5 / 1.5 = 1.0, and Velocity Ratio VR = 1.0. It neither multiplies force nor speed, but serves as a balanced oscillating beam.",
+    "concept_name": "Class I Lever with MA = 1",
+    "concept_tag": "machines case based class i lever with ma = 1",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f5334a5a6d766be712129c478d92675f6ecf60bc99ae0f3b6fb4a9b50abe7ac3",
+    "question_skeleton": "case scenario two children of equal mass 30 kg sit on opposite seats of a uniform playground seesaw of length 3 0 m pivoted exactly at its central midpoint taking g 10 m s investigative question what is the class of lever the mechanical advantage and the primary function of this machine choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_6_4a498a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 6: Rowing Scull Oar Action in Water",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An Olympic rower pulls the handle of an oar with a stroke displacement of 0.40 m inside the boat. The oar pivots about the rowlock on the boat's gunwale. The inboard handle length from rowlock to hands is 0.80 m, while the outboard shaft from rowlock to blade tip in the water is 2.40 m. **Investigative Question:** What is the velocity ratio (VR) of the oar and the displacement of the blade tip in the water? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR = 0.333; Blade tip moves 1.20 m (speed multiplier)"
+      },
+      {
+        "key": "B",
+        "text": "VR = 3.0; Blade tip moves 0.133 m (force multiplier)"
+      },
+      {
+        "key": "C",
+        "text": "VR = 1.0; Blade tip moves 0.40 m"
+      },
+      {
+        "key": "D",
+        "text": "VR = 0.50; Blade tip moves 0.80 m"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The oar pivoted at the rowlock operates as a Class I lever (rowlock is fulcrum, hands apply effort, water resistance at blade is load). Effort arm = 0.80 m, Load arm = 2.40 m. Velocity Ratio VR = d_effort / d_load = Effort arm / Load arm = 0.80 / 2.40 = 1/3 ≈ 0.333. Displacement of blade = d_effort / VR = 0.40 / (1/3) = 1.20 m. Moving the hands 0.40 m drives the blade through 1.20 m, acting as a powerful speed multiplier.",
+    "concept_name": "Class I Lever as a Speed Multiplier",
+    "concept_tag": "machines case based class i lever as a speed multiplier",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4a498a7a12e8cab42b9a152d2d825ab0c43de1153815509a54b6f5fa8f59faac",
+    "question_skeleton": "case scenario an olympic rower pulls the handle of an oar with a stroke displacement of 0 40 m inside the boat the oar pivots about the rowlock on the boat s gunwale the inboard handle length from rowlock to hands is 0 80 m while the outboard shaft from rowlock to blade tip in the water is 2 40 m investigative question what is the velocity ratio vr of the oar and the displacement of the blade tip in the water choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_7_635e30",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 7: Anatomy of the Human Head Nodding Motion",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In human biomechanics, nodding the head forward and backward is analyzed as a lever system. The atlanto-occipital joint at the base of the skull serves as the fulcrum. The weight of the facial skull (acting downward through its center of gravity in front of the joint) represents the load, while the posterior neck extensor muscles (splenius capitis) pulling downward at the back of the skull provide the effort. **Investigative Question:** Which class of lever does the human head nodding mechanism represent? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Class I Lever, because the fulcrum (joint) lies between the load (face) and the effort (neck muscles)."
+      },
+      {
+        "key": "B",
+        "text": "Class II Lever, because the facial skull lies in the middle."
+      },
+      {
+        "key": "C",
+        "text": "Class III Lever, because the neck muscles insert between the joint and the face."
+      },
+      {
+        "key": "D",
+        "text": "It is not a lever because biological systems do not obey the Principle of Moments."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In the nodding head, the atlanto-occipital joint acts as the fulcrum F, situated between the facial weight (Load L in front) and the contraction of the neck extensor muscles (Effort E behind). Since the fulcrum lies between the load and the effort, it is a textbook example of a Class I lever in human anatomy.",
+    "concept_name": "Class I Anatomical Lever",
+    "concept_tag": "machines case based class i anatomical lever",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "635e3084ea214acc816b43256df924c07472e5547c64d365ac4b46f847db6679",
+    "question_skeleton": "case scenario in human biomechanics nodding the head forward and backward is analyzed as a lever system the atlanto occipital joint at the base of the skull serves as the fulcrum the weight of the facial skull acting downward through its center of gravity in front of the joint represents the load while the posterior neck extensor muscles splenius capitis pulling downward at the back of the skull provide the effort investigative question which class of lever does the human head nodding mechanism represent choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_8_cb1876",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "The Nutcracker",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "A nutcracker has an effort arm of 12 cm and a load arm of 4 cm. If an effort of 30 N is applied at the outer handles, what crushing force (load) is exerted on the nut located between the jaws?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10 N"
+      },
+      {
+        "key": "B",
+        "text": "30 N"
+      },
+      {
+        "key": "C",
+        "text": "60 N"
+      },
+      {
+        "key": "D",
+        "text": "90 N"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For an ideal Class II lever: Load × Load Arm = Effort × Effort Arm. Load × 4 cm = 30 N × 12 cm => Load × 4 = 360 => Load = 360 / 4 = 90 N.",
+    "concept_name": "Class II Lever Force Multiplication",
+    "concept_tag": "machines case based class ii lever force multiplication",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "cb1876cf72e507ecce62515501b75b401f2f9780370a27612b4988604bed20d9",
+    "question_skeleton": "case scenario a person uses a solid metal nutcracker of length 18 cm to crack a hard walnut the walnut is placed in the crushing teeth located 3 0 cm from the end hinge pivot the person squeezes the handle grips at a distance of 15 cm from the hinge with an effort of 60 n investigative question what is the mechanical advantage of the nutcracker and the crushing force exerted on the walnut choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_9_d53830",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "The Load on a Wheelbarrow",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "A load of 200 N is carried in a wheelbarrow at a distance of 0.4 m from the wheel axle (fulcrum). If the effort is applied vertically upwards at a distance of 1.2 m from the axle, what is the minimum effort required to lift the load?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "40 N"
+      },
+      {
+        "key": "B",
+        "text": "66.7 N"
+      },
+      {
+        "key": "C",
+        "text": "100 N"
+      },
+      {
+        "key": "D",
+        "text": "600 N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By the principle of moments for a Class II lever: Effort × Effort Arm = Load × Load Arm. Effort × 1.2 m = 200 N × 0.4 m => Effort × 1.2 = 80 => Effort = 80 / 1.2 = 66.7 N.",
+    "concept_name": "Class II Lever with Load Between Fulcrum and Effort",
+    "concept_tag": "machines case based class ii lever with load between fulcrum and effort",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d538302cb60108971f51c9a3b2ad32a52b8dbb396ba582955f39c176b6c29a95",
+    "question_skeleton": "case scenario a gardener transports 60 kg of wet soil in a single wheeled wheelbarrow the wheel axle acts as the fulcrum the center of gravity of the loaded soil bucket is located 40 cm horizontally from the wheel axle the gardener lifts the handles at a horizontal distance of 120 cm from the wheel axle taking g 10 m s investigative question what upward lifting effort must the gardener exert on the handles to support the wheelbarrow choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_10_9f9e83",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "The Bottle Opener",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "A bottle opener of length 10 cm is used to open a bottle cap requiring a lifting force of 120 N. If the cap is situated at 2.0 cm from the fulcrum, what minimum effort must be applied at the end of the handle?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "12 N"
+      },
+      {
+        "key": "B",
+        "text": "24 N"
+      },
+      {
+        "key": "C",
+        "text": "60 N"
+      },
+      {
+        "key": "D",
+        "text": "600 N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By the principle of moments: Effort × Effort Arm = Load × Load Arm. Effort × 10 cm = 120 N × 2 cm => Effort × 10 = 240 => Effort = 240 / 10 = 24 N.",
+    "concept_name": "Class II Lever Mechanics",
+    "concept_tag": "machines case based class ii lever mechanics",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9f9e834e0d479b00ae2c5992a102d3fd1281fbc3a6e67bdee2ffa85a589edbd4",
+    "question_skeleton": "case scenario a restaurant server opens a glass soda bottle using a standard metal crown bottle opener of length 12 cm the curved tip of the opener rests firmly on the center of the bottle cap acting as the fulcrum the hook catches under the metal crimped edge 1 5 cm from the tip load and the server lifts the outer handle 10 5 cm from the fulcrum with an effort of 20 n investigative question what is the mechanical advantage of the bottle opener and the upward prying force applied to the cap edge choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_11_ad1288",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 11: Printing Shop Paper Guillotine Cutter",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A print shop uses a manual paper guillotine to trim thick reams of paper. The heavy steel blade is hinged at one end to the wooden cutting base. The paper ream is clamped 10 cm from the hinge, and the operator presses down on the handle grip located 60 cm from the hinge with an effort of 80 N. **Investigative Question:** What is the mechanical advantage and the shearing force delivered onto the paper ream? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "MA = 6.0; Shearing force = 480 N"
+      },
+      {
+        "key": "B",
+        "text": "MA = 0.167; Shearing force = 13.3 N"
+      },
+      {
+        "key": "C",
+        "text": "MA = 7.0; Shearing force = 560 N"
+      },
+      {
+        "key": "D",
+        "text": "MA = 5.0; Shearing force = 400 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The paper guillotine is a Class II lever because the load (paper ream being sheared) lies between the fulcrum (end hinge) and the effort (operator's hand on handle). Effort arm = 60 cm, Load arm = 10 cm. MA = 60 / 10 = 6.0. Shearing force = Effort × MA = 80 N × 6.0 = 480 N.",
+    "concept_name": "Class II Industrial Lever",
+    "concept_tag": "machines case based class ii industrial lever",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ad12889a9b556b8713595ffea2439694a9f829fc4b1b63303ebf954fab5c2f84",
+    "question_skeleton": "case scenario a print shop uses a manual paper guillotine to trim thick reams of paper the heavy steel blade is hinged at one end to the wooden cutting base the paper ream is clamped 10 cm from the hinge and the operator presses down on the handle grip located 60 cm from the hinge with an effort of 80 n investigative question what is the mechanical advantage and the shearing force delivered onto the paper ream choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_12_f226e6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 12: Kitchen Citrus Lemon Squeezer",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chef uses a handheld cast aluminum lemon squeezer. The squeezer has a perforated bowl hinged to a pressing lever. The half-lemon is placed in the bowl 4.0 cm from the hinge pivot. The chef squeezes the handles together at a distance of 16 cm from the hinge with a force of 50 N. **Investigative Question:** What is the crushing force applied to extract juice from the lemon? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "200 N"
+      },
+      {
+        "key": "B",
+        "text": "12.5 N"
+      },
+      {
+        "key": "C",
+        "text": "250 N"
+      },
+      {
+        "key": "D",
+        "text": "150 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A lemon squeezer is a Class II lever: the fulcrum is at the hinge pin, the load (lemon in bowl) is in the middle, and the effort is applied at the handles. Effort arm = 16 cm, Load arm = 4.0 cm. MA = 16 / 4 = 4.0. Crushing force on lemon = Effort × MA = 50 N × 4.0 = 200 N.",
+    "concept_name": "Class II Lever Design",
+    "concept_tag": "machines case based class ii lever design",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f226e6f7f1dcba96d17343460f842872ac2777d62d298fb8feb3f78c2e5edb4b",
+    "question_skeleton": "case scenario a chef uses a handheld cast aluminum lemon squeezer the squeezer has a perforated bowl hinged to a pressing lever the half lemon is placed in the bowl 4 0 cm from the hinge pivot the chef squeezes the handles together at a distance of 16 cm from the hinge with a force of 50 n investigative question what is the crushing force applied to extract juice from the lemon choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_13_a718bf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 13: Biomechanical Analysis of Raising on the Ball of the Foot",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** When a person of weight W = 600 N stands on tiptoe, the ball of the foot in contact with the floor acts as the fulcrum. The entire weight of the body acts downward through the tibia at the ankle joint located 12 cm from the ball of the foot. The powerful calf muscle (gastrocnemius) pulls upward on the heel bone (calcaneus) via the Achilles tendon located 18 cm from the ball of the foot. **Investigative Question:** Which class of lever does this motion represent, and what muscular tension must the Achilles tendon exert? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Class II Lever; Achilles tendon tension = 400 N"
+      },
+      {
+        "key": "B",
+        "text": "Class III Lever; Achilles tendon tension = 900 N"
+      },
+      {
+        "key": "C",
+        "text": "Class I Lever; Achilles tendon tension = 600 N"
+      },
+      {
+        "key": "D",
+        "text": "Class II Lever; Achilles tendon tension = 600 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The fulcrum F is at the ball of the foot. The load L (body weight through tibia ankle joint, 12 cm) is in the middle. The effort E (Achilles tendon pulling upward at heel, 18 cm) is at the opposite end. Because the load is between the fulcrum and the effort, it is a Class II lever. By Principle of Moments: Effort × 18 cm = 600 N × 12 cm => Effort = 7200 / 18 = 400 N.",
+    "concept_name": "Class II Anatomical Lever",
+    "concept_tag": "machines case based class ii anatomical lever",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a718bf9cd37a1c7f8947e35fab89bdc536d1613b055a9fa1a73cbb31fd655bdc",
+    "question_skeleton": "case scenario when a person of weight w 600 n stands on tiptoe the ball of the foot in contact with the floor acts as the fulcrum the entire weight of the body acts downward through the tibia at the ankle joint located 12 cm from the ball of the foot the powerful calf muscle gastrocnemius pulls upward on the heel bone calcaneus via the achilles tendon located 18 cm from the ball of the foot investigative question which class of lever does this motion represent and what muscular tension must the achilles tendon exert choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_14_b966dd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 14: Sugar Tongs Gripping a Sugar Cube",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A pair of spring-steel sugar tongs of length 15 cm is joined at the rear end. A user squeezes the sides with their thumb and forefinger at a distance of 5.0 cm from the joined end to pick up a sugar cube held between the front claw tips (15 cm from the joined end). **Investigative Question:** What is the class of lever, the mechanical advantage, and the function of the sugar tongs? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Class III Lever; MA = 0.333 (< 1); serves to gain distance/reach and delicate handling, not force."
+      },
+      {
+        "key": "B",
+        "text": "Class II Lever; MA = 3.0 (> 1); serves as a force multiplier."
+      },
+      {
+        "key": "C",
+        "text": "Class I Lever; MA = 1.0; changes the direction of force."
+      },
+      {
+        "key": "D",
+        "text": "Class III Lever; MA = 3.0; multiplies both force and speed simultaneously."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In sugar tongs, the fulcrum F is at the joined rear end. The effort E (fingers squeezing) is applied in the middle (5.0 cm), while the load L (sugar cube at tip, 15 cm) is at the far end. Because the effort lies between the fulcrum and the load, it is a Class III lever. Effort arm = 5.0 cm, Load arm = 15 cm. MA = 5.0 / 15 = 0.333 (< 1). In all Class III levers, MA < 1; they act as distance/speed multipliers.",
+    "concept_name": "Class III Lever Speed/Distance Multiplier",
+    "concept_tag": "machines case based class iii lever speed/distance multiplier",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b966dd849e7de85c97d8e0aaa1e5eda91ce3c637de3577d2aba1cfe5c2d453aa",
+    "question_skeleton": "case scenario a pair of spring steel sugar tongs of length 15 cm is joined at the rear end a user squeezes the sides with their thumb and forefinger at a distance of 5 0 cm from the joined end to pick up a sugar cube held between the front claw tips 15 cm from the joined end investigative question what is the class of lever the mechanical advantage and the function of the sugar tongs choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_15_da1be9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 15: Laboratory Dissection Forceps Handling Delicate Specimens",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A biology student uses fine-tipped tweezers (forceps) of length 12 cm to place an insect wing on a microscope slide. The student presses the spring arms with an effort of 2.0 N at a point 4.0 cm from the fused rear hinge. **Investigative Question:** What gripping force is exerted at the tips on the specimen, assuming ideal elasticity? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.667 N"
+      },
+      {
+        "key": "B",
+        "text": "6.0 N"
+      },
+      {
+        "key": "C",
+        "text": "2.0 N"
+      },
+      {
+        "key": "D",
+        "text": "4.0 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Forceps are a Class III lever: Fulcrum at the rear fused hinge, Effort applied in the middle (Effort arm = 4.0 cm), and Load at the tips (Load arm = 12 cm). Mechanical Advantage MA = Effort arm / Load arm = 4.0 / 12 = 1/3 ≈ 0.333. Gripping force (Load) = Effort × MA = 2.0 N × (1/3) ≈ 0.667 N. The reduced force allows delicate specimen manipulation without crushing.",
+    "concept_name": "Class III Lever in Precision Instruments",
+    "concept_tag": "machines case based class iii lever in precision instruments",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "da1be9e1631232d78dd6ab92f63bd7a1552b479ad9fcc74ce6a14d0018ab8ef5",
+    "question_skeleton": "case scenario a biology student uses fine tipped tweezers forceps of length 12 cm to place an insect wing on a microscope slide the student presses the spring arms with an effort of 2 0 n at a point 4 0 cm from the fused rear hinge investigative question what gripping force is exerted at the tips on the specimen assuming ideal elasticity choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_16_9eb39d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 16: Human Forearm in Bicep Curl Exercise",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An athlete holds a 12 kg dumbbell in their palm with the forearm horizontal. The elbow joint acts as the fulcrum. The dumbbell is positioned 36 cm from the elbow. The biceps muscle tendon attaches to the radial tuberosity 4.0 cm from the elbow joint. Neglecting forearm weight and taking g = 10 m/s². **Investigative Question:** What class of lever does the forearm represent, and what upward tensile force must the biceps muscle exert? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Class III Lever; Biceps tension = 1080 N"
+      },
+      {
+        "key": "B",
+        "text": "Class I Lever; Biceps tension = 120 N"
+      },
+      {
+        "key": "C",
+        "text": "Class II Lever; Biceps tension = 13.3 N"
+      },
+      {
+        "key": "D",
+        "text": "Class III Lever; Biceps tension = 120 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The elbow joint is the fulcrum F. The effort E (biceps pulling up) is applied in the middle at 4.0 cm. The load L (dumbbell, 120 N) is at the hand at 36 cm. Since the effort lies between the fulcrum and the load, the forearm is a Class III lever. Effort × Effort arm = Load × Load arm => Effort × 4.0 cm = 120 N × 36 cm => Effort = 4320 / 4.0 = 1080 N. MA = 4/36 = 1/9 (< 1); the biceps sacrifices force to gain speed and range of hand movement.",
+    "concept_name": "Class III Biomechanical Lever",
+    "concept_tag": "machines case based class iii biomechanical lever",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9eb39d29f67b703f43f9860645bc47b5b5408832b36c003f105dd922ce7a5456",
+    "question_skeleton": "case scenario an athlete holds a 12 kg dumbbell in their palm with the forearm horizontal the elbow joint acts as the fulcrum the dumbbell is positioned 36 cm from the elbow the biceps muscle tendon attaches to the radial tuberosity 4 0 cm from the elbow joint neglecting forearm weight and taking g 10 m s investigative question what class of lever does the forearm represent and what upward tensile force must the biceps muscle exert choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_17_7b1af6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 17: Angler Casting with a Long Carbon-Fiber Fishing Rod",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A sport fisherman casts a lure using a 3.0-meter carbon-fiber fishing rod. The fisherman's lower hand on the rod butt acts as a stationary pivot (fulcrum). The upper hand applies a forward casting effort at a point 0.50 m above the butt, moving forward through a distance of 0.30 m in 0.10 seconds. **Investigative Question:** What is the velocity ratio (VR) and the tip speed of the rod during the cast? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR = 0.167; Tip speed = 18 m/s (speed multiplier)"
+      },
+      {
+        "key": "B",
+        "text": "VR = 6.0; Tip speed = 0.5 m/s (force multiplier)"
+      },
+      {
+        "key": "C",
+        "text": "VR = 1.0; Tip speed = 3.0 m/s"
+      },
+      {
+        "key": "D",
+        "text": "VR = 0.50; Tip speed = 6.0 m/s"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The fishing rod is a Class III lever: Fulcrum at butt end, Effort applied in the middle (0.50 m), and Load (lure at tip, 3.0 m) at the far end. VR = Effort arm / Load arm = 0.50 / 3.0 = 1/6 ≈ 0.167. Tip displacement = d_effort / VR = 0.30 / (1/6) = 1.80 m. Tip velocity = 1.80 m / 0.10 s = 18 m/s. The rod drastically multiplies speed, launching the lure at high velocity.",
+    "concept_name": "Class III Lever as a Speed Multiplier",
+    "concept_tag": "machines case based class iii lever as a speed multiplier",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7b1af6384816cef7534a2bd98a0b98d8404bca121aa13e87b299b153e833c61b",
+    "question_skeleton": "case scenario a sport fisherman casts a lure using a 3 0 meter carbon fiber fishing rod the fisherman s lower hand on the rod butt acts as a stationary pivot fulcrum the upper hand applies a forward casting effort at a point 0 50 m above the butt moving forward through a distance of 0 30 m in 0 10 seconds investigative question what is the velocity ratio vr and the tip speed of the rod during the cast choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_18_66e2fa",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 18: Gardener Tossing Soil with a Long-Handled Shovel",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A gardener scoops 80 N of wet earth onto a shovel. The upper hand at the end of the 1.2 m shaft acts as a stationary pivot (fulcrum). The lower hand lifts upward at the midpoint of the shaft, 0.60 m from the top hand, while the soil rests in the blade at the far end (1.20 m from the top hand). **Investigative Question:** What upward effort must the lower hand exert, and what class of lever is this? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Class III Lever; Effort = 160 N"
+      },
+      {
+        "key": "B",
+        "text": "Class II Lever; Effort = 40 N"
+      },
+      {
+        "key": "C",
+        "text": "Class I Lever; Effort = 80 N"
+      },
+      {
+        "key": "D",
+        "text": "Class III Lever; Effort = 80 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The fulcrum is the upper hand. The effort is exerted in the middle by the lower hand (Effort arm = 0.60 m). The load is at the blade tip (Load arm = 1.20 m). Effort lies between fulcrum and load, so it is a Class III lever. Effort × Effort arm = Load × Load arm => Effort × 0.60 m = 80 N × 1.20 m = 96 => Effort = 96 / 0.60 = 160 N. MA = 0.60 / 1.20 = 0.5 (< 1).",
+    "concept_name": "Class III Lever Dynamics in Earthmoving",
+    "concept_tag": "machines case based class iii lever dynamics in earthmoving",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "66e2fa8824ada4d25c86b9b5fbfb350ab1958468c3540ded97f467da61353334",
+    "question_skeleton": "case scenario a gardener scoops 80 n of wet earth onto a shovel the upper hand at the end of the 1 2 m shaft acts as a stationary pivot fulcrum the lower hand lifts upward at the midpoint of the shaft 0 60 m from the top hand while the soil rests in the blade at the far end 1 20 m from the top hand investigative question what upward effort must the lower hand exert and what class of lever is this choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_19_1edb46",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 19: Domestic Floor Sweeping Broom",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A person sweeps a tiled floor using a long broom. The upper hand holding the top of the handle acts as a pivot. The lower hand exerts a sweeping force 40 cm down the handle, moving back and forth through a distance of 15 cm. The broom bristles touch the floor 120 cm from the top hand. **Investigative Question:** How far do the broom bristles sweep across the floor, and what class of lever is this? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Class III Lever; Bristles sweep 45 cm"
+      },
+      {
+        "key": "B",
+        "text": "Class I Lever; Bristles sweep 15 cm"
+      },
+      {
+        "key": "C",
+        "text": "Class II Lever; Bristles sweep 5 cm"
+      },
+      {
+        "key": "D",
+        "text": "Class III Lever; Bristles sweep 120 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The top hand is the fulcrum. The lower hand in the middle applies effort (Effort arm = 40 cm). The bristles on the floor represent the load (Load arm = 120 cm). Because effort is in the middle, it is a Class III lever. Velocity Ratio VR = Effort arm / Load arm = 40 / 120 = 1/3. Bristle sweep distance = Hand displacement / VR = 15 cm / (1/3) = 45 cm. It multiplies distance and speed for efficient sweeping.",
+    "concept_name": "Class III Lever for Rapid Floor Coverage",
+    "concept_tag": "machines case based class iii lever for rapid floor coverage",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1edb4696f7e9d0a18b6f5b2c87bb3218a25bdf566a9e78531cefe7e2f6fa9e1c",
+    "question_skeleton": "case scenario a person sweeps a tiled floor using a long broom the upper hand holding the top of the handle acts as a pivot the lower hand exerts a sweeping force 40 cm down the handle moving back and forth through a distance of 15 cm the broom bristles touch the floor 120 cm from the top hand investigative question how far do the broom bristles sweep across the floor and what class of lever is this choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_20_f2c63d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 20: Fireplace Coal Tongs Handling Hot Embers",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A homeowner uses a 40 cm pair of spring steel coal tongs to lift a glowing hot charcoal briquette weighing 10 N from a fireplace. The homeowner's hand squeezes the tongs at a point 10 cm from the rear joined pivot. **Investigative Question:** What muscular squeezing force must the homeowner exert, and why is this machine used if it does not multiply force? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Squeezing force = 40 N; used for safety and reach to keep hands away from extreme heat."
+      },
+      {
+        "key": "B",
+        "text": "Squeezing force = 2.5 N; used as a force multiplier."
+      },
+      {
+        "key": "C",
+        "text": "Squeezing force = 10 N; used only to change direction of force."
+      },
+      {
+        "key": "D",
+        "text": "Squeezing force = 100 N; used to crush the coal into powder."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Coal tongs are a Class III lever: Fulcrum at rear join, Effort in middle at 10 cm, Load at tip at 40 cm. Effort × 10 cm = 10 N × 40 cm => Effort = 400 / 10 = 40 N. MA = 10/40 = 0.25 (< 1). Although it requires 40 N of effort to lift a 10 N ember, the machine is invaluable because it extends reach by 40 cm, safely protecting the operator from burns.",
+    "concept_name": "Class III Lever for Thermal Safety",
+    "concept_tag": "machines case based class iii lever for thermal safety",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f2c63d1c205db3780856035b45bf7655da64243cfdb8ccb884dd096b8cc0cb1d",
+    "question_skeleton": "case scenario a homeowner uses a 40 cm pair of spring steel coal tongs to lift a glowing hot charcoal briquette weighing 10 n from a fireplace the homeowner s hand squeezes the tongs at a point 10 cm from the rear joined pivot investigative question what muscular squeezing force must the homeowner exert and why is this machine used if it does not multiply force choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_21_053ccd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 21: Single Fixed Pulley for Lifting Water from a Well",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A villager draws water from a 12-meter-deep well using a single fixed pulley attached to an overhead wooden beam. The bucket of water weighs 150 N. Because of axle friction and the weight of the rope, the villager must pull downward with an effort of 180 N to raise the bucket at constant speed. **Investigative Question:** What are the Velocity Ratio (VR), Mechanical Advantage (MA), and Efficiency (η) of this single fixed pulley? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR = 1; MA = 0.833; Efficiency = 83.3%"
+      },
+      {
+        "key": "B",
+        "text": "VR = 2; MA = 1.667; Efficiency = 83.3%"
+      },
+      {
+        "key": "C",
+        "text": "VR = 1; MA = 1.200; Efficiency = 120%"
+      },
+      {
+        "key": "D",
+        "text": "VR = 0.833; MA = 1.0; Efficiency = 100%"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For a single fixed pulley, the rope moves downward by the same distance that the bucket rises, so Velocity Ratio VR = d_effort / d_load = 1. Mechanical Advantage MA = Load / Effort = 150 N / 180 N = 0.833. Efficiency η = (MA / VR) × 100 = (0.833 / 1) × 100 = 83.3%. Although MA < 1, the single fixed pulley is used because it allows the operator to pull downward conveniently, using their own body weight.",
+    "concept_name": "Velocity Ratio and Direction of Effort",
+    "concept_tag": "machines case based velocity ratio and direction of effort",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "053ccdb20ccab6f6ecad26711c49790200d8e13025f5684054e34e2fa3dba647",
+    "question_skeleton": "case scenario a villager draws water from a 12 meter deep well using a single fixed pulley attached to an overhead wooden beam the bucket of water weighs 150 n because of axle friction and the weight of the rope the villager must pull downward with an effort of 180 n to raise the bucket at constant speed investigative question what are the velocity ratio vr mechanical advantage ma and efficiency of this single fixed pulley choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_22_0d9824",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 22: Single Movable Pulley on a Construction Site",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Construction workers lift a pallet of mortar weighing 400 N using a single movable pulley supported by two vertical segments of rope. The free end of the rope is pulled vertically upward. The movable pulley block itself has a mass of 4.0 kg (weight = 40 N), and rope friction accounts for another 10 N of resistance. **Investigative Question:** What is the Velocity Ratio (VR) and the actual upward effort required to lift the mortar? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR = 2; Effort = 225 N"
+      },
+      {
+        "key": "B",
+        "text": "VR = 1; Effort = 450 N"
+      },
+      {
+        "key": "C",
+        "text": "VR = 2; Effort = 200 N"
+      },
+      {
+        "key": "D",
+        "text": "VR = 4; Effort = 112.5 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a single movable pulley, when the load rises by distance x, both rope segments shorten by x, so the effort must move by 2x; thus VR = 2. Total upward tension from 2 segments must lift the load (400 N) + pulley weight (40 N) + overcome friction (10 N) = 450 N. Effort in one rope segment E = 450 N / 2 = 225 N. MA = 400 / 225 ≈ 1.78.",
+    "concept_name": "Force Multiplication with Ideal vs Real Pulley",
+    "concept_tag": "machines case based force multiplication with ideal vs real pulley",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0d98241f63b084e01db122d7235e77817e1da1afc3c909edfa70d5ce465e5b04",
+    "question_skeleton": "case scenario construction workers lift a pallet of mortar weighing 400 n using a single movable pulley supported by two vertical segments of rope the free end of the rope is pulled vertically upward the movable pulley block itself has a mass of 4 0 kg weight 40 n and rope friction accounts for another 10 n of resistance investigative question what is the velocity ratio vr and the actual upward effort required to lift the mortar choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_23_1ee17f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 23: Compound System of Three Movable Pulleys and One Fixed Pulley",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An engineer rigs a heavy-lift mechanism consisting of n = 3 movable pulleys, each suspended from an overhead ceiling by its own separate cord, with the final cord passing over a single fixed pulley to allow downward pulling. The load L = 1600 N is attached to the lowest movable pulley. **Investigative Question:** Assuming an ideal system (frictionless with negligible pulley weight), what is the Velocity Ratio (VR) and the required effort E? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR = 8 (2³); Effort = 200 N"
+      },
+      {
+        "key": "B",
+        "text": "VR = 6 (2 × 3); Effort = 266.7 N"
+      },
+      {
+        "key": "C",
+        "text": "VR = 4; Effort = 400 N"
+      },
+      {
+        "key": "D",
+        "text": "VR = 16 (2⁴); Effort = 100 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a system with n movable pulleys each connected to separate cords, each movable pulley halves the effort required. The velocity ratio is given by VR = 2^n. For n = 3: VR = 2³ = 8. In an ideal system (η = 100%, MA = VR = 8): Effort E = Load / VR = 1600 N / 8 = 200 N.",
+    "concept_name": "Exponential Mechanical Advantage 2^n",
+    "concept_tag": "machines case based exponential mechanical advantage 2^n",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1ee17f7ba6a4012a1c37c60397819571f88d51d32dada0bc55792d3c6c5e84c8",
+    "question_skeleton": "case scenario an engineer rigs a heavy lift mechanism consisting of n 3 movable pulleys each suspended from an overhead ceiling by its own separate cord with the final cord passing over a single fixed pulley to allow downward pulling the load l 1600 n is attached to the lowest movable pulley investigative question assuming an ideal system frictionless with negligible pulley weight what is the velocity ratio vr and the required effort e choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_24_26066e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 24: Four-Pulley Block and Tackle Crane Rigging",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A block and tackle pulley system is assembled with a total of 4 pulleys: two sheaves in the upper fixed block and two sheaves in the lower movable block. The tackle rope is tied to the upper fixed block, threaded alternately between blocks, and pulled downward from the final sheave. **Investigative Question:** What is the Velocity Ratio (VR) of the system, and how far must the effort rope be pulled to raise a 1000 N engine block by 2.0 meters? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR = 4; Effort rope must be pulled 8.0 meters"
+      },
+      {
+        "key": "B",
+        "text": "VR = 2; Effort rope must be pulled 4.0 meters"
+      },
+      {
+        "key": "C",
+        "text": "VR = 5; Effort rope must be pulled 10.0 meters"
+      },
+      {
+        "key": "D",
+        "text": "VR = 4; Effort rope must be pulled 2.0 meters"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a standard block and tackle system with total number of pulleys n = 4, the Velocity Ratio VR equals n (VR = 4) when the effort is pulled downward. VR = d_effort / d_load => 4 = d_effort / 2.0 m => d_effort = 4 × 2.0 m = 8.0 meters.",
+    "concept_name": "Standard Block and Tackle System VR = n",
+    "concept_tag": "machines case based standard block and tackle system vr = n",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "26066e6b7f00672da537e13be07af01479bc1ebb5517e42cf1b7ed9ed9677d44",
+    "question_skeleton": "case scenario a block and tackle pulley system is assembled with a total of 4 pulleys two sheaves in the upper fixed block and two sheaves in the lower movable block the tackle rope is tied to the upper fixed block threaded alternately between blocks and pulled downward from the final sheave investigative question what is the velocity ratio vr of the system and how far must the effort rope be pulled to raise a 1000 n engine block by 2 0 meters choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_25_be5681",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 25: Five-Pulley Block and Tackle System Pulled Downward",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A ship's boathouse uses a 5-pulley block and tackle system to hoist small motorboats. The upper fixed block contains 3 pulleys, while the lower movable block contains 2 pulleys. The rope is anchored to the lower movable block and passes over the top pulley so the effort is pulled vertically downward. **Investigative Question:** What is the Velocity Ratio (VR) of this 5-pulley system, and what is its mechanical advantage if its efficiency is 80%? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR = 5; MA = 4.0"
+      },
+      {
+        "key": "B",
+        "text": "VR = 6; MA = 4.8"
+      },
+      {
+        "key": "C",
+        "text": "VR = 5; MA = 5.0"
+      },
+      {
+        "key": "D",
+        "text": "VR = 4; MA = 3.2"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Total number of pulleys n = 5 (3 in fixed block, 2 in movable block). When the rope is pulled downward from the fixed block, the number of supporting rope segments carrying the lower block is 5, so VR = 5. Efficiency η = (MA / VR) × 100 => 80 = (MA / 5) × 100 => MA = (80 × 5) / 100 = 4.0.",
+    "concept_name": "Even vs Odd Pulley Distribution",
+    "concept_tag": "machines case based even vs odd pulley distribution",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "be56818b94220822f0f7b4a54449b9717eba2278e322b610157475da63c8441b",
+    "question_skeleton": "case scenario a ship s boathouse uses a 5 pulley block and tackle system to hoist small motorboats the upper fixed block contains 3 pulleys while the lower movable block contains 2 pulleys the rope is anchored to the lower movable block and passes over the top pulley so the effort is pulled vertically downward investigative question what is the velocity ratio vr of this 5 pulley system and what is its mechanical advantage if its efficiency is 80 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_26_ea1dfe",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 26: Five-Pulley Block and Tackle Pulled Upward",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A specialized rescue tackle uses 2 pulleys in the upper fixed block and 3 pulleys in the lower movable block. The hauling line emerges from a sheave in the lower movable block and is pulled vertically upward by rescuers on a platform. **Investigative Question:** What is the Velocity Ratio (VR) of this system when the effort is directed upward? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR = 6 (the hauling line itself directly supports the load)"
+      },
+      {
+        "key": "B",
+        "text": "VR = 5"
+      },
+      {
+        "key": "C",
+        "text": "VR = 4"
+      },
+      {
+        "key": "D",
+        "text": "VR = 3"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When the effort line emerges from the lower movable block and is pulled upward in the direction of load motion, the effort tension itself directly helps support the load. The number of supporting strands becomes n + 1 (or total sheaves in path carrying upward tension = 6). Thus, VR = 6.",
+    "concept_name": "Effort Pulled Upward from Lower Block VR = n + 1",
+    "concept_tag": "machines case based effort pulled upward from lower block vr = n + 1",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ea1dfe7aa20089ce1266faf5514c57efaaa77b09642aa48e9afdbb1338df8859",
+    "question_skeleton": "case scenario a specialized rescue tackle uses 2 pulleys in the upper fixed block and 3 pulleys in the lower movable block the hauling line emerges from a sheave in the lower movable block and is pulled vertically upward by rescuers on a platform investigative question what is the velocity ratio vr of this system when the effort is directed upward choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_27_b1d6dd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 27: Effect of Lower Block Weight on Pulley Efficiency",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A 4-pulley block and tackle system (VR = 4) has a heavy steel lower block of weight w = 100 N. The system is tested under two different loads: Load 1 = 300 N, and Load 2 = 1900 N. Assuming friction is negligible so that Effort E = (L + w) / 4. **Investigative Question:** What is the efficiency of the pulley system under Load 1 compared to Load 2? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Under Load 1: η = 75%; Under Load 2: η = 95%; efficiency increases with heavier load."
+      },
+      {
+        "key": "B",
+        "text": "Under Load 1: η = 95%; Under Load 2: η = 75%; efficiency decreases with heavier load."
+      },
+      {
+        "key": "C",
+        "text": "Efficiency is strictly 100% under both loads because there is no friction."
+      },
+      {
+        "key": "D",
+        "text": "Efficiency is 50% under both loads because of pulley weight."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For Load 1 (300 N): Effort E1 = (300 + 100)/4 = 100 N. MA1 = 300/100 = 3.0. Efficiency η1 = MA1/VR = 3.0/4 = 75%. For Load 2 (1900 N): Effort E2 = (1900 + 100)/4 = 500 N. MA2 = 1900/500 = 3.8. Efficiency η2 = MA2/VR = 3.8/4 = 95%. This proves that as the load increases, the relative fraction of effort wasted in lifting the lower block (w / nE) decreases, causing efficiency to rise.",
+    "concept_name": "Efficiency Equation η = 1 - (w / nE)",
+    "concept_tag": "machines case based efficiency equation η = 1 - (w / ne)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b1d6ddb2b8d5b713287a523b29cd088eb7106a86905dbd3fa46462e471888763",
+    "question_skeleton": "case scenario a 4 pulley block and tackle system vr 4 has a heavy steel lower block of weight w 100 n the system is tested under two different loads load 1 300 n and load 2 1900 n assuming friction is negligible so that effort e l w 4 investigative question what is the efficiency of the pulley system under load 1 compared to load 2 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_28_6fbb13",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 28: Tension Distribution in a Four-Pulley Tackle",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an ideal 4-pulley block and tackle system lifting an engine weighing 1200 N at constant speed, a continuous light rope is reeved through all four pulleys, and the effort is applied downward at the free end. **Investigative Question:** What is the tension T in each of the four supporting rope segments, and what is the applied effort E? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tension T = 300 N in all segments; Effort E = 300 N"
+      },
+      {
+        "key": "B",
+        "text": "Tension T = 1200 N in all segments; Effort E = 1200 N"
+      },
+      {
+        "key": "C",
+        "text": "Tension T = 600 N in two segments, 0 N in others; Effort E = 300 N"
+      },
+      {
+        "key": "D",
+        "text": "Tension T = 150 N in all segments; Effort E = 600 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In an ideal continuous rope with frictionless pulleys, the tension T is uniform throughout the entire length of the rope. Since there are 4 rope segments supporting the lower block and load, total upward force = 4T. For equilibrium: 4T = Load = 1200 N => T = 300 N. The applied effort E at the free end is equal to the string tension: E = T = 300 N.",
+    "concept_name": "String Tension Equilibrium L = nT",
+    "concept_tag": "machines case based string tension equilibrium l = nt",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6fbb13129f50d2f78f76cb73366232ae40c7f4721ecca0cfcc85f6360726a5da",
+    "question_skeleton": "case scenario in an ideal 4 pulley block and tackle system lifting an engine weighing 1200 n at constant speed a continuous light rope is reeved through all four pulleys and the effort is applied downward at the free end investigative question what is the tension t in each of the four supporting rope segments and what is the applied effort e choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_29_8152aa",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 29: Rusty Pulley Axles and Invariant Velocity Ratio",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A warehouse block and tackle system with 4 pulleys was tested when brand new, exhibiting MA = 3.6 and VR = 4 (η = 90%). After five years in a humid maritime climate, rust forms on the internal steel pin bushings, increasing rotational friction substantially. **Investigative Question:** How are the Mechanical Advantage (MA) and Velocity Ratio (VR) affected by the rust? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "MA decreases (e.g. to 2.8) because more effort is required, while VR remains strictly 4 because VR depends solely on geometric geometry."
+      },
+      {
+        "key": "B",
+        "text": "Both MA and VR decrease proportionally."
+      },
+      {
+        "key": "C",
+        "text": "VR decreases while MA remains constant."
+      },
+      {
+        "key": "D",
+        "text": "Both MA and VR remain constant because machines have fixed ratings."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Velocity Ratio VR is a purely geometric property determined by the number of pulleys and the reeving configuration of the rope (d_effort / d_load). It cannot be altered by friction or wear. In contrast, Mechanical Advantage MA = Load / Effort depends directly on resistive losses; friction demands a larger effort for the same load, reducing MA and efficiency.",
+    "concept_name": "MA Decreases While VR Remains Constant",
+    "concept_tag": "machines case based ma decreases while vr remains constant",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8152aa5e73663b21f16cc68c3d142b683f71017f7849485d4c52cb04f37432b9",
+    "question_skeleton": "case scenario a warehouse block and tackle system with 4 pulleys was tested when brand new exhibiting ma 3 6 and vr 4 90 after five years in a humid maritime climate rust forms on the internal steel pin bushings increasing rotational friction substantially investigative question how are the mechanical advantage ma and velocity ratio vr affected by the rust choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_30_81979c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 30: Stiff Wire Rope Bending Resistance in Heavy Winches",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A maritime salvage tug uses an 8-sheave block and tackle strung with thick, stiff multi-strand steel wire rope of diameter 38 mm to raise a sunken barge. Engineers calculate that bending the stiff steel cable around each sheave requires substantial internal flexural work. **Investigative Question:** What effect does this cable bending stiffness have on the hoist system's mechanical parameters? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It decreases the system's efficiency and mechanical advantage, while the velocity ratio remains strictly 8."
+      },
+      {
+        "key": "B",
+        "text": "It increases the velocity ratio to 10."
+      },
+      {
+        "key": "C",
+        "text": "It increases mechanical advantage by gripping the sheaves."
+      },
+      {
+        "key": "D",
+        "text": "It has zero effect because wire rope is made of steel."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Bending stiff wire rope around sheaves absorbs mechanical energy due to internal inter-wire friction and hysteresis. This increases the total work input required, reducing the mechanical advantage and efficiency. However, the geometric distance ratio (VR) remains unchanged at exactly 8.",
+    "concept_name": "Frictional Dissipation without VR Shift",
+    "concept_tag": "machines case based frictional dissipation without vr shift",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "81979ca1e25922e899abf7414ab75cd83bd8c48d69e14aba2682423bb0a94de1",
+    "question_skeleton": "case scenario a maritime salvage tug uses an 8 sheave block and tackle strung with thick stiff multi strand steel wire rope of diameter 38 mm to raise a sunken barge engineers calculate that bending the stiff steel cable around each sheave requires substantial internal flexural work investigative question what effect does this cable bending stiffness have on the hoist system s mechanical parameters choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_31_6c436c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 31: Fundamental Distinction Between MA and VR",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An ICSE physics student is asked to differentiate between Mechanical Advantage (MA) and Velocity Ratio (VR) of an inclined plane used to push a heavy crate onto a ramp. **Investigative Question:** Which statement correctly highlights the fundamental physical distinction between MA and VR? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR is the ratio of effort displacement to load displacement and depends only on machine dimensions; MA is the ratio of load to effort and is affected by friction."
+      },
+      {
+        "key": "B",
+        "text": "MA is always greater than VR in real machines."
+      },
+      {
+        "key": "C",
+        "text": "VR changes when friction increases, while MA remains constant."
+      },
+      {
+        "key": "D",
+        "text": "MA has units of Newtons, while VR is dimensionless."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Velocity Ratio VR = d_effort / d_load is a purely kinematic, dimensionless ratio governed strictly by the geometry and dimensions of the machine. Mechanical Advantage MA = Load / Effort is a dynamic force ratio that reflects real-world operational performance; due to unavoidable friction, MA < VR in all real practical machines.",
+    "concept_name": "Physical Meaning of MA vs VR",
+    "concept_tag": "machines case based physical meaning of ma vs vr",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6c436ceb3cb61b635a72928aa7abf4e57c833455cc91d354cee7748654b1f544",
+    "question_skeleton": "case scenario an icse physics student is asked to differentiate between mechanical advantage ma and velocity ratio vr of an inclined plane used to push a heavy crate onto a ramp investigative question which statement correctly highlights the fundamental physical distinction between ma and vr choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_32_789030",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 32: The Myth of the 100% Efficient Perpetual Machine",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An inventor files a patent application claiming to have designed a compound multi-lever and gear machine that requires an effort of only 10 N to raise a load of 1000 N, while moving the effort through 80 meters to raise the load by 1.0 meter. **Investigative Question:** Why will the patent examiner immediately reject this claim on fundamental physical grounds? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It claims an efficiency of 125% (Work output = 1000 J > Work input = 800 J), which directly violates the Law of Conservation of Energy."
+      },
+      {
+        "key": "B",
+        "text": "The velocity ratio is too low for the claimed load."
+      },
+      {
+        "key": "C",
+        "text": "Machines cannot have a mechanical advantage greater than 50."
+      },
+      {
+        "key": "D",
+        "text": "Effort cannot move faster than 10 m/s."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Work input = Effort × d_effort = 10 N × 80 m = 800 J. Work output = Load × d_load = 1000 N × 1.0 m = 1000 J. Efficiency = (Work output / Work input) = 1000 / 800 = 125%. A machine cannot create energy out of nothing; the Law of Conservation of Energy dictates that Work output ≤ Work input (η ≤ 100%). Any claim of η > 100% describes an impossible perpetual motion machine.",
+    "concept_name": "Conservation of Energy and Real Machine Limits",
+    "concept_tag": "machines case based conservation of energy and real machine limits",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7890303d1d0e416bfed96b558d5ea54fb2d029be464e8b4c5047b10fc8466a83",
+    "question_skeleton": "case scenario an inventor files a patent application claiming to have designed a compound multi lever and gear machine that requires an effort of only 10 n to raise a load of 1000 n while moving the effort through 80 meters to raise the load by 1 0 meter investigative question why will the patent examiner immediately reject this claim on fundamental physical grounds choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_33_072586",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 33: Why Machine Efficiency is Always Strictly Less Than 100%",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student in a mechanics lab performs multiple tests on levers, inclined planes, and pulley systems, consistently observing that efficiency η is always between 60% and 92%, but never 100%. **Investigative Question:** What are the two primary physical causes preventing any real machine from achieving 100% efficiency? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Friction between moving mechanical parts, and the weight of the moving components of the machine itself."
+      },
+      {
+        "key": "B",
+        "text": "Gravitational variation and atmospheric buoyancy."
+      },
+      {
+        "key": "C",
+        "text": "Thermal expansion of metallic components and air resistance only."
+      },
+      {
+        "key": "D",
+        "text": "Electromagnetic resistance and nuclear decay in bearings."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In any real practical machine: (1) A portion of the input work is dissipated as thermal and acoustic energy to overcome unavoidable friction between bearings, guides, and contact surfaces. (2) Additional input work must be expended in lifting or accelerating the moving parts of the machine itself (e.g. lower pulley blocks, ropes, levers). Hence, Useful Work Output < Total Work Input, so η < 100%.",
+    "concept_name": "Sources of Energy Dissipation in Real Machines",
+    "concept_tag": "machines case based sources of energy dissipation in real machines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "072586cfa775c94f32d67d3bdcd5e49aeea20b5e556fdca1d0ab19b6e06225eb",
+    "question_skeleton": "case scenario a student in a mechanics lab performs multiple tests on levers inclined planes and pulley systems consistently observing that efficiency is always between 60 and 92 but never 100 investigative question what are the two primary physical causes preventing any real machine from achieving 100 efficiency choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_34_9cfe72",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 34: Loading a Heavy Oil Drum Using an Inclined Plane",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Warehouse workers roll a heavy cylindrical oil drum of weight 1800 N onto a truck loading bed situated 1.5 m above the ground using a smooth inclined wooden plank of length 6.0 m. **Investigative Question:** What is the Velocity Ratio (VR) of this inclined plane and the ideal effort needed to roll the drum up? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR = 4.0; Ideal effort = 450 N"
+      },
+      {
+        "key": "B",
+        "text": "VR = 0.25; Ideal effort = 7200 N"
+      },
+      {
+        "key": "C",
+        "text": "VR = 6.0; Ideal effort = 300 N"
+      },
+      {
+        "key": "D",
+        "text": "VR = 1.5; Ideal effort = 1200 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For an inclined plane of length l and height h, the effort moves along the incline (d_effort = l = 6.0 m) while the load rises vertically (d_load = h = 1.5 m). Velocity Ratio VR = l / h = 6.0 / 1.5 = 4.0 (also equal to 1 / sin θ). For an ideal plane: Effort = Load / VR = 1800 N / 4.0 = 450 N. The inclined plane acts as a force multiplier.",
+    "concept_name": "Inclined Plane as a Force Multiplier",
+    "concept_tag": "machines case based inclined plane as a force multiplier",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9cfe72fba37ea996817e3932ebdc212c3b8bf5735eb13714cb215bc6d367984a",
+    "question_skeleton": "case scenario warehouse workers roll a heavy cylindrical oil drum of weight 1800 n onto a truck loading bed situated 1 5 m above the ground using a smooth inclined wooden plank of length 6 0 m investigative question what is the velocity ratio vr of this inclined plane and the ideal effort needed to roll the drum up choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_35_cd3be2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 35: Hospital Wheelchair Ramp Gradient Standards",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Hospital accessibility building codes mandate that wheelchair ramps must have a maximum slope gradient of 1:12 (for every 1.0 m rise in height h, the ramp length l along the slope must be at least 12.0 m). **Investigative Question:** What is the mechanical rationale for specifying such a long, gentle slope? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It gives a high Velocity Ratio (VR = 12), drastically reducing the pushing effort required to propel the wheelchair up the incline."
+      },
+      {
+        "key": "B",
+        "text": "It increases the velocity of the wheelchair."
+      },
+      {
+        "key": "C",
+        "text": "It eliminates the gravitational pull of the earth on the patient."
+      },
+      {
+        "key": "D",
+        "text": "It minimizes the distance the wheelchair must travel."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Since VR = l / h, a 1:12 slope provides a Velocity Ratio of 12. By Principle of Moments / conservation of energy, Effort ≈ Load / VR = W / 12. Although the user must push the wheelchair over a 12-times longer distance, the required muscular pushing effort is reduced to just 1/12th of the combined wheelchair-patient weight, making self-propulsion feasible.",
+    "concept_name": "Gentle Slopes and Mechanical Advantage",
+    "concept_tag": "machines case based gentle slopes and mechanical advantage",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "cd3be2196adf009893fa9bb3b21ce5f1aa4649e094dd9b0be4dbff0e91050e2b",
+    "question_skeleton": "case scenario hospital accessibility building codes mandate that wheelchair ramps must have a maximum slope gradient of 1 12 for every 1 0 m rise in height h the ramp length l along the slope must be at least 12 0 m investigative question what is the mechanical rationale for specifying such a long gentle slope choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_36_a3bb18",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 36: Automotive Screw Jack Mechanics",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A motorist uses a mechanical screw jack to lift the corner of a 1200 kg car to change a flat tyre. The screw jack has a thread pitch p = 5.0 mm (0.005 m) and is turned by an operating handle bar of length L = 35 cm (0.35 m). **Investigative Question:** What is the Velocity Ratio (VR) of this screw jack (taking π ≈ 22/7)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR = 440"
+      },
+      {
+        "key": "B",
+        "text": "VR = 70"
+      },
+      {
+        "key": "C",
+        "text": "VR = 220"
+      },
+      {
+        "key": "D",
+        "text": "VR = 880"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A screw jack combines a lever and an inclined plane. In one complete rotation of the handle (displacement of effort = 2·π·L), the load is lifted vertically by one thread pitch p (displacement of load = p). Velocity Ratio VR = 2·π·L / p = (2 × (22/7) × 0.35 m) / 0.005 m = (2.2 m) / 0.005 m = 440. This enormous VR allows a human applying 50 N to lift a 22,000 N load ideally.",
+    "concept_name": "Compound Machine VR = 2πL / p",
+    "concept_tag": "machines case based compound machine vr = 2πl / p",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a3bb1864e8c0e85b182fa48dc06616c6a38ad1f693dc15818bd01e26b8646695",
+    "question_skeleton": "case scenario a motorist uses a mechanical screw jack to lift the corner of a 1200 kg car to change a flat tyre the screw jack has a thread pitch p 5 0 mm 0 005 m and is turned by an operating handle bar of length l 35 cm 0 35 m investigative question what is the velocity ratio vr of this screw jack taking 22 7 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_37_30911d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 37: Traditional Village Well Wheel and Axle",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A traditional village water well uses a wooden wheel and axle windlass. The large wheel has a radius R = 40 cm, while the cylindrical axle drum has a radius r = 8.0 cm. A rope wound around the axle lifts a bucket of water weighing 200 N when an effort is applied tangentially to the outer rim of the wheel. **Investigative Question:** What is the Velocity Ratio (VR) of this wheel and axle, and what is the ideal effort required? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR = 5.0; Ideal effort = 40 N"
+      },
+      {
+        "key": "B",
+        "text": "VR = 0.20; Ideal effort = 1000 N"
+      },
+      {
+        "key": "C",
+        "text": "VR = 8.0; Ideal effort = 25 N"
+      },
+      {
+        "key": "D",
+        "text": "VR = 2.5; Ideal effort = 80 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In one complete revolution of the wheel and axle: Effort displacement = circumference of wheel = 2·π·R. Load displacement = circumference of axle = 2·π·r. Velocity Ratio VR = (2·π·R) / (2·π·r) = R / r = 40 cm / 8.0 cm = 5.0. Ideal effort = Load / VR = 200 N / 5.0 = 40 N. The wheel and axle acts as a continuous rotary lever (force multiplier).",
+    "concept_name": "Wheel and Axle Principle VR = R / r",
+    "concept_tag": "machines case based wheel and axle principle vr = r / r",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "30911d4c075f3cc23a2902c6e66b1dc9130a6236d1755f3f6acee0f69dbca819",
+    "question_skeleton": "case scenario a traditional village water well uses a wooden wheel and axle windlass the large wheel has a radius r 40 cm while the cylindrical axle drum has a radius r 8 0 cm a rope wound around the axle lifts a bucket of water weighing 200 n when an effort is applied tangentially to the outer rim of the wheel investigative question what is the velocity ratio vr of this wheel and axle and what is the ideal effort required choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_38_3f4b72",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 38: Screwdriver as a Wheel and Axle Machine",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A carpenter chooses between two screwdrivers to drive a thick woodscrew into dense timber: Screwdriver 1 has a fat plastic handle of diameter 36 mm (radius 18 mm), while Screwdriver 2 has a slim handle of diameter 18 mm (radius 9 mm). Both have the same blade shank radius of 3 mm. **Investigative Question:** Why does Screwdriver 1 drive the screw into the timber with far less hand strain than Screwdriver 2? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Screwdriver 1 acts as a wheel and axle with VR = 18/3 = 6.0, whereas Screwdriver 2 has VR = 9/3 = 3.0, providing twice the mechanical advantage."
+      },
+      {
+        "key": "B",
+        "text": "Screwdriver 1 has greater mass, increasing gravitational downforce."
+      },
+      {
+        "key": "C",
+        "text": "Screwdriver 2 creates reverse torque on the screw head."
+      },
+      {
+        "key": "D",
+        "text": "Screwdriver 1 changes the direction of the screw threads."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A screwdriver functions on the wheel and axle principle, where the handle is the wheel (radius R) and the metal blade/shank is the axle (radius r). VR = R / r. For Screwdriver 1: VR = 18 mm / 3 mm = 6.0. For Screwdriver 2: VR = 9 mm / 3 mm = 3.0. The fatter handle doubles the velocity ratio and torque multiplier, allowing the carpenter to generate double the twisting moment for the same hand grip effort.",
+    "concept_name": "Handle Diameter vs Shank Diameter",
+    "concept_tag": "machines case based handle diameter vs shank diameter",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3f4b72655afe7cc8bca1f96bb70bc5987848c2bc5fc33d1bf3f065118f71de24",
+    "question_skeleton": "case scenario a carpenter chooses between two screwdrivers to drive a thick woodscrew into dense timber screwdriver 1 has a fat plastic handle of diameter 36 mm radius 18 mm while screwdriver 2 has a slim handle of diameter 18 mm radius 9 mm both have the same blade shank radius of 3 mm investigative question why does screwdriver 1 drive the screw into the timber with far less hand strain than screwdriver 2 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_39_640ac8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 39: Water Well Geared Windlass",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A deep mine drainage lift uses a compound windlass where a crank handle of radius R = 50 cm drives a pinion gear with 12 teeth meshed to a large drum gear with 60 teeth. The drum gear is fixed to a winding axle drum of radius r = 10 cm. **Investigative Question:** What is the total Velocity Ratio (VR) of this compound geared machine? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR = 25"
+      },
+      {
+        "key": "B",
+        "text": "VR = 5"
+      },
+      {
+        "key": "C",
+        "text": "VR = 50"
+      },
+      {
+        "key": "D",
+        "text": "VR = 10"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Velocity Ratio of crank to drum axle = R / r = 50 cm / 10 cm = 5. Gear ratio between gears = Teeth on driven / Teeth on driver = 60 / 12 = 5. Total Velocity Ratio of compound machine = VR_crank × Gear ratio = 5 × 5 = 25. For every 25 cm the crank handle moves, the rope on the axle rises by 1 cm.",
+    "concept_name": "Compound Machine Velocity Ratio",
+    "concept_tag": "machines case based compound machine velocity ratio",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "640ac82ec47e4cf6c44ac2144c71f796557ba95441aaf6479ca018afbc5d2779",
+    "question_skeleton": "case scenario a deep mine drainage lift uses a compound windlass where a crank handle of radius r 50 cm drives a pinion gear with 12 teeth meshed to a large drum gear with 60 teeth the drum gear is fixed to a winding axle drum of radius r 10 cm investigative question what is the total velocity ratio vr of this compound geared machine choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_40_d6e5c7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 40: Multi-Speed Bicycle Derailleur Gearing",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A road racing cyclist selects a high gear: the front chainring has N_front = 52 teeth and the rear cassette cog has N_rear = 13 teeth. The bicycle wheel radius is R_wheel = 35 cm, while the pedal crank arm length is L_crank = 17.5 cm. **Investigative Question:** What happens when the cyclist pedaling at this gear turns the crank through one complete rotation? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The rear wheel turns 4.0 revolutions, traveling 8.80 meters; the bicycle acts as a speed multiplier."
+      },
+      {
+        "key": "B",
+        "text": "The rear wheel turns 0.25 revolutions; the bicycle acts as a force multiplier."
+      },
+      {
+        "key": "C",
+        "text": "The rear wheel turns 2.0 revolutions, traveling 4.40 meters."
+      },
+      {
+        "key": "D",
+        "text": "The bicycle produces four times the torque of the cyclist's legs."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Gear ratio = N_front / N_rear = 52 / 13 = 4.0. For 1 full rotation of the pedal crank, the rear wheel completes 4.0 revolutions. Distance traveled in 1 pedal turn = 4 × (2·π·R_wheel) = 4 × (2 × (22/7) × 0.35 m) = 4 × 2.2 m = 8.80 m. In high gear, the bicycle is an immense speed multiplier (trading large muscular leg force for high road speed).",
+    "concept_name": "Front Chainring to Rear Sprocket Gear Ratio",
+    "concept_tag": "machines case based front chainring to rear sprocket gear ratio",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d6e5c7139a756a8aaf0db21e9c7f3a787a9bc2a5ed3999b628e828a9bfb139b3",
+    "question_skeleton": "case scenario a road racing cyclist selects a high gear the front chainring has n front 52 teeth and the rear cassette cog has n rear 13 teeth the bicycle wheel radius is r wheel 35 cm while the pedal crank arm length is l crank 17 5 cm investigative question what happens when the cyclist pedaling at this gear turns the crank through one complete rotation choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_41_63ab13",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 41: Mechanical Watch Gear Train Speed Multiplication",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a mechanical wristwatch, the main center wheel rotates once every 60 minutes (1 revolution per hour). It drives an escape wheel via a train of multiplier gears so that the escape wheel ticks 18,000 times per hour (5 ticks per second). **Investigative Question:** What is the mechanical function of this gear train? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It acts as a high-ratio speed multiplier with Velocity Ratio VR << 1."
+      },
+      {
+        "key": "B",
+        "text": "It acts as a force multiplier to increase mainspring torque."
+      },
+      {
+        "key": "C",
+        "text": "It reverses the direction of rotation without changing speed."
+      },
+      {
+        "key": "D",
+        "text": "It acts as a Class II lever system."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A mechanical watch gear train transmits slow rotational motion from the mainspring barrel to the rapidly oscillating escapement. By using large driver gears with many teeth meshed to small driven pinions with few teeth, speed is drastically multiplied (VR << 1), trading high spring torque for rapid rotational velocity.",
+    "concept_name": "Gear Train Velocity Multiplication",
+    "concept_tag": "machines case based gear train velocity multiplication",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "63ab13374d70a29084941d09a2c043879418613a8c7b8e635712edf879cbab65",
+    "question_skeleton": "case scenario in a mechanical wristwatch the main center wheel rotates once every 60 minutes 1 revolution per hour it drives an escape wheel via a train of multiplier gears so that the escape wheel ticks 18 000 times per hour 5 ticks per second investigative question what is the mechanical function of this gear train choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_42_9e6108",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 42: Automobile Service Station Hydraulic Jack",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A garage hydraulic car jack combines a hand lever (Class II lever with Effort arm = 60 cm, Load arm = 6.0 cm) connected to the plunger of a small pump piston of area A1 = 2.0 cm². The small piston pushes hydraulic oil into a large lifting cylinder of piston area A2 = 100 cm² supporting the car. **Investigative Question:** What is the total theoretical Mechanical Advantage (MA) of this compound hydraulic jack? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "MA = 500"
+      },
+      {
+        "key": "B",
+        "text": "MA = 60"
+      },
+      {
+        "key": "C",
+        "text": "MA = 50"
+      },
+      {
+        "key": "D",
+        "text": "MA = 100"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Mechanical advantage of the hand lever = Effort arm / Load arm = 60 cm / 6.0 cm = 10. Mechanical advantage of the hydraulic press by Pascal's principle = A2 / A1 = 100 cm² / 2.0 cm² = 50. Total Mechanical Advantage of the compound machine = MA_lever × MA_hydraulic = 10 × 50 = 500. An effort of only 20 N applied to the lever handle exerts an ideal lifting force of 20 × 500 = 10,000 N on the vehicle.",
+    "concept_name": "Compound Machine MA = MA_lever × MA_hydraulic",
+    "concept_tag": "machines case based compound machine ma = ma_lever × ma_hydraulic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9e6108ee03a061a25b45c5d7d70f9ec79d864b0f3eab17d1ada5cef75dbe9065",
+    "question_skeleton": "case scenario a garage hydraulic car jack combines a hand lever class ii lever with effort arm 60 cm load arm 6 0 cm connected to the plunger of a small pump piston of area a1 2 0 cm the small piston pushes hydraulic oil into a large lifting cylinder of piston area a2 100 cm supporting the car investigative question what is the total theoretical mechanical advantage ma of this compound hydraulic jack choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_43_6e26a9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 43: High-Capacity Compound Bolt Cutters",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A firefighter uses a heavy-duty compound bolt cutter to cut through a 10 mm hardened steel padlock shackle. The tool consists of two Class I levers in series: Lever 1 (main handles) has Effort arm = 60 cm and Load arm = 5.0 cm (MA1 = 12). Lever 2 (jaw blades) has Effort arm = 8.0 cm and Load arm = 2.0 cm (MA2 = 4.0). **Investigative Question:** What total crushing force is exerted on the padlock shackle when the firefighter squeezes the handles with an effort of 250 N? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "12,000 N (12 kN)"
+      },
+      {
+        "key": "B",
+        "text": "3,000 N"
+      },
+      {
+        "key": "C",
+        "text": "4,000 N"
+      },
+      {
+        "key": "D",
+        "text": "1,000 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a compound lever system, the output force of the first lever becomes the input effort to the second lever. Overall MA = MA1 × MA2 = 12 × 4.0 = 48. Total shearing force on the padlock = Applied Effort × Total MA = 250 N × 48 = 12,000 N (12 kN). This immense force multiplier crushes through hardened steel with ease.",
+    "concept_name": "Double-Lever Linkage Mechanics",
+    "concept_tag": "machines case based double-lever linkage mechanics",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6e26a9f6e871a674ccc231f3c0b0fdead82d89da229693890b04f44f2f521666",
+    "question_skeleton": "case scenario a firefighter uses a heavy duty compound bolt cutter to cut through a 10 mm hardened steel padlock shackle the tool consists of two class i levers in series lever 1 main handles has effort arm 60 cm and load arm 5 0 cm ma1 12 lever 2 jaw blades has effort arm 8 0 cm and load arm 2 0 cm ma2 4 0 investigative question what total crushing force is exerted on the padlock shackle when the firefighter squeezes the handles with an effort of 250 n choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_44_4d1615",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 44: Heavy Platform Weighing Scale Linkage",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A freight depot platform weighing scale uses a system of compound reduction levers below the deck so that a heavy truck of mass 10,000 kg resting on the platform exerts only a small force of 100 N on the counterpoise balance arm. **Investigative Question:** What is the total Mechanical Advantage of the reduction lever mechanism, and what principle does it employ? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "MA = 1000; Principle of Moments applied across multiple linked Class I and Class II levers in series."
+      },
+      {
+        "key": "B",
+        "text": "MA = 100; Hydraulic pressure distribution."
+      },
+      {
+        "key": "C",
+        "text": "MA = 10; Wheel and axle multiplication."
+      },
+      {
+        "key": "D",
+        "text": "MA = 500; Centrifugal balance equilibrium."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Platform scale mechanisms link multiple levers in series where the output load of each stage connects to the effort point of the subsequent stage. Total MA = Load / Effort = (10,000 kg × 10 m/s²) / 100 N = 100,000 N / 100 N = 1000. Applying the Principle of Moments across compound levers allows a small, easily handled counterweight to balance massive freight.",
+    "concept_name": "Compound Steelyard Reduction Levers",
+    "concept_tag": "machines case based compound steelyard reduction levers",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4d1615c3150d907c16653ca4b48cee077d108ed9569989c1a9ab87851a718897",
+    "question_skeleton": "case scenario a freight depot platform weighing scale uses a system of compound reduction levers below the deck so that a heavy truck of mass 10 000 kg resting on the platform exerts only a small force of 100 n on the counterpoise balance arm investigative question what is the total mechanical advantage of the reduction lever mechanism and what principle does it employ choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_45_87806c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 45: Sailing Ship Halyard Luff Tackle Purchase",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Sailors on a vintage schooner hoist a heavy mainsail using a 'luff tackle' consisting of a double-sheave upper block and a single-sheave lower block (total 3 pulleys). The hauling line is pulled downward from the upper block. **Investigative Question:** What is the Velocity Ratio (VR) of the luff tackle, and what effort is needed to lift a 600 N sail if efficiency is 75%? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR = 3; Effort = 266.7 N"
+      },
+      {
+        "key": "B",
+        "text": "VR = 4; Effort = 200 N"
+      },
+      {
+        "key": "C",
+        "text": "VR = 3; Effort = 150 N"
+      },
+      {
+        "key": "D",
+        "text": "VR = 2; Effort = 400 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Total number of pulleys n = 3 (2 in fixed, 1 in movable). Since effort is pulled downward from the fixed block, VR = 3. Efficiency η = (MA / VR) × 100 => 75 = (MA / 3) × 100 => MA = (75 × 3) / 100 = 2.25. Actual effort required E = Load / MA = 600 N / 2.25 = 266.67 N.",
+    "concept_name": "Three-Fold Maritime Pulley Purchase",
+    "concept_tag": "machines case based three-fold maritime pulley purchase",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "87806c42b5b690f84dac87f267c1088bd17e1d155516610933a7b501998608d8",
+    "question_skeleton": "case scenario sailors on a vintage schooner hoist a heavy mainsail using a luff tackle consisting of a double sheave upper block and a single sheave lower block total 3 pulleys the hauling line is pulled downward from the upper block investigative question what is the velocity ratio vr of the luff tackle and what effort is needed to lift a 600 n sail if efficiency is 75 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_46_73dd97",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 46: Mountain Rescue Z-Rig Pulley Haul System",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A mountain rescue team rigs a 'Z-rig' haul system to raise an injured climber of weight 900 N from a crevasse. The Z-rig utilizes two single pulleys and rope friction hitches (Prusiks) to create a theoretical 3:1 mechanical advantage (VR = 3). **Investigative Question:** Assuming an operational field efficiency of 60% due to rope drag on rock edges, what pulling force must the rescue team exert? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "500 N"
+      },
+      {
+        "key": "B",
+        "text": "300 N"
+      },
+      {
+        "key": "C",
+        "text": "180 N"
+      },
+      {
+        "key": "D",
+        "text": "450 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For VR = 3 and efficiency η = 60%: Mechanical Advantage MA = (η / 100) × VR = 0.60 × 3 = 1.80. Hauling effort required E = Load / MA = 900 N / 1.80 = 500 N.",
+    "concept_name": "Field Mechanical Advantage Amplification",
+    "concept_tag": "machines case based field mechanical advantage amplification",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "73dd9712ebe40d9e4509b86ae911451283adcbbfab19c5bf8933de2752809b4f",
+    "question_skeleton": "case scenario a mountain rescue team rigs a z rig haul system to raise an injured climber of weight 900 n from a crevasse the z rig utilizes two single pulleys and rope friction hitches prusiks to create a theoretical 3 1 mechanical advantage vr 3 investigative question assuming an operational field efficiency of 60 due to rope drag on rock edges what pulling force must the rescue team exert choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_47_f8e8b8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 47: Biomechanical Mastication in the Human Jaw",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In human cranial mechanics, the lower jaw (mandible) hinges at the temporomandibular joint (TMJ), which acts as the fulcrum. The powerful masseter and temporalis chewing muscles attach to the jaw midway between the joint and the front incisor teeth, pulling upward with force E, while the teeth crush food at the front (load L). **Investigative Question:** Which class of lever does the jaw represent, and what is its primary mechanical advantage characteristics? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Class III Lever; Effort is in the middle, MA < 1, providing wide opening range and rapid bite closure rather than maximum force."
+      },
+      {
+        "key": "B",
+        "text": "Class II Lever; Load in the middle, MA > 1."
+      },
+      {
+        "key": "C",
+        "text": "Class I Lever; Fulcrum in the middle."
+      },
+      {
+        "key": "D",
+        "text": "It has MA > 10 to crush tough bones."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The temporomandibular joint is the fulcrum F at the back of the jaw. The masseter muscle attaches in the middle (Effort E), and the biting teeth are at the front (Load L). Because the effort is situated between the fulcrum and the load, the jaw is an anatomical Class III lever (MA < 1). The muscle must exert greater force than the bite force, but gains large angular movement of the teeth for chewing.",
+    "concept_name": "Class III Lever in Mastication",
+    "concept_tag": "machines case based class iii lever in mastication",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f8e8b87da35d10eab417ca353920d9cec552eefe0fc54d489463d3fbd149b7ce",
+    "question_skeleton": "case scenario in human cranial mechanics the lower jaw mandible hinges at the temporomandibular joint tmj which acts as the fulcrum the powerful masseter and temporalis chewing muscles attach to the jaw midway between the joint and the front incisor teeth pulling upward with force e while the teeth crush food at the front load l investigative question which class of lever does the jaw represent and what is its primary mechanical advantage characteristics choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_48_1b0e06",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 48: Tower Crane Multi-Sheave Reeving Adjustment",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A construction tower crane operator reconfigures the hoist hook block from 'two-fall' (2 rope parts supporting the hook, VR = 2) to 'four-fall' (4 rope parts supporting the hook, VR = 4) by adding a movable double-sheave block. **Investigative Question:** What effect does shifting to four-fall reeving have on the crane's maximum lifting capacity and maximum hoisting speed? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lifting capacity doubles, but maximum hoisting speed is halved for the same winch motor power."
+      },
+      {
+        "key": "B",
+        "text": "Both lifting capacity and hoisting speed double."
+      },
+      {
+        "key": "C",
+        "text": "Lifting capacity quadruples, and speed remains unchanged."
+      },
+      {
+        "key": "D",
+        "text": "Lifting capacity is halved, while hoisting speed quadruples."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Doubling the velocity ratio from VR = 2 to VR = 4 doubles the mechanical advantage, doubling the maximum load the winch motor can lift (force multiplier). However, by conservation of energy and VR = d_effort / d_load, the load moves only 1/4 as far as the rope; thus for a fixed winch cable speed, the load hoisting speed is halved.",
+    "concept_name": "Two-Fall vs Four-Fall Hoist Lines",
+    "concept_tag": "machines case based two-fall vs four-fall hoist lines",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1b0e06c60574323cf05143be9f23867ee62478285f67955add1498036c26ffb6",
+    "question_skeleton": "case scenario a construction tower crane operator reconfigures the hoist hook block from two fall 2 rope parts supporting the hook vr 2 to four fall 4 rope parts supporting the hook vr 4 by adding a movable double sheave block investigative question what effect does shifting to four fall reeving have on the crane s maximum lifting capacity and maximum hoisting speed choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_49_fbbfd0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 49: Adjusting the Fulcrum of a Heavy Crowbar",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A railway maintenance worker uses a 2.0-meter steel crowbar to unseat a frozen rail track plate. The worker initially places the fulcrum block 40 cm (0.40 m) from the rail plate (MA = 1.6/0.4 = 4.0), but finds his maximum body weight effort of 750 N is insufficient to budge the plate. The worker then slides the fulcrum block closer to the rail plate, positioning it just 10 cm (0.10 m) from the tip. **Investigative Question:** What is the new Mechanical Advantage, and what prying force is now exerted by the same 750 N effort? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "New MA = 19.0; Prying force = 14,250 N"
+      },
+      {
+        "key": "B",
+        "text": "New MA = 20.0; Prying force = 15,000 N"
+      },
+      {
+        "key": "C",
+        "text": "New MA = 8.0; Prying force = 6,000 N"
+      },
+      {
+        "key": "D",
+        "text": "New MA = 10.0; Prying force = 7,500 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "New load arm = 0.10 m. New effort arm = 2.0 m - 0.10 m = 1.90 m. New Mechanical Advantage MA = Effort arm / Load arm = 1.90 / 0.10 = 19.0. Prying force (Load) = Effort × MA = 750 N × 19.0 = 14,250 N (an increase from 3000 N to 14,250 N, nearly fivefold).",
+    "concept_name": "Modifying Load Arm to Maximize MA",
+    "concept_tag": "machines case based modifying load arm to maximize ma",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "fbbfd02bbaa008698dcd51195ffb77683b988336c235ebc2c665cd866307f759",
+    "question_skeleton": "case scenario a railway maintenance worker uses a 2 0 meter steel crowbar to unseat a frozen rail track plate the worker initially places the fulcrum block 40 cm 0 40 m from the rail plate ma 1 6 0 4 4 0 but finds his maximum body weight effort of 750 n is insufficient to budge the plate the worker then slides the fulcrum block closer to the rail plate positioning it just 10 cm 0 10 m from the tip investigative question what is the new mechanical advantage and what prying force is now exerted by the same 750 n effort choose the correct option"
+  },
+  {
+    "globalId": "qb_case_machines_50_bb8bc7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Machines",
+    "title": "Case Study 50: Heavy-Duty Worm Gear Steering Gearbox",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An industrial steering gearbox uses a single-start rotating worm screw meshed with a 40-tooth worm wheel attached to the steering drop arm. **Investigative Question:** What is the Velocity Ratio of the worm drive, and what vital safety property does it provide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "VR = 40; the worm drive is mechanically irreversible (self-locking), preventing road shock from back-driving and spinning the steering wheel."
+      },
+      {
+        "key": "B",
+        "text": "VR = 40; it acts as a speed multiplier to rapidly spin the wheels."
+      },
+      {
+        "key": "C",
+        "text": "VR = 1; it provides direct 1:1 steering feel."
+      },
+      {
+        "key": "D",
+        "text": "VR = 80; it allows the wheels to turn freely when the motor is off."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For a single-start worm, one complete rotation of the worm advances the worm wheel by exactly 1 tooth out of 40, yielding a Velocity Ratio VR = 40. Furthermore, because of the low lead angle and friction between the worm and gear teeth, the mechanism is self-locking: the worm can easily turn the gear, but the gear cannot turn the worm, preventing dangerous road bumps from ripping the steering wheel out of the driver's hands.",
+    "concept_name": "High-Ratio Irreversible Speed Reduction",
+    "concept_tag": "machines case based high-ratio irreversible speed reduction",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "bb8bc76302e69ff53724b8eef5cc496a2d1e264f40ed84586bdfb802137dabd3",
+    "question_skeleton": "case scenario an industrial steering gearbox uses a single start rotating worm screw meshed with a 40 tooth worm wheel attached to the steering drop arm investigative question what is the velocity ratio of the worm drive and what vital safety property does it provide choose the correct option"
+  }
+]

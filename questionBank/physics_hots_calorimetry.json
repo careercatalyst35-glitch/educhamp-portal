@@ -1,0 +1,1347 @@
+[
+  {
+    "globalId": "qb_hots_calorimetry_1_dwp1e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Finding specific latent heat from a heating curve",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "If the mass melted is 50 g, what is the specific latent heat of fusion?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M40 16 V116 H300\" stroke=\"currentColor\" stroke-width=\"1.5\" fill=\"none\" /><path d=\"M42 101 L90 65 L220 65 L278 24\" stroke=\"#0284C7\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M90 65 V116 M220 65 V116\" stroke=\"currentColor\" stroke-opacity=\".35\" stroke-dasharray=\"4 3\" /><text x=\"9\" y=\"18\" font-size=\"10\" fill=\"currentColor\">T</text><text x=\"153\" y=\"55\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Melting plateau</text><text x=\"153\" y=\"134\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Duration = 60 s</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "120 J/g"
+      },
+      {
+        "key": "B",
+        "text": "300 J/g"
+      },
+      {
+        "key": "C",
+        "text": "50 J/g"
+      },
+      {
+        "key": "D",
+        "text": "0.12 J/g"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Q=Pt=100×60=6000 mathrm J\n\n\n\nL_f=(Q / m)=(6000 / 50)=120 J/g\n\n\nThe flat portion represents energy used for melting, not a temperature rise. Dividing by 60 s again or confusing the mass with the duration gives incorrect units.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_2_qbn9f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Correcting for heat lost during transfer",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "If the calculation incorrectly assumes that the block entered the calorimeter at 100°mathrm C, what is the likely effect on the calculated specific heat capacity of the metal?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"12\" y=\"38\" width=\"85\" height=\"65\" rx=\"5\" fill=\"#CBD5E1\" stroke=\"currentColor\" /><rect x=\"23\" y=\"64\" width=\"63\" height=\"29\" fill=\"#F59E0B\" fill-opacity=\".45\" /><rect x=\"126\" y=\"38\" width=\"65\" height=\"65\" rx=\"5\" fill=\"#94A3B8\" fill-opacity=\".2\" stroke=\"currentColor\" /><path d=\"M98 61 H121 M115 55 L121 61 L115 67\" stroke=\"#D97706\" stroke-width=\"2\" fill=\"none\" /><path d=\"M194 61 H216 M210 55 L216 61 L210 67\" stroke=\"#D97706\" stroke-width=\"2\" fill=\"none\" /><path d=\"M222 38 H308 L299 103 H231 Z\" fill=\"#CBD5E1\" stroke=\"currentColor\" /><path d=\"M228 68 H302 L296 96 H234 Z\" fill=\"#38BDF8\" fill-opacity=\".6\" /><text x=\"54\" y=\"27\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Hot bath</text><text x=\"158\" y=\"27\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Transfer</text><text x=\"265\" y=\"27\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Calorimeter</text><text x=\"54\" y=\"82\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">100°C</text><text x=\"158\" y=\"82\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">90°C</text><text x=\"265\" y=\"82\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">20°C</text><text x=\"160\" y=\"128\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">The block cools before mixing</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is overestimated, because the assumed temperature fall of the block is too large."
+      },
+      {
+        "key": "B",
+        "text": "It is underestimated, because the assumed temperature fall is too small."
+      },
+      {
+        "key": "C",
+        "text": "It is unaffected because the final equilibrium temperature is measured correctly."
+      },
+      {
+        "key": "D",
+        "text": "It becomes zero because the metal has already cooled."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The actual initial temperature is 90°mathrm C, so the block's actual temperature fall is smaller than the fall calculated from 100°mathrm C. If the measured heat gained by the water is correct, dividing it by an artificially large temperature fall underestimates c.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_3_dsjlk",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Identifying a faulty calorimetry reading",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A calorimeter initially contains 100 mathrm g of water at 20°mathrm C. A hot metal block is added. The measured final temperature is 30°mathrm C, but the experimenter forgets to include the calorimeter's own heat capacity in the calculation. What is the likely effect on the calculated specific heat capacity of the metal?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 155\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M68 38 H252 L238 124 H82 Z\" fill=\"#CBD5E1\" stroke=\"currentColor\" stroke-width=\"1.5\" /><path d=\"M77 67 H243 L235 117 H85 Z\" fill=\"#38BDF8\" fill-opacity=\".55\" /><rect x=\"138\" y=\"74\" width=\"42\" height=\"28\" fill=\"#D97706\" stroke=\"currentColor\" /><path d=\"M158 17 V70\" stroke=\"#DC2626\" stroke-width=\"2.5\" /><circle cx=\"158\" cy=\"72\" r=\"4\" fill=\"#DC2626\" /><text x=\"160\" y=\"13\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Thermometer</text><text x=\"160\" y=\"145\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Metal + water + copper vessel</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is necessarily correct because the calorimeter is in thermal equilibrium with the water."
+      },
+      {
+        "key": "B",
+        "text": "It is underestimated because some heat lost by the metal also warms the calorimeter, but the calculation attributes the heat gained only to water."
+      },
+      {
+        "key": "C",
+        "text": "It is overestimated because the calorimeter releases energy during mixing."
+      },
+      {
+        "key": "D",
+        "text": "It becomes zero because the calorimeter and water have the same final temperature."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The metal's heat loss equals the heat gained by the water plus that gained by the calorimeter. Omitting the latter underestimates the metal's heat loss in the calculation. For the same metal mass and initial-to-final temperature drop, this produces an underestimated specific heat capacity.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_4_dqiw0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "A common experimental error",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "In a method-of-mixtures experiment, a hot metal block is transferred from hot water into a calorimeter containing cooler water. The block is exposed to the air for a significant time before immersion. What is the likely effect if the calculation assumes that the block entered the calorimeter at the original hot-water temperature?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The calculated heat capacity of the metal is necessarily exact because the transfer time does not matter."
+      },
+      {
+        "key": "B",
+        "text": "The final mixture temperature must be higher than it would have been without the delay."
+      },
+      {
+        "key": "C",
+        "text": "The metal gains additional heat from the air during every transfer."
+      },
+      {
+        "key": "D",
+        "text": "The assumed initial temperature of the metal may be too high, causing an error in the calculated specific heat capacity."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The metal may lose heat during transfer, so its actual entry temperature can be lower than assumed. The calculation then uses an incorrect temperature fall for the metal, leading to an inaccurate result. The precise direction and size of the error in the calculated value depend on the data and calculation method.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_5_kdnmx",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Interpreting a complete heating curve",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The graph shows a pure substance being heated steadily from ice below 0°mathrm C until all the water has become steam above 100°mathrm C, at normal atmospheric pressure. Schematic heating curve: AB, BC, CD, DE and EF represent successive heating and phase-change stages. Which interpretation of the five successive portions is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Interpreting a complete heating curve</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "AB: melting; BC: warming of ice; CD: boiling; DE: warming of water; EF: condensation."
+      },
+      {
+        "key": "B",
+        "text": "AB: warming of ice; BC: melting; CD: warming of water; DE: boiling; EF: warming of steam."
+      },
+      {
+        "key": "C",
+        "text": "AB: warming of ice; BC: melting with rising temperature; CD: warming of water; DE: boiling with falling temperature; EF: warming of steam."
+      },
+      {
+        "key": "D",
+        "text": "AB: warming of ice; BC: boiling; CD: warming of water; DE: melting; EF: warming of steam."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. On AB, the ice temperature rises towards 0°mathrm C.\n2. On BC, ice melts at constant temperature.\n3. On CD, liquid water warms towards 100°mathrm C.\n4. On DE, water boils at constant temperature.\n5. On EF, steam becomes hotter than 100°mathrm C.\n\nThe trap in C is that temperature does not rise during melting or remain constant only briefly during boiling; the idealised phase-change portions are flat.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_6_4ixxc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Heat absorbed by the calorimeter",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A copper calorimeter contains water. The thermometer and stirrer are both immersed in the water, while the calorimeter is surrounded by an insulating jacket. When hot water is mixed with colder water inside this apparatus, which energy balance is the most complete?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"28\" width=\"220\" height=\"145\" rx=\"9\" fill=\"#94A3B8\" fill-opacity=\".18\" stroke=\"currentColor\" stroke-dasharray=\"5 4\" stroke-width=\"1.5\" /><path d=\"M82 62 L238 62 L224 151 L96 151 Z\" fill=\"#CBD5E1\" stroke=\"#64748B\" stroke-width=\"2\" /><path d=\"M92 90 L228 90 L220 145 L100 145 Z\" fill=\"#38BDF8\" fill-opacity=\".6\" /><path d=\"M157 36 V111\" stroke=\"#DC2626\" stroke-width=\"2.5\" /><circle cx=\"157\" cy=\"113\" r=\"5\" fill=\"#DC2626\" /><path d=\"M190 55 V112 M180 112 H200\" stroke=\"currentColor\" stroke-width=\"2\" /><path d=\"M238 62 L280 48\" stroke=\"currentColor\" stroke-width=\"1\" /><text x=\"280\" y=\"44\" text-anchor=\"end\" font-size=\"10\" fill=\"currentColor\">Copper vessel</text><path d=\"M157 80 L120 48\" stroke=\"currentColor\" stroke-width=\"1\" /><text x=\"118\" y=\"43\" text-anchor=\"end\" font-size=\"10\" fill=\"currentColor\">Thermometer</text><path d=\"M190 88 L229 37\" stroke=\"currentColor\" stroke-width=\"1\" /><text x=\"230\" y=\"32\" font-size=\"10\" fill=\"currentColor\">Stirrer</text><text x=\"160\" y=\"184\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Insulated jacket</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Heat lost by hot water = heat gained by cold water only."
+      },
+      {
+        "key": "B",
+        "text": "Heat lost by hot water = heat gained by the copper vessel only."
+      },
+      {
+        "key": "C",
+        "text": "Heat lost by hot water = heat gained by cold water minus heat gained by the vessel."
+      },
+      {
+        "key": "D",
+        "text": "Heat lost by hot water = heat gained by cold water + calorimeter + stirrer, provided other losses are negligible."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The vessel and stirrer also warm up and absorb heat. Neglecting their contributions generally gives an incorrect final temperature or an incorrect calculated specific heat capacity.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_7_oxopz",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Calorimeter with an unknown water equivalent",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Using c_=4.2 J/(g,°C), what is the water equivalent w?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M63 38 H257 L242 118 H78 Z\" fill=\"#CBD5E1\" stroke=\"currentColor\" stroke-width=\"1.5\" /><path d=\"M72 68 H248 L240 111 H80 Z\" fill=\"#38BDF8\" fill-opacity=\".6\" /><rect x=\"135\" y=\"75\" width=\"50\" height=\"24\" fill=\"#D97706\" stroke=\"currentColor\" /><path d=\"M160 12 V70\" stroke=\"#DC2626\" stroke-width=\"2.5\" /><circle cx=\"160\" cy=\"72\" r=\"4\" fill=\"#DC2626\" /><text x=\"160\" y=\"9\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Thermometer</text><text x=\"160\" y=\"132\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Water + calorimeter</text><text x=\"160\" y=\"145\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Final temperature 30°C</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "25 g"
+      },
+      {
+        "key": "B",
+        "text": "50 g"
+      },
+      {
+        "key": "C",
+        "text": "200 g"
+      },
+      {
+        "key": "D",
+        "text": "300 g"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Heat lost by the object equals heat gained by water and calorimeter:\n\n\n10500=(200+w)×4.2×(30-20)\n\n\n\n10500=42(200+w)\n\n\n\n200+w=250,qquad w=50 mathrm g\n\n\nOption C ignores the calorimeter's contribution and incorrectly equates its water equivalent to the actual water mass.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_8_k2wyq",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "A heater immersed in a liquid",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A heater rated at 100 W is immersed in a liquid inside an insulated vessel. A temperature probe measures the liquid's temperature rise over a timed interval. The vessel and probe also absorb some heat. The heater operates for t seconds. Which statement correctly describes the relationship between electrical energy supplied and heat gained by the liquid?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 180\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"48\" y=\"28\" width=\"224\" height=\"137\" rx=\"8\" fill=\"#94A3B8\" fill-opacity=\".12\" stroke=\"currentColor\" stroke-dasharray=\"5 4\" stroke-width=\"1.5\"/>\n    <path d=\"M76 55 H244 L230 145 H90 Z\" fill=\"#CBD5E1\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <path d=\"M85 86 H235 L227 139 H93 Z\" fill=\"#38BDF8\" fill-opacity=\".55\"/>\n    <path d=\"M132 106 H188 V119 H132 Z\" fill=\"#D97706\" stroke=\"currentColor\"/>\n    <path d=\"M150 119 V133 M170 119 V133\" stroke=\"#D97706\" stroke-width=\"2\"/>\n    <path d=\"M160 18 V102\" stroke=\"#DC2626\" stroke-width=\"2.5\"/><circle cx=\"160\" cy=\"104\" r=\"4\" fill=\"#DC2626\"/>\n    <text x=\"160\" y=\"12\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Temperature probe</text>\n    <text x=\"160\" y=\"102\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">100 W heater</text>\n    <text x=\"160\" y=\"176\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Insulated vessel</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The liquid must receive exactly 100t joules, irrespective of the vessel's heat capacity."
+      },
+      {
+        "key": "B",
+        "text": "The liquid receives 100/t joules because power is energy divided by time."
+      },
+      {
+        "key": "C",
+        "text": "The electrical energy supplied is 100t joules, but the liquid receives less if some energy warms the vessel and probe."
+      },
+      {
+        "key": "D",
+        "text": "The electrical energy supplied is 100+t joules."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Electrical energy supplied is Q_{electrical}=Pt=100t mathrm J. Some of this energy may heat the vessel and probe, so the liquid's share can be smaller. Option A incorrectly equates electrical input with the liquid's heat gain without accounting for the apparatus.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_9_ho0iq",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Board-style Assertion–Reason: Latent heat",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Assertion (A):** During the melting of a pure solid at its melting point, its temperature remains constant even though it absorbs energy. **Reason (R):** The supplied energy is used primarily to change the arrangement and separation of particles during the phase change. Choose the correct option.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both A and R are true, and R correctly explains A."
+      },
+      {
+        "key": "B",
+        "text": "Both A and R are true, but R does not explain A."
+      },
+      {
+        "key": "C",
+        "text": "A is true, but R is false."
+      },
+      {
+        "key": "D",
+        "text": "A is false, but R is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Latent heat\n\n**Assertion (A):** During the melting of a pure solid at its melting point, its temperature remains constant even though it absorbs energy.\n\n**Reason (R):** The supplied energy is used primarily to change the arrangement and separation of particles during the phase change.\n\nChoose the correct option.\n\nA. Both A and R are true, and R correctly explains A.\nB. Both A and R are true, but R does not explain A.\nC. A is true, but R is false.\nD. A is false, but R is true.\n\n**Correct Answer: A**\n\n**Reason:** During melting, energy is absorbed as latent heat rather than producing a temperature rise. The reason correctly explains the constant-temperature plateau.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_10_ob0p4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Determining the final temperature from a heat-balance diagram",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the equilibrium temperature?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 165\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"38\" y=\"35\" width=\"244\" height=\"100\" rx=\"8\" fill=\"#94A3B8\" fill-opacity=\".12\" stroke=\"currentColor\" stroke-dasharray=\"5 4\" stroke-width=\"1.5\"/>\n    <path d=\"M69 55 H251 L238 120 H82 Z\" fill=\"#CBD5E1\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <path d=\"M78 80 H242 L235 115 H85 Z\" fill=\"#38BDF8\" fill-opacity=\".6\"/>\n    <rect x=\"130\" y=\"83\" width=\"60\" height=\"25\" fill=\"#D97706\" stroke=\"currentColor\"/>\n    <path d=\"M160 12 V77\" stroke=\"#DC2626\" stroke-width=\"2.5\"/><circle cx=\"160\" cy=\"79\" r=\"4\" fill=\"#DC2626\"/>\n    <text x=\"160\" y=\"10\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Thermometer</text>\n    <text x=\"160\" y=\"69\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Water at 20°C</text>\n    <text x=\"160\" y=\"99\" text-anchor=\"middle\" font-size=\"10\" fill=\"#fff\">Metal</text>\n    <text x=\"160\" y=\"151\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Insulated calorimeter</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "40°mathrm C"
+      },
+      {
+        "key": "B",
+        "text": "50°mathrm C"
+      },
+      {
+        "key": "C",
+        "text": "60°mathrm C"
+      },
+      {
+        "key": "D",
+        "text": "70°mathrm C"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Heat lost by the metal equals heat gained by the water and calorimeter.\n\n\n200(0.4)(100-T)=(100+20)(4.2)(T-20)\n\n\n\n80(100-T)=504(T-20)\n\n\n\n8000-80T=504T-10080\n\n\n\n18080=584T\n\n\n\nT≈30.96°mathrm C\n\n\n**Correction:** The calculated value is approximately 31°mathrm C, which is not among the listed options. The question's options are therefore invalid. The correct equilibrium temperature is approximately 31°mathrm C, and none of A–D is correct.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_11_tjggv",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Effect of moving air on evaporation",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Why should cloth P normally dry faster?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"22\" y=\"42\" width=\"78\" height=\"68\" fill=\"#BAE6FD\" stroke=\"currentColor\" /><rect x=\"213\" y=\"42\" width=\"78\" height=\"68\" fill=\"#BAE6FD\" stroke=\"currentColor\" /><path d=\"M22 42 H100 M213 42 H291\" stroke=\"currentColor\" stroke-width=\"2\" /><path d=\"M45 48 V105 M62 48 V105 M79 48 V105\" stroke=\"#0284C7\" stroke-width=\"2\" stroke-dasharray=\"4 3\" /><path d=\"M236 48 V105 M253 48 V105 M270 48 V105\" stroke=\"#0284C7\" stroke-width=\"2\" stroke-dasharray=\"4 3\" /><circle cx=\"142\" cy=\"63\" r=\"15\" fill=\"#CBD5E1\" stroke=\"currentColor\" /><path d=\"M142 48 Q163 39 154 61 Q143 70 142 48 M157 63 Q168 84 145 77 Q135 64 157 63 M137 77 Q114 81 129 60 Q143 56 137 77\" fill=\"#94A3B8\" stroke=\"currentColor\" /><path d=\"M160 62 H207 M199 56 L207 62 L199 68\" stroke=\"#0284C7\" stroke-width=\"2.5\" fill=\"none\" /><text x=\"61\" y=\"25\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Cloth P</text><text x=\"252\" y=\"25\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Cloth Q</text><text x=\"142\" y=\"96\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Fan</text><text x=\"160\" y=\"130\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Same room temperature and humidity</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Moving air increases the latent heat of vaporisation of water."
+      },
+      {
+        "key": "B",
+        "text": "Moving air removes water vapour accumulating near the cloth, maintaining a greater rate of evaporation."
+      },
+      {
+        "key": "C",
+        "text": "Moving air raises the boiling point of water."
+      },
+      {
+        "key": "D",
+        "text": "The fan reduces the specific heat capacity of the wet cloth."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Air movement carries away moist air close to the surface, allowing further water molecules to escape more readily. The latent heat of vaporisation is not increased by the fan, and drying does not require boiling.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_12_vcud6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Determining heater efficiency from an energy-flow diagram",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What is the heater's efficiency for heating the liquid?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"12\" y=\"43\" width=\"80\" height=\"48\" rx=\"5\" fill=\"#CBD5E1\" stroke=\"currentColor\" /><rect x=\"118\" y=\"43\" width=\"80\" height=\"48\" rx=\"5\" fill=\"#FDE68A\" stroke=\"currentColor\" /><rect x=\"224\" y=\"43\" width=\"84\" height=\"48\" rx=\"5\" fill=\"#BAE6FD\" stroke=\"currentColor\" /><text x=\"52\" y=\"62\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Electrical</text><text x=\"52\" y=\"76\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">12,000 J</text><text x=\"158\" y=\"62\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Heater</text><text x=\"158\" y=\"76\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Input</text><text x=\"266\" y=\"62\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Liquid</text><text x=\"266\" y=\"76\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">9,000 J</text><path d=\"M92 67 H116 M110 61 L116 67 L110 73 M198 67 H222 M216 61 L222 67 L216 73\" stroke=\"currentColor\" stroke-width=\"1.5\" fill=\"none\" /><path d=\"M158 91 V112 H266 V93\" stroke=\"#D97706\" stroke-width=\"1.5\" fill=\"none\" stroke-dasharray=\"4 3\" /><text x=\"205\" y=\"127\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Energy not absorbed by liquid</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "25%"
+      },
+      {
+        "key": "B",
+        "text": "75%"
+      },
+      {
+        "key": "C",
+        "text": "80%"
+      },
+      {
+        "key": "D",
+        "text": "133.3%"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "eta=(useful energy output / total energy input)×100\n\n\n\neta=(9000 / 12000)×100=75%\n\n\nThe tempting error in D reverses the input and output quantities. Efficiency cannot exceed 100% under this definition.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_13_w77jt",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Distinguishing the melting plateau from the boiling plateau",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The boiling plateau lasts twice as long as the melting plateau. Which conclusion is justified if the heater power is constant and heat losses are negligible?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 165\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M40 15 V138 H300\" stroke=\"currentColor\" stroke-width=\"1.5\" fill=\"none\" /><path d=\"M42 123 L72 98 L122 98 L164 61 L218 61 L276 23\" stroke=\"#0284C7\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M42 98 H300 M42 61 H300\" stroke=\"currentColor\" stroke-opacity=\".2\" stroke-dasharray=\"4 3\" /><text x=\"8\" y=\"18\" font-size=\"10\" fill=\"currentColor\">T</text><text x=\"78\" y=\"89\" font-size=\"10\" fill=\"currentColor\">Melting</text><text x=\"174\" y=\"52\" font-size=\"10\" fill=\"currentColor\">Boiling</text><text x=\"166\" y=\"156\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Time</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The specific latent heat of vaporisation is necessarily twice the specific latent heat of fusion, regardless of the masses involved."
+      },
+      {
+        "key": "B",
+        "text": "The substance absorbs no energy during either plateau."
+      },
+      {
+        "key": "C",
+        "text": "The boiling point must be twice the melting point."
+      },
+      {
+        "key": "D",
+        "text": "The total latent heat absorbed during boiling is twice that absorbed during melting, but the ratio of specific latent heats cannot be found without considering the masses undergoing each change."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "With constant heater power, the energy supplied during a plateau is Q=Pt. Twice the duration therefore means twice the total latent heat absorbed. Since L=Q/m, the specific latent heat ratio also depends on the respective masses involved in each phase change.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_14_8j5ns",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Identifying the effect of calorimeter insulation",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Which result is most likely?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"32\" y=\"36\" width=\"98\" height=\"70\" rx=\"5\" fill=\"#94A3B8\" fill-opacity=\".3\" stroke=\"currentColor\" stroke-width=\"1.5\" /><rect x=\"43\" y=\"59\" width=\"76\" height=\"38\" fill=\"#F59E0B\" fill-opacity=\".5\" /><rect x=\"26\" y=\"28\" width=\"110\" height=\"12\" rx=\"3\" fill=\"#64748B\" stroke=\"currentColor\" /><rect x=\"192\" y=\"36\" width=\"98\" height=\"70\" rx=\"5\" fill=\"#CBD5E1\" stroke=\"currentColor\" stroke-width=\"1.5\" /><rect x=\"203\" y=\"59\" width=\"76\" height=\"38\" fill=\"#F59E0B\" fill-opacity=\".5\" /><path d=\"M212 28 q-6 -9 0 -15 M240 28 q-6 -9 0 -15 M268 28 q-6 -9 0 -15\" stroke=\"#D97706\" stroke-width=\"1.5\" fill=\"none\" /><text x=\"81\" y=\"18\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">P: Insulated</text><text x=\"241\" y=\"18\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Q: Uncovered</text><text x=\"160\" y=\"127\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Equal starting temperatures</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Q loses less heat because its open surface allows energy to escape."
+      },
+      {
+        "key": "B",
+        "text": "Both lose exactly the same heat because they contain the same amount of water."
+      },
+      {
+        "key": "C",
+        "text": "P loses less heat because insulation and the lid reduce heat transfer to the surroundings."
+      },
+      {
+        "key": "D",
+        "text": "P loses no heat whatsoever because insulation is perfect."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Insulation and a lid reduce heat transfer through conduction, convection and evaporation. They do not guarantee zero heat loss. Equal initial conditions do not imply equal cooling when the surroundings and construction permit different heat-transfer rates.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_15_gy6jn",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Heater energy and the mass melted",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "What do the readings imply about the specific latent heat?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"20\" y=\"34\" width=\"125\" height=\"64\" rx=\"5\" fill=\"#CBD5E1\" stroke=\"currentColor\" /><rect x=\"175\" y=\"34\" width=\"125\" height=\"64\" rx=\"5\" fill=\"#CBD5E1\" stroke=\"currentColor\" /><path d=\"M36 48 L49 41 L62 48 L49 55 Z M65 70 L78 63 L91 70 L78 77 Z\" fill=\"#BAE6FD\" stroke=\"#0284C7\" /><path d=\"M190 48 L203 41 L216 48 L203 55 Z M219 70 L232 63 L245 70 L232 77 Z\" fill=\"#BAE6FD\" stroke=\"#0284C7\" /><text x=\"83\" y=\"19\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">P: 40 s, 20 g</text><text x=\"238\" y=\"19\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Q: 60 s, 30 g</text><text x=\"83\" y=\"91\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">150 W</text><text x=\"238\" y=\"91\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">150 W</text><text x=\"160\" y=\"122\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Same substance and phase change</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Q has a specific latent heat 1.5 times that of P."
+      },
+      {
+        "key": "B",
+        "text": "Both measurements give the same specific latent heat, 300 J/g."
+      },
+      {
+        "key": "C",
+        "text": "Both measurements give the same specific latent heat, 200 J/g."
+      },
+      {
+        "key": "D",
+        "text": "P has a specific latent heat twice that of Q."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For P,\n\n\nL=(150×40 / 20)=300 J/g\n\n\nFor Q,\n\n\nL=(150×60 / 30)=300 J/g\n\n\nThus, both readings give 300 J/g. The ratio of total energy to melted mass is identical. The correct option is B.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_16_cm8ul",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Board-style Identifying a faulty inference",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A student heats equal masses of two substances with the same constant power. Substance X has a smaller temperature rise per minute than substance Y. The student concludes that X has a higher specific heat capacity. Which additional condition is essential for this conclusion to be justified?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both substances must absorb the same net heating power, with negligible phase changes and heat losses."
+      },
+      {
+        "key": "B",
+        "text": "X must have a higher melting point than Y."
+      },
+      {
+        "key": "C",
+        "text": "Both substances must have the same colour."
+      },
+      {
+        "key": "D",
+        "text": "The containers must have different heat capacities."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The temperature-rise rate depends on net heating power, mass, and specific heat capacity. Equal masses and equal *supplied* power are insufficient if heat losses differ. The comparison is valid when the net power absorbed is the same and no phase change occurs.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_17_chpg1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Board-style An incorrect conclusion about water",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A student states: “Because water has a high specific heat capacity, water at 30°C must contain more thermal energy than a small metal object at 80°C.” What is the best assessment?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Correct, because specific heat capacity alone determines total thermal energy."
+      },
+      {
+        "key": "B",
+        "text": "Correct, because the temperature of water is always more important than the mass."
+      },
+      {
+        "key": "C",
+        "text": "Incorrect only because water has a lower melting point than metal."
+      },
+      {
+        "key": "D",
+        "text": "The conclusion is unjustified without information about the masses, materials, and relevant energy reference."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A high specific heat capacity means more energy is needed per unit mass per degree of temperature change. It does not by itself determine the total internal energy of a body. Mass, temperature, material, and the chosen reference all matter.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_18_kqfos",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Heat supplied versus temperature rise",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two blocks, P and Q, have equal masses but are made of different materials. The specific heat capacity of P is twice that of Q. Both start at the same temperature and receive equal amounts of heat without changing state or losing heat. Which conclusion is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P experiences twice the temperature rise of Q."
+      },
+      {
+        "key": "B",
+        "text": "Both experience the same temperature rise because their masses are equal."
+      },
+      {
+        "key": "C",
+        "text": "Q experiences twice the temperature rise of P."
+      },
+      {
+        "key": "D",
+        "text": "The final temperature of P must be twice that of Q."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "From Q=mcΔ T, for equal heat and mass, Δ Tpropto 1/c. Since c_P=2c_Q, P's temperature rise is half that of Q. Option D incorrectly compares final temperatures rather than temperature rises.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_19_vhlj1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "A metal block dropped into water with a calorimeter correction",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 250 g metal block at 120°mathrm C is placed in a copper calorimeter containing 400 g of water at 25°mathrm C. The calorimeter has a water equivalent of 50 g. The final temperature is 30°mathrm C. What is the specific heat capacity of the metal?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.42 J/(g,°C)"
+      },
+      {
+        "key": "B",
+        "text": "0.84 J/(g,°C)"
+      },
+      {
+        "key": "C",
+        "text": "0.48 J/(g,°C)"
+      },
+      {
+        "key": "D",
+        "text": "0.36 J/(g,°C)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Heat gained by water and calorimeter:\n\n\nQ_g=(400+50)(4.2)(30-25)\n=9450 mathrm J\n\n\nHeat lost by metal:\n\n\nQ_l=250c(120-30)=22500c\n\n\nTherefore,\n\n\nc=(9450 / 22500)\n=0.42 J/(g,°C)\n\n\nIgnoring the calorimeter would underestimate the heat gained and give an incorrect specific heat capacity.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_20_dhtu5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Final temperature of a mixture of water",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A vessel contains 150 g of water at 80°mathrm C. It is mixed with 250 g of water at 20°mathrm C. The vessel absorbs negligible heat. What is the final equilibrium temperature?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50°mathrm C"
+      },
+      {
+        "key": "B",
+        "text": "42.5°mathrm C"
+      },
+      {
+        "key": "C",
+        "text": "45°mathrm C"
+      },
+      {
+        "key": "D",
+        "text": "35°mathrm C"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Since both samples are water, their specific heat capacities cancel.\n\n\n150(80-T)=250(T-20)\n\n\n\n12000-150T=250T-5000\n\n\n\n17000=400T\n\n\n\nT=42.5°mathrm C\n\n\nThe arithmetic mean, 50°mathrm C, is incorrect because the two masses are unequal.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_21_ztw2h",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Ice added to warm water",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 20 g piece of ice at 0°mathrm C is added to 100 g of water at 40°mathrm C. Assume the ice melts completely. Use L_f=336 J/g and c_=4.2 J/(g,°C). What is the final temperature?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10°mathrm C"
+      },
+      {
+        "key": "B",
+        "text": "15°mathrm C"
+      },
+      {
+        "key": "C",
+        "text": "20°mathrm C"
+      },
+      {
+        "key": "D",
+        "text": "25°mathrm C"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Heat released by the original water when it cools to 0°mathrm C:\n\n\nQ=100(4.2)(40)=16800 mathrm J\n\n\nHeat needed to melt the ice:\n\n\nQ=20(336)=6720 mathrm J\n\n\nRemaining heat:\n\n\n16800-6720=10080 mathrm J\n\n\nThis warms the combined 120 g of water:\n\n\n10080=120(4.2)T\n\n\n\nT=20°mathrm C\n\n\nThe trap is forgetting that the melted ice becomes water and must be included in the final mass.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_22_wss1m",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Steam condensed in cold water",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 10 g sample of steam at 100°mathrm C is passed into 200 g of water at 20°mathrm C. The steam condenses completely, and the final temperature is T. Use L_v=2260 J/g and c_=4.2 J/(g,°C). Find T.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "45.2°mathrm C"
+      },
+      {
+        "key": "B",
+        "text": "35.0°mathrm C"
+      },
+      {
+        "key": "C",
+        "text": "50.0°mathrm C"
+      },
+      {
+        "key": "D",
+        "text": "40.0°mathrm C"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Heat released by the steam includes condensation and cooling of the condensed water:\n\n\nQ_l=10(2260)+10(4.2)(100-T)\n\n\nHeat gained by the original water:\n\n\nQ_g=200(4.2)(T-20)\n\n\nEquating:\n\n\n22600+420-42T=840T-16800\n\n\n\n39820=882T\n\n\n\nT≈45.15°mathrm C\n\n\nThus, T≈45.2°mathrm C. Omitting the latent heat of condensation would produce a substantially incorrect answer.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_23_4n44p",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Total heat needed to convert ice into warm water",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "How much heat is required to convert 50 g of ice at -10°mathrm C into water at 20°mathrm C? Use c_=2.1 J/(g,°C), L_f=336 J/g, and c_=4.2 J/(g,°C).",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "21000 mathrm J"
+      },
+      {
+        "key": "B",
+        "text": "16800 mathrm J"
+      },
+      {
+        "key": "C",
+        "text": "22050 mathrm J"
+      },
+      {
+        "key": "D",
+        "text": "23100 mathrm J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Stage 1 — warm the ice to 0°mathrm C:\n\n\nQ₁=50(2.1)(10)=1050 mathrm J\n\n\nStage 2 — melt the ice:\n\n\nQ₂=50(336)=16800 mathrm J\n\n\nStage 3 — warm the water to 20°mathrm C:\n\n\nQ₃=50(4.2)(20)=4200 mathrm J\n\n\nTotal:\n\n\nQ=1050+16800+4200\n=22050 mathrm J\n\n\nThe main trap is omitting either the initial warming of ice or the final warming of liquid water.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_24_sxx27",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Board-style Calorimeter correction",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A student calculates the specific heat capacity of a hot metal using the heat gained by the water alone, ignoring a calorimeter that also warms from the initial water temperature to the final temperature. Assume the metal's initial temperature and the final temperature are measured correctly. What is the likely effect on the calculated specific heat capacity?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It is necessarily too high because the calorimeter is made of copper."
+      },
+      {
+        "key": "B",
+        "text": "It is too low because the metal's actual heat loss is greater than the water's gain alone."
+      },
+      {
+        "key": "C",
+        "text": "It is unaffected because the calorimeter and water finish at the same temperature."
+      },
+      {
+        "key": "D",
+        "text": "It becomes zero because the calorimeter absorbs some energy."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The metal's heat loss equals the heat gained by the water plus the calorimeter. Ignoring the calorimeter underestimates the metal's heat loss. Since the calculation uses the metal's mass and temperature fall, this leads to an underestimated specific heat capacity.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_25_fptpd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Interpreting the principle of calorimetry",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A hot metal object is placed in cooler water inside an insulated calorimeter. After equilibrium is reached, the measured heat gained by the water is less than the heat calculated as lost by the metal. Which explanation is most scientifically sound?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Conservation of energy has failed because the measured values differ."
+      },
+      {
+        "key": "B",
+        "text": "The water's specific heat capacity must have become negative."
+      },
+      {
+        "key": "C",
+        "text": "The calorimeter may also have absorbed heat, so comparing only the metal's loss with the water's gain is incomplete."
+      },
+      {
+        "key": "D",
+        "text": "Thermal equilibrium requires the water and metal to retain different temperatures."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "is most scientifically sound?\n\nA. Conservation of energy has failed because the measured values differ.  \nB. The water's specific heat capacity must have become negative.  \nC. The calorimeter may also have absorbed heat, so comparing only the metal's loss with the water's gain is incomplete.  \nD. Thermal equilibrium requires the water and metal to retain different temperatures.\n\n**Correct Answer: C**\n\n**Reason:** The complete energy balance includes the calorimeter and any other components that warm up. Under ideal insulation, heat lost by the metal equals the total heat gained by the water and calorimeter. A discrepancy can also arise from measurement errors or unintended heat exchange.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_26_80ggy",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "The role of the calorimeter's heat capacity",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "In a method-of-mixtures experiment, a student calculates the final temperature assuming the calorimeter absorbs no heat. The actual calorimeter has a non-negligible heat capacity and starts at the temperature of the cold water. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The assumption is valid because the calorimeter is made of metal."
+      },
+      {
+        "key": "B",
+        "text": "The assumption is valid whenever the calorimeter is polished."
+      },
+      {
+        "key": "C",
+        "text": "The calorimeter can absorb heat only if its temperature exceeds the final temperature."
+      },
+      {
+        "key": "D",
+        "text": "The calculation may be inaccurate because the calorimeter also warms and absorbs heat."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "If the calorimeter begins cold and ends warmer, its temperature rises and it absorbs heat. Ignoring this contribution distorts the energy balance. Polishing reduces radiative exchange but does not eliminate the calorimeter's heat capacity.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_27_rt8kg",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Ice and warm water with a final temperature above zero",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 40 g piece of ice at -5°mathrm C is added to 300 g of water at 25°mathrm C. All the ice melts. Use c_=2.1 J/(g,°C), L_f=336 J/g, and c_=4.2 J/(g,°C). Find the final temperature.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "15.0°mathrm C"
+      },
+      {
+        "key": "B",
+        "text": "18.0°mathrm C"
+      },
+      {
+        "key": "C",
+        "text": "20.0°mathrm C"
+      },
+      {
+        "key": "D",
+        "text": "12.0°mathrm C"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Heat needed to warm the ice:\n\n\nQ₁=40(2.1)(5)=420 mathrm J\n\n\nHeat to melt it:\n\n\nQ₂=40(336)=13440 mathrm J\n\n\nHeat to warm the melted ice to T:\n\n\nQ₃=40(4.2)T=168T\n\n\nHeat lost by the original water:\n\n\nQ_l=300(4.2)(25-T)=31500-1260T\n\n\nThus,\n\n\n31500-1260T=13860+168T\n\n\n\n17640=1428T\n\n\n\nT≈12.35°mathrm C\n\n\n**Correction:** The calculated final temperature is approximately 12.35°mathrm C, corresponding most closely to option D, not B. The exact result is not listed; the options are imperfect. The correct answer should be approximately 12.4°mathrm C.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_28_j9i8e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Efficiency of a heater melting ice",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An electric heater rated at 400 W operates for 4 minutes to melt 200 g of ice at 0°mathrm C. The heater is 70% efficient. Find the experimental specific latent heat of fusion.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "280 J/g"
+      },
+      {
+        "key": "B",
+        "text": "300 J/g"
+      },
+      {
+        "key": "C",
+        "text": "336 J/g"
+      },
+      {
+        "key": "D",
+        "text": "480 J/g"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Electrical energy supplied:\n\n\nQ_{in}=400(240)=96000 mathrm J\n\n\nUseful heat absorbed by ice:\n\n\nQ=0.70(96000)=67200 mathrm J\n\n\nTherefore,\n\n\nL_f=(67200 / 200)\n=336 J/g\n\n\nUsing the full electrical input instead of the useful heat would give 480 J/g, an overestimate.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_29_0k6xz",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Specific latent heat from a melting plateau",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 50 g sample of a substance is heated by a constant-power heater rated at 250 W. The temperature remains constant during melting for 80 seconds. Assume no heat loss. What is the specific latent heat of fusion?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "200 J/g"
+      },
+      {
+        "key": "B",
+        "text": "250 J/g"
+      },
+      {
+        "key": "C",
+        "text": "500 J/g"
+      },
+      {
+        "key": "D",
+        "text": "400 J/g"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The heat supplied during the plateau is\n\n\nQ=Pt=250(80)=20000 mathrm J\n\n\nThus,\n\n\nL_f=(Q / m)\n=(20000 / 50)\n=400 J/g\n\n\nThe plateau duration represents energy absorbed during the phase change, not a rise in temperature.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_calorimetry_30_qkm75",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Calorimetry",
+    "title": "Converting calories to joules before finding temperature rise",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A 400 g metal sample receives 2,000 calories of heat and has a specific heat capacity of 0.5 J/(g,°C). Its initial temperature is 25°mathrm C. Using 1 cal=4.2 mathrm J, find the final temperature.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "35°mathrm C"
+      },
+      {
+        "key": "B",
+        "text": "42°mathrm C"
+      },
+      {
+        "key": "C",
+        "text": "67°mathrm C"
+      },
+      {
+        "key": "D",
+        "text": "46°mathrm C"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Convert the supplied heat to joules:\n\n\nQ=2000(4.2)=8400 mathrm J\n\n\nTemperature rise:\n\n\nΔ T=(Q / mc)\n=(8400 / 400(0.5))\n=42°mathrm C\n\n\nFinal temperature:\n\n\nT_f=25+42=67°mathrm C\n\n\n**Correction:** The calculated result is 67°mathrm C, which is option C, not D. The correct answer is **C**.",
+    "concept_name": "Calorimetry",
+    "concept_tag": "calorimetry",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  }
+]

@@ -1,0 +1,1329 @@
+[
+  {
+    "globalId": "qb_hots_spectrum_1_xxk25",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Board-style — Identifying a pure spectrum",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Which experimental arrangement is most likely to produce a pure spectrum of white light?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A broad slit, a prism and a screen placed very close to the prism"
+      },
+      {
+        "key": "B",
+        "text": "A white screen viewed through a coloured glass plate without a slit"
+      },
+      {
+        "key": "C",
+        "text": "A narrow slit, a collimating arrangement, a prism and a suitably positioned screen"
+      },
+      {
+        "key": "D",
+        "text": "A broad source placed directly against a screen, without a dispersing element"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A narrow slit helps reduce overlap of the images of different wavelengths. A collimating arrangement and a suitable prism–screen geometry improve spectral separation. A prism alone does not guarantee a pure spectrum if the source slit is too broad or the arrangement is unsuitable.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_2_8km14",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Refractive index from the symmetric prism position",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A glass prism has an angle of 50^°. At minimum deviation, the angle of incidence is 40^°. What is the refractive index of the prism relative to air?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "dfrac{sin25^°}{sin40^°}"
+      },
+      {
+        "key": "B",
+        "text": "dfrac{sin40^°}{sin25^°}"
+      },
+      {
+        "key": "C",
+        "text": "dfrac{sin50^°}{sin40^°}"
+      },
+      {
+        "key": "D",
+        "text": "dfrac{sin65^°}{sin25^°}"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "At minimum deviation, i=e, and the internal refraction angles are equal:\n\n\nr=frac A2=(50^° / 2)=25^°.\n\n\nUsing Snell's law at the first face,\n\n\nn=(sin i / sin r)\n=(sin40^° / sin25^°)\n≈1.52.\n\n\nOption A reverses the ratio and would incorrectly give a refractive index below one.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_3_8hiys",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Minimum deviation and refractive index",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A prism has an angle A=60^° and a minimum deviation delta_m=40^°. Calculate its refractive index relative to air.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "dfrac{sin 40^°}{sin 30^°}"
+      },
+      {
+        "key": "B",
+        "text": "dfrac{sin 50^°}{sin 30^°}"
+      },
+      {
+        "key": "C",
+        "text": "dfrac{sin 70^°}{sin 60^°}"
+      },
+      {
+        "key": "D",
+        "text": "dfrac{sin 30^°}{sin 50^°}"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "At minimum deviation,\n\n\nn=(sin[(A+delta_m)/2] / sin(A/2)).\n\n\nTherefore,\n\n\nn=(sin 50^° / sin30^°)\n≈(0.7660 / 0.5)\n≈1.532.\n\n\nOption A incorrectly uses the minimum deviation directly in the numerator.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_4_xf4m1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Frequency of yellow light",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Monochromatic yellow light has a wavelength of 500 nm in air. Using c=3×10^8 m/s, calculate its frequency.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.5×10^{15} Hz"
+      },
+      {
+        "key": "B",
+        "text": "5.0×10^{14} Hz"
+      },
+      {
+        "key": "C",
+        "text": "6.0×10^{14} Hz"
+      },
+      {
+        "key": "D",
+        "text": "6.0×10^{11} Hz"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Convert wavelength into metres:\n\n\nlambda=500×10^{-9} m.\n\n\nThen,\n\n\nf=(c / lambda)\n=(3×10^8 / 5×10^{-7)}\n=6.0×10^{14} Hz.\n\n\nOption B results from an incorrect conversion of nanometres to metres.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_5_w7y1y",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Colour-dependent deviation: comparing two emergent rays",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "White light passes through an ordinary glass prism. Two rays emerge towards a screen: a red ray R and a violet ray V. Both are measured from the same original incident direction. The diagram exaggerates the separation for clarity. Which comparison is physically correct for ordinary glass?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 175\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"100,35 100,135 165,85\" fill=\"#60A5FA\" fill-opacity=\".17\" stroke=\"#2563EB\" stroke-width=\"2\" /><path d=\"M10 85 L100 85\" stroke=\"#F59E0B\" stroke-width=\"2.5\" /><path d=\"M165 85 L315 85\" stroke=\"#DC2626\" stroke-width=\"2.5\" /><path d=\"M165 85 L310 30\" stroke=\"#7C3AED\" stroke-width=\"2.5\" /><path d=\"M165 85 L315 85\" stroke=\"#64748B\" stroke-dasharray=\"4 4\" /><text x=\"270\" y=\"75\" font-size=\"12\" fill=\"#DC2626\">R</text><text x=\"270\" y=\"25\" font-size=\"12\" fill=\"#7C3AED\">V</text><text x=\"18\" y=\"73\" font-size=\"11\" fill=\"currentColor\">White ray</text><text x=\"180\" y=\"155\" font-size=\"11\" fill=\"currentColor\">Screen direction</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "delta_R>delta_V, because red has the longer wavelength."
+      },
+      {
+        "key": "B",
+        "text": "delta_R=delta_V, because both colours enter the same prism."
+      },
+      {
+        "key": "C",
+        "text": "Violet has the smaller refractive index, so it bends less at both faces."
+      },
+      {
+        "key": "D",
+        "text": "delta_V>delta_R, because the refractive index of glass is generally greater for violet than for red."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Normal dispersion means n_V>n_R. Consequently, violet light generally experiences greater net deviation than red light. Using the same prism does not make the deviations equal because the refractive indices depend on wavelength.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_6_7ywe0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "X-rays: penetration and absorption",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A beam of X-rays passes through three materials of increasing effective thickness: paper, a thin aluminium sheet and a thick lead block. Detectors are positioned behind each material. Which conclusion is scientifically sound?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 170\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"55\" width=\"40\" height=\"50\" fill=\"#64748B\" fill-opacity=\".15\" stroke=\"#64748B\" /><rect x=\"100\" y=\"45\" width=\"45\" height=\"70\" fill=\"#94A3B8\" fill-opacity=\".65\" stroke=\"#64748B\" /><rect x=\"205\" y=\"35\" width=\"50\" height=\"90\" fill=\"#475569\" stroke=\"#334155\" /><path d=\"M50 80 L100 80 M145 80 L205 80 M255 80 L310 80\" stroke=\"#7C3AED\" stroke-width=\"2.5\" stroke-dasharray=\"5 3\" /><text x=\"30\" y=\"43\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Paper</text><text x=\"122\" y=\"32\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Aluminium</text><text x=\"230\" y=\"22\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Lead</text><text x=\"30\" y=\"135\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">High</text><text x=\"122\" y=\"135\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Reduced</text><text x=\"230\" y=\"140\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Strongly reduced</text><text x=\"170\" y=\"160\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Qualitative comparison; thickness and energy matter</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "All X-rays pass through every material without absorption because they are electromagnetic waves."
+      },
+      {
+        "key": "B",
+        "text": "Paper must attenuate X-rays more strongly than lead in every possible arrangement."
+      },
+      {
+        "key": "C",
+        "text": "X-rays are charged particles, so their penetration depends only on electric attraction."
+      },
+      {
+        "key": "D",
+        "text": "X-rays can penetrate soft materials relatively well, while dense, high-atomic-number materials such as lead can attenuate them strongly; the result depends on energy and thickness."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "X-rays are high-frequency electromagnetic waves. Their attenuation depends on photon energy, material composition and thickness. Lead is commonly used for shielding because it can attenuate X-rays strongly, but no material provides absolute protection under every condition.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_7_rqgzb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Recombination of the spectrum using a second prism",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "The first glass prism disperses white light into VIBGYOR. A second identical prism is inverted relative to the first and placed in the path of the spectrum so that the colours can recombine. The emergent beam from the second prism is approximately white. Which explanation is correct?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 350 210\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"80,50 80,145 150,98\" fill=\"#60A5FA\" fill-opacity=\".2\" stroke=\"#2563EB\" stroke-width=\"2\" /><polygon points=\"235,50 305,98 235,145\" fill=\"#60A5FA\" fill-opacity=\".2\" stroke=\"#2563EB\" stroke-width=\"2\" /><path d=\"M10 98 L80 98\" stroke=\"#F59E0B\" stroke-width=\"3\" /><path d=\"M150 98 L235 65\" stroke=\"#8B5CF6\" stroke-width=\"1.8\" /><path d=\"M150 98 L235 75\" stroke=\"#4F46E5\" stroke-width=\"1.8\" /><path d=\"M150 98 L235 85\" stroke=\"#2563EB\" stroke-width=\"1.8\" /><path d=\"M150 98 L235 95\" stroke=\"#16A34A\" stroke-width=\"1.8\" /><path d=\"M150 98 L235 105\" stroke=\"#EAB308\" stroke-width=\"1.8\" /><path d=\"M150 98 L235 115\" stroke=\"#F97316\" stroke-width=\"1.8\" /><path d=\"M150 98 L235 125\" stroke=\"#DC2626\" stroke-width=\"1.8\" /><path d=\"M305 98 L340 98\" stroke=\"#F59E0B\" stroke-width=\"3\" /><text x=\"115\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">Prism 1</text><text x=\"270\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">Prism 2</text><text x=\"45\" y=\"87\" font-size=\"10\" fill=\"currentColor\">White</text><text x=\"320\" y=\"87\" font-size=\"10\" fill=\"currentColor\">White</text><text x=\"175\" y=\"160\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">Dispersed colours</text><text x=\"175\" y=\"183\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">Second prism opposes dispersion</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The second prism absorbs six colours and transmits only red."
+      },
+      {
+        "key": "B",
+        "text": "The second prism converts every colour into violet."
+      },
+      {
+        "key": "C",
+        "text": "The second prism produces an equal and opposite angular separation of the colours, allowing them to overlap again."
+      },
+      {
+        "key": "D",
+        "text": "The first prism changes the frequency of each colour, and the second restores the original frequencies."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "is correct?\n\nA) The second prism absorbs six colours and transmits only red.\n\nB) The second prism converts every colour into violet.\n\nC) The second prism produces an equal and opposite angular separation of the colours, allowing them to overlap again.\n\nD) The first prism changes the frequency of each colour, and the second restores the original frequencies.\n\n**Correct Answer: C**\n\n**Reason:** The inverted second prism produces dispersion in the opposite sense. With a suitable arrangement, the separated colours overlap to form white light again. Neither prism changes the frequency of light during refraction.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_8_z4tft",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Newton’s disc: interpreting the experiment",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A circular disc is divided into seven sectors coloured violet, indigo, blue, green, yellow, orange and red. An arrow indicates rapid rotation about its central axis. After the disc rotates sufficiently rapidly, it appears nearly white or pale grey. Which conclusion is most accurate?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 200\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(125 95)\"><path d=\"M0 0 L0 -70 A70 70 0 0 1 54.7 -43.7 Z\" fill=\"#8B5CF6\" stroke=\"white\" stroke-width=\"1\" /><path d=\"M0 0 L54.7 -43.7 A70 70 0 0 1 68.3 15.6 Z\" fill=\"#4F46E5\" stroke=\"white\" stroke-width=\"1\" /><path d=\"M0 0 L68.3 15.6 A70 70 0 0 1 30.4 63.1 Z\" fill=\"#2563EB\" stroke=\"white\" stroke-width=\"1\" /><path d=\"M0 0 L30.4 63.1 A70 70 0 0 1 -30.4 63.1 Z\" fill=\"#16A34A\" stroke=\"white\" stroke-width=\"1\" /><path d=\"M0 0 L-30.4 63.1 A70 70 0 0 1 -68.3 15.6 Z\" fill=\"#EAB308\" stroke=\"white\" stroke-width=\"1\" /><path d=\"M0 0 L-68.3 15.6 A70 70 0 0 1 -54.7 -43.7 Z\" fill=\"#F97316\" stroke=\"white\" stroke-width=\"1\" /><path d=\"M0 0 L-54.7 -43.7 A70 70 0 0 1 0 -70 Z\" fill=\"#DC2626\" stroke=\"white\" stroke-width=\"1\" /><circle r=\"5\" fill=\"#475569\" /></g><path d=\"M225 48 Q265 82 240 117\" fill=\"none\" stroke=\"#64748B\" stroke-width=\"2.5\" /><path d=\"M232 109 L240 119 L246 107\" fill=\"none\" stroke=\"#64748B\" stroke-width=\"2.5\" /><text x=\"247\" y=\"72\" font-size=\"11\" fill=\"currentColor\">Rapid</text><text x=\"247\" y=\"85\" font-size=\"11\" fill=\"currentColor\">rotation</text><text x=\"125\" y=\"185\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Seven-colour disc</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The colours physically turn into white pigments during rotation."
+      },
+      {
+        "key": "B",
+        "text": "The eye integrates the rapidly changing colour stimuli, producing an approximately white or grey perception."
+      },
+      {
+        "key": "C",
+        "text": "Rotation increases the frequency of every colour until it enters the ultraviolet region."
+      },
+      {
+        "key": "D",
+        "text": "The disc proves that white light is a monochromatic radiation."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rapid rotation causes the colour sectors to be perceived together because of temporal integration in vision. Their combined appearance is approximately white or grey, depending on the pigments, illumination and disc design. White light is not monochromatic.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_9_w6l6i",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Rayleigh scattering: why the sky appears blue",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Sunlight enters the atmosphere. Shorter-wavelength blue light is scattered in several directions by small atmospheric molecules, while a larger fraction of the longer-wavelength red light continues approximately forward. For particles much smaller than the wavelength, Rayleigh scattering intensity varies approximately as 1/lambda⁴. If the wavelength of one beam is half that of another, with all other relevant conditions equal, the ratio of their scattering intensities is:",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 350 195\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><defs><marker id=\"q9arr\" markerWidth=\"7\" markerHeight=\"7\" refX=\"5\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L6 3 L0 6Z\" fill=\"#D97706\" /></marker></defs><circle cx=\"25\" cy=\"45\" r=\"16\" fill=\"#FBBF24\" stroke=\"#D97706\" /><rect x=\"70\" y=\"15\" width=\"250\" height=\"150\" rx=\"12\" fill=\"#93C5FD\" fill-opacity=\".15\" stroke=\"#60A5FA\" stroke-dasharray=\"4 4\" /><path d=\"M43 45 L150 80 L315 80\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"2.4\" marker-end=\"url(#q9arr)\" /><path d=\"M150 80 L112 35 M150 80 L205 35 M150 80 L205 125 M150 80 L105 130\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2.4\" /><circle cx=\"150\" cy=\"80\" r=\"4\" fill=\"#64748B\" /><text x=\"16\" y=\"76\" font-size=\"10\" fill=\"currentColor\">Sun</text><text x=\"220\" y=\"69\" font-size=\"11\" fill=\"#DC2626\">Red: forward</text><text x=\"210\" y=\"147\" font-size=\"11\" fill=\"#2563EB\">Blue: scattered</text><text x=\"190\" y=\"177\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Atmospheric molecules</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "16:1, shorter wavelength to longer wavelength."
+      },
+      {
+        "key": "B",
+        "text": "8:1, shorter wavelength to longer wavelength."
+      },
+      {
+        "key": "C",
+        "text": "4:1, shorter wavelength to longer wavelength."
+      },
+      {
+        "key": "D",
+        "text": "2:1, shorter wavelength to longer wavelength."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Since Ipropto 1/lambda⁴,\n\n\nfrac{I_{short}}{I_{long}}\n=≤ft(frac{lambda_{long}}{lambda_{short}}right)⁴\n=≤ft(frac{2lambda_{short}}{lambda_{short}}right)⁴\n=16.\n\n\nThus the shorter wavelength is scattered 16 times as intensely under the stated approximation. The exponent is four, not two.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_10_sn56f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Rainbow formation: dispersion and internal reflection",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A ray of sunlight enters a spherical raindrop, refracts and disperses into colours, reflects internally once, and refracts again on leaving the drop. Red and violet emerge in different directions. Which explanation best describes the primary rainbow?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 350 210\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><defs><marker id=\"q14sun\" markerWidth=\"7\" markerHeight=\"7\" refX=\"5\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L6 3 L0 6Z\" fill=\"#F59E0B\" /></marker></defs><circle cx=\"165\" cy=\"105\" r=\"66\" fill=\"#93C5FD\" fill-opacity=\".14\" stroke=\"#60A5FA\" stroke-width=\"1.7\" /><path d=\"M10 85 L108 85\" stroke=\"#F59E0B\" stroke-width=\"2.6\" marker-end=\"url(#q14sun)\" /><path d=\"M108 85 L180 70 L215 115 L210 150\" fill=\"none\" stroke=\"#F59E0B\" stroke-width=\"2.3\" /><path d=\"M210 150 L270 175\" stroke=\"#DC2626\" stroke-width=\"2.4\" /><path d=\"M210 150 L280 145\" stroke=\"#7C3AED\" stroke-width=\"2.4\" /><circle cx=\"108\" cy=\"85\" r=\"3\" fill=\"#2563EB\" /><circle cx=\"210\" cy=\"150\" r=\"3\" fill=\"#2563EB\" /><text x=\"15\" y=\"70\" font-size=\"11\" fill=\"currentColor\">Sunlight</text><text x=\"125\" y=\"55\" font-size=\"10\" fill=\"currentColor\">Refraction</text><text x=\"175\" y=\"184\" font-size=\"10\" fill=\"currentColor\">Internal reflection</text><text x=\"284\" y=\"178\" font-size=\"11\" fill=\"#DC2626\">Red</text><text x=\"284\" y=\"140\" font-size=\"11\" fill=\"#7C3AED\">Violet</text><text x=\"165\" y=\"202\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">One-reflection path (schematic)</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is formed by reflection alone; refraction and dispersion are unnecessary."
+      },
+      {
+        "key": "B",
+        "text": "It is formed because droplets emit seven new colours when sunlight heats them."
+      },
+      {
+        "key": "C",
+        "text": "It results from diffraction of sunlight around raindrops, with all wavelengths following the same path."
+      },
+      {
+        "key": "D",
+        "text": "Refraction and dispersion occur at entry, internal reflection occurs, and further refraction occurs at exit; red emerges at a larger primary-rainbow angle from the antisolar direction than violet."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "best describes the primary rainbow?\n\nA) It is formed by reflection alone; refraction and dispersion are unnecessary.\n\nB) It is formed because droplets emit seven new colours when sunlight heats them.\n\nC) It results from diffraction of sunlight around raindrops, with all wavelengths following the same path.\n\nD) Refraction and dispersion occur at entry, internal reflection occurs, and further refraction occurs at exit; red emerges at a larger primary-rainbow angle from the antisolar direction than violet.\n\n**Correct Answer: D**\n\n**Reason:** The primary rainbow involves refraction and dispersion at entry, one internal reflection, and refraction on exit. Red light is deviated less overall than violet. Consequently, red appears on the outer edge of the primary rainbow, at a larger angular radius from the antisolar point than violet. Reflection alone cannot explain the colour separation.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_11_jcl0c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Pure versus impure spectrum",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Arrangement P uses a narrow slit and a prism to form a spectrum on a screen. Arrangement Q uses a broad slit with the same prism and screen, so the images of the slit for different wavelengths overlap. Which modification most directly improves the purity of the spectrum?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 350 205\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"80\" y=\"20\" text-anchor=\"middle\" font-size=\"12\" fill=\"currentColor\">P: narrow slit</text><text x=\"265\" y=\"20\" text-anchor=\"middle\" font-size=\"12\" fill=\"currentColor\">Q: broad slit</text><rect x=\"20\" y=\"35\" width=\"12\" height=\"65\" fill=\"#64748B\" fill-opacity=\".4\" stroke=\"#64748B\" /><rect x=\"203\" y=\"35\" width=\"22\" height=\"65\" fill=\"#64748B\" fill-opacity=\".4\" stroke=\"#64748B\" /><polygon points=\"60,42 60,95 100,68\" fill=\"#60A5FA\" fill-opacity=\".2\" stroke=\"#2563EB\" /><polygon points=\"244,42 244,95 284,68\" fill=\"#60A5FA\" fill-opacity=\".2\" stroke=\"#2563EB\" /><path d=\"M32 67 L60 67 M100 68 L155 43 M100 68 L155 53 M100 68 L155 63 M100 68 L155 73 M100 68 L155 83 M100 68 L155 93\" stroke=\"#64748B\" stroke-width=\"1.5\" /><path d=\"M225 67 L244 67 M284 68 L325 43 M284 68 L325 53 M284 68 L325 63 M284 68 L325 73 M284 68 L325 83 M284 68 L325 93\" stroke=\"#64748B\" stroke-width=\"1.5\" /><rect x=\"155\" y=\"35\" width=\"4\" height=\"65\" fill=\"#64748B\" /><rect x=\"325\" y=\"35\" width=\"4\" height=\"65\" fill=\"#64748B\" /><text x=\"157\" y=\"118\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Screen</text><text x=\"327\" y=\"118\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Screen</text><text x=\"80\" y=\"151\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Sharper colour bands</text><text x=\"265\" y=\"151\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Greater overlap</text><text x=\"175\" y=\"186\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Schematic optical arrangements</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Widen the slit further so that more light of every wavelength reaches the screen."
+      },
+      {
+        "key": "B",
+        "text": "Replace the prism with a plane-parallel glass slab, which separates all wavelengths more strongly."
+      },
+      {
+        "key": "C",
+        "text": "Use a narrow slit and suitable optics to reduce overlap between the images corresponding to different wavelengths."
+      },
+      {
+        "key": "D",
+        "text": "Increase the screen brightness until overlapping wavelengths become distinguishable without changing the optical arrangement."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A narrow slit reduces the width of each spectral image, reducing overlap between neighbouring colours. A broad slit tends to produce an impure spectrum because images of different wavelengths overlap. Brightness alone does not improve spectral separation.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_12_zqjci",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Board-style — Dispersion versus recombination",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A student uses two identical glass prisms, with the second inverted relative to the first. White light enters the first prism. Which statement is most accurate?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The first prism converts white light into seven new frequencies, which the second prism destroys."
+      },
+      {
+        "key": "B",
+        "text": "The second prism can recombine the colours only if it changes every colour's frequency."
+      },
+      {
+        "key": "C",
+        "text": "The two prisms must always produce a completely dark screen because their deviations cancel."
+      },
+      {
+        "key": "D",
+        "text": "With suitable alignment, the second prism can reverse the dispersion and bring the separated colours together approximately as white light."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The first prism separates the component wavelengths. An inverted second prism can undo the angular separation when suitably aligned. The frequencies of the individual components remain unchanged; their directions are altered.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_13_i2f6b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Board-style — Atmospheric scattering",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Consider the following statements about the colour of the sky and the Sun at sunset. I. Small atmospheric molecules scatter shorter visible wavelengths more strongly under Rayleigh conditions. II. The direct sunlight reaching an observer at sunset is often relatively richer in red and orange wavelengths. III. The blue appearance of the sky is caused mainly by the Sun emitting more blue photons than photons of every other visible colour under all conditions. IV. Rayleigh scattering varies approximately as 1/lambda⁴. Which option is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I and III only"
+      },
+      {
+        "key": "B",
+        "text": "II and III only"
+      },
+      {
+        "key": "C",
+        "text": "I, II and IV only"
+      },
+      {
+        "key": "D",
+        "text": "I, II, III and IV"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Statements I, II and IV describe Rayleigh scattering and the longer atmospheric path at sunset. Statement III is incorrect because the sky's colour depends on atmospheric scattering, solar spectrum, transmission and visual response—not simply on the Sun emitting more blue light under all conditions.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_14_ikgzb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Finding the wavelength in a medium from frequency and refractive index",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A monochromatic radiation has a frequency of 5×10^ Hz and enters a transparent material of refractive index 1.25. What is its wavelength inside the material?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "750 nm"
+      },
+      {
+        "key": "B",
+        "text": "600 nm"
+      },
+      {
+        "key": "C",
+        "text": "480 nm"
+      },
+      {
+        "key": "D",
+        "text": "375 nm"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The speed in the material is\n\n\nv=(c / n)=(3×10^8 / 1.25)\n=2.4×10^8 m/s.\n\n\nThen,\n\n\nlambda=(v / f)\n=(2.4×10^8 / 5×10^{14)}\n=4.8×10^{-7} m\n=480 nm.\n\n\nUsing the vacuum speed directly without accounting for the refractive index would give 600 nm, which is incorrect for the wavelength inside the material.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_15_4ogoh",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Dispersion versus refraction",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A student argues: “A glass prism disperses white light because every colour is refracted. Therefore, a prism will produce a spectrum from any single-colour beam.” Which assessment is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Correct, because refraction always separates light into seven colours."
+      },
+      {
+        "key": "B",
+        "text": "Incorrect, because a prism can refract monochromatic light, but dispersion requires different wavelengths to undergo different deviations."
+      },
+      {
+        "key": "C",
+        "text": "Correct, because a monochromatic beam contains equal amounts of all seven visible colours."
+      },
+      {
+        "key": "D",
+        "text": "Incorrect, because a prism cannot refract light unless the incident beam is white."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Refraction changes the direction of light when its speed changes at a boundary. Dispersion is the separation of different wavelengths because the refractive index depends on wavelength. Monochromatic light can be refracted without producing a spectrum.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_16_bk9s2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Comparing the frequencies of two colours in glass",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Red light has a wavelength of 700 nm in air, while violet light has a wavelength of 400 nm in air. Both enter the same glass block. What is the ratio f_V:f_R?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4:7"
+      },
+      {
+        "key": "B",
+        "text": "7:4"
+      },
+      {
+        "key": "C",
+        "text": "49:16"
+      },
+      {
+        "key": "D",
+        "text": "1:1"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Frequency is inversely proportional to wavelength in the same initial medium:\n\n\n(f_V / f_R)=(lambda_R / lambda_V)\n=(700 / 400)=frac74.\n\n\nThe frequencies remain unchanged when the two colours enter glass. Their wavelengths decrease by different factors, but their frequency ratio remains 7:4.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_17_dn9i3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Rayleigh scattering ratio for two wavelengths",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two beams of wavelengths 450 nm and 600 nm pass through the same atmosphere. Assuming Rayleigh scattering, what is the ratio of their scattering intensities, I_:I_, for equal incident intensities and otherwise identical conditions?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3:4"
+      },
+      {
+        "key": "B",
+        "text": "4:3"
+      },
+      {
+        "key": "C",
+        "text": "16:81"
+      },
+      {
+        "key": "D",
+        "text": "256:81"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Rayleigh scattering follows\n\n\nIproptofrac1{lambda⁴}.\n\n\nTherefore,\n\n\nfrac{I_{450}}{I_{600}}\n=≤ft((600 / 450)right)⁴\n=≤ft(frac43right)⁴\n=(256 / 81).\n\n\nThe shorter-wavelength beam is scattered more strongly. The exponent must be four, not two.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_18_1lol5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Comparing ultraviolet and visible photon energies",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A UV photon has a frequency of 1.2×10^ Hz, while a visible-light photon has a frequency of 6×10^ Hz. What is the ratio of their photon energies, E_:E_?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1:2"
+      },
+      {
+        "key": "B",
+        "text": "2:1"
+      },
+      {
+        "key": "C",
+        "text": "4:1"
+      },
+      {
+        "key": "D",
+        "text": "1:4"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Since E=hf,\n\n\nfrac{E_{rm UV}}{E_{rm visible}}\n=frac{f_{rm UV}}{f_{rm visible}}\n=frac{1.2×10^{15}}{6×10^{14}}\n=2.\n\n\nThe UV photon has twice the energy of the visible photon. The ratio is not squared because photon energy is directly proportional to frequency.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_19_eqmem",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Comparing wavelengths inside two media",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A monochromatic beam has a wavelength of 600 nm in vacuum. It enters medium P with refractive index 1.2, then a separate identical-frequency beam enters medium Q with refractive index 1.5. What is the ratio lambda_P:lambda_Q?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4:5"
+      },
+      {
+        "key": "B",
+        "text": "5:4"
+      },
+      {
+        "key": "C",
+        "text": "1:1"
+      },
+      {
+        "key": "D",
+        "text": "3:2"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For a fixed frequency,\n\n\nlambda=(lambda₀ / n).\n\n\nTherefore,\n\n\nlambda_P=(600 / 1.2)=500 nm\n\n\nand\n\n\nlambda_Q=(600 / 1.5)=400 nm.\n\n\nHence,\n\n\nlambda_P:lambda_Q=500:400=5:4.\n\n\nThe medium with the higher refractive index has the shorter wavelength.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_20_r4hwp",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Comparing electromagnetic frequencies from wavelengths",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Three electromagnetic waves have wavelengths of 10^ m, 10^ m, and 10^ m, respectively. What is the ratio of their frequencies in the same order?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1:10³:10^7"
+      },
+      {
+        "key": "B",
+        "text": "10^7:10³:1"
+      },
+      {
+        "key": "C",
+        "text": "10³:10^7:1"
+      },
+      {
+        "key": "D",
+        "text": "1:10^7:10³"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In vacuum,\n\n\nf=frac clambda.\n\n\nThe frequencies are therefore inversely proportional to the wavelengths:\n\n\nfrac1{10^{-10}}:frac1{10^{-7}}:frac1{10^{-3}}.\n\n\nNormalising to the smallest frequency gives\n\n\n10^7:10³:1.\n\n\nThe shortest wavelength corresponds to the highest frequency.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_21_ajoud",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Comparing photon energies across the electromagnetic spectrum",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A gamma-ray photon has a frequency of 3×10^ Hz, while a radio-wave photon has a frequency of 3×10^6 Hz. What is the ratio of their photon energies?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10^{13}:1"
+      },
+      {
+        "key": "B",
+        "text": "10^6:1"
+      },
+      {
+        "key": "C",
+        "text": "10^{19}:1"
+      },
+      {
+        "key": "D",
+        "text": "10^{25}:1"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Because E=hf, the ratio of photon energies equals the ratio of frequencies:\n\n\n(E_γ / E_{rm radio)}\n=frac{3×10^{19}}{3×10^6}\n=10^{13}.\n\n\nA gamma-ray photon has 10^{13} times the energy of the specified radio-wave photon. This compares individual photons, not the total energy emitted by either source.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_22_gxif4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Speed of light in a medium from wavelength measurements",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A beam has a wavelength of 500 nm in air and 400 nm in a transparent material. Assuming its frequency remains unchanged, calculate the speed of light in that material.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.5×10^8 m/s"
+      },
+      {
+        "key": "B",
+        "text": "1.8×10^8 m/s"
+      },
+      {
+        "key": "C",
+        "text": "2.4×10^8 m/s"
+      },
+      {
+        "key": "D",
+        "text": "3.75×10^8 m/s"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The refractive index is\n\n\nn=frac{lambda_{rm air}}{lambda_{rm material}}\n=(500 / 400)=1.25.\n\n\nThus,\n\n\nv=frac cn\n=(3×10^8 / 1.25)\n=2.4×10^8 m/s.\n\n\nThe wavelength falls by a factor of 0.8, so the speed falls by the same factor when the frequency is unchanged.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_23_sdw6x",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Calculating the scattering-intensity ratio",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two wavelengths, 400 nm and 800 nm, pass through the same medium under conditions where Rayleigh scattering applies. For equal incident intensities, what is the scattering-intensity ratio I_:I_?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2:1"
+      },
+      {
+        "key": "B",
+        "text": "4:1"
+      },
+      {
+        "key": "C",
+        "text": "8:1"
+      },
+      {
+        "key": "D",
+        "text": "16:1"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Rayleigh scattering intensity varies as the inverse fourth power of wavelength:\n\n\nfrac{I_{400}}{I_{800}}\n=≤ft((800 / 400)right)⁴\n=2⁴=16.\n\n\nThe 400 nm beam is scattered 16 times as intensely as the 800 nm beam under the stated conditions.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_24_vnc99",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Two-way electromagnetic travel time",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A radar sends a microwave pulse towards an object 45 km away and receives its reflected pulse. Assuming the pulse travels at 3×10^8 m/s in both directions, what is the total time between transmission and reception?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "75 μs"
+      },
+      {
+        "key": "B",
+        "text": "150 μs"
+      },
+      {
+        "key": "C",
+        "text": "300 μs"
+      },
+      {
+        "key": "D",
+        "text": "450 μs"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The pulse travels to the object and back, so the total distance is\n\n\nd=2(45 km)=90,000 m.\n\n\nTherefore,\n\n\nt=(90,000 / 3×10^8)\n=3×10^{-4} s\n=300 μs.\n\n\n**Correction check:** The calculated round-trip time is 300 μs, so the correct answer is **C**, not B.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_25_j5q4x",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Comparing photon energies using wavelengths",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "Two monochromatic electromagnetic beams have wavelengths of 600 nm and 200 nm in vacuum. What is the ratio of the energy of a photon in the shorter-wavelength beam to that in the longer-wavelength beam?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1:3"
+      },
+      {
+        "key": "B",
+        "text": "1:9"
+      },
+      {
+        "key": "C",
+        "text": "2:3"
+      },
+      {
+        "key": "D",
+        "text": "3:1"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Photon energy is E=hf, and f=c/lambda. Thus, Epropto1/lambda.\n\n\nfrac{E_{200}}{E_{600}}\n=(600 / 200)=3.\n\n\nThe 200 nm photon has three times the energy of the 600 nm photon.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_26_cbz40",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Complex colour-filter reasoning",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "An ideal red filter is placed in front of a white screen. A blue filter is then placed after the red filter. The red filter transmits red light only, and the blue filter transmits blue light only. What reaches the screen?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Red light, because the first filter determines the final colour."
+      },
+      {
+        "key": "B",
+        "text": "Blue light, because the second filter replaces the first filter's transmitted colour."
+      },
+      {
+        "key": "C",
+        "text": "White light, because the filters together transmit all primary colours."
+      },
+      {
+        "key": "D",
+        "text": "Ideally, no visible light, because no wavelength is transmitted by both filters."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "ing\n\nAn ideal red filter is placed in front of a white screen. A blue filter is then placed after the red filter. The red filter transmits red light only, and the blue filter transmits blue light only. What reaches the screen?\n\nA) Red light, because the first filter determines the final colour.\n\nB) Blue light, because the second filter replaces the first filter's transmitted colour.\n\nC) White light, because the filters together transmit all primary colours.\n\nD) Ideally, no visible light, because no wavelength is transmitted by both filters.\n\n**Correct Answer: D**\n\n**Reason:** The red filter removes the blue component before the beam reaches the second filter. The blue filter then blocks the red light that remains. Ideal filters therefore transmit no visible light in this arrangement.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_27_on3tz",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Board-style — Combined prism reasoning",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A narrow beam of white light passes through a glass prism and forms a spectrum on a screen. Which set of statements is correct? I. Violet is generally deviated more than red. II. The frequency of each colour remains unchanged while it passes through the prism. III. The wavelength of each colour is generally smaller inside glass than in air. IV. The prism increases the frequency of violet light more than that of red light.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I and II only"
+      },
+      {
+        "key": "B",
+        "text": "II, III and IV only"
+      },
+      {
+        "key": "C",
+        "text": "I, II and III only"
+      },
+      {
+        "key": "D",
+        "text": "I, III and IV only"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "ing\n\nA narrow beam of white light passes through a glass prism and forms a spectrum on a screen. Which set of statements is correct?\n\nI. Violet is generally deviated more than red.\n\nII. The frequency of each colour remains unchanged while it passes through the prism.\n\nIII. The wavelength of each colour is generally smaller inside glass than in air.\n\nIV. The prism increases the frequency of violet light more than that of red light.\n\nA) I and II only\n\nB) II, III and IV only\n\nC) I, II and III only\n\nD) I, III and IV only\n\n**Correct Answer: C**\n\n**Reason:** Ordinary glass has a higher refractive index for violet than for red, so violet is deviated more. Frequency remains unchanged at stationary boundaries, while the reduced speed in glass reduces wavelength. A prism does not increase a light wave's frequency.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_28_pqrjj",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Board-style — Assertion–Reason: ultraviolet radiation",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Assertion (A):** Ultraviolet radiation can cause fluorescence in certain substances. **Reason (R):** Some substances absorb ultraviolet photons and subsequently emit lower-energy photons, often in the visible region.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both A and R are true, and R correctly explains A."
+      },
+      {
+        "key": "B",
+        "text": "Both A and R are true, but R does not explain A."
+      },
+      {
+        "key": "C",
+        "text": "A is true, but R is false."
+      },
+      {
+        "key": "D",
+        "text": "A is false, but R is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "ultraviolet radiation\n\n**Assertion (A):** Ultraviolet radiation can cause fluorescence in certain substances.\n\n**Reason (R):** Some substances absorb ultraviolet photons and subsequently emit lower-energy photons, often in the visible region.\n\nA) Both A and R are true, and R correctly explains A.\n\nB) Both A and R are true, but R does not explain A.\n\nC) A is true, but R is false.\n\nD) A is false, but R is true.\n\n**Correct Answer: A**\n\n**Reason:** Fluorescent materials can absorb higher-energy ultraviolet photons and emit lower-energy visible photons. The emitted light is typically lower in energy because some absorbed energy is lost through non-radiative processes before emission.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_29_s9cf1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Board-style — Assertion–Reason: red and violet in glass",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Assertion (A):** In ordinary glass under normal dispersion, violet light travels more slowly than red light. **Reason (R):** The refractive index of ordinary glass for violet light is generally greater than that for red light, and v=c/n.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both A and R are true, and R correctly explains A."
+      },
+      {
+        "key": "B",
+        "text": "Both A and R are true, but R does not explain A."
+      },
+      {
+        "key": "C",
+        "text": "A is true, but R is false."
+      },
+      {
+        "key": "D",
+        "text": "A is false, but R is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "red and violet in glass\n\n**Assertion (A):** In ordinary glass under normal dispersion, violet light travels more slowly than red light.\n\n**Reason (R):** The refractive index of ordinary glass for violet light is generally greater than that for red light, and v=c/n.\n\nA) Both A and R are true, and R correctly explains A.\n\nB) Both A and R are true, but R does not explain A.\n\nC) A is true, but R is false.\n\nD) A is false, but R is true.\n\n**Correct Answer: A**\n\n**Reason:** Normal dispersion gives n_V>n_R. Since speed in the medium is v=c/n, violet light has the lower speed. The reason directly establishes the assertion.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_spectrum_30_x8k7k",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Spectrum",
+    "title": "Assertion–Reason: the rainbow",
+    "question_type": "hots",
+    "types_supported": [
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Assertion (A):** A primary rainbow is formed by refraction, dispersion and one internal reflection inside raindrops. **Reason (R):** Violet light is deviated less than red light in the formation of a primary rainbow.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both A and R are true, and R correctly explains A."
+      },
+      {
+        "key": "B",
+        "text": "Both A and R are true, but R does not explain A."
+      },
+      {
+        "key": "C",
+        "text": "A is true, but R is false."
+      },
+      {
+        "key": "D",
+        "text": "A is false, but R is true."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "the rainbow\n\n**Assertion (A):** A primary rainbow is formed by refraction, dispersion and one internal reflection inside raindrops.\n\n**Reason (R):** Violet light is deviated less than red light in the formation of a primary rainbow.\n\nA) Both A and R are true, and R correctly explains A.\n\nB) Both A and R are true, but R does not explain A.\n\nC) A is true, but R is false.\n\nD) A is false, but R is true.\n\n**Correct Answer: C**\n\n**Reason:** The assertion is true: the primary rainbow involves refraction and dispersion at entry, one internal reflection, and refraction at exit. The reason is false. Violet is deviated more than red in the primary rainbow, so violet appears on the inner edge and red on the outer edge.",
+    "concept_name": "Spectrum",
+    "concept_tag": "spectrum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  }
+]

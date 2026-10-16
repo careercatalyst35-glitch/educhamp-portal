@@ -1,0 +1,2252 @@
+[
+  {
+    "globalId": "qb_case_analytical_chemistry_1_0a7bed",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 1: Action of Sodium Hydroxide on Iron(II) vs Iron(III) Salts",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A forensic laboratory analyst receives two pale green and yellow crystalline samples labeled Salt A and Salt B. When dilute sodium hydroxide solution is added dropwise to an aqueous solution of Salt A, a dirty green gelatinous precipitate forms, which is insoluble in excess NaOH; upon standing exposed to air for 15 minutes, the top layer of the dirty green precipitate turns reddish-brown. When NaOH is added to an aqueous solution of Salt B, an immediate reddish-brown precipitate forms that remains insoluble in excess NaOH. **Investigative Question:** Which iron cations are present in Salt A and Salt B, and what causes the dirty green precipitate in Salt A to turn reddish-brown? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Salt A contains Fe³⁺; Salt B contains Fe²⁺; turned brown by evaporation of water."
+      },
+      {
+        "key": "B",
+        "text": "Salt A contains Fe²⁺ (Iron(II)); Salt B contains Fe³⁺ (Iron(III)); dirty green Fe(OH)₂ is oxidised by atmospheric oxygen to reddish-brown hydrated Iron(III) hydroxide: 4Fe(OH)₂ + O₂ + 2H₂O → 4Fe(OH)₃."
+      },
+      {
+        "key": "C",
+        "text": "Both salts contain metallic iron; turned brown by rust falling from the ceiling."
+      },
+      {
+        "key": "D",
+        "text": "Salt A contains copper; Salt B contains zinc."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Iron(II) salts (ferrous, Fe²⁺) react with sodium hydroxide to form a dirty green precipitate of iron(II) hydroxide: FeSO₄ + 2NaOH → Fe(OH)₂↓(dirty green) + Na₂SO₄. Fe(OH)₂ is a basic hydroxide insoluble in excess alkali. When exposed to air, Fe²⁺ is readily oxidised by atmospheric oxygen to Fe³⁺, converting dirty green Fe(OH)₂ into reddish-brown iron(III) hydroxide (Fe(OH)₃). Salt B contains iron(III) (ferric, Fe³⁺), which precipitates directly as reddish-brown Fe(OH)₃: FeCl₃ + 3NaOH → Fe(OH)₃↓(reddish-brown) + 3NaCl.",
+    "concept_name": "Precipitation and Aerial Oxidation of Iron Hydroxides",
+    "concept_tag": "analytical chemistry case based precipitation and aerial oxidation of iron hydroxides",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e60541ece2cbae07847911f370148353480c5fbd940eebc6df2ca46754933d0a",
+    "question_skeleton": "case scenario a forensic laboratory analyst receives two pale green and yellow crystalline samples labeled salt a and salt b when dilute sodium hydroxide solution is added dropwise to an aqueous solution of salt a a dirty green gelatinous precipitate forms which is insoluble in excess naoh upon standing exposed to air for 15 minutes the top layer of the dirty green precipitate turns reddish brown when naoh is added to an aqueous solution of salt b an immediate reddish brown precipitate forms that remains insoluble in excess naoh investigative question which iron cations are present in salt a and salt b and what causes the dirty green precipitate in salt a to turn reddish brown choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_2_d26dfb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 2: Action of Excess Ammonium Hydroxide on Copper(II) Salts",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A high school student adds dilute ammonium hydroxide (NH₄OH) dropwise to a bright blue solution of Copper(II) sulphate. A pale blue precipitate of Copper(II) hydroxide forms initially. When the student continues adding ammonium hydroxide in excess, the pale blue precipitate dissolves completely, transforming into a magnificent, clear, deeply intense inky-blue solution. **Investigative Question:** What is the chemical identity of the soluble inky-blue species formed in excess ammonium hydroxide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Copper metal dissolved in nitric acid."
+      },
+      {
+        "key": "B",
+        "text": "Tetraamminecopper(II) sulphate complex, [Cu(NH₃)₄]SO₄, formed by coordinate covalent bonding between copper(II) ions and neutral ammonia ligands: Cu(OH)₂ + (NH₄)₂SO₄ + 2NH₄OH → [Cu(NH₃)₄]SO₄ + 4H₂O."
+      },
+      {
+        "key": "C",
+        "text": "Copper(II) nitrate precipitate."
+      },
+      {
+        "key": "D",
+        "text": "Anhydrous copper sulphate crystals suspended in alcohol."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When NH₄OH is added dropwise to CuSO₄, it initially precipitates pale blue copper(II) hydroxide: CuSO₄ + 2NH₄OH → Cu(OH)₂↓(pale blue) + (NH₄)₂SO₄. When excess NH₄OH is added, the basic hydroxide dissolves due to coordination complex formation: Cu(OH)₂ + (NH₄)₂SO₄ + 2NH₄OH → [Cu(NH₃)₄]SO₄ + 4H₂O. The unshared lone pairs on four ammonia molecules coordinate to the Cu²⁺ ion, forming the soluble square-planar tetraamminecopper(II) cation [Cu(NH₃)₄]²⁺, which exhibits an intense inky-blue/deep azure color.",
+    "concept_name": "Deep Inky-Blue Tetraamminecopper(II) Complex Formation",
+    "concept_tag": "analytical chemistry case based deep inky-blue tetraamminecopper(ii) complex formation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "bc773c12e07a8ede2dbefb529436e8883da98b4c5bff768b235e7df9d9f0b09b",
+    "question_skeleton": "case scenario a high school student adds dilute ammonium hydroxide nh oh dropwise to a bright blue solution of copper ii sulphate a pale blue precipitate of copper ii hydroxide forms initially when the student continues adding ammonium hydroxide in excess the pale blue precipitate dissolves completely transforming into a magnificent clear deeply intense inky blue solution investigative question what is the chemical identity of the soluble inky blue species formed in excess ammonium hydroxide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_3_211e98",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 3: Action of Excess $NaOH$ on Zinc Salts vs Lead Salts",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a qualitative analysis examination, a student is given two test tubes containing white precipitates: Test Tube 1: Gelatinous white precipitate of Zinc hydroxide, Zn(OH)₂ Test Tube 2: Chalky white precipitate of Lead(II) hydroxide, Pb(OH)₂ When excess sodium hydroxide solution is added to both test tubes, BOTH precipitates dissolve completely to form clear, colorless solutions. **Investigative Question:** Why do both Zinc hydroxide and Lead(II) hydroxide dissolve in excess sodium hydroxide, and what soluble salts are formed? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both hydroxides are neutral organic substances that dissolve in water."
+      },
+      {
+        "key": "B",
+        "text": "Both Zn(OH)₂ and Pb(OH)₂ are amphoteric hydroxides that react with excess strong alkali to form soluble complex salts: Sodium Zincate (Na₂ZnO₂) and Sodium Plumbite (Na₂PbO₂)."
+      },
+      {
+        "key": "C",
+        "text": "Both hydroxides decompose into flammable hydrogen gas and steam."
+      },
+      {
+        "key": "D",
+        "text": "Excess sodium hydroxide turns zinc and lead into liquid metals."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Zinc and Lead are amphoteric metals whose hydroxides possess dual acidic and basic properties. When treated with excess strong alkali (NaOH), they behave as acids, neutralizing the alkali to form soluble oxy-salts and water: Zn(OH)₂ + 2NaOH → Na₂ZnO₂ (sodium zincate) + 2H₂O; and Pb(OH)₂ + 2NaOH → Na₂PbO₂ (sodium plumbite) + 2H₂O. The dissolution of both white precipitates in excess NaOH confirms their amphoteric character.",
+    "concept_name": "Amphoteric Hydroxide Dissolution in Strong Alkali",
+    "concept_tag": "analytical chemistry case based amphoteric hydroxide dissolution in strong alkali",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2a81e09f71405d8230b42c09fa2aa695b69242b93e16a35ac24fe45fb422ed82",
+    "question_skeleton": "case scenario in a qualitative analysis examination a student is given two test tubes containing white precipitates test tube 1 gelatinous white precipitate of zinc hydroxide zn oh test tube 2 chalky white precipitate of lead ii hydroxide pb oh when excess sodium hydroxide solution is added to both test tubes both precipitates dissolve completely to form clear colorless solutions investigative question why do both zinc hydroxide and lead ii hydroxide dissolve in excess sodium hydroxide and what soluble salts are formed choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_4_8a059c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 4: Definitive Distinction Between $Zn²⁺$ and $Pb²⁺$ Using Excess $NH_4OH$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Because both Zn²⁺ and Pb²⁺ give white precipitates with NaOH that dissolve in excess, a student cannot distinguish them using sodium hydroxide alone. The teacher instructs the student to test separate fresh solutions of the two metal salts with dilute Ammonium Hydroxide (NH₄OH) dropwise and then in excess. **Investigative Question:** How does the reaction with excess ammonium hydroxide definitively distinguish Zinc ions from Lead(II) ions? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lead ions produce a green solution while zinc ions explode."
+      },
+      {
+        "key": "B",
+        "text": "Both produce white precipitates initially, but with excess NH₄OH, Zinc hydroxide dissolves completely to form the soluble [Zn(NH₃)₄]²⁺ complex, whereas Lead(II) hydroxide remains completely INSOLUBLE in excess NH₄OH."
+      },
+      {
+        "key": "C",
+        "text": "Zinc hydroxide turns into black zinc oxide with excess NH₄OH."
+      },
+      {
+        "key": "D",
+        "text": "Lead ions do not react with ammonium hydroxide at all."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "This is the premier ICSE analytical distinction between Zn²⁺ and Pb²⁺. With NH₄OH: ZnSO₄ + 2NH₄OH → Zn(OH)₂↓(gelatinous white) + (NH₄)₂SO₄. In excess NH₄OH, Zn(OH)₂ dissolves due to complexation: Zn(OH)₂ + 4NH₄OH → [Zn(NH₃)₄](OH)₂ + 4H₂O (forms soluble tetraamminezinc(II) hydroxide). With Lead salts: Pb(NO₃)₂ + 2NH₄OH → Pb(OH)₂↓(chalky white) + 2NH₄NO₃. However, Lead cannot form an ammine complex; Pb(OH)₂ remains completely INSOLUBLE in excess NH₄OH.",
+    "concept_name": "Differential Solubility in Weak vs Strong Alkalis",
+    "concept_tag": "analytical chemistry case based differential solubility in weak vs strong alkalis",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7e76884b42916ca610760f17c83059d3e1efb9e22a872b4e746a7ccbda3bc631",
+    "question_skeleton": "case scenario because both zn and pb give white precipitates with naoh that dissolve in excess a student cannot distinguish them using sodium hydroxide alone the teacher instructs the student to test separate fresh solutions of the two metal salts with dilute ammonium hydroxide nh oh dropwise and then in excess investigative question how does the reaction with excess ammonium hydroxide definitively distinguish zinc ions from lead ii ions choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_5_d49963",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 5: Distinction Between $Zn²⁺$ and $Al³⁺$ Using Excess $NH_4OH$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A technician has two unlabelled bottles of white powders: Zinc sulphate (ZnSO₄) and Aluminium sulphate (Al₂(SO₄)₃). Both salts give gelatinous white precipitates with sodium hydroxide that dissolve in excess NaOH to form colorless zincate and aluminate solutions. **Investigative Question:** What visual observation upon adding excess ammonium hydroxide (NH₄OH) allows the technician to distinguish Zinc sulphate from Aluminium sulphate? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Aluminium sulphate turns bright red with ammonium hydroxide."
+      },
+      {
+        "key": "B",
+        "text": "With excess NH₄OH, the gelatinous white precipitate of Zinc hydroxide dissolves completely to give a clear colorless solution, whereas the gelatinous white precipitate of Aluminium hydroxide remains completely INSOLUBLE in excess NH₄OH."
+      },
+      {
+        "key": "C",
+        "text": "Zinc sulphate precipitates yellow crystals in excess NH₄OH."
+      },
+      {
+        "key": "D",
+        "text": "Both precipitates remain insoluble in excess ammonium hydroxide."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both Zn²⁺ and Al³⁺ are amphoteric and form white gelatinous precipitates with NaOH that dissolve in excess NaOH (forming Na₂ZnO₂ and NaAlO₂). However, with ammonium hydroxide: Al₂(SO₄)₃ + 6NH₄OH → 2Al(OH)₃↓(white gelatinous) + 3(NH₄)₂SO₄. Al(OH)₃ is completely insoluble in excess NH₄OH because NH₄OH is a weak base with insufficient OH⁻ to dissolve it, and Al³⁺ cannot form an ammine complex. In contrast, Zn(OH)₂ dissolves readily in excess NH₄OH to form the soluble [Zn(NH₃)₄]²⁺ coordination complex.",
+    "concept_name": "Ammine Complexation vs Insoluble Hydroxide",
+    "concept_tag": "analytical chemistry case based ammine complexation vs insoluble hydroxide",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "19324f309aa48c46723c3536e77abc2d280987ba82ed5afd2d9ab68b587c31d6",
+    "question_skeleton": "case scenario a technician has two unlabelled bottles of white powders zinc sulphate znso and aluminium sulphate al so both salts give gelatinous white precipitates with sodium hydroxide that dissolve in excess naoh to form colorless zincate and aluminate solutions investigative question what visual observation upon adding excess ammonium hydroxide nh oh allows the technician to distinguish zinc sulphate from aluminium sulphate choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_6_ed4d5c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 6: Action of Alkalis on Calcium Salts: Why $NH_4OH$ Gives No Precipitate",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student adds sodium hydroxide solution to an aqueous solution of Calcium chloride; a white precipitate of Calcium hydroxide forms, which is sparingly soluble in excess NaOH. However, when the student adds ammonium hydroxide (NH₄OH) dropwise and in large excess to a separate portion of Calcium chloride solution, NO precipitate forms whatsoever. **Investigative Question:** Why does Sodium Hydroxide precipitate Calcium hydroxide, while Ammonium Hydroxide produces zero precipitation with calcium salts? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ammonium hydroxide destroys calcium ions by nuclear transmutation."
+      },
+      {
+        "key": "B",
+        "text": "Ammonium hydroxide is a weak base with a very low degree of ionisation; the concentration of OH⁻ ions it provides is too low for the ionic product [Ca²⁺][OH⁻]² to exceed the relatively high solubility product (K_sp = 5.5 × 10⁻⁶) of Ca(OH)₂."
+      },
+      {
+        "key": "C",
+        "text": "Calcium chloride is insoluble in pure sodium hydroxide."
+      },
+      {
+        "key": "D",
+        "text": "Sodium hydroxide is an acid that neutralizes calcium salts."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Precipitation occurs only when the ionic product of the constituent ions exceeds the solubility product (K_sp). Calcium hydroxide, Ca(OH)₂, has a relatively high K_sp (~5.5 × 10⁻⁶). Sodium hydroxide is a strong base (100% ionised) that provides a massive concentration of OH⁻, easily driving the ionic product [Ca²⁺][OH⁻]² above K_sp and causing precipitation. Ammonium hydroxide is a weak base (partially ionised); its low [OH⁻] is insufficient to exceed K_sp of Ca(OH)₂, resulting in zero precipitation.",
+    "concept_name": "Solubility Product ($K_{sp}$) Threshold in Weak vs Strong Alkalis",
+    "concept_tag": "analytical chemistry case based solubility product ($k_{sp}$) threshold in weak vs strong alkalis",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "de3ced410e16ecb3b376601c3602eb8c6a1879e07d46bca792b5f5289acc5e0c",
+    "question_skeleton": "case scenario a student adds sodium hydroxide solution to an aqueous solution of calcium chloride a white precipitate of calcium hydroxide forms which is sparingly soluble in excess naoh however when the student adds ammonium hydroxide nh oh dropwise and in large excess to a separate portion of calcium chloride solution no precipitate forms whatsoever investigative question why does sodium hydroxide precipitate calcium hydroxide while ammonium hydroxide produces zero precipitation with calcium salts choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_7_71f354",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 7: Action of Alkalis on Ammonium Salts: Identification of Ammonia Gas",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student heats a mixture of solid Ammonium Chloride (NH₄Cl) and solid Calcium Hydroxide (slaked lime, Ca(OH)₂) in a dry test tube. A colorless gas with a pungent, choking, suffocating odor is evolved. When a glass rod dipped in concentrated hydrochloric acid is held at the mouth of the tube, dense, choking white fumes billow out immediately. **Investigative Question:** What is the identity of the evolved gas, and what chemical compound constitutes the dense white fumes? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrogen gas; fumes are liquid water droplets."
+      },
+      {
+        "key": "B",
+        "text": "Ammonia gas (NH₃); fumes are fine suspended particles of solid Ammonium Chloride (NH₄Cl) formed by the gas-phase reaction: NH₃(g) + HCl(g) → NH₄Cl(s)."
+      },
+      {
+        "key": "C",
+        "text": "Chlorine gas; fumes are liquid bleaching powder."
+      },
+      {
+        "key": "D",
+        "text": "Carbon dioxide gas; fumes are dry ice snow."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When any ammonium salt is heated with an alkali (NaOH, KOH, or Ca(OH)₂), the volatile base ammonia is liberated: 2NH₄Cl + Ca(OH)₂ → CaCl₂ + 2H₂O + 2NH₃↑. Ammonia is a pungent, alkaline gas that turns moist red litmus blue. The classic confirmatory test is bringing a glass rod dipped in concentrated hydrochloric acid near the gas: ammonia gas reacts with HCl gas vaporizing from the rod to produce tiny crystalline solid particles of ammonium chloride: NH₃(g) + HCl(g) → NH₄Cl(s), appearing as dense white fumes.",
+    "concept_name": "Displacement of Volatile Base by Non-Volatile Alkali",
+    "concept_tag": "analytical chemistry case based displacement of volatile base by non-volatile alkali",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "dcde7a6da1e1546cf673d0e9574584aba000600b07463a10e3c922e0ce8cf1d7",
+    "question_skeleton": "case scenario a student heats a mixture of solid ammonium chloride nh cl and solid calcium hydroxide slaked lime ca oh in a dry test tube a colorless gas with a pungent choking suffocating odor is evolved when a glass rod dipped in concentrated hydrochloric acid is held at the mouth of the tube dense choking white fumes billow out immediately investigative question what is the identity of the evolved gas and what chemical compound constitutes the dense white fumes choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_8_ec3050",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 8: Nessler's Reagent Test for Ammonia / Ammonium Ions",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An environmental quality inspector tests industrial wastewater for traces of toxic dissolved ammonia. A few drops of Nessler's Reagent (an alkaline solution of Potassium tetraiodomercurate(II), K₂[HgI₄], containing KOH) are added to the test sample. Instantly, an intense brown coloration and a dark brown precipitate form even at parts-per-million ammonia concentration. **Investigative Question:** What is the chemical name and identity of the dark brown precipitate formed in Nessler's test for ammonia? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mercuric chloride precipitate."
+      },
+      {
+        "key": "B",
+        "text": "Iodide of Millon's base (chemically: amino-mercuric iodide, H₂N–Hg–O–Hg–I), formed by the reaction of Nessler's reagent with trace ammonia."
+      },
+      {
+        "key": "C",
+        "text": "Solid elemental iodine crystals."
+      },
+      {
+        "key": "D",
+        "text": "Potassium metal foil."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Nessler's reagent is a highly sensitive qualitative test for ammonia and ammonium salts. It consists of an alkaline solution of potassium tetraiodomercurate(II): 2K₂[HgI₄] + 3KOH + NH₃ → H₂N–Hg–O–Hg–I↓(brown precipitate of iodide of Millon's base) + 7KI + 2H₂O. The formation of a pale yellow/brown coloration (at trace levels) or a distinct chocolate-brown precipitate confirms the presence of ammonia.",
+    "concept_name": "Alkaline Potassium Tetraiodomercurate(II) and Millon's Base",
+    "concept_tag": "analytical chemistry case based alkaline potassium tetraiodomercurate(ii) and millon's base",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8be6c611cf604b9b66c81248e64034682b4c4b457811709a66301a2cccafb869",
+    "question_skeleton": "case scenario an environmental quality inspector tests industrial wastewater for traces of toxic dissolved ammonia a few drops of nessler s reagent an alkaline solution of potassium tetraiodomercurate ii k hgi containing koh are added to the test sample instantly an intense brown coloration and a dark brown precipitate form even at parts per million ammonia concentration investigative question what is the chemical name and identity of the dark brown precipitate formed in nessler s test for ammonia choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_9_277561",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 9: Action of Hot Concentrated $NaOH$ on Aluminium Metal Powder",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a chemistry demonstration of amphoteric reactivity, a teacher adds aluminium foil scraps to a test tube containing concentrated Sodium Hydroxide solution. The mixture is heated gently. Within 30 seconds, a violent reaction takes place: the aluminium dissolves with furious effervescence, and the evolved gas burns with a sharp 'pop' sound when tested with a lighted taper. **Investigative Question:** What is the balanced equation for this reaction, and what soluble salt is formed in solution? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Al + NaOH → NaAl + OH + H₂"
+      },
+      {
+        "key": "B",
+        "text": "2Al + 2NaOH + 2H₂O → 2NaAlO₂ (Sodium meta-aluminate) + 3H₂↑; soluble sodium meta-aluminate is formed."
+      },
+      {
+        "key": "C",
+        "text": "Al + 3NaOH → Al(OH)₃ + 3Na"
+      },
+      {
+        "key": "D",
+        "text": "Aluminium does not react with sodium hydroxide."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Aluminium is an amphoteric metal that reacts with boiling concentrated sodium hydroxide to produce soluble sodium meta-aluminate and hydrogen gas: 2Al + 2NaOH + 2H₂O → 2NaAlO₂ + 3H₂↑ (or formulated as sodium tetrahydroxoaluminate, Na[Al(OH)₄]). The reaction is highly exothermic and demonstrates the acidic behavior of amphoteric aluminium in the presence of a strong base.",
+    "concept_name": "Aluminate Formation and Vigorous Hydrogen Gas Liberation",
+    "concept_tag": "analytical chemistry case based aluminate formation and vigorous hydrogen gas liberation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1220ac51e95fbdf4f6590177286fc74b0fbff4d169dcb624d5d1c08ad201d46d",
+    "question_skeleton": "case scenario in a chemistry demonstration of amphoteric reactivity a teacher adds aluminium foil scraps to a test tube containing concentrated sodium hydroxide solution the mixture is heated gently within 30 seconds a violent reaction takes place the aluminium dissolves with furious effervescence and the evolved gas burns with a sharp pop sound when tested with a lighted taper investigative question what is the balanced equation for this reaction and what soluble salt is formed in solution choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_10_8c89d0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 10: Potassium Iodide ($KI$) Test: Distinguishing $Pb²⁺$ from $Al³⁺$ and $Zn²⁺$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student must distinguish between solutions of Lead Nitrate (Pb(NO₃)₂) and Zinc Nitrate (Zn(NO₃)₂). Both give white precipitates with sodium hydroxide that dissolve in excess. The student adds a few drops of Potassium Iodide (KI) solution to both test tubes. Test Tube A remains clear and colorless. Test Tube B instantly produces a magnificent, brilliant canary-yellow precipitate. **Investigative Question:** What is the identity of the yellow precipitate in Test Tube B, and what happens when the mixture is boiled and then cooled? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zinc iodide; it decomposes into purple iodine gas upon boiling."
+      },
+      {
+        "key": "B",
+        "text": "Lead(II) iodide (PbI₂); it dissolves in boiling water to form a clear colorless solution, and recrystallizes on cooling as sparkling golden spangles ('Golden Rain')."
+      },
+      {
+        "key": "C",
+        "text": "Potassium nitrate crystals that melt when boiled."
+      },
+      {
+        "key": "D",
+        "text": "Elemental lead metal powder."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The addition of potassium iodide provides a definitive distinction: Pb(NO₃)₂ + 2KI → PbI₂↓(brilliant yellow precipitate) + 2KNO₃. Zinc iodide (ZnI₂) is highly soluble in water, so zinc salts produce no precipitate with KI. Furthermore, PbI₂ has a unique physical property: it is sparingly soluble in cold water, but dissolves readily in boiling water; upon cooling under a cold water tap, it crystallizes out as glistening golden-yellow hexagonal flakes, a famous demonstration known as 'Golden Rain'.",
+    "concept_name": "Brilliant Golden-Yellow Lead Iodide Precipitation",
+    "concept_tag": "analytical chemistry case based brilliant golden-yellow lead iodide precipitation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4df53f0aa1ba07b34d399e37630fd1e0faf2dbc1da16b16fbcad7fdc028572c7",
+    "question_skeleton": "case scenario a student must distinguish between solutions of lead nitrate pb no and zinc nitrate zn no both give white precipitates with sodium hydroxide that dissolve in excess the student adds a few drops of potassium iodide ki solution to both test tubes test tube a remains clear and colorless test tube b instantly produces a magnificent brilliant canary yellow precipitate investigative question what is the identity of the yellow precipitate in test tube b and what happens when the mixture is boiled and then cooled choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_11_a2142a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 11: Potassium Ferrocyanide Test for Iron: Prussian Blue Formation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical pathologist tests an unknown iron tonic solution to verify if iron is present as Iron(II) (ferrous) or Iron(III) (ferric). When Potassium Ferrocyanide solution (K₄[Fe(CN)₆]) is added to the tonic, an intensely deep, dark navy-blue precipitate known as 'Prussian Blue' forms instantly. **Investigative Question:** Which iron ion is confirmed by the formation of Prussian Blue, and what is the chemical formula of Prussian Blue? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Iron(II) ion (Fe²⁺); formula is Fe[Fe(CN)₆]."
+      },
+      {
+        "key": "B",
+        "text": "Iron(III) ion (Fe³⁺); formula is Fe₄[Fe(CN)₆]₃ (Iron(III) hexacyanoferrate(II))."
+      },
+      {
+        "key": "C",
+        "text": "Metallic iron atoms; formula is Fe(CN)₂."
+      },
+      {
+        "key": "D",
+        "text": "Iron(III) oxide; formula is Fe₂O₃."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The reaction of ferric ions (Fe³⁺) with potassium ferrocyanide (potassium hexacyanoferrate(II)) produces the insoluble, intensely deep-blue pigment Prussian Blue: 4FeCl₃ + 3K₄[Fe(CN)₆] → Fe₄[Fe(CN)₆]₃↓(Prussian Blue) + 12KCl. Ferrous ions (Fe²⁺) react with potassium ferrocyanide to produce only a pale bluish-white precipitate of K₂Fe[Fe(CN)₆] that turns blue only upon prolonged aerial oxidation. Thus, instant Prussian blue formation confirms Fe³⁺.",
+    "concept_name": "Complexation of Iron(III) with Hexacyanoferrate(II)",
+    "concept_tag": "analytical chemistry case based complexation of iron(iii) with hexacyanoferrate(ii)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e0739e29aa578bd0126ed1ecf743e9d48ffb498ca830886dff4f4d3456978c80",
+    "question_skeleton": "case scenario a chemical pathologist tests an unknown iron tonic solution to verify if iron is present as iron ii ferrous or iron iii ferric when potassium ferrocyanide solution k fe cn is added to the tonic an intensely deep dark navy blue precipitate known as prussian blue forms instantly investigative question which iron ion is confirmed by the formation of prussian blue and what is the chemical formula of prussian blue choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_12_0d2eae",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 12: Potassium Ferricyanide Test for Iron: Turnbull's Blue Formation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a complementary test, the pathologist adds Potassium Ferricyanide solution (K₃[Fe(CN)₆]) to a sample containing Iron(II) sulphate (FeSO₄). An immediate, brilliant deep dark-blue precipitate known as 'Turnbull's Blue' separates out. **Investigative Question:** What is the chemical reaction between Iron(II) ions and Potassium Ferricyanide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3FeSO₄ + 2K₃[Fe(CN)₆] → Fe₃[Fe(CN)₆]₂↓(Turnbull's Blue) + 3K₂SO₄."
+      },
+      {
+        "key": "B",
+        "text": "FeSO₄ + K₃[Fe(CN)₆] → Fe[Fe(CN)₆] + K₂SO₄."
+      },
+      {
+        "key": "C",
+        "text": "Iron(II) reduces potassium ferricyanide to metallic potassium."
+      },
+      {
+        "key": "D",
+        "text": "No reaction occurs because both compounds are salts of iron."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Ferrous ions (Fe²⁺) react specifically with potassium ferricyanide (potassium hexacyanoferrate(III)) to produce a deep blue precipitate known as Turnbull's Blue: 3FeSO₄ + 2K₃[Fe(CN)₆] → Fe₃[Fe(CN)₆]₂↓(Turnbull's Blue) + 3K₂SO₄. Modern crystallographic studies show that Prussian Blue and Turnbull's Blue are structurally identical mixed-valence coordination networks (Fe³⁺-CN-Fe²⁺), but the test protocol specifically distinguishes Fe²⁺ from Fe³⁺ in classical wet analysis.",
+    "concept_name": "Complexation of Iron(II) with Hexacyanoferrate(III)",
+    "concept_tag": "analytical chemistry case based complexation of iron(ii) with hexacyanoferrate(iii)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d22c3599f7f8cce67ed03baf76190520211d2c503b5fa0b1fff92ae842af6f93",
+    "question_skeleton": "case scenario in a complementary test the pathologist adds potassium ferricyanide solution k fe cn to a sample containing iron ii sulphate feso an immediate brilliant deep dark blue precipitate known as turnbull s blue separates out investigative question what is the chemical reaction between iron ii ions and potassium ferricyanide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_13_9c7e0e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 13: Potassium Thiocyanate ($KSCN$) Test for Iron(III)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A forensics investigator tests a dried stain suspected of containing blood. After extracting with dilute acid, a single drop of Potassium Thiocyanate (KSCN) solution is added. Instantly, the solution turns an intensely shocking, deep blood-red color. **Investigative Question:** What chemical species causes the blood-red coloration when KSCN reacts with Iron(III) ions? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Solid red iron rust (Fe₂O₃)."
+      },
+      {
+        "key": "B",
+        "text": "The soluble coordination complex ion pentaaquathiocyanatoiron(III), [Fe(SCN)(H₂O)₅]²⁺ (or [Fe(SCN)]²⁺), formed by the coordinate bonding of thiocyanate to Fe³⁺."
+      },
+      {
+        "key": "C",
+        "text": "Potassium sulphide precipitate."
+      },
+      {
+        "key": "D",
+        "text": "Cyanide gas dissolved in water."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The thiocyanate test is an extraordinarily sensitive qualitative confirmation for iron(III) ions (detectable down to micromolar concentrations). Fe³⁺ ions react with thiocyanate ions (SCN⁻) to form a series of intensely colored blood-red coordination complexes: Fe³⁺(aq) + SCN⁻(aq) ⇌ [Fe(SCN)]²⁺(aq) (blood-red). Iron(II) ions (Fe²⁺) do not react with KSCN and produce zero color change, providing an instant distinction between ferrous and ferric oxidation states.",
+    "concept_name": "Blood-Red Pentaaquathiocyanatoiron(III) Complex",
+    "concept_tag": "analytical chemistry case based blood-red pentaaquathiocyanatoiron(iii) complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4e5e0ba1b7d41ca0949bf8347f5e391b7a3e66ba3d94bea24d30e178b7eb39e2",
+    "question_skeleton": "case scenario a forensics investigator tests a dried stain suspected of containing blood after extracting with dilute acid a single drop of potassium thiocyanate kscn solution is added instantly the solution turns an intensely shocking deep blood red color investigative question what chemical species causes the blood red coloration when kscn reacts with iron iii ions choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_14_c53177",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 14: Flame Test: Why Concentrated $HCl$ and Platinum Wire Are Used",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical technician performs a flame test to detect metal cations. The protocol specifies: Step 1: Clean a platinum wire loop by dipping it in concentrated hydrochloric acid and heating in a Bunsen flame until it imparts no color. Step 2: Moisten the clean wire in conc. HCl, touch the unknown salt, and hold it in the non-luminous flame. **Investigative Question:** Why is concentrated Hydrochloric acid used to make the paste, and why must the wire be made of Platinum? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Concentrated HCl destroys all radioactive isotopes; platinum is the cheapest available metal."
+      },
+      {
+        "key": "B",
+        "text": "Concentrated HCl converts metal salts into volatile metal chlorides that vaporize easily in the non-luminous flame; Platinum is used because it has a very high melting point, is chemically inert, and imparts zero color of its own to the flame."
+      },
+      {
+        "key": "C",
+        "text": "Concentrated HCl acts as a fuel that ignites the flame; platinum conducts electricity to create a spark."
+      },
+      {
+        "key": "D",
+        "text": "Hydrochloric acid bleaches the salt so that only visible light is emitted."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Metal chlorides are significantly more volatile than metal sulphates, nitrates, or oxides because of their lower lattice energies. Treating the solid salt with concentrated HCl converts it into the metal chloride on the wire loop: Salt + HCl → Metal Chloride + Acid. In the high-temperature non-luminous zone of the Bunsen flame, volatile metal chlorides vaporize and dissociate into gaseous atoms/ions whose valence electrons are thermally excited. Platinum is chosen because it is noble, non-reactive, has a melting point of 1768°C, and imparts no color to the flame.",
+    "concept_name": "Volatile Chloride Formation and Wire Inertness",
+    "concept_tag": "analytical chemistry case based volatile chloride formation and wire inertness",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a4808f354b0ee7b53699c31c4f8ecc56c46a93cf220f1bb0da8d13a8697cf342",
+    "question_skeleton": "case scenario an analytical technician performs a flame test to detect metal cations the protocol specifies step 1 clean a platinum wire loop by dipping it in concentrated hydrochloric acid and heating in a bunsen flame until it imparts no color step 2 moisten the clean wire in conc hcl touch the unknown salt and hold it in the non luminous flame investigative question why is concentrated hydrochloric acid used to make the paste and why must the wire be made of platinum choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_15_24fab1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 15: Flame Test Colors: Cation Identification",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemistry student performs flame tests on three unlabelled pure solid salts using a clean platinum wire and concentrated HCl: Salt 1 produces an intense, persistent golden-yellow flame. Salt 2 produces a delicate lilac flame that appears crimson-violet when viewed through blue cobalt glass. Salt 3 produces a vivid brick-red flame. **Investigative Question:** Which metal cations are definitively identified in Salt 1, Salt 2, and Salt 3? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Salt 1 = Copper (Cu²⁺); Salt 2 = Barium (Ba²⁺); Salt 3 = Sodium (Na⁺)"
+      },
+      {
+        "key": "B",
+        "text": "Salt 1 = Sodium (Na⁺); Salt 2 = Potassium (K⁺); Salt 3 = Calcium (Ca²⁺)"
+      },
+      {
+        "key": "C",
+        "text": "Salt 1 = Lead (Pb²⁺); Salt 2 = Iron (Fe²⁺); Salt 3 = Zinc (Zn²⁺)"
+      },
+      {
+        "key": "D",
+        "text": "Salt 1 = Magnesium (Mg²⁺); Salt 2 = Aluminium (Al³⁺); Salt 3 = Silver (Ag⁺)"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Characteristic flame test colors for ICSE Class 10:\n1. Sodium (Na⁺): persistent, blinding golden-yellow flame (589 nm D-line emission).\n2. Potassium (K⁺): delicate lilac/pale violet flame; when viewed through cobalt blue glass (which absorbs yellow sodium glare), it appears crimson-violet.\n3. Calcium (Ca²⁺): distinctive brick-red flame.\n4. Copper (Cu²⁺): brilliant peacock blue / blue-green flame.\n5. Barium (Ba²⁺): apple-green flame.",
+    "concept_name": "Characteristic Optical Emissions in Bunsen Flame",
+    "concept_tag": "analytical chemistry case based characteristic optical emissions in bunsen flame",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "256ac6665bc3911da83c1d58f0c9c0d4b5b3a26ce7ee2d1375e41a67f46f8198",
+    "question_skeleton": "case scenario a chemistry student performs flame tests on three unlabelled pure solid salts using a clean platinum wire and concentrated hcl salt 1 produces an intense persistent golden yellow flame salt 2 produces a delicate lilac flame that appears crimson violet when viewed through blue cobalt glass salt 3 produces a vivid brick red flame investigative question which metal cations are definitively identified in salt 1 salt 2 and salt 3 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_16_467bf4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 16: Thermal Decomposition of Copper(II) Hydroxide Precipitate",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student precipitates pale blue Copper(II) hydroxide by adding sodium hydroxide to copper(II) sulphate solution in a boiling tube: CuSO₄ + 2NaOH → Cu(OH)₂↓(pale blue) + Na₂SO₄. The student then boils the test tube contents over a Bunsen burner flame for 60 seconds. **Investigative Question:** What visible change occurs upon boiling the pale blue suspension, and what chemical reaction takes place? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The pale blue precipitate dissolves to form a clear colorless solution."
+      },
+      {
+        "key": "B",
+        "text": "The pale blue precipitate decomposes into a dense black precipitate of Copper(II) oxide (CuO) and steam: Cu(OH)₂ → CuO(black) + H₂O."
+      },
+      {
+        "key": "C",
+        "text": "The precipitate turns bright yellow due to copper iodide formation."
+      },
+      {
+        "key": "D",
+        "text": "The precipitate boils away into purple iodine gas."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Copper(II) hydroxide, Cu(OH)₂, is thermally unstable. When an aqueous suspension of pale blue copper(II) hydroxide is heated to near boiling point (~80°C–100°C), it readily undergoes thermal dehydration: Cu(OH)₂(s)(pale blue) xrightarrow{Δ} CuO(s)(black) + H₂O(l). The blue gelatinous solid transforms into fine black granules of copper(II) oxide. This test is a classic confirmatory observation for copper salts in analytical chemistry.",
+    "concept_name": "Black Copper(II) Oxide Conversion Upon Boiling",
+    "concept_tag": "analytical chemistry case based black copper(ii) oxide conversion upon boiling",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "040d5563b10c7419f85c0ab4e8dfc0bb3c4ec76e8913f6eed921bd49958653f2",
+    "question_skeleton": "case scenario a student precipitates pale blue copper ii hydroxide by adding sodium hydroxide to copper ii sulphate solution in a boiling tube cuso 2naoh cu oh pale blue na so the student then boils the test tube contents over a bunsen burner flame for 60 seconds investigative question what visible change occurs upon boiling the pale blue suspension and what chemical reaction takes place choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_17_000669",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 17: Action of Alkalis on Magnesium Salts vs Calcium Salts",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analyst tests a solution of Magnesium sulphate (MgSO₄) by adding sodium hydroxide solution dropwise and in excess. A dull white precipitate of Magnesium hydroxide (Mg(OH)₂) forms. When excess NaOH is added, the precipitate remains completely insoluble. When tested with excess ammonium hydroxide, the precipitate also remains completely insoluble. **Investigative Question:** Why is Magnesium hydroxide completely insoluble in excess sodium hydroxide, unlike Zinc or Lead hydroxides? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Magnesium is a noble gas that does not react with water."
+      },
+      {
+        "key": "B",
+        "text": "Magnesium hydroxide, Mg(OH)₂, is purely a basic hydroxide with zero amphoteric character; it cannot react with bases or excess hydroxide ions to form soluble complex salts."
+      },
+      {
+        "key": "C",
+        "text": "Magnesium hydroxide dissolves into white gas that escapes the tube."
+      },
+      {
+        "key": "D",
+        "text": "Magnesium chloride forms a protective diamond coating."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Amphoteric hydroxides like Zn(OH)₂, Al(OH)₃, and Pb(OH)₂ dissolve in excess sodium hydroxide because they can act as acids, forming soluble zincates, aluminates, and plumbites. Magnesium hydroxide, Mg(OH)₂, is an alkaline earth hydroxide that is purely basic. It has no amphoteric character whatsoever and cannot react with or dissolve in excess strong alkali (NaOH) or weak alkali (NH₄OH). Thus, dull white Mg(OH)₂ remains stubbornly insoluble in excess alkali.",
+    "concept_name": "Insolubility of Magnesium Hydroxide in Excess Alkalis",
+    "concept_tag": "analytical chemistry case based insolubility of magnesium hydroxide in excess alkalis",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "806c40189105bcf9d8f41d320f63912fe07954e2f9322d986b1b3c665b3abbe7",
+    "question_skeleton": "case scenario an analyst tests a solution of magnesium sulphate mgso by adding sodium hydroxide solution dropwise and in excess a dull white precipitate of magnesium hydroxide mg oh forms when excess naoh is added the precipitate remains completely insoluble when tested with excess ammonium hydroxide the precipitate also remains completely insoluble investigative question why is magnesium hydroxide completely insoluble in excess sodium hydroxide unlike zinc or lead hydroxides choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_18_c29368",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 18: Nitrate Radical Identification: The Brown Ring Test",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an ICSE chemistry practical, a student performs the Brown Ring Test for a Nitrate salt: Step 1: To an aqueous solution of Potassium Nitrate (KNO₃), freshly prepared Iron(II) sulphate (FeSO₄) solution is added. Step 2: Concentrated Sulphuric acid (H₂SO₄) is slowly and carefully poured down the inclined inner side of the test tube without shaking. **Investigative Question:** What visible observation confirms the presence of the nitrate ion, and what is the chemical formula of the brown substance formed at the junction of the two liquids? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A white precipitate of barium sulphate forms at the bottom."
+      },
+      {
+        "key": "B",
+        "text": "A distinct dark brown ring forms at the junction of the two liquid layers; its chemical formula is Nitroso iron(II) sulphate, [Fe(H₂O)₅(NO)]SO₄ (or FeSO₄·NO)."
+      },
+      {
+        "key": "C",
+        "text": "A brown gas explodes with a pop sound."
+      },
+      {
+        "key": "D",
+        "text": "The entire solution turns yellow with no ring formation."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The Brown Ring test is the definitive test for nitrates (NO₃⁻). When concentrated H₂SO₄ (dense liquid) is poured down the side, it forms a lower layer beneath the aqueous solution. At the interface, concentrated H₂SO₄ reacts with nitrate to produce nitric oxide (NO): 6FeSO₄ + 3H₂SO₄ + 2HNO₃ → 3Fe₂(SO₄)₃ + 4H₂O + 2NO. The nitric oxide gas reacts immediately with excess unoxidised ferrous sulphate to form the dark brown coordination complex: FeSO₄ + NO + 5H₂O → [Fe(H₂O)₅(NO)]SO₄. Shaking destroys the ring because the heat of dilution decomposes the fragile complex.",
+    "concept_name": "Formation of Nitroso Iron(II) Sulphate Complex",
+    "concept_tag": "analytical chemistry case based formation of nitroso iron(ii) sulphate complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5d04ced860a11919150e57eee42496a2f1764032b6f845630f3fc2027fac16cd",
+    "question_skeleton": "case scenario in an icse chemistry practical a student performs the brown ring test for a nitrate salt step 1 to an aqueous solution of potassium nitrate kno freshly prepared iron ii sulphate feso solution is added step 2 concentrated sulphuric acid h so is slowly and carefully poured down the inclined inner side of the test tube without shaking investigative question what visible observation confirms the presence of the nitrate ion and what is the chemical formula of the brown substance formed at the junction of the two liquids choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_19_4ea2d1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 19: Why Freshly Prepared $FeSO₄$ Must Be Used in the Brown Ring Test",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student attempts the Brown Ring Test using a bottle of Iron(II) sulphate solution that has been sitting open on the shelf for six months. The solution has turned rusty yellow-brown. When the student adds concentrated sulphuric acid, no brown ring forms at the interface. **Investigative Question:** Why must freshly prepared Iron(II) sulphate solution always be used for the Brown Ring Test? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Old iron(II) sulphate evaporates into air."
+      },
+      {
+        "key": "B",
+        "text": "On standing, aqueous Fe²⁺ ions are spontaneously oxidised by dissolved atmospheric oxygen into Fe³⁺ (ferric) ions; ferric ions cannot reduce nitrate to nitric oxide (NO) and cannot form the brown nitroso complex."
+      },
+      {
+        "key": "C",
+        "text": "Old iron sulphate turns into hydrochloric acid."
+      },
+      {
+        "key": "D",
+        "text": "Concentrated sulphuric acid only reacts with iron metal."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ferrous sulphate in aqueous solution is thermodynamically prone to aerial oxidation: 4FeSO₄ + O₂ + 2H₂O → 4Fe(OH)SO₄ (basic ferric sulphate, rusty yellow-brown). In the Brown Ring test, Fe²⁺ is required to act as a reducing agent (reducing NO₃⁻ to NO) and as a complexing cation (binding NO to form [Fe(H₂O)₅(NO)]²⁺). If the solution has already oxidised to Fe³⁺, no reduction can occur and no brown ring can form. Hence, freshly prepared crystals of FeSO₄ must be dissolved immediately prior to the test.",
+    "concept_name": "Atmospheric Oxidation of Ferrous to Ferric Ions",
+    "concept_tag": "analytical chemistry case based atmospheric oxidation of ferrous to ferric ions",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f950cec2aebacf982d712952baa4b76458851e86baf4475641ed2f294cd2cd74",
+    "question_skeleton": "case scenario a student attempts the brown ring test using a bottle of iron ii sulphate solution that has been sitting open on the shelf for six months the solution has turned rusty yellow brown when the student adds concentrated sulphuric acid no brown ring forms at the interface investigative question why must freshly prepared iron ii sulphate solution always be used for the brown ring test choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_20_768dce",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 20: Identification of Sulphate ($SO₄²⁻$) vs Sulphite ($SO₃²⁻$) Using $BaCl₂$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemist tests two unlabelled solutions containing sodium salts: Test: Barium chloride solution (BaCl₂) is added to both solutions. Both yield a dense white precipitate. Confirmatory Step: Dilute hydrochloric acid is added to both white precipitates. Result: Precipitate in Tube 1 dissolves completely with effervescence of a gas with burning sulphur odor. Precipitate in Tube 2 remains completely INSOLUBLE even on boiling. **Investigative Question:** Which acid radical is present in Tube 1 and Tube 2? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tube 1 contains Sulphate; Tube 2 contains Sulphite."
+      },
+      {
+        "key": "B",
+        "text": "Tube 1 contains Sulphite (SO₃²⁻, forms BaSO₃ which dissolves in HCl releasing SO₂); Tube 2 contains Sulphate (SO₄²⁻, forms BaSO₄ which is completely insoluble in dilute HCl)."
+      },
+      {
+        "key": "C",
+        "text": "Both tubes contain carbonate ions."
+      },
+      {
+        "key": "D",
+        "text": "Neither tube contains sulphur compounds."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Barium chloride reacts with both sulphite and sulphate to form white precipitates: Na₂SO₃ + BaCl₂ → BaSO₃↓(white) + 2NaCl; Na₂SO₄ + BaCl₂ → BaSO₄↓(white) + 2NaCl. However, Barium Sulphite dissolves readily in dilute hydrochloric acid with effervescence of SO₂: BaSO₃ + 2HCl → BaCl₂ + H₂O + SO₂↑. In contrast, Barium Sulphate (BaSO₄) is completely insoluble in dilute mineral acids (HCl, HNO₃) due to its extremely low solubility product, remaining as a permanent white precipitate.",
+    "concept_name": "Insolubility in Dilute Hydrochloric Acid",
+    "concept_tag": "analytical chemistry case based insolubility in dilute hydrochloric acid",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3f890e36b1575e4365b36d139d01220bdfa374c20af8b867829ff8e18dfa07ca",
+    "question_skeleton": "case scenario a chemist tests two unlabelled solutions containing sodium salts test barium chloride solution bacl is added to both solutions both yield a dense white precipitate confirmatory step dilute hydrochloric acid is added to both white precipitates result precipitate in tube 1 dissolves completely with effervescence of a gas with burning sulphur odor precipitate in tube 2 remains completely insoluble even on boiling investigative question which acid radical is present in tube 1 and tube 2 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_21_65ef63",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 21: Identification of Chloride ($Cl⁻$) Ion Using Silver Nitrate ($AgNO₃$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** To detect a halide in a clear solution, an analyst adds dilute Nitric acid followed by Silver Nitrate solution (AgNO₃). A curdy white precipitate forms immediately. When the analyst adds excess dilute Ammonium Hydroxide solution, the curdy white precipitate dissolves completely to yield a clear, transparent solution. **Investigative Question:** What is the identity of the white precipitate, and why does it dissolve in ammonium hydroxide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "White precipitate is Lead chloride; dissolves by thermal boiling."
+      },
+      {
+        "key": "B",
+        "text": "White precipitate is Silver Chloride (AgCl); it dissolves in ammonium hydroxide by forming the soluble coordination complex diamminesilver(I) chloride: AgCl + 2NH₄OH → [Ag(NH₃)₂]Cl + 2H₂O."
+      },
+      {
+        "key": "C",
+        "text": "White precipitate is Silver oxide; dissolves by reduction to silver."
+      },
+      {
+        "key": "D",
+        "text": "White precipitate is Calcium carbonate; dissolves by effervescence."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The addition of silver nitrate to a solution containing chloride ions precipitates insoluble silver chloride: NaCl + AgNO₃ → AgCl↓(curdy white) + NaNO₃. AgCl is completely insoluble in dilute nitric acid, confirming it is not carbonate or sulphite. When excess ammonium hydroxide is added, the Ag⁺ ion complexes with two neutral ammonia ligands, shifting the dissolution equilibrium: AgCl(s) + 2NH₄OH(aq) → [Ag(NH₃)₂]Cl(aq) + 2H₂O. The soluble diamminesilver(I) complex ion dissolves the precipitate completely.",
+    "concept_name": "Curdy White Precipitate Soluble in Ammonium Hydroxide",
+    "concept_tag": "analytical chemistry case based curdy white precipitate soluble in ammonium hydroxide",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2f6fa1d96b1036ca2109587a7b18bcefa85aac034cbba7c00830c0bec61445a8",
+    "question_skeleton": "case scenario to detect a halide in a clear solution an analyst adds dilute nitric acid followed by silver nitrate solution agno a curdy white precipitate forms immediately when the analyst adds excess dilute ammonium hydroxide solution the curdy white precipitate dissolves completely to yield a clear transparent solution investigative question what is the identity of the white precipitate and why does it dissolve in ammonium hydroxide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_22_44348f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 22: Gas Identification: Chlorine ($Cl₂$) Gas Reactions",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** During an oxidation reaction in a fume hood, a suffocating, greenish-yellow gas with an irritating, choking odor is evolved. A student tests the gas with two separate reagent papers: Test 1: Moist blue litmus paper turns red momentarily, and then turns completely bleached white. Test 2: Moist starch-iodide paper turns an intense, deep blue-black. **Investigative Question:** What is the identity of the gas, and what chemical reaction turns the starch-iodide paper blue-black? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sulphur dioxide; SO₂ oxidises starch to blue sugar."
+      },
+      {
+        "key": "B",
+        "text": "Chlorine gas (Cl₂); chlorine oxidises iodide ions (I⁻) to elemental iodine (I₂), which forms an intense blue-black inclusion complex with starch: Cl₂ + 2KI → 2KCl + I₂."
+      },
+      {
+        "key": "C",
+        "text": "Nitrogen dioxide; NO₂ forms blue copper nitrate on the paper."
+      },
+      {
+        "key": "D",
+        "text": "Hydrogen chloride; HCl dissolves starch into liquid ink."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Chlorine (Cl₂) is a greenish-yellow gas with a choking odor. Its reactions are: (1) Bleaching action: Cl₂ dissolves in moisture to form hydrochloric and hypochlorous acids (Cl₂ + H₂O → HCl + HOCl). Acidic HCl turns blue litmus red; unstable HOCl decomposes to release nascent oxygen (HOCl → HCl + [O]), which bleaches the litmus dye to white. (2) Starch-iodide test: Chlorine is a stronger oxidising agent than iodine; it displaces I⁻ to form free iodine (Cl₂ + 2KI → 2KCl + I₂). Free iodine reacts with starch helices to form an intensely colored deep blue-black complex.",
+    "concept_name": "Greenish-Yellow Color, Bleaching Action, and Starch-Iodide Paper",
+    "concept_tag": "analytical chemistry case based greenish-yellow color, bleaching action, and starch-iodide paper",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "66154c3b006d6123a7bf97b3b2b6bcfaf5d61dcc3f8df4671c377d9372dbf158",
+    "question_skeleton": "case scenario during an oxidation reaction in a fume hood a suffocating greenish yellow gas with an irritating choking odor is evolved a student tests the gas with two separate reagent papers test 1 moist blue litmus paper turns red momentarily and then turns completely bleached white test 2 moist starch iodide paper turns an intense deep blue black investigative question what is the identity of the gas and what chemical reaction turns the starch iodide paper blue black choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_23_0b4ba7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 23: Gas Identification: Sulphur Dioxide ($SO₂$) vs Carbon Dioxide ($CO₂$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical technician needs to confirm whether a gas evolving from an unknown reaction is Sulphur Dioxide (SO₂) or Carbon Dioxide (CO₂). Both gases are colorless, denser than air, non-flammable, and turn lime water milky. **Investigative Question:** Which chemical reagent test definitively confirms Sulphur Dioxide and rules out Carbon Dioxide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Testing with a burning wooden splinter."
+      },
+      {
+        "key": "B",
+        "text": "Bubbling through acidified Potassium Permanganate (KMnO₄) solution; SO₂ decolorizes purple KMnO₄ to clear colorless (or turns orange K₂Cr₂O₇ to green), whereas CO₂ produces zero color change."
+      },
+      {
+        "key": "C",
+        "text": "Measuring the gas temperature with a mercury thermometer."
+      },
+      {
+        "key": "D",
+        "text": "Bubbling through pure distilled water."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Because both CO₂ and SO₂ turn lime water milky (forming CaCO₃ and CaSO₃ precipitates), lime water cannot distinguish them. However, Sulphur dioxide is a powerful reducing agent (S = +4 can be oxidised to +6), whereas Carbon dioxide is in its maximum oxidation state (C = +4) and cannot be oxidised further. Acidified potassium permanganate is an intense purple oxidizer; SO₂ reduces MnO₄⁻ (purple, Mn⁷⁺) to Mn²⁺ (colorless): 2KMnO₄ + 2H₂O + 5SO₂ → K₂SO₄ + 2MnSO₄ + 2H₂SO₄. CO₂ produces no reaction.",
+    "concept_name": "Acidified $KMnO_4$ and $K_2Cr_2O_7$ Decolorization",
+    "concept_tag": "analytical chemistry case based acidified $kmno_4$ and $k_2cr_2o_7$ decolorization",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5f8aca1ca33b92eb578be1b4c5e5a2c6d165a332cdcbbddcf717bbf9e4cb6ab5",
+    "question_skeleton": "case scenario a chemical technician needs to confirm whether a gas evolving from an unknown reaction is sulphur dioxide so or carbon dioxide co both gases are colorless denser than air non flammable and turn lime water milky investigative question which chemical reagent test definitively confirms sulphur dioxide and rules out carbon dioxide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_24_63000d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 24: Gas Identification: Nitrogen Dioxide ($NO₂$) Brown Fumes",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** When concentrated nitric acid is heated with copper turnings, dense reddish-brown fumes are evolved that fill the gas jar. A student holds a moist potassium iodide-starch paper at the mouth of the jar, which turns deep blue-black. Furthermore, when the gas is bubbled into cold acidified Iron(II) sulphate solution, the solution turns dark brown. **Investigative Question:** What is the identity of the reddish-brown gas? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bromine vapor (Br₂)."
+      },
+      {
+        "key": "B",
+        "text": "Nitrogen Dioxide gas (NO₂)."
+      },
+      {
+        "key": "C",
+        "text": "Chromyl chloride vapor (CrO₂Cl₂)."
+      },
+      {
+        "key": "D",
+        "text": "Red phosphorus vapor."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Nitrogen dioxide (NO₂) is a heavy, pungent, reddish-brown gas formed by the reduction of concentrated nitric acid: Cu + 4HNO₃(conc) → Cu(NO₃)₂ + 2H₂O + 2NO₂↑. Being an oxidising agent, NO₂ oxidises iodide in starch-iodide paper to free iodine (turning it blue-black), and dissolves in cold ferrous sulphate solution to form the dark brown nitroso complex [Fe(H₂O)₅(NO)]SO₄. Bromine vapor is also reddish-brown, but bromine does not turn cold ferrous sulphate solution dark brown.",
+    "concept_name": "Acidified Ferrous Sulphate and Potassium Iodide Paper",
+    "concept_tag": "analytical chemistry case based acidified ferrous sulphate and potassium iodide paper",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c639e4d51d6de9a3fb5e6e08f78744254b784813fe2482b65472ab1c5430dec6",
+    "question_skeleton": "case scenario when concentrated nitric acid is heated with copper turnings dense reddish brown fumes are evolved that fill the gas jar a student holds a moist potassium iodide starch paper at the mouth of the jar which turns deep blue black furthermore when the gas is bubbled into cold acidified iron ii sulphate solution the solution turns dark brown investigative question what is the identity of the reddish brown gas choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_25_962b40",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 25: Gas Identification: Water Vapor ($H_2O$) Confirmatory Tests",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A condensation droplet collects on the neck of a reaction flask during the dehydration of an organic alcohol. An analyst confirms the droplet is pure water using two standard anhydrous chemical indicators. **Investigative Question:** What color changes occur when water touches anhydrous Copper(II) sulphate and dry Cobalt(II) chloride paper? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Anhydrous CuSO₄ turns from white to black; Cobalt chloride paper turns from green to yellow."
+      },
+      {
+        "key": "B",
+        "text": "Anhydrous Copper(II) sulphate turns from snowy white to brilliant blue; dry Cobalt(II) chloride paper turns from deep blue to pink."
+      },
+      {
+        "key": "C",
+        "text": "Both indicators turn bright red."
+      },
+      {
+        "key": "D",
+        "text": "Both indicators dissolve to produce flammable hydrogen gas."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The two classical qualitative tests for water (liquid or vapor) are:\n1. Anhydrous Copper(II) sulphate (CuSO₄): pure anhydrous CuSO₄ is a snowy white powder. When it contacts water, it rehydrates exothermically to form the pentahydrate CuSO₄·5H₂O, turning brilliant blue.\n2. Cobalt(II) chloride paper: filter paper impregnated with anhydrous CoCl₂ is deep blue. When exposed to water moisture, it forms the hydrated complex [Co(H₂O)₆]Cl₂, changing color from deep blue to bright pink.",
+    "concept_name": "Anhydrous Copper(II) Sulphate and Cobalt Chloride Paper",
+    "concept_tag": "analytical chemistry case based anhydrous copper(ii) sulphate and cobalt chloride paper",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f784b0d7ff0b644772399603d2991b32cb656d9d4e87f6068db316cc5689531c",
+    "question_skeleton": "case scenario a condensation droplet collects on the neck of a reaction flask during the dehydration of an organic alcohol an analyst confirms the droplet is pure water using two standard anhydrous chemical indicators investigative question what color changes occur when water touches anhydrous copper ii sulphate and dry cobalt ii chloride paper choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_26_067880",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 26: Action of Alkalis on Lead Salts: Sodium Plumbite Formation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A white precipitate of Lead(II) hydroxide (Pb(OH)₂) is prepared by mixing Lead(II) nitrate with sodium hydroxide solution. When excess concentrated sodium hydroxide is added and warmed, the white precipitate completely dissolves to form a clear, colorless solution. **Investigative Question:** What is the balanced equation for the dissolution of Lead(II) hydroxide in excess sodium hydroxide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pb(OH)₂ + 2NaOH → Na₂PbO₂ (Sodium plumbite) + 2H₂O"
+      },
+      {
+        "key": "B",
+        "text": "Pb(OH)₂ + NaOH → Pb + Na₂O + H₂O"
+      },
+      {
+        "key": "C",
+        "text": "Pb(OH)₂ + 4NaOH → Na₄Pb + 3H₂O + O₂"
+      },
+      {
+        "key": "D",
+        "text": "Lead hydroxide does not dissolve in sodium hydroxide."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Lead(II) hydroxide is an amphoteric hydroxide. In the presence of excess strong base (NaOH), it acts as an acid: Pb(OH)₂(s) + 2NaOH(aq) → Na₂PbO₂(aq) (sodium plumbite) + 2H₂O(l) (or formulated as sodium tetrahydroxoplumbate(II), Na₂[Pb(OH)₄]). The dissolution confirms the amphoteric nature of lead(II) hydroxide.",
+    "concept_name": "Amphoteric Hydroxide Solubilisation in Hot $NaOH$",
+    "concept_tag": "analytical chemistry case based amphoteric hydroxide solubilisation in hot $naoh$",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f1e0ccabed97717bde71e761096a78ec3fcbf0f2b05172a1f774020e867f7a12",
+    "question_skeleton": "case scenario a white precipitate of lead ii hydroxide pb oh is prepared by mixing lead ii nitrate with sodium hydroxide solution when excess concentrated sodium hydroxide is added and warmed the white precipitate completely dissolves to form a clear colorless solution investigative question what is the balanced equation for the dissolution of lead ii hydroxide in excess sodium hydroxide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_27_6eb453",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 27: Why Ammonium Hydroxide Cannot Dissolve Lead(II) Hydroxide",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an analytical laboratory test, a student observes that Lead(II) hydroxide dissolves completely in excess Sodium Hydroxide, but remains completely insoluble even when a large excess of concentrated Ammonium Hydroxide is added and heated. **Investigative Question:** Why is Lead(II) hydroxide soluble in excess $NaOH$ but insoluble in excess $NH_4OH$? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium hydroxide is an acid while ammonium hydroxide is a base."
+      },
+      {
+        "key": "B",
+        "text": "NaOH is a strong base with high [OH⁻] that forces amphoteric Pb(OH)₂ into the soluble plumbite anion (PbO₂²⁻); NH₄OH is a weak, poorly ionised base with insufficient [OH⁻] to form plumbite, and Lead(II) ions do not form stable ammine coordination complexes with NH₃."
+      },
+      {
+        "key": "C",
+        "text": "Ammonium hydroxide precipitates lead as elemental lead metal."
+      },
+      {
+        "key": "D",
+        "text": "Lead hydroxide reacts with ammonium hydroxide to form explosive lead azide."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Two factors explain this fundamental ICSE distinction:\n1. Amphoteric dissolution to form plumbite requires a high concentration of free hydroxide ions (OH⁻). NaOH (strong electrolyte, 100% ionised) provides massive [OH⁻] to drive Pb(OH)₂ + 2OH⁻ → PbO₂²⁻ + 2H₂O. NH₄OH (weak electrolyte, <1% ionised) cannot supply enough OH⁻.\n2. Unlike Copper(II) and Zinc(II), which dissolve in excess NH₄OH by forming stable ammine complexes ([Cu(NH₃)₄]²⁺ and [Zn(NH₃)₄]²⁺), Lead(II) has no affinity for ammonia ligands and cannot form an ammine complex. Therefore, Pb(OH)₂ remains completely insoluble in excess NH₄OH.",
+    "concept_name": "Weak Base Dissociation and Lack of Ammine Complexation",
+    "concept_tag": "analytical chemistry case based weak base dissociation and lack of ammine complexation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a6743fcf64d984e43247e40cfdc65f5bf6414ac47a1dd6f76e71934d532b1eb4",
+    "question_skeleton": "case scenario in an analytical laboratory test a student observes that lead ii hydroxide dissolves completely in excess sodium hydroxide but remains completely insoluble even when a large excess of concentrated ammonium hydroxide is added and heated investigative question why is lead ii hydroxide soluble in excess naoh but insoluble in excess nh 4oh choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_28_a79af2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 28: Gas Identification: Hydrogen Sulphide ($H_2S$) Lead Acetate Test",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** During a mineral identification test, a geologist treats an unknown sulfide ore with dilute hydrochloric acid. A gas with a sickening rotten-egg odor is evolved. The geologist holds a filter paper strip moistened with Lead(II) acetate solution across the test tube mouth. Within three seconds, the paper turns a lustrous silvery-black. **Investigative Question:** What chemical reaction turns the moist lead acetate paper black? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "(CH₃COO)₂Pb + H₂S → PbS↓(black) + 2CH₃COOH"
+      },
+      {
+        "key": "B",
+        "text": "Pb + H₂S → PbS + H₂"
+      },
+      {
+        "key": "C",
+        "text": "(CH₃COO)₂Pb + 2HCl → PbCl₂ + 2CH₃COOH"
+      },
+      {
+        "key": "D",
+        "text": "Lead acetate reacts with air to form black carbon soot."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Hydrogen sulphide gas (H₂S) reacts with aqueous lead(II) acetate on the moistened test paper: (CH₃COO)₂Pb(aq) + H₂S(g) → PbS(s)↓(black) + 2CH₃COOH(aq). Insoluble Lead(II) sulphide (PbS) has an extremely low solubility product (K_sp ≈ 10⁻²⁸) and precipitates instantly on the cellulose fibers as an adherent, metallic-black film. This is the definitive confirmatory test for H₂S.",
+    "concept_name": "Insoluble Black Lead Sulphide Deposition",
+    "concept_tag": "analytical chemistry case based insoluble black lead sulphide deposition",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1f715f34f9467a8c92603da7f83145a2727bbec89b7b2a09cf0469d4fa8cc0e2",
+    "question_skeleton": "case scenario during a mineral identification test a geologist treats an unknown sulfide ore with dilute hydrochloric acid a gas with a sickening rotten egg odor is evolved the geologist holds a filter paper strip moistened with lead ii acetate solution across the test tube mouth within three seconds the paper turns a lustrous silvery black investigative question what chemical reaction turns the moist lead acetate paper black choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_29_f37213",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 29: Action of Alkalis on Zinc Metal vs Zinc Oxide vs Zinc Hydroxide",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical manufacturer prepares Sodium Zincate (Na₂ZnO₂) solution using three different starting materials: Batch 1: Zinc metal granules (Zn) Batch 2: Zinc oxide powder (ZnO) Batch 3: Zinc hydroxide precipitate (Zn(OH)₂) Each starting material is heated with concentrated Sodium Hydroxide solution. **Investigative Question:** What is the byproduct evolved in Batch 1 compared to Batch 2 and Batch 3? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Batch 1 produces Oxygen gas; Batch 2 and 3 produce Chlorine gas."
+      },
+      {
+        "key": "B",
+        "text": "Batch 1 produces Hydrogen gas (Zn + 2NaOH → Na₂ZnO₂ + H₂↑); Batch 2 and Batch 3 produce Water only (ZnO + 2NaOH → Na₂ZnO₂ + H₂O; Zn(OH)₂ + 2NaOH → Na₂ZnO₂ + 2H₂O)."
+      },
+      {
+        "key": "C",
+        "text": "Batch 1 produces Water; Batch 2 and 3 produce Hydrogen gas."
+      },
+      {
+        "key": "D",
+        "text": "All three batches produce identical amounts of hydrogen gas."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "All three zinc species react with hot concentrated NaOH to yield the identical soluble salt, Sodium Zincate (Na₂ZnO₂). However, the byproduct differs:\n- From elemental metal: Zn + 2NaOH → Na₂ZnO₂ + H₂↑ (redox displacement, liberates flammable H₂ gas).\n- From basic/amphoteric oxide: ZnO + 2NaOH → Na₂ZnO₂ + H₂O (neutralization, yields water).\n- From amphoteric hydroxide: Zn(OH)₂ + 2NaOH → Na₂ZnO₂ + 2H₂O (neutralization, yields water).",
+    "concept_name": "Common Product: Sodium Zincate ($Na_2ZnO_2$)",
+    "concept_tag": "analytical chemistry case based common product: sodium zincate ($na_2zno_2$)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3c7572e3f3b38e8cd4831e57b5028ae6263c8269768455eb19cf1d4b7924ab62",
+    "question_skeleton": "case scenario a chemical manufacturer prepares sodium zincate na zno solution using three different starting materials batch 1 zinc metal granules zn batch 2 zinc oxide powder zno batch 3 zinc hydroxide precipitate zn oh each starting material is heated with concentrated sodium hydroxide solution investigative question what is the byproduct evolved in batch 1 compared to batch 2 and batch 3 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_30_9dda2b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 30: Distinguishing Aluminium Salts from Zinc Salts Using Flame Test",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student wonders why a flame test cannot be used to distinguish Aluminium salts from Zinc salts in the laboratory. **Investigative Question:** Why are flame tests useless for identifying Aluminium, Zinc, and Lead cations? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Aluminium and zinc explode when heated in a Bunsen burner."
+      },
+      {
+        "key": "B",
+        "text": "Aluminium, Zinc, and Lead do not impart any characteristic color to the Bunsen burner flame because their valence electrons require excitation energies far higher than that provided by a simple thermal Bunsen flame."
+      },
+      {
+        "key": "C",
+        "text": "All three metals turn the flame pitch black."
+      },
+      {
+        "key": "D",
+        "text": "Flame tests can only be performed on liquid acids."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Flame tests rely on low ionisation energies and easily excitable valence electrons (as found in s-block Group 1 and Group 2 metals like Na, K, Ca, Ba, and Cu). Aluminium (Group 13), Zinc (Group 12), and Lead (Group 14) have tightly held valence electrons with large energy gaps (ΔE) that cannot be excited by the modest thermal energy (~1000°C–1500°C) of a non-luminous Bunsen burner flame. Hence, they impart no characteristic visible color to the flame and must be identified by wet precipitation reactions with NaOH and NH₄OH.",
+    "concept_name": "Non-Volatile Non-Emission vs Colorless Flame",
+    "concept_tag": "analytical chemistry case based non-volatile non-emission vs colorless flame",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a92a85eca53d665c5c833fbfc477faa2c8db74c5fa78a07b734173baa32045b8",
+    "question_skeleton": "case scenario a student wonders why a flame test cannot be used to distinguish aluminium salts from zinc salts in the laboratory investigative question why are flame tests useless for identifying aluminium zinc and lead cations choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_31_498455",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 31: Action of Heat on White Zinc Oxide: Yellow When Hot, White When Cold",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student heats a small porcelain crucible containing pure white Zinc Oxide (ZnO) powder over a roaring Bunsen burner flame. At red heat, the powder turns an intense bright yellow. When the crucible is removed from the flame and allowed to cool to room temperature, the yellow color vanishes completely, restoring the pristine white powder. **Investigative Question:** What physical phenomenon explains why Zinc Oxide is yellow when hot and white when cold? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zinc oxide undergoes chemical combustion to form sulphur."
+      },
+      {
+        "key": "B",
+        "text": "Upon heating, ZnO loses a tiny fraction of lattice oxygen (forming non-stoichiometric Zn_{1+x}O); the liberated electrons are trapped in crystal lattice anion vacancies (F-centers), absorbing blue light and reflecting yellow; on cooling, oxygen is reabsorbed, restoring the stoichiometric white lattice."
+      },
+      {
+        "key": "C",
+        "text": "The porcelain crucible melts and coats the zinc oxide with yellow glaze."
+      },
+      {
+        "key": "D",
+        "text": "Zinc oxide converts into metallic gold when heated."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Zinc oxide exhibits reversible thermochromism: ZnO(s)(white) xrightarrow{Δ} Zn_{1+x}O(s)(yellow) + (x/2)O₂(g). When heated strongly, a few oxide ions (O²⁻) leave the crystal lattice as O₂ gas, leaving behind excess interstitial Zn²⁺ ions and trapped free electrons in the vacant anion sites (metal-excess non-stoichiometric defect / F-centers). These trapped electrons absorb high-energy blue/violet light from the visible spectrum, making the hot solid appear yellow. Upon cooling, the defect reverses as atmospheric oxygen re-enters the lattice, restoring the white color.",
+    "concept_name": "Non-Stoichiometric Defect and Lattice Distortion",
+    "concept_tag": "analytical chemistry case based non-stoichiometric defect and lattice distortion",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "de2c9bdacd3f9306e8f9d5c9d32a3060093c4b5eeb9a6d3a7b0083979b3b5a94",
+    "question_skeleton": "case scenario a student heats a small porcelain crucible containing pure white zinc oxide zno powder over a roaring bunsen burner flame at red heat the powder turns an intense bright yellow when the crucible is removed from the flame and allowed to cool to room temperature the yellow color vanishes completely restoring the pristine white powder investigative question what physical phenomenon explains why zinc oxide is yellow when hot and white when cold choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_32_4798f6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 32: Action of Heat on Lead Monoxide ($PbO$): Litharge vs Massicot",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a mineralogy assay, a student strongly heats yellow powder of Lead(II) oxide (Litharge/Massicot, PbO) in a hard glass test tube. While red hot, the powder turns a dark reddish-brown and fuses to the glass walls. Upon cooling down to room temperature, the fused solid turns back to a bright canary yellow. **Investigative Question:** What is the characteristic color of Lead(II) oxide when hot versus when cold? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "White when hot, black when cold."
+      },
+      {
+        "key": "B",
+        "text": "Reddish-brown when hot, yellow when cold."
+      },
+      {
+        "key": "C",
+        "text": "Green when hot, blue when cold."
+      },
+      {
+        "key": "D",
+        "text": "Colorless when hot, purple when cold."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Lead(II) oxide (PbO) exhibits a classic, diagnostic thermochromic color transition: it is reddish-brown when hot and canary yellow when cold. Furthermore, molten PbO attacks and fuses with the silica in glass, leaving a permanent yellow glassy stain on the test tube walls. This property is an essential ICSE diagnostic marker for identifying lead compounds.",
+    "concept_name": "Reddish-Brown / Yellow Thermochromism of Lead Oxide",
+    "concept_tag": "analytical chemistry case based reddish-brown / yellow thermochromism of lead oxide",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a14e0fb847f895c12f36036f10a34988b689b18ea6b2ed605ca274b7fb6070bd",
+    "question_skeleton": "case scenario in a mineralogy assay a student strongly heats yellow powder of lead ii oxide litharge massicot pbo in a hard glass test tube while red hot the powder turns a dark reddish brown and fuses to the glass walls upon cooling down to room temperature the fused solid turns back to a bright canary yellow investigative question what is the characteristic color of lead ii oxide when hot versus when cold choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_33_6c6706",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 33: Precipitation of Calcium Sulphate vs Barium Sulphate",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical chemist precipitates Calcium sulphate (CaSO₄) and Barium sulphate (BaSO₄) in separate test tubes by adding sodium sulphate to calcium chloride and barium chloride solutions. Both form white precipitates. The chemist then boils both test tubes with 50 mL of distilled water. **Investigative Question:** What observation is made upon boiling, and what does it reveal about the relative solubilities of CaSO₄ and BaSO₄? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both precipitates dissolve completely in boiling water."
+      },
+      {
+        "key": "B",
+        "text": "CaSO₄ is sparingly soluble and partially dissolves in boiling water; BaSO₄ is completely insoluble and remains totally unchanged even in prolonged boiling water."
+      },
+      {
+        "key": "C",
+        "text": "BaSO₄ dissolves while CaSO₄ turns into a black powder."
+      },
+      {
+        "key": "D",
+        "text": "Both precipitates decompose into sulphur dioxide gas."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Calcium sulphate (CaSO₄) is a sparingly soluble salt (solubility ~2 g/L at 20°C); upon heating with a large volume of boiling water, it dissolves appreciably to yield a clear or faintly hazy solution. In contrast, Barium sulphate (BaSO₄) has an infinitesimal solubility product (K_sp = 1.1 × 10⁻¹⁰; solubility ~0.0025 g/L); it is completely insoluble in cold water, boiling water, and concentrated mineral acids.",
+    "concept_name": "Comparative Solubility in Boiling Water",
+    "concept_tag": "analytical chemistry case based comparative solubility in boiling water",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3fbeb051345de9bdbb38ef5043b2e15fd0a943c48c9e7eb7bed99a116947efe4",
+    "question_skeleton": "case scenario an analytical chemist precipitates calcium sulphate caso and barium sulphate baso in separate test tubes by adding sodium sulphate to calcium chloride and barium chloride solutions both form white precipitates the chemist then boils both test tubes with 50 ml of distilled water investigative question what observation is made upon boiling and what does it reveal about the relative solubilities of caso and baso choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_34_b708ca",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 34: Action of Dilute $HCl$ on Lead Nitrate vs Silver Nitrate",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student adds dilute hydrochloric acid to two separate test tubes containing clear colorless solutions of Lead(II) nitrate (Pb(NO₃)₂) and Silver nitrate (AgNO₃). Both test tubes produce dense white precipitates (PbCl₂ and AgCl). The student heats both test tubes to boiling. **Investigative Question:** How does heating with water distinguish the white precipitate of Lead(II) chloride from Silver chloride? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Silver chloride dissolves in boiling water, while lead chloride remains insoluble."
+      },
+      {
+        "key": "B",
+        "text": "Lead(II) chloride (PbCl₂) dissolves completely in boiling water to form a clear solution and recrystallizes as white needles on cooling; Silver chloride (AgCl) remains completely insoluble in boiling water."
+      },
+      {
+        "key": "C",
+        "text": "Both precipitates dissolve and turn into green copper chloride."
+      },
+      {
+        "key": "D",
+        "text": "Lead chloride explodes upon boiling."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both Ag⁺ and Pb²⁺ form white insoluble chlorides when treated with dilute HCl: AgNO₃ + HCl → AgCl↓(white) + HNO₃; Pb(NO₃)₂ + 2HCl → PbCl₂↓(white) + 2HNO₃. However, they possess dramatically different temperature coefficients of solubility. AgCl is completely insoluble in cold and boiling water (it dissolves only in NH₄OH). PbCl₂ is sparingly soluble in cold water, but its solubility increases by more than 300% in boiling water; it dissolves completely to form a clear solution, and upon cooling, it recrystallizes as silky white needle-like crystals.",
+    "concept_name": "Hot Water Solubility Distinction of White Chlorides",
+    "concept_tag": "analytical chemistry case based hot water solubility distinction of white chlorides",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3f89431f18bbb57013c0ef9ce2d95846d94538645194d3c1f1571c604beeaa82",
+    "question_skeleton": "case scenario a student adds dilute hydrochloric acid to two separate test tubes containing clear colorless solutions of lead ii nitrate pb no and silver nitrate agno both test tubes produce dense white precipitates pbcl and agcl the student heats both test tubes to boiling investigative question how does heating with water distinguish the white precipitate of lead ii chloride from silver chloride choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_35_24be5e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 35: Action of Ammonia on Silver Chloride Precipitate: Photochemical Violet Tint",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A white precipitate of Silver chloride (AgCl) is divided into two watch glasses: Watch Glass 1 is treated with excess aqueous Ammonium Hydroxide: the precipitate dissolves instantly into a clear colorless liquid. Watch Glass 2 is left sitting on a sunny windowsill: over two hours, the white solid gradually turns violet, and eventually turns dark greyish-black. **Investigative Question:** What two chemical phenomena account for the dissolution in Watch Glass 1 and the darkening in Watch Glass 2? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dissolution: evaporation of silver; Darkening: formation of silver rust."
+      },
+      {
+        "key": "B",
+        "text": "Dissolution: formation of soluble diamminesilver(I) complex [Ag(NH₃)₂]Cl; Darkening: photochemical decomposition of AgCl in sunlight into finely divided metallic silver (black) and chlorine gas: 2AgCl xrightarrow{hν} 2Ag(s) + Cl₂(g)."
+      },
+      {
+        "key": "C",
+        "text": "Dissolution: conversion into hydrochloric acid; Darkening: absorption of soot from air."
+      },
+      {
+        "key": "D",
+        "text": "Both watch glasses undergo nuclear decay."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In Watch Glass 1, AgCl dissolves via coordination: AgCl + 2NH₄OH → [Ag(NH₃)₂]Cl + 2H₂O. In Watch Glass 2, silver chloride is light-sensitive. When exposed to solar ultraviolet radiation (hν), it undergoes photochemical dissociation: 2AgCl(s) xrightarrow{hν} 2Ag(s)(violet-black) + Cl₂(g)↑. The liberated metallic silver is in an ultra-fine, colloidal state that appears violet initially and turns greyish-black as more silver deposits. This photochemical sensitivity forms the basis of traditional black-and-white photography.",
+    "concept_name": "Complexation Followed by Photochemical Decomposition",
+    "concept_tag": "analytical chemistry case based complexation followed by photochemical decomposition",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2ce378db39067f7a757fabd24b91e47815625f7edb1b2e2862ac0dd1bd662907",
+    "question_skeleton": "case scenario a white precipitate of silver chloride agcl is divided into two watch glasses watch glass 1 is treated with excess aqueous ammonium hydroxide the precipitate dissolves instantly into a clear colorless liquid watch glass 2 is left sitting on a sunny windowsill over two hours the white solid gradually turns violet and eventually turns dark greyish black investigative question what two chemical phenomena account for the dissolution in watch glass 1 and the darkening in watch glass 2 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_36_1ce06e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 36: Identification of Carbonate ($CO₃²⁻$) vs Bicarbonate ($HCO₃⁻$) Using $MgSO₄$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical chemist has two unlabelled white powders: Solid A is Sodium Carbonate (Na₂CO₃); Solid B is Sodium Bicarbonate (NaHCO₃). Both effervesce with dilute acid, producing CO₂ that turns lime water milky. To distinguish them, the chemist prepares aqueous solutions of both and adds Magnesium sulphate (MgSO₄) solution to each at room temperature. Result: Solution A produces an immediate white precipitate in the cold. Solution B produces NO precipitate in the cold, but when boiled, a white precipitate forms. **Investigative Question:** Why does Sodium Carbonate precipitate Magnesium carbonate in the cold, while Sodium Bicarbonate precipitates only on boiling? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium carbonate is colder than sodium bicarbonate."
+      },
+      {
+        "key": "B",
+        "text": "Magnesium carbonate (MgCO₃) is insoluble and precipitates immediately in the cold: MgSO₄ + Na₂CO₃ → MgCO₃↓ + Na₂SO₄; Magnesium bicarbonate (Mg(HCO₃)₂) is soluble in the cold, but upon boiling, it decomposes into insoluble Magnesium carbonate: Mg(HCO₃)₂ xrightarrow{Δ} MgCO₃↓ + H₂O + CO₂↑."
+      },
+      {
+        "key": "C",
+        "text": "Sodium bicarbonate is an organic compound that does not react with magnesium."
+      },
+      {
+        "key": "D",
+        "text": "Boiling decomposes magnesium sulphate into yellow sulphur."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "This is the definitive analytical test to distinguish soluble carbonates from bicarbonates: (1) In the cold: Na₂CO₃ + MgSO₄ → MgCO₃↓(white precipitate) + Na₂SO₄. Magnesium carbonate has a low solubility product and precipitates immediately at room temperature. (2) With bicarbonate in the cold: 2NaHCO₃ + MgSO₄ → Mg(HCO₃)₂ + Na₂SO₄. Magnesium hydrogen carbonate is highly soluble in cold water (no precipitate). Upon heating/boiling, soluble Mg(HCO₃)₂ thermally decomposes: Mg(HCO₃)₂ xrightarrow{Δ} MgCO₃↓(white) + H₂O + CO₂↑.",
+    "concept_name": "Cold Precipitation vs Boiling Precipitation",
+    "concept_tag": "analytical chemistry case based cold precipitation vs boiling precipitation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "73f8020dae9f913cbc26f73718a744074d0b580f52ce1e9dfbc3ae287d0b6ea6",
+    "question_skeleton": "case scenario an analytical chemist has two unlabelled white powders solid a is sodium carbonate na co solid b is sodium bicarbonate nahco both effervesce with dilute acid producing co that turns lime water milky to distinguish them the chemist prepares aqueous solutions of both and adds magnesium sulphate mgso solution to each at room temperature result solution a produces an immediate white precipitate in the cold solution b produces no precipitate in the cold but when boiled a white precipitate forms investigative question why does sodium carbonate precipitate magnesium carbonate in the cold while sodium bicarbonate precipitates only on boiling choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_37_a12de6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 37: Identification of Nitrate ($NO₃⁻$) by Copper Turnings Test",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A dry salt is mixed with copper turnings and concentrated sulphuric acid in a hard glass test tube, and the mixture is heated strongly. Within one minute, dense reddish-brown choking fumes fill the tube, and the reaction liquid turns a magnificent bright blue. **Investigative Question:** What acid radical is confirmed by this test, and why does the solution turn blue? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Chloride radical; solution turns blue due to chlorine gas."
+      },
+      {
+        "key": "B",
+        "text": "Nitrate radical (NO₃⁻); concentrated H₂SO₄ liberates nitric acid from the salt, which oxidises the copper turnings to blue Copper(II) nitrate while being reduced to reddish-brown Nitrogen Dioxide (NO₂) gas: Cu + 4HNO₃ → Cu(NO₃)₂ + 2H₂O + 2NO₂↑."
+      },
+      {
+        "key": "C",
+        "text": "Carbonate radical; solution turns blue due to carbon soot."
+      },
+      {
+        "key": "D",
+        "text": "Sulphate radical; copper melts to form a blue alloy."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The copper foil/turnings test is a classic dry confirmatory test for nitrates. Concentrated H₂SO₄ displaces volatile nitric acid from the nitrate salt: KNO₃ + H₂SO₄ → KHSO₄ + HNO₃. The hot, concentrated HNO₃ vigorously oxidises copper metal to copper(II) nitrate, imparting a bright blue color to the liquid: Cu + 4HNO₃ → Cu(NO₃)₂(blue) + 2H₂O + 2NO₂↑(dense reddish-brown fumes). The dense brown fumes of NO₂ that intensify upon heating confirm the nitrate radical.",
+    "concept_name": "Dense Brown Nitrogen Dioxide Evolution with Conc. $H_2SO_4$",
+    "concept_tag": "analytical chemistry case based dense brown nitrogen dioxide evolution with conc. $h_2so_4$",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "846e1b7cba926b4ff4564a3d5c1827a84d47ace9807de76214e9410935d6347a",
+    "question_skeleton": "case scenario a dry salt is mixed with copper turnings and concentrated sulphuric acid in a hard glass test tube and the mixture is heated strongly within one minute dense reddish brown choking fumes fill the tube and the reaction liquid turns a magnificent bright blue investigative question what acid radical is confirmed by this test and why does the solution turn blue choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_38_870219",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 38: Identification of Acetate ($CH_3COO⁻$) Radical by Esterification",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A solid unknown salt is treated with concentrated sulphuric acid and gently warmed. A sharp smell of vinegar is detected. The student then adds 1 mL of pure ethanol and 1 mL of concentrated sulphuric acid to the salt, warms the tube gently in a water bath, and pours the contents into a beaker of cold water. A pleasant, sweet, fruity apple-like aroma fills the room. **Investigative Question:** What acid radical is confirmed by the formation of this sweet fruity odor, and what chemical compound is formed? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Formate radical; forms formaldehyde gas."
+      },
+      {
+        "key": "B",
+        "text": "Acetate radical (CH₃COO⁻); reacts with ethanol in the presence of concentrated sulphuric acid catalyst to form the sweet-smelling ester Ethyl Acetate: CH₃COOH + C₂H₅OH xrightarrow{H₂SO₄} CH₃COOC₂H₅ (ethyl acetate) + H₂O."
+      },
+      {
+        "key": "C",
+        "text": "Sulphate radical; forms sweet sulphur dioxide."
+      },
+      {
+        "key": "D",
+        "text": "Nitrate radical; forms sweet nitric acid."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The vinegar smell upon adding acid indicates acetic acid: CH₃COONa + H₂SO₄ → NaHSO₄ + CH₃COOH. When heated with absolute ethanol and a few drops of concentrated H₂SO₄ (esterification catalyst and dehydrating agent), acetic acid condenses with ethanol to form an ester: CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ (ethyl acetate) + H₂O. Pouring into cold water removes unreacted ethanol and acid, volatilizing the insoluble ester which produces a delightful, sweet, fruity, apple/pear-like aroma.",
+    "concept_name": "Fruity Smell of Ethyl Acetate Formation",
+    "concept_tag": "analytical chemistry case based fruity smell of ethyl acetate formation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4f5365f2a6f40929ec3ef2ed3fd918a30516dfb256c96ffc76fb1fc9828a4462",
+    "question_skeleton": "case scenario a solid unknown salt is treated with concentrated sulphuric acid and gently warmed a sharp smell of vinegar is detected the student then adds 1 ml of pure ethanol and 1 ml of concentrated sulphuric acid to the salt warms the tube gently in a water bath and pours the contents into a beaker of cold water a pleasant sweet fruity apple like aroma fills the room investigative question what acid radical is confirmed by the formation of this sweet fruity odor and what chemical compound is formed choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_39_25a1f0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 39: Identification of Ammonium Radical: Litmus and Nessler's Confirmation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A white crystalline salt is tested in the analytical laboratory: Step 1: Heated with concentrated NaOH: liberates a colorless gas that turns moist red litmus paper blue and produces dense white fumes with a glass rod dipped in concentrated HCl. Step 2: The gas is bubbled into a test tube containing Nessler's reagent: a chocolate-brown precipitate separates out immediately. **Investigative Question:** Which cation is definitively identified by this sequence of tests? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium cation (Na⁺)"
+      },
+      {
+        "key": "B",
+        "text": "Ammonium cation (NH₄⁺)"
+      },
+      {
+        "key": "C",
+        "text": "Calcium cation (Ca²⁺)"
+      },
+      {
+        "key": "D",
+        "text": "Magnesium cation (Mg²⁺)"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The ammonium cation (NH₄⁺) is uniquely identified by its reaction with alkalis: NH₄⁺ + OH⁻ xrightarrow{Δ} NH₃↑ + H₂O. Ammonia is the only common alkaline gas; it turns moist red litmus blue, produces dense white fumes of NH₄Cl with HCl, and reacts with Nessler's reagent (K₂[HgI₄]) to precipitate brown iodide of Millon's base. These tests definitively confirm the ammonium radical.",
+    "concept_name": "Dual Confirmatory Workflow for $NH_4^+$",
+    "concept_tag": "analytical chemistry case based dual confirmatory workflow for $nh_4^+$",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c82127e1a1695b1dceac4c0176e714ab47d9e0bb987cdab9f2405eb60f464fea",
+    "question_skeleton": "case scenario a white crystalline salt is tested in the analytical laboratory step 1 heated with concentrated naoh liberates a colorless gas that turns moist red litmus paper blue and produces dense white fumes with a glass rod dipped in concentrated hcl step 2 the gas is bubbled into a test tube containing nessler s reagent a chocolate brown precipitate separates out immediately investigative question which cation is definitively identified by this sequence of tests choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_40_1b9663",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 40: Action of Alkalis on Aluminium Salts: Gelatinous Precipitate Formation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** When sodium hydroxide solution is added dropwise to an aqueous solution of Aluminium chloride (AlCl₃), a white gelatinous precipitate forms. When excess sodium hydroxide is added with shaking, the precipitate dissolves completely to yield a clear colorless solution. **Investigative Question:** What are the chemical formulas of the white gelatinous precipitate and the soluble product formed in excess sodium hydroxide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Precipitate: AlCl₃; Soluble: Al(OH)₃"
+      },
+      {
+        "key": "B",
+        "text": "Precipitate: Aluminium Hydroxide, Al(OH)₃; Soluble: Sodium meta-aluminate, NaAlO₂ (or Na[Al(OH)₄])."
+      },
+      {
+        "key": "C",
+        "text": "Precipitate: Aluminium oxide, Al₂O₃; Soluble: Aluminium metal, Al"
+      },
+      {
+        "key": "D",
+        "text": "Precipitate: Sodium chloride; Soluble: Sodium aluminate"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Aluminium chloride reacts with sodium hydroxide dropwise to precipitate insoluble aluminium hydroxide: AlCl₃ + 3NaOH → Al(OH)₃↓(white gelatinous precipitate) + 3NaCl. Because Al(OH)₃ is amphoteric, adding excess strong alkali (NaOH) causes it to react as an acid, forming soluble sodium meta-aluminate: Al(OH)₃ + NaOH → NaAlO₂ (sodium meta-aluminate) + 2H₂O. The gelatinous precipitate dissolves completely.",
+    "concept_name": "Amphoteric Hydroxide Formation and Aluminate Dissolution",
+    "concept_tag": "analytical chemistry case based amphoteric hydroxide formation and aluminate dissolution",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7b3504fbf9a54b0aad3a96b32baa5222fd6e49ea565810ef6ed7af33da790f40",
+    "question_skeleton": "case scenario when sodium hydroxide solution is added dropwise to an aqueous solution of aluminium chloride alcl a white gelatinous precipitate forms when excess sodium hydroxide is added with shaking the precipitate dissolves completely to yield a clear colorless solution investigative question what are the chemical formulas of the white gelatinous precipitate and the soluble product formed in excess sodium hydroxide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_41_2586e6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 41: Why $Al(OH)₃$ Does NOT Dissolve in Excess $NH_4OH$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Continuing from the previous case, a student repeats the experiment using Ammonium Hydroxide (NH₄OH) instead of Sodium Hydroxide. A white gelatinous precipitate of Al(OH)₃ forms. However, when the student adds excess NH₄OH, the precipitate does NOT dissolve, remaining visible as a white jelly. **Investigative Question:** Why does Aluminium hydroxide dissolve in excess $NaOH$ but fail to dissolve in excess $NH_4OH$? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ammonium hydroxide is an acid that neutralizes aluminium."
+      },
+      {
+        "key": "B",
+        "text": "NaOH is a strong base with high [OH⁻] that drives the formation of the aluminate anion (AlO₂⁻); NH₄OH is a weak base with very low [OH⁻] that cannot form aluminate, and Aluminium does not form an ammine coordination complex with ammonia."
+      },
+      {
+        "key": "C",
+        "text": "Aluminium hydroxide decomposes into aluminium gas in ammonium hydroxide."
+      },
+      {
+        "key": "D",
+        "text": "Ammonium hydroxide dissolves only heavy metals like gold."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Dissolving an amphoteric hydroxide like Al(OH)₃ into aluminate (AlO₂⁻ or [Al(OH)₄]⁻) requires a very high concentration of hydroxide ions. NaOH is a strong base that ionises 100%, supplying abundant OH⁻. NH₄OH is a weak base that ionises very slightly (<1%), so [OH⁻] is far too low to convert Al(OH)₃ into aluminate. Furthermore, unlike Zinc (which forms [Zn(NH₃)₄]²⁺) or Copper ([Cu(NH₃)₄]²⁺), Aluminium does not form stable ammine complexes. Therefore, Al(OH)₃ remains insoluble in excess NH₄OH.",
+    "concept_name": "Contrast with Zinc Hydroxide Ammine Formation",
+    "concept_tag": "analytical chemistry case based contrast with zinc hydroxide ammine formation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "272cc7e80365628ae913ab3ff3d5159a8977490e4afc405c32c755d99ecd2455",
+    "question_skeleton": "case scenario continuing from the previous case a student repeats the experiment using ammonium hydroxide nh oh instead of sodium hydroxide a white gelatinous precipitate of al oh forms however when the student adds excess nh oh the precipitate does not dissolve remaining visible as a white jelly investigative question why does aluminium hydroxide dissolve in excess naoh but fail to dissolve in excess nh 4oh choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_42_dea4fb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 42: Color of Transition Metal Salts in Aqueous Solution",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical chemist observes the characteristic colors of various transition metal solutions in volumetric flasks: Copper(II) sulphate: bright sky-blue Iron(II) sulphate: pale light-green Iron(III) chloride: yellow-brown Zinc sulphate: completely clear and colorless **Investigative Question:** Why are Copper(II), Iron(II), and Iron(III) salts colored in aqueous solution, whereas Zinc salts are completely colorless? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zinc salts absorb all visible light and reflect black."
+      },
+      {
+        "key": "B",
+        "text": "Transition metal ions with partially filled d-orbitals (Cu²⁺: 3d⁹, Fe²⁺: 3d⁶, Fe³⁺: 3d⁵) undergo d–d electronic transitions by absorbing specific visible wavelengths; Zinc (Zn²⁺: 3d¹⁰) has completely filled d-orbitals, preventing d–d transitions and leaving the solution colorless."
+      },
+      {
+        "key": "C",
+        "text": "Copper, iron, and zinc solutions contain dissolved food coloring dyes."
+      },
+      {
+        "key": "D",
+        "text": "Color depends on the number of protons in the water molecules."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The color of transition metal ions in aqueous solution arises from d-d electron transitions. In a hydrated complex, the electric field of water ligands splits the five d-orbitals into two energy levels (t₂g and eg). When d-orbitals are partially filled (d¹ to d⁹: Cu²⁺ is 3d⁹, Fe²⁺ is 3d⁶, Fe³⁺ is 3d⁵), an electron can absorb a photon of visible light and transition from a lower d-orbital to a higher d-orbital; the complementary transmitted wavelength gives the solution its characteristic color. Zn²⁺ has a completely filled d-subshell (3d¹⁰); with no empty d-orbital available for excitation, it cannot absorb visible light, rendering Zn²⁺ salts completely colorless.",
+    "concept_name": "Partially Filled d-Orbitals and d-d Transitions",
+    "concept_tag": "analytical chemistry case based partially filled d-orbitals and d-d transitions",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e7f1f01927a77a1f1831219ac34adfb8737c5c35763e23394316387d482c6b22",
+    "question_skeleton": "case scenario an analytical chemist observes the characteristic colors of various transition metal solutions in volumetric flasks copper ii sulphate bright sky blue iron ii sulphate pale light green iron iii chloride yellow brown zinc sulphate completely clear and colorless investigative question why are copper ii iron ii and iron iii salts colored in aqueous solution whereas zinc salts are completely colorless choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_43_f01664",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 43: Action of Alkalis on Lead(II) Salts: Chalky White Precipitate",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A bottle of Lead(II) nitrate solution is treated dropwise with dilute sodium hydroxide. A chalky white precipitate of Lead(II) hydroxide (Pb(OH)₂) forms. When excess NaOH is added, the chalky precipitate dissolves completely. **Investigative Question:** What is the balanced equation for the initial precipitation of Lead(II) hydroxide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pb(NO₃)₂ + 2NaOH → Pb(OH)₂↓(chalky white) + 2NaNO₃"
+      },
+      {
+        "key": "B",
+        "text": "Pb(NO₃)₂ + NaOH → PbOH + NaNO₃"
+      },
+      {
+        "key": "C",
+        "text": "Pb(NO₃)₂ + 4NaOH → Na₄Pb + 2HNO₃"
+      },
+      {
+        "key": "D",
+        "text": "Lead nitrate does not react with sodium hydroxide."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When sodium hydroxide is added dropwise to a solution of lead(II) nitrate, a double displacement reaction precipitates insoluble lead(II) hydroxide: Pb(NO₃)₂(aq) + 2NaOH(aq) → Pb(OH)₂↓(chalky white precipitate) + 2NaNO₃(aq). The precipitate is characterized as 'chalky white' to distinguish its appearance from the 'gelatinous white' precipitates of Zinc and Aluminium hydroxides.",
+    "concept_name": "Insoluble Hydroxide Precipitation and Alkali Dynamics",
+    "concept_tag": "analytical chemistry case based insoluble hydroxide precipitation and alkali dynamics",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "aff6c1d2df6d41fe8b34e69b2dda54546feec8be7bf28cd542e8ae48961eea53",
+    "question_skeleton": "case scenario a bottle of lead ii nitrate solution is treated dropwise with dilute sodium hydroxide a chalky white precipitate of lead ii hydroxide pb oh forms when excess naoh is added the chalky precipitate dissolves completely investigative question what is the balanced equation for the initial precipitation of lead ii hydroxide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_44_14a45c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 44: Complete Separation Scheme for a Mixture of $Fe³⁺$, $Cu²⁺$, and $Zn²⁺$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical chemist is tasked with separating the cations in a solution containing Fe³⁺, Cu²⁺, and Zn²⁺. Step 1: Excess Sodium Hydroxide (NaOH) is added, and the mixture is filtered. Step 2: The filtrate from Step 1 contains a soluble zinc salt, while the filter residue contains a mixture of two precipitates. Step 3: Excess Ammonium Hydroxide (NH₄OH) is added to the residue from Step 1 and filtered. **Investigative Question:** What substance remains as the final insoluble residue in Step 3, and what substance dissolves into the filtrate? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Residue: Copper hydroxide; Filtrate: Iron hydroxide."
+      },
+      {
+        "key": "B",
+        "text": "Residue: Reddish-brown Iron(III) hydroxide, Fe(OH)₃; Filtrate: Deep inky-blue tetraamminecopper(II) solution, [Cu(NH₃)₄]²⁺."
+      },
+      {
+        "key": "C",
+        "text": "Residue: Zinc oxide; Filtrate: Sodium chloride."
+      },
+      {
+        "key": "D",
+        "text": "All three metals dissolve completely in Step 3."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In Step 1: Adding excess NaOH precipitates Fe(OH)₃ (reddish-brown) and Cu(OH)₂ (pale blue), while amphoteric Zn(OH)₂ dissolves completely into the filtrate as soluble sodium zincate (Na₂ZnO₂). In Step 3: When the insoluble residue of Fe(OH)₃ and Cu(OH)₂ is treated with excess NH₄OH, Cu(OH)₂ dissolves into the filtrate as the deep inky-blue complex [Cu(NH₃)₄]²⁺, while purely basic Fe(OH)₃ is completely insoluble in NH₄OH and remains behind on the filter paper as the pure reddish-brown residue.",
+    "concept_name": "Selective Precipitation via $NaOH$ and $NH_4OH$",
+    "concept_tag": "analytical chemistry case based selective precipitation via $naoh$ and $nh_4oh$",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d433d3d735ba5b3744af1a8637b192357df9141f15d4ac8557bf940b134608ed",
+    "question_skeleton": "case scenario an analytical chemist is tasked with separating the cations in a solution containing fe cu and zn step 1 excess sodium hydroxide naoh is added and the mixture is filtered step 2 the filtrate from step 1 contains a soluble zinc salt while the filter residue contains a mixture of two precipitates step 3 excess ammonium hydroxide nh oh is added to the residue from step 1 and filtered investigative question what substance remains as the final insoluble residue in step 3 and what substance dissolves into the filtrate choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_45_20eb28",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 45: Identification of Oxygen ($O₂$) vs Hydrogen ($H₂$) Gas",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** During the thermal decomposition of salts, two colorless, odorless gases (Gas X and Gas Y) are evolved in separate experiments. A student tests both gases with a wooden splinter: When a glowing wooden splinter is introduced into Gas X, the splinter immediately bursts into bright, vigorous flame. When a burning wooden splinter is brought to the mouth of the tube containing Gas Y, the gas ignites with a sharp, squeaky 'pop' sound and burns with a pale blue flame, extinguishing the splinter. **Investigative Question:** What is the identity of Gas X and Gas Y? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gas X = Hydrogen (H₂); Gas Y = Oxygen (O₂)"
+      },
+      {
+        "key": "B",
+        "text": "Gas X = Oxygen (O₂); Gas Y = Hydrogen (H₂)"
+      },
+      {
+        "key": "C",
+        "text": "Gas X = Carbon dioxide (CO₂); Gas Y = Nitrogen (N₂)"
+      },
+      {
+        "key": "D",
+        "text": "Gas X = Chlorine (Cl₂); Gas Y = Ammonia (NH₃)"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The two classic combustible/combustion-supporting gas tests:\n1. Oxygen (O₂): Non-combustible, but a powerful supporter of combustion. Introducing a glowing wooden ember/splinter causes it to rekindle and burst into active flame: C + O₂ → CO₂ + heat.\n2. Hydrogen (H₂): Combustible, but a non-supporter of combustion. It burns with a pale blue flame, and when mixed with air, rapid ignition produces a characteristic miniature acoustic shockwave known as the 'pop' sound: 2H₂ + O₂ → 2H₂O.",
+    "concept_name": "Glowing Splinter Relighting vs Pop Sound Combustion",
+    "concept_tag": "analytical chemistry case based glowing splinter relighting vs pop sound combustion",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "08d437e62373781551d1320c6fe1fbf7ce46004938215a01811413c42d56d8c2",
+    "question_skeleton": "case scenario during the thermal decomposition of salts two colorless odorless gases gas x and gas y are evolved in separate experiments a student tests both gases with a wooden splinter when a glowing wooden splinter is introduced into gas x the splinter immediately bursts into bright vigorous flame when a burning wooden splinter is brought to the mouth of the tube containing gas y the gas ignites with a sharp squeaky pop sound and burns with a pale blue flame extinguishing the splinter investigative question what is the identity of gas x and gas y choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_46_8cb379",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 46: Thermal Decomposition of Lead Nitrate: Diagnostic Observations",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student heats dry crystalline Lead(II) nitrate (Pb(NO₃)₂) in a hard glass test tube over a Bunsen flame. Three distinct diagnostic observations occur: Observation 1: A sharp cracking/snapping sound (decrepitation) is heard. Observation 2: Pungent reddish-brown fumes of a gas evolve that turn moist starch-iodide paper blue, accompanied by a gas that relights a glowing splinter. Observation 3: A solid residue remains in the tube that is reddish-brown when hot, canary yellow when cold, and fuses into the glass. **Investigative Question:** What is the balanced equation for the thermal decomposition of Lead(II) nitrate? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pb(NO₃)₂ → Pb + 2NO₂ + O₂"
+      },
+      {
+        "key": "B",
+        "text": "2Pb(NO₃)₂(s) xrightarrow{Δ} 2PbO(s) + 4NO₂(g)↑ + O₂(g)↑"
+      },
+      {
+        "key": "C",
+        "text": "Pb(NO₃)₂ → PbO + N₂O + O₂"
+      },
+      {
+        "key": "D",
+        "text": "Lead nitrate sublimes without chemical decomposition."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The thermal decomposition of Lead(II) nitrate is a comprehensive ICSE analytical reaction: 2Pb(NO₃)₂(s) xrightarrow{Δ} 2PbO(s) + 4NO₂(g)↑ + O₂(g)↑.\n1. Decrepitation: Rapid vaporization of microscopic trapped water pockets inside the crystals causes the crystals to crackle loudly.\n2. Gases evolved: Reddish-brown Nitrogen dioxide (NO₂) and colorless Oxygen (O₂), which relights a glowing splinter.\n3. Residue: Lead(II) oxide (PbO, litharge), which is reddish-brown when hot, yellow when cold, and melts to fuse into the silica glass.",
+    "concept_name": "Decrepitation, Reddish-Brown Fumes, and Fused Yellow Residue",
+    "concept_tag": "analytical chemistry case based decrepitation, reddish-brown fumes, and fused yellow residue",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8992776ed8a048f09b6bc22e4334194ba01a78d0705161b88fe2a48f7bc56feb",
+    "question_skeleton": "case scenario a student heats dry crystalline lead ii nitrate pb no in a hard glass test tube over a bunsen flame three distinct diagnostic observations occur observation 1 a sharp cracking snapping sound decrepitation is heard observation 2 pungent reddish brown fumes of a gas evolve that turn moist starch iodide paper blue accompanied by a gas that relights a glowing splinter observation 3 a solid residue remains in the tube that is reddish brown when hot canary yellow when cold and fuses into the glass investigative question what is the balanced equation for the thermal decomposition of lead ii nitrate choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_47_72165e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 47: Action of Dilute Acids on Carbonates vs Bicarbonates vs Sulphites",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical technician creates a rapid reference card for testing unknown solid sodium salts with dilute hydrochloric acid: Salt 1: Brisk effervescence, colorless odorless gas, turns lime water milky, no effect on acidified dichromate. Salt 2: Colorless gas with suffocating odor of burning sulphur, turns lime water milky, turns acidified potassium dichromate from orange to green. Salt 3: Colorless gas with rotten-egg odor, turns moist lead acetate paper silvery black. **Investigative Question:** What anions are present in Salt 1, Salt 2, and Salt 3? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Salt 1 = Chloride; Salt 2 = Nitrate; Salt 3 = Sulphate"
+      },
+      {
+        "key": "B",
+        "text": "Salt 1 = Carbonate / Bicarbonate (CO₃²⁻ / HCO₃⁻); Salt 2 = Sulphite / Bisulphite (SO₃²⁻ / HSO₃⁻); Salt 3 = Sulphide (S²⁻)"
+      },
+      {
+        "key": "C",
+        "text": "Salt 1 = Acetate; Salt 2 = Oxalate; Salt 3 = Cyanide"
+      },
+      {
+        "key": "D",
+        "text": "Salt 1 = Lead; Salt 2 = Zinc; Salt 3 = Copper"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Summary of volatile acid gas liberation:\n- Carbonate (CO₃²⁻) or Bicarbonate (HCO₃⁻) + acid → CO₂↑ (colorless, odorless, turns lime water milky, negative dichromate test).\n- Sulphite (SO₃²⁻) or Bisulphite (HSO₃⁻) + acid → SO₂↑ (choking burning-sulphur smell, turns lime water milky, reduces orange K₂Cr₂O₇ to green Cr³⁺).\n- Sulphide (S²⁻) + acid → H₂S↑ (foul rotten-egg odor, blackens lead acetate paper to form PbS).",
+    "concept_name": "Gas Odor and Decolorization Summary Matrix",
+    "concept_tag": "analytical chemistry case based gas odor and decolorization summary matrix",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "bbdf5bc93caab81feb58378c85cc594841d9b3812dc61fefa81e340905210d46",
+    "question_skeleton": "case scenario an analytical technician creates a rapid reference card for testing unknown solid sodium salts with dilute hydrochloric acid salt 1 brisk effervescence colorless odorless gas turns lime water milky no effect on acidified dichromate salt 2 colorless gas with suffocating odor of burning sulphur turns lime water milky turns acidified potassium dichromate from orange to green salt 3 colorless gas with rotten egg odor turns moist lead acetate paper silvery black investigative question what anions are present in salt 1 salt 2 and salt 3 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_48_6d27bb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 48: Why Barium Chloride Does Not Precipitate Lead Salts",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student attempts to test a solution of Lead Nitrate for sulphate ions by adding Barium chloride solution. Surprisingly, a white precipitate forms immediately, even though NO sulphate is present in the beaker. **Investigative Question:** Why did adding Barium chloride to Lead Nitrate produce a white precipitate in the absence of sulphate? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Barium chloride decomposed into barium metal."
+      },
+      {
+        "key": "B",
+        "text": "Chloride ions (Cl⁻) from the barium chloride reagent reacted with Lead ions (Pb²⁺) to precipitate insoluble Lead(II) chloride: Pb²⁺ + 2Cl⁻ → PbCl₂↓(white); Barium nitrate should have been used instead."
+      },
+      {
+        "key": "C",
+        "text": "Lead nitrate is an insoluble salt that does not dissolve in water."
+      },
+      {
+        "key": "D",
+        "text": "Barium chloride precipitates all metal nitrates as white crystals."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Reagent cross-reactivity is a critical consideration in qualitative analysis. To test for sulphate using Ba²⁺ ions, one must choose a barium salt whose anion does not precipitate the test cation. Because Lead(II) chloride (PbCl₂) is an insoluble salt, adding BaCl₂ introduces Cl⁻ ions that immediately precipitate Pb²⁺ as PbCl₂↓. To avoid this interference when testing lead solutions, Barium Nitrate, Ba(NO₃)₂, must be used as the barium source because all nitrates are soluble.",
+    "concept_name": "Precipitation of Barium Sulphate vs Insoluble Lead Chloride",
+    "concept_tag": "analytical chemistry case based precipitation of barium sulphate vs insoluble lead chloride",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b9b54494a66ee915f99cb24acec850dbbf019e8c2e3b4b040d89d6ad3633bb7a",
+    "question_skeleton": "case scenario a student attempts to test a solution of lead nitrate for sulphate ions by adding barium chloride solution surprisingly a white precipitate forms immediately even though no sulphate is present in the beaker investigative question why did adding barium chloride to lead nitrate produce a white precipitate in the absence of sulphate choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_49_c287a5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 49: Action of Alkalis on Insoluble Basic Oxides vs Amphoteric Oxides",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student tests four solid oxides with concentrated Sodium Hydroxide solution: Oxide 1: Copper(II) oxide (CuO, black) Oxide 2: Iron(III) oxide (Fe₂O₃, reddish-brown) Oxide 3: Zinc oxide (ZnO, white) Oxide 4: Lead(II) oxide (PbO, yellow) Each oxide is heated with concentrated NaOH. **Investigative Question:** Which oxides dissolve in concentrated sodium hydroxide, and which remain completely insoluble? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "All four oxides dissolve completely because all are metal oxides."
+      },
+      {
+        "key": "B",
+        "text": "Oxides 1 (CuO) and 2 (Fe₂O₃) are purely basic oxides and remain completely INSOLUBLE; Oxides 3 (ZnO) and 4 (PbO) are amphoteric oxides and DISSOLVE to form soluble zincate and plumbite."
+      },
+      {
+        "key": "C",
+        "text": "Oxides 1 and 2 dissolve, while Oxides 3 and 4 remain insoluble."
+      },
+      {
+        "key": "D",
+        "text": "None of the oxides dissolve in sodium hydroxide."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Metallic oxides are classified by their acid-base behavior: (1) Basic oxides (e.g., CuO, Fe₂O₃, MgO) react only with acids; they have zero reactivity with bases and are completely insoluble in boiling sodium hydroxide solution. (2) Amphoteric oxides (e.g., ZnO, PbO, Al₂O₃) react with both acids and strong bases; they dissolve readily in hot concentrated NaOH to form soluble oxy-anion salts: ZnO + 2NaOH → Na₂ZnO₂ + H₂O; PbO + 2NaOH → Na₂PbO₂ + H₂O.",
+    "concept_name": "Solubility Comparison Matrix",
+    "concept_tag": "analytical chemistry case based solubility comparison matrix",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "66e37c1746eb04fc7156ea8d05fbe04eb12821f01d8f38016dd25a5fe724895c",
+    "question_skeleton": "case scenario a student tests four solid oxides with concentrated sodium hydroxide solution oxide 1 copper ii oxide cuo black oxide 2 iron iii oxide fe o reddish brown oxide 3 zinc oxide zno white oxide 4 lead ii oxide pbo yellow each oxide is heated with concentrated naoh investigative question which oxides dissolve in concentrated sodium hydroxide and which remain completely insoluble choose the correct option"
+  },
+  {
+    "globalId": "qb_case_analytical_chemistry_50_910776",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Analytical Chemistry",
+    "title": "Case Study 50: Why $NH_4OH$ is Preferred Over $NaOH$ for Certain Qualitative Separations",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In analytical chemistry schemes, Ammonium Hydroxide (NH₄OH) is often preferred over Sodium Hydroxide (NaOH) for group precipitation of metal cations (such as separating Fe³⁺ and Al³⁺ from Ca²⁺ and Mg²⁺). **Investigative Question:** What chemical advantage does Ammonium Hydroxide have over Sodium Hydroxide in qualitative cation group separation? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ammonium hydroxide is an acid that destroys transition metals."
+      },
+      {
+        "key": "B",
+        "text": "NH₄OH is a weak, partially ionised base whose hydroxide ion concentration [OH⁻] can be buffered and controlled (using NH₄Cl via the common ion effect) to selectively exceed the K_sp of less soluble hydroxides (Fe³⁺, Al³⁺) without precipitating more soluble hydroxides (Mg²⁺, Ca²⁺)."
+      },
+      {
+        "key": "C",
+        "text": "Ammonium hydroxide contains no water molecules."
+      },
+      {
+        "key": "D",
+        "text": "Sodium hydroxide cannot be purchased in pure liquid form."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In qualitative analysis, selective precipitation requires precise control over the reagent ion concentration. NaOH is a strong base that ionises 100%, producing an overwhelming concentration of OH⁻ that indiscriminately precipitates almost all metallic cations (Fe²⁺, Fe³⁺, Cu²⁺, Zn²⁺, Al³⁺, Pb²⁺, Mg²⁺, Ca²⁺). Ammonium hydroxide is a weak base (NH₄OH ⇌ NH₄⁺ + OH⁻). By adding Ammonium Chloride (NH₄Cl), the common ion effect suppresses the dissociation of NH₄OH, fine-tuning [OH⁻] to a level that precipitates only cations with extremely low solubility products (like Fe(OH)₃, K_sp ≈ 10⁻³⁸ and Al(OH)₃, K_sp ≈ 10⁻³²) while keeping Mg²⁺ (K_sp ≈ 10⁻¹¹) in solution.",
+    "concept_name": "Controllable pH and Weak Base Selectivity",
+    "concept_tag": "analytical chemistry case based controllable ph and weak base selectivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1003bae9cf7cc88b3f8b2be4bbb07cc1ea98ce24b21b823045ba3c30b7f1aae1",
+    "question_skeleton": "case scenario in analytical chemistry schemes ammonium hydroxide nh oh is often preferred over sodium hydroxide naoh for group precipitation of metal cations such as separating fe and al from ca and mg investigative question what chemical advantage does ammonium hydroxide have over sodium hydroxide in qualitative cation group separation choose the correct option"
+  }
+]

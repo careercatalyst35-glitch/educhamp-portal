@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_hydrogen_chloride_1_c80d17",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Lab prep temperature limit below 200°C",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** In the laboratory preparation of hydrogen chloride gas from sodium chloride and sulphuric acid, the temperature is strictly maintained below 200°C. **Reason (R):** Above 200°C, a hard crust of sodium sulphate (Na₂SO₄) is formed that adheres strongly to the glass vessel and is very difficult to remove. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason is the correct explanation. Below 200°C, NaHSO₄ is formed which is soft and easily washed out.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b5acf87b67ee9e8b162112e84d699dd455538406f13348789a1aa3d32e437479",
+    "question_skeleton": "assertion a in the laboratory preparation of hydrogen chloride gas from sodium chloride and sulphuric acid the temperature is strictly maintained below # c reason r above # c a hard crust of sodium sulphate na so is formed that adheres strongly to the glass vessel and is very difficult to remove choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_2_ca5a0a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Apparatus safety below 200°C",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Maintaining the reaction temperature below 200°C prevents cracking of the glass reaction flask. **Reason (R):** Sodium bisulphate (NaHSO₄) formed below 200°C dissolves readily in water and can be rinsed out without scraping. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both Assertion and Reason are true, but Reason describes the solubility of NaHSO₄ rather than explaining why the glass flask cracks at higher temperatures (thermal shock/uneven heating).",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1ac74969e7b5fa484a0f0e017783e87ec861fa3b6ac70a07ea13436083efb596",
+    "question_skeleton": "assertion a maintaining the reaction temperature below # c prevents cracking of the glass reaction flask reason r sodium bisulphate nahso formed below # c dissolves readily in water and can be rinsed out without scraping choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_3_531302",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Choice of concentrated sulphuric acid",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Concentrated sulphuric acid is used as the acid in the laboratory preparation of hydrogen chloride gas. **Reason (R):** Concentrated sulphuric acid is a non-volatile acid with a high boiling point that readily displaces volatile HCl from sodium chloride. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. NaCl + H₂SO₄ → NaHSO₄ + HCl↑. Non-volatile H₂SO₄ displaces the more volatile HCl gas.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e266854a8a35dc3396379d2277945a9bb92a8bf6673c0f70a69cc461a02d5ab0",
+    "question_skeleton": "assertion a concentrated sulphuric acid is used as the acid in the laboratory preparation of hydrogen chloride gas reason r concentrated sulphuric acid is a non volatile acid with a high boiling point that readily displaces volatile hcl from sodium chloride choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_4_243ce7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Why conc. nitric acid cannot be used",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Concentrated nitric acid cannot be used in place of concentrated sulphuric acid to prepare hydrogen chloride gas. **Reason (R):** Concentrated nitric acid is volatile and its vapors contaminate the HCl gas, and it also oxidises HCl to chlorine gas. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. HNO₃ is volatile and a powerful oxidizer: 2HNO₃ + 6HCl → 2NO + 4H₂O + 3Cl₂. Hence, it cannot replace H₂SO₄.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "245b18d30dcdc77c9a608c1c09b2da6a2555b99f8905e3f0b9e8ad300667d00d",
+    "question_skeleton": "assertion a concentrated nitric acid cannot be used in place of concentrated sulphuric acid to prepare hydrogen chloride gas reason r concentrated nitric acid is volatile and its vapors contaminate the hcl gas and it also oxidises hcl to chlorine gas choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_5_2ec608",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Drying agent for HCl gas",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Concentrated sulphuric acid is used as the drying agent for moist hydrogen chloride gas. **Reason (R):** Concentrated sulphuric acid is a hygroscopic dehydrating agent that does not react chemically with hydrogen chloride gas. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Moist HCl is bubbled through conc. H₂SO₄, which absorbs moisture without reacting with HCl.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a3a84fc6fa844eb5d817d46efff92364a2417b3faa56085d03f17bbea79b3ae3",
+    "question_skeleton": "assertion a concentrated sulphuric acid is used as the drying agent for moist hydrogen chloride gas reason r concentrated sulphuric acid is a hygroscopic dehydrating agent that does not react chemically with hydrogen chloride gas choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_6_81ef51",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Quicklime cannot dry HCl gas",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Quicklime (CaO) cannot be used to dry moist hydrogen chloride gas. **Reason (R):** Quicklime is a basic oxide that chemically reacts with acidic hydrogen chloride gas to form calcium chloride and water. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. CaO + 2HCl → CaCl₂ + H₂O. Basic drying agents react with acidic gases.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "947170a4d2f0daab336859c4f86f2366720ca5847e0aa8518f8361f849fb1834",
+    "question_skeleton": "assertion a quicklime cao cannot be used to dry moist hydrogen chloride gas reason r quicklime is a basic oxide that chemically reacts with acidic hydrogen chloride gas to form calcium chloride and water choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_7_dad862",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Phosphorus pentoxide cannot dry HCl gas",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Phosphorus pentoxide (P₂O₅) cannot be used to dry moist hydrogen chloride gas. **Reason (R):** Phosphorus pentoxide reacts chemically with hydrogen chloride gas to form phosphoryl chloride (POCl₃). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. P₂O₅ + 6HCl → 2POCl₃ + 3H₂O (or forms chlorophosphoric compounds). Hence, P₂O₅ cannot be used.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "25ef2a46f7de2c88a845b08ac8875457c671bdc9a8ce59b29135f6c658956161",
+    "question_skeleton": "assertion a phosphorus pentoxide p o cannot be used to dry moist hydrogen chloride gas reason r phosphorus pentoxide reacts chemically with hydrogen chloride gas to form phosphoryl chloride pocl choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_8_73ec86",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Collection of HCl gas by upward displacement of air",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Hydrogen chloride gas is collected by the upward displacement of air (downward delivery). **Reason (R):** Hydrogen chloride gas is about 1.28 times denser than air and is extremely soluble in water, ruling out collection over water. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Its higher density (vapor density = 18.25 vs air = 14.4) allows downward delivery, and high solubility prevents pneumatic trough collection.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "eabd75ac4570df5d56ec51b7df036792873f9b5ff23c712647d0e90d4b083b07",
+    "question_skeleton": "assertion a hydrogen chloride gas is collected by the upward displacement of air downward delivery reason r hydrogen chloride gas is about # times denser than air and is extremely soluble in water ruling out collection over water choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_9_fa22cf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Collection over water impossibility",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Hydrogen chloride gas can be conveniently collected over water in a pneumatic trough. **Reason (R):** Hydrogen chloride gas is extremely soluble in water, dissolving at a ratio of about 450 volumes of gas per 1 volume of water at room temperature. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false, but Reason is true. HCl dissolves violently and completely in water, so attempting collection over water causes instant dissolution and water suck-back.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2635352b8088bf6bba3b21217e47c87f7c84ff7f1fc8fe86fc57e70b0584891e",
+    "question_skeleton": "assertion a hydrogen chloride gas can be conveniently collected over water in a pneumatic trough reason r hydrogen chloride gas is extremely soluble in water dissolving at a ratio of about # volumes of gas per # volume of water at room temperature choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_10_b81cb6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Fountain experiment demonstration",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The fountain experiment demonstrates both the extraordinary solubility of HCl gas in water and the acidic nature of the resulting solution. **Reason (R):** Rapid dissolution of HCl gas in the few drops of water creates a partial vacuum inside the flask, driving blue litmus solution upward as a red fountain. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The vacuum pulls the blue litmus solution vigorously inside, which turns red due to the acidic nature of hydrochloric acid.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8c4a52945080269ee1329399864706fb848228afcee3631796d06f114f40a53a",
+    "question_skeleton": "assertion a the fountain experiment demonstrates both the extraordinary solubility of hcl gas in water and the acidic nature of the resulting solution reason r rapid dissolution of hcl gas in the few drops of water creates a partial vacuum inside the flask driving blue litmus solution upward as a red fountain choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_11_0bc24b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Ammonia test for HCl gas",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A glass rod dipped in ammonium hydroxide solution produces dense white fumes when brought near the mouth of a jar containing HCl gas. **Reason (R):** Gaseous HCl reacts with ammonia vapor evolved from ammonium hydroxide to form fine suspended particles of solid ammonium chloride. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. NH₃(g) + HCl(g) → NH₄Cl(s). This is a classic test where two gases combine to form a solid.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fcb14893ea4e19d5bec625a94bb4c963ce31894f55f275ba1a007c479ec3e15d",
+    "question_skeleton": "assertion a a glass rod dipped in ammonium hydroxide solution produces dense white fumes when brought near the mouth of a jar containing hcl gas reason r gaseous hcl reacts with ammonia vapor evolved from ammonium hydroxide to form fine suspended particles of solid ammonium chloride choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_12_98ef80",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Action of dry HCl gas on dry litmus",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Dry hydrogen chloride gas turns dry blue litmus paper red immediately. **Reason (R):** Dry hydrogen chloride molecules are purely covalent and do not dissociate into hydrogen (H⁺) ions in the absence of moisture. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false, but Reason is true. Dry HCl gas has no effect on dry blue litmus paper because acidic behavior requires hydrated protons (H₃O⁺).",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4f5bd7995eddcc23006d8c04b04c78b9b31dabccb6d88813169fa5a0d5b5d2c5",
+    "question_skeleton": "assertion a dry hydrogen chloride gas turns dry blue litmus paper red immediately reason r dry hydrogen chloride molecules are purely covalent and do not dissociate into hydrogen h ions in the absence of moisture choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_13_2abdcd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: HCl in non-polar toluene solvent",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A solution of hydrogen chloride gas in toluene does not conduct electricity and does not turn blue litmus paper red. **Reason (R):** Toluene is a non-polar solvent that does not ionise covalent HCl molecules into hydronium (H₃O⁺) and chloride ions. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Ionisation requires a polar solvent with a high dielectric constant like water. In toluene, HCl remains un-ionised.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a4c1e314a1e42fe7cfa048748b8f3231f76c5356e72c836103d2191c89c786e8",
+    "question_skeleton": "assertion a a solution of hydrogen chloride gas in toluene does not conduct electricity and does not turn blue litmus paper red reason r toluene is a non polar solvent that does not ionise covalent hcl molecules into hydronium h o and chloride ions choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_14_6005d1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Ionisation of HCl in water",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An aqueous solution of hydrogen chloride conducts electricity and acts as a strong monobasic acid. **Reason (R):** Water molecules have a high dipole moment that pulls apart the polar covalent H–Cl bond, forming hydronium ions (H₃O⁺) and chloride ions (Cl⁻). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. HCl + H₂O → H₃O⁺ + Cl⁻. Complete ionisation produces free mobile ions that conduct electric current.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c287b648c687e0657edd6c7f677516fb02e9b50c5a15a9b26d9dbd24540c673a",
+    "question_skeleton": "assertion a an aqueous solution of hydrogen chloride conducts electricity and acts as a strong monobasic acid reason r water molecules have a high dipole moment that pulls apart the polar covalent h cl bond forming hydronium ions h o and chloride ions cl choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_15_863bbd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Inverted funnel arrangement purpose",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An inverted funnel arrangement is used to dissolve hydrogen chloride gas in water to prepare hydrochloric acid. **Reason (R):** The inverted funnel arrangement prevents back-suction of water into the generating flask and provides a large surface area for rapid absorption. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Direct immersion of a narrow tube causes water to suck back into hot conc. H₂SO₄, causing glass breakage and explosions.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2285555789b373d39a5eb1159dc5ec5de1d59bb62c7f3cb3fd6e5c8d380acf4b",
+    "question_skeleton": "assertion a an inverted funnel arrangement is used to dissolve hydrogen chloride gas in water to prepare hydrochloric acid reason r the inverted funnel arrangement prevents back suction of water into the generating flask and provides a large surface area for rapid absorption choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_16_69368b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Cause of back-suction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Dissolving HCl gas directly through a narrow delivery tube into water causes water to suck back violently into the reaction flask. **Reason (R):** The rate of absorption of highly soluble HCl gas in water is much higher than the rate of generation of the gas, creating a sudden vacuum inside the tube. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The instantaneous dissolution creates a pressure drop, allowing atmospheric pressure to push water into the hot generator.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bc5dd6c71e02d55aed4c358efe82a621d8ece534966943424396ad43621aca3d",
+    "question_skeleton": "assertion a dissolving hcl gas directly through a narrow delivery tube into water causes water to suck back violently into the reaction flask reason r the rate of absorption of highly soluble hcl gas in water is much higher than the rate of generation of the gas creating a sudden vacuum inside the tube choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_17_a05009",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Mechanism of inverted funnel",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** During absorption through an inverted funnel, the water level inside the funnel rises and falls rhythmically. **Reason (R):** When water rises into the wide rim of the funnel, an air gap is created with the water surface, causing the water column to drop down by gravity. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The wide rim allows the water level to rise slightly, breaking contact with the trough and equalizing pressure.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "73b8de45661cdb324f2e7d6c010a2f3b6a6da87acca9d49b8291f1254cc22682",
+    "question_skeleton": "assertion a during absorption through an inverted funnel the water level inside the funnel rises and falls rhythmically reason r when water rises into the wide rim of the funnel an air gap is created with the water surface causing the water column to drop down by gravity choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_18_2e30e0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Reaction of HCl with iron metal",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When iron metal reacts with dilute hydrochloric acid, iron(II) chloride (FeCl₂) is formed rather than iron(III) chloride (FeCl₃). **Reason (R):** Hydrogen gas liberated during the displacement reaction acts as a reducing agent and prevents the oxidation of iron(II) to iron(III). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Fe + 2HCl → FeCl₂ + H₂↑. Nascent/molecular hydrogen maintains the iron in the +2 ferrous oxidation state.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "38ef0cb7578a739ee84fed40a98e0d1eab2a0a650a1b89796d80d300395112c4",
+    "question_skeleton": "assertion a when iron metal reacts with dilute hydrochloric acid iron ii chloride fecl is formed rather than iron iii chloride fecl reason r hydrogen gas liberated during the displacement reaction acts as a reducing agent and prevents the oxidation of iron ii to iron iii choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_19_2e62a8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Preparation of iron(III) chloride",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Anhydrous iron(III) chloride is prepared by passing dry chlorine gas over heated iron wire, not by reacting iron with hydrochloric acid. **Reason (R):** Chlorine is a strong oxidizing agent that oxidises iron directly to the iron(III) state, whereas HCl yields only iron(II). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 2Fe + 3Cl₂ → 2FeCl₃. Dry chlorine oxidises iron fully to FeCl₃, whereas HCl displacement stops at FeCl₂.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b311ef35fcb41db25c61eaa419fa7a0a9d9d58caaffaee45012810d106a73560",
+    "question_skeleton": "assertion a anhydrous iron iii chloride is prepared by passing dry chlorine gas over heated iron wire not by reacting iron with hydrochloric acid reason r chlorine is a strong oxidizing agent that oxidises iron directly to the iron iii state whereas hcl yields only iron ii choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_20_cdd982",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Deliquescence of iron(III) chloride",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Anhydrous iron(III) chloride crystals must be stored in tightly sealed bottles. **Reason (R):** Anhydrous iron(III) chloride is highly deliquescent and absorbs atmospheric moisture to turn into a concentrated brown liquid. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. FeCl₃ readily absorbs moisture from air and dissolves in its own water of absorption.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dd9b64aae6a31c2cfb1e2f886e9018bac6c0111481906ef5003ead63a8b3fae6",
+    "question_skeleton": "assertion a anhydrous iron iii chloride crystals must be stored in tightly sealed bottles reason r anhydrous iron iii chloride is highly deliquescent and absorbs atmospheric moisture to turn into a concentrated brown liquid choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_21_948919",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Action of dilute HCl on carbonates",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Addition of dilute hydrochloric acid to sodium carbonate produces brisk effervescence of a colorless, odorless gas. **Reason (R):** Dilute hydrochloric acid decomposes carbonates into soluble metal chloride, water, and carbon dioxide gas, which turns lime water milky. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂↑. The brisk effervescence is due to rapid liberation of CO₂.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6a4ee7838f0953d305e177a40a04230587442bc7e2cca912da2731ac064153a3",
+    "question_skeleton": "assertion a addition of dilute hydrochloric acid to sodium carbonate produces brisk effervescence of a colorless odorless gas reason r dilute hydrochloric acid decomposes carbonates into soluble metal chloride water and carbon dioxide gas which turns lime water milky choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_22_2866a7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Action of dilute HCl on sulphites",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When dilute hydrochloric acid is added to sodium sulphite, a gas with the pungent, choking smell of burning sulphur is evolved. **Reason (R):** Dilute HCl decomposes sulphites to liberate sulphur dioxide (SO₂) gas, which turns acidified potassium dichromate paper from orange to green. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Na₂SO₃ + 2HCl → 2NaCl + H₂O + SO₂↑. SO₂ gas reduces dichromate ions (Cr⁶⁺) to green chromium ions (Cr³⁺).",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "659d57249f73c5400ed86ae697b8d58e51288f39b74662389addfd64bfde6cc1",
+    "question_skeleton": "assertion a when dilute hydrochloric acid is added to sodium sulphite a gas with the pungent choking smell of burning sulphur is evolved reason r dilute hcl decomposes sulphites to liberate sulphur dioxide so gas which turns acidified potassium dichromate paper from orange to green choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_23_346879",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Action of dilute HCl on sulphides",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Treating iron(II) sulphide with dilute hydrochloric acid produces a gas with a foul, rotten egg smell. **Reason (R):** Dilute HCl reacts with metal sulphides to liberate hydrogen sulphide (H₂S) gas, which turns moist lead acetate paper silvery black. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. FeS + 2HCl → FeCl₂ + H₂S↑. H₂S reacts with lead acetate to form insoluble black lead sulphide (PbS).",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a6640c2b6c67bc3ca487202f3f2ae543831f74ae0a6660305114f8ea3ca6ffef",
+    "question_skeleton": "assertion a treating iron ii sulphide with dilute hydrochloric acid produces a gas with a foul rotten egg smell reason r dilute hcl reacts with metal sulphides to liberate hydrogen sulphide h s gas which turns moist lead acetate paper silvery black choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_24_5bfd0e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Reaction of dilute HCl with copper metal",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Copper metal dissolves readily in dilute hydrochloric acid with the vigorous evolution of hydrogen gas. **Reason (R):** Copper lies below hydrogen in the electrochemical series and cannot displace hydrogen ions from dilute non-oxidising acids. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false, but Reason is true. Copper has a positive reduction potential (+0.34 V) and cannot reduce H⁺ to H₂ gas; dilute HCl does not attack copper.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "424bfe4b2e8fe08b82b6b2bd6017178d57e8724512f5fe13e1e9f9c40c727edf",
+    "question_skeleton": "assertion a copper metal dissolves readily in dilute hydrochloric acid with the vigorous evolution of hydrogen gas reason r copper lies below hydrogen in the electrochemical series and cannot displace hydrogen ions from dilute non oxidising acids choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_25_54072a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Action of dilute HCl on silver nitrate",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Addition of dilute hydrochloric acid to silver nitrate solution produces a curdy white precipitate. **Reason (R):** Chloride ions react with silver ions to form insoluble silver chloride (AgCl), which is insoluble in dilute nitric acid. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. AgNO₃ + HCl → AgCl↓ + HNO₃. AgCl precipitate is insoluble in mineral acids like HNO₃.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fcdc0679e2b7084d7b3cc14dc3d99d40c3078b8b942cffb68c14b42fb11ec844",
+    "question_skeleton": "assertion a addition of dilute hydrochloric acid to silver nitrate solution produces a curdy white precipitate reason r chloride ions react with silver ions to form insoluble silver chloride agcl which is insoluble in dilute nitric acid choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_26_2a8eca",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Solubility of AgCl in ammonium hydroxide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A white precipitate of silver chloride dissolves completely upon adding excess ammonium hydroxide solution. **Reason (R):** Silver chloride reacts with ammonium hydroxide to form a soluble coordination compound, diamminesilver(I) chloride, [Ag(NH₃)₂]Cl. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. AgCl + 2NH₄OH → [Ag(NH₃)₂]Cl + 2H₂O. The formation of the diamminesilver complex cation dissolves the precipitate.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "23b31c49bade4a7420ab466a8d202cbdbf22fbc91ae6c4e6c634ebc6a589a7b8",
+    "question_skeleton": "assertion a a white precipitate of silver chloride dissolves completely upon adding excess ammonium hydroxide solution reason r silver chloride reacts with ammonium hydroxide to form a soluble coordination compound diamminesilver i chloride ag nh cl choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_27_b1e1d9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Photochemical decomposition of silver chloride",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A white precipitate of silver chloride turns violet and eventually black when left exposed to sunlight. **Reason (R):** Silver chloride undergoes photochemical decomposition in sunlight, liberating chlorine gas and leaving finely divided metallic silver. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 2AgCl xrightarrow{hν} 2Ag + Cl₂. Finely divided metallic silver appears dark grey/black.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "139ea617091012d559a2010af1f63d291c588069e94059120f2c542ea20a3d69",
+    "question_skeleton": "assertion a a white precipitate of silver chloride turns violet and eventually black when left exposed to sunlight reason r silver chloride undergoes photochemical decomposition in sunlight liberating chlorine gas and leaving finely divided metallic silver choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_28_8340f6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Action of dilute HCl on lead nitrate",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Addition of dilute hydrochloric acid to lead nitrate solution produces a white precipitate that dissolves upon heating and recrystallizes on cooling. **Reason (R):** Lead(II) chloride (PbCl₂) is sparingly soluble in cold water but dissolves readily in boiling water to form a clear solution. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Pb(NO₃)₂ + 2HCl → PbCl₂↓ + 2HNO₃. PbCl₂ precipitates in cold water, dissolves in hot water, and recrystallizes as white needles on cooling.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c6903fa145408a7c2b71fcfc7a826a6fb39c2f514333831152ad4b1ab1d9de86",
+    "question_skeleton": "assertion a addition of dilute hydrochloric acid to lead nitrate solution produces a white precipitate that dissolves upon heating and recrystallizes on cooling reason r lead ii chloride pbcl is sparingly soluble in cold water but dissolves readily in boiling water to form a clear solution choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_29_bc919a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Distinction between AgCl and PbCl2",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A white precipitate of PbCl₂ can be distinguished from AgCl simply by heating the mixture with water. **Reason (R):** PbCl₂ dissolves completely in boiling water, whereas AgCl remains totally insoluble in boiling water. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Hot water solubility is a definitive test to distinguish PbCl₂ from AgCl without adding chemical reagents.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1b52bf9e17508c966f14faba3a6f7357d66e69e279c6b105de17baa992037437",
+    "question_skeleton": "assertion a a white precipitate of pbcl can be distinguished from agcl simply by heating the mixture with water reason r pbcl dissolves completely in boiling water whereas agcl remains totally insoluble in boiling water choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_30_90ea7a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Oxidation of conc. HCl by manganese dioxide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Heating manganese dioxide (MnO₂) with concentrated hydrochloric acid liberates greenish-yellow chlorine gas. **Reason (R):** Manganese dioxide acts as an oxidizing agent, oxidising chloride ions to elemental chlorine gas while being reduced to manganese(II) chloride. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂↑. This is the classical laboratory method for preparing chlorine.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d8fd160869d3d6a45bf4121950a0dcadccc2c7a707f21cf2cdbb87922f588791",
+    "question_skeleton": "assertion a heating manganese dioxide mno with concentrated hydrochloric acid liberates greenish yellow chlorine gas reason r manganese dioxide acts as an oxidizing agent oxidising chloride ions to elemental chlorine gas while being reduced to manganese ii chloride choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_31_bbfdb3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Dilute HCl with manganese dioxide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Greenish-yellow chlorine gas is rapidly evolved when dilute hydrochloric acid is mixed with manganese dioxide at room temperature. **Reason (R):** Dilute hydrochloric acid is not concentrated enough and lacks the required reducing potential to react with MnO₂ without heating. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false, but Reason is true. MnO₂ requires concentrated HCl and heat to liberate chlorine gas; dilute HCl produces no reaction.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "49ac1444b0288f6ba14ecc5e2dfe0bffeb287f761a8632a281753a916c518fff",
+    "question_skeleton": "assertion a greenish yellow chlorine gas is rapidly evolved when dilute hydrochloric acid is mixed with manganese dioxide at room temperature reason r dilute hydrochloric acid is not concentrated enough and lacks the required reducing potential to react with mno without heating choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_32_667717",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Oxidation of conc. HCl by potassium permanganate",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Potassium permanganate (KMnO₄) oxidises concentrated hydrochloric acid to chlorine gas at room temperature without heating. **Reason (R):** Potassium permanganate is a very powerful oxidizing agent capable of oxidising concentrated HCl to Cl₂ at ambient temperature. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. 2KMnO₄ + 16HCl → 2KCl + 2MnCl₂ + 8H₂O + 5Cl₂↑. No heat is required due to high redox potential.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "76f884b4206ad79fb3c5b3f31f55a9d758619b721bbac59fe2c9367bf69f3b2b",
+    "question_skeleton": "assertion a potassium permanganate kmno oxidises concentrated hydrochloric acid to chlorine gas at room temperature without heating reason r potassium permanganate is a very powerful oxidizing agent capable of oxidising concentrated hcl to cl at ambient temperature choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_33_0fb586",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Reaction of red lead with conc. HCl",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Heating red lead (Pb₃O₄) with concentrated hydrochloric acid liberates chlorine gas and leaves a white crystalline precipitate on cooling. **Reason (R):** Red lead is a mixed oxide (2PbO·PbO₂); the PbO₂ portion oxidises HCl to Cl₂ while PbO forms PbCl₂, which recrystallizes upon cooling. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Pb₃O₄ + 8HCl → 3PbCl₂ + 4H₂O + Cl₂↑. PbCl₂ dissolves in hot acid and precipitates on cooling.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0c9975b779acaeff40b1732d2d982b53226a83c1f1ca72cb9237d38f426f1e62",
+    "question_skeleton": "assertion a heating red lead pb o with concentrated hydrochloric acid liberates chlorine gas and leaves a white crystalline precipitate on cooling reason r red lead is a mixed oxide pbo pbo the pbo portion oxidises hcl to cl while pbo forms pbcl which recrystallizes upon cooling choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_34_63701d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Aqua regia composition and mechanism",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Aqua regia dissolves noble metals like gold and platinum. **Reason (R):** Aqua regia contains free hydrochloric acid that reacts directly with unreactive gold atoms to displace hydrogen gas. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Assertion is true, but Reason is false. Aqua regia (3 parts conc. HCl + 1 part conc. HNO₃) produces nascent chlorine: 3HCl + HNO₃ → NOCl + 2H₂O + 2[Cl]. Nascent chlorine attacks gold to form soluble HAuCl₄.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a7125cbde8389fa2cea6417ee51253f3994fd0f5e6a5845f2e8d02ffa5d2c4ab",
+    "question_skeleton": "assertion a aqua regia dissolves noble metals like gold and platinum reason r aqua regia contains free hydrochloric acid that reacts directly with unreactive gold atoms to displace hydrogen gas choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_35_e89488",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Constant boiling azeotrope of HCl",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Dilute hydrochloric acid cannot be concentrated beyond 22.2% HCl by ordinary fractional distillation. **Reason (R):** At 22.2% HCl by mass and 110°C, hydrochloric acid forms a constant boiling azeotropic mixture where the liquid and vapor have identical composition. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. A constant boiling mixture distills without any change in composition at 110°C, preventing further concentration.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1d207df1461891a20a146b5146aac3d4d089db99cc54c0eff2613081cae03c0c",
+    "question_skeleton": "assertion a dilute hydrochloric acid cannot be concentrated beyond # hcl by ordinary fractional distillation reason r at # hcl by mass and # c hydrochloric acid forms a constant boiling azeotropic mixture where the liquid and vapor have identical composition choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_36_985b9f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Distillation of concentrated HCl (>22.2%)",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When concentrated hydrochloric acid containing 36% HCl is boiled, hydrogen chloride gas escapes first until 22.2% concentration is reached. **Reason (R):** The partial vapor pressure of HCl above a concentrated solution is much higher than that of water, causing volatile HCl gas to distill off preferentially. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Boiling drives off excess gaseous HCl until the azeotrope (22.2% at 110°C) is formed, after which it boils unchanged.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "55fcb973b015e5b87d60f7a532f7cc4b1ffeab888ada3fcbf16c13217194a830",
+    "question_skeleton": "assertion a when concentrated hydrochloric acid containing # hcl is boiled hydrogen chloride gas escapes first until # concentration is reached reason r the partial vapor pressure of hcl above a concentrated solution is much higher than that of water causing volatile hcl gas to distill off preferentially choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_37_41dae1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Lead dioxide vs lead monoxide with conc. HCl",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Both lead(II) oxide (PbO) and lead(IV) oxide (PbO₂) react with concentrated hydrochloric acid to form lead(II) chloride. **Reason (R):** PbO₂ oxidises hydrochloric acid to chlorine gas, whereas PbO undergoes simple acid-base neutralization forming only salt and water. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both Assertion and Reason are true, but Reason explains the difference in redox behavior rather than why both yield lead(II) chloride.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c72cd067948c3116165da34f5bb773ef4c465d4c98e6505f2b7f65717f31bb1f",
+    "question_skeleton": "assertion a both lead ii oxide pbo and lead iv oxide pbo react with concentrated hydrochloric acid to form lead ii chloride reason r pbo oxidises hydrochloric acid to chlorine gas whereas pbo undergoes simple acid base neutralization forming only salt and water choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_38_5eb600",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Neutralization of bases by hydrochloric acid",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Hydrochloric acid completely neutralizes sodium hydroxide solution with the liberation of heat. **Reason (R):** Hydrochloric acid is a strong monobasic acid that decomposes metal carbonates to evolve carbon dioxide gas. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both Assertion and Reason are true, but Reason discusses the reaction with carbonates, which does not explain neutralization with sodium hydroxide.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "245e12f3bc7202c2176603fa7099bca9e214b9a6aba26a3d6e7d7f720901ac9a",
+    "question_skeleton": "assertion a hydrochloric acid completely neutralizes sodium hydroxide solution with the liberation of heat reason r hydrochloric acid is a strong monobasic acid that decomposes metal carbonates to evolve carbon dioxide gas choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_39_3e8304",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Thermal stability of HCl gas",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Hydrogen chloride gas is exceptionally stable towards heat and dissociates into hydrogen and chlorine only above 1500°C. **Reason (R):** The H–Cl single covalent bond has a high bond dissociation energy that requires extreme thermal energy to break. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The H–Cl bond energy is ~431 kJ/mol; thermal dissociation is negligible below 1500°C.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "dfd6a4380800e1669c004f159b945a2914a3adf55f378e3f80dfdee2cc897a76",
+    "question_skeleton": "assertion a hydrogen chloride gas is exceptionally stable towards heat and dissociates into hydrogen and chlorine only above # c reason r the h cl single covalent bond has a high bond dissociation energy that requires extreme thermal energy to break choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_hydrogen_chloride_40_d7236e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Hydrochloric Acid",
+    "title": "Assertion–Reason: Distinction between dilute HCl and dilute H2SO4",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Barium chloride solution (BaCl₂) can be used to chemically distinguish dilute sulphuric acid from dilute hydrochloric acid. **Reason (R):** Dilute sulphuric acid forms an insoluble white precipitate of barium sulphate (BaSO₄) with BaCl₂, whereas dilute HCl produces no observable change. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. H₂SO₄ + BaCl₂ → BaSO₄↓(white) + 2HCl. BaSO₄ is insoluble in dilute mineral acids, providing a clean distinction.",
+    "concept_name": "Hydrochloric Acid",
+    "concept_tag": "hydrogen chloride assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8616d58e483e78616a42a21433a482384acb50abad0090089586fb800570decd",
+    "question_skeleton": "assertion a barium chloride solution bacl can be used to chemically distinguish dilute sulphuric acid from dilute hydrochloric acid reason r dilute sulphuric acid forms an insoluble white precipitate of barium sulphate baso with bacl whereas dilute hcl produces no observable change choose the correct option"
+  }
+]

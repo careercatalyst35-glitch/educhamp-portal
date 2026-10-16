@@ -1,0 +1,2252 @@
+[
+  {
+    "globalId": "qb_case_electrolysis_1_e5a914",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 1: Electrolysis of Molten Lead Bromide ($PbBr₂$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an ICSE chemistry demonstration of molten salt electrolysis, solid Lead(II) bromide (PbBr₂) is placed in a crucible and heated with a Bunsen burner until it melts into a clear red liquid at 380°C. Two graphite electrodes connected to a 6V DC battery are immersed in the melt. Observation 1: A silvery-grey molten metal collects at the cathode and sinks to the bottom. Observation 2: Pungent, reddish-brown fumes evolve at the anode. **Investigative Question:** Why must the crucible be made of silica, why are graphite electrodes used instead of platinum, and what are the electrode products? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Crucible is silica to conduct electricity; platinum dissolves in lead; products are bromine at cathode and lead at anode."
+      },
+      {
+        "key": "B",
+        "text": "Silica crucible is non-reactive and withstands high temperatures without cracking; graphite resists corrosive attack by hot bromine vapors at 380°C (which attack platinum); products are molten Lead at cathode (Pb²⁺ + 2e⁻ → Pb) and Bromine gas at anode (2Br⁻ - 2e⁻ → Br₂)."
+      },
+      {
+        "key": "C",
+        "text": "Silica generates magnetic fields; graphite is cheaper than glass; products are hydrogen and oxygen."
+      },
+      {
+        "key": "D",
+        "text": "Crucible is made of silica to absorb oxygen; products are liquid sodium and chlorine."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Details of molten PbBr₂ electrolysis:\n1. Crucible material: Silica is chosen because it is thermally resistant, non-porous, and unreactive toward corrosive molten lead and hot bromine vapors.\n2. Electrode material: Graphite (carbon) is used for both electrodes because hot bromine vapor attacks platinum at high temperatures, forming volatile platinum bromides, whereas graphite is chemically inert to bromine.\n3. Cathode (negative): Pb²⁺ ions gain two electrons to deposit molten lead metal: Pb²⁺ + 2e⁻ → Pb(l) (silvery grey bead).\n4. Anode (positive): Br⁻ ions lose electrons to evolve reddish-brown bromine gas: 2Br⁻ - 2e⁻ → Br₂(g).",
+    "concept_name": "Silica Crucible and Graphite Electrode Selection",
+    "concept_tag": "electrolysis case based silica crucible and graphite electrode selection",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e9d2545f135758d0bf67dac0358e343171859ea77672ca577784e4dee29d05ec",
+    "question_skeleton": "case scenario in an icse chemistry demonstration of molten salt electrolysis solid lead ii bromide pbbr is placed in a crucible and heated with a bunsen burner until it melts into a clear red liquid at 380 c two graphite electrodes connected to a 6v dc battery are immersed in the melt observation 1 a silvery grey molten metal collects at the cathode and sinks to the bottom observation 2 pungent reddish brown fumes evolve at the anode investigative question why must the crucible be made of silica why are graphite electrodes used instead of platinum and what are the electrode products choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_2_19bf82",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 2: Electrolysis of Acidified Water: Hofmann's Voltameter",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a Hofmann voltameter, water acidified with dilute sulphuric acid is electrolyzed using inert platinum foil electrodes. Gas bubbles evolve continuously at both vertical graduated limbs. Observation: The volume of gas collected in the cathode limb is exactly double the volume of gas collected in the anode limb (ratio 2:1 by volume). **Investigative Question:** What gases are collected at the cathode and anode, why is dilute sulphuric acid added, and why is the volume ratio exactly 2:1? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cathode = O₂; Anode = H₂; acid neutralizes alkali; ratio is 2:1 because oxygen is denser."
+      },
+      {
+        "key": "B",
+        "text": "Cathode = Hydrogen (H₂); Anode = Oxygen (O₂); dilute H₂SO₄ provides mobile ions because pure water is an extremely weak electrolyte; ratio is 2:1 because 4H⁺ are reduced per 1 molecule of O₂ formed: 4e⁻ produce 2H₂ at cathode but only 1O₂ at anode."
+      },
+      {
+        "key": "C",
+        "text": "Cathode = SO₂; Anode = H₂; acid is the fuel; ratio is 2:1 due to atmospheric pressure."
+      },
+      {
+        "key": "D",
+        "text": "Cathode = Cl₂; Anode = H₂; acid prevents explosion; ratio is 2:1 because chlorine dissolves in water."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Pure water is an exceptionally weak electrolyte (autoionisation Kw = 10⁻¹⁴), conducting virtually zero current. Adding dilute H₂SO₄ provides free H⁺ and SO₄²⁻ ions. At Cathode (reduction): 2H⁺ + 2e⁻ → H₂ (or 4H⁺ + 4e⁻ → 2H₂). At Anode (oxidation): OH⁻ ions (from water) have a lower discharge potential than SO₄²⁻ and are discharged preferentially: 4OH⁻ - 4e⁻ → 2H₂O + O₂. To balance the 4 electrons transferred, 2 moles of H₂ gas are evolved for every 1 mole of O₂ gas. By Avogadro's Law, equal moles equal equal volumes, giving a precise 2:1 volume ratio.",
+    "concept_name": "Volume Ratio and Preferential Anion Discharge",
+    "concept_tag": "electrolysis case based volume ratio and preferential anion discharge",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "174250f9564d0747bbf2f6c168435d81df69ba6ddc18fc52ce47d2f9e43b5ed6",
+    "question_skeleton": "case scenario in a hofmann voltameter water acidified with dilute sulphuric acid is electrolyzed using inert platinum foil electrodes gas bubbles evolve continuously at both vertical graduated limbs observation the volume of gas collected in the cathode limb is exactly double the volume of gas collected in the anode limb ratio 2 1 by volume investigative question what gases are collected at the cathode and anode why is dilute sulphuric acid added and why is the volume ratio exactly 2 1 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_3_b723fc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 3: Electrolysis of Aqueous $CuSO₄$ with Inert Platinum Electrodes",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrochemist electrolyzes aqueous Copper(II) sulphate (CuSO₄) solution using inert Platinum electrodes. Over 30 minutes, two distinct changes occur: 1. A shiny, reddish-brown metallic coating deposits on the platinum cathode. 2. Colorless gas bubbles evolve at the platinum anode, which relight a glowing splinter. 3. The intense blue color of the electrolyte gradually fades until the solution becomes completely colorless and strongly acidic. **Investigative Question:** Why does the blue color fade, and what acid is formed in the electrolyte? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Blue color fades because water evaporates; hydrochloric acid is formed."
+      },
+      {
+        "key": "B",
+        "text": "Blue color is caused by Cu²⁺ ions; Cu²⁺ ions are continuously discharged and deposited as metallic copper at the cathode (Cu²⁺ + 2e⁻ → Cu), while OH⁻ is discharged at the anode (forming O₂), leaving H⁺ and SO₄²⁻ ions in solution to accumulate as Sulphuric acid (H₂SO₄)."
+      },
+      {
+        "key": "C",
+        "text": "Blue color fades because platinum absorbs copper atoms; nitric acid is formed."
+      },
+      {
+        "key": "D",
+        "text": "The solution turns colorless because copper turns into zinc."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In aqueous CuSO₄, four ions exist: Cu²⁺, H⁺, SO₄²⁻, OH⁻.\n- At Platinum Cathode: Cu²⁺ is lower than H⁺ in the electrochemical series and is discharged preferentially: Cu²⁺ + 2e⁻ → Cu(s) (reddish-brown deposit).\n- At Platinum Anode: OH⁻ is lower than SO₄²⁻ and is discharged preferentially: 4OH⁻ - 4e⁻ → 2H₂O + O₂↑ (oxygen gas).\nBecause Cu²⁺ ions are permanently removed from solution without replacement, the blue color (due to hydrated Cu²⁺) fades to colorless. As OH⁻ ions are consumed, unreacted H⁺ cations and SO₄²⁻ anions accumulate, transforming the electrolyte into dilute sulphuric acid (H₂SO₄).",
+    "concept_name": "Fading of Blue Color and Acid Accumulation",
+    "concept_tag": "electrolysis case based fading of blue color and acid accumulation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b1a3ff170e098df3b935d1de7d3899874262fe3820b3176b5aafb207a2a0bdb2",
+    "question_skeleton": "case scenario an electrochemist electrolyzes aqueous copper ii sulphate cuso solution using inert platinum electrodes over 30 minutes two distinct changes occur 1 a shiny reddish brown metallic coating deposits on the platinum cathode 2 colorless gas bubbles evolve at the platinum anode which relight a glowing splinter 3 the intense blue color of the electrolyte gradually fades until the solution becomes completely colorless and strongly acidic investigative question why does the blue color fade and what acid is formed in the electrolyte choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_4_a879b0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 4: Electrolysis of Aqueous $CuSO₄$ with Active Copper Electrodes",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an industrial copper refining cell, aqueous Copper(II) sulphate is electrolyzed using a thick slab of impure copper as the Anode and a thin sheet of pure copper as the Cathode. Observation: The cathode increases steadily in mass as pure copper deposits, the anode slowly dissolves and loses mass, and the deep blue color of the CuSO₄ electrolyte remains completely CONSTANT throughout the entire process. **Investigative Question:** Why does the blue color of the electrolyte remain constant when active copper electrodes are used? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Copper sulphate is an organic dye that never loses color."
+      },
+      {
+        "key": "B",
+        "text": "The rate at which Cu²⁺ ions are discharged and deposited at the cathode (Cu²⁺ + 2e⁻ → Cu) exactly equals the rate at which copper atoms dissolve from the active copper anode into solution (Cu - 2e⁻ → Cu²⁺), maintaining a constant concentration of Cu²⁺ ions."
+      },
+      {
+        "key": "C",
+        "text": "The electrical current converts water into copper sulphate."
+      },
+      {
+        "key": "D",
+        "text": "Active copper electrodes prevent electrons from flowing through the liquid."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When an active copper anode is used, neither SO₄²⁻ nor OH⁻ is discharged because the energy required to remove electrons from metallic copper atoms (oxidation: Cu → Cu²⁺ + 2e⁻, E° = +0.34 V) is lower than discharging OH⁻ (E° = +1.23 V) or SO₄²⁻. Therefore, the copper anode dissolves directly into the solution as Cu²⁺ ions. At the cathode, Cu²⁺ ions from solution are reduced to copper metal: Cu²⁺ + 2e⁻ → Cu. Because for every Cu²⁺ ion deposited at the cathode, an identical Cu²⁺ ion enters the solution from the anode, the concentration of hydrated [Cu(H₂O)₆]²⁺ ions remains perfectly constant, preserving the blue color.",
+    "concept_name": "Constant Blue Color and Anode Dissolution",
+    "concept_tag": "electrolysis case based constant blue color and anode dissolution",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f32d67f343be1feb0bdec20cdb5b60d76b24ba04cf3d834eabdb442de2f0bc4f",
+    "question_skeleton": "case scenario in an industrial copper refining cell aqueous copper ii sulphate is electrolyzed using a thick slab of impure copper as the anode and a thin sheet of pure copper as the cathode observation the cathode increases steadily in mass as pure copper deposits the anode slowly dissolves and loses mass and the deep blue color of the cuso electrolyte remains completely constant throughout the entire process investigative question why does the blue color of the electrolyte remain constant when active copper electrodes are used choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_5_d504ec",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 5: Electroplating an Iron Spoon with Silver",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A jeweler electroplates an iron spoon with pure silver. The iron spoon is made the Cathode, and a pure silver plate is made the Anode. The master jeweler instructs the apprentice to use a solution of Sodium Argentocyanide (Na[Ag(CN)₂]) as the electrolyte, strictly forbidding the use of Silver Nitrate (AgNO₃) solution. **Investigative Question:** Why is Sodium Argentocyanide preferred over Silver Nitrate for high-quality electroplating? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Silver nitrate is non-conducting and does not dissolve in water."
+      },
+      {
+        "key": "B",
+        "text": "Silver nitrate ionises rapidly, providing a high concentration of Ag⁺ ions that deposit too quickly, producing an uneven, rough, powdery, brittle coating that easily peels off; Sodium argentocyanide is a complex salt that dissociates slowly, furnishing a low, uniform concentration of Ag⁺ that yields a smooth, firm, adherent, mirror-like deposit."
+      },
+      {
+        "key": "C",
+        "text": "Silver nitrate dissolves the iron spoon before electroplating can begin."
+      },
+      {
+        "key": "D",
+        "text": "Sodium argentocyanide contains gold that hardens the silver layer."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For superior electroplating, the metal must deposit slowly, uniformly, and compactly. Silver nitrate (AgNO₃) is a strong electrolyte that dissociates 100% into Ag⁺ and NO₃⁻. Under DC current, the high concentration of Ag⁺ causes rapid, chaotic deposition of large dendritic silver crystals, forming a spongy, non-adherent, grey powder that peels off. Sodium argentocyanide is a complex salt: Na[Ag(CN)₂] ⇌ Na⁺ + [Ag(CN)₂]⁻. The complex anion dissociates reversibly to a minute degree: [Ag(CN)₂]⁻ ⇌ Ag⁺ + 2CN⁻. This controlled, micro-level release of Ag⁺ ions ensures slow, uniform atomic layering, producing a brilliant, mirror-finish silver coating.",
+    "concept_name": "Selection of Electrolyte: Sodium Argentocyanide vs $AgNO_3$",
+    "concept_tag": "electrolysis case based selection of electrolyte: sodium argentocyanide vs $agno_3$",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "15a97739d3d13d852f282d903463d691c06b46cac691d05656289209d3f52145",
+    "question_skeleton": "case scenario a jeweler electroplates an iron spoon with pure silver the iron spoon is made the cathode and a pure silver plate is made the anode the master jeweler instructs the apprentice to use a solution of sodium argentocyanide na ag cn as the electrolyte strictly forbidding the use of silver nitrate agno solution investigative question why is sodium argentocyanide preferred over silver nitrate for high quality electroplating choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_6_c31340",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 6: Electrorefining of Blister Copper: Anode Mud and Impurities",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electro-refinery purifies crude 'blister copper' (containing 98% Cu with impurities of Zinc, Iron, Silver, and Gold) using acidified CuSO₄ electrolyte. During electrolysis, pure copper deposits on the cathode. A sludge called 'anode mud' accumulates at the bottom beneath the anode. Assay of the electrolyte shows dissolved Zn²⁺ and Fe²⁺ ions, while assay of the anode mud shows metallic Silver and Gold. **Investigative Question:** Why do Zinc and Iron dissolve into the electrolyte while Silver and Gold settle into the anode mud? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zinc and iron are heavier than silver and gold."
+      },
+      {
+        "key": "B",
+        "text": "Zinc and Iron are more electropositive than copper (lower in reduction potential), so they lose electrons preferentially at the anode and dissolve as Zn²⁺ and Fe²⁺ ions; Silver and Gold are less electropositive than copper, so they do not ionise at the cell voltage and fall to the bottom as unreacted metallic anode mud."
+      },
+      {
+        "key": "C",
+        "text": "Silver and gold are soluble in sulphuric acid, while zinc is insoluble."
+      },
+      {
+        "key": "D",
+        "text": "Anode mud is composed of melted copper that froze at the bottom."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In electrolytic refining, the applied cell voltage is precisely regulated (~0.2–0.3 V) to selectively oxidise copper: Cu → Cu²⁺ + 2e⁻. Metals more electropositive than copper (Zn, Fe, Ni) have lower reduction potentials than copper and are oxidised even more readily, dissolving into the electrolyte as Zn²⁺ and Fe²⁺ ions (they do not deposit on the cathode because Cu²⁺ has a higher discharge potential). Metals less electropositive than copper (Ag, Au, Pt) cannot lose electrons at this low voltage; as the surrounding copper matrix dissolves away, they drop by gravity to the cell floor as valuable 'anode mud'.",
+    "concept_name": "Selective Anodic Dissolution of More vs Less Electropositive Metals",
+    "concept_tag": "electrolysis case based selective anodic dissolution of more vs less electropositive metals",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a2fd7c82ad1af28452bbbc3564a70d62f112a3c1b1780d3eca060ad071923c39",
+    "question_skeleton": "case scenario an electro refinery purifies crude blister copper containing 98 cu with impurities of zinc iron silver and gold using acidified cuso electrolyte during electrolysis pure copper deposits on the cathode a sludge called anode mud accumulates at the bottom beneath the anode assay of the electrolyte shows dissolved zn and fe ions while assay of the anode mud shows metallic silver and gold investigative question why do zinc and iron dissolve into the electrolyte while silver and gold settle into the anode mud choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_7_f16df0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 7: Hall-Héroult Process: Role of Cryolite ($Na_3AlF₆$) and Fluorspar ($CaF₂$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In the industrial Hall-Héroult cell for aluminium extraction, pure Alumina (Al₂O₃) has a melting point of 2050°C and is an extremely poor conductor of electricity in molten state. The extraction engineers mix the alumina with molten Cryolite (Na₃AlF₆, 60%) and Fluorspar (CaF₂, 20%), operating the cell at only 950°C. **Investigative Question:** What are the three essential metallurgical functions of adding Cryolite and Fluorspar to alumina? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "They act as reducing agents that reduce alumina without electricity."
+      },
+      {
+        "key": "B",
+        "text": "(1) Lowers the melting point of the mixture from ~2050°C to ~950°C (massive energy savings); (2) Enhances the electrical conductivity of the molten electrolyte; (3) Acts as a solvent that dissolves alumina completely."
+      },
+      {
+        "key": "C",
+        "text": "They convert aluminium into a gas that distills over at 950°C."
+      },
+      {
+        "key": "D",
+        "text": "They prevent carbon dioxide from escaping into the environment."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Pure alumina (Al₂O₃) is impractical to electrolyze directly because: (1) It melts at 2050°C (structural materials and electrodes fail at this temperature, and aluminium vaporizes at 2467°C); (2) Molten Al₂O₃ is almost an electrical insulator. Adding Cryolite (Na₃AlF₆) and Fluorspar (CaF₂) forms an ionic eutectic mixture that: (1) Drastically reduces the operating temperature from 2050°C to ~950°C; (2) Disperses into mobile Na⁺, Ca²⁺, AlF₆³⁻, and F⁻ ions, vastly increasing electrical conductivity; (3) Lowers the density of the melt (~2.1 g/cm³) so that molten aluminium (~2.3 g/cm³) sinks to the bottom, shielded from air oxidation.",
+    "concept_name": "Melting Point Suppression and Conductivity Enhancement",
+    "concept_tag": "electrolysis case based melting point suppression and conductivity enhancement",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0962e1a89f1ce6890c53d18cab52169e682b2dce8841f73a1e68a11405e8433b",
+    "question_skeleton": "case scenario in the industrial hall h roult cell for aluminium extraction pure alumina al o has a melting point of 2050 c and is an extremely poor conductor of electricity in molten state the extraction engineers mix the alumina with molten cryolite na alf 60 and fluorspar caf 20 operating the cell at only 950 c investigative question what are the three essential metallurgical functions of adding cryolite and fluorspar to alumina choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_8_78cdb9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 8: Hall-Héroult Process: Why Carbon Anodes Must Be Periodically Replaced",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An operations manager at an aluminium smelter orders a delivery of 50 tons of graphite anode blocks each month. The carbon anodes suspended in the Hall-Héroult electrolytic bath are consumed at a rate of approximately 0.5 kg of carbon per 1 kg of aluminium produced. **Investigative Question:** What chemical reaction causes the carbon anodes to be continuously consumed during the electrolysis of alumina? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The carbon anodes dissolve in liquid aluminium to form diamond."
+      },
+      {
+        "key": "B",
+        "text": "Oxygen gas evolved at the anode at ~950°C reacts with the red-hot carbon rods, oxidising the graphite into carbon monoxide and carbon dioxide: 2O²⁻ - 4e⁻ → O₂; C + O₂ → CO₂↑ and 2C + O₂ → 2CO↑."
+      },
+      {
+        "key": "C",
+        "text": "The electric current causes carbon atoms to undergo radioactive fission."
+      },
+      {
+        "key": "D",
+        "text": "The cryolite solvent eats the carbon electrodes by acid corrosion."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "At the anode of the Hall-Héroult cell, oxide ions from alumina lose electrons to form oxygen gas: 2O²⁻ - 4e⁻ → O₂(g). Because the bath operates at approximately 950°C, the newly formed oxygen gas immediately attacks the glowing graphite rods: C(s) + O₂(g) → CO₂(g) and 2C(s) + O₂(g) → 2CO(g). The carbon anodes are literally burned away into greenhouse gases, steadily eroding and requiring continuous lowering and periodic replacement.",
+    "concept_name": "Anodic Combustion of Graphite by Nascent Oxygen",
+    "concept_tag": "electrolysis case based anodic combustion of graphite by nascent oxygen",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5337ce966847eadb3f10d93c88797d3b5a55ab835c9270d08345e5b82306e3ff",
+    "question_skeleton": "case scenario an operations manager at an aluminium smelter orders a delivery of 50 tons of graphite anode blocks each month the carbon anodes suspended in the hall h roult electrolytic bath are consumed at a rate of approximately 0 5 kg of carbon per 1 kg of aluminium produced investigative question what chemical reaction causes the carbon anodes to be continuously consumed during the electrolysis of alumina choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_9_72714d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 9: Why Powdered Coke is Sprinkled on the Hall-Héroult Electrolyte",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A layer of crushed powdered coke (carbon) is sprinkled over the open surface of the molten electrolyte bath in the Hall-Héroult cell. **Investigative Question:** What dual protective purpose does this surface layer of powdered coke serve? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It bleaches the molten aluminium and acts as a electrical fuse."
+      },
+      {
+        "key": "B",
+        "text": "(1) It serves as a thermal insulator, preventing massive heat loss by radiation; (2) It prevents the carbon anodes from burning in atmospheric oxygen above the molten bath."
+      },
+      {
+        "key": "C",
+        "text": "It reacts with cryolite to produce sodium metal."
+      },
+      {
+        "key": "D",
+        "text": "It prevents rainwater from falling into the smelter."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Powdered coke sprinkled on the electrolytic surface serves two critical functions:\n1. Thermal insulation: At 950°C, enormous thermal energy is lost via blackbody radiation. The floating coke layer forms a blanket of low thermal conductivity, keeping the bath molten without excessive heating costs.\n2. Oxidation prevention: The suspended carbon anode rods emerge from the bath into open air; without a coke shield, the red-hot graphite rods would ignite and burn in atmospheric oxygen above the bath level.",
+    "concept_name": "Thermal Insulation and Anode Air-Oxidation Prevention",
+    "concept_tag": "electrolysis case based thermal insulation and anode air-oxidation prevention",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "eec544abb512033add9a68fedd707e36dde53f7386f2015d8c6ad0e83a80295f",
+    "question_skeleton": "case scenario a layer of crushed powdered coke carbon is sprinkled over the open surface of the molten electrolyte bath in the hall h roult cell investigative question what dual protective purpose does this surface layer of powdered coke serve choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_10_a9c995",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 10: Faraday's Constant and Charge Required to Deposit Aluminium",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an industrial aluminium smelter, a direct current is passed through molten alumina. The cathodic reduction is: Al³⁺ + 3e⁻ → Al(l). Atomic mass: Al = 27.0 g/mol; Faraday's constant: 1 F = 96,500 Coulombs. **Investigative Question:** What quantity of electric charge in Coulombs (and how many Faradays) is required to deposit exactly 54.0 g of pure aluminium metal? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "96,500 C (1 F)"
+      },
+      {
+        "key": "B",
+        "text": "579,000 C (6 F)"
+      },
+      {
+        "key": "C",
+        "text": "289,500 C (3 F)"
+      },
+      {
+        "key": "D",
+        "text": "193,000 C (2 F)"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Moles of Aluminium to deposit = Mass / Atomic mass = 54.0 g / 27.0 g/mol = 2.00 mol.\n2. From the half-reaction: Al³⁺ + 3e⁻ → Al.\nDepositing 1 mole of Al requires 3 moles of electrons (3 Faradays).\n- Depositing 2.00 moles of Al requires: 2.00 × 3 = 6.00 moles of electrons = 6 Faradays (6 F).\n3. Total electric charge Q = n × F = 6 × 96,500 C = 579,000 Coulombs.",
+    "concept_name": "Stoichiometry of Electron Transfer ($Q = nF$)",
+    "concept_tag": "electrolysis case based stoichiometry of electron transfer ($q = nf$)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "96304d0136a4b2620ccbe06468f0301294e13d09f9f882d69ff4c7bb66c633a6",
+    "question_skeleton": "case scenario in an industrial aluminium smelter a direct current is passed through molten alumina the cathodic reduction is al 3e al l atomic mass al 27 0 g mol faraday s constant 1 f 96 500 coulombs investigative question what quantity of electric charge in coulombs and how many faradays is required to deposit exactly 54 0 g of pure aluminium metal choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_11_249c0a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 11: Electrolysis of Brine: The Chlor-Alkali Process",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an industrial chlor-alkali cell, a saturated aqueous solution of Sodium Chloride (brine, containing Na⁺, Cl⁻, H⁺, OH⁻) is electrolyzed using a titanium anode and nickel cathode separated by a selective cation-exchange membrane. Observation: Greenish-yellow Chlorine gas is liberated at the anode, flammable Hydrogen gas is liberated at the cathode, and the solution in the cathode compartment becomes strongly alkaline Sodium Hydroxide (NaOH). **Investigative Question:** Why is Chlorine discharged at the anode instead of Oxygen, and why is Hydrogen discharged at the cathode instead of Sodium? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium is a gas that dissolves in water; chlorine is lighter than oxygen."
+      },
+      {
+        "key": "B",
+        "text": "At cathode: H⁺ has a much higher reduction potential than Na⁺, so H⁺ is discharged preferentially (2H⁺ + 2e⁻ → H₂); At anode: although OH⁻ is lower in the series than Cl⁻, the extremely high concentration of chloride ions in brine overrides the electrochemical series, discharging Cl⁻ preferentially (2Cl⁻ - 2e⁻ → Cl₂)."
+      },
+      {
+        "key": "C",
+        "text": "Chlorine is an alkali metal while sodium is a halogen."
+      },
+      {
+        "key": "D",
+        "text": "Water decomposes into sodium hydroxide when electricity is turned on."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In brine electrolysis:\n1. At Cathode: Both Na⁺ and H⁺ migrate to the cathode. In the electrochemical series, H⁺ (E° = 0.00 V) is vastly more easily reduced than reactive Na⁺ (E° = -2.71 V). Therefore, H⁺ gains electrons preferentially to form H₂ gas, leaving unreacted Na⁺ in solution.\n2. At Anode: Both Cl⁻ and OH⁻ migrate to the anode. In dilute solution, OH⁻ is discharged. However, in concentrated brine, the concentration of Cl⁻ is thousands of times higher than [OH⁻] (~10⁻⁷ M). This overwhelming concentration effect causes Cl⁻ to be discharged preferentially, liberating Cl₂ gas. Leaving Na⁺ and OH⁻ in solution yields pure sodium hydroxide (NaOH).",
+    "concept_name": "Concentration Effect on Anion Discharge",
+    "concept_tag": "electrolysis case based concentration effect on anion discharge",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "8c4ba8c7b071aac202393f4d69b8b067b2392c78718add745b574e35ca90711a",
+    "question_skeleton": "case scenario in an industrial chlor alkali cell a saturated aqueous solution of sodium chloride brine containing na cl h oh is electrolyzed using a titanium anode and nickel cathode separated by a selective cation exchange membrane observation greenish yellow chlorine gas is liberated at the anode flammable hydrogen gas is liberated at the cathode and the solution in the cathode compartment becomes strongly alkaline sodium hydroxide naoh investigative question why is chlorine discharged at the anode instead of oxygen and why is hydrogen discharged at the cathode instead of sodium choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_12_d74053",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 12: Why Direct Current ($DC$) Must Be Used Instead of Alternating Current ($AC$)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student accidentally connects an electrolytic cell containing copper(II) sulphate solution to a 220V 50Hz Alternating Current (AC) mains socket (stepped down to 6V AC) instead of a Direct Current (DC) battery. **Investigative Question:** What happens in the cell when Alternating Current is used, and why is DC mandatory for electrolysis? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The copper deposits twice as fast because AC has double frequency."
+      },
+      {
+        "key": "B",
+        "text": "No net electrolysis occurs; AC reverses electrode polarity 50 times per second (each electrode alternates as anode and cathode every 1/100th of a second), so any metal deposited in one half-cycle dissolves back into solution in the next half-cycle."
+      },
+      {
+        "key": "C",
+        "text": "The AC current turns the water into radioactive hydrogen peroxide."
+      },
+      {
+        "key": "D",
+        "text": "The copper deposits on the glass walls of the beaker instead of the electrodes."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electrolysis requires continuous, unidirectional ion migration toward fixed opposite poles (cations to negative cathode, anions to positive anode). Direct Current (DC) maintains fixed, permanent polarity. Alternating Current (AC) oscillates sinusoidally, reversing polarity every half-cycle (at 50 Hz, 100 reversals per second). When an electrode is negative, a microscopic layer of copper deposits; a fraction of a second later, the electrode becomes positive, causing that deposited copper to re-oxidise back into solution. Consequently, zero net chemical separation or deposition occurs.",
+    "concept_name": "Electrode Polarity Reversal in Electrolysis",
+    "concept_tag": "electrolysis case based electrode polarity reversal in electrolysis",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6b90d877ee9e828771a18a987c5df64cddf3f4fff07c08a2f03295f7a0832f07",
+    "question_skeleton": "case scenario a student accidentally connects an electrolytic cell containing copper ii sulphate solution to a 220v 50hz alternating current ac mains socket stepped down to 6v ac instead of a direct current dc battery investigative question what happens in the cell when alternating current is used and why is dc mandatory for electrolysis choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_13_c5a560",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 13: Electrolytic vs Metallic Conduction: Temperature Coefficient Contrast",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physics and chemistry lab measures the electrical conductivity of two conductors as temperature increases from 20°C to 80°C: Conductor 1: Pure Copper wire Conductor 2: 1.0 M aqueous Potassium Chloride (KCl) solution **Investigative Question:** How does electrical conductivity change with increasing temperature in Conductor 1 versus Conductor 2? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Conductivity increases in both conductors."
+      },
+      {
+        "key": "B",
+        "text": "In Conductor 1 (metallic), conductivity DECREASES because increased thermal vibration of lattice metal ions scatters conduction electrons; in Conductor 2 (electrolytic), conductivity INCREASES because increased thermal energy reduces solvent viscosity and increases ion velocity and degree of dissociation."
+      },
+      {
+        "key": "C",
+        "text": "Conductivity decreases in both conductors."
+      },
+      {
+        "key": "D",
+        "text": "Conductor 1 becomes an insulator, while Conductor 2 boils into a solid."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The mechanisms of charge transport are fundamentally different:\n1. Metallic conduction: Current is carried by free valence electrons moving through a lattice of positive metal kernels. As temperature rises, kernels vibrate vigorously about their mean lattice positions, increasing electron collision frequency and electrical resistance (conductivity drops).\n2. Electrolytic conduction: Current is carried by physical translation of hydrated ions through the liquid solvent. As temperature rises: (a) solvent viscosity decreases, reducing drag; (b) ion kinetic velocity increases; (c) for weak electrolytes, degree of dissociation (α) increases. Hence, electrolytic conductivity rises with temperature.",
+    "concept_name": "Ionic Mobility vs Lattice Vibration Scattering",
+    "concept_tag": "electrolysis case based ionic mobility vs lattice vibration scattering",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a52451efdb363ace2d7808095ff08323808db536f49ed40968d157f50a4c964a",
+    "question_skeleton": "case scenario a physics and chemistry lab measures the electrical conductivity of two conductors as temperature increases from 20 c to 80 c conductor 1 pure copper wire conductor 2 1 0 m aqueous potassium chloride kcl solution investigative question how does electrical conductivity change with increasing temperature in conductor 1 versus conductor 2 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_14_dd7148",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 14: Electrolysis of Copper(II) Chloride Solution with Carbon Electrodes",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student electrolyzes a green aqueous solution of Copper(II) chloride (CuCl₂) using inert graphite electrodes. Observation 1: A reddish-brown crystalline deposit forms on the cathode. Observation 2: A greenish-yellow gas with a choking odor evolves at the anode, which turns moist starch-iodide paper blue-black. **Investigative Question:** What are the half-cell reactions occurring at the cathode and anode? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cathode: 2H⁺ + 2e⁻ → H₂; Anode: 4OH⁻ - 4e⁻ → 2H₂O + O₂"
+      },
+      {
+        "key": "B",
+        "text": "Cathode: Cu²⁺ + 2e⁻ → Cu(s) (reddish-brown metal); Anode: 2Cl⁻ - 2e⁻ → Cl₂(g) (greenish-yellow gas)."
+      },
+      {
+        "key": "C",
+        "text": "Cathode: Cu²⁺ + 2Cl⁻ → CuCl₂; Anode: H₂O → H₂ + O₂"
+      },
+      {
+        "key": "D",
+        "text": "Cathode: 2Cl⁻ - 2e⁻ → Cl₂; Anode: Cu²⁺ + 2e⁻ → Cu"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In aqueous CuCl₂, ions present are Cu²⁺, H⁺, Cl⁻, OH⁻.\n- At Cathode (negative): Cu²⁺ is lower than H⁺ in the electrochemical series and gains electrons preferentially: Cu²⁺ + 2e⁻ → Cu(s) (reddish-brown metallic deposit).\n- At Anode (positive): Both Cl⁻ and OH⁻ migrate. Because of the relatively high concentration of chloride ions in copper(II) chloride solution, Cl⁻ is discharged preferentially over OH⁻: 2Cl⁻ - 2e⁻ → Cl₂(g)↑ (greenish-yellow gas that turns starch-iodide paper blue-black).",
+    "concept_name": "Brown Copper and Greenish-Yellow Chlorine Evolution",
+    "concept_tag": "electrolysis case based brown copper and greenish-yellow chlorine evolution",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4e98738d864cb91bab8d9d02c5c99dfbe8f9fc2f50811f33008a329f2a05b213",
+    "question_skeleton": "case scenario a student electrolyzes a green aqueous solution of copper ii chloride cucl using inert graphite electrodes observation 1 a reddish brown crystalline deposit forms on the cathode observation 2 a greenish yellow gas with a choking odor evolves at the anode which turns moist starch iodide paper blue black investigative question what are the half cell reactions occurring at the cathode and anode choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_15_dd16b7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 15: Electroplating an Iron Nail with Copper",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student wants to electroplate an iron nail with a bright, uniform coating of copper to protect it from rusting. The student gathers a copper strip, the iron nail, and a beaker of acidified Copper(II) sulphate solution. **Investigative Question:** What is the correct setup for the electroplating circuit? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The iron nail must be made the Anode, the copper strip the Cathode, using water as electrolyte."
+      },
+      {
+        "key": "B",
+        "text": "The iron nail must be made the Cathode (connected to negative terminal of DC battery); the copper strip must be made the Anode (connected to positive terminal); the electrolyte is acidified Copper(II) sulphate solution."
+      },
+      {
+        "key": "C",
+        "text": "Both the nail and copper strip are connected to the positive terminal."
+      },
+      {
+        "key": "D",
+        "text": "The nail is submerged in dry salt and connected to alternating current."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The three golden rules of electroplating:\n1. The article to be electroplated (iron nail) must ALWAYS be made the CATHODE (negative electrode), because metal cations (Cu²⁺) are positively charged and migrate to the negative electrode to be reduced to neutral metal atoms: Cu²⁺ + 2e⁻ → Cu.\n2. The ANODE must be a pure block of the plating metal (copper strip), which dissolves to replenish the consumed ions: Cu - 2e⁻ → Cu²⁺.\n3. The ELECTROLYTE must be a soluble salt of the plating metal (acidified CuSO₄ solution).",
+    "concept_name": "Cathode, Anode, and Electrolyte Selection Rules",
+    "concept_tag": "electrolysis case based cathode, anode, and electrolyte selection rules",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4171606d305bfe74a1b153e0d0078936911d2c1859758440c00ff95645dfb8d0",
+    "question_skeleton": "case scenario a student wants to electroplate an iron nail with a bright uniform coating of copper to protect it from rusting the student gathers a copper strip the iron nail and a beaker of acidified copper ii sulphate solution investigative question what is the correct setup for the electroplating circuit choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_16_a217ca",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 16: Current Density and Adherence in Electroplating",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electroplating technician tests two different current settings when nickel-plating brass door handles: Setting A: High current (10 Amperes) for 2 minutes. Setting B: Low, steady current (1.5 Amperes) for 15 minutes. Handle A has a dark, rough, powdery, flaky deposit that peels off when wiped with a cloth. Handle B has a brilliant, smooth, lustrous, strongly adherent nickel finish that resists scratching. **Investigative Question:** Why does a low current passed for a longer time produce a superior electroplated coating compared to a high current? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "High current boils the brass handle into a liquid."
+      },
+      {
+        "key": "B",
+        "text": "A high current causes rapid, chaotic deposition of large, loosely packed metal crystals and concurrent hydrogen gas evolution that bubbles through and blisters the deposit; a low current allows metal atoms to nucleate slowly and pack into an ultra-fine, uniform, compact, tightly adherent crystalline layer."
+      },
+      {
+        "key": "C",
+        "text": "Low current changes nickel into silver."
+      },
+      {
+        "key": "D",
+        "text": "High current drains all electrons from the battery."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In electroplating, film morphology is governed by the rate of cation discharge versus crystal nucleation rate. When current density is excessively high (Setting A), metal cations are depleted near the electrode surface faster than diffusion can replenish them, causing co-deposition of H⁺ ions (forming H₂ gas bubbles that pit and blister the surface) and creating coarse, dendritic, loosely bound crystals that flake off. A low, steady current (Setting B) ensures that metal atoms deposit at a measured pace, fitting tightly into microscopic surface crevices and forming a smooth, uniform, scratch-resistant coating.",
+    "concept_name": "Why Low Current and Extended Time Yield Superior Plating",
+    "concept_tag": "electrolysis case based why low current and extended time yield superior plating",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "844c4193dde34f0a86558d6f94c61b763110d0f0edcdf6159c7781d723333c43",
+    "question_skeleton": "case scenario an electroplating technician tests two different current settings when nickel plating brass door handles setting a high current 10 amperes for 2 minutes setting b low steady current 1 5 amperes for 15 minutes handle a has a dark rough powdery flaky deposit that peels off when wiped with a cloth handle b has a brilliant smooth lustrous strongly adherent nickel finish that resists scratching investigative question why does a low current passed for a longer time produce a superior electroplated coating compared to a high current choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_17_93d154",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 17: Why Pure Water Does Not Undergo Significant Electrolysis",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student connects two platinum electrodes to a 12V battery and dips them into a beaker of pure deionised water. A sensitive microammeter in the circuit registers virtually zero current (less than 1 microampere), and no visible gas bubbles form at the electrodes. When two drops of dilute sulphuric acid are stirred into the water, the ammeter needle deflects to 500 mA, and gas bubbles immediately froth vigorously at both electrodes. **Investigative Question:** Why is pure water essentially a non-electrolyte, and what chemical role does the acid play? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Water contains no atoms until acid is added."
+      },
+      {
+        "key": "B",
+        "text": "Pure water is composed almost entirely of unionised covalent H₂O molecules with an extremely low degree of self-ionisation (Kw = 1.0 × 10⁻¹⁴, providing only 10⁻⁷ mol/L of H⁺ and OH⁻ ions); adding dilute H₂SO₄ provides a vast concentration of mobile ions (H⁺ and SO₄²⁻) that conduct electric current."
+      },
+      {
+        "key": "C",
+        "text": "The acid melts the platinum electrodes to release electrons."
+      },
+      {
+        "key": "D",
+        "text": "Water molecules are insulators that absorb electricity into steam."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Pure water is a polar covalent compound with very little autoionisation: 2H₂O ⇌ H₃O⁺ + OH⁻. At 25°C, [H⁺] = [OH⁻] = 1.0 × 10⁻⁷ M, meaning only about one in every 550 million water molecules is ionised. This minuscule concentration of charge carriers is far too low to sustain measurable electric current. Dilute sulphuric acid is a strong electrolyte that dissociates completely into H⁺ and SO₄²⁻ ions. Adding acid introduces a dense population of mobile ions, turning the liquid into an excellent conductor.",
+    "concept_name": "Extremely Low Degree of Dissociation ($K_w = 10^{-14}$)",
+    "concept_tag": "electrolysis case based extremely low degree of dissociation ($k_w = 10^{-14}$)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2134549713d2313b07c3811e65d4140953d33a22f89121b5167b2fbc5a4d52a2",
+    "question_skeleton": "case scenario a student connects two platinum electrodes to a 12v battery and dips them into a beaker of pure deionised water a sensitive microammeter in the circuit registers virtually zero current less than 1 microampere and no visible gas bubbles form at the electrodes when two drops of dilute sulphuric acid are stirred into the water the ammeter needle deflects to 500 ma and gas bubbles immediately froth vigorously at both electrodes investigative question why is pure water essentially a non electrolyte and what chemical role does the acid play choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_18_1d58c3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 18: Anodizing of Aluminium: Protective Oxide Layer Growth",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In aerospace and consumer electronics manufacturing (such as smartphone casings), aluminium metal parts are subjected to 'anodizing'. The aluminium article is made the Anode in an electrolytic bath of dilute Sulphuric acid at 20°C. **Investigative Question:** What is the chemical reaction occurring at the aluminium anode, and what property does anodizing confer on the metal? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Aluminium dissolves into liquid aluminium sulphate."
+      },
+      {
+        "key": "B",
+        "text": "Oxygen evolved at the anode reacts electrochemically with the aluminium surface to grow a thick, hard, corrosion-resistant, porous layer of Aluminium Oxide (Al₂O₃), which can be dyed in brilliant colors and sealed: 2Al + 3[O] → Al₂O₃."
+      },
+      {
+        "key": "C",
+        "text": "Aluminium reacts with sulphuric acid to produce hydrogen gas bubbles."
+      },
+      {
+        "key": "D",
+        "text": "The aluminium article is electroplated with metallic lead."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In anodizing, aluminium is intentionally made the ANODE (hence 'anodizing') in dilute H₂SO₄. At the anode, water is oxidised to liberate nascent oxygen: 2H₂O - 4e⁻ → 4H⁺ + O₂. The active nascent oxygen reacts immediately with the aluminium substrate: 2Al + 3[O] → Al₂O₃. This electrochemically grows an adherent, microscopic oxide film that is hundreds of times thicker than the natural oxide layer. The porous structure allows absorbing organic dyes (for colorful phone casings) and, upon boiling in water, hydrates into sealed, rock-hard, scratch-proof, corrosion-resistant corundum-like coating.",
+    "concept_name": "Electrochemical Formation of Porous $Al_2O_3$",
+    "concept_tag": "electrolysis case based electrochemical formation of porous $al_2o_3$",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "94eb674432e067a608726b1fbddd9179f6c2f6c26f2187c39fc33821fd007c5e",
+    "question_skeleton": "case scenario in aerospace and consumer electronics manufacturing such as smartphone casings aluminium metal parts are subjected to anodizing the aluminium article is made the anode in an electrolytic bath of dilute sulphuric acid at 20 c investigative question what is the chemical reaction occurring at the aluminium anode and what property does anodizing confer on the metal choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_19_219b33",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 19: Down's Cell: Electrolysis of Molten $NaCl$ to Extract Sodium",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In the industrial Down's cell, metallic Sodium is extracted by the electrolysis of molten Sodium Chloride. Pure NaCl has a melting point of 801°C, which is dangerously close to the boiling point of sodium metal (883°C), creating severe vaporization and sodium fog hazards. The chemical engineers add Calcium Chloride (CaCl₂) to the molten bath. **Investigative Question:** Why is Calcium Chloride added to the sodium chloride electrolyte in Down's cell? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Calcium chloride acts as a chemical catalyst that produces chlorine gas."
+      },
+      {
+        "key": "B",
+        "text": "Adding CaCl₂ forms a eutectic mixture that lowers the melting point from 801°C to ~600°C, well below the boiling point of sodium, saving energy and preventing sodium vaporization."
+      },
+      {
+        "key": "C",
+        "text": "Calcium chloride prevents electricity from leaking into the ground."
+      },
+      {
+        "key": "D",
+        "text": "Calcium chloride oxidises sodium into sodium oxide."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Two critical issues afflict pure molten NaCl electrolysis: (1) Melting point is 801°C, which requires immense energy; (2) Sodium metal boils at 883°C and forms a colloidal 'sodium fog' in molten NaCl at 800°C that shorts out the cell. By adding anhydrous CaCl₂ in a 2:1 ratio, a eutectic mixture is formed that melts at ~600°C. At 600°C, sodium is a liquid that does not vaporize or form fog, allowing liquid sodium metal (density 0.97 g/cm³) to rise cleanly and float to the collection riser above the circular iron cathode.",
+    "concept_name": "Calcium Chloride Addition to Lower Melting Point",
+    "concept_tag": "electrolysis case based calcium chloride addition to lower melting point",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "eedd2265552bb8daa55162119bb3f8b641cc6f3558b358e7670c77ead64220b7",
+    "question_skeleton": "case scenario in the industrial down s cell metallic sodium is extracted by the electrolysis of molten sodium chloride pure nacl has a melting point of 801 c which is dangerously close to the boiling point of sodium metal 883 c creating severe vaporization and sodium fog hazards the chemical engineers add calcium chloride cacl to the molten bath investigative question why is calcium chloride added to the sodium chloride electrolyte in down s cell choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_20_2a3f23",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 20: Faraday's Second Law of Electrolysis: Series Cells",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An investigator connects three electrolytic cells in series to the same DC power supply so that the identical quantity of electricity (1 Faraday = 96,500 C) passes through all three: Cell 1 contains Silver nitrate solution (AgNO₃, atomic mass Ag = 108.0) Cell 2 contains Copper(II) sulphate solution (CuSO₄, atomic mass Cu = 63.5) Cell 3 contains Aluminium chloride solution (AlCl₃, atomic mass Al = 27.0) **Investigative Question:** What mass of Silver, Copper, and Aluminium will be deposited at the respective cathodes? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "108.0 g of Ag; 63.5 g of Cu; 27.0 g of Al"
+      },
+      {
+        "key": "B",
+        "text": "108.0 g of Ag; 31.75 g of Cu; 9.0 g of Al (masses deposited are proportional to their equivalent masses: E = Atomic mass / Valency)."
+      },
+      {
+        "key": "C",
+        "text": "54.0 g of Ag; 31.75 g of Cu; 13.5 g of Al"
+      },
+      {
+        "key": "D",
+        "text": "10.0 g of each metal"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Faraday's Second Law of Electrolysis states that when the same quantity of electricity is passed through different electrolytes connected in series, the masses of substances deposited or liberated at the electrodes are directly proportional to their chemical equivalent masses (E = Atomic Mass / Valency).\n- For Silver (Ag⁺, valency 1): Equivalent mass = 108.0 / 1 = 108.0 g. 1 F deposits 108.0 g.\n- For Copper (Cu²⁺, valency 2): Equivalent mass = 63.5 / 2 = 31.75 g. 1 F deposits 31.75 g.\n- For Aluminium (Al³⁺, valency 3): Equivalent mass = 27.0 / 3 = 9.0 g. 1 F deposits 9.0 g.",
+    "concept_name": "Equivalent Mass Deposition in Connected Electrolytic Cells",
+    "concept_tag": "electrolysis case based equivalent mass deposition in connected electrolytic cells",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9203c7ac2925fe7e759ee62dad4412ce10fc9fd3dd146ecf30b11ad5333ef336",
+    "question_skeleton": "case scenario an investigator connects three electrolytic cells in series to the same dc power supply so that the identical quantity of electricity 1 faraday 96 500 c passes through all three cell 1 contains silver nitrate solution agno atomic mass ag 108 0 cell 2 contains copper ii sulphate solution cuso atomic mass cu 63 5 cell 3 contains aluminium chloride solution alcl atomic mass al 27 0 investigative question what mass of silver copper and aluminium will be deposited at the respective cathodes choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_21_662fc1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 21: Why Aqueous Aluminium Salts Cannot Be Used to Extract Aluminium",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A high school student suggests that rather than spending colossal energy melting bauxite with cryolite at 950°C, aluminium smelters should simply electrolyze an aqueous solution of Aluminium sulphate, Al₂(SO₄)₃, at room temperature. **Investigative Question:** Why is it thermodynamically impossible to extract aluminium metal by electrolyzing aqueous aluminium salt solutions? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Aluminium sulphate is completely insoluble in water."
+      },
+      {
+        "key": "B",
+        "text": "In an aqueous solution, both Al³⁺ and H⁺ ions migrate to the cathode; because Hydrogen is much lower than Aluminium in the electrochemical series (higher reduction potential: E° H⁺/H₂ = 0.00 V vs Al³⁺/Al = -1.66 V), H⁺ ions are discharged preferentially, evolving Hydrogen gas while Aluminium remains as ions in solution."
+      },
+      {
+        "key": "C",
+        "text": "Aluminium metal dissolves glass containers when wet."
+      },
+      {
+        "key": "D",
+        "text": "Electricity cannot pass through aluminium solutions."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In aqueous solution, water provides H⁺ and OH⁻ ions alongside Al³⁺ and SO₄²⁻. Aluminium sits very high in the electrochemical activity series (K, Na, Ca, Mg, Al). The standard reduction potential of Al³⁺ is -1.66 V, whereas that of H⁺ is 0.00 V. Positively charged H⁺ ions accept electrons far more greedily than Al³⁺. When electric current is applied, H⁺ ions are reduced at the cathode, evolving H₂ gas (2H⁺ + 2e⁻ → H₂↑), leaving Al³⁺ untouched in solution. Therefore, highly reactive metals (K, Na, Ca, Mg, Al) can only be extracted from anhydrous fused/molten salts.",
+    "concept_name": "Electrochemical Series Position Relative to Hydrogen",
+    "concept_tag": "electrolysis case based electrochemical series position relative to hydrogen",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2fdeec8e0f4dcac1d4726137687109d86309fe8eeeb1f4114919d460d508b441",
+    "question_skeleton": "case scenario a high school student suggests that rather than spending colossal energy melting bauxite with cryolite at 950 c aluminium smelters should simply electrolyze an aqueous solution of aluminium sulphate al so at room temperature investigative question why is it thermodynamically impossible to extract aluminium metal by electrolyzing aqueous aluminium salt solutions choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_22_f9ff43",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 22: Anode Mud in Copper Refining: Gold and Silver Economics",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a copper refining plant processing 100,000 tons of blister copper per year, the primary profit margin does not come from the copper itself, but from the processing of the grey-black slime collected beneath the anodes ('anode mud'). **Investigative Question:** What valuable noble metals are recovered from copper anode mud, and why did they not dissolve during electrolysis? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Titanium and Chromium; they did not dissolve because they are magnetic."
+      },
+      {
+        "key": "B",
+        "text": "Gold, Silver, and Platinum; they did not dissolve because they have higher standard reduction potentials (less electropositive) than copper and do not oxidise at the operating voltage of the copper refining cell."
+      },
+      {
+        "key": "C",
+        "text": "Lead and Iron; they did not dissolve because they are insoluble in water."
+      },
+      {
+        "key": "D",
+        "text": "Uranium and Plutonium; they did not dissolve because they are radioactive."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Blister copper contains small percentages of noble metals (Au, Ag, Pt) present in the original chalcopyrite ore. During electrorefining, the cell voltage is held strictly at ~0.25 V—just enough to oxidise Cu (E° = +0.34 V). Silver (E° = +0.80 V), Platinum (+1.18 V), and Gold (+1.50 V) require vastly higher oxidation voltages to lose electrons. As copper atoms dissolve from the anode into the electrolyte, the un-ionised noble metal atoms simply fall out of the disintegrating anode lattice and settle as anode mud, which is refined to recover millions of dollars worth of pure gold and silver.",
+    "concept_name": "Cost Offset in Industrial Metallurgy",
+    "concept_tag": "electrolysis case based cost offset in industrial metallurgy",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "28316e7c0c279aa6c930b0b4f2e6a39edeb602285f4e3da59fd8dea74cb13097",
+    "question_skeleton": "case scenario in a copper refining plant processing 100 000 tons of blister copper per year the primary profit margin does not come from the copper itself but from the processing of the grey black slime collected beneath the anodes anode mud investigative question what valuable noble metals are recovered from copper anode mud and why did they not dissolve during electrolysis choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_23_40e51d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 23: Voltaic (Galvanic) Cell vs Electrolytic Cell: Direction of Spontaneity",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physics and chemistry interdisciplinary seminar compares a Daniell Voltaic Cell (Zinc-Copper battery) with an Electrolytic Electroplating Cell. **Investigative Question:** What is the fundamental difference in energy conversion and thermodynamic spontaneity between an electrochemical (galvanic) cell and an electrolytic cell? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Galvanic cell uses AC current; electrolytic cell uses DC current."
+      },
+      {
+        "key": "B",
+        "text": "A Galvanic cell converts chemical energy into electrical energy spontaneously (ΔG < 0); an Electrolytic cell converts electrical energy into non-spontaneous chemical changes (ΔG > 0) driven by an external power source."
+      },
+      {
+        "key": "C",
+        "text": "Galvanic cells operate only in outer space; electrolytic cells operate only in water."
+      },
+      {
+        "key": "D",
+        "text": "Electrolytic cells produce electricity without any chemicals."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The fundamental distinction in electrochemistry:\n1. Galvanic (Voltaic) cell: A spontaneous redox reaction (Gibbs free energy change ΔG < 0) generates electric current. Chemical energy is converted into electrical energy (e.g., standard dry cell, car battery discharging, Daniell cell).\n2. Electrolytic cell: An external electrical power supply (battery or DC rectifier) forces a non-spontaneous redox reaction (ΔG > 0) to occur. Electrical energy is converted into chemical energy (e.g., electroplating, electrorefining, molten salt extraction).",
+    "concept_name": "Energy Conversion and Free Energy ($Delta G$)",
+    "concept_tag": "electrolysis case based energy conversion and free energy ($delta g$)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "485c02195511521fed3092d3ee1db52bb9fa51029d92137d4fd4a1c87ed9d0f4",
+    "question_skeleton": "case scenario a physics and chemistry interdisciplinary seminar compares a daniell voltaic cell zinc copper battery with an electrolytic electroplating cell investigative question what is the fundamental difference in energy conversion and thermodynamic spontaneity between an electrochemical galvanic cell and an electrolytic cell choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_24_8e647b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 24: Polarity of Electrodes in Galvanic vs Electrolytic Cells",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student is confused because in an Electrolytic cell, the Anode is POSITIVE and the Cathode is NEGATIVE; but in a Galvanic (Voltaic) battery, the Anode is NEGATIVE and the Cathode is POSITIVE. **Investigative Question:** What universal electrochemical definition holds true for both Galvanic and Electrolytic cells regarding the Anode and Cathode? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The anode always attracts cations and the cathode attracts anions."
+      },
+      {
+        "key": "B",
+        "text": "Oxidation (loss of electrons) ALWAYS occurs at the ANODE; Reduction (gain of electrons) ALWAYS occurs at the CATHODE in both types of cells."
+      },
+      {
+        "key": "C",
+        "text": "The anode is always made of copper and the cathode of zinc."
+      },
+      {
+        "key": "D",
+        "text": "The cathode is always connected to the wall socket."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The universal definitions of electrodes are based on electron transfer, not sign:\n- ANODE is ALWAYS the electrode where OXIDATION (loss of electrons) takes place.\n- CATHODE is ALWAYS the electrode where REDUCTION (gain of electrons) takes place.\nIn an electrolytic cell, the power supply pulls electrons from the positive electrode (Anode, +) and pushes electrons into the negative electrode (Cathode, -).\nIn a galvanic cell, spontaneous oxidation at the anode generates excess electrons, making it the negative terminal (Anode, -); electrons flow through the circuit to the cathode, where reduction consumes them, making it the positive terminal (Cathode, +).",
+    "concept_name": "Defining Anode as Oxidation and Cathode as Reduction",
+    "concept_tag": "electrolysis case based defining anode as oxidation and cathode as reduction",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "5475f956cc7432b0e0f5291c286ba1509d93da0c71311a9cfee64daac8097910",
+    "question_skeleton": "case scenario a student is confused because in an electrolytic cell the anode is positive and the cathode is negative but in a galvanic voltaic battery the anode is negative and the cathode is positive investigative question what universal electrochemical definition holds true for both galvanic and electrolytic cells regarding the anode and cathode choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_25_72280f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 25: Electrochemical Equivalent ($Z$): Mass Deposited by One Coulomb",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrochemist defines the Electrochemical Equivalent (Z) of Copper in the formula W = Z × I × t. The equivalent mass of copper is 31.75 g/equiv, and 1 Faraday = 96,500 Coulombs. **Investigative Question:** What is the exact physical definition and numerical value of the Electrochemical Equivalent (Z) of Copper? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mass of copper deposited by 1 Ampere in 1 hour; Z = 31.75 g/C"
+      },
+      {
+        "key": "B",
+        "text": "Mass of copper deposited by the passage of 1 Coulomb of electric charge (1 Ampere for 1 second); Z = Equivalent mass / 96,500 = 31.75 / 96,500 = 0.000329 g/C (or 0.329 mg/C)."
+      },
+      {
+        "key": "C",
+        "text": "Total mass of copper dissolved in 1 liter of water; Z = 63.5 g"
+      },
+      {
+        "key": "D",
+        "text": "Charge required to melt 1 gram of copper; Z = 96,500 C"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By Faraday's First Law: W = Z × Q = Z × I × t. When Q = 1 Coulomb (I = 1 A, t = 1 s), W = Z. Thus, the Electrochemical Equivalent (Z) is defined as the mass of an element liberated or deposited by the passage of exactly one Coulomb of electric charge. Since 1 Faraday (96,500 Coulombs) deposits 1 gram-equivalent (E) of an element:\nZ = E / 96,500.\nFor Copper(II): E = 63.5 / 2 = 31.75 g.\nZ = 31.75 / 96,500 = 0.000329 g/C = 3.29 × 10⁻⁴ g/C (or 0.329 mg/C).",
+    "concept_name": "Faraday's First Law Constant of Proportionality",
+    "concept_tag": "electrolysis case based faraday's first law constant of proportionality",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d0a70235b857eec99a45618320ac2f5cb331fe401b78d2c1d9ddd3efe25957b0",
+    "question_skeleton": "case scenario an electrochemist defines the electrochemical equivalent z of copper in the formula w z i t the equivalent mass of copper is 31 75 g equiv and 1 faraday 96 500 coulombs investigative question what is the exact physical definition and numerical value of the electrochemical equivalent z of copper choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_26_779335",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 26: Mass of Copper Deposited: $W = ZIt$ Quantitative Problem",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A steady direct current of 5.00 Amperes is passed through an acidified Copper(II) sulphate electroplating bath for exactly 32 minutes and 10 seconds (1930 seconds). The electrochemical equivalent of copper is Z = 0.000329 g/C. **Investigative Question:** What exact mass of pure copper is deposited on the cathode? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.00 g"
+      },
+      {
+        "key": "B",
+        "text": "3.175 g"
+      },
+      {
+        "key": "C",
+        "text": "6.35 g"
+      },
+      {
+        "key": "D",
+        "text": "0.329 g"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Current I = 5.00 A.\n2. Time t = 32 min 10 s = (32 × 60) + 10 = 1920 + 10 = 1930 seconds.\n3. Total electric charge Q = I × t = 5.00 A × 1930 s = 9650 Coulombs.\n4. Notice that 9650 Coulombs is exactly 0.100 Faraday (9650 / 96,500 = 0.100 F).\n5. Mass deposited W = Z × Q = 0.000329 g/C × 9650 C = 3.175 g (which is exactly 0.100 × equivalent mass of copper: 0.100 × 31.75 g = 3.175 g).",
+    "concept_name": "Electrolytic Mass Calculation",
+    "concept_tag": "electrolysis case based electrolytic mass calculation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e01da6537bc80403f43e7c15aa6f11c6a0b34b9c597e8d5d137fb40588995363",
+    "question_skeleton": "case scenario a steady direct current of 5 00 amperes is passed through an acidified copper ii sulphate electroplating bath for exactly 32 minutes and 10 seconds 1930 seconds the electrochemical equivalent of copper is z 0 000329 g c investigative question what exact mass of pure copper is deposited on the cathode choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_27_5b9df2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 27: Electrolysis of Molten $PbBr₂$: Why DC Source is Required",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student sets up the apparatus for the electrolysis of molten lead bromide using a step-down transformer connected directly to the AC mains. When the switch is closed, no lead deposits and no bromine is evolved. The instructor replaces the AC transformer with a 12V DC lead-acid car battery, and instantly lead begins depositing at the cathode. **Investigative Question:** Why is a direct current (DC) source indispensable for the electrolytic extraction of lead from molten lead bromide? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "AC current cools the lead bromide into a solid."
+      },
+      {
+        "key": "B",
+        "text": "DC current provides a fixed, unidirectional electric field where the cathode remains permanently negative (drawing Pb²⁺ cations for continuous reduction) and the anode remains permanently positive (drawing Br⁻ anions for continuous oxidation); AC alternates polarity rapidly, preventing sustained directional mass transfer."
+      },
+      {
+        "key": "C",
+        "text": "AC current burns the graphite electrodes."
+      },
+      {
+        "key": "D",
+        "text": "Lead bromide is an electrical insulator under DC current."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electrolysis requires continuous unidirectional separation of matter. In molten PbBr₂, Pb²⁺ cations must move toward a persistent negative electrode (cathode) to gain electrons, and Br⁻ anions must move toward a persistent positive electrode (anode) to lose electrons. A DC battery maintains permanent electrode signs (+ and -). With AC, polarity reverses 50 or 60 times a second; ions oscillate back and forth within a fraction of a millimeter without ever reaching the electrodes or discharging permanently.",
+    "concept_name": "Unidirectional Migration of Ions",
+    "concept_tag": "electrolysis case based unidirectional migration of ions",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0443ab32e384801aa3bc5581782050ffa71f88c87d6f1d3937e124b36cef8bed",
+    "question_skeleton": "case scenario a student sets up the apparatus for the electrolysis of molten lead bromide using a step down transformer connected directly to the ac mains when the switch is closed no lead deposits and no bromine is evolved the instructor replaces the ac transformer with a 12v dc lead acid car battery and instantly lead begins depositing at the cathode investigative question why is a direct current dc source indispensable for the electrolytic extraction of lead from molten lead bromide choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_28_48354d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 28: Why Sugar and Pure Ethanol Solutions Fail to Conduct Electricity",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an electrical conductance laboratory, a student tests two clear aqueous solutions: Solution 1: 10% Table Sugar (Sucrose, C₁₂H₂₂O₁₁) in distilled water Solution 2: 10% Ethanol (C₂H₅OH) in distilled water A sensitive light bulb in series with a 12V battery shows ZERO glow in both solutions, and a sensitive ammeter reads 0.0 mA. **Investigative Question:** Why are aqueous solutions of sugar and alcohol completely non-conducting (non-electrolytes)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sugar and alcohol react with water to form plastic coatings on the electrodes."
+      },
+      {
+        "key": "B",
+        "text": "Sugar and alcohol are purely covalent molecular compounds that dissolve in water as intact, neutral, uncharged molecules via hydrogen bonding; they do not undergo ionisation or dissociation, providing zero mobile charged ions to conduct current."
+      },
+      {
+        "key": "C",
+        "text": "Distilled water destroys all electric charges."
+      },
+      {
+        "key": "D",
+        "text": "Sugar and alcohol conduct electricity only when heated above 1000°C."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electrolytic conduction in a liquid medium requires mobile charged particles (cations and anions). Sucrose (sugar) and ethanol are non-ionising covalent organic compounds. Although they dissolve in water due to favorable intermolecular hydrogen bonding with water dipoles, they dissolve as discrete, neutral, intact molecules: C₁₂H₂₂O₁₁(s) → C₁₂H₂₂O₁₁(aq). Because there are no free ions produced (no dissociation or chemical ionisation), the solution has zero electrical conductivity and is classified as a non-electrolyte.",
+    "concept_name": "Absence of Free Mobile Ions in Covalent Solutions",
+    "concept_tag": "electrolysis case based absence of free mobile ions in covalent solutions",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4f37ff06c32030f805d4f4b8e1b14f6e54b0e28ee22b7c45edcd93a6f49b6336",
+    "question_skeleton": "case scenario in an electrical conductance laboratory a student tests two clear aqueous solutions solution 1 10 table sugar sucrose c h o in distilled water solution 2 10 ethanol c h oh in distilled water a sensitive light bulb in series with a 12v battery shows zero glow in both solutions and a sensitive ammeter reads 0 0 ma investigative question why are aqueous solutions of sugar and alcohol completely non conducting non electrolytes choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_29_e78aad",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 29: Electrochemical Series: Preferential Discharge Order of Anions",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical solution contains equimolar concentrations of Sulphate (SO₄²⁻), Nitrate (NO₃⁻), Chloride (Cl⁻), and Hydroxide (OH⁻) ions. An inert platinum anode is placed in the solution at dilute concentrations. **Investigative Question:** Which anion will be discharged first at the platinum anode, and what is the relative order of ease of discharge of anions from hardest to easiest? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "SO₄²⁻ is discharged first; order is OH⁻ < Cl⁻ < NO₃⁻ < SO₄²⁻"
+      },
+      {
+        "key": "B",
+        "text": "OH⁻ is discharged first; ease of discharge increases in the order: SO₄²⁻ < NO₃⁻ < Cl⁻ < Br⁻ < I⁻ < OH⁻ (anions lower in the electrochemical series lose electrons with the greatest ease)."
+      },
+      {
+        "key": "C",
+        "text": "NO₃⁻ is discharged first because it contains nitrogen."
+      },
+      {
+        "key": "D",
+        "text": "Cl⁻ is discharged first because it has a single charge."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In the electrochemical series of anions, ions are arranged in increasing ease of oxidation (losing electrons): SO₄²⁻ < NO₃⁻ < Cl⁻ < Br⁻ < I⁻ < OH⁻. Sulphate and nitrate ions are extraordinarily stable oxyanions with high oxidation potentials (extremely difficult to discharge). The hydroxide ion (OH⁻) has the lowest discharge potential among common anions in dilute solution; it loses electrons preferentially: 4OH⁻ - 4e⁻ → 2H₂O + O₂↑.",
+    "concept_name": "Standard Oxidation Potentials of Anions",
+    "concept_tag": "electrolysis case based standard oxidation potentials of anions",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "800d91c45398be6d61443845c3ff092e18ebce7f8316a04176c4a4cb2ce9eeea",
+    "question_skeleton": "case scenario a chemical solution contains equimolar concentrations of sulphate so nitrate no chloride cl and hydroxide oh ions an inert platinum anode is placed in the solution at dilute concentrations investigative question which anion will be discharged first at the platinum anode and what is the relative order of ease of discharge of anions from hardest to easiest choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_30_e6abd8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 30: Electrochemical Series: Preferential Discharge Order of Cations",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An aqueous solution contains equimolar concentrations of Sodium (Na⁺), Zinc (Zn²⁺), Hydrogen (H⁺), and Copper (Cu²⁺) ions. An inert platinum cathode is energized with a gradual voltage sweep. **Investigative Question:** Which cation will be discharged first at the cathode, and what is the relative order of ease of discharge from hardest to easiest? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Na⁺ is discharged first; order is Cu²⁺ < H⁺ < Zn²⁺ < Na⁺"
+      },
+      {
+        "key": "B",
+        "text": "Cu²⁺ is discharged first; ease of discharge increases in the order: Na⁺ < Zn²⁺ < H⁺ < Cu²⁺ (cations lower in the series have higher reduction potentials and gain electrons most readily)."
+      },
+      {
+        "key": "C",
+        "text": "Zn²⁺ is discharged first because it is divalent."
+      },
+      {
+        "key": "D",
+        "text": "H⁺ is discharged first because it is the smallest ion."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In the electrochemical activity series of cations: K⁺ < Ca²⁺ < Na⁺ < Mg²⁺ < Al³⁺ < Zn²⁺ < Fe²⁺ < Pb²⁺ < H⁺ < Cu²⁺ < Ag⁺ < Au³⁺. Electropositive metals at the top hold electrons tightly and resist discharge (low reduction potential). Moving down the series, the tendency to accept electrons increases. Cu²⁺ (E° = +0.34 V) accepts electrons far more readily than H⁺ (0.00 V), Zn²⁺ (-0.76 V), or Na⁺ (-2.71 V). Therefore, Cu²⁺ is discharged first: Cu²⁺ + 2e⁻ → Cu(s).",
+    "concept_name": "Standard Reduction Potentials of Cations",
+    "concept_tag": "electrolysis case based standard reduction potentials of cations",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e3fd7bc50d2d42fadb5f31faa9533901ea9be69585a746205db091409b4b78c4",
+    "question_skeleton": "case scenario an aqueous solution contains equimolar concentrations of sodium na zinc zn hydrogen h and copper cu ions an inert platinum cathode is energized with a gradual voltage sweep investigative question which cation will be discharged first at the cathode and what is the relative order of ease of discharge from hardest to easiest choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_31_57fe5c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 31: Sacrificial Protection (Galvanization) of Iron by Zinc",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In marine engineering, steel ship hulls and underground iron water pipes are galvanized by coating with metallic Zinc. Even when the zinc coating is scratched and deeply gouged, exposing bare iron directly to moist air and saltwater, the underlying iron does NOT rust. **Investigative Question:** Why does Zinc protect Iron from corrosion even when the protective coating is scratched and damaged? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zinc is a noble metal that covers iron with diamond."
+      },
+      {
+        "key": "B",
+        "text": "Zinc is more electropositive than iron (lower reduction potential: E° Zn²⁺/Zn = -0.76 V vs Fe²⁺/Fe = -0.44 V); in the presence of moisture, a galvanic couple is formed where Zinc acts as the sacrificial anode and corrodes preferentially, while Iron acts as the cathode and remains completely protected: Zn → Zn²⁺ + 2e⁻."
+      },
+      {
+        "key": "C",
+        "text": "Zinc absorbs all moisture from the ocean."
+      },
+      {
+        "key": "D",
+        "text": "Iron becomes an inert noble gas when touched by zinc."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Galvanic corrosion depends on relative electrode potentials. Zinc is more reactive (more easily oxidised) than iron (Zn is above Fe in the reactivity series). When a scratch exposes iron, water and oxygen form an electrochemical cell. Zinc readily sacrifices its electrons: Zn → Zn²⁺ + 2e⁻. The electrons flow into the iron, making iron the cathode (cathodic protection). Because iron is flooded with electrons, Fe atoms cannot lose electrons to form Fe²⁺ (rust). In contrast, coating iron with tin (tinplate) accelerates rusting once scratched, because iron is more reactive than tin.",
+    "concept_name": "Electrochemical Protection and Galvanic Couple",
+    "concept_tag": "electrolysis case based electrochemical protection and galvanic couple",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7f8b80ec3d7abb29dcf39a0fce244c9eed46f94133bf6d11ad075c44aab6ede4",
+    "question_skeleton": "case scenario in marine engineering steel ship hulls and underground iron water pipes are galvanized by coating with metallic zinc even when the zinc coating is scratched and deeply gouged exposing bare iron directly to moist air and saltwater the underlying iron does not rust investigative question why does zinc protect iron from corrosion even when the protective coating is scratched and damaged choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_32_41e9b2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 32: Why Platinum Electrodes Are Called 'Inert' Electrodes",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrochemistry professor demonstrates the difference between inert and active electrodes by comparing two electrolytic cells containing Copper(II) sulphate: Cell 1 uses Platinum electrodes. Cell 2 uses Copper electrodes. **Investigative Question:** Why is Platinum classified as an 'inert' electrode, and how does its behavior differ fundamentally from an 'active' electrode? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Platinum conducts electricity without using electrons."
+      },
+      {
+        "key": "B",
+        "text": "An inert electrode (like Platinum or Graphite) serves merely as a physical conductor for electron transfer into or out of the solution without chemically participating, dissolving, or reacting with the electrolyte or products; an active electrode (like Copper) participates chemically in the reaction by oxidising and dissolving into the electrolyte."
+      },
+      {
+        "key": "C",
+        "text": "Platinum absorbs all ions into its crystal lattice."
+      },
+      {
+        "key": "D",
+        "text": "Active electrodes never lose mass during electrolysis."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "An 'inert electrode' is made of a noble material (platinum, gold, graphite) with very high standard electrode potentials. It does not lose or gain atoms; it functions purely as an electron source (cathode) or electron sink (anode) where ions in solution exchange electrons. In Cell 1, platinum remains untouched while OH⁻ from solution is oxidised to O₂. An 'active electrode' (like copper, nickel, silver) has a lower oxidation potential than the anions in solution; the electrode itself undergoes oxidation and dissolves: Cu(s) → Cu²⁺ + 2e⁻.",
+    "concept_name": "Non-Participation in Faradaic Half-Cell Reactions",
+    "concept_tag": "electrolysis case based non-participation in faradaic half-cell reactions",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0ed1111fa1b648787d57c7e97998bb46c89b24ae666198db97a9bf5b62f0e3bd",
+    "question_skeleton": "case scenario an electrochemistry professor demonstrates the difference between inert and active electrodes by comparing two electrolytic cells containing copper ii sulphate cell 1 uses platinum electrodes cell 2 uses copper electrodes investigative question why is platinum classified as an inert electrode and how does its behavior differ fundamentally from an active electrode choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_33_33cd78",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 33: Electrolysis of Fused vs Aqueous $NaCl$: Down's Cell vs Chlor-Alkali",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical engineering student contrasts the electrolysis of anhydrous molten Sodium Chloride (Down's cell) with the electrolysis of concentrated aqueous Sodium Chloride (Chlor-Alkali cell). **Investigative Question:** What are the products at the cathode in molten NaCl versus aqueous NaCl? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Molten: Chlorine gas; Aqueous: Sodium metal."
+      },
+      {
+        "key": "B",
+        "text": "Molten: Metallic Sodium (Na); Aqueous: Hydrogen gas (H₂)."
+      },
+      {
+        "key": "C",
+        "text": "Both produce metallic sodium at the cathode."
+      },
+      {
+        "key": "D",
+        "text": "Both produce hydrogen gas at the cathode."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The presence of water completely alters the cathodic reaction:\n1. In Molten NaCl: The only cations present are Na⁺. With no competing ions, Na⁺ must accept electrons: Na⁺ + e⁻ → Na(l) (pure metallic sodium is collected).\n2. In Aqueous NaCl (brine): Both Na⁺ and H⁺ (from water) are present. Because H⁺ is far easier to reduce than Na⁺ (reduction potential of H⁺ is 0.00 V vs Na⁺ is -2.71 V), H⁺ is discharged preferentially: 2H⁺ + 2e⁻ → H₂(g)↑. Thus, aqueous electrolysis yields Hydrogen gas, making molten electrolysis mandatory for extracting metallic sodium.",
+    "concept_name": "Electrode Products Contrast",
+    "concept_tag": "electrolysis case based electrode products contrast",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0e730f4a8eafc15fd4c28938eb8022ce9440c8aa944b14005ef573b7d2e0d535",
+    "question_skeleton": "case scenario a chemical engineering student contrasts the electrolysis of anhydrous molten sodium chloride down s cell with the electrolysis of concentrated aqueous sodium chloride chlor alkali cell investigative question what are the products at the cathode in molten nacl versus aqueous nacl choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_34_4b96c0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 34: Electrolysis of Dilute Sodium Chloride Solution",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analyst electrolyzes an extremely dilute (0.001 M) aqueous solution of Sodium Chloride using platinum electrodes. **Investigative Question:** What gases are evolved at the cathode and anode during the electrolysis of very DILUTE sodium chloride solution? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cathode: Sodium metal; Anode: Chlorine gas."
+      },
+      {
+        "key": "B",
+        "text": "Cathode: Hydrogen gas (H₂); Anode: Oxygen gas (O₂), exactly like the electrolysis of acidified water."
+      },
+      {
+        "key": "C",
+        "text": "Cathode: Chlorine gas; Anode: Hydrogen gas."
+      },
+      {
+        "key": "D",
+        "text": "Cathode: Oxygen gas; Anode: Sodium metal."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In very dilute NaCl, the concentration of Cl⁻ is extremely low. Therefore, the concentration overpotential does NOT apply. The standard electrochemical series determines discharge:\n- At Cathode: H⁺ is discharged preferentially over Na⁺: 2H⁺ + 2e⁻ → H₂(g).\n- At Anode: OH⁻ is lower in the electrochemical series than Cl⁻, and with Cl⁻ present in only trace amounts, OH⁻ is discharged preferentially: 4OH⁻ - 4e⁻ → 2H₂O + O₂(g).\nThus, the electrolysis of very dilute NaCl is chemically identical to the electrolysis of water: 2H₂O → 2H₂ + O₂.",
+    "concept_name": "Evolution of Oxygen Instead of Chlorine at Anode",
+    "concept_tag": "electrolysis case based evolution of oxygen instead of chlorine at anode",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e08d8f9b4da455e64564693d73bd370d2d02b7376e5491d59f9032a8ae3b4d13",
+    "question_skeleton": "case scenario an analyst electrolyzes an extremely dilute 0 001 m aqueous solution of sodium chloride using platinum electrodes investigative question what gases are evolved at the cathode and anode during the electrolysis of very dilute sodium chloride solution choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_35_40751b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 35: Calculation of Gas Volume Liberated at STP by a Given Electric Charge",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A steady current of 9.65 Amperes is passed through a water voltameter containing dilute sulphuric acid for 1000 seconds (total charge Q = 9650 Coulombs = 0.100 Faraday). **Investigative Question:** What volume of dry Hydrogen gas at STP is liberated at the cathode, and what volume of dry Oxygen gas at STP is liberated at the anode? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.12 L of H₂; 0.56 L of O₂"
+      },
+      {
+        "key": "B",
+        "text": "2.24 L of H₂; 1.12 L of O₂"
+      },
+      {
+        "key": "C",
+        "text": "0.56 L of H₂; 0.28 L of O₂"
+      },
+      {
+        "key": "D",
+        "text": "22.4 L of H₂; 11.2 L of O₂"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. Total charge passed = 9.65 A × 1000 s = 9650 Coulombs = 0.100 F.\n2. Cathode reaction: 2H⁺ + 2e⁻ → H₂.\n2 Faradays produce 1 mole (22.4 L at STP) of H₂.\n- 0.100 Faraday produces: (0.100 / 2) × 22.4 L = 1.12 L of H₂ at STP.\n3. Anode reaction: 4OH⁻ - 4e⁻ → 2H₂O + O₂.\n4 Faradays produce 1 mole (22.4 L at STP) of O₂.\n- 0.100 Faraday produces: (0.100 / 4) × 22.4 L = 0.56 L of O₂ at STP.\nNotice the 2:1 volume ratio: 1.12 L : 0.56 L.",
+    "concept_name": "Faraday to Molar Gas Volume Reduction",
+    "concept_tag": "electrolysis case based faraday to molar gas volume reduction",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "aea5563ea934a8ad185c1406b22a9afd0786de4bc734db690cf81855df73c605",
+    "question_skeleton": "case scenario a steady current of 9 65 amperes is passed through a water voltameter containing dilute sulphuric acid for 1000 seconds total charge q 9650 coulombs 0 100 faraday investigative question what volume of dry hydrogen gas at stp is liberated at the cathode and what volume of dry oxygen gas at stp is liberated at the anode choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_36_3c2ca8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 36: Why Lead Bromide Must Be in Molten (Fused) State to Conduct",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A student attempts to electrolyze dry, powdered solid Lead(II) bromide at room temperature using carbon electrodes connected to a 12V battery. The ammeter reads zero current. When the crucible is heated over a burner until the powder melts into a liquid, the ammeter needle jumps to 2.5 Amperes, and electrolysis begins. **Investigative Question:** Why is solid Lead(II) bromide a non-conductor, whereas molten Lead(II) bromide is an electrolyte? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Solid PbBr₂ contains no electrons."
+      },
+      {
+        "key": "B",
+        "text": "In the solid state, Pb²⁺ and Br⁻ ions are held rigidly in fixed lattice positions by powerful electrostatic forces and cannot translate; melting provides thermal kinetic energy that breaks the crystal lattice, freeing the ions to move and carry electric current."
+      },
+      {
+        "key": "C",
+        "text": "Heating creates lead atoms that conduct electricity like a copper wire."
+      },
+      {
+        "key": "D",
+        "text": "Bromine is a gas that conducts only when cold."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "An electrolyte must provide mobile charge carriers. In solid Lead(II) bromide, Pb²⁺ cations and Br⁻ anions are bound tightly in a rigid crystalline framework by strong electrostatic Coulombic forces. Electrons are localized, and ions can only vibrate in place. When heated above its melting point (373°C), thermal kinetic energy overcomes the lattice energy. The lattice breaks down into a mobile molten fluid where Pb²⁺ and Br⁻ ions can migrate freely under an electric potential gradient.",
+    "concept_name": "Ionic Mobility and Electrostatic Crystal Bonds",
+    "concept_tag": "electrolysis case based ionic mobility and electrostatic crystal bonds",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "53d7e41fada5f6ac5958c98fcb1428bdd644bbf2cf45e5fcb6b0a13fb6c3edff",
+    "question_skeleton": "case scenario a student attempts to electrolyze dry powdered solid lead ii bromide at room temperature using carbon electrodes connected to a 12v battery the ammeter reads zero current when the crucible is heated over a burner until the powder melts into a liquid the ammeter needle jumps to 2 5 amperes and electrolysis begins investigative question why is solid lead ii bromide a non conductor whereas molten lead ii bromide is an electrolyte choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_37_c49a4d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 37: Electroplating with Nickel: Chemical Equations",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A brass medal is electroplated with nickel in a bath of Nickel ammonium sulphate. The brass medal is connected to the negative terminal (cathode), and a pure nickel plate is connected to the positive terminal (anode). **Investigative Question:** What are the balanced ionic equations for the reactions occurring at the cathode and anode? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cathode: Ni - 2e⁻ → Ni²⁺; Anode: Ni²⁺ + 2e⁻ → Ni"
+      },
+      {
+        "key": "B",
+        "text": "Cathode: Ni²⁺ + 2e⁻ → Ni(s) (reduction); Anode: Ni(s) - 2e⁻ → Ni²⁺(aq) (oxidation)."
+      },
+      {
+        "key": "C",
+        "text": "Cathode: 2H⁺ + 2e⁻ → H₂; Anode: 4OH⁻ - 4e⁻ → 2H₂O + O₂"
+      },
+      {
+        "key": "D",
+        "text": "Cathode: Ni²⁺ + 2OH⁻ → Ni(OH)₂; Anode: Ni + 2H⁺ → Ni²⁺ + H₂"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In nickel electroplating:\n- Cathode (brass medal): Positively charged nickel ions from the solution migrate to the negative brass medal, gain two electrons each, and deposit as a smooth metallic nickel film: Ni²⁺(aq) + 2e⁻ → Ni(s) (reduction).\n- Anode (pure nickel plate): Neutral nickel atoms lose two electrons to the positive terminal and enter the solution as nickel ions: Ni(s) - 2e⁻ → Ni²⁺(aq) (oxidation).\nThe concentration of Ni²⁺ in the bath remains constant.",
+    "concept_name": "Anodic Dissolution and Cathodic Deposition",
+    "concept_tag": "electrolysis case based anodic dissolution and cathodic deposition",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "400c7008da7a0fb02462862b536308b489cd5d5b2a56be448e7b8b99a7e94786",
+    "question_skeleton": "case scenario a brass medal is electroplated with nickel in a bath of nickel ammonium sulphate the brass medal is connected to the negative terminal cathode and a pure nickel plate is connected to the positive terminal anode investigative question what are the balanced ionic equations for the reactions occurring at the cathode and anode choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_38_654ef1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 38: Electrochemical Series: Hydrogen Overpotential on Mercury Cathode",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In the industrial Castner-Kellner process for manufacturing sodium hydroxide, brine is electrolyzed using a flowing liquid Mercury cathode. Under standard conditions, H⁺ should discharge preferentially over Na⁺. However, on a mercury cathode, metallic Sodium is discharged instead, dissolving into mercury to form Sodium Amalgam (Na–Hg). **Investigative Question:** Why is Sodium discharged at the mercury cathode in preference to Hydrogen? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mercury is a solid metal that attracts sodium atoms."
+      },
+      {
+        "key": "B",
+        "text": "Hydrogen has an extraordinarily high discharge overpotential (overvoltage) on a mercury cathode, making H⁺ discharge kinetically unfavorable, while Sodium readily discharges and dissolves exothermically into mercury to form stable Sodium Amalgam: Na⁺ + e⁻ + Hg → Na–Hg."
+      },
+      {
+        "key": "C",
+        "text": "Mercury chemically destroys hydrogen ions."
+      },
+      {
+        "key": "D",
+        "text": "Brine contains no water molecules in the Castner-Kellner cell."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Under standard equilibrium conditions, H⁺ discharges at 0.00 V while Na⁺ requires -2.71 V. However, on a liquid Mercury cathode, hydrogen gas evolution has a very high kinetic activation barrier known as 'overpotential' (~1.0 V). Furthermore, sodium atoms dissolve into liquid mercury with the release of significant free energy to form an amalgam: Na⁺ + e⁻ + xHg → NaHg_x. This shifts the discharge potential of sodium positively, making Na⁺ discharge faster and more favorable than H₂ evolution.",
+    "concept_name": "Castner-Kellner Cell and Sodium Amalgam Formation",
+    "concept_tag": "electrolysis case based castner-kellner cell and sodium amalgam formation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "6330c84042f4698623ff82c67632286b93e89cc83eb2de7533a820c39e9c29ae",
+    "question_skeleton": "case scenario in the industrial castner kellner process for manufacturing sodium hydroxide brine is electrolyzed using a flowing liquid mercury cathode under standard conditions h should discharge preferentially over na however on a mercury cathode metallic sodium is discharged instead dissolving into mercury to form sodium amalgam na hg investigative question why is sodium discharged at the mercury cathode in preference to hydrogen choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_39_4ce0ed",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 39: Faraday's Law: Time Required to Deposit a Given Mass",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electroplating technician wants to deposit exactly 10.8 g of pure Silver (Ag, atomic mass = 108.0 g/mol, valency = 1) onto a decorative tea set using a steady DC current of 2.00 Amperes in a silver plating bath. Faraday constant = 96,500 C/mol. **Investigative Question:** How long must the 2.00 A current be passed to deposit exactly 10.8 g of silver? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "9650 seconds (or 2 hours 40 minutes 50 seconds)"
+      },
+      {
+        "key": "B",
+        "text": "4825 seconds (or 1 hour 20 minutes 25 seconds)"
+      },
+      {
+        "key": "C",
+        "text": "19,300 seconds"
+      },
+      {
+        "key": "D",
+        "text": "1000 seconds"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Moles of Silver to deposit = Mass / Atomic mass = 10.8 g / 108.0 g/mol = 0.100 mol.\n2. Cathode reaction: Ag⁺ + e⁻ → Ag.\nDepositing 1 mole of Ag requires 1 Faraday (96,500 C).\n- Depositing 0.100 mol of Ag requires: 0.100 × 96,500 C = 9650 Coulombs.\n3. By definition: Q = I × t → t = Q / I.\nt = 9650 C / 2.00 A = 4825 seconds.\n4. In minutes/hours: 4825 / 60 = 80 minutes and 25 seconds = 1 hour, 20 minutes, 25 seconds.",
+    "concept_name": "Quantitative Electroplating Time Calculation",
+    "concept_tag": "electrolysis case based quantitative electroplating time calculation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "226d231a6fcc851684d65f990e6c8fe7864193af90ac3ea52831f32fa18f76f6",
+    "question_skeleton": "case scenario an electroplating technician wants to deposit exactly 10 8 g of pure silver ag atomic mass 108 0 g mol valency 1 onto a decorative tea set using a steady dc current of 2 00 amperes in a silver plating bath faraday constant 96 500 c mol investigative question how long must the 2 00 a current be passed to deposit exactly 10 8 g of silver choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_40_76c95c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 40: Weak Electrolytes: Acetic Acid vs Hydrochloric Acid Dissociation",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An analytical chemist measures the molar conductivities (Λ_m) of 0.1 M Hydrochloric acid (HCl) and 0.1 M Acetic acid (CH₃COOH) at 25°C. HCl has a molar conductivity of 391 S·cm²/mol, whereas Acetic acid has a molar conductivity of only 5.2 S·cm²/mol. **Investigative Question:** Why is the electrical conductivity of 0.1 M Acetic acid less than 2% of the conductivity of 0.1 M Hydrochloric acid at identical concentration? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Acetic acid is a non-polar hydrocarbon that repels electricity."
+      },
+      {
+        "key": "B",
+        "text": "HCl is a strong electrolyte that is virtually 100% ionised in water, providing a high concentration of free mobile ions; Acetic acid is a weak electrolyte with a very low degree of dissociation (α ≈ 1.3%), existing predominantly as neutral undissociated covalent molecules."
+      },
+      {
+        "key": "C",
+        "text": "Hydrochloric acid contains dissolved copper ions."
+      },
+      {
+        "key": "D",
+        "text": "Acetic acid decomposes into solid carbon in water."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electrical conductivity of an electrolyte depends on the number of free mobile ions per unit volume. In 0.1 M HCl, a strong electrolyte, ionisation is essentially complete: HCl + H₂O → H₃O⁺ + Cl⁻ (α ≈ 1.0), yielding ~0.1 M [H₃O⁺]. In 0.1 M CH₃COOH, a weak organic acid, an equilibrium exists: CH₃COOH + H₂O ⇌ H₃O⁺ + CH₃COO⁻. Because Ka = 1.8 × 10⁻⁵, its degree of dissociation is α = √(Ka / C) = √(1.8 × 10⁻⁵ / 0.1) = 0.0134 (only ~1.3%). More than 98.7% of the acetic acid remains as neutral, non-conducting molecules, resulting in very low conductivity.",
+    "concept_name": "Partial Ionisation and Degree of Dissociation ($\\alpha$)",
+    "concept_tag": "electrolysis case based partial ionisation and degree of dissociation ($\\alpha$)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2f6e8589ec93a704def5a494ecc60332b810feb64163f7e036882e2c22746d54",
+    "question_skeleton": "case scenario an analytical chemist measures the molar conductivities m of 0 1 m hydrochloric acid hcl and 0 1 m acetic acid ch cooh at 25 c hcl has a molar conductivity of 391 s cm mol whereas acetic acid has a molar conductivity of only 5 2 s cm mol investigative question why is the electrical conductivity of 0 1 m acetic acid less than 2 of the conductivity of 0 1 m hydrochloric acid at identical concentration choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_41_9c2173",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 41: Why Solid $NaCl$ Does Not Conduct Electricity, but Aqueous $NaCl$ Does",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A high school physics teacher uses an insulation tester on a dry, compressed block of solid Sodium Chloride. The resistance exceeds 10 megaohms (insulator). When the block is dropped into a beaker of distilled water and stirred, the resistance plummets to under 5 ohms (excellent conductor). **Investigative Question:** What structural change enables solid sodium chloride to become an electrical conductor when dissolved in water? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Water chemically oxidises sodium into a metallic wire."
+      },
+      {
+        "key": "B",
+        "text": "In solid NaCl, Na⁺ and Cl⁻ ions are held firmly in fixed lattice positions by strong omnidirectional electrostatic forces and cannot translate; water dipoles weaken these forces and hydrate the ions, allowing them to move freely throughout the solution."
+      },
+      {
+        "key": "C",
+        "text": "The sodium chloride reacts with water to form conductive liquid mercury."
+      },
+      {
+        "key": "D",
+        "text": "Distilled water is an electrical super-conductor."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In solid rock salt, Na⁺ and Cl⁻ ions occupy alternating corners of a face-centered cubic lattice held by immense lattice energy (788 kJ/mol). There are no free electrons and no mobile ions; ions can only vibrate in place. When placed in water, water's high dielectric constant (ε_r ≈ 80) reduces the electrostatic attraction between oppositely charged ions to 1/80th. Polar water molecules surround and hydrate the ions, releasing hydration enthalpy that dissolves the lattice. The resulting free, hydrated Na⁺ and Cl⁻ ions translate under an electric field, carrying the current.",
+    "concept_name": "Electrostatic Crystal Lattice vs Hydration Mobility",
+    "concept_tag": "electrolysis case based electrostatic crystal lattice vs hydration mobility",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "147867089193799d384565c92d8462d8a56ad6178abe4575d46a409a7833dddf",
+    "question_skeleton": "case scenario a high school physics teacher uses an insulation tester on a dry compressed block of solid sodium chloride the resistance exceeds 10 megaohms insulator when the block is dropped into a beaker of distilled water and stirred the resistance plummets to under 5 ohms excellent conductor investigative question what structural change enables solid sodium chloride to become an electrical conductor when dissolved in water choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_42_0594e3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 42: Electroplating an Article: Why the Article Must Be Cleaned of Grease and Oxides",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** Prior to electroplating an iron fork with copper, the plating manual prescribes three preparatory cleaning steps: Step 1: Wash the fork with hot alkali solution (NaOH) to remove grease and oils. Step 2: Dip the fork in dilute hydrochloric acid (acid pickling) to remove rust/oxide films. Step 3: Rinse thoroughly with distilled water before immersing in the plating bath. **Investigative Question:** What happens if the article is NOT cleaned of grease and oxide film before electroplating? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The article will dissolve completely in the plating bath."
+      },
+      {
+        "key": "B",
+        "text": "The deposited metal will form over the grease and oxide film without contacting the metal lattice, resulting in poor adhesion, blistered plating, and a loose coating that flakes off easily."
+      },
+      {
+        "key": "C",
+        "text": "The electrical current will reverse direction and charge the battery."
+      },
+      {
+        "key": "D",
+        "text": "The plating metal will turn into an acid."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electroplating requires the depositing metal atoms to form direct metallic/coordination bonds with the crystalline substrate metal. If grease, oil, or finger grease is present, it forms an insulating barrier that prevents electron transfer and blocks atomic contact. If rust or metal oxide is present, the plated metal adheres to the brittle oxide crust rather than the parent metal. When the article is dried or handled, the plating blisters and peels off in sheets. Degreasing with alkali and pickling with acid ensures an atomically clean, active surface for firm adherence.",
+    "concept_name": "Surface Adhesion and Interatomic Bonding",
+    "concept_tag": "electrolysis case based surface adhesion and interatomic bonding",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "fc49b335c1770e16a7f7a795d729cc01bce0ddf5b6d79ebcad02efcdc8f97239",
+    "question_skeleton": "case scenario prior to electroplating an iron fork with copper the plating manual prescribes three preparatory cleaning steps step 1 wash the fork with hot alkali solution naoh to remove grease and oils step 2 dip the fork in dilute hydrochloric acid acid pickling to remove rust oxide films step 3 rinse thoroughly with distilled water before immersing in the plating bath investigative question what happens if the article is not cleaned of grease and oxide film before electroplating choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_43_714263",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 43: Electrolysis of Fused Potassium Hydroxide (Castner's Process)",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In the classical Castner's process, fused anhydrous Potassium Hydroxide (KOH) is electrolyzed in an iron cylinder at 330°C using an iron cathode and nickel anode. Cathode: 2K⁺ + 2e⁻ → 2K(l); 2H⁺ + 2e⁻ → H₂(g) Anode: 4OH⁻ - 4e⁻ → 2H₂O + O₂(g) **Investigative Question:** What metal is collected floating on the molten electrolyte in Castner's process, and why is it collected under an inert atmosphere? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Liquid iron; collected under water."
+      },
+      {
+        "key": "B",
+        "text": "Potassium metal (K); collected under inert atmosphere because metallic potassium reacts explosively with atmospheric oxygen and moisture."
+      },
+      {
+        "key": "C",
+        "text": "Nickel metal; collected under air."
+      },
+      {
+        "key": "D",
+        "text": "Calcium metal; collected under carbon dioxide."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In Castner's electrolytic process, molten KOH produces potassium metal at the iron cathode. Because potassium has a very low density (0.86 g/cm³), it floats as a silvery liquid on top of the molten bath. Potassium is an extraordinarily reactive alkali metal that spontaneously oxidises, ignites, and reacts violently with atmospheric oxygen and water vapor. Hence, it is collected in an inverted cylindrical iron container maintained under an oxygen-free, dry inert gas or paraffin atmosphere.",
+    "concept_name": "Extraction of Reactive Potassium Metal",
+    "concept_tag": "electrolysis case based extraction of reactive potassium metal",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "eacb044a727249bb91cbaa069bb001124226ab914ea73a772f03ad2fde9b4078",
+    "question_skeleton": "case scenario in the classical castner s process fused anhydrous potassium hydroxide koh is electrolyzed in an iron cylinder at 330 c using an iron cathode and nickel anode cathode 2k 2e 2k l 2h 2e h g anode 4oh 4e 2h o o g investigative question what metal is collected floating on the molten electrolyte in castner s process and why is it collected under an inert atmosphere choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_44_a0ad6a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 44: Comparison of Products: Electrolysis of Dilute vs Concentrated $HCl$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemical student electrolyzes dilute Hydrochloric acid (~1 M) and concentrated Hydrochloric acid (~10 M) using platinum electrodes. In concentrated HCl: Chlorine gas (Cl₂) evolves at the anode. In extremely dilute HCl (<0.01 M): Oxygen gas (O₂) evolves at the anode. **Investigative Question:** What principle governs whether Oxygen or Chlorine gas is evolved at the anode during the electrolysis of hydrochloric acid? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The temperature of the room."
+      },
+      {
+        "key": "B",
+        "text": "Preferential discharge depends on both the electrochemical position and the relative concentration of anions; at high [Cl⁻], chloride discharge predominates (2Cl⁻ - 2e⁻ → Cl₂); at very low [Cl⁻], hydroxide discharge predominates (4OH⁻ - 4e⁻ → 2H₂O + O₂)."
+      },
+      {
+        "key": "C",
+        "text": "Platinum electrodes decompose to form chlorine."
+      },
+      {
+        "key": "D",
+        "text": "Concentrated acid contains no water molecules."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In aqueous HCl, both Cl⁻ and OH⁻ anions migrate to the anode. In the electrochemical series, OH⁻ is lower than Cl⁻, meaning OH⁻ has a lower discharge potential and is easier to oxidise under standard conditions. However, in concentrated HCl, the concentration of Cl⁻ is thousands of times higher than [OH⁻]. This overwhelming concentration difference shifts the thermodynamic equilibrium, causing Cl⁻ to be discharged as Cl₂ gas. In very dilute HCl, [Cl⁻] is low, allowing OH⁻ to discharge normally as O₂ gas.",
+    "concept_name": "Anion Overpotential and Concentration Shift",
+    "concept_tag": "electrolysis case based anion overpotential and concentration shift",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "fcb44c7d6803da15f5a244aaaed810102b17a168330a68cdba643bd6ff087a50",
+    "question_skeleton": "case scenario a chemical student electrolyzes dilute hydrochloric acid 1 m and concentrated hydrochloric acid 10 m using platinum electrodes in concentrated hcl chlorine gas cl evolves at the anode in extremely dilute hcl 0 01 m oxygen gas o evolves at the anode investigative question what principle governs whether oxygen or chlorine gas is evolved at the anode during the electrolysis of hydrochloric acid choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_45_5ae155",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 45: Charge Required to Liberate One Mole of Oxygen Gas at Anode",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an industrial water electrolysis plant, oxygen gas is generated at the anode according to the half-cell reaction: 4OH⁻(aq) → 2H₂O(l) + O₂(g) + 4e⁻. Faraday constant = 96,500 Coulombs. **Investigative Question:** What is the total quantity of electric charge in Coulombs required to liberate exactly 1.00 mole (22.4 L at STP) of pure Oxygen gas? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "96,500 Coulombs (1 F)"
+      },
+      {
+        "key": "B",
+        "text": "193,000 Coulombs (2 F)"
+      },
+      {
+        "key": "C",
+        "text": "386,000 Coulombs (4 F)"
+      },
+      {
+        "key": "D",
+        "text": "289,500 Coulombs (3 F)"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "From the balanced anodic oxidation half-reaction:\n4OH⁻ - 4e⁻ → 2H₂O + O₂(g)\nNotice that the liberation of 1 mole of diatomic Oxygen gas (O₂) requires the removal of 4 moles of electrons (4 Faradays of electric charge).\nTotal charge Q = 4 × F = 4 × 96,500 C = 386,000 Coulombs.\n(In contrast, liberating 1 mole of H₂ requires only 2 Faradays: 2H⁺ + 2e⁻ → H₂).",
+    "concept_name": "Stoichiometry of Hydroxide Oxidation ($4OH^- \\rightarrow 2H_2O + O_2 + 4e^-$)",
+    "concept_tag": "electrolysis case based stoichiometry of hydroxide oxidation ($4oh^- \\rightarrow 2h_2o + o_2 + 4e^-$)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9f35a3185ec34794c1a46b12c1ef757732095ba81582b656c62fcdd3655d12e4",
+    "question_skeleton": "case scenario in an industrial water electrolysis plant oxygen gas is generated at the anode according to the half cell reaction 4oh aq 2h o l o g 4e faraday constant 96 500 coulombs investigative question what is the total quantity of electric charge in coulombs required to liberate exactly 1 00 mole 22 4 l at stp of pure oxygen gas choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_46_202a80",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 46: Rusting of Iron: An Electrochemical (Local Cell) Process",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A corrosion engineer explains to a bridge construction crew that rusting of steel is not a simple chemical reaction, but an electrochemical process involving thousands of microscopic, local galvanic cells formed on the metal surface. **Investigative Question:** What are the anodic and cathodic half-cell reactions occurring on an iron surface during rusting in moist air? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Anode: 2H₂O → 2H₂ + O₂; Cathode: Fe²⁺ + 2e⁻ → Fe"
+      },
+      {
+        "key": "B",
+        "text": "Anode: Fe(s) → Fe²⁺(aq) + 2e⁻ (oxidation of iron); Cathode: O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq) (reduction of dissolved atmospheric oxygen)."
+      },
+      {
+        "key": "C",
+        "text": "Anode: Fe + O₂ → FeO₂; Cathode: H₂ → 2H⁺ + 2e⁻"
+      },
+      {
+        "key": "D",
+        "text": "Iron acts only as a catalyst without exchanging electrons."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electrochemical mechanism of rusting:\n1. Anodic zones: Stressed or impure regions of the iron surface act as anodes, undergoing oxidation: Fe(s) → Fe²⁺(aq) + 2e⁻ (E° = -0.44 V).\n2. Electron conduit: The metallic iron conducts the released electrons to adjacent cathodic zones.\n3. Cathodic zones: In the presence of a water droplet containing dissolved oxygen and acidic CO₂ (acting as an electrolyte), oxygen is reduced: O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq) (E° = +0.40 V).\n4. Precipitation: Fe²⁺ and OH⁻ diffuse and react with more oxygen to precipitate hydrated iron(III) oxide: 4Fe²⁺ + O₂ + 4H₂O + 2xH₂O → 2Fe₂O₃·xH₂O (rust).",
+    "concept_name": "Anodic Iron Dissolution and Cathodic Oxygen Reduction",
+    "concept_tag": "electrolysis case based anodic iron dissolution and cathodic oxygen reduction",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "648789aaf79cc4ed4b73cf9b50967248034f9deb807fa7e4686336375860a838",
+    "question_skeleton": "case scenario a corrosion engineer explains to a bridge construction crew that rusting of steel is not a simple chemical reaction but an electrochemical process involving thousands of microscopic local galvanic cells formed on the metal surface investigative question what are the anodic and cathodic half cell reactions occurring on an iron surface during rusting in moist air choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_47_3da533",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 47: Why Acidified Water Electrolysis Does NOT Use Hydrochloric Acid",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A chemistry teacher asks why dilute sulphuric acid (H₂SO₄) is always used to acidify water in Hofmann's voltameter, rather than dilute hydrochloric acid (HCl) or dilute nitric acid (HNO₃). **Investigative Question:** What undesirable reactions would occur if dilute Hydrochloric acid or dilute Nitric acid were used to acidify water in Hofmann's voltameter? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dilute HCl would dissolve the glass voltameter; HNO₃ would freeze the water."
+      },
+      {
+        "key": "B",
+        "text": "With dilute HCl, chloride ions (Cl⁻) would be oxidised at the anode, releasing toxic, choking Chlorine gas instead of pure Oxygen; with dilute HNO₃, nitric acid is volatile and nitrate ions may undergo reduction at the cathode."
+      },
+      {
+        "key": "C",
+        "text": "Both acids are non-electrolytes that do not conduct electricity."
+      },
+      {
+        "key": "D",
+        "text": "Dilute HCl would produce liquid mercury at the cathode."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "H₂SO₄ is uniquely chosen to acidify water because:\n1. It is non-volatile and stable.\n2. The sulphate anion (SO₄²⁻) has an exceptionally high discharge potential and cannot compete with OH⁻ at the anode. Hence, only pure Oxygen is evolved from OH⁻.\nIf HCl were used, Cl⁻ ions would be discharged preferentially or concurrently at the anode, contaminating the oxygen with toxic, corrosive, choking Chlorine gas (Cl₂).\nIf HNO₃ were used, it is volatile and nitrate (NO₃⁻) can undergo competing cathodic reduction to nitrite or ammonia, distorting the 2:1 volume stoichiometry.",
+    "concept_name": "Evolution of Toxic Chlorine vs Desired Oxygen",
+    "concept_tag": "electrolysis case based evolution of toxic chlorine vs desired oxygen",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9af2d03eb03117cd0ee1e3eb21ffcc227078251dcb318a00504a36b3b04e9d81",
+    "question_skeleton": "case scenario a chemistry teacher asks why dilute sulphuric acid h so is always used to acidify water in hofmann s voltameter rather than dilute hydrochloric acid hcl or dilute nitric acid hno investigative question what undesirable reactions would occur if dilute hydrochloric acid or dilute nitric acid were used to acidify water in hofmann s voltameter choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_48_bca0a2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 48: Electrolysis of Aqueous Sodium Chloride with Platinum Electrodes vs Mercury Cathode",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrochemical technician compares the electrolysis of brine using two different cathodes: Setup 1 uses a Platinum Cathode: Hydrogen gas (H₂) is liberated. Setup 2 uses a flowing Mercury Cathode: Sodium metal is discharged and dissolves into mercury to form Sodium Amalgam (Na–Hg). **Investigative Question:** What does this experiment demonstrate regarding the factors governing preferential discharge of ions? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The temperature of the liquid determines the product."
+      },
+      {
+        "key": "B",
+        "text": "The chemical nature and material of the electrode directly influences the discharge potential and overvoltage of ions, completely altering which product is discharged."
+      },
+      {
+        "key": "C",
+        "text": "Platinum attracts sodium while mercury attracts hydrogen."
+      },
+      {
+        "key": "D",
+        "text": "Both setups produce identical products if left running overnight."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Preferential discharge is influenced by three main factors: (1) Position of the ion in the electrochemical series; (2) Relative concentration of ions in the electrolyte; (3) Nature of the electrode material. On an inert platinum cathode, H⁺ discharges easily (overpotential is negligible), yielding H₂ gas. On a mercury cathode, the overpotential for hydrogen gas discharge is extraordinarily high (~1.0 V), while sodium has a high chemical affinity for mercury (forming stable sodium amalgam). Thus, altering the electrode material completely switches the cathodic product from H₂ to Na.",
+    "concept_name": "Role of Electrode Material in Dictating Products",
+    "concept_tag": "electrolysis case based role of electrode material in dictating products",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "1b59b64d17a85572466acb1c8cc9e7e211c718465c3311fe6bc2e7174002a220",
+    "question_skeleton": "case scenario an electrochemical technician compares the electrolysis of brine using two different cathodes setup 1 uses a platinum cathode hydrogen gas h is liberated setup 2 uses a flowing mercury cathode sodium metal is discharged and dissolves into mercury to form sodium amalgam na hg investigative question what does this experiment demonstrate regarding the factors governing preferential discharge of ions choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_49_b2a0d3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 49: Electrochemical Equivalent Ratio: $Ag$ vs $Cu$",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an electro-analytical calibration, the same electric current is passed through two voltameters in series for 1 hour: Voltameter 1: Silver nitrate solution (Ag⁺, atomic mass 108.0) Voltameter 2: Copper(II) sulphate solution (Cu²⁺, atomic mass 63.5) At the end of the run, the silver cathode has gained 10.80 g of silver. **Investigative Question:** What is the exact mass of copper deposited on the copper cathode? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6.35 g"
+      },
+      {
+        "key": "B",
+        "text": "3.175 g"
+      },
+      {
+        "key": "C",
+        "text": "10.80 g"
+      },
+      {
+        "key": "D",
+        "text": "1.587 g"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to Faraday's Second Law of Electrolysis:\n(Mass of Ag deposited) / (Mass of Cu deposited) = (Equivalent mass of Ag) / (Equivalent mass of Cu)\n- Equivalent mass of Ag = 108.0 / 1 = 108.0 g/equiv.\n- Equivalent mass of Cu = 63.5 / 2 = 31.75 g/equiv.\nSubstitute into the equation:\n10.80 g / Mass(Cu) = 108.0 / 31.75\nMass(Cu) = 10.80 × (31.75 / 108.0) = 3.175 g.",
+    "concept_name": "Faraday's Laws and Equivalent Weight Ratios",
+    "concept_tag": "electrolysis case based faraday's laws and equivalent weight ratios",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "75a57fbdf2ea83f0130750734c3577d197c4f0a8d0ee9a946e0f6b1124ee30a3",
+    "question_skeleton": "case scenario in an electro analytical calibration the same electric current is passed through two voltameters in series for 1 hour voltameter 1 silver nitrate solution ag atomic mass 108 0 voltameter 2 copper ii sulphate solution cu atomic mass 63 5 at the end of the run the silver cathode has gained 10 80 g of silver investigative question what is the exact mass of copper deposited on the copper cathode choose the correct option"
+  },
+  {
+    "globalId": "qb_case_electrolysis_50_267642",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Electrolysis",
+    "title": "Case Study 50: Energy Efficiency in Industrial Electrolysis: Cell Voltage vs Decomposition Potential",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrochemical engineer designs a chlor-alkali membrane cell. Thermochemical data shows the theoretical reversible decomposition potential of brine is 2.20 Volts. However, the commercial cell must be operated at an applied potential of 3.20 Volts to maintain high production rates. **Investigative Question:** What causes the actual operating voltage of an industrial electrolytic cell to be higher than the theoretical decomposition potential? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Electricity is lost into the air by evaporation."
+      },
+      {
+        "key": "B",
+        "text": "The extra voltage (1.00 V) is consumed by: (1) Electrode Overpotentials (activation energy barriers for gas evolution at anode and cathode); (2) Ohmic resistance (IR drop) of the electrolyte and membrane; and (3) Concentration polarisations."
+      },
+      {
+        "key": "C",
+        "text": "The battery loses energy because sodium chloride is magnetic."
+      },
+      {
+        "key": "D",
+        "text": "The extra voltage is converted into nuclear energy."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The theoretical decomposition voltage (E_rev) is the minimum thermodynamic voltage required to drive the non-spontaneous redox reaction under standard reversible conditions. In an operating industrial cell, extra voltage (V_cell = E_rev + η_anode + η_cathode + IR) must be applied to overcome: (1) Anode and cathode overpotentials (η), which represent kinetic activation energy barriers for electron transfer and gas bubble disengagement; (2) Ohmic resistance (IR drop) of the electrolyte solution, electrodes, and separators; (3) Concentration polarization due to mass transport limitations near electrode surfaces.",
+    "concept_name": "Overpotential and Ohmic Drop in Real Cells",
+    "concept_tag": "electrolysis case based overpotential and ohmic drop in real cells",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "75766efa5c6e7314dc0deecb7d19c13b3339d99c487bd958e4089707dca8b2f8",
+    "question_skeleton": "case scenario an electrochemical engineer designs a chlor alkali membrane cell thermochemical data shows the theoretical reversible decomposition potential of brine is 2 20 volts however the commercial cell must be operated at an applied potential of 3 20 volts to maintain high production rates investigative question what causes the actual operating voltage of an industrial electrolytic cell to be higher than the theoretical decomposition potential choose the correct option"
+  }
+]

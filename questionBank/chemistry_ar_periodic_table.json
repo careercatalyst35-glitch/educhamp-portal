@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_periodic_table_1_7254f9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Atomic radius across a period",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The atomic radius of elements decreases gradually from left to right across a period. **Reason (R):** Across a period, electrons are added to the same outermost valence shell while the nuclear charge increases, pulling the electron shells closer. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The increased effective nuclear charge pulls the electrons closer to the nucleus because shielding remains relatively constant across the same period.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1f2f6652d78870962b0a78ffe7b2b54dc2e8fc5da4fffcc20addcba2f8c83883",
+    "question_skeleton": "assertion a the atomic radius of elements decreases gradually from left to right across a period reason r across a period electrons are added to the same outermost valence shell while the nuclear charge increases pulling the electron shells closer choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_2_a83eef",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Atomic radius down a group",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The atomic radius increases down a group in the modern periodic table. **Reason (R):** Down a group, each successive element adds a new shell of electrons, which outweighs the increase in nuclear charge. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The addition of new principal energy shells increases the distance of valence electrons from the nucleus, leading to a larger atomic size despite higher nuclear charge.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4a4da7537cbaa5a58146da7b2f8a4387aa8db301241651bef2c9c57705b13f82",
+    "question_skeleton": "assertion a the atomic radius increases down a group in the modern periodic table reason r down a group each successive element adds a new shell of electrons which outweighs the increase in nuclear charge choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_3_165362",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Cation size vs parent atom",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A sodium cation (Na⁺) is smaller in radius than a neutral sodium atom (Na). **Reason (R):** Loss of a valence electron results in the complete loss of the outermost shell and increases the effective nuclear charge per remaining electron. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Na (2,8,1) loses its 3rd shell to form Na⁺ (2,8). The remaining 10 electrons are attracted by 11 protons, pulling the electrons tighter.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "594ce4a6db4fc8574eb893c813afc383b8e1bb2785401dbc23efb9af01e21ee1",
+    "question_skeleton": "assertion a a sodium cation na is smaller in radius than a neutral sodium atom na reason r loss of a valence electron results in the complete loss of the outermost shell and increases the effective nuclear charge per remaining electron choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_4_566bf2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Anion size vs parent atom",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A chloride ion (Cl⁻) has a larger radius than a neutral chlorine atom (Cl). **Reason (R):** Adding an electron increases inter-electronic repulsions in the valence shell while the nuclear charge remains constant. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Cl has 17 protons attracting 17 electrons. Cl⁻ has 17 protons attracting 18 electrons; increased mutual repulsion expands the electron cloud.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e1203545b2c806bc309073cfd464963ac39076d92ef98a0583a4679ba635bd75",
+    "question_skeleton": "assertion a a chloride ion cl has a larger radius than a neutral chlorine atom cl reason r adding an electron increases inter electronic repulsions in the valence shell while the nuclear charge remains constant choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_5_b5ffe8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Ionisation energy across a period",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ionisation potential generally increases from left to right across a period. **Reason (R):** Across a period, atomic size decreases and effective nuclear charge increases, making valence electrons more strongly bound. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Higher nuclear charge and smaller radius make it harder to remove an electron from the outermost shell.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b722e6a1ebe2ac655ada8a484271082a5afcd2af621fa53ebfe0626ae1432011",
+    "question_skeleton": "assertion a ionisation potential generally increases from left to right across a period reason r across a period atomic size decreases and effective nuclear charge increases making valence electrons more strongly bound choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_6_ddab9d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Ionisation energy down a group",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ionisation potential decreases down any group of the periodic table. **Reason (R):** Down a group, the increasing number of shells increases shielding and distance from the nucleus, lowering electrostatic attraction on valence electrons. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Distance and shielding effect dominate over nuclear charge down a group, decreasing the energy required to remove an electron.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "93ebc1e8ff1b8d17486543c3c7c6e41175ca66191606502714755bbe6a86673c",
+    "question_skeleton": "assertion a ionisation potential decreases down any group of the periodic table reason r down a group the increasing number of shells increases shielding and distance from the nucleus lowering electrostatic attraction on valence electrons choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_7_92be1e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Electron affinity of noble gases",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Noble gases have practically zero or positive electron affinity values. **Reason (R):** Noble gases have completely filled stable valence octets (or duplet in He), offering no electrostatic attraction to an additional incoming electron. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Extra electrons would have to enter a new principal quantum level of higher energy, which is energetically unfavorable.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "9160859639338fae7d8f492a153c9b9defeaca050b92f7a2ca8d0d7e599a2013",
+    "question_skeleton": "assertion a noble gases have practically zero or positive electron affinity values reason r noble gases have completely filled stable valence octets or duplet in he offering no electrostatic attraction to an additional incoming electron choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_8_b69bd8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Fluorine vs Chlorine electron affinity anomaly",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Chlorine has a higher electron affinity than fluorine. **Reason (R):** Fluorine has an extremely compact 2p subshell with high electron density, causing strong inter-electronic repulsions against an incoming electron. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Chlorine has a larger 3p subshell where incoming electrons face much less repulsion than in the tiny 2p shell of fluorine.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fd05b23964f3f5fc60973ee9cf4e58f347712247142c014a4fa9d1184ecefe32",
+    "question_skeleton": "assertion a chlorine has a higher electron affinity than fluorine reason r fluorine has an extremely compact p subshell with high electron density causing strong inter electronic repulsions against an incoming electron choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_9_24ba79",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Electronegativity trend across period",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Fluorine is the most electronegative element in the modern periodic table. **Reason (R):** Fluorine has a small atomic radius and a high effective nuclear charge, giving it the strongest tendency to attract a shared pair of electrons. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Electronegativity increases across a period and decreases down a group; fluorine sits at the top right of active elements.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0b0b91fdc2824653fbef9dce4ee6346179d27babf542f3899e4715f31a3e5fd1",
+    "question_skeleton": "assertion a fluorine is the most electronegative element in the modern periodic table reason r fluorine has a small atomic radius and a high effective nuclear charge giving it the strongest tendency to attract a shared pair of electrons choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_10_84156c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Metallic character down a group",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Metallic character increases down any group in the periodic table. **Reason (R):** As atomic size increases down a group, ionisation energy decreases, making it easier for atoms to lose valence electrons. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Metals are defined by their ability to lose electrons (electropositive character), which increases as ionisation potential drops.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ab928af88b43169f76705290940b1d149deec2a15333dfa6c6c61455848c7571",
+    "question_skeleton": "assertion a metallic character increases down any group in the periodic table reason r as atomic size increases down a group ionisation energy decreases making it easier for atoms to lose valence electrons choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_11_00b53c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Non-metallic character across a period",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Non-metallic character increases from left to right across a period. **Reason (R):** Elements across a period exhibit decreasing atomic size and increasing electronegativity, readily gaining electrons to complete their octet. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Electro-negativity and electron affinity rise across a period, making elements stronger electron acceptors.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a3b917d59bd25406254e8979f5fe5fa90d324363075c6e70b72a85bde2dadd0d",
+    "question_skeleton": "assertion a non metallic character increases from left to right across a period reason r elements across a period exhibit decreasing atomic size and increasing electronegativity readily gaining electrons to complete their octet choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_12_829e8d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Period number and electron shells",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The period number of an element in the periodic table indicates the number of electron shells in its atom. **Reason (R):** Elements in Period 3 (Na to Ar) possess electrons distributed across three shells: K, L, and M. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Period number directly corresponds to the principal quantum number (number of shells occupied by electrons).",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "650754060f13ebf18cd8ec363fb674a63896c4958260dbb6932e1751993cbf46",
+    "question_skeleton": "assertion a the period number of an element in the periodic table indicates the number of electron shells in its atom reason r elements in period # na to ar possess electrons distributed across three shells k l and m choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_13_b524a1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Group number and valence electrons",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** All elements in Group 17 (Halogens) have seven valence electrons. **Reason (R):** Elements belonging to the same vertical group possess identical numbers of valence electrons and exhibit similar chemical properties. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Group 17 elements (F, Cl, Br, I) all possess 7 valence electrons and form univalent anions (X⁻).",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "2cba3e186850a064b07f5ef9b41e7f710fcc226aa66f7c00acfc77bd2d49ef9b",
+    "question_skeleton": "assertion a all elements in group # halogens have seven valence electrons reason r elements belonging to the same vertical group possess identical numbers of valence electrons and exhibit similar chemical properties choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_14_a42c66",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Basic nature of oxides across period 3",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Across Period 3, oxides change from strongly basic (Na₂O) to amphoteric (Al₂O₃) and finally to acidic (Cl₂O₇). **Reason (R):** Across Period 3, elements transition from strongly metallic electropositive elements to electronegative non-metals. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Metallic oxides are basic, transition/metalloid oxides can be amphoteric, and non-metallic oxides are acidic.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "073846363e226cb77cb5fa65c30bc3aaaffc17ef78b3a2b055bce5f9e23d0370",
+    "question_skeleton": "assertion a across period # oxides change from strongly basic na o to amphoteric al o and finally to acidic cl o reason r across period # elements transition from strongly metallic electropositive elements to electronegative non metals choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_15_60a7d8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Mendeleev vs Modern Periodic Law",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Mendeleev arranged elements in increasing order of their atomic numbers. **Reason (R):** Henry Moseley showed that atomic number, not atomic mass, is the fundamental property governing an element chemical behavior. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because Mendeleev arranged elements in order of increasing atomic masses. Reason is true; Moseley discovered the atomic number relationship through X-ray spectra.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b2ee5c0038e2d4599c69304309fc166c921ab50edb90b2ecff0d890e5116004c",
+    "question_skeleton": "assertion a mendeleev arranged elements in increasing order of their atomic numbers reason r henry moseley showed that atomic number not atomic mass is the fundamental property governing an element chemical behavior choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_16_1c3860",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Alkali metals reactivity trend",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Potassium (K) is chemically more reactive than sodium (Na). **Reason (R):** Potassium has a larger atomic radius and lower first ionisation energy than sodium, losing its valence electron more readily. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Down Group 1, lower ionisation potential correlates directly with higher electropositivity and chemical reactivity.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b21e7f353396545e14743246b47e0252b82d8b50b5f9b7b6edcd39d932bec70a",
+    "question_skeleton": "assertion a potassium k is chemically more reactive than sodium na reason r potassium has a larger atomic radius and lower first ionisation energy than sodium losing its valence electron more readily choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_17_5ba1b2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Halogen reactivity trend",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Fluorine (F₂) is chemically more reactive as an oxidising agent than iodine (I₂). **Reason (R):** Fluorine has a smaller atomic size and higher electronegativity, accepting electrons more readily than iodine. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Non-metallic reactivity and oxidising power decrease down Group 17 as atomic size increases.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "927a2cd3a1bd0fa5d8ce3d64d7292f286e06ddf7f59c8ca89d133850c4ed6a09",
+    "question_skeleton": "assertion a fluorine f is chemically more reactive as an oxidising agent than iodine i reason r fluorine has a smaller atomic size and higher electronegativity accepting electrons more readily than iodine choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_18_a1244f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Isoelectronic species radius comparison",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Among isoelectronic ions N³⁻, O²⁻, F⁻, Na⁺, and Mg²⁺, Mg²⁺ has the smallest ionic radius. **Reason (R):** For isoelectronic species, ionic radius decreases as nuclear charge increases. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. All have 10 electrons, but Mg²⁺ has 12 protons pulling them, producing the highest effective nuclear charge and smallest radius.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "26301614bec5f711382c258e15b911fd18f9a4bc3a848ce35d8d709752e751d9",
+    "question_skeleton": "assertion a among isoelectronic ions n o f na and mg mg has the smallest ionic radius reason r for isoelectronic species ionic radius decreases as nuclear charge increases choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_19_99ef83",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Second ionisation energy vs first",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The second ionisation energy of an element is always greater than its first ionisation energy. **Reason (R):** Removing an electron from a positively charged cation requires more energy because the remaining electrons experience a higher effective nuclear charge. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. In a cation, protons outnumber electrons, exerting a stronger electrostatic pull on each remaining valence electron.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c4e20f507003de4128348c6c2619d7b8eec78d4896f71175ac5a9e1e5bba1585",
+    "question_skeleton": "assertion a the second ionisation energy of an element is always greater than its first ionisation energy reason r removing an electron from a positively charged cation requires more energy because the remaining electrons experience a higher effective nuclear charge choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_20_101662",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Noble gas chemical inertness",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Helium, Neon, and Argon do not form chemical bonds under standard conditions. **Reason (R):** Noble gases possess stable duplet or octet electronic configurations with high ionisation energy and zero electron affinity. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Their complete outer shells provide maximum electronic stability, making electron loss, gain, or sharing energetically unfavorable.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "49813672af33e9fd8544f508de225de3db9a85d87fcf179d0ea48f447a084cfd",
+    "question_skeleton": "assertion a helium neon and argon do not form chemical bonds under standard conditions reason r noble gases possess stable duplet or octet electronic configurations with high ionisation energy and zero electron affinity choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_21_f46b9d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Position of Hydrogen in the Periodic Table",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Hydrogen resembles both Group 1 alkali metals and Group 17 halogens. **Reason (R):** Hydrogen forms a positive ion H⁺ like alkali metals and forms a hydride ion H⁻ by gaining one electron like halogens. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Hydrogen has 1 electron, requiring 1 more to achieve helium duplet, and can also lose 1 electron to form a proton.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "15d2b3ed106c43a67f51d69a100ec50293692210b239959327e927eb078648aa",
+    "question_skeleton": "assertion a hydrogen resembles both group # alkali metals and group # halogens reason r hydrogen forms a positive ion h like alkali metals and forms a hydride ion h by gaining one electron like halogens choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_22_8350bf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Valency trend across Period 3 with respect to oxygen",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** With respect to oxygen, the valency of Period 3 elements increases progressively from 1 to 7. **Reason (R):** Valency with respect to oxygen corresponds to the total number of valence electrons an atom can share or donate to oxygen. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true (Na₂O, MgO, Al₂O₃, SiO₂, P₂O₅, SO₃, Cl₂O₇ exhibit valencies from 1 to 7).",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "469bf0ef869944eb752dd9d9cf2d6a79b67504f43269e175c8374a1df680457b",
+    "question_skeleton": "assertion a with respect to oxygen the valency of period # elements increases progressively from # to # reason r valency with respect to oxygen corresponds to the total number of valence electrons an atom can share or donate to oxygen choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_23_f889aa",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Valency trend across Period 3 with respect to hydrogen",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** With respect to hydrogen, valency increases from 1 to 4 and then decreases to 1 across Period 3. **Reason (R):** Valency of non-metals with hydrogen equals 8 minus the group number. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true: NaH(1), MgH₂(2), AlH₃(3), SiH₄(4), PH₃(3), H₂S(2), HCl(1).",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8884559384e8bd9d441277cfc78a75db73570008002f49fcf4fbb8fc15cca2fe",
+    "question_skeleton": "assertion a with respect to hydrogen valency increases from # to # and then decreases to # across period # reason r valency of non metals with hydrogen equals # minus the group number choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_24_d09ced",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Bridge elements / Diagonal relationship",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Lithium shows chemical similarities to magnesium, and beryllium resembles aluminium. **Reason (R):** Diagonally adjacent elements in Periods 2 and 3 have comparable charge-to-radius ratios (ionic potentials). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The polarizing power and electronegativities of diagonal pairs are very close, giving rise to diagonal relationships.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3c99272002808077f83cfbfb76767192755135c0e5e8afde394d1489cbb403fb",
+    "question_skeleton": "assertion a lithium shows chemical similarities to magnesium and beryllium resembles aluminium reason r diagonally adjacent elements in periods # and # have comparable charge to radius ratios ionic potentials choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_25_0faa33",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Reducing power trend down Group 1",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Cesium is a stronger reducing agent than lithium in the gas phase. **Reason (R):** Cesium has a lower ionisation potential than lithium in the gaseous state. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. In the vapor/gas phase, reducing power is governed directly by ionisation energy.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4f51646616713014130e22dd2bd2f927d6317112c147ca1dc437c512fc982d62",
+    "question_skeleton": "assertion a cesium is a stronger reducing agent than lithium in the gas phase reason r cesium has a lower ionisation potential than lithium in the gaseous state choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_26_f7241d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Electronegativity vs Electron Affinity distinction",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Electronegativity is an experimental quantity measured in kJ/mol. **Reason (R):** Electronegativity is the tendency of an atom in a bonded molecule to attract the shared pair of electrons towards itself. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because electronegativity is a dimensionless comparative property (Pauling scale), not measured in energy units. Electron affinity is measured in kJ/mol. Reason is true.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "964c1838274ac5da7b3378fa9436fe61b9373cd7319721cc2f14d291b0d88a9a",
+    "question_skeleton": "assertion a electronegativity is an experimental quantity measured in kj mol reason r electronegativity is the tendency of an atom in a bonded molecule to attract the shared pair of electrons towards itself choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_27_39ad8b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Shielding effect down a group",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The inner electron shells shield outer valence electrons from the attractive force of the nucleus. **Reason (R):** Shielding effect increases down a group as the number of intervening electron shells increases. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. The additional inner shells repel the valence electrons, canceling out a substantial fraction of the nuclear charge.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3fb655d4b5199c323475c0e1734a0bdb245cbd3571c60fb438f1439500b05080",
+    "question_skeleton": "assertion a the inner electron shells shield outer valence electrons from the attractive force of the nucleus reason r shielding effect increases down a group as the number of intervening electron shells increases choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_28_fe5105",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Effective nuclear charge across a period",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Effective nuclear charge (Z_eff) increases across a period. **Reason (R):** Each step across a period adds one proton to the nucleus, while electrons enter the same valence shell where shielding from inner shells is constant. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Because inner core electrons remain the same, each added proton increases the net positive attraction felt by valence electrons.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "c3c17eb4acc9f4bc910e5c62470175f3c53a6be190446d0ed57f997c58040096",
+    "question_skeleton": "assertion a effective nuclear charge z eff increases across a period reason r each step across a period adds one proton to the nucleus while electrons enter the same valence shell where shielding from inner shells is constant choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_29_ca7e44",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Density trend down alkali metals",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Potassium has a lower density than sodium. **Reason (R):** The increase in atomic volume from Na to K is unusually large and outweighs the increase in atomic mass. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Potassium has density 0.86 g/cm³ while sodium has 0.97 g/cm³, representing a well-known ICSE periodic anomaly.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "55d98d93f0b52c1d4c6a884d64b4888121c710574a3d7d90c8236c2dc9d479c9",
+    "question_skeleton": "assertion a potassium has a lower density than sodium reason r the increase in atomic volume from na to k is unusually large and outweighs the increase in atomic mass choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_30_dbe19b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Transition elements valencies",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Transition elements exhibit variable oxidation states. **Reason (R):** The energy difference between (n-1)d and ns subshells in transition metals is very small, allowing electrons from both levels to participate in bonding. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Iron exhibits Fe²⁺ and Fe³⁺, and copper exhibits Cu⁺ and Cu²⁺ due to this small subshell energy gap.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "86cf29695c90ffb4582a1b3a7ccb879663099d9b2d712398b045e2783f83d63b",
+    "question_skeleton": "assertion a transition elements exhibit variable oxidation states reason r the energy difference between n # d and ns subshells in transition metals is very small allowing electrons from both levels to participate in bonding choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_31_13ac2b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Acidic nature of non-metallic hydrides down a group",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** HI is a stronger acid in aqueous solution than HF. **Reason (R):** Down the halogen group, the H-X bond length increases and bond dissociation energy decreases, releasing H⁺ ions more readily. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Larger size of I⁻ weakens the H-I bond compared to the short, strong H-F bond.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "5412ba91782e4c3cfeb15810a18f7f848c2c04a6208509c10780ce0419540ba4",
+    "question_skeleton": "assertion a hi is a stronger acid in aqueous solution than hf reason r down the halogen group the h x bond length increases and bond dissociation energy decreases releasing h ions more readily choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_32_3bd01c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Electronegativity of noble gases",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Noble gases are assigned the highest electronegativity values on the Pauling scale. **Reason (R):** Electronegativity increases across every period up to Group 18. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false; noble gases do not form stable covalent bonds under standard conditions and have zero electronegativity on Pauling scale. Reason is false; electronegativity peaks at Group 17 (halogens).",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4ab2db69079fb7853ce33b7bb22ebfaf51de96ea38b5d36c6a56b9006e17a43d",
+    "question_skeleton": "assertion a noble gases are assigned the highest electronegativity values on the pauling scale reason r electronegativity increases across every period up to group # choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_33_bc27fb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Ionisation energy of Nitrogen vs Oxygen",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Nitrogen has a slightly higher first ionisation potential than oxygen. **Reason (R):** Nitrogen has a stable half-filled 2p³ subshell electronic configuration which resists loss of an electron. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Nitrogen (2p³) requires more energy to disrupt than oxygen (2p⁴), which achieves a stable half-filled state upon losing an electron.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "3d8409bedf3551c0023d124e196c913134747bb4ffda56dda1a797573d905426",
+    "question_skeleton": "assertion a nitrogen has a slightly higher first ionisation potential than oxygen reason r nitrogen has a stable half filled p subshell electronic configuration which resists loss of an electron choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_34_119d2c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Beryllium vs Boron ionisation energy",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Beryllium has a higher first ionisation energy than boron. **Reason (R):** The 2s subshell of beryllium is completely filled and has greater penetration power than the single 2p electron in boron. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Removing an electron from a full 2s subshell in Be (1s² 2s²) requires more energy than removing the isolated 2p¹ electron in B.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "eaf27b77e8f97f0fa225001f8a47cf476a8a1a105381fbd2ce0fd68cab53e5cd",
+    "question_skeleton": "assertion a beryllium has a higher first ionisation energy than boron reason r the s subshell of beryllium is completely filled and has greater penetration power than the single p electron in boron choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_35_ac9fff",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Amphoteric character of Aluminium oxide",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Aluminium oxide (Al₂O₃) reacts with both hydrochloric acid and sodium hydroxide. **Reason (R):** Al₂O₃ is an amphoteric oxide that exhibits both acidic and basic chemical properties. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O (basic action) and Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O (acidic action).",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f238dd8b381cc05a1e583a7fdee1a6bdb8b4b4e3b688ae16b847a35cc662d011",
+    "question_skeleton": "assertion a aluminium oxide al o reacts with both hydrochloric acid and sodium hydroxide reason r al o is an amphoteric oxide that exhibits both acidic and basic chemical properties choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_36_10d84c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Non-metal formation of anions",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Non-metals act as oxidising agents in chemical reactions. **Reason (R):** Non-metals have high electronegativity and high electron affinities, readily accepting electrons from other elements. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. An oxidising agent gains electrons during a redox process, which non-metals do readily.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "0bf1e66cb644d84756a62c01949bde2f70f1fdf86c5ca3893a7598b69375c54c",
+    "question_skeleton": "assertion a non metals act as oxidising agents in chemical reactions reason r non metals have high electronegativity and high electron affinities readily accepting electrons from other elements choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_37_c02a17",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Electropositive nature of metals",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Metals are reducing agents because they donate electrons easily. **Reason (R):** Metals possess low ionisation energies and lose their valence electrons readily to form positive cations. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Reducing agents get oxidised by losing electrons, a defining feature of electropositive metallic elements.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "208b7395e03f324489f678f3558d8186ff368a5ecc8f8a6bb7b02f59dd935d08",
+    "question_skeleton": "assertion a metals are reducing agents because they donate electrons easily reason r metals possess low ionisation energies and lose their valence electrons readily to form positive cations choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_38_302759",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Modern periodic table classification principle",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Elements in the modern periodic table are arranged in periods according to their atomic weights. **Reason (R):** Physical and chemical properties of elements are periodic functions of their atomic numbers. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Assertion is false because elements in the modern periodic table are arranged by atomic number, not atomic weight. Reason is the true statement of Modern Periodic Law.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "59247c70d116435002499860a0f41f01efa49d76e4bec750fa987ba862abbb7b",
+    "question_skeleton": "assertion a elements in the modern periodic table are arranged in periods according to their atomic weights reason r physical and chemical properties of elements are periodic functions of their atomic numbers choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_39_763b6d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Silicon as a metalloid",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Silicon is classified as a metalloid. **Reason (R):** Silicon exhibits intermediate electrical conductivity and both metallic and non-metallic chemical behavior. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Silicon possesses a shiny metallic luster like a metal but is brittle and acts as a semiconductor with covalent bonding like a non-metal.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bfee4dd5754b5912a34e9f930b5a659990c184937a393fb216f33939ce93954e",
+    "question_skeleton": "assertion a silicon is classified as a metalloid reason r silicon exhibits intermediate electrical conductivity and both metallic and non metallic chemical behavior choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_periodic_table_40_8956ec",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Chemistry",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Periodic Table",
+    "title": "Assertion–Reason: Argon placement before potassium",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Argon (atomic mass 39.9) is placed before potassium (atomic mass 39.1) in the modern periodic table. **Reason (R):** The modern periodic table is ordered by increasing atomic number; Argon has atomic number 18 and Potassium has 19. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Moseley atomic number ordering resolved the anomalous pairs of Mendeleev table where Argon had preceded Potassium despite its higher atomic mass.",
+    "concept_name": "Periodic Table",
+    "concept_tag": "periodic table assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "8b18fb2dcfad249e82e4ad5d34c8652d42ddd12830356f050fd69cfd31b8fae6",
+    "question_skeleton": "assertion a argon atomic mass # is placed before potassium atomic mass # in the modern periodic table reason r the modern periodic table is ordered by increasing atomic number argon has atomic number # and potassium has # choose the correct option"
+  }
+]

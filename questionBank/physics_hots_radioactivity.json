@@ -1,0 +1,1350 @@
+[
+  {
+    "globalId": "qb_hots_radioactivity_1_owuoy",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Comparing a hydrogen bomb with a nuclear reactor",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Reactor** Controlled fission chain reaction Heat is extracted for useful energy. **Hydrogen bomb** Fusion reactions under extreme conditions Energy released extremely rapidly. Which statement is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 100\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"80\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#cbd5e1\" stroke-width=\"1.5\"/>\n    <rect x=\"30\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n    <text x=\"85\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e40af\">Parent Nucleus</text>\n    <text x=\"85\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A_Z X</text>\n    <path d=\"M145 50 L185 50\" stroke=\"#64748b\" stroke-width=\"2\"/>\n    <polygon points=\"183,46 193,50 183,54\" fill=\"#64748b\"/>\n    <text x=\"165\" y=\"42\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#64748b\">decay</text>\n    <rect x=\"198\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#f0fdf4\" stroke=\"#22c55e\" stroke-width=\"1.5\"/>\n    <text x=\"253\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#166534\">Daughter</text>\n    <text x=\"253\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A'_Z' Y</text>\n    <text x=\"325\" y=\"55\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"#64748b\">+</text>\n    <rect x=\"345\" y=\"25\" width=\"70\" height=\"50\" rx=\"6\" fill=\"#fef2f2\" stroke=\"#ef4444\" stroke-width=\"1.5\"/>\n    <text x=\"380\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#dc2626\">α / β / γ</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both devices rely exclusively on chemical combustion."
+      },
+      {
+        "key": "B",
+        "text": "A reactor and a hydrogen bomb must operate at identical temperatures and under identical control conditions."
+      },
+      {
+        "key": "C",
+        "text": "A hydrogen bomb is an ordinary chemical explosive because hydrogen is a chemical element."
+      },
+      {
+        "key": "D",
+        "text": "A hydrogen bomb uses nuclear fusion under extreme conditions, whereas a power reactor maintains a controlled nuclear chain reaction to produce useful energy."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Fusion requires extremely high temperatures and suitable conditions for light nuclei to combine. A power reactor normally uses a controlled fission chain reaction, with heat extracted for electricity generation. Option C incorrectly equates a nuclear reaction with chemical combustion.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_2_lfse9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Identifying radiation from electric-field deflection",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Schematic: three beams enter a region between oppositely charged parallel plates. **Positive plate (+)** ──────────────── Beam enters → ──────────────── **Negative plate (−)** **Beam paths** α: curves ↓ β: curves ↑↑ γ: straight → Electric field points downward, from the positive upper plate to the negative lower plate. The figure labels the alpha path downward and the beta path upward. Which interpretation correctly explains all three paths?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 160\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n      <rect x=\"10\" y=\"10\" width=\"420\" height=\"140\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n      <rect x=\"25\" y=\"45\" width=\"40\" height=\"70\" rx=\"4\" fill=\"#334155\"/>\n      <text x=\"45\" y=\"85\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#ffffff\">Source</text>\n      <rect x=\"140\" y=\"30\" width=\"12\" height=\"100\" fill=\"#fef08a\" stroke=\"#ca8a04\" stroke-width=\"1\"/>\n      <text x=\"146\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#854d0e\">Paper</text>\n      <rect x=\"230\" y=\"30\" width=\"16\" height=\"100\" fill=\"#cbd5e1\" stroke=\"#64748b\" stroke-width=\"1\"/>\n      <text x=\"238\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#475569\">Aluminium</text>\n      <rect x=\"330\" y=\"30\" width=\"24\" height=\"100\" fill=\"#94a3b8\" stroke=\"#334155\" stroke-width=\"1.5\"/>\n      <text x=\"342\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1e293b\">Lead</text>\n      <path d=\"M65 60 H140\" stroke=\"#ef4444\" stroke-width=\"2.5\" stroke-dasharray=\"4 2\"/>\n      <circle cx=\"140\" cy=\"60\" r=\"3\" fill=\"#ef4444\"/>\n      <text x=\"100\" y=\"54\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#ef4444\">α-ray</text>\n      <path d=\"M65 80 H230\" stroke=\"#3b82f6\" stroke-width=\"2\"/>\n      <circle cx=\"230\" cy=\"80\" r=\"3\" fill=\"#3b82f6\"/>\n      <text x=\"180\" y=\"74\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#3b82f6\">β-ray</text>\n      <path d=\"M65 100 H335\" stroke=\"#10b981\" stroke-width=\"2\" stroke-dasharray=\"2 2\"/>\n      <path d=\"M335 100 L390 100\" stroke=\"#10b981\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n      <text x=\"280\" y=\"94\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#10b981\">γ-ray</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alpha is negative, beta is positive, and gamma is neutral."
+      },
+      {
+        "key": "B",
+        "text": "Alpha and beta are positively charged, but alpha is deflected more because it is faster."
+      },
+      {
+        "key": "C",
+        "text": "Alpha is positive, beta is negative, and gamma is electrically neutral; beta generally undergoes the greater deflection because its mass is much smaller."
+      },
+      {
+        "key": "D",
+        "text": "All three radiations are charged, but gamma has the smallest charge-to-mass ratio."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "An alpha particle has charge +2e, a beta-minus particle has charge -e, and gamma radiation has no electric charge. The electric field therefore deflects alpha downward and beta upward. Beta's very small mass gives it a much larger charge-to-mass ratio, so its deflection is generally greater under comparable conditions. Option B reverses the charges and incorrectly attributes alpha's deflection to greater speed.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_3_6qy14",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Identifying radiation from electric-field deflection",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "</grid-item> <grid-item> </grid-item> </grid> Electric field points downward, from the positive upper plate to the negative lower plate. The figure labels the alpha path downward and the beta path upward. Which interpretation correctly explains all three paths?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 422\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"402\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Schematic: three beams enter a region between oppositely charged parallel plates.</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">────────────────</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Beam enters →</text><path d=\"M230 175 L230 187\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,186 234,186 230,192\" fill=\"#64748b\"/><rect x=\"40\" y=\"193\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"215\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">α: curves ↓</text><path d=\"M230 231 L230 243\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,242 234,242 230,248\" fill=\"#64748b\"/><rect x=\"40\" y=\"249\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"271\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">β: curves ↑↑</text><path d=\"M230 287 L230 299\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,298 234,298 230,304\" fill=\"#64748b\"/><rect x=\"40\" y=\"305\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"327\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">γ: straight →</text><path d=\"M230 343 L230 355\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,354 234,354 230,360\" fill=\"#64748b\"/><rect x=\"40\" y=\"361\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"383\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Electric field points downward, from the positive upper plate to the negative lower plate. The figure labels the alpha path downward and the beta path upward.</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alpha is negative, beta is positive, and gamma is neutral."
+      },
+      {
+        "key": "B",
+        "text": "Alpha and beta are positively charged, but alpha is deflected more because it is faster."
+      },
+      {
+        "key": "C",
+        "text": "Alpha is positive, beta is negative, and gamma is electrically neutral; beta generally undergoes the greater deflection because its mass is much smaller."
+      },
+      {
+        "key": "D",
+        "text": "All three radiations are charged, but gamma has the smallest charge-to-mass ratio."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "An alpha particle has charge +2e, a beta-minus particle has charge -e, and gamma radiation has no electric charge. The electric field therefore deflects alpha downward and beta upward. Beta's very small mass gives it a much larger charge-to-mass ratio, so its deflection is generally greater under comparable conditions. Option B reverses the charges and incorrectly attributes alpha's deflection to greater speed.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_4_a270t",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Comparing a hydrogen bomb with a nuclear reactor",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "</grid-item> <grid-item> </grid-item> </grid> Which statement is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 142\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"122\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Heat is extracted for useful energy.</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Energy released extremely rapidly.</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both devices rely exclusively on chemical combustion."
+      },
+      {
+        "key": "B",
+        "text": "A reactor and a hydrogen bomb must operate at identical temperatures and under identical control conditions."
+      },
+      {
+        "key": "C",
+        "text": "A hydrogen bomb is an ordinary chemical explosive because hydrogen is a chemical element."
+      },
+      {
+        "key": "D",
+        "text": "A hydrogen bomb uses nuclear fusion under extreme conditions, whereas a power reactor maintains a controlled nuclear chain reaction to produce useful energy."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Fusion requires extremely high temperatures and suitable conditions for light nuclei to combine. A power reactor normally uses a controlled fission chain reaction, with heat extracted for electricity generation. Option C incorrectly equates a nuclear reaction with chemical combustion.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_5_8btmq",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Independence of half-life",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Assertion (A):** The half-life of a radioactive isotope remains essentially unchanged when its temperature or pressure changes under ordinary conditions. **Reason (R):** Radioactive decay is a nuclear process and is generally unaffected by ordinary physical and chemical changes. Choose the correct option.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both A and R are true, and R correctly explains A."
+      },
+      {
+        "key": "B",
+        "text": "Both A and R are true, but R does not explain A."
+      },
+      {
+        "key": "C",
+        "text": "A is true, but R is false."
+      },
+      {
+        "key": "D",
+        "text": "A is false, but R is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Independence of half-life\n\n**Assertion (A):** The half-life of a radioactive isotope remains essentially unchanged when its temperature or pressure changes under ordinary conditions.\n\n**Reason (R):** Radioactive decay is a nuclear process and is generally unaffected by ordinary physical and chemical changes.\n\nChoose the correct option.\n\nA) Both A and R are true, and R correctly explains A.\n\nB) Both A and R are true, but R does not explain A.\n\nC) A is true, but R is false.\n\nD) A is false, but R is true.\n\n**Correct Answer: A**\n\n**Reason:** Half-life is a property of the radionuclide and is not ordinarily altered by changes in temperature, pressure or chemical state. The reason correctly explains the assertion.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_6_4wk45",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Identifying an incorrect interpretation of a radioactive decay series",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "<row align=\"center\" justify=\"center\" gap=> α </row> <row align=\"center\" justify=\"center\" gap=> β⁻ </row> <row align=\"center\" justify=\"center\" gap=> β⁻ </row> A student makes four statements about the complete sequence. Which statement is incorrect?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 310\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"290\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">\\(\\,{}^{238}_{92}\\mathrm U\\,\\)</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">\\(\\,{}^{234}_{90}\\mathrm{Th}\\,\\)</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">β⁻</text><path d=\"M230 175 L230 187\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,186 234,186 230,192\" fill=\"#64748b\"/><rect x=\"40\" y=\"193\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"215\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">\\(\\,{}^{234}_{91}\\mathrm{Pa}\\,\\)</text><path d=\"M230 231 L230 243\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,242 234,242 230,248\" fill=\"#64748b\"/><rect x=\"40\" y=\"249\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"271\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">\\(\\,{}^{234}_{92}\\mathrm U\\,\\)</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The first emission reduces the mass number by four."
+      },
+      {
+        "key": "B",
+        "text": "The two beta-minus emissions together increase the atomic number by two."
+      },
+      {
+        "key": "C",
+        "text": "The initial and final uranium nuclei are isotopes."
+      },
+      {
+        "key": "D",
+        "text": "The total number of protons decreases by two over the complete sequence."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The alpha emission decreases the atomic number from 92 to 90, but the two beta-minus emissions increase it from 90 to 92. Therefore, the initial and final nuclei have the same number of protons but different mass numbers.\n\nThe overall changes are:\n\n- Mass number: 238→234, a decrease of 4.\n- Atomic number: 92→92, no net change.\n- Neutron number: 146→142, a decrease of 4.\n\nOption D incorrectly describes the net change in proton number. The sequence includes one alpha emission and two beta-minus emissions.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_7_k14yt",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Comparing the range of alpha particles in air",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Three beams travel through air from the same source under comparable conditions. Source α β γ The alpha beam stops first, the beta beam travels farther, and gamma radiation penetrates farthest. Which explanation best accounts for the different ranges?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 160\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n      <rect x=\"10\" y=\"10\" width=\"420\" height=\"140\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n      <rect x=\"25\" y=\"45\" width=\"40\" height=\"70\" rx=\"4\" fill=\"#334155\"/>\n      <text x=\"45\" y=\"85\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#ffffff\">Source</text>\n      <rect x=\"140\" y=\"30\" width=\"12\" height=\"100\" fill=\"#fef08a\" stroke=\"#ca8a04\" stroke-width=\"1\"/>\n      <text x=\"146\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#854d0e\">Paper</text>\n      <rect x=\"230\" y=\"30\" width=\"16\" height=\"100\" fill=\"#cbd5e1\" stroke=\"#64748b\" stroke-width=\"1\"/>\n      <text x=\"238\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#475569\">Aluminium</text>\n      <rect x=\"330\" y=\"30\" width=\"24\" height=\"100\" fill=\"#94a3b8\" stroke=\"#334155\" stroke-width=\"1.5\"/>\n      <text x=\"342\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1e293b\">Lead</text>\n      <path d=\"M65 60 H140\" stroke=\"#ef4444\" stroke-width=\"2.5\" stroke-dasharray=\"4 2\"/>\n      <circle cx=\"140\" cy=\"60\" r=\"3\" fill=\"#ef4444\"/>\n      <text x=\"100\" y=\"54\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#ef4444\">α-ray</text>\n      <path d=\"M65 80 H230\" stroke=\"#3b82f6\" stroke-width=\"2\"/>\n      <circle cx=\"230\" cy=\"80\" r=\"3\" fill=\"#3b82f6\"/>\n      <text x=\"180\" y=\"74\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#3b82f6\">β-ray</text>\n      <path d=\"M65 100 H335\" stroke=\"#10b981\" stroke-width=\"2\" stroke-dasharray=\"2 2\"/>\n      <path d=\"M335 100 L390 100\" stroke=\"#10b981\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n      <text x=\"280\" y=\"94\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#10b981\">γ-ray</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alpha particles have the smallest mass, so they lose all their energy first."
+      },
+      {
+        "key": "B",
+        "text": "Gamma rays have the greatest charge, so they travel farthest through air."
+      },
+      {
+        "key": "C",
+        "text": "Alpha particles are strongly ionising and lose their kinetic energy rapidly through interactions with matter; gamma rays are indirectly ionising and much more penetrating."
+      },
+      {
+        "key": "D",
+        "text": "Beta particles are neutral, while alpha particles and gamma rays are charged."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "best accounts for the different ranges?\n\nA) Alpha particles have the smallest mass, so they lose all their energy first.\n\nB) Gamma rays have the greatest charge, so they travel farthest through air.\n\nC) Alpha particles are strongly ionising and lose their kinetic energy rapidly through interactions with matter; gamma rays are indirectly ionising and much more penetrating.\n\nD) Beta particles are neutral, while alpha particles and gamma rays are charged.\n\n**Correct Answer: C**\n\n**Reason:** Alpha particles have a double positive charge and produce dense ionisation, losing energy rapidly over a short distance. Beta particles are less strongly ionising, while gamma rays have no charge and are generally the most penetrating. Option B incorrectly assigns an electric charge to gamma radiation.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_8_oz5w5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Interpreting carbon dating of an organic sample",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Living organism** Carbon-14 continually replenished through exchange with the environment. **Dead organism** Carbon exchange stops; carbon-14 decays. Measure remaining carbon-14 and compare with a suitable reference Which assumption is essential to a simple carbon-dating interpretation?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 170\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n      <rect x=\"10\" y=\"10\" width=\"420\" height=\"150\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n      <line x1=\"60\" y1=\"25\" x2=\"60\" y2=\"130\" stroke=\"#1e293b\" stroke-width=\"2\"/>\n      <line x1=\"60\" y1=\"130\" x2=\"380\" y2=\"130\" stroke=\"#1e293b\" stroke-width=\"2\"/>\n      <text x=\"40\" y=\"30\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#1e293b\">N₀</text>\n      <text x=\"30\" y=\"80\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#64748b\">N₀/2</text>\n      <text x=\"30\" y=\"105\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#64748b\">N₀/4</text>\n      <line x1=\"55\" y1=\"78\" x2=\"65\" y2=\"78\" stroke=\"#64748b\" stroke-width=\"1\"/>\n      <line x1=\"55\" y1=\"103\" x2=\"65\" y2=\"103\" stroke=\"#64748b\" stroke-width=\"1\"/>\n      <line x1=\"160\" y1=\"125\" x2=\"160\" y2=\"135\" stroke=\"#64748b\" stroke-width=\"1\"/>\n      <text x=\"160\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#64748b\">T½</text>\n      <line x1=\"260\" y1=\"125\" x2=\"260\" y2=\"135\" stroke=\"#64748b\" stroke-width=\"1\"/>\n      <text x=\"260\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#64748b\">2T½</text>\n      <text x=\"380\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#1e293b\">Time (t)</text>\n      <line x1=\"60\" y1=\"78\" x2=\"160\" y2=\"78\" stroke=\"#94a3b8\" stroke-dasharray=\"3 3\"/>\n      <line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"130\" stroke=\"#94a3b8\" stroke-dasharray=\"3 3\"/>\n      <path d=\"M60 30 Q110 78 160 78 T260 103 T360 122\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n      <circle cx=\"160\" cy=\"78\" r=\"4\" fill=\"#2563eb\"/>\n      <circle cx=\"260\" cy=\"103\" r=\"4\" fill=\"#2563eb\"/>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Carbon-14 decays only when the sample is heated."
+      },
+      {
+        "key": "B",
+        "text": "After death, the sample no longer replenishes its carbon-14 through biological exchange, and the initial ratio can be estimated appropriately."
+      },
+      {
+        "key": "C",
+        "text": "Carbon-14 has the same mass number as carbon-12."
+      },
+      {
+        "key": "D",
+        "text": "All carbon-14 disappears exactly after two half-lives."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Carbon dating relies on the reduction of carbon-14 after biological exchange ceases. The remaining carbon-14 is compared with an appropriate reference and the known half-life. Option D is incorrect: after two half-lives, one-quarter remains, not zero.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_9_qor1u",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Identifying an incorrect interpretation of a radioactive decay series",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": ",{}^_mathrm U, α,{}^_Th, β⁻,{}^_Pa, β⁻,{}^_mathrm U, A student makes four statements about the complete sequence. Which statement is incorrect?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 170\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n      <rect x=\"10\" y=\"10\" width=\"420\" height=\"150\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n      <line x1=\"60\" y1=\"25\" x2=\"60\" y2=\"130\" stroke=\"#1e293b\" stroke-width=\"2\"/>\n      <line x1=\"60\" y1=\"130\" x2=\"380\" y2=\"130\" stroke=\"#1e293b\" stroke-width=\"2\"/>\n      <text x=\"40\" y=\"30\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#1e293b\">N₀</text>\n      <text x=\"30\" y=\"80\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#64748b\">N₀/2</text>\n      <text x=\"30\" y=\"105\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#64748b\">N₀/4</text>\n      <line x1=\"55\" y1=\"78\" x2=\"65\" y2=\"78\" stroke=\"#64748b\" stroke-width=\"1\"/>\n      <line x1=\"55\" y1=\"103\" x2=\"65\" y2=\"103\" stroke=\"#64748b\" stroke-width=\"1\"/>\n      <line x1=\"160\" y1=\"125\" x2=\"160\" y2=\"135\" stroke=\"#64748b\" stroke-width=\"1\"/>\n      <text x=\"160\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#64748b\">T½</text>\n      <line x1=\"260\" y1=\"125\" x2=\"260\" y2=\"135\" stroke=\"#64748b\" stroke-width=\"1\"/>\n      <text x=\"260\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#64748b\">2T½</text>\n      <text x=\"380\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#1e293b\">Time (t)</text>\n      <line x1=\"60\" y1=\"78\" x2=\"160\" y2=\"78\" stroke=\"#94a3b8\" stroke-dasharray=\"3 3\"/>\n      <line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"130\" stroke=\"#94a3b8\" stroke-dasharray=\"3 3\"/>\n      <path d=\"M60 30 Q110 78 160 78 T260 103 T360 122\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n      <circle cx=\"160\" cy=\"78\" r=\"4\" fill=\"#2563eb\"/>\n      <circle cx=\"260\" cy=\"103\" r=\"4\" fill=\"#2563eb\"/>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The first emission reduces the mass number by four."
+      },
+      {
+        "key": "B",
+        "text": "The two beta-minus emissions together increase the atomic number by two."
+      },
+      {
+        "key": "C",
+        "text": "The initial and final uranium nuclei are isotopes."
+      },
+      {
+        "key": "D",
+        "text": "The total number of protons decreases by two over the complete sequence."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The alpha emission decreases the atomic number from 92 to 90, but the two beta-minus emissions increase it from 90 to 92. Therefore, the initial and final nuclei have the same number of protons but different mass numbers.\n\nThe overall changes are:\n\n- Mass number: 238→234, a decrease of 4.\n- Atomic number: 92→92, no net change.\n- Neutron number: 146→142, a decrease of 4.\n\nOption D incorrectly describes the net change in proton number. The sequence includes one alpha emission and two beta-minus emissions.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_10_zsn6f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Comparing the range of alpha particles in air",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "</row> The alpha beam stops first, the beta beam travels farther, and gamma radiation penetrates farthest. Which explanation best accounts for the different ranges?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 160\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n      <rect x=\"10\" y=\"10\" width=\"420\" height=\"140\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n      <rect x=\"25\" y=\"45\" width=\"40\" height=\"70\" rx=\"4\" fill=\"#334155\"/>\n      <text x=\"45\" y=\"85\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#ffffff\">Source</text>\n      <rect x=\"140\" y=\"30\" width=\"12\" height=\"100\" fill=\"#fef08a\" stroke=\"#ca8a04\" stroke-width=\"1\"/>\n      <text x=\"146\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#854d0e\">Paper</text>\n      <rect x=\"230\" y=\"30\" width=\"16\" height=\"100\" fill=\"#cbd5e1\" stroke=\"#64748b\" stroke-width=\"1\"/>\n      <text x=\"238\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#475569\">Aluminium</text>\n      <rect x=\"330\" y=\"30\" width=\"24\" height=\"100\" fill=\"#94a3b8\" stroke=\"#334155\" stroke-width=\"1.5\"/>\n      <text x=\"342\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1e293b\">Lead</text>\n      <path d=\"M65 60 H140\" stroke=\"#ef4444\" stroke-width=\"2.5\" stroke-dasharray=\"4 2\"/>\n      <circle cx=\"140\" cy=\"60\" r=\"3\" fill=\"#ef4444\"/>\n      <text x=\"100\" y=\"54\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#ef4444\">α-ray</text>\n      <path d=\"M65 80 H230\" stroke=\"#3b82f6\" stroke-width=\"2\"/>\n      <circle cx=\"230\" cy=\"80\" r=\"3\" fill=\"#3b82f6\"/>\n      <text x=\"180\" y=\"74\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#3b82f6\">β-ray</text>\n      <path d=\"M65 100 H335\" stroke=\"#10b981\" stroke-width=\"2\" stroke-dasharray=\"2 2\"/>\n      <path d=\"M335 100 L390 100\" stroke=\"#10b981\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n      <text x=\"280\" y=\"94\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#10b981\">γ-ray</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alpha particles have the smallest mass, so they lose all their energy first."
+      },
+      {
+        "key": "B",
+        "text": "Gamma rays have the greatest charge, so they travel farthest through air."
+      },
+      {
+        "key": "C",
+        "text": "Alpha particles are strongly ionising and lose their kinetic energy rapidly through interactions with matter; gamma rays are indirectly ionising and much more penetrating."
+      },
+      {
+        "key": "D",
+        "text": "Beta particles are neutral, while alpha particles and gamma rays are charged."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "best accounts for the different ranges?\n\nA) Alpha particles have the smallest mass, so they lose all their energy first.\n\nB) Gamma rays have the greatest charge, so they travel farthest through air.\n\nC) Alpha particles are strongly ionising and lose their kinetic energy rapidly through interactions with matter; gamma rays are indirectly ionising and much more penetrating.\n\nD) Beta particles are neutral, while alpha particles and gamma rays are charged.\n\n**Correct Answer: C**\n\n**Reason:** Alpha particles have a double positive charge and produce dense ionisation, losing energy rapidly over a short distance. Beta particles are less strongly ionising, while gamma rays have no charge and are generally the most penetrating. Option B incorrectly assigns an electric charge to gamma radiation.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_11_73gsi",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Interpreting carbon dating of an organic sample",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "</grid-item> <grid-item> </grid-item> </grid> <row justify=\"center\"> </row> Which assumption is essential to a simple carbon-dating interpretation?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 198\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"178\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Living organism         Carbon-14 continually replenished through exchange with the environment.</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Dead organism         Carbon exchange stops; carbon-14 decays.</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Measure remaining carbon-14 and compare with a suitable reference</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Carbon-14 decays only when the sample is heated."
+      },
+      {
+        "key": "B",
+        "text": "After death, the sample no longer replenishes its carbon-14 through biological exchange, and the initial ratio can be estimated appropriately."
+      },
+      {
+        "key": "C",
+        "text": "Carbon-14 has the same mass number as carbon-12."
+      },
+      {
+        "key": "D",
+        "text": "All carbon-14 disappears exactly after two half-lives."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Carbon dating relies on the reduction of carbon-14 after biological exchange ceases. The remaining carbon-14 is compared with an appropriate reference and the known half-life. Option D is incorrect: after two half-lives, one-quarter remains, not zero.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_12_fursv",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Identifying the function of components in a nuclear reactor",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "A** Fuel rods Uranium fuel **B** Control rods Neutron-absorbing material **C** Moderator Slows neutrons **D** Coolant Carries heat away Which component-function pairing is incorrectly stated?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 100\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"80\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#cbd5e1\" stroke-width=\"1.5\"/>\n    <rect x=\"30\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n    <text x=\"85\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e40af\">Parent Nucleus</text>\n    <text x=\"85\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A_Z X</text>\n    <path d=\"M145 50 L185 50\" stroke=\"#64748b\" stroke-width=\"2\"/>\n    <polygon points=\"183,46 193,50 183,54\" fill=\"#64748b\"/>\n    <text x=\"165\" y=\"42\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#64748b\">decay</text>\n    <rect x=\"198\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#f0fdf4\" stroke=\"#22c55e\" stroke-width=\"1.5\"/>\n    <text x=\"253\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#166534\">Daughter</text>\n    <text x=\"253\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A'_Z' Y</text>\n    <text x=\"325\" y=\"55\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"#64748b\">+</text>\n    <rect x=\"345\" y=\"25\" width=\"70\" height=\"50\" rx=\"6\" fill=\"#fef2f2\" stroke=\"#ef4444\" stroke-width=\"1.5\"/>\n    <text x=\"380\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#dc2626\">α / β / γ</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "A — supplies nuclei that undergo fission."
+      },
+      {
+        "key": "B",
+        "text": "B — regulates the chain reaction by absorbing neutrons."
+      },
+      {
+        "key": "C",
+        "text": "C — slows neutrons, increasing the chance of fission in a suitable reactor."
+      },
+      {
+        "key": "D",
+        "text": "D — slows neutrons and is always the principal neutron moderator."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The coolant primarily transfers heat away from the reactor core. A coolant may also act as a moderator in some reactor designs, but it is not necessarily the moderator or always the principal moderator. The other three pairings describe the standard qualitative functions correctly.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_13_qh95e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Interpreting a fusion diagram",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Light nucleus,{}^_mathrm H, Light nucleus,{}^_mathrm H,,{}^_He, +,{}^_mathrm n, + energy The reactants are forced close together under extremely high temperature and suitable pressure conditions. Which statement correctly explains the process?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 100\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"80\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#cbd5e1\" stroke-width=\"1.5\"/>\n    <rect x=\"30\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n    <text x=\"85\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e40af\">Parent Nucleus</text>\n    <text x=\"85\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A_Z X</text>\n    <path d=\"M145 50 L185 50\" stroke=\"#64748b\" stroke-width=\"2\"/>\n    <polygon points=\"183,46 193,50 183,54\" fill=\"#64748b\"/>\n    <text x=\"165\" y=\"42\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#64748b\">decay</text>\n    <rect x=\"198\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#f0fdf4\" stroke=\"#22c55e\" stroke-width=\"1.5\"/>\n    <text x=\"253\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#166534\">Daughter</text>\n    <text x=\"253\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A'_Z' Y</text>\n    <text x=\"325\" y=\"55\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"#64748b\">+</text>\n    <rect x=\"345\" y=\"25\" width=\"70\" height=\"50\" rx=\"6\" fill=\"#fef2f2\" stroke=\"#ef4444\" stroke-width=\"1.5\"/>\n    <text x=\"380\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#dc2626\">α / β / γ</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is fusion because two light nuclei combine to produce a heavier nucleus and a neutron, releasing energy."
+      },
+      {
+        "key": "B",
+        "text": "It is fission because a helium nucleus splits into hydrogen nuclei."
+      },
+      {
+        "key": "C",
+        "text": "It is chemical combustion because no nuclear identity changes."
+      },
+      {
+        "key": "D",
+        "text": "It is alpha decay because the helium nucleus is emitted by a heavy parent nucleus."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The nuclear equation balances: mass numbers 2+3=4+1, and atomic numbers 1+1=2+0. Two light nuclei combine, so this is nuclear fusion. Option D incorrectly labels a reaction between two light reactants as alpha decay.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_14_nzkte",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Identifying a smoke detector's radiation mechanism",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Radioactive source emitting alpha particles Ionisation chamber containing air Electrical current monitored by detector circuit Smoke entering the chamber interferes with the ionisation process and changes the measured current. Which explanation correctly describes the operating principle?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 100\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"80\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#cbd5e1\" stroke-width=\"1.5\"/>\n    <rect x=\"30\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n    <text x=\"85\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e40af\">Parent Nucleus</text>\n    <text x=\"85\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A_Z X</text>\n    <path d=\"M145 50 L185 50\" stroke=\"#64748b\" stroke-width=\"2\"/>\n    <polygon points=\"183,46 193,50 183,54\" fill=\"#64748b\"/>\n    <text x=\"165\" y=\"42\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#64748b\">decay</text>\n    <rect x=\"198\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#f0fdf4\" stroke=\"#22c55e\" stroke-width=\"1.5\"/>\n    <text x=\"253\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#166534\">Daughter</text>\n    <text x=\"253\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A'_Z' Y</text>\n    <text x=\"325\" y=\"55\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"#64748b\">+</text>\n    <rect x=\"345\" y=\"25\" width=\"70\" height=\"50\" rx=\"6\" fill=\"#fef2f2\" stroke=\"#ef4444\" stroke-width=\"1.5\"/>\n    <text x=\"380\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#dc2626\">α / β / γ</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alpha particles detect smoke by reflecting from every smoke particle like visible light."
+      },
+      {
+        "key": "B",
+        "text": "Smoke causes alpha particles to acquire a large positive charge."
+      },
+      {
+        "key": "C",
+        "text": "Smoke increases the nuclear half-life of the source, lowering its activity."
+      },
+      {
+        "key": "D",
+        "text": "Alpha radiation ionises air; smoke disrupts the chamber's normal ionisation-current behaviour, triggering an alarm."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "correctly describes the operating principle?\n\nA) Alpha particles detect smoke by reflecting from every smoke particle like visible light.\n\nB) Smoke causes alpha particles to acquire a large positive charge.\n\nC) Smoke increases the nuclear half-life of the source, lowering its activity.\n\nD) Alpha radiation ionises air; smoke disrupts the chamber's normal ionisation-current behaviour, triggering an alarm.\n\n**Correct Answer: D**\n\n**Reason:** The source's alpha particles ionise the air in the chamber, enabling a small electrical current. Smoke alters the ionisation and collection of charge, allowing the circuit to detect smoke. Option C is incorrect because smoke does not change the radioactive source's half-life.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_15_808jy",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Identifying the function of components in a nuclear reactor",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "</grid-item> <grid-item> </grid-item> <grid-item> </grid-item> <grid-item> </grid-item> </grid> Which component-function pairing is incorrectly stated?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 254\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"234\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Uranium fuel</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Neutron-absorbing material</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Slows neutrons</text><path d=\"M230 175 L230 187\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,186 234,186 230,192\" fill=\"#64748b\"/><rect x=\"40\" y=\"193\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"215\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Carries heat away</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "A — supplies nuclei that undergo fission."
+      },
+      {
+        "key": "B",
+        "text": "B — regulates the chain reaction by absorbing neutrons."
+      },
+      {
+        "key": "C",
+        "text": "C — slows neutrons, increasing the chance of fission in a suitable reactor."
+      },
+      {
+        "key": "D",
+        "text": "D — slows neutrons and is always the principal neutron moderator."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The coolant primarily transfers heat away from the reactor core. A coolant may also act as a moderator in some reactor designs, but it is not necessarily the moderator or always the principal moderator. The other three pairings describe the standard qualitative functions correctly.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_16_144rk",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Interpreting a fusion diagram",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "</row> <row justify=\"center\"> </row> The reactants are forced close together under extremely high temperature and suitable pressure conditions. Which statement correctly explains the process?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 254\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"234\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Light nucleus       \\(\\,{}^{2}_{1}\\mathrm H\\,\\)</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Light nucleus       \\(\\,{}^{3}_{1}\\mathrm H\\,\\)</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">\\(\\,{}^{4}_{2}\\mathrm{He}\\,\\) + \\(\\,{}^{1}_{0}\\mathrm n\\,\\) + energy</text><path d=\"M230 175 L230 187\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,186 234,186 230,192\" fill=\"#64748b\"/><rect x=\"40\" y=\"193\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"215\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">The reactants are forced close together under extremely high temperature and suitable pressure conditions.</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is fusion because two light nuclei combine to produce a heavier nucleus and a neutron, releasing energy."
+      },
+      {
+        "key": "B",
+        "text": "It is fission because a helium nucleus splits into hydrogen nuclei."
+      },
+      {
+        "key": "C",
+        "text": "It is chemical combustion because no nuclear identity changes."
+      },
+      {
+        "key": "D",
+        "text": "It is alpha decay because the helium nucleus is emitted by a heavy parent nucleus."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The nuclear equation balances: mass numbers 2+3=4+1, and atomic numbers 1+1=2+0. Two light nuclei combine, so this is nuclear fusion. Option D incorrectly labels a reaction between two light reactants as alpha decay.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_17_hssdi",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Assertion–Reason: Deflection in electric fields",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Assertion (A):** Beta-minus particles generally undergo greater deflection than alpha particles when both enter the same uniform electric field with comparable speeds. **Reason (R):** The magnitude of the charge-to-mass ratio of a beta-minus particle is much greater than that of an alpha particle. Choose the correct option.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both A and R are true, and R correctly explains A."
+      },
+      {
+        "key": "B",
+        "text": "Both A and R are true, but R does not explain A."
+      },
+      {
+        "key": "C",
+        "text": "A is true, but R is false."
+      },
+      {
+        "key": "D",
+        "text": "A is false, but R is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Deflection in electric fields\n\n**Assertion (A):** Beta-minus particles generally undergo greater deflection than alpha particles when both enter the same uniform electric field with comparable speeds.\n\n**Reason (R):** The magnitude of the charge-to-mass ratio of a beta-minus particle is much greater than that of an alpha particle.\n\nChoose the correct option.\n\nA) Both A and R are true, and R correctly explains A.\n\nB) Both A and R are true, but R does not explain A.\n\nC) A is true, but R is false.\n\nD) A is false, but R is true.\n\n**Correct Answer: A**\n\n**Reason:** The acceleration in an electric field depends on the magnitude of qE/m. A beta-minus particle has a very small mass compared with an alpha particle, so its charge-to-mass ratio is much larger. Under comparable conditions, its deflection is generally greater and occurs in the opposite direction because its charge is negative.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_18_m9d2c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Understanding the operation of a radioactive tracer",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Tracer injected Flowing system Detector readings A detector records the passage of the tracer at different positions in a pipe. Why can a suitable radioactive tracer be useful for locating a blockage or measuring flow?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 100\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"80\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#cbd5e1\" stroke-width=\"1.5\"/>\n    <rect x=\"30\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n    <text x=\"85\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e40af\">Parent Nucleus</text>\n    <text x=\"85\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A_Z X</text>\n    <path d=\"M145 50 L185 50\" stroke=\"#64748b\" stroke-width=\"2\"/>\n    <polygon points=\"183,46 193,50 183,54\" fill=\"#64748b\"/>\n    <text x=\"165\" y=\"42\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#64748b\">decay</text>\n    <rect x=\"198\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#f0fdf4\" stroke=\"#22c55e\" stroke-width=\"1.5\"/>\n    <text x=\"253\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#166534\">Daughter</text>\n    <text x=\"253\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A'_Z' Y</text>\n    <text x=\"325\" y=\"55\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"#64748b\">+</text>\n    <rect x=\"345\" y=\"25\" width=\"70\" height=\"50\" rx=\"6\" fill=\"#fef2f2\" stroke=\"#ef4444\" stroke-width=\"1.5\"/>\n    <text x=\"380\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#dc2626\">α / β / γ</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Its half-life increases when it enters the pipe."
+      },
+      {
+        "key": "B",
+        "text": "It permanently changes the chemical identity of the entire fluid."
+      },
+      {
+        "key": "C",
+        "text": "It makes the pipe transparent to visible light."
+      },
+      {
+        "key": "D",
+        "text": "Its emitted radiation can be detected from outside suitable parts of the system, allowing the tracer's movement to be tracked."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A suitable tracer emits detectable radiation and can be followed through a system without requiring direct visual access. Its selection must consider the tracer's chemical behaviour, radiation type, half-life and safety. Option A is wrong because a substance's half-life is not increased merely by entering a pipe.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_19_8ke9y",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Identifying a chain reaction that becomes self-sustaining",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "One neutron causes one fission Three neutrons are released Fission Fission Fission The diagram shows the idealised branching pattern; in practice, some neutrons escape or are absorbed without causing fission. Which condition is necessary for a self-sustaining chain reaction?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 100\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"80\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#cbd5e1\" stroke-width=\"1.5\"/>\n    <rect x=\"30\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n    <text x=\"85\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e40af\">Parent Nucleus</text>\n    <text x=\"85\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A_Z X</text>\n    <path d=\"M145 50 L185 50\" stroke=\"#64748b\" stroke-width=\"2\"/>\n    <polygon points=\"183,46 193,50 183,54\" fill=\"#64748b\"/>\n    <text x=\"165\" y=\"42\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#64748b\">decay</text>\n    <rect x=\"198\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#f0fdf4\" stroke=\"#22c55e\" stroke-width=\"1.5\"/>\n    <text x=\"253\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#166534\">Daughter</text>\n    <text x=\"253\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A'_Z' Y</text>\n    <text x=\"325\" y=\"55\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"#64748b\">+</text>\n    <rect x=\"345\" y=\"25\" width=\"70\" height=\"50\" rx=\"6\" fill=\"#fef2f2\" stroke=\"#ef4444\" stroke-width=\"1.5\"/>\n    <text x=\"380\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#dc2626\">α / β / γ</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Every neutron must escape from the fuel."
+      },
+      {
+        "key": "B",
+        "text": "On average, enough neutrons from each generation must cause further fissions to maintain the reaction."
+      },
+      {
+        "key": "C",
+        "text": "All neutrons must be absorbed by control rods."
+      },
+      {
+        "key": "D",
+        "text": "The fuel must contain only non-radioactive nuclei."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A self-sustaining chain reaction requires sufficient neutrons from one generation of fissions to initiate further fissions. If too few do so, the reaction dies away; if too many cause additional fissions without control, the rate can increase. Option C would suppress rather than sustain the chain reaction.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_20_b3nv6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Understanding the operation of a radioactive tracer",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "</row> A detector records the passage of the tracer at different positions in a pipe. Why can a suitable radioactive tracer be useful for locating a blockage or measuring flow?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 254\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"234\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Tracer injected</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Flowing system</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Detector readings</text><path d=\"M230 175 L230 187\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,186 234,186 230,192\" fill=\"#64748b\"/><rect x=\"40\" y=\"193\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"215\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">A detector records the passage of the tracer at different positions in a pipe.</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Its half-life increases when it enters the pipe."
+      },
+      {
+        "key": "B",
+        "text": "It permanently changes the chemical identity of the entire fluid."
+      },
+      {
+        "key": "C",
+        "text": "It makes the pipe transparent to visible light."
+      },
+      {
+        "key": "D",
+        "text": "Its emitted radiation can be detected from outside suitable parts of the system, allowing the tracer's movement to be tracked."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A suitable tracer emits detectable radiation and can be followed through a system without requiring direct visual access. Its selection must consider the tracer's chemical behaviour, radiation type, half-life and safety. Option A is wrong because a substance's half-life is not increased merely by entering a pipe.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_21_tyop2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Identifying a chain reaction that becomes self-sustaining",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "<row justify=\"center\"> </row> <row justify=\"center\"> </row> <grid columns= gap=> <grid-item> </grid-item> <grid-item> </grid-item> <grid-item> </grid-item> </grid> The diagram shows the idealised branching pattern; in practice, some neutrons escape or are absorbed without causing fission. Which condition is necessary for a self-sustaining chain reaction?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 254\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"234\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">One neutron causes one fission</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Three neutrons are released</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Fission</text><path d=\"M230 175 L230 187\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,186 234,186 230,192\" fill=\"#64748b\"/><rect x=\"40\" y=\"193\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"215\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">The diagram shows the idealised branching pattern; in practice, some neutrons escape or are absorbed without causing fission.</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Every neutron must escape from the fuel."
+      },
+      {
+        "key": "B",
+        "text": "On average, enough neutrons from each generation must cause further fissions to maintain the reaction."
+      },
+      {
+        "key": "C",
+        "text": "All neutrons must be absorbed by control rods."
+      },
+      {
+        "key": "D",
+        "text": "The fuel must contain only non-radioactive nuclei."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A self-sustaining chain reaction requires sufficient neutrons from one generation of fissions to initiate further fissions. If too few do so, the reaction dies away; if too many cause additional fissions without control, the rate can increase. Option C would suppress rather than sustain the chain reaction.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_22_2pa4a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Understanding a thickness gauge",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Beta source Moving sheet Detector Sheet becomes thicker → detector count rate decreases, with source strength and other conditions held constant. The detector reading falls below the calibrated range. Which conclusion and corrective action are most appropriate?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 160\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n      <rect x=\"10\" y=\"10\" width=\"420\" height=\"140\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/>\n      <rect x=\"25\" y=\"45\" width=\"40\" height=\"70\" rx=\"4\" fill=\"#334155\"/>\n      <text x=\"45\" y=\"85\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#ffffff\">Source</text>\n      <rect x=\"140\" y=\"30\" width=\"12\" height=\"100\" fill=\"#fef08a\" stroke=\"#ca8a04\" stroke-width=\"1\"/>\n      <text x=\"146\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#854d0e\">Paper</text>\n      <rect x=\"230\" y=\"30\" width=\"16\" height=\"100\" fill=\"#cbd5e1\" stroke=\"#64748b\" stroke-width=\"1\"/>\n      <text x=\"238\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#475569\">Aluminium</text>\n      <rect x=\"330\" y=\"30\" width=\"24\" height=\"100\" fill=\"#94a3b8\" stroke=\"#334155\" stroke-width=\"1.5\"/>\n      <text x=\"342\" y=\"145\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1e293b\">Lead</text>\n      <path d=\"M65 60 H140\" stroke=\"#ef4444\" stroke-width=\"2.5\" stroke-dasharray=\"4 2\"/>\n      <circle cx=\"140\" cy=\"60\" r=\"3\" fill=\"#ef4444\"/>\n      <text x=\"100\" y=\"54\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#ef4444\">α-ray</text>\n      <path d=\"M65 80 H230\" stroke=\"#3b82f6\" stroke-width=\"2\"/>\n      <circle cx=\"230\" cy=\"80\" r=\"3\" fill=\"#3b82f6\"/>\n      <text x=\"180\" y=\"74\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#3b82f6\">β-ray</text>\n      <path d=\"M65 100 H335\" stroke=\"#10b981\" stroke-width=\"2\" stroke-dasharray=\"2 2\"/>\n      <path d=\"M335 100 L390 100\" stroke=\"#10b981\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n      <text x=\"280\" y=\"94\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#10b981\">γ-ray</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The sheet must be thinner; move the source farther away to increase absorption."
+      },
+      {
+        "key": "B",
+        "text": "The beta source has necessarily stopped emitting radiation; replace it immediately."
+      },
+      {
+        "key": "C",
+        "text": "The sheet may be too thick for the calibrated operating range; reduce the thickness or adjust the gauge's calibrated operating arrangement."
+      },
+      {
+        "key": "D",
+        "text": "The reading proves that the sheet has become radioactive."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A thickness gauge infers sheet thickness from the radiation reaching the detector. A thicker sheet generally absorbs more beta radiation, reducing the detector count rate. A very low reading may be outside the calibration range; it does not by itself prove source failure or induced radioactivity.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_23_pxmbz",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Determining the role of a moderator from neutron paths",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "Fast neutron Moderator Slower neutron Increased chance of fission in a suitable thermal reactor A student argues that because the moderator slows neutrons, it must stop the chain reaction. Which statement best evaluates this argument?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 100\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"80\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#cbd5e1\" stroke-width=\"1.5\"/>\n    <rect x=\"30\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n    <text x=\"85\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e40af\">Parent Nucleus</text>\n    <text x=\"85\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A_Z X</text>\n    <path d=\"M145 50 L185 50\" stroke=\"#64748b\" stroke-width=\"2\"/>\n    <polygon points=\"183,46 193,50 183,54\" fill=\"#64748b\"/>\n    <text x=\"165\" y=\"42\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#64748b\">decay</text>\n    <rect x=\"198\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#f0fdf4\" stroke=\"#22c55e\" stroke-width=\"1.5\"/>\n    <text x=\"253\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#166534\">Daughter</text>\n    <text x=\"253\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A'_Z' Y</text>\n    <text x=\"325\" y=\"55\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"#64748b\">+</text>\n    <rect x=\"345\" y=\"25\" width=\"70\" height=\"50\" rx=\"6\" fill=\"#fef2f2\" stroke=\"#ef4444\" stroke-width=\"1.5\"/>\n    <text x=\"380\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#dc2626\">α / β / γ</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Correct; slower neutrons cannot cause fission in any material."
+      },
+      {
+        "key": "B",
+        "text": "Correct; slowing neutrons is exactly the same as absorbing them completely."
+      },
+      {
+        "key": "C",
+        "text": "Incorrect; a suitable moderator slows neutrons without necessarily absorbing them, and slower neutrons can be more effective at causing fission in a suitable reactor."
+      },
+      {
+        "key": "D",
+        "text": "Incorrect; the moderator's primary function is to cool the fuel and remove all fission products."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Moderation reduces neutron speed through collisions, while control rods regulate the chain reaction by absorbing neutrons. In suitable reactors using fissile fuel such as uranium-235, slower neutrons can have a higher probability of causing fission. Option B confuses reducing neutron energy with removing neutrons from the reaction.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_24_b1ri7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Understanding a thickness gauge",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "</row> Sheet becomes thicker → detector count rate decreases, with source strength and other conditions held constant. The detector reading falls below the calibrated range. Which conclusion and corrective action are most appropriate?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 254\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"234\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Beta source</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Moving sheet</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Detector</text><path d=\"M230 175 L230 187\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,186 234,186 230,192\" fill=\"#64748b\"/><rect x=\"40\" y=\"193\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"215\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Sheet becomes thicker → detector count rate decreases, with source strength and other conditions held constant.</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The sheet must be thinner; move the source farther away to increase absorption."
+      },
+      {
+        "key": "B",
+        "text": "The beta source has necessarily stopped emitting radiation; replace it immediately."
+      },
+      {
+        "key": "C",
+        "text": "The sheet may be too thick for the calibrated operating range; reduce the thickness or adjust the gauge's calibrated operating arrangement."
+      },
+      {
+        "key": "D",
+        "text": "The reading proves that the sheet has become radioactive."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A thickness gauge infers sheet thickness from the radiation reaching the detector. A thicker sheet generally absorbs more beta radiation, reducing the detector count rate. A very low reading may be outside the calibration range; it does not by itself prove source failure or induced radioactivity.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_25_oj7ov",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Determining the role of a moderator from neutron paths",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "</row> <row justify=\"center\"> </row> A student argues that because the moderator slows neutrons, it must stop the chain reaction. Which statement best evaluates this argument?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 254\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"234\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Fast neutron</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Moderator</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Slower neutron</text><path d=\"M230 175 L230 187\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,186 234,186 230,192\" fill=\"#64748b\"/><rect x=\"40\" y=\"193\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"215\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Increased chance of fission in a suitable thermal reactor</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Correct; slower neutrons cannot cause fission in any material."
+      },
+      {
+        "key": "B",
+        "text": "Correct; slowing neutrons is exactly the same as absorbing them completely."
+      },
+      {
+        "key": "C",
+        "text": "Incorrect; a suitable moderator slows neutrons without necessarily absorbing them, and slower neutrons can be more effective at causing fission in a suitable reactor."
+      },
+      {
+        "key": "D",
+        "text": "Incorrect; the moderator's primary function is to cool the fuel and remove all fission products."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Moderation reduces neutron speed through collisions, while control rods regulate the chain reaction by absorbing neutrons. In suitable reactors using fissile fuel such as uranium-235, slower neutrons can have a higher probability of causing fission. Option B confuses reducing neutron energy with removing neutrons from the reaction.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_26_lxs9c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "chapter": "Radioactivity",
+    "title": "Comparing Curvature Radii in a Magnetic Chamber",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "complex",
+      "hots"
+    ],
+    "question": "In a cloud chamber subjected to a magnetic field, the radius of circular curvature r of a charged particle is governed by r = mv / (qB). Why is the radius of circular curvature for an alpha particle track significantly LARGER than that of a beta particle track of comparable kinetic energy?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 360 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect width=\"100%\" height=\"100%\" fill=\"#fffcf7\" rx=\"8\"/>\n  <!-- Gentle wide curve of Alpha -->\n  <path d=\"M 60 160 A 180 180 0 0 1 200 30\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"3\"/>\n  <text x=\"130\" y=\"70\" font-size=\"11\" font-weight=\"700\" fill=\"#dc2626\">Alpha Track (Large r_α)</text>\n  <!-- Sharp tight spiral/circle of Beta -->\n  <circle cx=\"280\" cy=\"110\" r=\"32\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n  <text x=\"245\" y=\"160\" font-size=\"11\" font-weight=\"700\" fill=\"#2563eb\">Beta Track (Small r_β)</text>\n</svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alpha particles possess vastly greater momentum p = √(2mK) due to their 7340-fold greater mass, yielding a much larger orbit radius r = p / (qB)."
+      },
+      {
+        "key": "B",
+        "text": "Alpha particles have no electric charge, so their radius is infinite."
+      },
+      {
+        "key": "C",
+        "text": "The magnetic field selectively repels beta particles more strongly."
+      },
+      {
+        "key": "D",
+        "text": "Beta particles travel faster than light in the chamber."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Radius of circular path in magnetic field is r = p / (qB) = √(2mK) / (qB).\nFor comparable kinetic energies K, the ratio of radii is:\nr_α / r_β = (√(m_α) / q_α) / (√(m_β) / q_β) = (√(7340 m_e) / 2e) / (√(m_e) / e) = (√7340) / 2 ≈ 85.7 / 2 ≈ 43.\nBecause the alpha particle's huge mass gives it vastly greater momentum for the same kinetic energy, its trajectory is much straighter (much larger radius of curvature r_α).",
+    "concept_name": "Radius of Curvature in Magnetic Cloud Chambers",
+    "concept_tag": "magnetic_radius_curvature_alpha_beta",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified",
+    "sectionName": "HOTS"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_27_svau6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Detecting a false conclusion from a decay curve",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A radioactive sample's net activity falls from 1200 Bq to 150 Bq in 18 hours. A student claims that the sample's half-life is 9 hours because the activity has fallen by 1050 Bq. Which assessment is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\"><text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">HOTS Analytical Diagram: Detecting a false conclusion from a decay curve</text><rect x=\"40\" y=\"45\" width=\"380\" height=\"95\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/><text x=\"230\" y=\"72\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"700\" fill=\"#1e40af\">High Order Thinking Principles</text><text x=\"230\" y=\"94\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">Refer to the experimental variables and quantitative relationships in the problem</text><text x=\"230\" y=\"114\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#16a34a\">Rigorous ICSE Class 10 Syllabus Correlation</text><text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Standard Analytical Schema</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The student is correct because activity must decrease by equal absolute amounts."
+      },
+      {
+        "key": "B",
+        "text": "The student is incorrect; the activity undergoes three half-lives in 18 hours, so the half-life is 6 hours."
+      },
+      {
+        "key": "C",
+        "text": "The student is incorrect; the half-life is 18 hours because the sample remains radioactive."
+      },
+      {
+        "key": "D",
+        "text": "The student is correct because 150 Bq is one-eighth of 1200 Bq."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1200→600→300→150\n\n\nThree half-lives occur in 18 hours, giving 18/3=6 hours per half-life. Option D identifies the remaining fraction correctly but incorrectly concludes that one-eighth represents two half-lives.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_28_a7tv3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Finding the number of alpha and beta emissions",
+    "question_type": "hots",
+    "types_supported": [
+      "numerical",
+      "complex",
+      "hots"
+    ],
+    "question": "A radioactive parent nucleus,{}^_mathrm U ultimately becomes,{}^_Pb through a sequence containing only alpha and beta-minus emissions. How many alpha particles and beta-minus particles are emitted?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6 alpha and 4 beta-minus"
+      },
+      {
+        "key": "B",
+        "text": "8 alpha and 6 beta-minus"
+      },
+      {
+        "key": "C",
+        "text": "4 alpha and 8 beta-minus"
+      },
+      {
+        "key": "D",
+        "text": "8 alpha and 4 beta-minus"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The mass number decreases by 238-206=32. Each alpha emission reduces A by 4, so:\n\n\nNumber of alpha particles=(32 / 4)=8\n\n\nEight alpha emissions reduce Z from 92 to 92-16=76. To reach Z=82, six beta-minus emissions are required.\n\n**Correction check:** The correct combination is **8 alpha and 6 beta-minus**, option B. Option D is incorrect because it does not account for the final atomic number.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_29_p3z5t",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Determining the missing daughter in a nuclear equation",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": ",{}^_Po, ###? Daughter nucleus,{}^_He, Which nuclide completes the equation?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 100\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"10\" y=\"10\" width=\"420\" height=\"80\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#cbd5e1\" stroke-width=\"1.5\"/>\n    <rect x=\"30\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n    <text x=\"85\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e40af\">Parent Nucleus</text>\n    <text x=\"85\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A_Z X</text>\n    <path d=\"M145 50 L185 50\" stroke=\"#64748b\" stroke-width=\"2\"/>\n    <polygon points=\"183,46 193,50 183,54\" fill=\"#64748b\"/>\n    <text x=\"165\" y=\"42\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#64748b\">decay</text>\n    <rect x=\"198\" y=\"25\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#f0fdf4\" stroke=\"#22c55e\" stroke-width=\"1.5\"/>\n    <text x=\"253\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#166534\">Daughter</text>\n    <text x=\"253\" y=\"63\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1e293b\">^A'_Z' Y</text>\n    <text x=\"325\" y=\"55\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"#64748b\">+</text>\n    <rect x=\"345\" y=\"25\" width=\"70\" height=\"50\" rx=\"6\" fill=\"#fef2f2\" stroke=\"#ef4444\" stroke-width=\"1.5\"/>\n    <text x=\"380\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#dc2626\">α / β / γ</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": ",{}^{206}_{82}Pb"
+      },
+      {
+        "key": "B",
+        "text": ",{}^{210}_{85}At"
+      },
+      {
+        "key": "C",
+        "text": ",{}^{206}_{84}Po"
+      },
+      {
+        "key": "D",
+        "text": ",{}^{214}_{86}Rn"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Subtract the emitted alpha particle's numbers from those of the parent:\n\n\nA=210-4=206,qquad Z=84-2=82.\n\n\nThe daughter is lead-206, ,{}^{206}_{82}Pb. Option C subtracts the mass number but incorrectly retains the original atomic number.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_hots_radioactivity_30_sivlu",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "HOTS",
+    "chapter": "Radioactivity",
+    "title": "Determining the missing daughter in a nuclear equation",
+    "question_type": "hots",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex",
+      "hots"
+    ],
+    "question": "</row> Which nuclide completes the equation?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 198\" width=\"100%\" class=\"q-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"178\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#e2e8f0\" stroke-width=\"1\"/><rect x=\"40\" y=\"25\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"47\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">\\(\\,{}^{210}_{84}\\mathrm{Po}\\,\\)</text><path d=\"M230 63 L230 75\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,74 234,74 230,80\" fill=\"#64748b\"/><rect x=\"40\" y=\"81\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"103\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">Daughter nucleus</text><path d=\"M230 119 L230 131\" stroke=\"#64748b\" stroke-width=\"2\"/><polygon points=\"226,130 234,130 230,136\" fill=\"#64748b\"/><rect x=\"40\" y=\"137\" width=\"380\" height=\"36\" rx=\"6\" fill=\"#ffffff\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/><text x=\"230\" y=\"159\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1e293b\">\\(\\,{}^{4}_{2}\\mathrm{He}\\,\\)</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": ",{}^{206}_{82}Pb"
+      },
+      {
+        "key": "B",
+        "text": ",{}^{210}_{85}At"
+      },
+      {
+        "key": "C",
+        "text": ",{}^{206}_{84}Po"
+      },
+      {
+        "key": "D",
+        "text": ",{}^{214}_{86}Rn"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Subtract the emitted alpha particle's numbers from those of the parent:\n\n\nA=210-4=206,qquad Z=84-2=82.\n\n\nThe daughter is lead-206, ,{}^{206}_{82}Pb. Option C subtracts the mass number but incorrectly retains the original atomic number.",
+    "concept_name": "Radioactivity",
+    "concept_tag": "radioactivity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics HOTS Question Bank",
+    "source_status": "verified"
+  }
+]

@@ -1,0 +1,1551 @@
+{
+  "chemistry_periodic_table.json": [
+    {
+      "idx": 1,
+      "globalId": "qb_chem_periodic_table_diagrammatic_11_53a0b1",
+      "title": "Identifying the d-block",
+      "q": "s-block d-block p-block Central block highlighted; the table fragment is schematic. Iron (Fe, atomic number 26) is highl",
+      "skeleton": "figure position of iron in the long form periodic table div style background f8fafc border 1px solid"
+    },
+    {
+      "idx": 2,
+      "globalId": "qb_chem_periodic_table_diagrammatic_12_3c1444",
+      "title": "Newlands' law of octaves",
+      "q": "1st and 8th positions: Li and Na Which limitation is most accurately associated with Newlands' law?",
+      "skeleton": "figure historical sequence arranged by increasing atomic mass div style background f8fafc border 1px"
+    },
+    {
+      "idx": 3,
+      "globalId": "qb_chem_periodic_table_diagrammatic_14_ffc394",
+      "title": "The position of hydrogen",
+      "q": "H 1 electron 1s¹ Li 2, 1 Loses 1 e⁻ F 2, 7 Gains 1 e⁻ H resembles Group 1 in electron loss H can also gain 1 e⁻ Why is h",
+      "skeleton": "figure hydrogen s position and its two possible chemical similarities div style background f8fafc bo"
+    },
+    {
+      "idx": 4,
+      "globalId": "qb_chem_periodic_table_diagrammatic_15_2fe75d",
+      "title": "Identifying an amphoteric oxide from its reaction pattern",
+      "q": "Al₂O₃ Aluminium oxide Acid Reacts Base Reacts A student observes that aluminium oxide reacts with both acids and bases. ",
+      "skeleton": "figure aluminium oxide reacting with both an acid and a base div style background f8fafc border 1px "
+    },
+    {
+      "idx": 5,
+      "globalId": "qb_chem_periodic_table_diagrammatic_16_59729c",
+      "title": "Comparing atomic size and metallic character",
+      "q": "Atomic radius Metallic character Qualitative representation: both atomic radius and metallic character generally decreas",
+      "skeleton": "figure qualitative trends across period 3 div style background f8fafc border 1px solid cbd5e1 border"
+    },
+    {
+      "idx": 6,
+      "globalId": "qb_chem_periodic_table_diagrammatic_17_9b7bae",
+      "title": "Predicting an ion's charge from a Lewis-dot diagram",
+      "q": "Mg 2 valence e⁻ Transfer O 6 valence e⁻ Mg²⁺ O²⁻ Which explanation correctly follows from the electron transfer?",
+      "skeleton": "figure electron dot representation of magnesium oxide formation div style background f8fafc border 1"
+    },
+    {
+      "idx": 7,
+      "globalId": "qb_chem_periodic_table_diagrammatic_18_b56a13",
+      "title": "Locating the block from the final subshell",
+      "q": "s d p f-block: two detached rows An element has the outer electronic configuration 3s²,3p^5. Which block and group does ",
+      "skeleton": "figure colour coded regions of the long form periodic table div style background f8fafc border 1px s"
+    },
+    {
+      "idx": 8,
+      "globalId": "qb_chem_periodic_table_diagrammatic_19_f9c1fc",
+      "title": "Understanding the relative sizes of an isoelectronic series",
+      "q": "Each ion contains 10 electrons. Illustrative size ranking only; all four ions have the Ne electron configuration. Which ",
+      "skeleton": "figure four ions with the same number of electrons div style background f8fafc border 1px solid cbd5"
+    },
+    {
+      "idx": 9,
+      "globalId": "qb_chem_periodic_table_diagrammatic_20_90dc83",
+      "title": "Comparing a Mendeleev table with the modern table",
+      "q": "Historical ordering Tellurium 127.6 Iodine 126.9 Atomic-mass order conflicts with chemical placement. Modern ordering Te",
+      "skeleton": "figure an atomic mass anomaly and its modern resolution div style background f8fafc border 1px solid"
+    },
+    {
+      "idx": 10,
+      "globalId": "qb_chem_periodic_table_diagrammatic_21_0cd06b",
+      "title": "Identifying the correct period length",
+      "q": "A student concludes that Period 1 should contain eight elements because the first shell can hold up to two electrons and",
+      "skeleton": "figure coloured outline of the first three periods div style background f8fafc border 1px solid cbd5"
+    },
+    {
+      "idx": 11,
+      "globalId": "qb_chem_periodic_table_diagrammatic_22_fffa77",
+      "title": "Recognising Dobereiner's triads",
+      "q": "Middle mass compared with the outer two Which observation best supports the classification of lithium, sodium and potass",
+      "skeleton": "figure three related elements and their approximate atomic masses div style background f8fafc border"
+    },
+    {
+      "idx": 12,
+      "globalId": "qb_chem_periodic_table_diagrammatic_23_ed6887",
+      "title": "Distinguishing groups from periods",
+      "q": "Period Horizontal row Group Vertical column Which statement correctly compares lithium (atomic number 3), sodium (11), a",
+      "skeleton": "figure a highlighted row and column in the periodic table div style background f8fafc border 1px sol"
+    },
+    {
+      "idx": 13,
+      "globalId": "qb_chem_periodic_table_diagrammatic_24_229864",
+      "title": "Identifying the four blocks",
+      "q": "Modern periodic table — schematic blocks s Left d Centre p Right f-block Two detached rows at the bottom Which statement",
+      "skeleton": "figure coloured regions of the modern periodic table div style background f8fafc border 1px solid cb"
+    },
+    {
+      "idx": 14,
+      "globalId": "qb_chem_periodic_table_diagrammatic_25_4a27ca",
+      "title": "Stable configuration of a noble gas",
+      "q": "K = 2 L = 8 M = 8 Argon · Atomic number 18 Which explanation best accounts for argon's low chemical reactivity under ord",
+      "skeleton": "figure electron shell diagram of argon div style background f8fafc border 1px solid cbd5e1 border ra"
+    },
+    {
+      "idx": 15,
+      "globalId": "qb_chem_periodic_table_diagrammatic_26_c73ece",
+      "title": "Metallic character down Group 1",
+      "q": "Metallic character and ease of electron loss increase Why does potassium generally lose its outer electron more readily ",
+      "skeleton": "figure trend in the alkali metal group div style background f8fafc border 1px solid cbd5e1 border ra"
+    },
+    {
+      "idx": 16,
+      "globalId": "qb_chem_periodic_table_diagrammatic_27_5888c1",
+      "title": "Valency across Period 2",
+      "q": "Common valencies of Period 2 elements, moving from lithium to neon. Which statement correctly interprets the pattern sho",
+      "skeleton": "figure valency pattern of representative elements div style background f8fafc border 1px solid cbd5e"
+    },
+    {
+      "idx": 17,
+      "globalId": "qb_chem_periodic_table_diagrammatic_28_c054d8",
+      "title": "Comparing an anion with its neutral atom",
+      "q": "Cl atom** 17 electrons **Cl⁻ ion** 18 electrons Schematic size comparison; the ion is represented with a larger electron",
+      "skeleton": "figure chlorine atom accepting one electron div style background f8fafc border 1px solid cbd5e1 bord"
+    },
+    {
+      "idx": 18,
+      "globalId": "qb_chem_periodic_table_diagrammatic_29_764024",
+      "title": "Interpreting the ionic bond in sodium chloride",
+      "q": "Na 1 valence e⁻ e⁻ transfer Cl 7 valence e⁻ Na⁺ Cl⁻ Which statement best explains the bonding in sodium chloride?",
+      "skeleton": "figure electron transfer and resulting ions div style background f8fafc border 1px solid cbd5e1 bord"
+    },
+    {
+      "idx": 19,
+      "globalId": "qb_chem_periodic_table_diagrammatic_30_45d823",
+      "title": "Resolving the cobalt–nickel ordering anomaly",
+      "q": "Approximate atomic mass Co 58.93 Ni 58.69 Atomic number Co Z = 27 Ni Z = 28 Why does the modern periodic table place cob",
+      "skeleton": "figure atomic mass order compared with atomic number order div style background f8fafc border 1px so"
+    },
+    {
+      "idx": 20,
+      "globalId": "qb_chem_periodic_table_diagrammatic_31_4b7b0b",
+      "title": "Understanding the detached f-block rows",
+      "q": "Main body of the periodic table Lanthanides — Period 6 Actinides — Period 7 Why are these two series conventionally disp",
+      "skeleton": "figure position of the lanthanides and actinides div style background f8fafc border 1px solid cbd5e1"
+    },
+    {
+      "idx": 21,
+      "globalId": "qb_chem_periodic_table_diagrammatic_32_f33bdf",
+      "title": "Inferring an element's period from its shell diagram",
+      "q": "K shell L shell M shell The diagram shows three occupied shells. Which inference is justified even if the exact number o",
+      "skeleton": "figure three occupied electron shells div style background f8fafc border 1px solid cbd5e1 border rad"
+    },
+    {
+      "idx": 22,
+      "globalId": "qb_chem_periodic_table_diagrammatic_33_6af4a3",
+      "title": "Comparing the reactivity of halogens",
+      "q": "Qualitative trend for halogen reactivity; bars are illustrative. Which explanation best accounts for the decreasing reac",
+      "skeleton": "figure downward trend in group 17 div style background f8fafc border 1px solid cbd5e1 border radius "
+    },
+    {
+      "idx": 23,
+      "globalId": "qb_chem_periodic_table_diagrammatic_34_6e00e6",
+      "title": "Predicting a halogen-displacement reaction",
+      "q": "Chlorine water KBr solution Displacement possible Which outcome is expected when chlorine water is added to aqueous pota",
+      "skeleton": "figure a chlorine solution added to potassium bromide solution div style background f8fafc border 1p"
+    },
+    {
+      "idx": 24,
+      "globalId": "qb_chem_periodic_table_diagrammatic_35_a0d767",
+      "title": "Comparing first ionisation energy in Groups 2 and 13",
+      "q": "Qualitative first-ionisation-energy curve. The highlighted dip is from Mg to Al. Which statement correctly explains why ",
+      "skeleton": "figure schematic comparison of successive elements across period 3 div style background f8fafc borde"
+    },
+    {
+      "idx": 25,
+      "globalId": "qb_chem_periodic_table_diagrammatic_36_2ee8a4",
+      "title": "Correct group numbering for a p-block element",
+      "q": "For Groups 13–18, the usual valence-electron count is the group number minus 10, with helium as a special case. An eleme",
+      "skeleton": "figure highlighted p block columns div style background f8fafc border 1px solid cbd5e1 border radius"
+    },
+    {
+      "idx": 26,
+      "globalId": "qb_chem_periodic_table_diagrammatic_37_631bf5",
+      "title": "Predicting the bonding between magnesium and chlorine",
+      "q": "Mg 2 valence e⁻ 1 e⁻ to each Cl Cl Cl Mg²⁺ 2Cl⁻ Which statement correctly predicts the formula and bonding in the compou",
+      "skeleton": "figure electron transfer from magnesium to two chlorine atoms div style background f8fafc border 1px"
+    },
+    {
+      "idx": 27,
+      "globalId": "qb_chem_periodic_table_diagrammatic_38_6ce2e3",
+      "title": "Why noble gases generally have zero valency",
+      "q": "Neon 2, 8 Argon 2, 8, 8 Which statement most accurately explains the usual valency of neon and argon?",
+      "skeleton": "figure complete outer shells div style background f8fafc border 1px solid cbd5e1 border radius 8px p"
+    },
+    {
+      "idx": 28,
+      "globalId": "qb_chem_periodic_table_diagrammatic_39_25ec42",
+      "title": "Same period does not mean same valence-electron count",
+      "q": "valence e⁻ Which conclusion follows from the diagram?",
+      "skeleton": "figure three elements from period 3 div style background f8fafc border 1px solid cbd5e1 border radiu"
+    },
+    {
+      "idx": 29,
+      "globalId": "qb_chem_periodic_table_diagrammatic_40_a7f038",
+      "title": "Interpreting the number of groups and periods",
+      "q": "18 groups Vertical columns 7 periods Horizontal rows Structural schematic: the actual periods contain different numbers ",
+      "skeleton": "figure structure of the modern long form periodic table div style background f8fafc border 1px solid"
+    }
+  ],
+  "chemistry_acids_bases_and_salts.json": [
+    {
+      "idx": 1,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_1_d0bac9",
+      "title": "Interpreting a pH scale",
+      "q": "A horizontal pH scale at room temperature is marked from 0 to 14. The following solutions are placed at their respective",
+      "skeleton": "figure a horizontal ph scale at room temperature is marked from 0 to 14 the following solutions are "
+    },
+    {
+      "idx": 2,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_2_872d42",
+      "title": "Reading a universal indicator chart",
+      "q": "Four test tubes are compared against a universal indicator colour chart. The chart progresses from red at low pH through",
+      "skeleton": "figure four test tubes are compared against a universal indicator colour chart div style background "
+    },
+    {
+      "idx": 3,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_3_54dba0",
+      "title": "Choosing the correct indicator",
+      "q": "Three pairs of test tubes contain dilute hydrochloric acid, HCl(aq), and sodium hydroxide solution, NaOH(aq). The indica",
+      "skeleton": "figure three pairs of test tubes contain dilute hydrochloric acid hcl aq and sodium hydroxide soluti"
+    },
+    {
+      "idx": 4,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_4_ef32f2",
+      "title": "Testing hydrogen evolved from a metal",
+      "q": "Zinc granules react with dilute hydrochloric acid in a conical flask. A delivery tube carries the gas into an inverted t",
+      "skeleton": "figure zinc granules react with dilute hydrochloric acid in a conical flask a delivery tube carries "
+    },
+    {
+      "idx": 5,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_5_22ba92",
+      "title": "Identifying the gas from an acid–carbonate reaction",
+      "q": "Dilute hydrochloric acid is added to calcium carbonate chips in a flask. The evolved gas passes through a delivery tube ",
+      "skeleton": "figure dilute hydrochloric acid is added to calcium carbonate chips in a flask the evolved gas passe"
+    },
+    {
+      "idx": 6,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_6_7d7a5d",
+      "title": "Comparing the conductivity of strong and weak acids",
+      "q": "Two conductivity circuits have identical batteries, bulbs, electrodes and equal volumes of acid solutions at the same te",
+      "skeleton": "figure two conductivity circuits have identical batteries bulbs electrodes and equal volumes of acid"
+    },
+    {
+      "idx": 7,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_7_ba6d24",
+      "title": "Detecting the endpoint of neutralisation",
+      "q": "A burette containing sodium hydroxide solution, NaOH(aq), is placed above a conical flask containing hydrochloric acid, ",
+      "skeleton": "figure a burette containing sodium hydroxide solution naoh aq is placed above a conical flask contai"
+    },
+    {
+      "idx": 8,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_8_1efa06",
+      "title": "Why hydrogen ions do not exist alone in water",
+      "q": "A diagram shows a proton released by an acid immediately associating with a water molecule. The resulting H_3O⁺ ion is s",
+      "skeleton": "figure a diagram shows a proton released by an acid immediately associating with a water molecule th"
+    },
+    {
+      "idx": 9,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_9_e4be8f",
+      "title": "Interpreting a base-dissociation diagram",
+      "q": "A beaker contains aqueous calcium hydroxide, Ca(OH)₂(aq). A particle diagram shows each formula unit represented by one ",
+      "skeleton": "figure a beaker contains aqueous calcium hydroxide ca oh 2 aq a particle diagram shows each formula "
+    },
+    {
+      "idx": 10,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_10_e86ac5",
+      "title": "Selecting the correct method to prepare zinc sulphate",
+      "q": "A flow chart offers three possible starting materials for preparing zinc sulphate, ZnSO₄, using dilute sulphuric acid, H",
+      "skeleton": "figure a flow chart offers three possible starting materials for preparing zinc sulphate znso 4 usin"
+    },
+    {
+      "idx": 11,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_11_44c2ad",
+      "title": "Preparing an insoluble salt by precipitation",
+      "q": "Two separate aqueous solutions, lead nitrate, Pb(NO₃)₂(aq), and sodium sulphate, Na_2SO₄(aq), are mixed in a beaker. A w",
+      "skeleton": "figure two separate aqueous solutions lead nitrate pb no 3 2 aq and sodium sulphate na 2so 4 aq are "
+    },
+    {
+      "idx": 12,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_12_bfad7b",
+      "title": "Choosing a preparation method from a flow chart",
+      "q": "A flow chart classifies a target salt according to its solubility in water. **Identify the target salt** **Soluble salt*",
+      "skeleton": "figure a flow chart classifies a target salt according to its solubility in water div style backgrou"
+    },
+    {
+      "idx": 13,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_13_070300",
+      "title": "Classifying oxides from experimental observations",
+      "q": "Three separate experiments show the following reactions. **Experiment P** Sodium oxide, Na_2O, reacts with dilute hydroc",
+      "skeleton": "figure three separate experiments show the following reactions div style background f8fafc border 1p"
+    },
+    {
+      "idx": 14,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_14_42df39",
+      "title": "Reading a qualitative pH-versus-base graph",
+      "q": "A graph plots pH on the vertical axis against the volume of sodium hydroxide, NaOH(aq), added to a fixed volume of hydro",
+      "skeleton": "figure a graph plots ph on the vertical axis against the volume of sodium hydroxide naoh aq added to"
+    },
+    {
+      "idx": 15,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_15_d9d277",
+      "title": "Interpreting a dilution graph",
+      "q": "Two curves represent the pH of a strong acid, hydrochloric acid, HCl(aq), and a strong base, sodium hydroxide, NaOH(aq),",
+      "skeleton": "figure two curves represent the ph of a strong acid hydrochloric acid hcl aq and a strong base sodiu"
+    },
+    {
+      "idx": 16,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_16_7c0ba4",
+      "title": "Distinguishing a normal salt, an acid salt and a basic salt",
+      "q": "Three molecular models represent the products of different degrees of neutralisation. P NaCl Q NaHSO₄ R Zn(OH)Cl Which c",
+      "skeleton": "figure three molecular models represent the products of different degrees of neutralisation div styl"
+    },
+    {
+      "idx": 17,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_17_fcb537",
+      "title": "Explaining why dry hydrogen chloride does not affect dry litmus",
+      "q": "Two separate setups are shown. In setup P, dry hydrogen chloride gas, HCl(g), comes into contact with dry blue litmus pa",
+      "skeleton": "figure two separate setups are shown in setup p dry hydrogen chloride gas hcl g comes into contact w"
+    },
+    {
+      "idx": 18,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_18_d1f60e",
+      "title": "Identifying the correct reaction of an alkali with an ammonium salt",
+      "q": "A test tube contains ammonium chloride, NH_4Cl, and sodium hydroxide solution, NaOH(aq). The mixture is warmed gently, a",
+      "skeleton": "figure a test tube contains ammonium chloride nh 4cl and sodium hydroxide solution naoh aq the mixtu"
+    },
+    {
+      "idx": 19,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_19_506e72",
+      "title": "Predicting the precipitate formed by a base and a metal salt",
+      "q": "Three test tubes contain aqueous copper sulphate, CuSO₄(aq), iron(II) sulphate, FeSO₄(aq), and iron(III) chloride, FeCl₃",
+      "skeleton": "figure three test tubes contain aqueous copper sulphate cuso 4 aq iron ii sulphate feso 4 aq and iro"
+    },
+    {
+      "idx": 20,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_20_cde3e8",
+      "title": "Choosing suitable metals for preparing sulphates",
+      "q": "Three separate reaction vessels contain dilute sulphuric acid, H_2SO₄(aq). The following metals are proposed as starting",
+      "skeleton": "figure three separate reaction vessels contain dilute sulphuric acid h 2so 4 aq the following metals"
+    },
+    {
+      "idx": 21,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_21_3b537c",
+      "title": "Identifying the correct salt-preparation apparatus",
+      "q": "Two apparatus arrangements are proposed for preparing copper(II) sulphate, CuSO₄, from dilute sulphuric acid, H_2SO₄, an",
+      "skeleton": "figure two apparatus arrangements are proposed for preparing copper ii sulphate cuso 4 from dilute s"
+    },
+    {
+      "idx": 22,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_22_38942f",
+      "title": "Detecting the correct sequence in sodium chloride preparation",
+      "q": "A flow chart shows an acid–alkali titration used to prepare sodium chloride, NaCl, from hydrochloric acid, HCl, and sodi",
+      "skeleton": "figure a flow chart shows an acid alkali titration used to prepare sodium chloride nacl from hydroch"
+    },
+    {
+      "idx": 23,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_23_fcc0bd",
+      "title": "Distinguishing acidic and basic oxides experimentally",
+      "q": "Two gases are passed separately into aqueous sodium hydroxide, NaOH(aq), and dilute hydrochloric acid, HCl(aq), respecti",
+      "skeleton": "figure two gases are passed separately into aqueous sodium hydroxide naoh aq and dilute hydrochloric"
+    },
+    {
+      "idx": 24,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_24_d2a420",
+      "title": "Choosing the correct apparatus for a soluble salt from a carbonate",
+      "q": "A student prepares zinc sulphate, ZnSO₄, by reacting zinc carbonate, ZnCO₃, with dilute sulphuric acid, H_2SO₄. Three ap",
+      "skeleton": "figure a student prepares zinc sulphate znso 4 by reacting zinc carbonate znco 3 with dilute sulphur"
+    },
+    {
+      "idx": 25,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_25_542a71",
+      "title": "Distinguishing the effects of dilute acids on sulphites and sulphides",
+      "q": "Two reaction flasks are fitted with delivery tubes. Flask P contains sodium sulphite, Na_2SO₃, and dilute hydrochloric a",
+      "skeleton": "figure two reaction flasks are fitted with delivery tubes flask p contains sodium sulphite na 2so 3 "
+    },
+    {
+      "idx": 26,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_26_c30fc2",
+      "title": "Identifying an amphoteric hydroxide from two experiments",
+      "q": "Two test tubes contain aluminium hydroxide, Al(OH)₃. Dilute hydrochloric acid is added to tube P, while excess sodium hy",
+      "skeleton": "figure two test tubes contain aluminium hydroxide al oh 3 dilute hydrochloric acid is added to tube "
+    },
+    {
+      "idx": 27,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_27_a16970",
+      "title": "Explaining neutralisation using particle diagrams",
+      "q": "A particle diagram shows a beaker containing hydrochloric acid, HCl(aq), and another containing sodium hydroxide, NaOH(a",
+      "skeleton": "figure a particle diagram shows a beaker containing hydrochloric acid hcl aq and another containing "
+    },
+    {
+      "idx": 28,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_28_09a1ec",
+      "title": "Understanding why adding water changes pH",
+      "q": "A student adds distilled water to a sample of hydrochloric acid, HCl(aq), in a beaker. A pH meter records the value befo",
+      "skeleton": "figure a student adds distilled water to a sample of hydrochloric acid hcl aq in a beaker a ph meter"
+    },
+    {
+      "idx": 29,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_29_e9506d",
+      "title": "Interpreting an indicator-observation table",
+      "q": "Four solutions, P, Q, R and S, are tested using litmus, methyl orange and phenolphthalein. The observations are recorded",
+      "skeleton": "figure four solutions p q r and s are tested using litmus methyl orange and phenolphthalein the obse"
+    },
+    {
+      "idx": 30,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_30_823edf",
+      "title": "Selecting the correct preparation of iron(II) chloride",
+      "q": "Two methods are proposed for preparing iron(II) chloride, FeCl₂. **Method P** Iron filings react with dilute hydrochlori",
+      "skeleton": "figure two methods are proposed for preparing iron ii chloride fecl 2 div style background f8fafc bo"
+    },
+    {
+      "idx": 31,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_31_cb6e70",
+      "title": "Identifying the correct test for an acidic solution",
+      "q": "Three separate strips of indicator paper are used to test dilute sulphuric acid, H_2SO₄(aq), at room temperature. **Stri",
+      "skeleton": "figure three separate strips of indicator paper are used to test dilute sulphuric acid h 2so 4 aq at"
+    },
+    {
+      "idx": 32,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_32_70585d",
+      "title": "Distinguishing concentration from acid strength",
+      "q": "Two conductivity vessels contain hydrochloric acid, HCl(aq), and ethanoic acid, CH_3COOH(aq). The hydrochloric acid is v",
+      "skeleton": "figure two conductivity vessels contain hydrochloric acid hcl aq and ethanoic acid ch 3cooh aq the h"
+    },
+    {
+      "idx": 33,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_33_9106e2",
+      "title": "Understanding the reaction of a base with a non-metal oxide",
+      "q": "Carbon dioxide, CO₂, is passed into two separate vessels. Vessel P contains sodium hydroxide solution, NaOH(aq), and ves",
+      "skeleton": "figure carbon dioxide co 2 is passed into two separate vessels vessel p contains sodium hydroxide so"
+    },
+    {
+      "idx": 34,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_34_59d0a6",
+      "title": "Identifying the correct procedure for preparing iron(II) sulphate",
+      "q": "A student adds iron filings, Fe, to warm dilute sulphuric acid, H_2SO₄, in a flask. The mixture is allowed to react, and",
+      "skeleton": "figure a student adds iron filings fe to warm dilute sulphuric acid h 2so 4 in a flask the mixture i"
+    },
+    {
+      "idx": 35,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_35_6f06e9",
+      "title": "Comparing three types of neutralisation",
+      "q": "Three reaction vessels contain different combinations of reactants: **Vessel P** Hydrochloric acid, HCl, and sodium hydr",
+      "skeleton": "figure three reaction vessels contain different combinations of reactants div style background f8faf"
+    },
+    {
+      "idx": 36,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_36_260325",
+      "title": "Selecting the appropriate method for preparing silver chloride",
+      "q": "Two aqueous solutions, silver nitrate, AgNO₃(aq), and sodium chloride, NaCl(aq), are placed in separate beakers. They ar",
+      "skeleton": "figure two aqueous solutions silver nitrate agno 3 aq and sodium chloride nacl aq are placed in sepa"
+    },
+    {
+      "idx": 37,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_37_829b59",
+      "title": "Understanding the action of water on acidic properties",
+      "q": "Dry hydrogen chloride gas, HCl(g), is passed into two separate arrangements. In setup P, the gas contacts dry blue litmu",
+      "skeleton": "figure dry hydrogen chloride gas hcl g is passed into two separate arrangements in setup p the gas c"
+    },
+    {
+      "idx": 38,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_38_53678d",
+      "title": "Identifying the correct method for preparing barium sulphate",
+      "q": "A student is given three possible reagent pairs for preparing insoluble barium sulphate, BaSO₄. **Pair P** Barium chlori",
+      "skeleton": "figure a student is given three possible reagent pairs for preparing insoluble barium sulphate baso "
+    },
+    {
+      "idx": 39,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_39_5e94b4",
+      "title": "Interpreting a pH comparison of everyday substances",
+      "q": "A universal indicator test produces the following approximate pH readings at room temperature. **Sample** **Approximate ",
+      "skeleton": "figure a universal indicator test produces the following approximate ph readings at room temperature"
+    },
+    {
+      "idx": 40,
+      "globalId": "qb_chem_acids_bases_and_salts_diagrammatic_40_fc7287",
+      "title": "Choosing a safe and effective method for preparing a soluble salt",
+      "q": "A laboratory flow chart compares three routes for preparing sodium sulphate, Na_2SO₄. **Target: sodium sulphate, Na_2SO₄",
+      "skeleton": "figure a laboratory flow chart compares three routes for preparing sodium sulphate na 2so 4 div styl"
+    }
+  ],
+  "chemistry_analytical_chemistry.json": [
+    {
+      "idx": 1,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_1_4372fc",
+      "title": "Distinguishing zinc from lead using two reagents",
+      "q": "Solution A NaOH, then excess White ppt. → colourless solution NH₄OH, then excess White ppt. → colourless solution Soluti",
+      "skeleton": "figure two colourless solutions a and b are tested separately the diagram shows two test tubes for e"
+    },
+    {
+      "idx": 2,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_2_9a21ec",
+      "title": "Identifying the deep blue solution",
+      "q": "Stage I Few drops NH₄OH Stage II Excess NH₄OH Which statement correctly explains the final stage?",
+      "skeleton": "figure a blue salt solution is treated with nh oh a pale blue precipitate first appears after more n"
+    },
+    {
+      "idx": 3,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_3_6ccc17",
+      "title": "Identifying iron(III) from a flowchart",
+      "q": "Unknown salt solution Add a few drops of NaOH Reddish brown precipitate Add excess NaOH: precipitate remains Which salt ",
+      "skeleton": "figure an unknown salt solution is treated with a few drops of naoh the flowchart records a reddish "
+    },
+    {
+      "idx": 4,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_4_6f43ad",
+      "title": "Interpreting a dirty green precipitate",
+      "q": "Tube I Excess NaOH Tube II Excess NH₄OH Which conclusion is justified by these observations?",
+      "skeleton": "figure a pale green feso solution is split into two portions one portion receives excess naoh the ot"
+    },
+    {
+      "idx": 5,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_5_3c463e",
+      "title": "Recognising an amphoteric hydroxide",
+      "q": "Few drops NaOH Excess NaOH Which explanation is correct if the unknown solution is ZnSO₄?",
+      "skeleton": "figure a white precipitate forms when naoh is added to a colourless salt solution in the next tube e"
+    },
+    {
+      "idx": 6,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_6_899f33",
+      "title": "Matching four precipitate colours",
+      "q": "P White precipitate Q Reddish brown precipitate R Dirty green precipitate S Pale blue precipitate Which assignment is co",
+      "skeleton": "figure four test tubes labelled p q r and s contain precipitates formed by adding a few drops of nao"
+    },
+    {
+      "idx": 7,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_7_3e7ab8",
+      "title": "A decision tree with two possible white precipitates",
+      "q": "White precipitate with NaOH Dissolves in excess NaOH Test a fresh sample with NH₄OH Dissolves in excess Path X Remains i",
+      "skeleton": "figure an unknown colourless solution gives a white precipitate with a few drops of naoh excess naoh"
+    },
+    {
+      "idx": 8,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_8_817f66",
+      "title": "Copper hydroxide and the wrong excess reagent",
+      "q": "Tube I Excess NaOH Pale blue precipitate remains Tube II Excess NH₄OH Deep blue solution forms A student claims that the",
+      "skeleton": "figure a blue cuso solution is tested in two separate tubes tube i receives excess naoh tube ii rece"
+    },
+    {
+      "idx": 9,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_9_8b5ca0",
+      "title": "Identifying calcium without relying on NH₄OH",
+      "q": "Solution** **After a few drops NaOH** **After excess NaOH** A White precipitate Precipitate remains B White precipitate ",
+      "skeleton": "figure three colourless solutions a b and c are tested with naoh first in a few drops and then in ex"
+    },
+    {
+      "idx": 10,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_10_ff1fcf",
+      "title": "Finding the incorrect interpretation of a diagram",
+      "q": "Pb(NO₃)₂(aq) Few drops NaOH → white Pb(OH)₂ precipitate Excess NaOH → colourless solution Which interpretation is incorr",
+      "skeleton": "figure a diagram shows a test tube containing pb no solution a few drops of naoh produce a white pre"
+    },
+    {
+      "idx": 11,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_11_dae77c",
+      "title": "Inferring the starting salt from a sequence",
+      "q": "Which salt is most consistent with the sequence?",
+      "skeleton": "figure a pale green solution is placed in tube i a few drops of naoh produce a dirty green precipita"
+    },
+    {
+      "idx": 12,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_12_3940c8",
+      "title": "Matching precipitate formulae to colours",
+      "q": "Tube P Dirty green precipitate Tube Q Reddish brown precipitate Tube R Pale blue precipitate Which formula assignment is",
+      "skeleton": "figure a labelled chart contains three test tube sketches showing the precipitates obtained with nao"
+    },
+    {
+      "idx": 13,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_13_2f4300",
+      "title": "A white precipitate that survives one reagent but not another",
+      "q": "- Tube I: A few drops of NaOH give a white precipitate. Excess NaOH dissolves it. - Tube II: A few drops of NH₄OH give a",
+      "skeleton": "figure solution x is tested in two tubes tube i a few drops of naoh give a white precipitate excess "
+    },
+    {
+      "idx": 14,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_14_5a040a",
+      "title": "Reading a reagent-addition diagram in the correct order",
+      "q": "Step 1: Add a few drops of NaOH slowly White precipitate forms Step 2: Shake gently and add NaOH in excess Precipitate d",
+      "skeleton": "figure a student performs the following sequence on a colourless unknown solution div style backgrou"
+    },
+    {
+      "idx": 15,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_15_c1428f",
+      "title": "The weak alkali trap",
+      "q": "Which statement best explains the result?",
+      "skeleton": "figure two portions of a zinc salt solution are tested separately one receives excess naoh the other"
+    },
+    {
+      "idx": 16,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_16_3608e7",
+      "title": "Distinguishing Fe²⁺ from Fe³⁺ by a visual key",
+      "q": "A Dirty green precipitate remains B Reddish brown precipitate remains Which statement follows?",
+      "skeleton": "figure a chart compares two unknown solutions a and b after adding excess nh oh div style background"
+    },
+    {
+      "idx": 17,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_17_5d8a96",
+      "title": "Choosing the valid ionic equation",
+      "q": "Which pair of ionic equations represents these two stages correctly?",
+      "skeleton": "figure a diagram shows znso solution receiving naoh in two stages a white precipitate forms first th"
+    },
+    {
+      "idx": 18,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_18_95952a",
+      "title": "Identifying the cation from two observation cards",
+      "q": "Card I — NaOH White precipitate forms; it dissolves in excess, producing a colourless solution. Card II — NH₄OH White pr",
+      "skeleton": "figure two observation cards are attached to the same unknown solution m div style background f8fafc"
+    },
+    {
+      "idx": 19,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_19_60ceeb",
+      "title": "Detecting a flawed conclusion in a flowchart",
+      "q": "White precipitate with NaOH Dissolves in excess NaOH Student concludes: “The cation is definitely Zn²⁺.” What is the bes",
+      "skeleton": "figure a student s identification chart reads div style background f8fafc border 1px solid cbd5e1 bo"
+    },
+    {
+      "idx": 20,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_20_57087b",
+      "title": "Identifying an unknown from a complete visual sequence",
+      "q": "Stage I Colourless starting solution Stage II Few drops NaOH → white precipitate Stage III Excess NaOH → colourless solu",
+      "skeleton": "figure an unknown salt solution n is shown in three stages div style background f8fafc border 1px so"
+    },
+    {
+      "idx": 21,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_21_08d628",
+      "title": "Identifying an unknown from a paired-reagent rack",
+      "q": "Solution** **Excess NaOH** **Excess NH₄OH** A White ppt. remains No ppt. or very faint ppt. B White ppt. dissolves White",
+      "skeleton": "figure three colourless salt solutions a b and c are tested separately with excess naoh and excess n"
+    },
+    {
+      "idx": 22,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_22_662e2d",
+      "title": "The order-of-addition trap",
+      "q": "Tube I — Correct sequence Few drops NaOH White ppt. Excess NaOH Colourless solution Tube II — Excess added immediately E",
+      "skeleton": "figure two identical portions of znso are placed in separate test tubes div style background f8fafc "
+    },
+    {
+      "idx": 23,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_23_dc9039",
+      "title": "Formula matching from an experimental chart",
+      "q": "P White Q Pale blue R Dirty green S Reddish brown Which set of formulae is correct?",
+      "skeleton": "figure four test tubes contain hydroxide precipitates after treatment with a few drops of naoh div s"
+    },
+    {
+      "idx": 24,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_24_bac9fc",
+      "title": "Distinguishing two colourless solutions by the second test",
+      "q": "X NaOH excess Colourless solution Y NaOH excess Colourless solution Second test using NH₄OH in excess **X:** Colourless ",
+      "skeleton": "figure solution x and solution y both form white precipitates with excess naoh and both precipitates"
+    },
+    {
+      "idx": 25,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_25_fc2d8e",
+      "title": "Recognising the precipitate that cannot be dissolved by excess alkali in this pair",
+      "q": "P White ppt. remains Q White ppt. dissolves Which pair could represent P and Q, respectively?",
+      "skeleton": "figure two test tubes contain precipitates formed from colourless salt solutions after adding naoh t"
+    },
+    {
+      "idx": 26,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_26_012b71",
+      "title": "Detecting a false formula on a laboratory label",
+      "q": "Tube Observed colour Labelled formula A Dirty green Fe(OH)₂ B Reddish brown Fe(OH)₃ C Pale blue Cu(OH)₂ D White Ca(OH)₃ ",
+      "skeleton": "figure a laboratory chart links each precipitate colour to its hydroxide formula div style backgroun"
+    },
+    {
+      "idx": 27,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_27_f0fcf7",
+      "title": "Predicting a complete reagent sequence",
+      "q": "Stage I White ppt. Few drops Stage II Clear solution Excess Which additional result is expected if R contains Zn²⁺ and a",
+      "skeleton": "figure a colourless solution labelled r is treated first with a few drops of nh oh then with excess "
+    },
+    {
+      "idx": 28,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_28_ac89bb",
+      "title": "Finding the only valid observation sequence",
+      "q": "Card P:** Cu²⁺ → pale blue precipitate → dissolves in excess NaOH. **Card Q:** Fe²⁺ → dirty green precipitate → remains ",
+      "skeleton": "figure four experimental cards describe the response of a salt solution to naoh div style background"
+    },
+    {
+      "idx": 29,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_29_04cf8b",
+      "title": "Interpreting a colourless final solution correctly",
+      "q": "Colourless unknown solution White precipitate appears Colourless solution remains Which statement is the most scientific",
+      "skeleton": "figure a student adds excess naoh to a colourless unknown solution a white precipitate appears tempo"
+    },
+    {
+      "idx": 30,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_30_d795ae",
+      "title": "Selecting the correct identification branch",
+      "q": "Add a few drops of NaOH White precipitate forms Add excess NaOH Precipitate remains Branch P Precipitate dissolves Branc",
+      "skeleton": "figure the following decision tree starts with a colourless salt solution div style background f8faf"
+    },
+    {
+      "idx": 31,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_31_6d50b1",
+      "title": "Choosing the safest correct test-tube procedure",
+      "q": "P:** Add NaOH rapidly until the test tube is full. **Q:** Add a few drops slowly, observe, shake gently, then add excess",
+      "skeleton": "figure four diagrams show different ways of testing an unknown salt solution div style background f8"
+    },
+    {
+      "idx": 32,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_32_72e23e",
+      "title": "Distinguishing copper from iron(III) using colour and solubility",
+      "q": "A Pale blue → deep blue solution B Reddish brown → remains Which assignment is correct?",
+      "skeleton": "figure two unknown solutions are tested with nh oh tube a produces a pale blue precipitate that diss"
+    },
+    {
+      "idx": 33,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_33_c2bb5e",
+      "title": "Identifying the precipitate formula from charge balance",
+      "q": "M^{2++2OH⁻} M(OH)₂ precipitate If M²⁺ represents Zn²⁺, which equation and precipitate are correct?",
+      "skeleton": "figure a labelled diagram shows one divalent cation m reacting with hydroxide ions the precipitate c"
+    },
+    {
+      "idx": 34,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_34_ba66e0",
+      "title": "Finding the inconsistent pair of observations",
+      "q": "Sample Precipitate Excess NaOH A White Remains B White Dissolves C Pale blue Remains D Reddish brown Remains Which propo",
+      "skeleton": "figure a laboratory worksheet lists four unknown solutions and their naoh results div style backgrou"
+    },
+    {
+      "idx": 35,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_35_dc4f1c",
+      "title": "Interpreting the final solution in the copper test",
+      "q": "Which description of the final stage is correct?",
+      "skeleton": "figure a test tube contains cuso solution nh oh is added dropwise producing a pale blue precipitate "
+    },
+    {
+      "idx": 36,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_36_b57477",
+      "title": "Reading a two-stage precipitate diagram",
+      "q": "I Clear solution II White ppt. III Clear solution I → Add a few drops NaOH → II → Add excess NaOH → III Which conclusion",
+      "skeleton": "figure three test tubes show the same unknown salt solution at successive stages div style backgroun"
+    },
+    {
+      "idx": 37,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_37_4a3909",
+      "title": "Selecting the correct cation from a colour-coded tree",
+      "q": "Add a few drops of NaOH Pale blue precipitate Precipitate remains in excess NaOH Identify the cation Which salt is consi",
+      "skeleton": "figure an unknown solution is passed through the following identification tree div style background "
+    },
+    {
+      "idx": 38,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_38_0e9e96",
+      "title": "Checking a proposed ionic equation for lead hydroxide",
+      "q": "Which equation best represents the dissolution stage using the simple plumbite description used in school-level qualitat",
+      "skeleton": "figure a white pb oh precipitate is shown in a test tube excess naoh is added and the precipitate di"
+    },
+    {
+      "idx": 39,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_39_1b3882",
+      "title": "Finding the solution that needs a second reagent",
+      "q": "Sample NaOH in excess Initial precipitate A White precipitate remains White B Colourless solution White C Colourless sol",
+      "skeleton": "figure a technician obtains these observations from three colourless samples div style background f8"
+    },
+    {
+      "idx": 40,
+      "globalId": "qb_chem_analytical_chemistry_diagrammatic_40_44b9bd",
+      "title": "The final integrated identification diagram",
+      "q": "X: colourless starting solution Add a few drops NaOH: white precipitate Add excess NaOH: colourless solution Test fresh ",
+      "skeleton": "figure unknown solution x is colourless the sequence below records its behaviour with two reagents d"
+    }
+  ],
+  "chemistry_chemical_bonding.json": [
+    {
+      "idx": 1,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_7_eb2dd0",
+      "title": "Aluminium oxide: auditing the charge balance",
+      "q": "Which conclusion is correct?",
+      "skeleton": "figure two aluminium atoms each with three valence electrons atomic number 13 transfer six electrons"
+    },
+    {
+      "idx": 2,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_17_5103fb",
+      "title": "Ionic crystal lattice: explaining brittleness",
+      "q": "The lattice is schematic; actual ionic crystals are three-dimensional. Why can an ionic crystal be hard yet brittle?",
+      "skeleton": "figure a simplified two dimensional section of an ionic crystal shows alternating positive and negat"
+    },
+    {
+      "idx": 3,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_18_63edce",
+      "title": "Testing the electrical conductivity of an ionic solid",
+      "q": "Which explanation is correct?",
+      "skeleton": "figure two electrodes are connected to a battery and a bulb then placed in a dry solid sodium chlori"
+    },
+    {
+      "idx": 4,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_19_75e32d",
+      "title": "Solubility comparison: ionic versus covalent compounds",
+      "q": "Illustrative solubility observations **Substance** **Water** **Organic solvent** NaCl Dissolves Usually insoluble Simple",
+      "skeleton": "figure equal amounts of sodium chloride and a simple molecular covalent substance are separately add"
+    },
+    {
+      "idx": 5,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_20_f9cfcd",
+      "title": "Identifying an unknown compound from its physical properties",
+      "q": "Compound P High melting point Conducts when molten Compound Q Low melting point Poor electrical conductor Assuming the o",
+      "skeleton": "figure a laboratory record compares two unknown compounds div style background f8fafc border 1px sol"
+    },
+    {
+      "idx": 6,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_24_9d43e5",
+      "title": "Why does an ionic crystal fracture when struck?",
+      "q": "Which explanation best accounts for the brittleness of ionic solids?",
+      "skeleton": "figure a simplified ionic lattice is shown before and after a horizontal displacement in the displac"
+    },
+    {
+      "idx": 7,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_25_3050ce",
+      "title": "Conductivity experiment: identifying the molten state",
+      "q": "Why does the molten sample conduct electricity?",
+      "skeleton": "figure three identical circuits contain a battery bulb and two electrodes circuit i uses solid sodiu"
+    },
+    {
+      "idx": 8,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_26_c7ff63",
+      "title": "Comparing ionic and covalent conductors",
+      "q": "Which statement correctly interprets the result?",
+      "skeleton": "figure a laboratory compares two samples sample p is solid sodium chloride sample q is an aqueous so"
+    },
+    {
+      "idx": 9,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_30_9933d4",
+      "title": "Identifying an incorrect electron-dot structure for carbon tetrachloride",
+      "q": "Which statement would make the electron-dot description incorrect?",
+      "skeleton": "figure carbon atomic number 6 is placed at the centre and connected to four chlorine atoms atomic nu"
+    },
+    {
+      "idx": 10,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_31_95e383",
+      "title": "Melting-point chart: distinguishing ionic from molecular covalent substances",
+      "q": "Melting-point comparison P has a high melting point; Q and R have low melting points. Bar lengths are illustrative, not ",
+      "skeleton": "figure the chart compares the melting points of three compounds under the same pressure the values a"
+    },
+    {
+      "idx": 11,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_32_c06b76",
+      "title": "Identifying an electrolyte from an experimental diagram",
+      "q": "The observations compare electrical conductivity; they do not by themselves identify the substances. Which conclusion is",
+      "skeleton": "figure three solutions are tested using identical circuits solution p lights the bulb brightly solut"
+    },
+    {
+      "idx": 12,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_34_f0f0b3",
+      "title": "Comparing electrical conductivity in the solid and molten states",
+      "q": "Solid state Bulb OFF Ions fixed in lattice Molten state Bulb ON Ions mobile Which conclusion best explains the differenc",
+      "skeleton": "figure a conductivity experiment records the following results for a pure ionic compound div style b"
+    },
+    {
+      "idx": 13,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_37_f5b077",
+      "title": "Inferring bonding from a solubility test and a conductivity test",
+      "q": "Which conclusion is most defensible from the evidence?",
+      "skeleton": "figure an unknown substance x dissolves in water its aqueous solution lights a conductivity bulb but"
+    },
+    {
+      "idx": 14,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_39_b38c5c",
+      "title": "Comparing an ionic lattice with a simple molecular substance",
+      "q": "Model P — Ionic lattice Extended arrangement of oppositely charged ions Model Q — Simple molecular substance Strong cova",
+      "skeleton": "figure two particle models are shown model p consists of a regular array of alternating positive and"
+    },
+    {
+      "idx": 15,
+      "globalId": "qb_chem_chemical_bonding_diagrammatic_40_00a4de",
+      "title": "Unknown compound: combining lattice, solubility and conductivity evidence",
+      "q": "- Its solid sample forms a regular crystalline structure. - It has a high melting point. - It does not conduct electrici",
+      "skeleton": "figure an unknown compound z has the following experimental record its solid sample forms a regular "
+    }
+  ],
+  "chemistry_electrolysis.json": [
+    {
+      "idx": 1,
+      "globalId": "qb_chem_electrolysis_diagrammatic_9_847296",
+      "title": "Strong, weak and non-electrolytes",
+      "q": "Which explanation best accounts for all three results?",
+      "skeleton": "figure three independent conductivity test cells have correctly connected batteries and electrodes c"
+    },
+    {
+      "idx": 2,
+      "globalId": "qb_chem_electrolysis_diagrammatic_19_c9fa74",
+      "title": "Why does solid sodium chloride not conduct electricity?",
+      "q": "Which explanation is correct?",
+      "skeleton": "figure a battery is connected with its positive terminal to the anode and its negative terminal to t"
+    },
+    {
+      "idx": 3,
+      "globalId": "qb_chem_electrolysis_diagrammatic_21_55af15",
+      "title": "Conductivity in different physical states",
+      "q": "Which explanation accounts for the different observations?",
+      "skeleton": "figure three identical conductivity circuits use inert graphite electrodes connected to batteries wi"
+    },
+    {
+      "idx": 4,
+      "globalId": "qb_chem_electrolysis_diagrammatic_22_e1955f",
+      "title": "Electrolyte strength versus concentration",
+      "q": "Which conclusion is valid?",
+      "skeleton": "figure two separate conductivity cells contain equal concentration aqueous solutions cell i has hydr"
+    },
+    {
+      "idx": 5,
+      "globalId": "qb_chem_electrolysis_diagrammatic_26_6e1d3e",
+      "title": "Concentration and preferential discharge at the anode",
+      "q": "Why is chlorine produced at the anode in this specified electrolyte?",
+      "skeleton": "figure concentrated sodium chloride solution mathrm nacl aq brine contains abundant chloride ions an"
+    },
+    {
+      "idx": 6,
+      "globalId": "qb_chem_electrolysis_diagrammatic_32_3c1c00",
+      "title": "How does the nature of an electrode affect electrolysis?",
+      "q": "Which statement best describes the effect of electrode nature?",
+      "skeleton": "figure two cells contain copper sulphate solution mathrm cuso 4 aq cell p has inert platinum electro"
+    },
+    {
+      "idx": 7,
+      "globalId": "qb_chem_electrolysis_diagrammatic_35_d1964d",
+      "title": "Diagnosing an inconsistent observation table",
+      "q": "Observation** **Cell P: Platinum** **Cell Q: Copper** Anode Oxygen gas Copper dissolves Cathode Copper deposit Copper de",
+      "skeleton": "figure two experiments are recorded for copper sulphate solution mathrm cuso 4 aq cell p uses inert "
+    },
+    {
+      "idx": 8,
+      "globalId": "qb_chem_electrolysis_diagrammatic_40_d4ed3d",
+      "title": "All three factors controlling preferential discharge",
+      "q": "Which statement correctly interprets the decision diagram?",
+      "skeleton": "figure an electrolytic cell contains an aqueous electrolyte with several cations and anions the anod"
+    }
+  ],
+  "chemistry_hydrogen_chloride.json": [
+    {
+      "idx": 1,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_1_667835",
+      "title": "Laboratory preparation: heating temperature",
+      "q": "(Image reference: Figure 1: Laboratory preparation apparatus)* Which correction is necessary to make the preparation con",
+      "skeleton": "figure the diagram shows a round bottom flask containing sodium chloride nacl and concentrated sulph"
+    },
+    {
+      "idx": 2,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_2_2f61e1",
+      "title": "Collection of hydrogen chloride gas",
+      "q": "(Image reference: Figure 2: Collection of hydrogen chloride gas)* Which explanation correctly identifies the collection ",
+      "skeleton": "figure hydrogen chloride gas enters the bottom of an upright gas jar through a delivery tube the inc"
+    },
+    {
+      "idx": 3,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_3_84e35d",
+      "title": "Selection of a drying agent",
+      "q": "(Image reference: Figure 3: Drying hydrogen chloride gas)* Why must quicklime be rejected as the drying agent for hydrog",
+      "skeleton": "figure a gas drying bottle contains concentrated sulphuric acid h so a proposed substitute quicklime"
+    },
+    {
+      "idx": 4,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_4_a9d77b",
+      "title": "Inverted-funnel arrangement",
+      "q": "(Image reference: Figure 4: Inverted funnel arrangement)* Why is the rim of the inverted funnel positioned just at the w",
+      "skeleton": "figure an inverted funnel receives hcl gas above a beaker of water its wide rim just touches the wat"
+    },
+    {
+      "idx": 5,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_5_ac0d93",
+      "title": "Identifying an error in the absorption apparatus",
+      "q": "(Image reference: Figure 5: Incorrect inverted-funnel arrangement)* What is the principal risk introduced by this incorr",
+      "skeleton": "figure the inverted funnel is positioned above a beaker containing water but its wide rim is shown w"
+    },
+    {
+      "idx": 6,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_6_a8fe62",
+      "title": "Fountain experiment with hydrogen chloride",
+      "q": "(Image reference: Figure 6: Hydrogen chloride fountain experiment)* Which pair of conclusions is supported by the observ",
+      "skeleton": "figure a dry flask initially filled with hcl gas is fitted with a jet tube when water containing blu"
+    },
+    {
+      "idx": 7,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_7_9bab54",
+      "title": "Interpreting the fountain experiment",
+      "q": "(Image reference: Figure 7: Explanations of the fountain experiment)* Consider these statements: - **Statement A:** The ",
+      "skeleton": "figure the observed fountain is red because blue litmus water enters the flask of hcl gas two possib"
+    },
+    {
+      "idx": 8,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_8_973438",
+      "title": "Action of dry HCl gas on dry blue litmus",
+      "q": "(Image reference: Figure 8: Dry HCl gas and dry blue litmus)* Which explanation accounts for the absence of a colour cha",
+      "skeleton": "figure dry hydrogen chloride gas passes through a dry tube containing dry blue litmus paper the pape"
+    },
+    {
+      "idx": 9,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_9_800fa8",
+      "title": "Ionisation of hydrogen chloride in water",
+      "q": "(Image reference: Figure 9: Ionisation of HCl in water)* Which interpretation correctly explains both the acidic nature ",
+      "skeleton": "figure the diagram represents hcl interacting with h o the products shown in the aqueous solution ar"
+    },
+    {
+      "idx": 10,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_10_22819a",
+      "title": "Test involving ammonia and hydrogen chloride",
+      "q": "(Image reference: Figure 10: Test using a glass rod dipped in ammonia solution)* Which option correctly identifies the w",
+      "skeleton": "figure a glass rod dipped in aqueous ammonia nh oh is held near hydrogen chloride gas dense white fu"
+    },
+    {
+      "idx": 11,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_11_532bca",
+      "title": "Confirmatory test using silver nitrate",
+      "q": "(Image reference: Figure 11: Silver nitrate test for chloride ions)* Which complete sequence is characteristic of the ch",
+      "skeleton": "figure three test tubes show successive stages the first after adding silver nitrate agno the second"
+    },
+    {
+      "idx": 12,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_12_9138e1",
+      "title": "Lead nitrate test for chloride ions",
+      "q": "(Image reference: Figure 12: Lead chloride precipitate before and after heating)* Which observation and inference match ",
+      "skeleton": "figure the left test tube contains a white precipitate formed after adding lead nitrate solution pb "
+    },
+    {
+      "idx": 13,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_13_5f50eb",
+      "title": "Reaction of zinc with dilute hydrochloric acid",
+      "q": "(Image reference: Figure 13: Zinc reacting with dilute hydrochloric acid)* Which statement correctly completes the inter",
+      "skeleton": "figure zinc pieces react with dilute hcl in a test tube gas bubbles are formed and the diagram gives"
+    },
+    {
+      "idx": 14,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_14_07b949",
+      "title": "Reaction of hydrochloric acid with a carbonate",
+      "q": "(Image reference: Figure 14: Calcium carbonate reacting with hydrochloric acid)* Which equation correctly represents the",
+      "skeleton": "figure calcium carbonate caco in a reaction flask is treated with dilute hydrochloric acid the evolv"
+    },
+    {
+      "idx": 15,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_15_0d5904",
+      "title": "Concentrated HCl and manganese dioxide",
+      "q": "(Image reference: Figure 15: Heating manganese dioxide with concentrated HCl)* Which option correctly identifies the gas",
+      "skeleton": "figure a flask containing manganese dioxide mno and concentrated hcl is heated the diagram shows the"
+    },
+    {
+      "idx": 16,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_16_3f6671",
+      "title": "Industrial preparation and absorption of HCl",
+      "q": "(Image reference: Figure 16: Industrial preparation of hydrochloric acid)* Why is water arranged to flow against the dir",
+      "skeleton": "figure hydrogen and chlorine combine in a reaction chamber to form hcl gas the gas enters an absorpt"
+    },
+    {
+      "idx": 17,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_17_97b9db",
+      "title": "Correct sequence in laboratory preparation",
+      "q": "(Image reference: Figure 17: Flow chart for the laboratory preparation of HCl)* Which correction is necessary for the fl",
+      "skeleton": "figure the flow chart begins with nacl and concentrated h so reacting in a flask then shows collecti"
+    },
+    {
+      "idx": 18,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_18_f91894",
+      "title": "Conductivity of dry HCl and aqueous HCl",
+      "q": "(Image reference: Figure 18: Conductivity comparison of HCl gas and aqueous HCl)* Which explanation accounts for both ob",
+      "skeleton": "figure two conductivity circuits are compared in the first containing dry hcl gas the bulb is off in"
+    },
+    {
+      "idx": 19,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_19_647b54",
+      "title": "Checking a table of physical properties",
+      "q": "(Image reference: Figure 19: Observation table for hydrogen chloride gas)* Which correction restores both numerical prop",
+      "skeleton": "figure the table lists the colour odour vapour density molecular mass and solubility of hcl gas two "
+    },
+    {
+      "idx": 20,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_20_ec9340",
+      "title": "Aqua regia and dissolution of gold",
+      "q": "(Image reference: Figure 20: Aqua regia and gold)* Which correction and explanation are correct?",
+      "skeleton": "figure a reagent bottle marked aqua regia is labelled with an hcl hno volume ratio of 1 3 a gold str"
+    },
+    {
+      "idx": 21,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_21_318325",
+      "title": "Detecting a faulty laboratory preparation apparatus",
+      "q": "Which correction is essential for the drying bottle to function as intended?",
+      "skeleton": "figure a round bottom flask contains sodium chloride nacl and concentrated sulphuric acid h so the t"
+    },
+    {
+      "idx": 22,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_22_d2e755",
+      "title": "Identifying an incorrectly positioned thistle funnel",
+      "q": "Why is this arrangement faulty?",
+      "skeleton": "figure a round bottom flask contains nacl and concentrated h so the stem of the thistle funnel ends "
+    },
+    {
+      "idx": 23,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_23_ea3815",
+      "title": "Identifying the correct reaction stage",
+      "q": "Which set of products is correctly assigned to the two flasks?",
+      "skeleton": "figure two heated flasks are shown flask i is maintained below 200 c and contains nacl with concentr"
+    },
+    {
+      "idx": 24,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_24_6946a4",
+      "title": "Interpreting fumes in moist air",
+      "q": "Which explanation correctly identifies the visible fumes?",
+      "skeleton": "figure a gas jar containing colourless hcl gas is opened near a moist surface white fumes appear aro"
+    },
+    {
+      "idx": 25,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_25_5bd61e",
+      "title": "Distinguishing gas density from gas solubility",
+      "q": "Which interpretation correctly explains why arrangement I is appropriate and arrangement II is unsuitable?",
+      "skeleton": "figure two gas jars are shown in arrangement i hcl is collected by downward displacement of air in a"
+    },
+    {
+      "idx": 26,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_26_cad3bb",
+      "title": "Choosing the appropriate litmus experiment",
+      "q": "Which set of observations is correct?",
+      "skeleton": "figure three test tubes are shown i contains dry hcl gas and dry blue litmus ii contains aqueous hcl"
+    },
+    {
+      "idx": 27,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_27_d3b29a",
+      "title": "Identifying the conducting solution",
+      "q": "Which explanation best accounts for the observation?",
+      "skeleton": "figure three circuits contain electrodes dipped into separate samples dry hcl gas distilled water an"
+    },
+    {
+      "idx": 28,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_28_228724",
+      "title": "Identifying a chloride precipitate",
+      "q": "Which interpretation matches the stated test for hydrochloric acid and chlorides?",
+      "skeleton": "figure two test tubes contain aqueous chloride containing samples silver nitrate solution is added t"
+    },
+    {
+      "idx": 29,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_29_2b3b5e",
+      "title": "Heating a lead chloride precipitate",
+      "q": "Which conclusion is justified by the observations?",
+      "skeleton": "figure lead nitrate solution is added to a chloride containing solution in test tube i a white preci"
+    },
+    {
+      "idx": 30,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_30_d434b4",
+      "title": "Reaction of iron with dilute HCl",
+      "q": "Which equation and product identification are correct?",
+      "skeleton": "figure iron filings are placed in dilute hydrochloric acid gas bubbles evolve and the solution conta"
+    },
+    {
+      "idx": 31,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_31_f99230",
+      "title": "Reaction of copper with dilute HCl",
+      "q": "Which conclusion is correct?",
+      "skeleton": "figure copper pieces are placed in dilute hydrochloric acid the diagram shows no visible gas evoluti"
+    },
+    {
+      "idx": 32,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_32_ab8678",
+      "title": "Metal oxide and hydrochloric acid",
+      "q": "Which balanced equation represents the reaction?",
+      "skeleton": "figure black copper ii oxide cuo is added to hydrochloric acid the solid reacts producing copper ii "
+    },
+    {
+      "idx": 33,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_33_85b8e7",
+      "title": "Neutralisation shown in a reaction diagram",
+      "q": "Which equation correctly represents the reaction?",
+      "skeleton": "figure a burette containing dilute hcl is positioned over a flask containing sodium hydroxide soluti"
+    },
+    {
+      "idx": 34,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_34_769493",
+      "title": "Reaction of sodium sulphite with HCl",
+      "q": "Which equation correctly represents the reaction and its gaseous product?",
+      "skeleton": "figure sodium sulphite na so reacts with dilute hydrochloric acid in a flask a delivery tube leads f"
+    },
+    {
+      "idx": 35,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_35_9eb46a",
+      "title": "The composition of aqua regia",
+      "q": "If 12 mL of concentrated HCl is used, what volume of concentrated HNO₃ is required?",
+      "skeleton": "figure a measuring cylinder contains three equal volume units of concentrated hcl a second contains "
+    },
+    {
+      "idx": 36,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_36_dc1305",
+      "title": "Identifying the industrial reaction",
+      "q": "Which equation represents the direct combination occurring in the reaction chamber?",
+      "skeleton": "figure hydrogen gas and chlorine gas enter a reaction chamber where hydrogen burns in chlorine the r"
+    },
+    {
+      "idx": 37,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_37_2e5dbd",
+      "title": "Choosing the correct gas-absorption arrangement",
+      "q": "Which tower shows the specified industrial absorption arrangement?",
+      "skeleton": "figure two absorption towers are shown in tower i water flows downwards and hcl gas flows upwards in"
+    },
+    {
+      "idx": 38,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_38_f88ecd",
+      "title": "Interpreting the chemical nature of HCl",
+      "q": "Which statement correctly compares the two diagrams?",
+      "skeleton": "figure two particle diagrams are compared diagram i represents gaseous hcl as neutral hcl molecules "
+    },
+    {
+      "idx": 39,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_39_eb050e",
+      "title": "Distinguishing two chloride tests",
+      "q": "Which identification of the precipitates is correct?",
+      "skeleton": "figure test tube i receives agno and develops a white curdy precipitate that remains after dilute hn"
+    },
+    {
+      "idx": 40,
+      "globalId": "qb_chem_hydrogen_chloride_diagrammatic_40_6193ba",
+      "title": "Selecting a complete, internally consistent experimental setup",
+      "q": "Which arrangement is correct?",
+      "skeleton": "figure four proposed laboratory arrangements are shown for generating drying and collecting hcl gas "
+    }
+  ],
+  "chemistry_metallurgy.json": [
+    {
+      "idx": 1,
+      "globalId": "qb_chem_metallurgy_diagrammatic_1_8acb56",
+      "title": "Stages of Metallurgy",
+      "q": "(Image reference: Figure 1 — Main stages of metallurgy)* Which operation must be represented by **X** if the objective i",
+      "skeleton": "figure the diagram shows five stages arranged from left to right ore containing gangue concentration"
+    },
+    {
+      "idx": 2,
+      "globalId": "qb_chem_metallurgy_diagrammatic_2_913ff0",
+      "title": "Froth-Flotation Process",
+      "q": "(Image reference: Figure 2 — Froth-flotation tank)* Which ore is most suitable for concentration by the process shown?",
+      "skeleton": "figure the tank contains an ore and gangue mixture suspended in water air bubbles rise through the m"
+    },
+    {
+      "idx": 3,
+      "globalId": "qb_chem_metallurgy_diagrammatic_3_020f7a",
+      "title": "Magnetic Separation",
+      "q": "(Image reference: Figure 3 — Magnetic separation)* Which conclusion is justified by the separation pattern?",
+      "skeleton": "figure a mixture is fed onto a moving belt passing near a rotating magnetic drum the magnetic fracti"
+    },
+    {
+      "idx": 4,
+      "globalId": "qb_chem_metallurgy_diagrammatic_4_800298",
+      "title": "Hydraulic Washing",
+      "q": "(Image reference: Figure 4 — Hydraulic washing)* A student claims that the particles washed furthest down the table must",
+      "skeleton": "figure water flows down an inclined washing table heavier ore particles remain deposited along the t"
+    },
+    {
+      "idx": 5,
+      "globalId": "qb_chem_metallurgy_diagrammatic_5_7adf33",
+      "title": "Calcination Versus Roasting",
+      "q": "(Image reference: Figure 5 — Calcination and roasting)* Which interpretation correctly identifies both processes and the",
+      "skeleton": "figure furnace i heats calamine znco with a limited or negligible supply of air furnace ii heats zin"
+    },
+    {
+      "idx": 6,
+      "globalId": "qb_chem_metallurgy_diagrammatic_6_886496",
+      "title": "Reactivity Series and Extraction Methods",
+      "q": "(Image reference: Figure 6 — Reactivity and extraction routes)* Why is electrolytic reduction used to extract aluminium ",
+      "skeleton": "figure the chart places aluminium in the highly reactive category a hypothetical medium reactivity m"
+    },
+    {
+      "idx": 7,
+      "globalId": "qb_chem_metallurgy_diagrammatic_7_bf777e",
+      "title": "The Hall–Héroult Process",
+      "q": "(Image reference: Figure 7 — Hall–Héroult electrolytic cell)* Which statement correctly explains the combined roles of c",
+      "skeleton": "figure the electrolytic cell contains alumina dissolved in molten cryolite with a little fluorspar a"
+    },
+    {
+      "idx": 8,
+      "globalId": "qb_chem_metallurgy_diagrammatic_8_4af8dc",
+      "title": "Baeyer's Process",
+      "q": "(Image reference: Figure 8 — Baeyer's process)* Which interpretation correctly accounts for the separation of impurities",
+      "skeleton": "figure the process begins with bauxite al o 2h o treated with hot concentrated naoh sodium aluminate"
+    },
+    {
+      "idx": 9,
+      "globalId": "qb_chem_metallurgy_diagrammatic_9_478df1",
+      "title": "Thermite Reaction",
+      "q": "(Image reference: Figure 9 — Thermite reaction)* Which statement correctly explains the chemical reaction and its applic",
+      "skeleton": "figure a mixture of iron iii oxide fe o and aluminium powder is placed in a crucible a magnesium rib"
+    },
+    {
+      "idx": 10,
+      "globalId": "qb_chem_metallurgy_diagrammatic_10_0b3c72",
+      "title": "Electrolytic Refining",
+      "q": "(Image reference: Figure 10 — Electrolytic refining)* Which sequence correctly describes the principal changes during re",
+      "skeleton": "figure the diagram shows an impure metal anode connected to the positive terminal and a thin pure me"
+    },
+    {
+      "idx": 11,
+      "globalId": "qb_chem_metallurgy_diagrammatic_11_ed45c3",
+      "title": "Liquation",
+      "q": "(Image reference: Figure 11 — Liquation on a sloping hearth)* Which condition best explains why liquation can refine a m",
+      "skeleton": "figure a metal bearing material is placed on a sloping hearth and heated the lower melting metal mel"
+    },
+    {
+      "idx": 12,
+      "globalId": "qb_chem_metallurgy_diagrammatic_12_605def",
+      "title": "Why Are Alloys Often Harder Than Pure Metals?",
+      "q": "(Image reference: Figure 12 — Pure metal versus alloy particle arrangement)* Which explanation best accounts for the inc",
+      "skeleton": "figure the left hand diagram shows equal sized atoms arranged in regular layers in a pure metal the "
+    },
+    {
+      "idx": 13,
+      "globalId": "qb_chem_metallurgy_diagrammatic_13_c72293",
+      "title": "Melting Behaviour of Pure Metals and Alloys",
+      "q": "(Image reference: Figure 13 — Melting behaviour of a pure metal and an alloy)* Which conclusion is most consistent with ",
+      "skeleton": "figure the schematic graph plots temperature against heating progress the pure metal displays a hori"
+    },
+    {
+      "idx": 14,
+      "globalId": "qb_chem_metallurgy_diagrammatic_14_61e6c9",
+      "title": "Composition and Uses of Standard Alloys",
+      "q": "(Image reference: Figure 14 — Alloy composition and uses table)* Which alloy entry matches **both** a low melting point ",
+      "skeleton": "figure the reference table compares the standard compositions characteristic properties and uses of "
+    },
+    {
+      "idx": 15,
+      "globalId": "qb_chem_metallurgy_diagrammatic_15_ce41f5",
+      "title": "Distinguishing an Ore from a Process Aid",
+      "q": "(Image reference: Figure 15 — Ores and related minerals)* A student is preparing a list containing only the ores and the",
+      "skeleton": "figure the table lists bauxite haematite zinc blende calamine galena cinnabar and copper pyrites wit"
+    },
+    {
+      "idx": 16,
+      "globalId": "qb_chem_metallurgy_diagrammatic_16_a93a8a",
+      "title": "Gangue, Flux and Slag",
+      "q": "(Image reference: Figure 16 — Formation of slag)* Which statement correctly distinguishes the three terms?",
+      "skeleton": "figure the diagram shows a smelting vessel containing molten metal beneath a slag layer gangue is id"
+    },
+    {
+      "idx": 17,
+      "globalId": "qb_chem_metallurgy_diagrammatic_17_40f38c",
+      "title": "Chemical Leaching",
+      "q": "(Image reference: Figure 17 — Chemical leaching)* What feature distinguishes this concentration method from hydraulic wa",
+      "skeleton": "figure powdered ore is treated with a selective reagent the desired component dissolves insoluble ga"
+    },
+    {
+      "idx": 18,
+      "globalId": "qb_chem_metallurgy_diagrammatic_18_e104d8",
+      "title": "Distillation as a Refining Method",
+      "q": "(Image reference: Figure 18 — Distillation for refining)* Which choice correctly matches a refining method with the prop",
+      "skeleton": "figure the apparatus heats a metal containing sample the more volatile metal forms vapour which pass"
+    },
+    {
+      "idx": 19,
+      "globalId": "qb_chem_metallurgy_diagrammatic_19_6064b4",
+      "title": "Poling",
+      "q": "(Image reference: Figure 19 — Poling in copper refining)* Which interpretation correctly identifies the operation and it",
+      "skeleton": "figure a green wooden pole is introduced into molten impure copper the diagram indicates gas bubbles"
+    },
+    {
+      "idx": 20,
+      "globalId": "qb_chem_metallurgy_diagrammatic_20_fcb16d",
+      "title": "Amphoteric Nature of Alumina",
+      "q": "(Image reference: Figure 20 — Alumina reacting with acid and alkali)* Which conclusion follows from the observations?",
+      "skeleton": "figure two test tubes contain alumina al o treated separately with a dilute acid and an alkali naoh "
+    },
+    {
+      "idx": 21,
+      "globalId": "qb_chem_metallurgy_diagrammatic_21_0b4929",
+      "title": "Ionic Movement in the Hall–Héroult Cell",
+      "q": "(Image reference: Figure 21 — Ion movement in the Hall-Héroult cell)* Which interpretation of the diagram is correct?",
+      "skeleton": "figure the electrolytic cell contains molten alumina dissolved in cryolite and fluorspar blue arrows"
+    },
+    {
+      "idx": 22,
+      "globalId": "qb_chem_metallurgy_diagrammatic_22_ca17fb",
+      "title": "Electrode Reactions During Aluminium Extraction",
+      "q": "(Image reference: Figure 22 — Aluminium extraction electrode reactions)* Which pair of half-equations correctly represen",
+      "skeleton": "figure the left panel displays the cathode reaction and the right panel displays the anode reaction "
+    },
+    {
+      "idx": 23,
+      "globalId": "qb_chem_metallurgy_diagrammatic_23_f2069d",
+      "title": "Consumption of Graphite Anodes",
+      "q": "(Image reference: Figure 23 — Consumption of graphite anodes)* Why must the graphite anodes be replaced periodically?",
+      "skeleton": "figure two graphite anodes are compared the first is long before prolonged electrolysis the second i"
+    },
+    {
+      "idx": 24,
+      "globalId": "qb_chem_metallurgy_diagrammatic_24_7f3d4c",
+      "title": "Function of the Coke Powder Layer",
+      "q": "(Image reference: Figure 24 — Coke powder layer)* Which statement correctly distinguishes the function of coke from the ",
+      "skeleton": "figure a layer of coke powder covers the hot electrolyte at the surface of the hall h roult cell arr"
+    },
+    {
+      "idx": 25,
+      "globalId": "qb_chem_metallurgy_diagrammatic_25_b7e719",
+      "title": "Operating Temperature of the Hall–Héroult Process",
+      "q": "(Image reference: Figure 25 — Melting point and operating temperature)* Why is the electrolyte mixture preferred over pu",
+      "skeleton": "figure the left panel represents pure alumina alone with a melting point above 2000 c the right pane"
+    },
+    {
+      "idx": 26,
+      "globalId": "qb_chem_metallurgy_diagrammatic_26_be889f",
+      "title": "Collection of Molten Aluminium",
+      "q": "(Image reference: Figure 26 — Tapping molten aluminium)* Which explanation best accounts for the location of the tapping",
+      "skeleton": "figure the electrolytic cell has a molten electrolyte above a separate layer of molten aluminium a t"
+    },
+    {
+      "idx": 27,
+      "globalId": "qb_chem_metallurgy_diagrammatic_27_b2b607",
+      "title": "Protective Oxide Film on Aluminium",
+      "q": "(Image reference: Figure 27 — Protective oxide layer)* Which statement explains the significance of this layer?",
+      "skeleton": "figure a cross section shows a thin adherent al o film on the surface of aluminium metal oxygen appr"
+    },
+    {
+      "idx": 28,
+      "globalId": "qb_chem_metallurgy_diagrammatic_28_d9ab61",
+      "title": "Native Metals and Combined Occurrence",
+      "q": "(Image reference: Figure 28 — Native versus combined occurrence)* Which classification is consistent with the diagram an",
+      "skeleton": "figure the left panel shows gold silver and platinum in the native state the right panel shows alumi"
+    },
+    {
+      "idx": 29,
+      "globalId": "qb_chem_metallurgy_diagrammatic_29_fe2029",
+      "title": "When Does a Mineral Qualify as an Ore?",
+      "q": "(Image reference: Figure 29 — Mineral versus ore)* Which conclusion follows from the comparison?",
+      "skeleton": "figure deposit a contains a mineral from which the metal can be extracted economically deposit b con"
+    },
+    {
+      "idx": 30,
+      "globalId": "qb_chem_metallurgy_diagrammatic_30_76cc97",
+      "title": "Identifying an Ore from Its Formula",
+      "q": "(Image reference: Figure 30 — Formula patterns of common ores)* Which formula identifies the copper-bearing ore that con",
+      "skeleton": "figure a reference table lists haematite fe o copper pyrites cufes galena pbs and zinc blende zns to"
+    },
+    {
+      "idx": 31,
+      "globalId": "qb_chem_metallurgy_diagrammatic_31_2c4e34",
+      "title": "Matching Concentration Methods with Their Principles",
+      "q": "(Image reference: Figure 31 — Concentration methods and their principles)* Which option reproduces all four correct pair",
+      "skeleton": "figure four process cards are matched with separation principles hydraulic washing with density diff"
+    },
+    {
+      "idx": 32,
+      "globalId": "qb_chem_metallurgy_diagrammatic_32_1bce22",
+      "title": "Precipitation of Aluminium Hydroxide",
+      "q": "(Image reference: Figure 32 — Aluminium hydroxide precipitation)* Which operation represented in the diagram produces th",
+      "skeleton": "figure sodium aluminate solution naalo passes through a step involving dilution and seeding a solid "
+    },
+    {
+      "idx": 33,
+      "globalId": "qb_chem_metallurgy_diagrammatic_33_3cce5b",
+      "title": "Tracking Sodium Hydroxide Through Baeyer’s Process",
+      "q": "(Image reference: Figure 33 — Tracking sodium hydroxide)* Which interpretation correctly tracks NaOH in the two stages?",
+      "skeleton": "figure hot concentrated naoh reacts with bauxite to form sodium aluminate after dilution and seeding"
+    },
+    {
+      "idx": 34,
+      "globalId": "qb_chem_metallurgy_diagrammatic_34_09260a",
+      "title": "Overall Equation for Aluminium Extraction",
+      "q": "(Image reference: Figure 34 — Electrode reactions and overall change)* Which balanced equation represents the overall de",
+      "skeleton": "figure the diagram connects the cathode reaction anode reaction and reaction at the graphite anode s"
+    },
+    {
+      "idx": 35,
+      "globalId": "qb_chem_metallurgy_diagrammatic_35_4d51d5",
+      "title": "Alloy Compared with a Compound",
+      "q": "(Image reference: Figure 35 — Alloy versus compound)* Which statement best interprets the difference between the alloy a",
+      "skeleton": "figure three particle diagrams represent a pure metal with identical atoms an alloy containing diffe"
+    },
+    {
+      "idx": 36,
+      "globalId": "qb_chem_metallurgy_diagrammatic_36_687d25",
+      "title": "Duralumin: Composition and Application",
+      "q": "(Image reference: Figure 36 — Duralumin composition)* Which option correctly identifies duralumin according to the suppl",
+      "skeleton": "figure the composition bar represents duralumin with aluminium as the principal component and smalle"
+    },
+    {
+      "idx": 37,
+      "globalId": "qb_chem_metallurgy_diagrammatic_37_0ac6db",
+      "title": "Magnalium: Avoiding a Composition Trap",
+      "q": "(Image reference: Figure 37 — Magnalium composition and uses)* Which option correctly matches magnalium with its composi",
+      "skeleton": "figure the composition bar shows aluminium as the principal component and magnesium as the smaller c"
+    },
+    {
+      "idx": 38,
+      "globalId": "qb_chem_metallurgy_diagrammatic_38_3b1638",
+      "title": "Brass versus Bronze",
+      "q": "(Image reference: Figure 38 — Brass and bronze comparison)* Which comparison is correct?",
+      "skeleton": "figure two composition bars compare brass containing 80 copper and 20 zinc with bronze containing 90"
+    },
+    {
+      "idx": 39,
+      "globalId": "qb_chem_metallurgy_diagrammatic_39_13e06d",
+      "title": "Solder: Composition and Function",
+      "q": "(Image reference: Figure 39 — Solder and joining metals)* Why is the alloy shown suitable for joining metals and electri",
+      "skeleton": "figure the diagram shows solder joining two metal conductors the composition panels identify the lea"
+    },
+    {
+      "idx": 40,
+      "globalId": "qb_chem_metallurgy_diagrammatic_40_c0062b",
+      "title": "Stainless Steel: Composition and Uses",
+      "q": "(Image reference: Figure 40 — Stainless steel composition and applications)* Which option correctly identifies the alloy",
+      "skeleton": "figure a segmented composition bar identifies iron as the principal component with chromium and nick"
+    }
+  ],
+  "chemistry_mole_concept.json": [
+    {
+      "idx": 1,
+      "globalId": "qb_chem_mole_concept_diagrammatic_2_211a1b",
+      "title": "Avogadro’s law and the number of atoms",
+      "q": "All three jars are at identical temperature and pressure. What is the ratio of the total number of atoms in the CO₂ jar ",
+      "skeleton": "figure three gas jars each contain 100 cm of gas at the same temperature and pressure the repeated m"
+    },
+    {
+      "idx": 2,
+      "globalId": "qb_chem_mole_concept_diagrammatic_6_dfb292",
+      "title": "Counting molecules after a gaseous reaction",
+      "q": "The balanced equation is 2H₂+O₂→ 2H_2O(g) How many gas molecules remain in the vessel after the reaction is complete?",
+      "skeleton": "figure five hydrogen molecules and two oxygen molecules enter a reaction vessel water is assumed to "
+    },
+    {
+      "idx": 3,
+      "globalId": "qb_chem_mole_concept_diagrammatic_11_c3af76",
+      "title": "Empirical formula from a mass-composition table",
+      "q": "Element** **Mass in sample** C 24 g H 4 g O 32 g Given: C = 12, H = 1, O = 16. Find the empirical formula.",
+      "skeleton": "figure elemental analysis of a compound provides the following masses div style background f8fafc bo"
+    },
+    {
+      "idx": 4,
+      "globalId": "qb_chem_mole_concept_diagrammatic_22_5d257e",
+      "title": "Detecting an incorrect point on a volume–mole graph",
+      "q": "Point Amount Recorded volume A 0.25 mol 5.6 L B 0.50 mol 11.2 L C 0.75 mol 16.8 L D 1.00 mol 20.4 L Given: molar volume ",
+      "skeleton": "figure a graph shows the volume of a gas against the number of moles at stp exactly one plotted poin"
+    },
+    {
+      "idx": 5,
+      "globalId": "qb_chem_mole_concept_diagrammatic_26_27d474",
+      "title": "One mole of atoms versus one mole of molecules",
+      "q": "Given: He = 4, H = 1; Avogadro’s number =6.022×10^ mol^. Which statement is correct?",
+      "skeleton": "figure the first vessel contains one gram atomic mass of helium atoms the second contains one gram m"
+    },
+    {
+      "idx": 6,
+      "globalId": "qb_chem_mole_concept_diagrammatic_35_809123",
+      "title": "Which one-mole sample contains the most atoms?",
+      "q": "Given: Avogadro’s number =6.022×10^ mol^. Which sample contains the greatest number of individual atoms?",
+      "skeleton": "figure three containers each hold exactly one mole of the particles indicated helium atoms magnesium"
+    },
+    {
+      "idx": 7,
+      "globalId": "qb_chem_mole_concept_diagrammatic_36_f1814c",
+      "title": "Deduction of relative atomic mass using a reference scale",
+      "q": "Given: the mass of one carbon-12 atom is defined as 12 u. Which element corresponds to X if its relative atomic mass is ",
+      "skeleton": "figure six identical atoms of element x balance two carbon 12 atoms on a mass comparison scale the s"
+    }
+  ]
+}

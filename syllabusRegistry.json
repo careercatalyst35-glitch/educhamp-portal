@@ -1,0 +1,362 @@
+[
+  {
+    "concept_tag": "power_of_a_point_tangent_secant",
+    "concept_name": "Power of a Point - Tangent-Secant Theorem",
+    "synonyms": ["power of a point", "tangent secant theorem", "tangent-secant length"],
+    "domain": "Geometry",
+    "category": "Diagram Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "American Mathematics Competitions (AMC 12)",
+      "source_year": "2018"
+    }
+  },
+  {
+    "concept_tag": "ptolemys_theorem_cyclic_quad",
+    "concept_name": "Ptolemy's Theorem on Inscribed Quadrilaterals",
+    "synonyms": ["ptolemy theorem", "ptolemys theorem", "cyclic quadrilateral diagonal product"],
+    "domain": "Geometry",
+    "category": "Diagram Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "Regional Mathematical Olympiad (RMO)",
+      "source_year": "2016"
+    }
+  },
+  {
+    "concept_tag": "euler_line_invariant_ratio",
+    "concept_name": "Euler Line Distance Ratio (Circumcenter-Centroid-Orthocenter)",
+    "synonyms": ["euler line", "euler line ratio", "centroid orthocenter ratio"],
+    "domain": "Geometry",
+    "category": "Diagram Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "American Invitational Mathematics Exam (AIME)",
+      "source_year": "2015"
+    }
+  },
+  {
+    "concept_tag": "inclined_plane_static_friction_threshold",
+    "concept_name": "Static Friction Threshold on Rough Incline",
+    "synonyms": ["inclined plane friction", "incline static friction", "limiting friction ramp"],
+    "domain": "Mechanics",
+    "category": "Diagram Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "International Physics Olympiad (IPhO)",
+      "source_year": "2019"
+    }
+  },
+  {
+    "concept_tag": "cevas_theorem_concurrent_cevians",
+    "concept_name": "Ceva's Theorem on Concurrent Triangle Cevians",
+    "synonyms": ["ceva theorem", "cevas theorem", "concurrent cevians ratio"],
+    "domain": "Geometry",
+    "category": "Diagram Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "USA Mathematical Olympiad (USAMO)",
+      "source_year": "2014"
+    }
+  },
+  {
+    "concept_tag": "right_triangle_inradius_formula",
+    "concept_name": "Right-Angled Triangle Inradius & Semi-Perimeter",
+    "synonyms": ["right triangle inradius", "incircle right triangle"],
+    "domain": "Geometry",
+    "category": "Diagram Based",
+    "past_olympiad_provenance": {
+      "source_type": "olympiad_style",
+      "source_name": "National Mathematics Talent Contest (NMTC)",
+      "source_year": null
+    }
+  },
+  {
+    "concept_tag": "chinese_remainder_coprime_congruences",
+    "concept_name": "Chinese Remainder Theorem for Coprime Moduli",
+    "synonyms": ["chinese remainder theorem", "crt congruences", "modular simultaneous equations"],
+    "domain": "Number Theory",
+    "category": "Application or Case Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "Indian National Mathematical Olympiad (INMO)",
+      "source_year": "2017"
+    }
+  },
+  {
+    "concept_tag": "projectile_kinematics_optimal_range",
+    "concept_name": "Projectile Kinematics Maximum Range Envelope",
+    "synonyms": ["projectile motion range", "projectile maximum range", "parabolic trajectory optimum"],
+    "domain": "Kinematics",
+    "category": "Application or Case Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "National Standard Examination in Physics (NSEP)",
+      "source_year": "2020"
+    }
+  },
+  {
+    "concept_tag": "elastic_spring_hooke_work_energy",
+    "concept_name": "Hooke's Law Elastic Potential Energy Integration",
+    "synonyms": ["elastic spring energy", "hookes law work", "spring potential energy"],
+    "domain": "Work & Energy",
+    "category": "Application or Case Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "International Physics Olympiad (IPhO)",
+      "source_year": "2013"
+    }
+  },
+  {
+    "concept_tag": "doppler_effect_sound_approach",
+    "concept_name": "Doppler Frequency Shift for Moving Source",
+    "synonyms": ["doppler effect", "doppler sound frequency", "acoustic frequency shift"],
+    "domain": "Waves & Acoustics",
+    "category": "Application or Case Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "Asian Physics Olympiad (APhO)",
+      "source_year": "2016"
+    }
+  },
+  {
+    "concept_tag": "archimedes_buoyancy_floating_fraction",
+    "concept_name": "Archimedes' Principle & Submerged Volume Fraction",
+    "synonyms": ["archimedes principle", "buoyant equilibrium", "flotation fraction"],
+    "domain": "Fluid Mechanics",
+    "category": "Application or Case Based",
+    "past_olympiad_provenance": {
+      "source_type": "olympiad_style",
+      "source_name": "National Standard Examination in Junior Science (NSEJS)",
+      "source_year": null
+    }
+  },
+  {
+    "concept_tag": "thermodynamics_isothermal_work_expansion",
+    "concept_name": "Isothermal Expansion Work of Ideal Gas",
+    "synonyms": ["isothermal work", "ideal gas isothermal expansion", "thermodynamics work"],
+    "domain": "Thermodynamics",
+    "category": "Application or Case Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "International Physics Olympiad (IPhO)",
+      "source_year": "2018"
+    }
+  },
+  {
+    "concept_tag": "pigeonhole_principle_partition_pairs",
+    "concept_name": "Dirichlet's Pigeonhole Principle on Partitioned Pairs",
+    "synonyms": ["pigeonhole principle", "dirichlet principle", "pigeonhole pairs"],
+    "domain": "Combinatorics",
+    "category": "Theory Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "USA Mathematical Olympiad (USAMO)",
+      "source_year": "2012"
+    }
+  },
+  {
+    "concept_tag": "wilsons_theorem_prime_modulus",
+    "concept_name": "Wilson's Theorem on Prime Moduli Factorials",
+    "synonyms": ["wilsons theorem", "wilson prime criterion", "factorial congruence prime"],
+    "domain": "Number Theory",
+    "category": "Theory Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "International Mathematical Olympiad (IMO)",
+      "source_year": "2008"
+    }
+  },
+  {
+    "concept_tag": "fermats_little_theorem_exponent_order",
+    "concept_name": "Fermat's Little Theorem Modular Exponentiation",
+    "synonyms": ["fermats little theorem", "fermat modular exponent", "prime power modular remainder"],
+    "domain": "Number Theory",
+    "category": "Theory Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "American Mathematics Competitions (AMC 12)",
+      "source_year": "2017"
+    }
+  },
+  {
+    "concept_tag": "subfactorial_derangement_inclusion_exclusion",
+    "concept_name": "Inclusion-Exclusion Principle & Subfactorial Derangements",
+    "synonyms": ["derangements", "subfactorial derangement", "inclusion exclusion derangements"],
+    "domain": "Combinatorics",
+    "category": "Theory Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "Indian National Mathematical Olympiad (INMO)",
+      "source_year": "2015"
+    }
+  },
+  {
+    "concept_tag": "fundamental_theorem_arithmetic_uniqueness",
+    "concept_name": "Fundamental Theorem of Arithmetic (Unique Factorization)",
+    "synonyms": ["fundamental theorem of arithmetic", "unique prime factorization"],
+    "domain": "Number Theory",
+    "category": "Theory Based",
+    "past_olympiad_provenance": {
+      "source_type": "olympiad_style",
+      "source_name": "Regional Mathematical Olympiad (RMO)",
+      "source_year": null
+    }
+  },
+  {
+    "concept_tag": "eulers_totient_coprime_counting",
+    "concept_name": "Euler's Totient Function φ(n) Multiplicative Formula",
+    "synonyms": ["eulers totient function", "euler phi function", "coprime count totient"],
+    "domain": "Number Theory",
+    "category": "Theory Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "American Mathematics Competitions (AMC 12)",
+      "source_year": "2019"
+    }
+  },
+  {
+    "concept_tag": "vietas_formulas_cubic_reciprocals",
+    "concept_name": "Vieta's Formulas & Elementary Symmetric Root Polynomials",
+    "synonyms": ["vietas formulas", "vieta cubic roots", "symmetric root polynomials"],
+    "domain": "Algebra",
+    "category": "Complex",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "American Mathematics Competitions (AMC 12)",
+      "source_year": "2021"
+    }
+  },
+  {
+    "concept_tag": "am_gm_weighted_optimization",
+    "concept_name": "Weighted Arithmetic-Geometric Mean Inequality Extremum",
+    "synonyms": ["am gm inequality", "weighted am gm", "arithmetic geometric mean extremum"],
+    "domain": "Inequalities",
+    "category": "Complex",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "USA Mathematical Olympiad (USAMO)",
+      "source_year": "2016"
+    }
+  },
+  {
+    "concept_tag": "stars_and_bars_integer_partitions",
+    "concept_name": "Stars and Bars Combinatorial Integer Compositions",
+    "synonyms": ["stars and bars", "stars and bars composition", "diophantine compositions"],
+    "domain": "Combinatorics",
+    "category": "Complex",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "American Mathematics Competitions (AMC 12)",
+      "source_year": "2020"
+    }
+  },
+  {
+    "concept_tag": "complex_primitive_roots_of_unity",
+    "concept_name": "Complex Numbers: Sum of Primitive Roots of Unity",
+    "synonyms": ["roots of unity", "primitive roots of unity", "cyclotomic root sum"],
+    "domain": "Complex Numbers",
+    "category": "Complex",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "International Mathematical Olympiad (IMO Shortlist)",
+      "source_year": "2011"
+    }
+  },
+  {
+    "concept_tag": "cauchy_schwarz_vector_inequality",
+    "concept_name": "Cauchy-Schwarz Inequality on Vector Dot Bounds",
+    "synonyms": ["cauchy schwarz inequality", "cauchy inequality vectors", "inner product bound"],
+    "domain": "Inequalities",
+    "category": "Complex",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "USA Mathematical Olympiad (USAMO)",
+      "source_year": "2018"
+    }
+  },
+  {
+    "concept_tag": "binomial_hockey_stick_summation",
+    "concept_name": "Binomial Coefficients: The Hockey-Stick Identity",
+    "synonyms": ["hockey stick identity", "binomial summation hockey stick", "pascals triangle diagonal"],
+    "domain": "Combinatorics",
+    "category": "Complex",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "American Mathematics Competitions (AMC 12)",
+      "source_year": "2015"
+    }
+  },
+  {
+    "concept_tag": "de_moivres_theorem_polar_powers",
+    "concept_name": "De Moivre's Theorem on Complex Exponentiation",
+    "synonyms": ["de moivres theorem", "de moivre complex powers", "polar complex power"],
+    "domain": "Complex Numbers",
+    "category": "Complex",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "American Invitational Mathematics Exam (AIME)",
+      "source_year": "2019"
+    }
+  },
+  {
+    "concept_tag": "newtons_sums_polynomial_powers",
+    "concept_name": "Newton's Sums on Power Sums of Polynomial Roots",
+    "synonyms": ["newtons sums", "newton power sums", "polynomial root power sums"],
+    "domain": "Algebra",
+    "category": "Complex",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "International Mathematical Olympiad (IMO)",
+      "source_year": "2010"
+    }
+  },
+  {
+    "concept_tag": "bernoulli_fluid_continuity_equation",
+    "concept_name": "Bernoulli's Principle & Hydrodynamic Continuity Equation",
+    "synonyms": ["bernoulli principle", "fluid continuity equation", "hydrodynamics bernoulli"],
+    "domain": "Fluid Mechanics",
+    "category": "Application or Case Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "National Standard Examination in Physics (NSEP)",
+      "source_year": "2021"
+    }
+  },
+  {
+    "concept_tag": "carnot_heat_engine_maximum_efficiency",
+    "concept_name": "Carnot Cycle Thermodynamic Limit on Engine Efficiency",
+    "synonyms": ["carnot efficiency", "carnot cycle engine", "second law thermodynamics carnot"],
+    "domain": "Thermodynamics",
+    "category": "Application or Case Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "Asian Physics Olympiad (APhO)",
+      "source_year": "2017"
+    }
+  },
+  {
+    "concept_tag": "snells_law_total_internal_reflection",
+    "concept_name": "Snell's Law & Critical Angle of Total Internal Reflection",
+    "synonyms": ["snells law", "total internal reflection", "optics critical angle"],
+    "domain": "Optics",
+    "category": "Diagram Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "International Physics Olympiad (IPhO)",
+      "source_year": "2015"
+    }
+  },
+  {
+    "concept_tag": "kepler_third_law_orbital_harmonic",
+    "concept_name": "Kepler's Third Harmonic Law of Planetary Orbits",
+    "synonyms": ["keplers third law", "orbital period radius", "gravitational harmonic law"],
+    "domain": "Gravitation",
+    "category": "Application or Case Based",
+    "past_olympiad_provenance": {
+      "source_type": "past_olympiad",
+      "source_name": "International Olympiad on Astronomy and Astrophysics (IOAA)",
+      "source_year": "2019"
+    }
+  }
+]

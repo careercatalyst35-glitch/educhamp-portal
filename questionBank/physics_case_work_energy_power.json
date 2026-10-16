@@ -1,0 +1,2252 @@
+[
+  {
+    "globalId": "qb_case_work__energy_and_power_1_49331c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 1: Railway Platform Porter Carrying Heavy Trunk",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A licensed railway porter of mass 60 kg lifts a passenger's heavy steel trunk weighing 300 N onto their head and carries it steadily along a level horizontal platform for a distance of 50 meters at a constant speed of 1.2 m/s. **Investigative Question:** What is the mechanical work done by the porter's lifting force on the trunk while walking horizontally along the platform? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zero Joules, because the upward vertical supporting force is at 90° to the horizontal displacement."
+      },
+      {
+        "key": "B",
+        "text": "15,000 Joules, because Work = Force × distance = 300 N × 50 m."
+      },
+      {
+        "key": "C",
+        "text": "18,000 Joules, taking into account the porter's body weight."
+      },
+      {
+        "key": "D",
+        "text": "360 Joules, based on kinetic power consumption."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Work done W = F·s·cos θ. The supporting force exerted by the porter's head acts vertically upward (to balance trunk weight 300 N), while the displacement of the trunk is horizontal along the platform. The angle θ between force and displacement is 90°. Since cos(90°) = 0, the mechanical work done by the vertical supporting force on the trunk is strictly zero.",
+    "concept_name": "Zero Work When Force is Perpendicular to Displacement",
+    "concept_tag": "work, energy and power case based zero work when force is perpendicular to displacement",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "49331c2b51d24d69367eb188d7393f5b75c0b9b3f90148c6442807561b25e2bd",
+    "question_skeleton": "case scenario a licensed railway porter of mass 60 kg lifts a passenger s heavy steel trunk weighing 300 n onto their head and carries it steadily along a level horizontal platform for a distance of 50 meters at a constant speed of 1 2 m s investigative question what is the mechanical work done by the porter s lifting force on the trunk while walking horizontally along the platform choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_2_77b746",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 2: Construction Hoist Lifting a Concrete Slab",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A motorized construction crane lifts a precast concrete beam of mass 500 kg vertically upward from ground level to the fourth floor, through a height of 15.0 meters at a steady constant velocity (taking g = 10 m/s²). **Investigative Question:** What is the work done by the crane cable tension and the work done by the gravitational force on the beam? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Crane cable: +75,000 J; Gravitational force: -75,000 J"
+      },
+      {
+        "key": "B",
+        "text": "Crane cable: +75,000 J; Gravitational force: +75,000 J"
+      },
+      {
+        "key": "C",
+        "text": "Crane cable: -75,000 J; Gravitational force: -75,000 J"
+      },
+      {
+        "key": "D",
+        "text": "Crane cable: +150,000 J; Gravitational force: 0 J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The upward cable tension T = mg = 500 × 10 = 5000 N acts in the direction of upward displacement (θ = 0°), doing positive work: W_crane = 5000 N × 15 m × cos(0°) = +75,000 J (+75 kJ). The gravitational force acts vertically downward (θ = 180° to upward displacement), doing negative work: W_gravity = 5000 N × 15 m × cos(180°) = -75,000 J (-75 kJ). Net work on the beam is zero, consistent with constant velocity.",
+    "concept_name": "Positive Work by Cable vs Negative Work by Gravity",
+    "concept_tag": "work, energy and power case based positive work by cable vs negative work by gravity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "77b74657ed11a7a6d8f782cae5634f009a779269bc8b2a3901a16aff9c4ebd32",
+    "question_skeleton": "case scenario a motorized construction crane lifts a precast concrete beam of mass 500 kg vertically upward from ground level to the fourth floor through a height of 15 0 meters at a steady constant velocity taking g 10 m s investigative question what is the work done by the crane cable tension and the work done by the gravitational force on the beam choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_3_38df46",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 3: High-Speed Highway Braking and Skid Distance",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A road safety testing agency evaluates the emergency braking of a 1200 kg passenger sedan. When traveling at 15 m/s (54 km/h), maximum braking deceleration locks the wheels and brings the car to rest over a skid distance of 18 meters on dry asphalt. The test is then repeated with the car traveling at 30 m/s (108 km/h) under identical tyre and road conditions. **Investigative Question:** What is the emergency stopping distance of the car when traveling at 30 m/s? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "72 meters"
+      },
+      {
+        "key": "B",
+        "text": "36 meters"
+      },
+      {
+        "key": "C",
+        "text": "54 meters"
+      },
+      {
+        "key": "D",
+        "text": "108 meters"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By the Work-Energy Theorem: Work done by friction = Loss in Kinetic Energy => f·s = 1/2 m v². Since the retarding frictional force f is constant, the stopping distance s is directly proportional to v² (s ∝ v²). Doubling the speed from 15 m/s to 30 m/s quadruples the kinetic energy (2² = 4). Therefore, the new stopping distance = 4 × 18 m = 72 meters.",
+    "concept_name": "Work-Energy Theorem and Velocity Squared Relation",
+    "concept_tag": "work, energy and power case based work-energy theorem and velocity squared relation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "38df46b325583e1d48fd69fcfac9a81bb1da8d6981bd9094babfc84cd15256fd",
+    "question_skeleton": "case scenario a road safety testing agency evaluates the emergency braking of a 1200 kg passenger sedan when traveling at 15 m s 54 km h maximum braking deceleration locks the wheels and brings the car to rest over a skid distance of 18 meters on dry asphalt the test is then repeated with the car traveling at 30 m s 108 km h under identical tyre and road conditions investigative question what is the emergency stopping distance of the car when traveling at 30 m s choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_4_4aa236",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 4: Lunar Orbit of Chandrayaan Spacecraft",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** During the Chandrayaan mission, the spacecraft of mass 1400 kg enters a circular lunar mapping orbit of radius 1800 km from the Moon's center, moving at a uniform orbital speed of 1.6 km/s. **Investigative Question:** What is the work done by the Moon's gravitational pull on the spacecraft during one complete circular orbit? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zero Joules, because the gravitational force is always perpendicular to the instantaneous displacement."
+      },
+      {
+        "key": "B",
+        "text": "3.58 × 10^9 Joules"
+      },
+      {
+        "key": "C",
+        "text": "7.16 × 10^9 Joules"
+      },
+      {
+        "key": "D",
+        "text": "2.24 × 10^6 Joules"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In any circular orbit, the gravitational force acts radially inward toward the Moon's center, providing the centripetal force. The instantaneous displacement at every point along the path is tangential to the circle. The angle θ between force and displacement is always 90°. Since cos(90°) = 0, the work done W = F·s·cos(90°) = 0 J over any arc or full orbit.",
+    "concept_name": "Zero Work by Centripetal Gravitational Force",
+    "concept_tag": "work, energy and power case based zero work by centripetal gravitational force",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4aa23634590588aeb3c6866dfe002dc96a129e9577f6f68bf354bab30008f0b1",
+    "question_skeleton": "case scenario during the chandrayaan mission the spacecraft of mass 1400 kg enters a circular lunar mapping orbit of radius 1800 km from the moon s center moving at a uniform orbital speed of 1 6 km s investigative question what is the work done by the moon s gravitational pull on the spacecraft during one complete circular orbit choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_5_0a93cf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 5: Pushing a Massive Stationary Concrete Retaining Wall",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An athlete exerts a maximum sustained horizontal muscular push of 600 N against a massive reinforced concrete retaining wall for 60 seconds. At the end of the minute, the athlete is sweating profusely and feels exhausted, but the rigid wall has not moved even a fraction of a millimeter. **Investigative Question:** From the strict perspective of physics, what is the mechanical work performed by the athlete on the wall? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zero Joules, because mechanical work requires a non-zero displacement in the direction of the force."
+      },
+      {
+        "key": "B",
+        "text": "36,000 Joules, calculated as Force × time."
+      },
+      {
+        "key": "C",
+        "text": "600 Joules, calculated as Force × 1 meter equivalent."
+      },
+      {
+        "key": "D",
+        "text": "6,000 Joules, based on human caloric expenditure."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Mechanical work in physics is defined strictly as W = F·s·cos θ. Even though the athlete exerts a substantial force of 600 N and expends internal physiological energy (muscle fibers contracting and burning glucose), the displacement of the wall is s = 0. Therefore, mechanical work done on the wall W = 600 N × 0 m = 0 J.",
+    "concept_name": "Zero Work Due to Zero Displacement",
+    "concept_tag": "work, energy and power case based zero work due to zero displacement",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "0a93cf9df368da94f2464b946a9d29eb77a6c73cbe41b833523a6633f9893dac",
+    "question_skeleton": "case scenario an athlete exerts a maximum sustained horizontal muscular push of 600 n against a massive reinforced concrete retaining wall for 60 seconds at the end of the minute the athlete is sweating profusely and feels exhausted but the rigid wall has not moved even a fraction of a millimeter investigative question from the strict perspective of physics what is the mechanical work performed by the athlete on the wall choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_6_d7a440",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 6: High-Altitude Skydiver in Free Fall",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A skydiver of total mass 80 kg jumps from a hot-air balloon hovering at an altitude of 2000 m above sea level. Neglecting air resistance during the first 500 m of vertical fall, an ICSE student calculates the kinetic and gravitational potential energy at 2000 m (Point A) and after falling 500 m to 1500 m altitude (Point B), taking g = 10 m/s². **Investigative Question:** What are the Potential Energy (PE) and Kinetic Energy (KE) of the skydiver at Point B? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "PE = 1,200,000 J; KE = 400,000 J; Total Mechanical Energy = 1,600,000 J"
+      },
+      {
+        "key": "B",
+        "text": "PE = 1,600,000 J; KE = 400,000 J; Total Mechanical Energy = 2,000,000 J"
+      },
+      {
+        "key": "C",
+        "text": "PE = 800,000 J; KE = 800,000 J; Total Mechanical Energy = 1,600,000 J"
+      },
+      {
+        "key": "D",
+        "text": "PE = 400,000 J; KE = 1,200,000 J; Total Mechanical Energy = 1,600,000 J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "At A (h = 2000 m): PE = mgh = 80 × 10 × 2000 = 1,600,000 J (1.6 MJ), KE = 0 J, Total E = 1.6 MJ. At B (h = 1500 m): PE = 80 × 10 × 1500 = 1,200,000 J (1.2 MJ). By the law of conservation of mechanical energy, the loss in PE equals the gain in KE: KE = 1,600,000 - 1,200,000 = 400,000 J (0.4 MJ). Total energy remains 1.6 MJ.",
+    "concept_name": "Conservation of Mechanical Energy During Fall",
+    "concept_tag": "work, energy and power case based conservation of mechanical energy during fall",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d7a4405da8079e7ab6ea234299c2ca8fac5e126909b4616328c637e1278e80da",
+    "question_skeleton": "case scenario a skydiver of total mass 80 kg jumps from a hot air balloon hovering at an altitude of 2000 m above sea level neglecting air resistance during the first 500 m of vertical fall an icse student calculates the kinetic and gravitational potential energy at 2000 m point a and after falling 500 m to 1500 m altitude point b taking g 10 m s investigative question what are the potential energy pe and kinetic energy ke of the skydiver at point b choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_7_f41e83",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 7: Olympic Archery Compound Bow Energy Storage",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An Olympic archer draws an arrow of mass 25 g in a compound bow, pulling the bowstring back by a draw distance of 0.60 m with an average pulling force of 200 N. The bow limbs bend elastically, storing strain energy. **Investigative Question:** Assuming 80% of the stored elastic strain energy is transferred to the arrow as kinetic energy upon release, what is the launch velocity of the arrow? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "87.6 m/s"
+      },
+      {
+        "key": "B",
+        "text": "69.3 m/s"
+      },
+      {
+        "key": "C",
+        "text": "98.0 m/s"
+      },
+      {
+        "key": "D",
+        "text": "120.0 m/s"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Work done in drawing the bow = Stored Elastic PE = Average Force × draw distance = 200 N × 0.60 m = 120 J. Energy transferred to arrow = 80% of 120 J = 96 J. Kinetic energy of arrow = 1/2 m v² => 96 = 1/2 × 0.025 kg × v² => v² = (96 × 2) / 0.025 = 7680 => v = sqrt(7680) ≈ 87.64 m/s.",
+    "concept_name": "Elastic Potential Energy in Bow Limbs",
+    "concept_tag": "work, energy and power case based elastic potential energy in bow limbs",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f41e83d50835f884b2930076569ca527a3ecc201586e487165e783a9f7ab2f03",
+    "question_skeleton": "case scenario an olympic archer draws an arrow of mass 25 g in a compound bow pulling the bowstring back by a draw distance of 0 60 m with an average pulling force of 200 n the bow limbs bend elastically storing strain energy investigative question assuming 80 of the stored elastic strain energy is transferred to the arrow as kinetic energy upon release what is the launch velocity of the arrow choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_8_99a844",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 8: Railway Terminal Buffer Stop Spring Compression",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A runaway freight wagon of mass 10,000 kg rolling at 2.0 m/s collides with a heavy railway buffer stop at the end of a siding track. The buffer incorporates a massive helical steel spring of stiffness constant k = 400,000 N/m (400 kN/m). **Investigative Question:** What is the maximum compression of the buffer spring as it brings the freight wagon to a complete halt? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.316 m (31.6 cm)"
+      },
+      {
+        "key": "B",
+        "text": "0.100 m (10.0 cm)"
+      },
+      {
+        "key": "C",
+        "text": "0.500 m (50.0 cm)"
+      },
+      {
+        "key": "D",
+        "text": "0.224 m (22.4 cm)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Kinetic energy of wagon = 1/2 m v² = 1/2 × 10,000 × 2² = 20,000 J. At maximum compression x, all kinetic energy is converted into elastic potential energy of the spring: 1/2 k x² = 20,000 J => 1/2 × 400,000 × x² = 20,000 => 200,000 x² = 20,000 => x² = 0.1 => x = sqrt(0.1) ≈ 0.3162 m (31.6 cm).",
+    "concept_name": "Kinetic Energy to Elastic Strain Conversion",
+    "concept_tag": "work, energy and power case based kinetic energy to elastic strain conversion",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "99a84491c49912f67dd3db1649f8eccfa19d8cdfe07362d4830364967a1a6b2c",
+    "question_skeleton": "case scenario a runaway freight wagon of mass 10 000 kg rolling at 2 0 m s collides with a heavy railway buffer stop at the end of a siding track the buffer incorporates a massive helical steel spring of stiffness constant k 400 000 n m 400 kn m investigative question what is the maximum compression of the buffer spring as it brings the freight wagon to a complete halt choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_9_a48d01",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 9: Mechanical Clockwork Escapement Mainspring",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A mechanical winding clock relies on a spiral spring (mainspring) made of tempered spring steel. When the key is turned, an operator does 180 J of mechanical work to wind the spring tight. The clockwork mechanism slowly releases this energy through an escapement gear train over a period of 5 days (120 hours) before stopping. **Investigative Question:** What is the average mechanical power output delivered by the unwinding clockwork spring? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.000417 W (0.417 mW)"
+      },
+      {
+        "key": "B",
+        "text": "1.5 W"
+      },
+      {
+        "key": "C",
+        "text": "0.025 W"
+      },
+      {
+        "key": "D",
+        "text": "0.0015 W"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Total energy stored W = 180 J. Total time t = 120 hours = 120 × 3600 seconds = 432,000 seconds. Average power P = W / t = 180 J / 432,000 s = 0.0004167 W ≈ 0.417 mW. The clockwork escapement meters out microscopic amounts of power to maintain continuous pendulum oscillation.",
+    "concept_name": "Slow Controlled Release of Elastic Energy",
+    "concept_tag": "work, energy and power case based slow controlled release of elastic energy",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a48d0184dd95a037590a699cd49c8210ed6d5e593e296de07bfb4b94ccbf4637",
+    "question_skeleton": "case scenario a mechanical winding clock relies on a spiral spring mainspring made of tempered spring steel when the key is turned an operator does 180 j of mechanical work to wind the spring tight the clockwork mechanism slowly releases this energy through an escapement gear train over a period of 5 days 120 hours before stopping investigative question what is the average mechanical power output delivered by the unwinding clockwork spring choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_10_37fa87",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 10: Antique Grandfather Clock Pendulum Dynamics",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A grandfather clock features a heavy brass bob of mass 1.5 kg swinging on a light rod. At its maximum swing to the right (extreme position A), the bob rises by a vertical height h = 5.0 cm (0.05 m) above its lowest central position (mean position O). Taking g = 10 m/s² and neglecting air friction, analyze the oscillation. **Investigative Question:** What is the maximum speed of the bob as it passes through the lowest mean position O? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.0 m/s"
+      },
+      {
+        "key": "B",
+        "text": "0.707 m/s"
+      },
+      {
+        "key": "C",
+        "text": "1.414 m/s"
+      },
+      {
+        "key": "D",
+        "text": "0.5 m/s"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "At extreme position A, the bob is momentarily at rest (KE = 0) and has maximum gravitational PE = m·g·h = 1.5 × 10 × 0.05 = 0.75 J. At mean position O, PE = 0 (datum) and all potential energy converts into kinetic energy: 1/2 m v_max² = m g h => v_max = sqrt(2 g h) = sqrt(2 × 10 × 0.05) = sqrt(1.0) = 1.0 m/s.",
+    "concept_name": "Interconversion of KE and Gravitational PE",
+    "concept_tag": "work, energy and power case based interconversion of ke and gravitational pe",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "37fa8782e093ecbc890e63b64d85a76beaef60025b8427cc85ada147b775e471",
+    "question_skeleton": "case scenario a grandfather clock features a heavy brass bob of mass 1 5 kg swinging on a light rod at its maximum swing to the right extreme position a the bob rises by a vertical height h 5 0 cm 0 05 m above its lowest central position mean position o taking g 10 m s and neglecting air friction analyze the oscillation investigative question what is the maximum speed of the bob as it passes through the lowest mean position o choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_11_9bb34c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 11: Theme Park Roller Coaster Summit Plunge",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A roller coaster train of mass 800 kg starts from rest at the top of a steep lift hill at height H = 45 m. It plunges down into a valley and climbs to the crest of a second lower hill of height h = 25 m. Sensitive track sensors record the train's speed at the second crest as 18 m/s (taking g = 10 m/s²). **Investigative Question:** How much mechanical energy was dissipated into non-recoverable thermal and acoustic energy due to wheel friction and air drag between the two crests? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "30,400 J"
+      },
+      {
+        "key": "B",
+        "text": "160,000 J"
+      },
+      {
+        "key": "C",
+        "text": "129,600 J"
+      },
+      {
+        "key": "D",
+        "text": "60,800 J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Total energy at first summit = m·g·H = 800 × 10 × 45 = 360,000 J. Mechanical energy at second crest = PE + KE = (800 × 10 × 25) + (1/2 × 800 × 18²) = 200,000 + (400 × 324) = 200,000 + 129,600 = 329,600 J. Mechanical energy lost to friction and heat = 360,000 J - 329,600 J = 30,400 J.",
+    "concept_name": "Total Mechanical Energy with Frictional Losses",
+    "concept_tag": "work, energy and power case based total mechanical energy with frictional losses",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "9bb34cba633ebeae42d9544db96582489ad6101d7185d98fa8ca0718ec46bc94",
+    "question_skeleton": "case scenario a roller coaster train of mass 800 kg starts from rest at the top of a steep lift hill at height h 45 m it plunges down into a valley and climbs to the crest of a second lower hill of height h 25 m sensitive track sensors record the train s speed at the second crest as 18 m s taking g 10 m s investigative question how much mechanical energy was dissipated into non recoverable thermal and acoustic energy due to wheel friction and air drag between the two crests choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_12_bc9be7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 12: Hydroelectric Dam Penstock and Pelton Wheel",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** At a mountainous hydroelectric generating station, water from a reservoir situated at a vertical head of 200 meters flows down a steel penstock pipe at a volumetric rate of 5.0 m³/s (mass rate = 5000 kg/s) to strike the buckets of a Pelton turbine at ground level (g = 10 m/s²). **Investigative Question:** What is the theoretical gravitational potential power delivered by the water column, and what sequence of energy transformations takes place? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10 MW; Gravitational PE of reservoir -> Kinetic energy of water jet -> Mechanical rotational energy of turbine -> Electrical energy in alternator"
+      },
+      {
+        "key": "B",
+        "text": "1 MW; Thermal energy -> Kinetic energy -> Chemical energy -> Electrical energy"
+      },
+      {
+        "key": "C",
+        "text": "20 MW; Elastic strain energy -> Rotational mechanical energy -> Electrical energy"
+      },
+      {
+        "key": "D",
+        "text": "5 MW; Gravitational PE -> Electrical energy directly via piezoelectricity"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rate of gravitational potential energy delivery = (m/t)·g·h = 5000 kg/s × 10 m/s² × 200 m = 10,000,000 W = 10 MW. Sequence: Water stored at height possesses Gravitational PE; falling through penstock converts this into high-speed Kinetic Energy; striking turbine buckets converts KE into Mechanical Rotational Work; turbine drives an electromagnetic generator producing Electrical Energy.",
+    "concept_name": "Sequential Energy Transformations in Hydropower",
+    "concept_tag": "work, energy and power case based sequential energy transformations in hydropower",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "bc9be7ba63c881d070d912dedccc36a997072d97eeea21423517931e6e71266f",
+    "question_skeleton": "case scenario at a mountainous hydroelectric generating station water from a reservoir situated at a vertical head of 200 meters flows down a steel penstock pipe at a volumetric rate of 5 0 m s mass rate 5000 kg s to strike the buckets of a pelton turbine at ground level g 10 m s investigative question what is the theoretical gravitational potential power delivered by the water column and what sequence of energy transformations takes place choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_13_cb711a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 13: Supercritical Thermal Power Station Energy Flow",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A 500 MW thermal power plant burns pulverized coal in a boiler to generate supercritical steam at 540°C and 240 bar, which drives high-pressure steam turbines connected to an alternator. **Investigative Question:** Which option accurately identifies the complete chronological sequence of primary energy transformations in this plant? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Chemical energy of coal -> Thermal heat energy of steam -> Kinetic energy of expanding steam -> Mechanical rotational energy of turbine -> Electrical energy in alternator"
+      },
+      {
+        "key": "B",
+        "text": "Nuclear binding energy -> Radiant light energy -> Electrical energy"
+      },
+      {
+        "key": "C",
+        "text": "Electrical energy -> Chemical energy -> Gravitational potential energy -> Electrical energy"
+      },
+      {
+        "key": "D",
+        "text": "Mechanical kinetic energy -> Thermal energy -> Chemical energy -> Electrical energy"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Coal holds stored Chemical Energy in molecular bonds. Combustion releases Thermal Energy which boils water into high-pressure steam. Expansion through turbine nozzles converts thermal energy into high-velocity Kinetic Energy of steam. Steam jets turn turbine blades, producing Mechanical Rotational Energy. The shaft turns the rotor of the generator, converting mechanical energy into Electrical Energy.",
+    "concept_name": "Energy Transformations in Coal Generation",
+    "concept_tag": "work, energy and power case based energy transformations in coal generation",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "cb711a7bc45c478c80555dca67b55955b719d65450695c8028a3b86dae118961",
+    "question_skeleton": "case scenario a 500 mw thermal power plant burns pulverized coal in a boiler to generate supercritical steam at 540 c and 240 bar which drives high pressure steam turbines connected to an alternator investigative question which option accurately identifies the complete chronological sequence of primary energy transformations in this plant choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_14_ae01ec",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 14: Lead-Acid Automobile Storage Battery Cycle",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A 12V lead-acid car battery supplies a heavy current of 150 A for 2.0 seconds to the starter motor to crank the internal combustion engine. Once the engine starts running, an alternator driven by the engine belt feeds a recharging current of 10 A back into the battery for 30 minutes. **Investigative Question:** What energy transformations take place during (i) starting the car and (ii) recharging the battery? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "(i) Chemical energy converted into Electrical energy; (ii) Electrical energy converted back into stored Chemical energy."
+      },
+      {
+        "key": "B",
+        "text": "(i) Electrical energy converted into Mechanical energy; (ii) Thermal energy converted into Nuclear energy."
+      },
+      {
+        "key": "C",
+        "text": "(i) Gravitational PE converted into Chemical energy; (ii) Chemical energy converted into Light energy."
+      },
+      {
+        "key": "D",
+        "text": "(i) Kinetic energy converted into Electrical energy; (ii) Electrical energy converted into Elastic strain energy."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "During discharge (starting the car), chemical reactions between the lead plates and sulfuric acid electrolyte release stored Chemical Energy, converting it into Electrical Energy. During recharging by the alternator, an external potential difference forces current in reverse, reversing the chemical reactions and converting Electrical Energy back into stored Chemical Energy.",
+    "concept_name": "Chemical vs Electrical Energy Reversibility",
+    "concept_tag": "work, energy and power case based chemical vs electrical energy reversibility",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ae01ec2134152e9e35915709e713a536aa92eff73c70a5f41c74d1e40c7a7ab3",
+    "question_skeleton": "case scenario a 12v lead acid car battery supplies a heavy current of 150 a for 2 0 seconds to the starter motor to crank the internal combustion engine once the engine starts running an alternator driven by the engine belt feeds a recharging current of 10 a back into the battery for 30 minutes investigative question what energy transformations take place during i starting the car and ii recharging the battery choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_15_b166f0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 15: Loudspeaker and Dynamic Microphone Transducers",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A public address sound system consists of an announcer speaking into a moving-coil microphone, connected through an audio power amplifier to an outdoor cone loudspeaker. **Investigative Question:** What are the precise energy conversions performed by the microphone and the loudspeaker respectively? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Microphone: Sound (acoustic) energy into Electrical energy; Loudspeaker: Electrical energy into Sound (acoustic) energy."
+      },
+      {
+        "key": "B",
+        "text": "Microphone: Electrical energy into Sound energy; Loudspeaker: Sound energy into Electrical energy."
+      },
+      {
+        "key": "C",
+        "text": "Microphone: Thermal energy into Electrical energy; Loudspeaker: Electrical energy into Magnetic energy only."
+      },
+      {
+        "key": "D",
+        "text": "Microphone: Chemical energy into Sound energy; Loudspeaker: Mechanical energy into Light energy."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Sound waves vibrating the microphone diaphragm move an attached coil within a magnetic field, inducing an electrical audio signal (Sound Energy -> Electrical Energy). In the loudspeaker, the amplified electrical signal passes through a voice coil in a magnetic field, producing mechanical vibrations of the paper cone that generate audible sound waves (Electrical Energy -> Sound Energy).",
+    "concept_name": "Electromechanical vs Mechanoelectrical Transduction",
+    "concept_tag": "work, energy and power case based electromechanical vs mechanoelectrical transduction",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "b166f09687c235ae4d9eb6b093c85aa1a4ea0aace4dfd4a8b5c9a2d43b841d3f",
+    "question_skeleton": "case scenario a public address sound system consists of an announcer speaking into a moving coil microphone connected through an audio power amplifier to an outdoor cone loudspeaker investigative question what are the precise energy conversions performed by the microphone and the loudspeaker respectively choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_16_e66b48",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 16: Electric Motor vs AC Generator Principles",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electrical engineering student tests two identical electromagnetic machines in a laboratory: Machine 1 is connected to an external DC voltage source, causing its shaft to spin and lift a test weight. Machine 2 has its shaft coupled to a rotating water wheel, producing a voltage across an output load resistor. **Investigative Question:** What are the operating modes and energy conversions of Machine 1 and Machine 2? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Machine 1 is an Electric Motor (Electrical to Mechanical energy); Machine 2 is a Generator (Mechanical to Electrical energy)."
+      },
+      {
+        "key": "B",
+        "text": "Machine 1 is a Generator; Machine 2 is an Electric Motor."
+      },
+      {
+        "key": "C",
+        "text": "Both machines act as motors converting Chemical energy into Electrical energy."
+      },
+      {
+        "key": "D",
+        "text": "Machine 1 converts Thermal energy into Work; Machine 2 converts Electrical energy into Heat."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "An electric motor draws electrical current from a power supply; the magnetic field exerts a torque on the current-carrying armature, converting Electrical Energy into Mechanical Work. Conversely, an electric generator has its armature rotated by external mechanical power (water wheel); magnetic flux changes induce current, converting Mechanical Energy into Electrical Energy.",
+    "concept_name": "Energy Conversion and Underlying Physical Laws",
+    "concept_tag": "work, energy and power case based energy conversion and underlying physical laws",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e66b488b5d64f073f391cc7951bec5b29a9fbb00683dd7153a2f42498909834a",
+    "question_skeleton": "case scenario an electrical engineering student tests two identical electromagnetic machines in a laboratory machine 1 is connected to an external dc voltage source causing its shaft to spin and lift a test weight machine 2 has its shaft coupled to a rotating water wheel producing a voltage across an output load resistor investigative question what are the operating modes and energy conversions of machine 1 and machine 2 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_17_e0253b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 17: Rooftop Photovoltaic Solar Panel System",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A residential rooftop solar array of area 20 m² receives solar radiation at an average irradiance of 800 W/m². The semiconductor silicon panels operate at an overall photoelectric conversion efficiency of 18%. **Investigative Question:** What type of energy conversion occurs, and what is the electrical power output delivered by the array? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Radiant (solar light) energy is converted directly into Electrical energy; Power output = 2880 W (2.88 kW)."
+      },
+      {
+        "key": "B",
+        "text": "Thermal heat energy is converted into Electrical energy; Power output = 16,000 W."
+      },
+      {
+        "key": "C",
+        "text": "Chemical energy is converted into Electrical energy; Power output = 1440 W."
+      },
+      {
+        "key": "D",
+        "text": "Radiant energy is converted into Kinetic energy; Power output = 5760 W."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Total radiant power incident on array = Irradiance × Area = 800 W/m² × 20 m² = 16,000 W (16 kW). At 18% efficiency, electrical power output P = 0.18 × 16,000 W = 2880 W = 2.88 kW. Photovoltaic cells use the photoelectric effect to convert radiant solar photon energy directly into DC electrical energy without any intermediate thermal or mechanical stage.",
+    "concept_name": "Direct Radiant to Electrical Conversion",
+    "concept_tag": "work, energy and power case based direct radiant to electrical conversion",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "e0253bd1c21480a292bc0f80ed4412e466bcdc0797bc15bcc89ef1b89a182b42",
+    "question_skeleton": "case scenario a residential rooftop solar array of area 20 m receives solar radiation at an average irradiance of 800 w m the semiconductor silicon panels operate at an overall photoelectric conversion efficiency of 18 investigative question what type of energy conversion occurs and what is the electrical power output delivered by the array choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_18_f18dc6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 18: Photosynthesis in Green Crop Leaves",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** During daylight hours, chlorophyll pigments in the leaves of an agricultural wheat crop absorb photons of sunlight to drive the biochemical synthesis of glucose from carbon dioxide and water: 6CO2 + 6H2O + Light -> C6H12O6 + 6O2. **Investigative Question:** From an energetics standpoint, what primary energy conversion occurs during photosynthesis? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Radiant solar light energy is converted into stable Chemical potential energy stored in glucose molecular bonds."
+      },
+      {
+        "key": "B",
+        "text": "Thermal energy of air is converted into Gravitational potential energy of the plant."
+      },
+      {
+        "key": "C",
+        "text": "Nuclear binding energy is released and converted into electrical energy."
+      },
+      {
+        "key": "D",
+        "text": "Mechanical energy of falling rain is converted into chemical energy."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Photosynthesis is a fundamental biological energy transducer. Chlorophyll captures radiant solar energy (light photons) and uses it to synthesize high-energy covalent chemical bonds in glucose molecules, converting radiant electromagnetic energy into stable Chemical Potential Energy that fuels the biosphere.",
+    "concept_name": "Radiant Light to Biochemical Potential Conversion",
+    "concept_tag": "work, energy and power case based radiant light to biochemical potential conversion",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f18dc6806897cfa321cc59ab378b7eef08f4431f27d3a014018c6ca88c685be0",
+    "question_skeleton": "case scenario during daylight hours chlorophyll pigments in the leaves of an agricultural wheat crop absorb photons of sunlight to drive the biochemical synthesis of glucose from carbon dioxide and water 6co2 6h2o light c6h12o6 6o2 investigative question from an energetics standpoint what primary energy conversion occurs during photosynthesis choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_19_a40c19",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 19: Historical Steam Engine Mechanical Drive",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In an industrial reciprocating steam engine, saturated steam from a wood-fired boiler enters a cylinder at high pressure, pushes a heavy piston through a stroke displacement of 0.80 m against an average resistive force of 25,000 N, and exhausts into the atmosphere at lower temperature and pressure. **Investigative Question:** What mechanical work is delivered per piston stroke, and what fundamental energy transformation occurred? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "20,000 J; Thermal energy of expanding steam converted into Mechanical work of the piston."
+      },
+      {
+        "key": "B",
+        "text": "31,250 J; Kinetic energy converted into Chemical energy."
+      },
+      {
+        "key": "C",
+        "text": "20,000 J; Electrical energy converted into Gravitational potential energy."
+      },
+      {
+        "key": "D",
+        "text": "12,500 J; Nuclear binding energy converted into Heat."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Work done per stroke = Force × displacement = 25,000 N × 0.80 m = 20,000 J (20 kJ). The thermal heat energy carried by high-pressure steam molecules exerts pressure on the piston face; expansion causes the molecules to transfer kinetic momentum to the moving piston, converting thermodynamic heat energy into mechanical work.",
+    "concept_name": "Thermodynamic Expansion Work",
+    "concept_tag": "work, energy and power case based thermodynamic expansion work",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a40c1983d9868dfcf3b03c88952c222259db121dea1e1a06e0725ce0a4d0104e",
+    "question_skeleton": "case scenario in an industrial reciprocating steam engine saturated steam from a wood fired boiler enters a cylinder at high pressure pushes a heavy piston through a stroke displacement of 0 80 m against an average resistive force of 25 000 n and exhausts into the atmosphere at lower temperature and pressure investigative question what mechanical work is delivered per piston stroke and what fundamental energy transformation occurred choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_20_81c4d8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 20: Nuclear Fission Power Reactor Energetics",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a nuclear reactor core, slow thermal neutrons induce fission of Uranium-235 nuclei. In each fission event, the combined rest mass of the fission products and neutrons is slightly less than the initial reactant mass by a mass defect Δm = 3.56 × 10⁻28 kg. **Investigative Question:** What energy conversion takes place, and how much energy is released per fission event (using c = 3 × 10^8 m/s)? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nuclear mass energy is converted into Kinetic energy of fission fragments and gamma radiation; Energy released ≈ 3.2 × 10⁻11 J (approx 200 MeV)."
+      },
+      {
+        "key": "B",
+        "text": "Chemical energy is converted into Electrical energy; Energy released = 1.07 × 10⁻19 J."
+      },
+      {
+        "key": "C",
+        "text": "Gravitational energy is converted into Thermal energy; Energy released = 6.4 × 10⁻11 J."
+      },
+      {
+        "key": "D",
+        "text": "Elastic strain energy is converted into Nuclear energy; Energy released = 3.2 × 10⁻14 J."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By Einstein's mass-energy equivalence relation E = Δm·c², the disappearance of rest mass defect Δm releases nuclear energy: E = (3.56 × 10⁻28 kg) × (3 × 10^8 m/s)² = 3.56 × 10⁻28 × 9 × 10^16 ≈ 3.204 × 10⁻11 J. In electron-volts: (3.204 × 10⁻11 J) / (1.6 × 10⁻19 J/eV) ≈ 200 MeV. Nuclear mass energy converts into kinetic energy of fragments, which heats the reactor coolant.",
+    "concept_name": "Mass-Energy Equivalence in Fission",
+    "concept_tag": "work, energy and power case based mass-energy equivalence in fission",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "81c4d88378c1c9a40188885107379a5a8f69c828f75a200c8cc7ea84cefe65f8",
+    "question_skeleton": "case scenario in a nuclear reactor core slow thermal neutrons induce fission of uranium 235 nuclei in each fission event the combined rest mass of the fission products and neutrons is slightly less than the initial reactant mass by a mass defect m 3 56 10 28 kg investigative question what energy conversion takes place and how much energy is released per fission event using c 3 10 8 m s choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_21_d50481",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 21: Energy Degradation in Vehicle Disc Brakes",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A heavy mining truck descending a steep grade uses friction disc brakes to maintain a steady safe speed. The brake discs glow dull red as mechanical kinetic energy is converted into thermal heat that radiates out into the ambient atmosphere. **Investigative Question:** What principle of physics does this illustrate regarding the quality and reversibility of energy? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Degradation of energy: ordered, high-grade mechanical energy dissipates into disordered, low-grade thermal energy which cannot be fully recovered."
+      },
+      {
+        "key": "B",
+        "text": "Violation of energy conservation: energy is destroyed by friction."
+      },
+      {
+        "key": "C",
+        "text": "Creation of new chemical energy from mechanical wear."
+      },
+      {
+        "key": "D",
+        "text": "Complete conversion of thermal energy back into gravitational potential energy."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "While total energy is strictly conserved, energy possesses quality. Mechanical work and kinetic energy are ordered, high-grade forms of energy capable of 100% conversion into other forms. In contrast, frictional heat dissipated into the ambient atmosphere is disordered, low-grade thermal energy (degraded energy) which cannot be spontaneously reassembled to do useful mechanical work.",
+    "concept_name": "Dissipation of Mechanical Energy into Non-Usable Heat",
+    "concept_tag": "work, energy and power case based dissipation of mechanical energy into non-usable heat",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d50481421741f105f1893953128b1f43cf3d79dc093e2e2dbde40a918dd96f0c",
+    "question_skeleton": "case scenario a heavy mining truck descending a steep grade uses friction disc brakes to maintain a steady safe speed the brake discs glow dull red as mechanical kinetic energy is converted into thermal heat that radiates out into the ambient atmosphere investigative question what principle of physics does this illustrate regarding the quality and reversibility of energy choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_22_2b45b5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 22: Construction Pile Driver Soil Penetration",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A heavy construction pile driver drops a 600 kg steel drop-hammer from a height of 5.0 m onto the top of a steel foundation pile. The hammer strikes the pile without bouncing and drives it 10 cm (0.10 m) deeper into the clay soil (taking g = 10 m/s²). **Investigative Question:** What is the average resistance force exerted by the soil against the pile during penetration? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "306,000 N (approx 306 kN)"
+      },
+      {
+        "key": "B",
+        "text": "30,000 N"
+      },
+      {
+        "key": "C",
+        "text": "60,000 N"
+      },
+      {
+        "key": "D",
+        "text": "150,000 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Initial gravitational potential energy of hammer relative to final rested position = m·g·(h + d) = 600 × 10 × (5.0 + 0.10) = 6000 × 5.1 = 30,600 J. By work-energy theorem, this total energy is dissipated by the resistive force F of the soil over penetration distance d = 0.10 m: F × d = 30,600 J => F × 0.10 = 30,600 => F = 306,000 N (306 kN).",
+    "concept_name": "Work Done by Hammer Against Soil Resistance",
+    "concept_tag": "work, energy and power case based work done by hammer against soil resistance",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2b45b572072fe115c23cff89b692453738b7365e11175edf8a44fa08db016b9a",
+    "question_skeleton": "case scenario a heavy construction pile driver drops a 600 kg steel drop hammer from a height of 5 0 m onto the top of a steel foundation pile the hammer strikes the pile without bouncing and drives it 10 cm 0 10 m deeper into the clay soil taking g 10 m s investigative question what is the average resistance force exerted by the soil against the pile during penetration choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_23_4de628",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 23: Rifle Recoil and Kinetic Energy Partitioning",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A sniper rifle of mass M = 5.0 kg fires a high-velocity bullet of mass m = 10 g (0.010 kg) with a muzzle velocity of 800 m/s. The system is initially at rest. **Investigative Question:** What is the recoil velocity of the rifle, and what is the ratio of the kinetic energy of the bullet to that of the rifle? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Recoil velocity = 1.6 m/s; KE_bullet / KE_rifle = 500"
+      },
+      {
+        "key": "B",
+        "text": "Recoil velocity = 8.0 m/s; KE_bullet / KE_rifle = 100"
+      },
+      {
+        "key": "C",
+        "text": "Recoil velocity = 1.6 m/s; KE_bullet / KE_rifle = 1"
+      },
+      {
+        "key": "D",
+        "text": "Recoil velocity = 0.8 m/s; KE_bullet / KE_rifle = 250"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By conservation of linear momentum: M·V_recoil = m·v_bullet => 5.0 × V_recoil = 0.010 × 800 = 8.0 kg·m/s => V_recoil = 1.6 m/s. Kinetic energies: KE_bullet = p² / (2m); KE_rifle = p² / (2M). Since momentum p is identical in magnitude: KE_bullet / KE_rifle = M / m = 5.0 kg / 0.010 kg = 500. The lighter bullet carries 500 times more kinetic energy than the heavy rifle.",
+    "concept_name": "Inverse Mass Partition of Kinetic Energy",
+    "concept_tag": "work, energy and power case based inverse mass partition of kinetic energy",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4de6282e27fd0349763afc8b8b47cbcfe1a76486d2ac7811a0eda1c1cbe28a4c",
+    "question_skeleton": "case scenario a sniper rifle of mass m 5 0 kg fires a high velocity bullet of mass m 10 g 0 010 kg with a muzzle velocity of 800 m s the system is initially at rest investigative question what is the recoil velocity of the rifle and what is the ratio of the kinetic energy of the bullet to that of the rifle choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_24_2c8a07",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 24: Gymnast on a Competition Trampoline",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An acrobat of mass 50 kg drops vertically onto a trampoline from an initial height of 3.2 m above the relaxed bed. The elastic trampoline springs stretch, bringing the acrobat momentarily to rest at a depression depth of 0.80 m below the initial bed level (taking g = 10 m/s²). **Investigative Question:** What is the maximum elastic strain energy stored in the stretched trampoline springs at the lowest point? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2000 J"
+      },
+      {
+        "key": "B",
+        "text": "1600 J"
+      },
+      {
+        "key": "C",
+        "text": "400 J"
+      },
+      {
+        "key": "D",
+        "text": "2400 J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Total vertical drop of acrobat from initial apex to lowest arrest point = h + d = 3.2 m + 0.80 m = 4.0 m. Total loss in gravitational potential energy = m·g·(h + d) = 50 kg × 10 m/s² × 4.0 m = 2000 J. At the lowest arrest point, the acrobat is momentarily stationary (KE = 0). By conservation of mechanical energy, all 2000 J of lost gravitational PE is stored as elastic potential energy in the stretched trampoline springs.",
+    "concept_name": "Elastic Potential Energy Bounce Cycle",
+    "concept_tag": "work, energy and power case based elastic potential energy bounce cycle",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "2c8a0712ac252aa8f7ed34da797c0332978724447b1db10dd3e391dc5a4f24f3",
+    "question_skeleton": "case scenario an acrobat of mass 50 kg drops vertically onto a trampoline from an initial height of 3 2 m above the relaxed bed the elastic trampoline springs stretch bringing the acrobat momentarily to rest at a depression depth of 0 80 m below the initial bed level taking g 10 m s investigative question what is the maximum elastic strain energy stored in the stretched trampoline springs at the lowest point choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_25_c05d51",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 25: Domestic Water Pump Motor Rating and Efficiency",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A residential electric water pump lifts 1200 liters (1200 kg) of water to an overhead rooftop tank situated at a height of 15 meters in 5 minutes (300 seconds). The electric motor consumes electrical power from the mains at a constant rate of 1000 W (taking g = 10 m/s²). **Investigative Question:** What is the useful mechanical power output of the pump, and what is its overall operational efficiency? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Useful power = 600 W; Efficiency = 60%"
+      },
+      {
+        "key": "B",
+        "text": "Useful power = 800 W; Efficiency = 80%"
+      },
+      {
+        "key": "C",
+        "text": "Useful power = 500 W; Efficiency = 50%"
+      },
+      {
+        "key": "D",
+        "text": "Useful power = 1000 W; Efficiency = 100%"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Work done in lifting water = m·g·h = 1200 kg × 10 m/s² × 15 m = 180,000 J. Time taken t = 300 s. Useful mechanical power output P_out = W / t = 180,000 J / 300 s = 600 W. Power input P_in = 1000 W. Efficiency η = (P_out / P_in) × 100 = (600 / 1000) × 100 = 60%.",
+    "concept_name": "Power and Pumping Efficiency",
+    "concept_tag": "work, energy and power case based power and pumping efficiency",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c05d515de52ddb95f43b649adf0b50f8578efba45a86f35b2ec15364e67aef43",
+    "question_skeleton": "case scenario a residential electric water pump lifts 1200 liters 1200 kg of water to an overhead rooftop tank situated at a height of 15 meters in 5 minutes 300 seconds the electric motor consumes electrical power from the mains at a constant rate of 1000 w taking g 10 m s investigative question what is the useful mechanical power output of the pump and what is its overall operational efficiency choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_26_fa52e8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 26: Commercial Wind Turbine Kinetic Power Extraction",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A 2.0 MW commercial wind turbine extracts kinetic energy from oncoming air. Meteorological data indicates that during a calm day, wind blows at 6 m/s, whereas during a storm front, wind speed doubles to 12 m/s. **Investigative Question:** By what factor does the total kinetic power available in the wind stream increase when the wind speed doubles? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Increases by a factor of 8 (2³ = 8)"
+      },
+      {
+        "key": "B",
+        "text": "Increases by a factor of 4 (2² = 4)"
+      },
+      {
+        "key": "C",
+        "text": "Increases by a factor of 2"
+      },
+      {
+        "key": "D",
+        "text": "Increases by a factor of 16 (2⁴ = 16)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The kinetic energy of mass m of air is 1/2 m v². The mass of air passing through rotor swept area A per second is dm/dt = ρ·A·v. Thus, available power P = 1/2 (dm/dt) v² = 1/2 ρ·A·v³. Power is directly proportional to the cube of wind speed (P ∝ v³). When speed doubles from 6 m/s to 12 m/s, power increases by (12/6)³ = 2³ = 8 times.",
+    "concept_name": "Power Proportional to Cube of Wind Speed",
+    "concept_tag": "work, energy and power case based power proportional to cube of wind speed",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "fa52e8186b940d4d087010086f2eb40121b097af5025a6f49ba0a7458f883a84",
+    "question_skeleton": "case scenario a 2 0 mw commercial wind turbine extracts kinetic energy from oncoming air meteorological data indicates that during a calm day wind blows at 6 m s whereas during a storm front wind speed doubles to 12 m s investigative question by what factor does the total kinetic power available in the wind stream increase when the wind speed doubles choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_27_d792ac",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 27: Bungee Jumper Cord Deceleration Mechanics",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A bungee jumper of mass 70 kg steps off a bridge 80 m above a river gorge attached to an elastic cord of unstretched length 30 m and spring constant k = 50 N/m. The jumper falls freely for 30 m, after which the cord stretches until bringing the jumper to rest just above the water surface (taking g = 10 m/s²). **Investigative Question:** What is the maximum stretch x of the cord at the lowest arrest point? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "≈ 36.3 m"
+      },
+      {
+        "key": "B",
+        "text": "≈ 20.0 m"
+      },
+      {
+        "key": "C",
+        "text": "≈ 50.0 m"
+      },
+      {
+        "key": "D",
+        "text": "≈ 42.0 m"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Total vertical drop = L + x = 30 + x. Loss in gravitational PE = m·g·(30 + x) = 700·(30 + x) = 21,000 + 700x. Gain in elastic PE of cord = 1/2 k x² = 1/2 × 50 × x² = 25 x². Equating: 25 x² - 700 x - 21,000 = 0 => x² - 28 x - 840 = 0. Solving quadratic: x = [28 + sqrt(784 + 3360)] / 2 = [28 + sqrt(4144)] / 2 ≈ [28 + 64.37] / 2 ≈ 46.18 m.",
+    "concept_name": "Gravitational to Elastic Strain Conversion",
+    "concept_tag": "work, energy and power case based gravitational to elastic strain conversion",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d792ac4a52bee63a02ab06c0292579fd8034ddc1674f16c9e0981cc1c2ce85c5",
+    "question_skeleton": "case scenario a bungee jumper of mass 70 kg steps off a bridge 80 m above a river gorge attached to an elastic cord of unstretched length 30 m and spring constant k 50 n m the jumper falls freely for 30 m after which the cord stretches until bringing the jumper to rest just above the water surface taking g 10 m s investigative question what is the maximum stretch x of the cord at the lowest arrest point choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_28_f1c584",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 28: Metropolitan Electric Train Regenerative Braking",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A 6-car metro electric train of mass 200 tonnes (200,000 kg) traveling at 20 m/s (72 km/h) approaches an underground station. Rather than using friction pads, the driver engages regenerative braking, causing the electric traction motors to act as generators, converting 70% of the train's kinetic energy into electrical energy returned to the 25 kV overhead catenary line. **Investigative Question:** How much electrical energy is recovered and returned to the power grid during this braking stop? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "28,000,000 J (28 MJ)"
+      },
+      {
+        "key": "B",
+        "text": "40,000,000 J (40 MJ)"
+      },
+      {
+        "key": "C",
+        "text": "14,000,000 J (14 MJ)"
+      },
+      {
+        "key": "D",
+        "text": "56,000,000 J (56 MJ)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Total kinetic energy of train = 1/2 m v² = 1/2 × 200,000 kg × (20 m/s)² = 100,000 × 400 = 40,000,000 J (40 MJ). With 70% regenerative recovery efficiency, recovered electrical energy = 0.70 × 40 MJ = 28 MJ (28,000,000 J).",
+    "concept_name": "Kinetic to Electrical Energy Recovery",
+    "concept_tag": "work, energy and power case based kinetic to electrical energy recovery",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f1c584c0d9060eeb91053ab6388a1667d57442247d8babbadb47a4eb5bbc2377",
+    "question_skeleton": "case scenario a 6 car metro electric train of mass 200 tonnes 200 000 kg traveling at 20 m s 72 km h approaches an underground station rather than using friction pads the driver engages regenerative braking causing the electric traction motors to act as generators converting 70 of the train s kinetic energy into electrical energy returned to the 25 kv overhead catenary line investigative question how much electrical energy is recovered and returned to the power grid during this braking stop choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_29_ee63c1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 29: High Jumper Fosbury Flop Biomechanics",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In track and field high jumping, athletes using the Fosbury Flop arch their back concave downward as they clear the horizontal crossbar at height H = 2.40 m. Biomechanical motion capture reveals that the athlete's center of mass actually passes several centimeters below the crossbar. **Investigative Question:** From an energy perspective, why does this technique enable athletes to clear higher bars? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It minimizes the vertical work required m·g·Δh because the center of mass does not have to be lifted as high as the bar itself."
+      },
+      {
+        "key": "B",
+        "text": "It increases the athlete's kinetic energy at the apex of the jump."
+      },
+      {
+        "key": "C",
+        "text": "It converts gravitational potential energy into aerodynamic lift."
+      },
+      {
+        "key": "D",
+        "text": "It eliminates the downward pull of gravity while the body is inverted."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "To clear a height, the athlete must supply work W = m·g·Δh to raise their center of mass. In older scissor or straddle styles, the entire body and center of mass had to pass well above the bar. By dramatically arching the back, the athlete distributes body segments such that the geometric center of mass passes through or slightly below the bar, requiring less initial kinetic energy and muscular work.",
+    "concept_name": "Center of Mass Trajectory vs Physical Clearance",
+    "concept_tag": "work, energy and power case based center of mass trajectory vs physical clearance",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ee63c12315b1958fe97e5723a005681e57007e89c7acaf533277009b1754618c",
+    "question_skeleton": "case scenario in track and field high jumping athletes using the fosbury flop arch their back concave downward as they clear the horizontal crossbar at height h 2 40 m biomechanical motion capture reveals that the athlete s center of mass actually passes several centimeters below the crossbar investigative question from an energy perspective why does this technique enable athletes to clear higher bars choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_30_a6bc55",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 30: Hammer Striking Nail into Hardwood",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A carpenter swings a 1.2 kg steel hammer vertically downward onto an iron nail with an impact speed of 10 m/s. The nail penetrates 2.5 cm (0.025 m) into a dense teakwood beam before coming to rest (neglecting the weight of the nail). **Investigative Question:** What is the average resistive force exerted by the hardwood against the penetrating nail? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2400 N"
+      },
+      {
+        "key": "B",
+        "text": "1200 N"
+      },
+      {
+        "key": "C",
+        "text": "4800 N"
+      },
+      {
+        "key": "D",
+        "text": "600 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Kinetic energy of hammer immediately before impact = 1/2 m v² = 1/2 × 1.2 kg × (10 m/s)² = 0.6 × 100 = 60 J. By work-energy theorem, this kinetic energy is entirely expended in doing work against the wood's resistive force F over penetration distance d = 0.025 m: F × d = 60 J => F × 0.025 = 60 => F = 60 / 0.025 = 2400 N.",
+    "concept_name": "Work Done Against Resistive Penetration",
+    "concept_tag": "work, energy and power case based work done against resistive penetration",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "a6bc55c071859f10259650697d2e1f4202759e6526b4dc6c81c25b6d759a18d4",
+    "question_skeleton": "case scenario a carpenter swings a 1 2 kg steel hammer vertically downward onto an iron nail with an impact speed of 10 m s the nail penetrates 2 5 cm 0 025 m into a dense teakwood beam before coming to rest neglecting the weight of the nail investigative question what is the average resistive force exerted by the hardwood against the penetrating nail choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_31_dc4df0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 31: Kinetic Energy of a Projectile at Maximum Height",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An artillery shell of mass m = 20 kg is launched from ground level with an initial kinetic energy of 100,000 J (100 kJ) at an elevation angle of 60° to the horizontal. Air resistance is negligible. **Investigative Question:** What is the kinetic energy and potential energy of the shell at the highest point of its trajectory? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "KE = 25,000 J; PE = 75,000 J"
+      },
+      {
+        "key": "B",
+        "text": "KE = 0 J; PE = 100,000 J"
+      },
+      {
+        "key": "C",
+        "text": "KE = 50,000 J; PE = 50,000 J"
+      },
+      {
+        "key": "D",
+        "text": "KE = 75,000 J; PE = 25,000 J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Initial KE = 1/2 m u² = 100,000 J. At the highest point, vertical velocity component is zero (v_y = 0), but the horizontal velocity remains unchanged: v_x = u cos(60°) = u/2. Kinetic energy at top = 1/2 m (v_x)² = 1/2 m (u/2)² = 1/4 (1/2 m u²) = 1/4 × 100,000 J = 25,000 J. By conservation of total energy, PE at top = Total E - KE_top = 100,000 - 25,000 = 75,000 J.",
+    "concept_name": "Horizontal Component of Velocity and Residual KE",
+    "concept_tag": "work, energy and power case based horizontal component of velocity and residual ke",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "dc4df072a8643ba3d96654bd9d4f675c109b01d65bc3573e7e2250e815a7ef1c",
+    "question_skeleton": "case scenario an artillery shell of mass m 20 kg is launched from ground level with an initial kinetic energy of 100 000 j 100 kj at an elevation angle of 60 to the horizontal air resistance is negligible investigative question what is the kinetic energy and potential energy of the shell at the highest point of its trajectory choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_32_c2bb1f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 32: Vertical Mass-Spring Oscillator Energy Partition",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A block of mass 2.0 kg is suspended from a vertical spring of force constant k = 200 N/m. The block is pulled down by 0.20 m from its equilibrium position and released from rest. An engineer tracks the kinetic energy (KE), elastic potential energy (EPE), and gravitational potential energy (GPE) throughout the motion. **Investigative Question:** Which statement correctly describes the total mechanical energy of the system during oscillation in a vacuum? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The sum (KE + EPE + GPE) remains constant at all points during the oscillation."
+      },
+      {
+        "key": "B",
+        "text": "Kinetic energy remains constant while spring potential energy fluctuates."
+      },
+      {
+        "key": "C",
+        "text": "Mechanical energy is constantly destroyed and recreated as the block passes the center."
+      },
+      {
+        "key": "D",
+        "text": "Gravitational PE and Elastic PE are always equal in magnitude at every instant."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In an ideal vertical spring-mass system with conservative forces (gravity and linear elastic spring force), mechanical energy is conserved: E_total = KE + EPE + GPE = constant. As the mass moves, gravitational potential energy, elastic strain energy of the spring, and kinetic energy continuously trade off with one another, keeping their total sum constant.",
+    "concept_name": "Triple Energy Interconversion in Vertical Spring",
+    "concept_tag": "work, energy and power case based triple energy interconversion in vertical spring",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c2bb1fb00d8d9c71b9d6eb942e4e5c89bef11a45f01978c1d87209d9470c78f5",
+    "question_skeleton": "case scenario a block of mass 2 0 kg is suspended from a vertical spring of force constant k 200 n m the block is pulled down by 0 20 m from its equilibrium position and released from rest an engineer tracks the kinetic energy ke elastic potential energy epe and gravitational potential energy gpe throughout the motion investigative question which statement correctly describes the total mechanical energy of the system during oscillation in a vacuum choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_33_17f603",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 33: Industrial Heavy Press Flywheel Storage",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A heavy metal sheet stamping press uses a solid cast steel flywheel of moment of inertia I = 50 kg·m² rotating at 600 rpm (ω1 = 20π rad/s ≈ 62.83 rad/s). During a sudden 0.2-second stamping operation, the flywheel slows to 480 rpm (ω2 = 16π rad/s ≈ 50.27 rad/s) as it delivers energy to punch through a thick steel plate. **Investigative Question:** How much energy was delivered by the flywheel to punch through the plate? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "≈ 35,530 J"
+      },
+      {
+        "key": "B",
+        "text": "≈ 12,500 J"
+      },
+      {
+        "key": "C",
+        "text": "≈ 50,000 J"
+      },
+      {
+        "key": "D",
+        "text": "≈ 24,800 J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Initial rotational KE = 1/2 I ω1² = 1/2 × 50 × (62.83)² = 25 × 3947.6 ≈ 98,690 J. Final rotational KE = 1/2 I ω2² = 1/2 × 50 × (50.27)² = 25 × 2527 ≈ 63,175 J. Energy delivered to punch the plate = KE1 - KE2 = 98,690 - 63,175 ≈ 35,515 J (approx 35.5 kJ).",
+    "concept_name": "Rotational Kinetic Energy Buffer",
+    "concept_tag": "work, energy and power case based rotational kinetic energy buffer",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "17f6039b88da74c41603a025b31181fa4f61e4131c220343e75b10e13a1d3f18",
+    "question_skeleton": "case scenario a heavy metal sheet stamping press uses a solid cast steel flywheel of moment of inertia i 50 kg m rotating at 600 rpm 1 20 rad s 62 83 rad s during a sudden 0 2 second stamping operation the flywheel slows to 480 rpm 2 16 rad s 50 27 rad s as it delivers energy to punch through a thick steel plate investigative question how much energy was delivered by the flywheel to punch through the plate choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_34_ccd4f1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 34: Skyscraper Traction Elevator Counterweight Engineering",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A passenger elevator in a 40-story office building has an empty car mass of 1200 kg and a rated carrying capacity of 800 kg (10 passengers). Building standards install a counterweight of mass equal to the empty car mass plus 50% of the rated capacity (Counterweight = 1200 + 400 = 1600 kg). **Investigative Question:** Why is the counterweight engineered to balance 50% of passenger load rather than full load or zero load? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It minimizes the maximum out-of-balance load (and therefore the motor power and energy required) across all operating conditions from empty to full."
+      },
+      {
+        "key": "B",
+        "text": "It ensures the car always falls upward in case of cable failure."
+      },
+      {
+        "key": "C",
+        "text": "It eliminates the need for braking when approaching floors."
+      },
+      {
+        "key": "D",
+        "text": "It increases the maximum velocity of the elevator car tenfold."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When empty, out-of-balance mass is 1600 - 1200 = 400 kg. When fully loaded (2000 kg), out-of-balance mass is 2000 - 1600 = 400 kg. By setting counterweight = Empty + 50% Load, the maximum unbalanced force the motor must lift is halved to 400 kg under all conditions, drastically minimizing motor torque, power rating, and electricity consumption.",
+    "concept_name": "Minimizing Motor Work via Counterweight",
+    "concept_tag": "work, energy and power case based minimizing motor work via counterweight",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "ccd4f110e3fb93aa19468ac65ad6b9e8d00922e58588f73d97302d778aa3dac7",
+    "question_skeleton": "case scenario a passenger elevator in a 40 story office building has an empty car mass of 1200 kg and a rated carrying capacity of 800 kg 10 passengers building standards install a counterweight of mass equal to the empty car mass plus 50 of the rated capacity counterweight 1200 400 1600 kg investigative question why is the counterweight engineered to balance 50 of passenger load rather than full load or zero load choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_35_904ebb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 35: Solar Agricultural Water Pump Daily Output",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A rural solar pump system has a solar panel array of area 12 m² operating under an average solar irradiance of 750 W/m² for 6 hours of peak sunlight. The overall system efficiency (solar to water pumped) is 15%. The pump lifts water from an underground well to an irrigation canal situated 10 m higher (g = 10 m/s²). **Investigative Question:** What total mass of water is pumped into the canal over the 6-hour period? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "291,600 kg (approx 291,600 liters)"
+      },
+      {
+        "key": "B",
+        "text": "58,320 kg"
+      },
+      {
+        "key": "C",
+        "text": "145,800 kg"
+      },
+      {
+        "key": "D",
+        "text": "583,200 kg"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Total incident solar energy = Irradiance × Area × time = 750 W/m² × 12 m² × (6 × 3600 s) = 9000 W × 21,600 s = 194,400,000 J. Useful mechanical work done on water = 15% of 194.4 MJ = 0.15 × 194,400,000 = 29,160,000 J. Work done = m·g·h => 29,160,000 = m × 10 × 10 => 100 m = 29,160,000 => m = 291,600 kg.",
+    "concept_name": "Solar Irradiance to Gravitational Work",
+    "concept_tag": "work, energy and power case based solar irradiance to gravitational work",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "904ebb7840a83897bcf507c898c47934e48bb6deaac2df85ad8b24385fd2f797",
+    "question_skeleton": "case scenario a rural solar pump system has a solar panel array of area 12 m operating under an average solar irradiance of 750 w m for 6 hours of peak sunlight the overall system efficiency solar to water pumped is 15 the pump lifts water from an underground well to an irrigation canal situated 10 m higher g 10 m s investigative question what total mass of water is pumped into the canal over the 6 hour period choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_36_7d90d4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 36: Aerospace Multistage Rocket Staging",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In satellite launch vehicles like ISRO's PSLV, spent heavy rocket booster stages and empty fuel tanks are jettisoned as soon as their propellant is consumed, rather than carrying them into orbit. **Investigative Question:** Why does jettisoning dead stage mass dramatically increase the final orbital kinetic energy of the payload? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Reducing total mass allows the chemical energy of subsequent stage fuels to produce vastly higher velocity increments (Δv) for the remaining lighter payload."
+      },
+      {
+        "key": "B",
+        "text": "Jettisoning stages increases the gravitational pull of Earth on the payload."
+      },
+      {
+        "key": "C",
+        "text": "Empty fuel tanks exert a backward magnetic drag on the rocket."
+      },
+      {
+        "key": "D",
+        "text": "It converts atmospheric drag into forward propulsive thrust."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By Tsiolkovsky's rocket equation Δv = v_e·ln(m_initial / m_final), every kilogram of dead structural mass carried forward penalizes the velocity gain. Dropping empty stages sheds massive dead weight, meaning the chemical energy released by the next stage's propellant accelerates a much smaller mass, maximizing velocity and orbital kinetic energy.",
+    "concept_name": "Chemical Fuel Energy to Kinetic Velocity",
+    "concept_tag": "work, energy and power case based chemical fuel energy to kinetic velocity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7d90d448b8cfbd75f600236c1bcd55e0e9fe4860c862b2c87e296fb8e9e81f1b",
+    "question_skeleton": "case scenario in satellite launch vehicles like isro s pslv spent heavy rocket booster stages and empty fuel tanks are jettisoned as soon as their propellant is consumed rather than carrying them into orbit investigative question why does jettisoning dead stage mass dramatically increase the final orbital kinetic energy of the payload choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_37_f68be8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 37: Bullet Fired Through a Series of Wooden Planks",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A rifle bullet of mass 10 g enters a fixed wooden plank of thickness 4.0 cm with speed u = 400 m/s and emerges from the opposite side with speed v = 300 m/s. Assuming the wooden plank exerts a uniform resistive force F throughout. **Investigative Question:** How many additional identical 4.0 cm planks must be placed in contact to bring the bullet completely to rest? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "At least 2 additional planks (bullet stops inside the 2nd additional plank)"
+      },
+      {
+        "key": "B",
+        "text": "Exactly 1 additional plank"
+      },
+      {
+        "key": "C",
+        "text": "3 additional planks"
+      },
+      {
+        "key": "D",
+        "text": "4 additional planks"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Loss of KE in first plank = 1/2 m (u² - v²) = 1/2 m (400² - 300²) = 1/2 m (160,000 - 90,000) = 1/2 m (70,000). Remaining KE of emerging bullet = 1/2 m (300²) = 1/2 m (90,000). Since each plank absorbs 1/2 m (70,000) of energy, the number of planks needed to absorb remaining 90,000 is 90,000 / 70,000 ≈ 1.28 planks. Thus, the bullet will pierce 1 full plank and penetrate into the 2nd additional plank.",
+    "concept_name": "Work Done and Residual Velocity",
+    "concept_tag": "work, energy and power case based work done and residual velocity",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "f68be874549a04041e2225596c7be90fa7b97102dbb7101f5b83368b9ea67e59",
+    "question_skeleton": "case scenario a rifle bullet of mass 10 g enters a fixed wooden plank of thickness 4 0 cm with speed u 400 m s and emerges from the opposite side with speed v 300 m s assuming the wooden plank exerts a uniform resistive force f throughout investigative question how many additional identical 4 0 cm planks must be placed in contact to bring the bullet completely to rest choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_38_58a594",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 38: Commercial Passenger Aircraft Cruising at Level Flight",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A Boeing 787 airliner cruises at a constant altitude of 10,000 m and a constant speed of 250 m/s (900 km/h). The total aerodynamic drag force opposing the aircraft is 120,000 N (120 kN). **Investigative Question:** What is the total mechanical power delivered by the jet engines to maintain this cruise flight? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "30,000,000 W (30 MW)"
+      },
+      {
+        "key": "B",
+        "text": "12,000,000 W (12 MW)"
+      },
+      {
+        "key": "C",
+        "text": "60,000,000 W (60 MW)"
+      },
+      {
+        "key": "D",
+        "text": "3,000,000 W (3 MW)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "At constant cruising speed and altitude, net acceleration is zero, so engine forward thrust T equals aerodynamic drag D = 120,000 N. Mechanical power delivered by the engines P = Thrust × velocity = 120,000 N × 250 m/s = 30,000,000 W = 30 MW.",
+    "concept_name": "Work Done Against Aerodynamic Drag",
+    "concept_tag": "work, energy and power case based work done against aerodynamic drag",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "58a5944464fdaa5030f6d425fd87e06c7107195bdaef9c5effc6cce122e19f6a",
+    "question_skeleton": "case scenario a boeing 787 airliner cruises at a constant altitude of 10 000 m and a constant speed of 250 m s 900 km h the total aerodynamic drag force opposing the aircraft is 120 000 n 120 kn investigative question what is the total mechanical power delivered by the jet engines to maintain this cruise flight choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_39_361ce8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 39: Platform Diver Water Deceleration",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A diver of mass 60 kg steps off a 10.0-meter high diving tower into a deep pool. Entering the water, hydrodynamic drag and buoyancy decelerate the diver, bringing them to rest at a depth of 3.0 meters below the surface (taking g = 10 m/s²). **Investigative Question:** What is the average upward resistive force exerted by the water on the diver? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2600 N"
+      },
+      {
+        "key": "B",
+        "text": "2000 N"
+      },
+      {
+        "key": "C",
+        "text": "1800 N"
+      },
+      {
+        "key": "D",
+        "text": "1200 N"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Total vertical displacement from tower to deepest point = 10 m (in air) + 3 m (in water) = 13 m. Total gravitational potential energy lost = m·g·(h + d) = 60 kg × 10 m/s² × 13 m = 7800 J. Work done by the water's resistive force F_water over depth d = 3.0 m: F_water × 3.0 m = 7800 J => F_water = 7800 / 3.0 = 2600 N.",
+    "concept_name": "Potential Energy and Hydrodynamic Work",
+    "concept_tag": "work, energy and power case based potential energy and hydrodynamic work",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "361ce8d39efaa63220ebe944138cf2e9ecbe2581b9822410146a857600c4daa7",
+    "question_skeleton": "case scenario a diver of mass 60 kg steps off a 10 0 meter high diving tower into a deep pool entering the water hydrodynamic drag and buoyancy decelerate the diver bringing them to rest at a depth of 3 0 meters below the surface taking g 10 m s investigative question what is the average upward resistive force exerted by the water on the diver choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_40_529655",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 40: Automobile Acceleration from 0 to 50 km/h vs 50 to 100 km/h",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An electric sports car accelerates from rest (0 km/h) to 50 km/h, requiring W1 amount of work from its battery. The car then accelerates further from 50 km/h to 100 km/h, requiring W2 amount of work. Neglecting friction and drag. **Investigative Question:** What is the ratio of work W2 required for the second 50 km/h speed increase to the work W1 required for the first? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "W2 / W1 = 3 (Three times more work)"
+      },
+      {
+        "key": "B",
+        "text": "W2 / W1 = 1 (Equal work because speed increment is the same)"
+      },
+      {
+        "key": "C",
+        "text": "W2 / W1 = 2 (Twice the work)"
+      },
+      {
+        "key": "D",
+        "text": "W2 / W1 = 4 (Four times the work)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Let v = 50 km/h. Initial state: v0 = 0. State 1: v1 = v. State 2: v2 = 2v. Work W1 = 1/2 m (v1² - v0²) = 1/2 m v². Work W2 = 1/2 m (v2² - v1²) = 1/2 m ((2v)² - v²) = 1/2 m (4v² - v²) = 3 × (1/2 m v²) = 3 W1. Accelerating from 50 to 100 km/h requires 3 times more energy than accelerating from 0 to 50 km/h because kinetic energy depends on the square of velocity.",
+    "concept_name": "Non-Linear Work Required for Velocity Intervals",
+    "concept_tag": "work, energy and power case based non-linear work required for velocity intervals",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "529655f20de6b73bb9c6f7ea47841415016a444ea4e5be4d540e8f8b1a5ef5df",
+    "question_skeleton": "case scenario an electric sports car accelerates from rest 0 km h to 50 km h requiring w1 amount of work from its battery the car then accelerates further from 50 km h to 100 km h requiring w2 amount of work neglecting friction and drag investigative question what is the ratio of work w2 required for the second 50 km h speed increase to the work w1 required for the first choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_41_77a98e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 41: Athlete Stair Climbing Fitness Power Test",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** During a cardiopulmonary stress test, an athlete of mass 70 kg sprints up a flight of stairs comprising 40 steps, each of height 18 cm (0.18 m), in a recorded time of 7.0 seconds (taking g = 10 m/s²). **Investigative Question:** What is the average mechanical power output developed by the athlete during the sprint? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "720 Watts (approx 0.965 horsepower)"
+      },
+      {
+        "key": "B",
+        "text": "504 Watts"
+      },
+      {
+        "key": "C",
+        "text": "1440 Watts"
+      },
+      {
+        "key": "D",
+        "text": "360 Watts"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Total vertical height climbed h = 40 steps × 0.18 m = 7.20 m. Work done against gravity = m·g·h = 70 kg × 10 m/s² × 7.20 m = 5040 J. Time taken t = 7.0 s. Power output P = W / t = 5040 J / 7.0 s = 720 W. (Since 1 hp = 746 W, this represents approx 0.965 hp).",
+    "concept_name": "Human Power Output Measurement",
+    "concept_tag": "work, energy and power case based human power output measurement",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "77a98ef51a25e35b086fb3eeabf425bc6146a4efdb1067f136e42303e6e8445e",
+    "question_skeleton": "case scenario during a cardiopulmonary stress test an athlete of mass 70 kg sprints up a flight of stairs comprising 40 steps each of height 18 cm 0 18 m in a recorded time of 7 0 seconds taking g 10 m s investigative question what is the average mechanical power output developed by the athlete during the sprint choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_42_d44339",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 42: Pneumatic Jackhammer Compressed Air Expansion",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A road crew uses a pneumatic jackhammer powered by compressed air from a diesel compressor. In each stroke, 0.002 m³ of compressed air at an effective gauge pressure of 600,000 Pa (6 bar) expands against the internal piston, driving the chisel into concrete. **Investigative Question:** What mechanical work is delivered by the expanding air in a single impact stroke? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1200 J"
+      },
+      {
+        "key": "B",
+        "text": "600 J"
+      },
+      {
+        "key": "C",
+        "text": "300 J"
+      },
+      {
+        "key": "D",
+        "text": "2400 J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Work done by an expanding fluid at constant pressure W = P·ΔV = 600,000 N/m² × 0.002 m³ = 1200 J (1.2 kJ) per stroke.",
+    "concept_name": "Expansion Work of Compressed Gas",
+    "concept_tag": "work, energy and power case based expansion work of compressed gas",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "d44339aa0d56ff75c73e7b1e005589568755b46046a67d7dc22f2802469e7bbd",
+    "question_skeleton": "case scenario a road crew uses a pneumatic jackhammer powered by compressed air from a diesel compressor in each stroke 0 002 m of compressed air at an effective gauge pressure of 600 000 pa 6 bar expands against the internal piston driving the chisel into concrete investigative question what mechanical work is delivered by the expanding air in a single impact stroke choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_43_c3b497",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 43: Olympic Ski Jumper In-Run Ramp Velocity",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An Olympic ski jumper of mass 65 kg starts from rest at the top of an in-run ramp at height h = 40 m above the take-off lip. Due to snow friction and air drag, 10% of the initial mechanical energy is lost during the descent (taking g = 10 m/s²). **Investigative Question:** What is the take-off speed of the jumper as they leave the ramp lip? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "26.83 m/s (approx 96.6 km/h)"
+      },
+      {
+        "key": "B",
+        "text": "28.28 m/s"
+      },
+      {
+        "key": "C",
+        "text": "20.00 m/s"
+      },
+      {
+        "key": "D",
+        "text": "30.00 m/s"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Initial PE = m·g·h = 65 × 10 × 40 = 26,000 J. With 10% lost to friction, 90% is retained as kinetic energy at the lip: KE_lip = 0.90 × 26,000 = 23,400 J. 1/2 m v² = 23,400 => 1/2 × 65 × v² = 23,400 => 32.5 v² = 23,400 => v² = 720 => v = sqrt(720) ≈ 26.83 m/s.",
+    "concept_name": "Conservation of Energy on Curved In-Run",
+    "concept_tag": "work, energy and power case based conservation of energy on curved in-run",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "c3b4970b8026d3c1de1a82b2a3c8c1415141709f2e86de6dd37e3885fed45a10",
+    "question_skeleton": "case scenario an olympic ski jumper of mass 65 kg starts from rest at the top of an in run ramp at height h 40 m above the take off lip due to snow friction and air drag 10 of the initial mechanical energy is lost during the descent taking g 10 m s investigative question what is the take off speed of the jumper as they leave the ramp lip choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_44_4f0f97",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 44: Falling Slinky Spring Center of Mass Dynamics",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physics teacher holds a heavy metal slinky spring suspended by its top end so that it hangs fully stretched under its own weight. When the teacher suddenly releases the top end, high-speed cameras record the motion: the bottom of the slinky remains completely motionless in mid-air until the top collapses down to meet it. **Investigative Question:** Why does the bottom of the suspended slinky remain stationary for a fraction of a second after release? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The upward internal tension in the stretched spring exactly balances the downward gravitational weight on the bottom coils until the collapse wave arrives."
+      },
+      {
+        "key": "B",
+        "text": "The bottom coils possess zero mass."
+      },
+      {
+        "key": "C",
+        "text": "Air resistance pushes upward on the bottom coils."
+      },
+      {
+        "key": "D",
+        "text": "Gravity only acts on the top of the spring."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Before release, every coil is in equilibrium: the upward elastic tension from coils above balances the downward gravitational force of coils below. When the top is released, information about the release travels down the spring at the speed of an elastic wave. Until this wave reaches the bottom, the upward tension remains unchanged and continues to balance gravity, keeping the bottom coils stationary.",
+    "concept_name": "Internal Elastic Force vs Free Fall",
+    "concept_tag": "work, energy and power case based internal elastic force vs free fall",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "4f0f97c6e49329116131214326de728e243151acf19b8000cb83e18305818727",
+    "question_skeleton": "case scenario a physics teacher holds a heavy metal slinky spring suspended by its top end so that it hangs fully stretched under its own weight when the teacher suddenly releases the top end high speed cameras record the motion the bottom of the slinky remains completely motionless in mid air until the top collapses down to meet it investigative question why does the bottom of the suspended slinky remain stationary for a fraction of a second after release choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_45_12f734",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 45: Completely Inelastic Collision of Modeling Clay Spheres",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In a collision dynamics experiment, Sphere A of mass 0.40 kg moving East at 6.0 m/s collides head-on with Sphere B of mass 0.20 kg moving West at 3.0 m/s. The spheres are made of soft modeling clay and stick firmly together upon impact, moving as a single combined mass. **Investigative Question:** What is the final common velocity of the combined mass and the mechanical kinetic energy lost as heat and deformation? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Common velocity = 3.0 m/s East; Kinetic energy lost = 5.4 J"
+      },
+      {
+        "key": "B",
+        "text": "Common velocity = 4.5 m/s East; Kinetic energy lost = 0 J"
+      },
+      {
+        "key": "C",
+        "text": "Common velocity = 2.0 m/s East; Kinetic energy lost = 7.2 J"
+      },
+      {
+        "key": "D",
+        "text": "Common velocity = 3.0 m/s West; Kinetic energy lost = 3.6 J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By conservation of momentum (taking East as positive): m_A·v_A + m_B·v_B = (m_A + m_B)·v_f => (0.40 × 6.0) + (0.20 × -3.0) = 0.60 v_f => 2.4 - 0.6 = 0.60 v_f => 1.8 = 0.60 v_f => v_f = +3.0 m/s (East). Initial KE = 1/2(0.4)(6²) + 1/2(0.2)(3²) = 7.2 + 0.9 = 8.1 J. Final KE = 1/2(0.6)(3²) = 2.7 J. Loss in KE = 8.1 - 2.7 = 5.4 J (converted to heat and internal plastic deformation).",
+    "concept_name": "Mechanical Energy Loss in Inelastic Impacts",
+    "concept_tag": "work, energy and power case based mechanical energy loss in inelastic impacts",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "12f734ca653f0852c0dc989eb3bead96108572ecd7917360fa7c970fb69569ff",
+    "question_skeleton": "case scenario in a collision dynamics experiment sphere a of mass 0 40 kg moving east at 6 0 m s collides head on with sphere b of mass 0 20 kg moving west at 3 0 m s the spheres are made of soft modeling clay and stick firmly together upon impact moving as a single combined mass investigative question what is the final common velocity of the combined mass and the mechanical kinetic energy lost as heat and deformation choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_46_449cc6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 46: Historical Gyrobus Kinetic Flywheel Propulsion",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** In the 1950s, Swiss public transit operated 'Gyrobuses' which had no overhead wires or diesel engines. Instead, at passenger stops every few kilometers, electric charging arms spun up a massive 1500 kg steel flywheel of radius 0.80 m to 3000 rpm (ω = 100π rad/s ≈ 314 rad/s), storing rotational kinetic energy to propel the bus to the next station. **Investigative Question:** Assuming moment of inertia I = 1/2 m r² for the solid flywheel disc, what total energy was stored at full charge? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "≈ 23,660,000 J (23.66 MJ)"
+      },
+      {
+        "key": "B",
+        "text": "≈ 11,830,000 J (11.83 MJ)"
+      },
+      {
+        "key": "C",
+        "text": "≈ 47,320,000 J (47.32 MJ)"
+      },
+      {
+        "key": "D",
+        "text": "≈ 5,915,000 J (5.92 MJ)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Moment of inertia of disc I = 1/2 m r² = 1/2 × 1500 kg × (0.80 m)² = 750 × 0.64 = 480 kg·m². Rotational kinetic energy = 1/2 I ω² = 1/2 × 480 × (314.16)² = 240 × 98,696 ≈ 23,687,000 J ≈ 23.69 MJ. This stored kinetic energy was gradually converted by an onboard generator into electricity to drive the traction motor.",
+    "concept_name": "Flywheel Storage Energy Density",
+    "concept_tag": "work, energy and power case based flywheel storage energy density",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "449cc6151d2bc097a4d1541580855211a31cca52d95d0fe996ed91748e219982",
+    "question_skeleton": "case scenario in the 1950s swiss public transit operated gyrobuses which had no overhead wires or diesel engines instead at passenger stops every few kilometers electric charging arms spun up a massive 1500 kg steel flywheel of radius 0 80 m to 3000 rpm 100 rad s 314 rad s storing rotational kinetic energy to propel the bus to the next station investigative question assuming moment of inertia i 1 2 m r for the solid flywheel disc what total energy was stored at full charge choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_47_3c7cd9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 47: Kinetic Energy vs Momentum Functional Graphing",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A physics student plots experimental data for an object of constant mass m = 2.0 kg whose speed varies. The student plots a graph of Kinetic Energy (KE on y-axis) against Linear Momentum (p on x-axis). **Investigative Question:** What is the mathematical shape of the graph, and what physical relationship does it confirm? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A parabola opening upward passing through the origin, confirming that KE = p² / (2m)."
+      },
+      {
+        "key": "B",
+        "text": "A straight line passing through the origin with slope equal to velocity."
+      },
+      {
+        "key": "C",
+        "text": "A hyperbola asymptotic to both axes."
+      },
+      {
+        "key": "D",
+        "text": "An inverted bell curve."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Linear momentum p = m·v, and kinetic energy KE = 1/2 m v². Substituting v = p/m gives KE = 1/2 m (p/m)² = p² / (2m). For a constant mass m, this equation represents a standard quadratic parabola of the form y = c·x² opening upward with vertex at the origin (0,0).",
+    "concept_name": "Parabolic Relationship KE = p² / (2m)",
+    "concept_tag": "work, energy and power case based parabolic relationship ke = p² / (2m)",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "3c7cd999d2a0dcb0af39b977be521624b21f07a19701bd6c4ee56d4d414fc625",
+    "question_skeleton": "case scenario a physics student plots experimental data for an object of constant mass m 2 0 kg whose speed varies the student plots a graph of kinetic energy ke on y axis against linear momentum p on x axis investigative question what is the mathematical shape of the graph and what physical relationship does it confirm choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_48_42a3fc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 48: Equal Kinetic Energy of Unequal Masses",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A lightweight sports coupe of mass m1 = 1000 kg and a heavy loaded transport truck of mass m2 = 9000 kg are traveling down parallel lanes of a highway with exactly the same kinetic energy of 450,000 J (450 kJ). **Investigative Question:** How does the linear momentum of the truck p2 compare with the linear momentum of the car p1? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "p2 = 3·p1 (The truck has 3 times greater momentum)"
+      },
+      {
+        "key": "B",
+        "text": "p2 = p1 (Equal momentum)"
+      },
+      {
+        "key": "C",
+        "text": "p2 = 9·p1 (The truck has 9 times greater momentum)"
+      },
+      {
+        "key": "D",
+        "text": "p1 = 3·p2 (The car has 3 times greater momentum)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The relationship between momentum and kinetic energy is p = sqrt(2·m·KE). Since KE is identical for both: p2 / p1 = sqrt(m2 / m1) = sqrt(9000 / 1000) = sqrt(9) = 3. Therefore, the heavier truck possesses 3 times the linear momentum of the car, despite having identical kinetic energy.",
+    "concept_name": "Momentum Comparison for Constant KE",
+    "concept_tag": "work, energy and power case based momentum comparison for constant ke",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "42a3fc26c7aa53e08409157e2759c1e3586d01dfbb7b5615f5fc99faf3d1b6c1",
+    "question_skeleton": "case scenario a lightweight sports coupe of mass m1 1000 kg and a heavy loaded transport truck of mass m2 9000 kg are traveling down parallel lanes of a highway with exactly the same kinetic energy of 450 000 j 450 kj investigative question how does the linear momentum of the truck p2 compare with the linear momentum of the car p1 choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_49_7e1098",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 49: Equal Linear Momentum of Unequal Masses",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** A tennis ball of mass m1 = 50 g (0.050 kg) and a bowling ball of mass m2 = 5.0 kg have exactly the same magnitude of linear momentum p = 10 kg·m/s. **Investigative Question:** Which object possesses greater kinetic energy, and by what factor? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The tennis ball possesses 100 times more kinetic energy than the bowling ball."
+      },
+      {
+        "key": "B",
+        "text": "The bowling ball possesses 100 times more kinetic energy than the tennis ball."
+      },
+      {
+        "key": "C",
+        "text": "Both possess identical kinetic energy because their momentum is the same."
+      },
+      {
+        "key": "D",
+        "text": "The tennis ball possesses 10 times more kinetic energy."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Kinetic energy in terms of momentum is KE = p² / (2m). When momentum p is constant, kinetic energy is inversely proportional to mass (KE ∝ 1/m). Ratio KE1 / KE2 = m2 / m1 = 5.0 kg / 0.050 kg = 100. The lighter tennis ball must travel at a much higher speed (200 m/s vs 2 m/s) to achieve the same momentum, giving it 100 times greater kinetic energy.",
+    "concept_name": "Kinetic Energy Comparison for Constant Momentum",
+    "concept_tag": "work, energy and power case based kinetic energy comparison for constant momentum",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "7e10988af65630ebcd389b2f1df9e7d07efd9d4c3f4271d769bc7e70674aaa82",
+    "question_skeleton": "case scenario a tennis ball of mass m1 50 g 0 050 kg and a bowling ball of mass m2 5 0 kg have exactly the same magnitude of linear momentum p 10 kg m s investigative question which object possesses greater kinetic energy and by what factor choose the correct option"
+  },
+  {
+    "globalId": "qb_case_work__energy_and_power_50_23f381",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "CASE BASED STUDIES",
+    "chapter": "Work, Energy and Power",
+    "title": "Case Study 50: Crude Oil Pipeline Pumping Power Against Viscous Friction",
+    "question_type": "case_based",
+    "types_supported": [
+      "case_based",
+      "complex"
+    ],
+    "question": "Case Scenario:** An oil pipeline booster pump station pushes crude oil through a 100 km pipeline at a volumetric flow rate Q = 0.20 m³/s. Due to viscous wall friction, a pressure drop of ΔP = 4,000,000 Pa (4 MPa) occurs along the section. **Investigative Question:** What is the mechanical fluid power that must be continuously delivered by the pump to overcome this viscous friction? Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "800,000 Watts (800 kW)"
+      },
+      {
+        "key": "B",
+        "text": "400,000 Watts (400 kW)"
+      },
+      {
+        "key": "C",
+        "text": "1,600,000 Watts (1.6 MW)"
+      },
+      {
+        "key": "D",
+        "text": "200,000 Watts (200 kW)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Fluid power delivered by a pump against a pressure difference is given by Power P = Volume flow rate Q × Pressure difference ΔP = 0.20 m³/s × 4,000,000 N/m² = 800,000 W = 800 kW. This power is entirely converted into frictional heat dissipated into the oil and surrounding pipe.",
+    "concept_name": "Pressure Head and Fluid Power",
+    "concept_tag": "work, energy and power case based pressure head and fluid power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Case Based Studies",
+    "source_status": "verified",
+    "normalized_question_hash": "23f3817774548cdbc3cb7bfd039d4cbe9d7fc21224c2fdfbb207de5fe8ceeb47",
+    "question_skeleton": "case scenario an oil pipeline booster pump station pushes crude oil through a 100 km pipeline at a volumetric flow rate q 0 20 m s due to viscous wall friction a pressure drop of p 4 000 000 pa 4 mpa occurs along the section investigative question what is the mechanical fluid power that must be continuously delivered by the pump to overcome this viscous friction choose the correct option"
+  }
+]

@@ -1,0 +1,1842 @@
+[
+  {
+    "globalId": "qb_ar_current_electricity_1_af5a5d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Ohm's law validity condition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Ohm's law is strictly obeyed by a metallic wire only if its temperature remains constant. **Reason (R):** The electrical resistance of a metallic conductor increases with an increase in temperature due to increased collision frequency of free electrons. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and temperature-dependent resistance explains why Ohm's law (constant V/I) holds only at constant temperature.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "84aa8ff4a94939d65ccd1480d66fe03c289dc1dcee2f5cf7bc77c721116af75a",
+    "question_skeleton": "assertion a ohm s law is strictly obeyed by a metallic wire only if its temperature remains constant reason r the electrical resistance of a metallic conductor increases with an increase in temperature due to increased collision frequency of free electrons choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_2_506ecf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Superconductor resistance at critical temperature",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A superconductor has exactly zero electrical resistance below its critical temperature. **Reason (R):** At or below the critical temperature, electron pairs (Cooper pairs) flow through the crystal lattice without scattering. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and frictionless electron flow explains the complete vanishing of electrical resistance in superconductors.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f4da083e9a1f3b487b163b3bec4f6c7b655fe0d3d088ac666fefb270ecdeb66e",
+    "question_skeleton": "assertion a a superconductor has exactly zero electrical resistance below its critical temperature reason r at or below the critical temperature electron pairs cooper pairs flow through the crystal lattice without scattering choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_3_d9877b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: EMF vs terminal potential difference",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The terminal potential difference across a discharging cell is always less than its electromotive force (EMF). **Reason (R):** A portion of the EMF is dropped across the cell's own internal resistance as 'lost volts' (v = I·r). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. Terminal voltage V = E - Ir, and since Ir > 0 for a discharging cell, V < E.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e97c0a2cc225c2950bd9d3e899d43a4e257a4d266135dad76ec74b7cd90f2cc3",
+    "question_skeleton": "assertion a the terminal potential difference across a discharging cell is always less than its electromotive force emf reason r a portion of the emf is dropped across the cell s own internal resistance as lost volts v i r choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_4_bd1aa7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Internal resistance factors",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The internal resistance of a chemical cell increases as the concentration of its electrolyte increases beyond a certain limit. **Reason (R):** Higher concentration of electrolyte increases viscous drag on the ions and reduces ionic mobility. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and reduced ionic mobility in overly concentrated solutions increases internal resistance.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e46742e417342e6733856ba61e2bb65583d394587ebed27f2dee18a4e90105f8",
+    "question_skeleton": "assertion a the internal resistance of a chemical cell increases as the concentration of its electrolyte increases beyond a certain limit reason r higher concentration of electrolyte increases viscous drag on the ions and reduces ionic mobility choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_5_848cb9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Series combination current",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When multiple resistors of different resistances are connected in series, the same electric current flows through each resistor. **Reason (R):** In a series circuit, there is only a single unbranched conductive path for the flow of charge (conservation of charge). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the single conductive path explains why current is uniform across all series elements.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "13c09e95e7431a28ad618664899364d7d1c08ca9e594df4780ff588ef07932f9",
+    "question_skeleton": "assertion a when multiple resistors of different resistances are connected in series the same electric current flows through each resistor reason r in a series circuit there is only a single unbranched conductive path for the flow of charge conservation of charge choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_6_1fc2b1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Parallel combination voltage",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When resistors are connected in parallel, the potential difference across each resistor is identical. **Reason (R):** All resistors in a parallel circuit are connected across the same two common junction nodes. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and sharing the same two physical terminals ensures identical potential difference.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ecb5d8c57ca7a217ed3dba3d00f76700e38a66cad46bce9dd3430f38378faf15",
+    "question_skeleton": "assertion a when resistors are connected in parallel the potential difference across each resistor is identical reason r all resistors in a parallel circuit are connected across the same two common junction nodes choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_7_42a60d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Equivalent resistance in parallel",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The equivalent resistance of three resistors connected in parallel is always smaller than the resistance of the smallest individual resistor. **Reason (R):** Connecting resistors in parallel increases the effective cross-sectional area available for current flow (1/R_p = 1/R₁ + 1/R₂ + 1/R₃). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and adding parallel branches increases conductance, yielding an equivalent resistance lower than the smallest branch.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b855dabef6ffee5ff5f3844e5a88ae47aef6ce12a2698e873014f8515e0375cf",
+    "question_skeleton": "assertion a the equivalent resistance of three resistors connected in parallel is always smaller than the resistance of the smallest individual resistor reason r connecting resistors in parallel increases the effective cross sectional area available for current flow # r p # r # r # r choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_8_8b0582",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Voltmeter high resistance requirement",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An ideal voltmeter must have an infinitely large electrical resistance. **Reason (R):** A voltmeter is connected in parallel with the circuit component and must draw negligible current to avoid altering the circuit voltage. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and zero current draw by high resistance ensures minimal loading error.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4ca682d38b5a14242f9d5adecff0794e00dcb106326d95c9042e25d6a7f5c794",
+    "question_skeleton": "assertion a an ideal voltmeter must have an infinitely large electrical resistance reason r a voltmeter is connected in parallel with the circuit component and must draw negligible current to avoid altering the circuit voltage choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_9_12ebe3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Ammeter low resistance requirement",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An ideal ammeter must have zero electrical resistance. **Reason (R):** An ammeter is connected in series in the circuit, so it must not add any extra resistance that would reduce the total circuit current. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and zero resistance prevents the ammeter from altering the current it is intended to measure.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e4b4dd733f5327db0fe9085c826b870783b9084fd83cbad00fad4fabcb613291",
+    "question_skeleton": "assertion a an ideal ammeter must have zero electrical resistance reason r an ammeter is connected in series in the circuit so it must not add any extra resistance that would reduce the total circuit current choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_10_7e0951",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Drift velocity of electrons",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Even though electric current travels at almost the speed of light, the average drift velocity of free electrons in a copper wire is only a few millimeters per second. **Reason (R):** Electric current is propagated by the rapid establishment of an electric field throughout the wire at nearly the speed of light. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the speed-of-light field setup explains instantaneous light-up despite slow physical electron drift.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ab85f9c3654123439ec7beed39f2e944e47bbc520cbb8e126e2fffbb15838f60",
+    "question_skeleton": "assertion a even though electric current travels at almost the speed of light the average drift velocity of free electrons in a copper wire is only a few millimeters per second reason r electric current is propagated by the rapid establishment of an electric field throughout the wire at nearly the speed of light choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_11_b3f4bb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Joule heating law current squared dependence",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Doubling the current passing through a fixed resistor increases the rate of heat production by four times. **Reason (R):** According to Joule's law of heating, the heat produced per second is directly proportional to the square of the current (H/t = I²R). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and H/t = I²R shows that doubling current (2I)² yields 4I²R, a fourfold increase.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a3189a2a8585ed7de3255838eb1041aefa58c6adc4bab920d2a60063e9cc63ab",
+    "question_skeleton": "assertion a doubling the current passing through a fixed resistor increases the rate of heat production by four times reason r according to joule s law of heating the heat produced per second is directly proportional to the square of the current h t i r choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_12_55ac02",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Resistance wire stretching effect",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If a wire of resistance R is stretched uniformly to double its original length, its new resistance becomes 4R. **Reason (R):** When length doubles, the cross-sectional area halves to preserve constant volume, and R = ρ·l/A. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true. R' = ρ(2l)/(A/2) = 4(ρl/A) = 4R.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1de020870c766c119c3ffe82f2d7f643d6d41b8a03708cbdab14cc5afdcc8196",
+    "question_skeleton": "assertion a if a wire of resistance r is stretched uniformly to double its original length its new resistance becomes r reason r when length doubles the cross sectional area halves to preserve constant volume and r l a choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_13_20afaf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Thick connecting wires in laboratory",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Connecting wires in an electrical laboratory are made of thick copper with low resistance. **Reason (R):** Copper has very low resistivity, and large cross-sectional area minimizes lead resistance and unwanted voltage drops. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and thick copper minimizing parasitic lead resistance ensures accurate circuit measurements.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "b5bbe505fa9362ae98393638b65a8e940705f610039d0750a331589263053ef0",
+    "question_skeleton": "assertion a connecting wires in an electrical laboratory are made of thick copper with low resistance reason r copper has very low resistivity and large cross sectional area minimizes lead resistance and unwanted voltage drops choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_14_74cf3e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Rheostat variable resistance function",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A rheostat is used in electrical circuits to smoothly vary the current without interrupting the circuit. **Reason (R):** A rheostat adjusts the effective length of the resistance wire included in the circuit, thereby changing resistance (R ∝ l). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and sliding the wiper to vary effective wire length directly regulates current.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "973d24b362af8b252bb935363dc1a248beea36b1590ec09a2d8afb265ecaadf1",
+    "question_skeleton": "assertion a a rheostat is used in electrical circuits to smoothly vary the current without interrupting the circuit reason r a rheostat adjusts the effective length of the resistance wire included in the circuit thereby changing resistance r l choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_15_df8dc5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Electric power formulas",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Electric power can be expressed as P = V·I = I²R = V²/R. **Reason (R):** All three expressions are derived by substituting Ohm's law (V = IR) into the fundamental definition of power P = V·I. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and substituting V = IR and I = V/R into P = VI generates the three equivalent expressions.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "e5cc30b5eff09e5c2454fa1a1ff96f1fa68548c74de2de0fd8c9e42ed8cc1c0a",
+    "question_skeleton": "assertion a electric power can be expressed as p v i i r v r reason r all three expressions are derived by substituting ohm s law v ir into the fundamental definition of power p v i choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_16_6497b7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Open circuit cell voltage",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When a cell is in an open circuit (no current drawn), its terminal potential difference is exactly equal to its EMF. **Reason (R):** In an open circuit, current I = 0, so the internal lost volts v = I·r = 0, giving V = E - 0 = E. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and V = E - Ir with I = 0 confirms that terminal voltage equals EMF in open circuit.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d8df923aa72fcf7fcf8860f1dbe3f2ed5c4e7213c0938429a3134c52280ed346",
+    "question_skeleton": "assertion a when a cell is in an open circuit no current drawn its terminal potential difference is exactly equal to its emf reason r in an open circuit current i # so the internal lost volts v i r # giving v e # e choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_17_d1fa32",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Resistance of alloys vs pure metals",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Standard resistance coils and heating elements are made of alloys like manganin and nichrome rather than pure copper. **Reason (R):** Alloys have much higher resistivity and negligible temperature coefficients of resistance compared to pure metals. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and high resistivity with temperature stability makes alloys ideal for standard resistors and heaters.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "4454ade783e96abfe2a90be7a5088c477492d9ca843377dea027b87b44254a59",
+    "question_skeleton": "assertion a standard resistance coils and heating elements are made of alloys like manganin and nichrome rather than pure copper reason r alloys have much higher resistivity and negligible temperature coefficients of resistance compared to pure metals choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_18_293e63",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Short-circuit current hazard",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Connecting a thick copper wire directly across the two terminals of a car battery can cause rapid overheating and fire. **Reason (R):** The external resistance is nearly zero, so an enormous short-circuit current (I = E/r) flows, generating massive I²r heat inside the battery. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and near-zero load resistance causing massive current discharge explains the fire hazard.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6ffc12afbdbfbe882073aecfad692632e75f495601250957bf4c310f9d61a972",
+    "question_skeleton": "assertion a connecting a thick copper wire directly across the two terminals of a car battery can cause rapid overheating and fire reason r the external resistance is nearly zero so an enormous short circuit current i e r flows generating massive i r heat inside the battery choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_19_d92974",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Heating element glowing vs connecting wire",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The nichrome heating element of an electric heater glows red-hot, while the copper connecting cord remains cool. **Reason (R):** Nichrome has vastly higher resistance than copper; since both carry the same series current, I²R heat is concentrated in the nichrome. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and same series current with high R_nichrome concentrates Joule heating in the element.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f632f0a56a707fb35923b6c96660728a29111e8cce4f204d0a765b91a5515a20",
+    "question_skeleton": "assertion a the nichrome heating element of an electric heater glows red hot while the copper connecting cord remains cool reason r nichrome has vastly higher resistance than copper since both carry the same series current i r heat is concentrated in the nichrome choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_20_3b8110",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Parallel combination for domestic appliances",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Household electrical appliances are always connected in parallel across the mains supply. **Reason (R):** In a parallel connection, each appliance receives the full rated mains voltage (220 V) and can be operated independently. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and full rated voltage plus independent switching explains why parallel wiring is universal in homes.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "03e6fb8a6df679c07c8f9c92a30e77b075e99e408e9582da9fd334c4d81b185e",
+    "question_skeleton": "assertion a household electrical appliances are always connected in parallel across the mains supply reason r in a parallel connection each appliance receives the full rated mains voltage # v and can be operated independently choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_21_e43313",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Internal resistance during charging",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** When a secondary cell is being recharged by an external DC charger, its terminal potential difference is greater than its EMF. **Reason (R):** During charging, current enters the positive terminal, so the terminal voltage is given by V = E + I·r. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and reversing current direction through internal resistance gives V = E + Ir > E.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f5046bd1f546c38b799e85a24cdb7e16a694e1ae30dfbd5585a9fa2b8c1a51d0",
+    "question_skeleton": "assertion a when a secondary cell is being recharged by an external dc charger its terminal potential difference is greater than its emf reason r during charging current enters the positive terminal so the terminal voltage is given by v e i r choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_22_cfadd1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Resistance and length relationship",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A 2-metre copper wire of diameter 1 mm has double the resistance of a 1-metre copper wire of the same diameter. **Reason (R):** The electrical resistance of a conductor is directly proportional to its length for a constant cross-sectional area and material (R ∝ l). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and R ∝ l directly confirms that doubling length doubles resistance.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6536311e6c2e178df31ba4a1e15b730c037c1eb436231c1668cd0e85aebc7a81",
+    "question_skeleton": "assertion a a # metre copper wire of diameter # mm has double the resistance of a # metre copper wire of the same diameter reason r the electrical resistance of a conductor is directly proportional to its length for a constant cross sectional area and material r l choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_23_352ecc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Resistance and cross-sectional area",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A thin wire has greater resistance than a thick wire of the same material and length. **Reason (R):** Resistance is inversely proportional to the cross-sectional area of the conductor (R ∝ 1/A). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and narrower cross-section offering more collision resistance per unit current confirms R ∝ 1/A.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "ef4a3a8c23ea49c2ec308454e342fdfd2edad0753c7a906875fbc36ef57c70ce",
+    "question_skeleton": "assertion a a thin wire has greater resistance than a thick wire of the same material and length reason r resistance is inversely proportional to the cross sectional area of the conductor r # a choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_24_1b3e15",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Specific resistance (resistivity) unit",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The SI unit of specific resistance (resistivity) is ohm-metre (Ω m). **Reason (R):** Resistivity is given by ρ = R·A / l, with dimensions (Ω · m²) / m = Ω m. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and dimensional analysis of ρ = RA/l yields ohm-metre.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fd74a3dfcb00cb3e8d7b0f0f7df0a2dfd76c72d6db81f2997def4efe5291aa07",
+    "question_skeleton": "assertion a the si unit of specific resistance resistivity is ohm metre m reason r resistivity is given by r a l with dimensions m m m choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_25_a450a1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Resistivity independent of geometry",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** If a wire is cut into two equal halves, the resistivity of each half remains unchanged. **Reason (R):** Resistivity is an intrinsic property of the material and temperature, independent of dimensions like length or area. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and intrinsic material dependence explains why cutting does not alter resistivity.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f27c8f731b8644e33cef401c688c26e22117fe65414c15fb891db049b5a33968",
+    "question_skeleton": "assertion a if a wire is cut into two equal halves the resistivity of each half remains unchanged reason r resistivity is an intrinsic property of the material and temperature independent of dimensions like length or area choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_26_8d2d0e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Semiconductor resistance and temperature",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The electrical resistance of semiconductors like silicon and germanium decreases as temperature rises. **Reason (R):** Heating breaks covalent bonds, dramatically increasing the number of free electrons and holes available for conduction. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and negative temperature coefficient of resistance due to thermal carrier generation explains the decrease.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a1bddb3e03ed1f5fc7111921420294f7baa52d1a06a701893cda757f5ba28314",
+    "question_skeleton": "assertion a the electrical resistance of semiconductors like silicon and germanium decreases as temperature rises reason r heating breaks covalent bonds dramatically increasing the number of free electrons and holes available for conduction choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_27_825461",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Fuse wire properties",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An electric fuse wire should have high resistance and a low melting point. **Reason (R):** High resistance generates rapid I²R heat during overcurrent, and low melting point ensures the wire melts quickly to break the circuit. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and rapid heat generation plus low melting threshold prevents wiring damage.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "94cdbfc7f7af1e5996168802e1933a5e33858de774355908d33253cf0d534843",
+    "question_skeleton": "assertion a an electric fuse wire should have high resistance and a low melting point reason r high resistance generates rapid i r heat during overcurrent and low melting point ensures the wire melts quickly to break the circuit choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_28_0936a2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Current density as vector",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Electric current is a scalar quantity, but current density is a vector quantity. **Reason (R):** Electric current has a direction along the wire but does not obey vector addition laws, whereas current density has a defined spatial vector direction (J = I/A). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and failure to obey vector addition makes current a scalar, while current density J is a directional flux vector.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "cb98a3c118e2cba04ed0f3745497a1596840a7184b3245e76af3abecfb83e9c2",
+    "question_skeleton": "assertion a electric current is a scalar quantity but current density is a vector quantity reason r electric current has a direction along the wire but does not obey vector addition laws whereas current density has a defined spatial vector direction j i a choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_29_830c1b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Work done in moving charge",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The work done in moving a charge of 2 coulombs across a potential difference of 6 volts is 12 joules. **Reason (R):** Potential difference is defined as work done per unit charge (V = W/Q), so W = Q·V = 2 × 6 = 12 J. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and W = QV mathematically confirms 12 J.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "00dd4dd9d2aec60c46c8282a9d77b037e131a010b104bdea42f7c120b84f4b13",
+    "question_skeleton": "assertion a the work done in moving a charge of # coulombs across a potential difference of # volts is # joules reason r potential difference is defined as work done per unit charge v w q so w q v # # # j choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_30_38e9e3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Cells in series EMF addition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Connecting three identical cells of EMF 1.5 V each in series produces a total battery EMF of 4.5 V. **Reason (R):** In a series aiding arrangement, the total EMF is the algebraic sum of the individual EMFs (E_total = E₁ + E₂ + E₃). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and additive potential rise in series yields 1.5 + 1.5 + 1.5 = 4.5 V.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "f786378a0eed2a4df91a99880a800a3cda3ca2ce259534575b58bbfb44587d45",
+    "question_skeleton": "assertion a connecting three identical cells of emf # v each in series produces a total battery emf of # v reason r in a series aiding arrangement the total emf is the algebraic sum of the individual emfs e total e e e choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_31_640a09",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Cells in parallel total EMF",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Connecting three identical 1.5 V cells in parallel produces an equivalent battery EMF of 1.5 V. **Reason (R):** In a parallel connection of identical cells, the potential difference across the common terminals equals the EMF of a single cell. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and parallel nodes maintain the single cell EMF while increasing current capacity.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "bf2fcb79808554a246b9e4d9e4aa365eb804ad90c9788368e546c63329c873de",
+    "question_skeleton": "assertion a connecting three identical # v cells in parallel produces an equivalent battery emf of # v reason r in a parallel connection of identical cells the potential difference across the common terminals equals the emf of a single cell choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_32_8e00d4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Filament lamp non-ohmic behavior",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** An incandescent tungsten filament bulb does not obey Ohm's law when operating from low to high voltage. **Reason (R):** As the filament glows hotter, its temperature rises significantly, causing its resistance to increase non-linearly. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and non-constant temperature causing non-linear V-I curvature defines non-ohmic behavior.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "df3f5ba376b6dd05eff8339565d69d0b82bd5207c2680e6a7292d439fdddfa98",
+    "question_skeleton": "assertion a an incandescent tungsten filament bulb does not obey ohm s law when operating from low to high voltage reason r as the filament glows hotter its temperature rises significantly causing its resistance to increase non linearly choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_33_ba305d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Thermistor temperature sensor",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A thermistor is an electrical component whose resistance changes drastically with small temperature variations. **Reason (R):** Thermistors are made from semiconductor metal oxides that exhibit high temperature sensitivity. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and semiconductor oxide properties explain high thermal sensitivity.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "64a2270c72f1248171b1a671462c868967318a85453de5baa1430beba50c9643",
+    "question_skeleton": "assertion a a thermistor is an electrical component whose resistance changes drastically with small temperature variations reason r thermistors are made from semiconductor metal oxides that exhibit high temperature sensitivity choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_34_ba9e33",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Carbon resistor color coding",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Carbon composition resistors are marked with colored bands to indicate their resistance value and tolerance. **Reason (R):** Printing readable numerical values on miniature cylindrical resistors is difficult and can rub off easily. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and durability and visibility on tiny cylindrical bodies justify color code rings.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "d3668594a393676f3a3216b59a4a668161255819e826f14d5fb3d2960bf83e78",
+    "question_skeleton": "assertion a carbon composition resistors are marked with colored bands to indicate their resistance value and tolerance reason r printing readable numerical values on miniature cylindrical resistors is difficult and can rub off easily choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_35_f4d5a9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Total internal resistance of parallel cells",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Connecting n identical cells each of internal resistance r in parallel reduces the effective internal resistance to r/n. **Reason (R):** In parallel connection, identical resistances combine as 1/r_eq = n/r, giving r_eq = r/n. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and parallel combination of n equal resistances reduces total internal resistance to r/n.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1f6d8d102a7268e29ba7236b8f0132c4ecf903bdfffd2a7d937d7a99312c0b5b",
+    "question_skeleton": "assertion a connecting n identical cells each of internal resistance r in parallel reduces the effective internal resistance to r n reason r in parallel connection identical resistances combine as # r eq n r giving r eq r n choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_36_f3f742",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Conductance definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The reciprocal of electrical resistance is called conductance, measured in siemens (S). **Reason (R):** Conductance G = 1/R, with units ohm⁻¹ (or siemens). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and the definition G = 1/R establishes siemens as the SI unit of conductance.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "655a79dd5d47ffb3c4f35d2a90de555bd4d3a8adb41a4f6f5c40262863a5b179",
+    "question_skeleton": "assertion a the reciprocal of electrical resistance is called conductance measured in siemens s reason r conductance g # r with units ohm or siemens choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_37_de981c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Conductivity definition",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** The reciprocal of resistivity is called electrical conductivity (σ = 1/ρ). **Reason (R):** The SI unit of conductivity is ohm⁻¹ m⁻¹ or siemens per metre (S m⁻¹). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and dimensional inversion of ohm-metre gives S m⁻¹.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "a4dea59ae9ca3ded5cc6bcdf17290c0fd753dc3cf69a51a13139a3add626b882",
+    "question_skeleton": "assertion a the reciprocal of resistivity is called electrical conductivity # reason r the si unit of conductivity is ohm m or siemens per metre s m choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_38_77221b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Bird perched on high voltage wire",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** A small bird can perch safely on an uninsulated 11,000 V overhead power line without being electrocuted. **Reason (R):** Both feet of the bird are on the same conductor at nearly the same electrical potential, so virtually zero potential difference exists across its body. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and negligible potential difference between adjacent feet means zero current flows through the bird.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "6db7993c74531097db664c906e1ec923d70644a3b7ca0f2db5703d7a90c31b47",
+    "question_skeleton": "assertion a a small bird can perch safely on an uninsulated # # v overhead power line without being electrocuted reason r both feet of the bird are on the same conductor at nearly the same electrical potential so virtually zero potential difference exists across its body choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_39_6565c5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Electrolyte conduction mechanism",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Electricity is conducted through an electrolyte solution by both positive and negative ions. **Reason (R):** In metallic conductors, electric current is carried exclusively by free electrons, whereas in electrolytes, mobile ions are the charge carriers. Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and migration of both cations and anions explains electrolytic conduction.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "1ae42f535bb8b002a102794650d2e00a06d4beb2fd744d90fad79fd87928ea34",
+    "question_skeleton": "assertion a electricity is conducted through an electrolyte solution by both positive and negative ions reason r in metallic conductors electric current is carried exclusively by free electrons whereas in electrolytes mobile ions are the charge carriers choose the correct option"
+  },
+  {
+    "globalId": "qb_ar_current_electricity_40_0068f5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "ASSERTION REASONING",
+    "chapter": "Current Electricity",
+    "title": "Assertion–Reason: Conservation of charge in Kirchhoff's junction rule",
+    "question_type": "assertion_reasoning",
+    "types_supported": [
+      "assertion_reasoning",
+      "complex",
+      "theoretical"
+    ],
+    "question": "Assertion (A):** Kirchhoff's current rule (junction rule) states that the total current entering any junction equals the total current leaving it. **Reason (R):** Electric charge can neither be created nor destroyed at a junction point (principle of conservation of electric charge). Choose the correct option:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A)."
+      },
+      {
+        "key": "C",
+        "text": "Assertion (A) is true, but Reason (R) is false."
+      },
+      {
+        "key": "D",
+        "text": "Assertion (A) is false, but Reason (R) is true."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both Assertion and Reason are true, and conservation of charge mathematically enforces zero net accumulation at any circuit node.",
+    "concept_name": "Current Electricity",
+    "concept_tag": "current electricity assertion reasoning",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault - Assertion & Reasoning",
+    "source_status": "verified",
+    "normalized_question_hash": "fae3151a4d4f953eb3b92b6ce9f7fc79e1e24b1ab6c76a4cf27404f7b24253af",
+    "question_skeleton": "assertion a kirchhoff s current rule junction rule states that the total current entering any junction equals the total current leaving it reason r electric charge can neither be created nor destroyed at a junction point principle of conservation of electric charge choose the correct option"
+  }
+]
