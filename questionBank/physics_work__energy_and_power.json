@@ -1,5 +1,2122 @@
 [
   {
+    "globalId": "qb_work_energy_power_1_2a750e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by different forces on a moving block",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A block is pulled horizontally across a rough floor at constant speed. Four forces act on it: the pulling force, friction, the normal reaction and gravity. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The pulling force does positive work, friction does negative work, and both the normal reaction and gravity do zero work."
+      },
+      {
+        "key": "B",
+        "text": "The pulling force and normal reaction both do positive work because they act on the block."
+      },
+      {
+        "key": "C",
+        "text": "The net work is positive because the pulling force continuously supplies energy."
+      },
+      {
+        "key": "D",
+        "text": "Friction does zero work because the block moves at constant speed."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Perpendicular force and zero work",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_2_a487cf",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "A machine lifting a load at constant speed",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A motor lifts a load vertically at constant speed. Consider the following statements: I. The upward force exerted by the motor equals the load's weight. II. The resultant force on the load is zero. III. The motor does positive work on the load. IV. The net work done on the load is zero. Which combination is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I and II only"
+      },
+      {
+        "key": "B",
+        "text": "I, II and III only"
+      },
+      {
+        "key": "C",
+        "text": "II, III and IV only"
+      },
+      {
+        "key": "D",
+        "text": "I, II, III and IV"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Ideal movable pulley",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_3_fee117",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Equal kinetic energy, different masses",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "Body P has twice the mass of body Q. Both have the same kinetic energy. Which statement correctly compares their momenta and speeds?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P has twice the speed and twice the momentum of Q."
+      },
+      {
+        "key": "B",
+        "text": "P has half the speed and the same momentum as Q."
+      },
+      {
+        "key": "C",
+        "text": "P has half the speed and √(2) times the momentum of Q."
+      },
+      {
+        "key": "D",
+        "text": "P has 1/√(2) times the speed and √(2) times the momentum of Q."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Average power",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_4_5c2fb7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "The misleading statement about potential energy",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A student says: “If a body has zero gravitational potential energy, it cannot possess any mechanical energy.” Which is the best evaluation?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Correct, because mechanical energy is equal to gravitational potential energy alone."
+      },
+      {
+        "key": "B",
+        "text": "Correct, because zero potential energy means the body is at rest."
+      },
+      {
+        "key": "C",
+        "text": "Incorrect, because the body may have kinetic energy even when its potential energy is defined as zero."
+      },
+      {
+        "key": "D",
+        "text": "Incorrect, because gravitational potential energy can never be zero."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Conservation of momentum",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_5_8ba5de",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Free fall and energy conversion",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A stone is released from rest at a height H above the ground. Air resistance is negligible. At a point where the stone has fallen through one-quarter of the original height, which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "One-quarter of the original potential energy has been converted into kinetic energy, and the remaining potential energy is three-quarters of the original value."
+      },
+      {
+        "key": "B",
+        "text": "One-quarter of the original potential energy remains, while three-quarters has been converted into kinetic energy."
+      },
+      {
+        "key": "C",
+        "text": "The kinetic energy equals the remaining potential energy."
+      },
+      {
+        "key": "D",
+        "text": "The kinetic energy is three times the remaining potential energy only if the stone has constant acceleration."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Pump efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_6_96fc8b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by gravity during a complete journey",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A ball is thrown vertically upwards from point P, reaches maximum height Q, and returns to P. Air resistance is neglected. Which statement is correct about the work done by gravity?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gravity does positive work during both ascent and descent."
+      },
+      {
+        "key": "B",
+        "text": "Gravity does negative work during ascent and positive work during descent, with zero total work over the complete journey."
+      },
+      {
+        "key": "C",
+        "text": "Gravity does zero work during ascent because the ball slows down."
+      },
+      {
+        "key": "D",
+        "text": "Gravity does negative work over the complete journey because gravity always acts downward."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Power–time graph",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_7_8a7161",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Comparing power when lifting loads",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "Two identical motors lift different loads through the same height. Motor A lifts a 40,kg load in 8,s, while motor B lifts a 60,kg load in 12,s. Both loads start and finish at rest. Neglecting losses, which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Motor A develops greater average power because it operates for less time."
+      },
+      {
+        "key": "B",
+        "text": "Motor B develops greater average power because it lifts the heavier load."
+      },
+      {
+        "key": "C",
+        "text": "Both motors develop the same average useful power."
+      },
+      {
+        "key": "D",
+        "text": "Their average powers cannot be compared without knowing their speeds at intermediate points."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Screw-jack efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_8_e511b2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by a variable force",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A force acts along the direction of displacement. Its magnitude increases uniformly from 10,N to 30,N while an object moves 5,m. What is the work done by the force?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50,J"
+      },
+      {
+        "key": "B",
+        "text": "75,J"
+      },
+      {
+        "key": "C",
+        "text": "100,J"
+      },
+      {
+        "key": "D",
+        "text": "150,J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Percentage change in KE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_9_a20cc3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Efficiency of a real machine",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A machine receives 2500,J of energy and delivers 1750,J as useful output. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Its efficiency is 70%, and 750,J is not delivered as useful output."
+      },
+      {
+        "key": "B",
+        "text": "Its efficiency is 75%, and 625,J is wasted."
+      },
+      {
+        "key": "C",
+        "text": "Its efficiency is 40%, because only 1{,}000,J is useful."
+      },
+      {
+        "key": "D",
+        "text": "Its efficiency is 143%, because the input exceeds the output."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Friction and thermal energy",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_10_17ae4b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Mechanical advantage and velocity ratio",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A lifting machine has a mechanical advantage of 4 and a velocity ratio of 5. Which conclusion is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Its efficiency is 125%, so it must be an ideal machine."
+      },
+      {
+        "key": "B",
+        "text": "Its efficiency is 80%, and the machine is not ideal."
+      },
+      {
+        "key": "C",
+        "text": "Its efficiency is 20%, and the effort moves one-fifth as far as the load."
+      },
+      {
+        "key": "D",
+        "text": "Its efficiency is 100%, because mechanical advantage is close to velocity ratio."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Lever efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_11_d79bfe",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "A body moving in a circle",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A body moves uniformly in a horizontal circle under a centripetal force directed towards the centre. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The centripetal force does positive work because it continually changes the body's motion."
+      },
+      {
+        "key": "B",
+        "text": "The centripetal force does negative work because it is opposite to the velocity."
+      },
+      {
+        "key": "C",
+        "text": "The centripetal force does zero work because it is perpendicular to the instantaneous displacement."
+      },
+      {
+        "key": "D",
+        "text": "The centripetal force does zero work only if the radius of the circle is zero."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Centripetal force and work",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_12_a698e0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Spring compression and stored energy",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "Two springs have force constants k and 4k, respectively. They are compressed by the same distance within their elastic limits. The ratio of the energy stored in the second spring to that stored in the first spring is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1:4"
+      },
+      {
+        "key": "B",
+        "text": "1:2"
+      },
+      {
+        "key": "C",
+        "text": "2:1"
+      },
+      {
+        "key": "D",
+        "text": "4:1"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Gravitational field strength",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_13_24a965",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Collision and conservation of energy",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A moving trolley collides with a stationary trolley, and they stick together. The system is isolated during the collision. Which statement is necessarily correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both momentum and kinetic energy are conserved."
+      },
+      {
+        "key": "B",
+        "text": "Momentum is conserved, but total kinetic energy decreases in this perfectly inelastic collision."
+      },
+      {
+        "key": "C",
+        "text": "Kinetic energy is conserved, but momentum decreases."
+      },
+      {
+        "key": "D",
+        "text": "Both momentum and kinetic energy decrease because the trolleys stick together."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Reference level for PE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_14_44a581",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Power at different speeds",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A vehicle's engine supplies a constant driving force parallel to its motion. If the speed doubles, while the driving force remains unchanged, the instantaneous mechanical power supplied by the engine:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "becomes half."
+      },
+      {
+        "key": "B",
+        "text": "remains unchanged."
+      },
+      {
+        "key": "C",
+        "text": "doubles."
+      },
+      {
+        "key": "D",
+        "text": "becomes four times as great."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Counterweight system",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_15_222113",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by friction and energy conservation",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A block slides down a rough incline from rest and reaches the bottom with some kinetic energy. Which statement best describes the energy changes?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "All its lost gravitational potential energy becomes kinetic energy."
+      },
+      {
+        "key": "B",
+        "text": "The decrease in gravitational potential energy is divided between the gain in kinetic energy and energy dissipated by friction."
+      },
+      {
+        "key": "C",
+        "text": "Friction destroys energy, so total energy is not conserved."
+      },
+      {
+        "key": "D",
+        "text": "Friction increases the block's mechanical energy because it acts along the incline."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Fuel efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_16_0e18af",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Two bodies dropped from different heights",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "Two identical stones are released from rest, one from height H and the other from height 2H. Air resistance is negligible. Immediately before striking the ground, how do their kinetic energies compare?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The second stone has twice the kinetic energy of the first."
+      },
+      {
+        "key": "B",
+        "text": "The second stone has four times the kinetic energy of the first."
+      },
+      {
+        "key": "C",
+        "text": "Both have equal kinetic energy because their masses are equal."
+      },
+      {
+        "key": "D",
+        "text": "The first stone has twice the kinetic energy of the second."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Net work and KE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_17_4cbb44",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "A body thrown upwards with air resistance",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A ball is thrown vertically upwards. Air resistance is significant and always opposes its motion. Which statement is correct during the ascent?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The loss of kinetic energy equals the gain in gravitational potential energy exactly."
+      },
+      {
+        "key": "B",
+        "text": "The loss of kinetic energy exceeds the gain in gravitational potential energy because some mechanical energy is dissipated."
+      },
+      {
+        "key": "C",
+        "text": "Gravitational potential energy decreases because air resistance acts downward."
+      },
+      {
+        "key": "D",
+        "text": "Total mechanical energy increases because both gravity and air resistance act on the ball."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Hydroelectric power",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_18_7130de",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Identifying the correct unit of power",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "Which of the following represents a unit equivalent to one watt?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "One joule per second."
+      },
+      {
+        "key": "B",
+        "text": "One newton per metre."
+      },
+      {
+        "key": "C",
+        "text": "One kilogram metre per second."
+      },
+      {
+        "key": "D",
+        "text": "One joule multiplied by one second."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Power at constant speed",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_19_14eb46",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work and displacement at an angle",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A force of 100,N acts on an object that moves 4,m in a direction making an angle of 60^° with the force. The work done by the force is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0,J"
+      },
+      {
+        "key": "B",
+        "text": "200,J"
+      },
+      {
+        "key": "C",
+        "text": "346,J"
+      },
+      {
+        "key": "D",
+        "text": "400,J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Work comparison",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_20_b88f54",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "The relation between kinetic energy and speed",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A body moving at speed v has kinetic energy K. Its speed is increased to 3v, while its mass remains unchanged. What is its new kinetic energy?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3K"
+      },
+      {
+        "key": "B",
+        "text": "6K"
+      },
+      {
+        "key": "C",
+        "text": "9K"
+      },
+      {
+        "key": "D",
+        "text": "27K"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Energy accounting",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_21_8db2c2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "A machine with changing load speed",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A crane lifts a load vertically. At one instant, the load moves upwards at constant speed; later, it accelerates upwards. Which statement about the upward force exerted by the crane is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It equals the load's weight in both cases."
+      },
+      {
+        "key": "B",
+        "text": "It is less than the load's weight in both cases."
+      },
+      {
+        "key": "C",
+        "text": "It equals the load's weight during constant-speed motion and exceeds it during upward acceleration."
+      },
+      {
+        "key": "D",
+        "text": "It is greater than the load's weight during constant-speed motion and equal to it during acceleration."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_22_4a33c3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Zero resultant work and changing velocity",
+    "question_type": "complex",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A body moves along a curved path under the action of a force always perpendicular to its instantaneous velocity. Which statement is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\">\n    <text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">Physics Mechanics: Zero resultant work and changing velocity</text>\n    <rect x=\"50\" y=\"50\" width=\"360\" height=\"90\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/>\n    <text x=\"230\" y=\"75\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1e40af\">Equilibrium &amp; Moments Principle</text>\n    <text x=\"230\" y=\"98\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#334155\">Sum of Anticlockwise Moments = Sum of Clockwise Moments</text>\n    <text x=\"230\" y=\"118\" text-anchor=\"middle\" font-size=\"10.5\" font-weight=\"700\" fill=\"#16a34a\">Σ τ = 0 | Resultant Force Σ F = 0</text>\n    <text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Verified ICSE Class 10 Physics Standard</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Its speed must increase because a force is acting."
+      },
+      {
+        "key": "B",
+        "text": "Its speed can remain constant even though its velocity changes."
+      },
+      {
+        "key": "C",
+        "text": "Its velocity must remain constant because the work done is zero."
+      },
+      {
+        "key": "D",
+        "text": "Its kinetic energy must decrease because the force does no work."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_23_5602ff",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Energy and an ideal pulley",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "An ideal fixed pulley is used to lift a load vertically through 2,m. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The effort moves 1,m, and the machine doubles the input work."
+      },
+      {
+        "key": "B",
+        "text": "The effort moves 2,m, and the input work equals the useful output work."
+      },
+      {
+        "key": "C",
+        "text": "The effort moves 4,m, and the machine halves the output work."
+      },
+      {
+        "key": "D",
+        "text": "The effort moves 2,m, but the machine requires no work because it is ideal."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_24_390891",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Gravitational potential energy and height",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A body of mass m is raised from height h to height 3h above the same reference level. The increase in gravitational potential energy is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "mgh"
+      },
+      {
+        "key": "B",
+        "text": "2mgh"
+      },
+      {
+        "key": "C",
+        "text": "3mgh"
+      },
+      {
+        "key": "D",
+        "text": "4mgh"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_25_9dd5e7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Distinguishing work from energy",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "Which statement is scientifically correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Work and energy have different SI units because one is a process and the other is a quantity."
+      },
+      {
+        "key": "B",
+        "text": "Work and energy have the same SI unit, the joule, but work describes energy transfer by a force through displacement."
+      },
+      {
+        "key": "C",
+        "text": "Work is measured in watts, while energy is measured in joules."
+      },
+      {
+        "key": "D",
+        "text": "Energy can be transferred only when a body moves at constant speed."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_26_ca9021",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Equal work but different forces",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "Two forces do equal positive work on two objects. Force P acts through a smaller displacement than force Q, and both forces are parallel to their respective displacements. Which statement must be true?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Force P has greater magnitude than force Q."
+      },
+      {
+        "key": "B",
+        "text": "Force P has smaller magnitude than force Q."
+      },
+      {
+        "key": "C",
+        "text": "Both forces must have equal magnitude."
+      },
+      {
+        "key": "D",
+        "text": "The magnitudes cannot be compared without knowing the masses of the objects."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_27_8335d6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Power and efficiency of a motor",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A motor takes in 1000,W of electrical power and operates at 75% efficiency. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Its useful output power is 250,W."
+      },
+      {
+        "key": "B",
+        "text": "Its useful output power is 750,W, and 250,W is transferred to non-useful forms."
+      },
+      {
+        "key": "C",
+        "text": "Its useful output power is 1{,}333,W."
+      },
+      {
+        "key": "D",
+        "text": "Its useful output power is 75,W."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_28_babcb7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Conservation of mechanical energy in a pendulum",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "At the lowest point of an ideal pendulum's swing, which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Its gravitational potential energy must be zero for every possible reference level."
+      },
+      {
+        "key": "B",
+        "text": "Its kinetic energy is maximum, and its gravitational potential energy is minimum relative to the chosen lowest-point reference."
+      },
+      {
+        "key": "C",
+        "text": "Both kinetic and potential energies are maximum."
+      },
+      {
+        "key": "D",
+        "text": "Its total mechanical energy is zero because the pendulum changes direction."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_29_89042d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by the resultant force",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A body initially at rest is acted upon by several forces. The total work done by the resultant force is +200,J. Which conclusion follows?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Its final kinetic energy is 200,J."
+      },
+      {
+        "key": "B",
+        "text": "Its final potential energy is 200,J."
+      },
+      {
+        "key": "C",
+        "text": "Its final kinetic energy is 200,J greater than its initial kinetic energy."
+      },
+      {
+        "key": "D",
+        "text": "Each individual force must have done positive work."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_30_b84bab",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "The most complete statement about energy conservation",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A falling body experiences air resistance. Which statement correctly applies the law of conservation of energy?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mechanical energy must remain constant because gravity is a conservative force."
+      },
+      {
+        "key": "B",
+        "text": "The body's mechanical energy decreases, but total energy is conserved when thermal energy and other transfers to the surroundings are included."
+      },
+      {
+        "key": "C",
+        "text": "Total energy decreases because air resistance destroys energy."
+      },
+      {
+        "key": "D",
+        "text": "The body's kinetic energy must increase by exactly the amount of potential energy it loses."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_31_f566b5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Energy transformation in a pendulum",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A simple pendulum swings between two extreme positions. At which position is the tension in the string generally greatest, assuming an ideal pendulum released from rest at an extreme position?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "At either extreme position, because potential energy is maximum."
+      },
+      {
+        "key": "B",
+        "text": "At the lowest position, because the speed is greatest and tension must provide the required centripetal force."
+      },
+      {
+        "key": "C",
+        "text": "At the midpoint of either half-swing, because kinetic and potential energies are equal."
+      },
+      {
+        "key": "D",
+        "text": "Tension is constant throughout because the string length is fixed."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Centripetal force and work",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_32_ac4ea4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Energy stored in a stretched spring",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "Two identical springs obey Hooke's law. Spring P is stretched by x, while spring Q is stretched by 2x, both within their elastic limits. How does the elastic potential energy stored in Q compare with that in P?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Twice as much."
+      },
+      {
+        "key": "B",
+        "text": "Three times as much."
+      },
+      {
+        "key": "C",
+        "text": "Four times as much."
+      },
+      {
+        "key": "D",
+        "text": "Eight times as much."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Gravitational field strength",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_33_16cb8e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by gravity on an upward-moving object",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A ball is thrown vertically upwards. During its ascent, which statement about the work done by gravity is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gravity does positive work because the ball gains height."
+      },
+      {
+        "key": "B",
+        "text": "Gravity does negative work because the gravitational force is opposite to the displacement."
+      },
+      {
+        "key": "C",
+        "text": "Gravity does zero work because the ball's speed decreases."
+      },
+      {
+        "key": "D",
+        "text": "Gravity does positive work until the ball reaches its highest point."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Reference level for PE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_34_330a34",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by a variable force",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A force acting along the direction of motion increases in magnitude as an object moves through a fixed distance. Which method correctly determines the work done by this force?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Multiply the final force by the total distance in every case."
+      },
+      {
+        "key": "B",
+        "text": "Multiply the average force by the distance only if the force is constant."
+      },
+      {
+        "key": "C",
+        "text": "Calculate the area under the force–displacement graph."
+      },
+      {
+        "key": "D",
+        "text": "Multiply the initial force by the final speed."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Counterweight system",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_35_360737",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Conservative and non-conservative forces",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "Which observation most directly distinguishes a conservative force from a non-conservative force?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A conservative force always acts vertically."
+      },
+      {
+        "key": "B",
+        "text": "The work done by a conservative force between two positions is independent of the path taken."
+      },
+      {
+        "key": "C",
+        "text": "A conservative force cannot change kinetic energy."
+      },
+      {
+        "key": "D",
+        "text": "A non-conservative force must always increase mechanical energy."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Fuel efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_36_903cd3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Energy conversion in a braking vehicle",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A moving vehicle is brought to rest by applying its brakes. Which statement most accurately describes the vehicle's initial kinetic energy?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It is destroyed because the vehicle stops."
+      },
+      {
+        "key": "B",
+        "text": "It is converted entirely into gravitational potential energy."
+      },
+      {
+        "key": "C",
+        "text": "It is transferred mainly into thermal energy in the braking system and surrounding materials."
+      },
+      {
+        "key": "D",
+        "text": "It remains stored as kinetic energy in the stationary vehicle."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Net work and KE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_37_f8a0ff",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Power delivered by a lifting machine",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "Two cranes lift identical loads through the same vertical height. Crane A takes less time than crane B. Assuming both loads start and finish at rest, which statement must be true?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Crane A does less work against gravity."
+      },
+      {
+        "key": "B",
+        "text": "Crane A delivers greater average useful power."
+      },
+      {
+        "key": "C",
+        "text": "Crane A necessarily has greater efficiency."
+      },
+      {
+        "key": "D",
+        "text": "Crane B transfers more gravitational potential energy to its load."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Hydroelectric power",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_38_e9845b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Mechanical advantage versus efficiency",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A machine has a velocity ratio greater than its mechanical advantage. What does this indicate?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The machine is more than 100% efficient."
+      },
+      {
+        "key": "B",
+        "text": "The machine is ideal and has no friction."
+      },
+      {
+        "key": "C",
+        "text": "The machine's efficiency is less than 100%."
+      },
+      {
+        "key": "D",
+        "text": "The effort must be greater than the load."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Power at constant speed",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_39_290654",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Energy conservation in a collision",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "Two bodies collide, and their total momentum remains conserved. Which statement about their total kinetic energy is necessarily correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It must also remain conserved in every collision."
+      },
+      {
+        "key": "B",
+        "text": "It must decrease in every collision."
+      },
+      {
+        "key": "C",
+        "text": "It may be conserved or may decrease, depending on the type of collision."
+      },
+      {
+        "key": "D",
+        "text": "It must increase whenever the bodies stick together."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Work comparison",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_40_a51fef",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Potential energy and choice of reference",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A body is located below the chosen zero level of gravitational potential energy. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Its gravitational potential energy is physically impossible."
+      },
+      {
+        "key": "B",
+        "text": "Its gravitational potential energy can be negative relative to the chosen reference."
+      },
+      {
+        "key": "C",
+        "text": "Its kinetic energy must also be negative."
+      },
+      {
+        "key": "D",
+        "text": "Its total mechanical energy must be zero."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Energy accounting",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_41_821326",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by the normal reaction",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A block slides horizontally over a stationary, rigid floor. The normal reaction acts vertically upward. Why does the normal reaction do no work on the block?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The normal reaction is always equal to the block's weight."
+      },
+      {
+        "key": "B",
+        "text": "The normal reaction is a conservative force."
+      },
+      {
+        "key": "C",
+        "text": "The normal reaction is perpendicular to the block's horizontal displacement."
+      },
+      {
+        "key": "D",
+        "text": "The normal reaction is smaller than the frictional force."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_42_d473a9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Energy of bodies at the same speed",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "Two bodies of different masses move with the same speed. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The heavier body has greater kinetic energy, proportional to its mass."
+      },
+      {
+        "key": "B",
+        "text": "The lighter body has greater kinetic energy because it accelerates more easily."
+      },
+      {
+        "key": "C",
+        "text": "Both bodies have equal kinetic energy because their speeds are equal."
+      },
+      {
+        "key": "D",
+        "text": "Their kinetic energies depend only on their momenta, not their masses."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_43_848d42",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "A machine operating at constant speed",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A machine raises a load vertically at a constant speed. Which statement correctly describes the net force on the load?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It acts upward because the load is moving upward."
+      },
+      {
+        "key": "B",
+        "text": "It acts downward because gravity acts downward."
+      },
+      {
+        "key": "C",
+        "text": "It is zero because the load's acceleration is zero."
+      },
+      {
+        "key": "D",
+        "text": "It increases continuously because the load gains potential energy."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_44_bcceb4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Power and a moving force",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A force of fixed magnitude acts on a body, but the angle between the force and the body's velocity changes. Which expression gives the instantaneous power delivered by the force?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P=Fvsintheta"
+      },
+      {
+        "key": "B",
+        "text": "P=Fvcostheta"
+      },
+      {
+        "key": "C",
+        "text": "P=F/v"
+      },
+      {
+        "key": "D",
+        "text": "P=Fv^2costheta"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_45_8b041e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Maximum kinetic energy in vertical motion",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A ball is thrown vertically upwards and returns to its launch level. Neglecting air resistance, at which stage is its kinetic energy equal to its initial kinetic energy?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Only at the highest point."
+      },
+      {
+        "key": "B",
+        "text": "Only halfway up."
+      },
+      {
+        "key": "C",
+        "text": "Just before it returns to the launch level."
+      },
+      {
+        "key": "D",
+        "text": "At every point along the trajectory."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_46_14adc8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Why efficiency is not the same as power",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "Two machines have equal efficiency but different input powers. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "They must deliver equal useful output power."
+      },
+      {
+        "key": "B",
+        "text": "The machine with greater input power delivers greater useful output power."
+      },
+      {
+        "key": "C",
+        "text": "The machine with lower input power must perform more useful work."
+      },
+      {
+        "key": "D",
+        "text": "Their useful output energies must be equal regardless of operating time."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_47_af6d27",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Elastic and inelastic collisions",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "In an ideal elastic collision, which combination of quantities is conserved for an isolated system?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Momentum only."
+      },
+      {
+        "key": "B",
+        "text": "Kinetic energy only."
+      },
+      {
+        "key": "C",
+        "text": "Momentum and total kinetic energy."
+      },
+      {
+        "key": "D",
+        "text": "Momentum and each body's individual kinetic energy."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_48_3271a1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by a force at right angles to motion",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A force of constant magnitude acts perpendicular to a body's instantaneous velocity at every point of its motion. Which conclusion is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The force increases the body's kinetic energy continuously."
+      },
+      {
+        "key": "B",
+        "text": "The force decreases the body's kinetic energy continuously."
+      },
+      {
+        "key": "C",
+        "text": "The force does no work and therefore does not change the body's kinetic energy through work."
+      },
+      {
+        "key": "D",
+        "text": "The force must be zero because it is perpendicular to motion."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_49_115d0e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Energy in a hydroelectric plant",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A hydroelectric plant converts the gravitational potential energy of water into electrical energy. Which statement best explains why its electrical output is lower than the theoretical energy available from the falling water?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gravitational potential energy cannot be converted into electrical energy."
+      },
+      {
+        "key": "B",
+        "text": "Water loses its mass while falling."
+      },
+      {
+        "key": "C",
+        "text": "Some energy is transferred to non-useful forms through friction, turbulence, sound and other losses."
+      },
+      {
+        "key": "D",
+        "text": "Electrical energy is always less than kinetic energy by definition."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
     "globalId": "qb_work_energy_power_50_370f35",
     "className": "Class 10",
     "boardName": "ICSE",
@@ -34,6 +2151,138 @@
     ],
     "correct_option": "C",
     "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_51_e78350",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by a force perpendicular to motion",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A satellite moves in a circular orbit around Earth under the influence of Earth's gravitational force. Why does gravity do no work on the satellite during its ideal circular motion?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gravity is too weak to change the satellite's energy."
+      },
+      {
+        "key": "B",
+        "text": "The gravitational force is perpendicular to the instantaneous displacement."
+      },
+      {
+        "key": "C",
+        "text": "The satellite's velocity is constant in both magnitude and direction."
+      },
+      {
+        "key": "D",
+        "text": "The satellite is outside Earth's gravitational field."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Perpendicular force and zero work",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_52_75866c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Zero work despite a non-zero force",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A person pushes a rigid wall with a large horizontal force, but the wall does not move. Which statement is correct regarding the work done by the person's force on the wall?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It is positive because the applied force is large."
+      },
+      {
+        "key": "B",
+        "text": "It is negative because the wall resists the force."
+      },
+      {
+        "key": "C",
+        "text": "It is zero because the point of application has no displacement."
+      },
+      {
+        "key": "D",
+        "text": "It is equal to the person's muscular energy expenditure."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Ideal movable pulley",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_53_4b6c02",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by friction",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A block slides across a rough horizontal surface and eventually stops. Which statement best describes the work done by friction on the block?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Friction does positive work because it removes motion."
+      },
+      {
+        "key": "B",
+        "text": "Friction does negative work because its force opposes the displacement."
+      },
+      {
+        "key": "C",
+        "text": "Friction does zero work because it does not change the block's mass."
+      },
+      {
+        "key": "D",
+        "text": "Friction does negative work only if the block is moving upward."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Average power",
     "concept_name": "Work, Energy and Power",
     "concept_tag": "work energy power",
     "difficulty": "hard",
@@ -168,6 +2417,50 @@
     "source_status": "verified"
   },
   {
+    "globalId": "qb_work_energy_power_57_4f9ee4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work–energy theorem",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A constant resultant force acts on a moving object. The work done by the resultant force is negative. What must be true?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The object must be moving in the negative direction."
+      },
+      {
+        "key": "B",
+        "text": "The object's kinetic energy decreases."
+      },
+      {
+        "key": "C",
+        "text": "The object's potential energy must increase."
+      },
+      {
+        "key": "D",
+        "text": "The object must come to rest immediately."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Screw-jack efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
     "globalId": "qb_work_energy_power_58_958a77",
     "className": "Class 10",
     "boardName": "ICSE",
@@ -244,6 +2537,94 @@
     ],
     "correct_option": "C",
     "explanation": "Friction and thermal energy",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_60_3551eb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Efficiency of a real machine",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "Why is the efficiency of an ordinary real machine generally less than 100%?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Energy disappears when a machine operates."
+      },
+      {
+        "key": "B",
+        "text": "The useful output energy is always greater than the input energy."
+      },
+      {
+        "key": "C",
+        "text": "Some input energy is transferred into non-useful forms, such as heat and sound."
+      },
+      {
+        "key": "D",
+        "text": "The machine's output work is independent of its input work."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Lever efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_61_b8a697",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done against friction on an inclined plane",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A 10,kg box is pulled from rest up a rough incline. It moves 5,m along the incline, gaining a vertical height of 2,m. The frictional force is 12,N. If the box ends at rest, the work done by the pulling force is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "200,J"
+      },
+      {
+        "key": "B",
+        "text": "240,J"
+      },
+      {
+        "key": "C",
+        "text": "260,J"
+      },
+      {
+        "key": "D",
+        "text": "320,J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
     "concept_name": "Work, Energy and Power",
     "concept_tag": "work energy power",
     "difficulty": "hard",
@@ -378,6 +2759,50 @@
     "source_status": "verified"
   },
   {
+    "globalId": "qb_work_energy_power_65_f4cbf7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Hydroelectric power output",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "Water flows through a hydroelectric plant at 50,kg/s from a vertical height of 40,m. If the plant's overall efficiency is 70%, its electrical output power is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "7,kW"
+      },
+      {
+        "key": "B",
+        "text": "10,kW"
+      },
+      {
+        "key": "C",
+        "text": "14,kW"
+      },
+      {
+        "key": "D",
+        "text": "20,kW"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
     "globalId": "qb_work_energy_power_66_a4a024",
     "className": "Class 10",
     "boardName": "ICSE",
@@ -408,6 +2833,269 @@
       {
         "key": "D",
         "text": "36,J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_67_b9c0e8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by multiple forces",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A 10,kg block moves horizontally through 8,m. A 50,N force acts at 60^° to the horizontal, while friction opposes the motion with a force of 15,N. The net work done on the block is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "80,J"
+      },
+      {
+        "key": "B",
+        "text": "200,J"
+      },
+      {
+        "key": "C",
+        "text": "280,J"
+      },
+      {
+        "key": "D",
+        "text": "400,J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_68_66aa0b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Efficiency and time taken by a motor",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A motor rated at 1.5,kW has an efficiency of 80%. How long will it take to raise a 120,kg load through 20,m?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10,s"
+      },
+      {
+        "key": "B",
+        "text": "15,s"
+      },
+      {
+        "key": "C",
+        "text": "20,s"
+      },
+      {
+        "key": "D",
+        "text": "25,s"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_69_da968a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Percentage increase in kinetic energy",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "The speed of a moving body increases by 50%, while its mass remains unchanged. The percentage increase in its kinetic energy is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50%"
+      },
+      {
+        "key": "B",
+        "text": "100%"
+      },
+      {
+        "key": "C",
+        "text": "125%"
+      },
+      {
+        "key": "D",
+        "text": "150%"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_70_db77ae",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Braking distance and speed",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "A car moving at 20,m/s stops after travelling 40,m under a constant braking force. Assuming the same braking force and road conditions, the stopping distance when the initial speed is 30,m/s is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "45,m"
+      },
+      {
+        "key": "B",
+        "text": "60,m"
+      },
+      {
+        "key": "C",
+        "text": "80,m"
+      },
+      {
+        "key": "D",
+        "text": "90,m"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_71_f31d4b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Mechanical advantage and efficiency",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A machine lifts a 600,N load through 2,m when an effort of 200,N moves through 8,m. The efficiency of the machine is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50%"
+      },
+      {
+        "key": "B",
+        "text": "60%"
+      },
+      {
+        "key": "C",
+        "text": "75%"
+      },
+      {
+        "key": "D",
+        "text": "80%"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_72_9c7b0b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Instantaneous power while lifting",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A crane raises a 200,kg load vertically at a constant speed of 1.5,m/s. The useful power delivered to the load is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.5,kW"
+      },
+      {
+        "key": "B",
+        "text": "2,kW"
+      },
+      {
+        "key": "C",
+        "text": "3,kW"
+      },
+      {
+        "key": "D",
+        "text": "4.5,kW"
       }
     ],
     "correct_option": "C",
@@ -453,6 +3141,262 @@
       }
     ],
     "correct_option": "B",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_74_da819c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done over a closed path",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A 5,kg object is lifted vertically by 6,m, carried horizontally, and then lowered back to its original height. What is the total work done by gravity over the complete journey?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "+300,J"
+      },
+      {
+        "key": "B",
+        "text": "-300,J"
+      },
+      {
+        "key": "C",
+        "text": "+600,J"
+      },
+      {
+        "key": "D",
+        "text": "0,J"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_75_94924a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Combined work, friction and final speed",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A 4,kg block initially at rest is pulled along a horizontal surface by a constant 30,N force through 10,m. A constant frictional force of 10,N opposes its motion. The final speed of the block is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "5sqrt5,m/s"
+      },
+      {
+        "key": "B",
+        "text": "5√(10),m/s"
+      },
+      {
+        "key": "C",
+        "text": "10sqrt5,m/s"
+      },
+      {
+        "key": "D",
+        "text": "10√(10),m/s"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_76_cfc703",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Variable kinetic energy and work",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical"
+    ],
+    "question": "A body of mass 4,kg moves at 3,m/s. A constant resultant force acts on it and does 182,J of work. What is its final speed?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "8,m/s"
+      },
+      {
+        "key": "B",
+        "text": "9,m/s"
+      },
+      {
+        "key": "C",
+        "text": "10,m/s"
+      },
+      {
+        "key": "D",
+        "text": "11,m/s"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_77_8431fd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Efficiency of a lifting machine",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical"
+    ],
+    "question": "A motor lifts a 60,kg load vertically through 8,m in 12,s. If the motor consumes 600,W of electrical power, its efficiency is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50%"
+      },
+      {
+        "key": "B",
+        "text": "60%"
+      },
+      {
+        "key": "C",
+        "text": "66.7%"
+      },
+      {
+        "key": "D",
+        "text": "75%"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_78_7ef4ac",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Energy lost due to friction",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical"
+    ],
+    "question": "A 5,kg block slides down from rest along a track, losing 120,J of gravitational potential energy. Friction does 35,J of negative work. What is its speed at the bottom?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "√(17),m/s"
+      },
+      {
+        "key": "B",
+        "text": "√(34),m/s"
+      },
+      {
+        "key": "C",
+        "text": "√(48),m/s"
+      },
+      {
+        "key": "D",
+        "text": "√(68),m/s"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_79_5d9018",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Spring energy transferred to a moving body",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A spring of force constant 800,N/m is compressed by 15,cm. It launches a 2,kg block on a smooth horizontal surface. The speed of the block when the spring returns to its natural length is:",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1.5,m/s"
+      },
+      {
+        "key": "B",
+        "text": "2,m/s"
+      },
+      {
+        "key": "C",
+        "text": "3,m/s"
+      },
+      {
+        "key": "D",
+        "text": "4.5,m/s"
+      }
+    ],
+    "correct_option": "C",
     "explanation": "Step-by-step ICSE class 10 standard resolution for Work, Energy and Power.",
     "concept_name": "Work, Energy and Power",
     "concept_tag": "work energy power",
@@ -580,6 +3524,49 @@
     ],
     "correct_option": "B",
     "explanation": "Gravitational field strength",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_83_ac7617",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by forces acting at different angles",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A body is displaced 12 m horizontally. A force of 100 N acts at 60^° to the direction of displacement, while another force of 30 N acts directly opposite to the displacement. Calculate the total work done by these two forces.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "120 J"
+      },
+      {
+        "key": "B",
+        "text": "240 J"
+      },
+      {
+        "key": "C",
+        "text": "360 J"
+      },
+      {
+        "key": "D",
+        "text": "600 J"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Reference level for PE",
     "concept_name": "Work, Energy and Power",
     "concept_tag": "work energy power",
     "difficulty": "hard",
@@ -832,6 +3819,49 @@
     ],
     "correct_option": "C",
     "explanation": "Work comparison",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_90_712b21",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Combined calculation: output power and input power",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A machine lifts a load weighing 600 N through a height of 4 m in 8 seconds. The machine operates at 60% efficiency. Calculate its useful output power and input power.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "300 W, 500 W"
+      },
+      {
+        "key": "B",
+        "text": "300 W, 400 W"
+      },
+      {
+        "key": "C",
+        "text": "600 W, 1,000 W"
+      },
+      {
+        "key": "D",
+        "text": "240 W, 400 W"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Energy accounting",
     "concept_name": "Work, Energy and Power",
     "concept_tag": "work energy power",
     "difficulty": "hard",
@@ -1206,6 +4236,1325 @@
       {
         "key": "D",
         "text": "25 m/s"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Friction and thermal energy",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_100_41cfa9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done against gravity and friction",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical",
+      "complex"
+    ],
+    "question": "A 5 kg block is moved 10 m up a rough incline, gaining a vertical height of 4 m. A force of 50 N acts parallel to the incline. The block starts and finishes at rest. Calculate the magnitude of the work done by friction.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "100 J"
+      },
+      {
+        "key": "B",
+        "text": "200 J"
+      },
+      {
+        "key": "C",
+        "text": "300 J"
+      },
+      {
+        "key": "D",
+        "text": "500 J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Lever efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_101_a918ec",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Inclined plane with friction and a changing speed",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A 4 kg block moves 5 m up a rough incline, gaining 3 m in height. A constant 60 N force acts parallel to the incline. Friction has magnitude 8 N. The initial speed is 2 m/s. What is the final speed of the block?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M25 125 L285 35 L285 125 Z\" fill=\"#94A3B8\" fill-opacity=\"0.12\" stroke=\"currentColor\" stroke-width=\"1.5\" /><rect x=\"115\" y=\"70\" width=\"30\" height=\"21\" rx=\"2\" fill=\"#F59E0B\" stroke=\"currentColor\" transform=\"rotate(-19 130 80)\" /><path d=\"M140 72 L180 58 M172 52 L180 58 L173 64\" stroke=\"#2563EB\" stroke-width=\"2.5\" fill=\"none\" /><path d=\"M130 82 L100 93 M108 86 L100 93 L109 96\" stroke=\"#DC2626\" stroke-width=\"2\" fill=\"none\" /><text x=\"182\" y=\"53\" font-size=\"10\" fill=\"#2563EB\">F = 60 N</text><text x=\"46\" y=\"96\" font-size=\"10\" fill=\"#DC2626\">Friction</text><text x=\"17\" y=\"15\" font-size=\"10\" fill=\"currentColor\">Mass = 4 kg; distance along plane = 5 m</text><text x=\"195\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Height = 3 m</text><text x=\"17\" y=\"143\" font-size=\"10\" fill=\"currentColor\">Initial speed = 2 m/s; final speed = v</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "√(86) m/s"
+      },
+      {
+        "key": "B",
+        "text": "2√(19) m/s"
+      },
+      {
+        "key": "C",
+        "text": "2√(21) m/s"
+      },
+      {
+        "key": "D",
+        "text": "10 m/s"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Perpendicular force and zero work",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_102_c2048e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Two-stage fall with energy loss",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A 3 kg body is dropped from a height of 20 m. During the first 10 m of its fall, 20% of the gravitational potential energy lost is dissipated by air resistance. During the next 10 m, a further 30 J is dissipated. What is the kinetic energy of the body just before it reaches the ground?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M30 125 H290\" stroke=\"currentColor\" stroke-width=\"1.5\" /><circle cx=\"100\" cy=\"20\" r=\"8\" fill=\"#F59E0B\" stroke=\"currentColor\" /><circle cx=\"100\" cy=\"70\" r=\"8\" fill=\"#2563EB\" stroke=\"currentColor\" /><path d=\"M125 20 V125 M125 70 V125\" stroke=\"currentColor\" stroke-dasharray=\"3 3\" /><path d=\"M100 32 V55 M94 47 L100 55 L106 47\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><text x=\"140\" y=\"24\" font-size=\"10\" fill=\"currentColor\">A: 20 m above ground</text><text x=\"140\" y=\"74\" font-size=\"10\" fill=\"currentColor\">B: 10 m above ground</text><text x=\"18\" y=\"143\" font-size=\"10\" fill=\"currentColor\">Mass = 3 kg; released from rest</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "390 J"
+      },
+      {
+        "key": "B",
+        "text": "450 J"
+      },
+      {
+        "key": "C",
+        "text": "510 J"
+      },
+      {
+        "key": "D",
+        "text": "570 J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Ideal movable pulley",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_103_064ce5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Motor lifting a load with acceleration",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A motor lifts a 20 kg load vertically with an upward acceleration of 2 m/s². At a particular instant, the load's upward speed is 4 m/s. What is the instantaneous mechanical power delivered by the lifting force at that instant?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"85\" y=\"10\" width=\"150\" height=\"18\" rx=\"3\" fill=\"#64748B\" stroke=\"currentColor\" /><circle cx=\"160\" cy=\"43\" r=\"15\" fill=\"#94A3B8\" stroke=\"currentColor\" /><path d=\"M145 43 V98 H175 V43\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><rect x=\"135\" y=\"98\" width=\"50\" height=\"29\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M210 102 V76 M204 82 L210 76 L216 82\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\" /><text x=\"15\" y=\"50\" font-size=\"10\" fill=\"currentColor\">Mass = 20 kg</text><text x=\"215\" y=\"93\" font-size=\"10\" fill=\"#16A34A\">Upward</text><text x=\"15\" y=\"141\" font-size=\"10\" fill=\"currentColor\">Acceleration = 2 m/s²; speed at instant = 4 m/s</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "800 W"
+      },
+      {
+        "key": "B",
+        "text": "880 W"
+      },
+      {
+        "key": "C",
+        "text": "960 W"
+      },
+      {
+        "key": "D",
+        "text": "1,200 W"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Average power",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_104_b67d7c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Compressed spring, friction and final velocity",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A 2 kg block is released from a spring compressed by 0.15 m. The spring constant is 800 N/m. After leaving the spring, the block travels 1 m over a rough surface where friction is 3 N. Assume all spring energy is transferred to the block before friction acts. What is the speed of the block after travelling the 1 m rough section?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 120\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15 91 H305\" stroke=\"currentColor\" stroke-width=\"1.5\" /><path d=\"M30 91 V36 H44 V91\" stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\" /><path d=\"M44 62 L53 52 L62 72 L71 52 L80 72 L89 52 L98 72 L107 62\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><rect x=\"107\" y=\"44\" width=\"42\" height=\"35\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M153 61 H216 M208 53 L216 61 L208 69\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\" /><text x=\"17\" y=\"17\" font-size=\"10\" fill=\"currentColor\">k = 800 N/m; compression = 0.15 m</text><text x=\"168\" y=\"49\" font-size=\"10\" fill=\"#16A34A\">Motion</text><text x=\"15\" y=\"111\" font-size=\"10\" fill=\"currentColor\">Block mass = 2 kg; friction = 3 N over 1 m</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "sqrt3 m/s"
+      },
+      {
+        "key": "B",
+        "text": "sqrt6 m/s"
+      },
+      {
+        "key": "C",
+        "text": "3 m/s"
+      },
+      {
+        "key": "D",
+        "text": "2sqrt3 m/s"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Conservation of momentum",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_105_cc116e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Pulley efficiency and energy loss",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A pulley system raises a 600 N load by 3 m when an effort moves through 6 m. The applied effort is 400 N. How much energy is dissipated in the operation?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M35 15 H285\" stroke=\"currentColor\" stroke-width=\"2\" /><circle cx=\"150\" cy=\"77\" r=\"24\" fill=\"#94A3B8\" stroke=\"currentColor\" stroke-width=\"1.5\" /><path d=\"M55 15 V77 A24 24 0 0 0 103 77 V15 M174 77 V15\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><path d=\"M150 101 V115\" stroke=\"currentColor\" stroke-width=\"2\" /><rect x=\"125\" y=\"115\" width=\"50\" height=\"25\" fill=\"#F59E0B\" stroke=\"currentColor\" /><text x=\"191\" y=\"45\" font-size=\"10\" fill=\"currentColor\">Effort</text><text x=\"188\" y=\"127\" font-size=\"10\" fill=\"currentColor\">600 N</text><text x=\"12\" y=\"159\" font-size=\"10\" fill=\"currentColor\">Load rises 3 m; effort moves 6 m</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "600 J"
+      },
+      {
+        "key": "B",
+        "text": "1,200 J"
+      },
+      {
+        "key": "C",
+        "text": "1,800 J"
+      },
+      {
+        "key": "D",
+        "text": "2,400 J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Pump efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_106_84ae45",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Average power from a non-uniform motion",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A machine performs 200 J of work in 4 s, 500 J in the next 5 s, and 300 J in the final 1 s. What is its average power over the complete operation?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 125\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M25 95 H295\" stroke=\"currentColor\" stroke-width=\"1.5\" /><rect x=\"40\" y=\"50\" width=\"55\" height=\"45\" fill=\"#60A5FA\" stroke=\"currentColor\" /><rect x=\"132\" y=\"30\" width=\"55\" height=\"65\" fill=\"#F59E0B\" stroke=\"currentColor\" /><rect x=\"224\" y=\"15\" width=\"55\" height=\"80\" fill=\"#16A34A\" fill-opacity=\"0.7\" stroke=\"currentColor\" /><text x=\"46\" y=\"68\" font-size=\"10\" fill=\"#111827\">Stage 1</text><text x=\"137\" y=\"48\" font-size=\"10\" fill=\"#111827\">Stage 2</text><text x=\"230\" y=\"33\" font-size=\"10\" fill=\"#111827\">Stage 3</text><text x=\"15\" y=\"112\" font-size=\"10\" fill=\"currentColor\">Work: 200 J, 500 J, 300 J</text><text x=\"15\" y=\"123\" font-size=\"9\" fill=\"currentColor\">Time: 4 s, 5 s, 1 s respectively</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "80 W"
+      },
+      {
+        "key": "B",
+        "text": "90 W"
+      },
+      {
+        "key": "C",
+        "text": "100 W"
+      },
+      {
+        "key": "D",
+        "text": "125 W"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Power–time graph",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_107_f92153",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Equal momentum and energy loss in a collision",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A 2 kg body moving at 6 m/s collides with a stationary 4 kg body. They stick together and move as one body. What fraction of the initial kinetic energy is lost in the collision?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 125\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"25\" y=\"43\" width=\"48\" height=\"34\" fill=\"#60A5FA\" stroke=\"currentColor\" /><rect x=\"235\" y=\"43\" width=\"48\" height=\"34\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M75 60 H140 M132 52 L140 60 L132 68\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><path d=\"M233 60 H168 M176 52 L168 60 L176 68\" stroke=\"#DC2626\" stroke-width=\"2\" fill=\"none\" /><text x=\"20\" y=\"22\" font-size=\"10\" fill=\"currentColor\">A: 2 kg at 6 m/s</text><text x=\"187\" y=\"22\" font-size=\"10\" fill=\"currentColor\">B: 4 kg at rest</text><text x=\"15\" y=\"102\" font-size=\"10\" fill=\"currentColor\">The bodies stick together after impact</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "frac13"
+      },
+      {
+        "key": "B",
+        "text": "frac12"
+      },
+      {
+        "key": "C",
+        "text": "frac23"
+      },
+      {
+        "key": "D",
+        "text": "frac34"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Screw-jack efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_108_c04b25",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by two forces at different angles",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A body moves 10 m horizontally to the right. A 50 N force acts at 60^° above the direction of motion, a 20 N force acts directly opposite to motion, and a third force of 15 N acts vertically. What is the total work done by all three forces?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"125\" y=\"70\" width=\"45\" height=\"35\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M148 70 L215 20 M205 21 L215 20 L213 30\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><path d=\"M125 88 H45 M53 80 L45 88 L53 96\" stroke=\"#DC2626\" stroke-width=\"2\" fill=\"none\" /><path d=\"M148 105 V130\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\" /><text x=\"217\" y=\"20\" font-size=\"10\" fill=\"#2563EB\">50 N at 60°</text><text x=\"10\" y=\"75\" font-size=\"10\" fill=\"#DC2626\">20 N opposite</text><text x=\"15\" y=\"16\" font-size=\"10\" fill=\"currentColor\">Displacement = 10 m horizontally right</text><text x=\"177\" y=\"123\" font-size=\"10\" fill=\"#16A34A\">Perpendicular force</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "50 J"
+      },
+      {
+        "key": "B",
+        "text": "150 J"
+      },
+      {
+        "key": "C",
+        "text": "250 J"
+      },
+      {
+        "key": "D",
+        "text": "350 J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Percentage change in KE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_109_ac6047",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Efficiency of a motor pumping water uphill",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A pump lifts 100 kg of water per minute through a height of 12 m. Its electrical input power is 400 W. What is the efficiency of the pump?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"20\" y=\"80\" width=\"70\" height=\"40\" fill=\"#60A5FA\" fill-opacity=\"0.3\" stroke=\"#2563EB\" /><path d=\"M90 100 H150 V40 H240\" stroke=\"#2563EB\" stroke-width=\"3\" fill=\"none\" /><rect x=\"240\" y=\"22\" width=\"60\" height=\"35\" fill=\"#94A3B8\" stroke=\"currentColor\" /><text x=\"20\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Source</text><text x=\"239\" y=\"16\" font-size=\"10\" fill=\"currentColor\">Tank</text><text x=\"15\" y=\"135\" font-size=\"10\" fill=\"currentColor\">Water: 100 kg/min; height = 12 m</text><text x=\"160\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Pump</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "40%"
+      },
+      {
+        "key": "B",
+        "text": "50%"
+      },
+      {
+        "key": "C",
+        "text": "60%"
+      },
+      {
+        "key": "D",
+        "text": "80%"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Friction and thermal energy",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_110_2de9e6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Braking distance on a downward slope",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A 1,000 kg car moves downhill at 20 m/s on a slope inclined at 30^°. The brakes exert a constant 8,000 N force uphill. Assume no other resistive force. How far does the car travel before stopping?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20 30 L295 120\" stroke=\"currentColor\" stroke-width=\"2.5\" fill=\"none\" /><rect x=\"125\" y=\"60\" width=\"45\" height=\"27\" fill=\"#F59E0B\" stroke=\"currentColor\" transform=\"rotate(18 147 73)\" /><path d=\"M170 75 L220 91 M211 84 L220 91 L210 96\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><path d=\"M125 62 L88 50 M96 45 L88 50 L95 56\" stroke=\"#DC2626\" stroke-width=\"2\" fill=\"none\" /><text x=\"12\" y=\"15\" font-size=\"10\" fill=\"currentColor\">Mass = 1,000 kg; slope angle = 30°</text><text x=\"191\" y=\"72\" font-size=\"10\" fill=\"#2563EB\">Motion downhill</text><text x=\"15\" y=\"141\" font-size=\"10\" fill=\"currentColor\">Initial speed = 20 m/s; braking force = 8,000 N uphill</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "20 m"
+      },
+      {
+        "key": "B",
+        "text": "25 m"
+      },
+      {
+        "key": "C",
+        "text": "40 m"
+      },
+      {
+        "key": "D",
+        "text": "50 m"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Lever efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_111_25469a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Two-stage energy conversion in a generator",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A system receives 10 kW of mechanical power. The first conversion stage has 80% efficiency, and the second stage has 90% efficiency. What is the final useful output power?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"43\" width=\"75\" height=\"42\" rx=\"4\" fill=\"#60A5FA\" stroke=\"currentColor\" /><rect x=\"125\" y=\"43\" width=\"75\" height=\"42\" rx=\"4\" fill=\"#94A3B8\" stroke=\"currentColor\" /><rect x=\"240\" y=\"43\" width=\"70\" height=\"42\" rx=\"4\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M85 64 H125 M117 56 L125 64 L117 72 M200 64 H240 M232 56 L240 64 L232 72\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><text x=\"17\" y=\"60\" font-size=\"10\" fill=\"#111827\">Turbine</text><text x=\"17\" y=\"74\" font-size=\"9\" fill=\"#111827\">10 kW</text><text x=\"135\" y=\"60\" font-size=\"10\" fill=\"#111827\">Generator</text><text x=\"136\" y=\"74\" font-size=\"9\" fill=\"#111827\">80%</text><text x=\"246\" y=\"60\" font-size=\"10\" fill=\"#111827\">Output</text><text x=\"246\" y=\"74\" font-size=\"9\" fill=\"#111827\">90%</text><text x=\"15\" y=\"20\" font-size=\"10\" fill=\"currentColor\">Mechanical input = 10 kW; two conversion stages</text><text x=\"15\" y=\"115\" font-size=\"10\" fill=\"currentColor\">First-stage efficiency = 80%; second-stage efficiency = 90%</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "5.6 kW"
+      },
+      {
+        "key": "B",
+        "text": "7.2 kW"
+      },
+      {
+        "key": "C",
+        "text": "8.0 kW"
+      },
+      {
+        "key": "D",
+        "text": "9.0 kW"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Centripetal force and work",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_112_181345",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "A falling body rebounds from the ground",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A 0.5 kg ball is dropped from 20 m and rebounds to a height of 12 m after hitting the ground. Ignore air resistance during both flights. How much mechanical energy is lost during the collision with the ground?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20 125 H300\" stroke=\"currentColor\" stroke-width=\"1.5\" /><circle cx=\"100\" cy=\"20\" r=\"8\" fill=\"#F59E0B\" stroke=\"currentColor\" /><circle cx=\"100\" cy=\"122\" r=\"8\" fill=\"#2563EB\" stroke=\"currentColor\" /><path d=\"M100 34 V98 M94 90 L100 98 L106 90\" stroke=\"#DC2626\" stroke-width=\"2\" fill=\"none\" /><path d=\"M119 111 V52 M113 60 L119 52 L125 60\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\" /><text x=\"135\" y=\"20\" font-size=\"10\" fill=\"currentColor\">Drop height = 20 m</text><text x=\"135\" y=\"75\" font-size=\"10\" fill=\"#16A34A\">Rebound height = 12 m</text><text x=\"15\" y=\"144\" font-size=\"10\" fill=\"currentColor\">Mass = 0.5 kg; ignore air resistance</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "20 J"
+      },
+      {
+        "key": "B",
+        "text": "30 J"
+      },
+      {
+        "key": "C",
+        "text": "40 J"
+      },
+      {
+        "key": "D",
+        "text": "100 J"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Gravitational field strength",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_113_8270b1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "A force acting over successive distances",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A 5 kg object starts at 4 m/s. A net force of 10 N acts along its motion over 2 m, followed by a net force of 5 N along its motion over another 4 m. What is the final speed?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 130\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M30 105 H295\" stroke=\"currentColor\" stroke-width=\"1.5\" /><rect x=\"40\" y=\"60\" width=\"40\" height=\"35\" fill=\"#60A5FA\" stroke=\"currentColor\" /><path d=\"M82 77 H132 M124 69 L132 77 L124 85\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><rect x=\"135\" y=\"60\" width=\"40\" height=\"35\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M177 77 H227 M219 69 L227 77 L219 85\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\" /><rect x=\"230\" y=\"60\" width=\"40\" height=\"35\" fill=\"#94A3B8\" stroke=\"currentColor\" /><text x=\"15\" y=\"17\" font-size=\"10\" fill=\"currentColor\">Mass = 5 kg; initial speed = 4 m/s</text><text x=\"15\" y=\"120\" font-size=\"9\" fill=\"currentColor\">Net forces: 10 N over 2 m, then 5 N over 4 m</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "4sqrt3 m/s"
+      },
+      {
+        "key": "B",
+        "text": "2√(17) m/s"
+      },
+      {
+        "key": "C",
+        "text": "2√(21) m/s"
+      },
+      {
+        "key": "D",
+        "text": "10 m/s"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Reference level for PE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_114_f7b24b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Elevator motor: power at the instant of changing speed",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "An elevator of total mass 500 kg accelerates upward at 1 m/s². At a particular instant, its upward speed is 3 m/s. What is the instantaneous mechanical power supplied by the lifting cable?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"90\" y=\"10\" width=\"140\" height=\"18\" rx=\"3\" fill=\"#64748B\" stroke=\"currentColor\" /><circle cx=\"160\" cy=\"43\" r=\"14\" fill=\"#94A3B8\" stroke=\"currentColor\" /><path d=\"M146 43 V92 H174 V43\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><rect x=\"137\" y=\"92\" width=\"46\" height=\"31\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M207 100 V73 M201 79 L207 73 L213 79\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\" /><text x=\"15\" y=\"45\" font-size=\"10\" fill=\"currentColor\">Mass = 500 kg</text><text x=\"15\" y=\"60\" font-size=\"10\" fill=\"currentColor\">Acceleration = 1 m/s²</text><text x=\"213\" y=\"92\" font-size=\"10\" fill=\"#16A34A\">Upward</text><text x=\"15\" y=\"137\" font-size=\"10\" fill=\"currentColor\">Instantaneous speed = 3 m/s</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "15 kW"
+      },
+      {
+        "key": "B",
+        "text": "16.5 kW"
+      },
+      {
+        "key": "C",
+        "text": "18 kW"
+      },
+      {
+        "key": "D",
+        "text": "20 kW"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Counterweight system",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_115_dad134",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Two-stage lifting with a change in efficiency",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A machine receives 5,000 J of energy. Its first stage is 80% efficient, and the second stage converts 50% of the energy received from the first stage into useful output. What is the total useful output energy?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"20\" y=\"20\" width=\"110\" height=\"35\" rx=\"4\" fill=\"#60A5FA\" stroke=\"currentColor\" /><rect x=\"190\" y=\"20\" width=\"110\" height=\"35\" rx=\"4\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M130 37 H190 M182 29 L190 37 L182 45\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><text x=\"30\" y=\"34\" font-size=\"10\" fill=\"#111827\">Stage 1</text><text x=\"30\" y=\"47\" font-size=\"9\" fill=\"#111827\">Efficiency 80%</text><text x=\"200\" y=\"34\" font-size=\"10\" fill=\"#111827\">Stage 2</text><text x=\"200\" y=\"47\" font-size=\"9\" fill=\"#111827\">Efficiency 50%</text><text x=\"15\" y=\"86\" font-size=\"10\" fill=\"currentColor\">Input energy = 5,000 J</text><text x=\"15\" y=\"103\" font-size=\"10\" fill=\"currentColor\">Useful energy after both stages?</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "1,000 J"
+      },
+      {
+        "key": "B",
+        "text": "2,000 J"
+      },
+      {
+        "key": "C",
+        "text": "2,500 J"
+      },
+      {
+        "key": "D",
+        "text": "4,000 J"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Fuel efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_116_8848e2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "A block projected up a rough incline",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A 2 kg block is projected up a rough incline at 10 m/s. The component of gravitational acceleration down the incline is 6 m/s², and friction has a magnitude of 4 N. How far up the incline does the block travel before momentarily coming to rest?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M25 125 L290 30 L290 125 Z\" fill=\"#94A3B8\" fill-opacity=\"0.12\" stroke=\"currentColor\" stroke-width=\"1.5\" /><rect x=\"115\" y=\"76\" width=\"30\" height=\"21\" fill=\"#F59E0B\" stroke=\"currentColor\" transform=\"rotate(-19.7 130 86)\" /><path d=\"M141 76 L185 60 M177 54 L185 60 L178 66\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><text x=\"186\" y=\"54\" font-size=\"10\" fill=\"#2563EB\">Initial motion</text><text x=\"15\" y=\"15\" font-size=\"10\" fill=\"currentColor\">Mass = 2 kg; initial speed = 10 m/s</text><text x=\"180\" y=\"106\" font-size=\"10\" fill=\"currentColor\">Incline: sin θ = 0.6</text><text x=\"15\" y=\"143\" font-size=\"10\" fill=\"currentColor\">Friction force = 4 N</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "4 m"
+      },
+      {
+        "key": "B",
+        "text": "5 m"
+      },
+      {
+        "key": "C",
+        "text": "6.25 m"
+      },
+      {
+        "key": "D",
+        "text": "8 m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Net work and KE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_117_c9d6ef",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Power required to accelerate a vehicle",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A 1,000 kg vehicle accelerates at 2 m/s² on a level road while experiencing a resistive force of 500 N. Its speed at a particular instant is 10 m/s. What is the engine's instantaneous mechanical output power?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 130\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15 100 H305\" stroke=\"currentColor\" stroke-width=\"1.5\" /><path d=\"M45 75 L60 49 H120 L145 75 Z\" fill=\"#60A5FA\" stroke=\"currentColor\" stroke-width=\"1.5\" /><circle cx=\"65\" cy=\"81\" r=\"11\" fill=\"#64748B\" stroke=\"currentColor\" /><circle cx=\"125\" cy=\"81\" r=\"11\" fill=\"#64748B\" stroke=\"currentColor\" /><path d=\"M150 68 H230 M222 60 L230 68 L222 76\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\" /><text x=\"15\" y=\"18\" font-size=\"10\" fill=\"currentColor\">Mass = 1,000 kg; acceleration = 2 m/s²</text><text x=\"15\" y=\"120\" font-size=\"10\" fill=\"currentColor\">Resistive force = 500 N; speed = 10 m/s</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "15 kW"
+      },
+      {
+        "key": "B",
+        "text": "20 kW"
+      },
+      {
+        "key": "C",
+        "text": "25 kW"
+      },
+      {
+        "key": "D",
+        "text": "30 kW"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Hydroelectric power",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_118_39926f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Compound machine: pulley followed by a lever",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A compound machine uses a pulley and a lever to lift a load. The total input work supplied to the complete machine is 1,000 J, and its overall efficiency is 60%. If the load gains 240 J of gravitational potential energy in 4 s, what is the energy dissipated and the average useful output power?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 165\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"20\" y=\"12\" width=\"100\" height=\"18\" rx=\"3\" fill=\"#64748B\" stroke=\"currentColor\" /><circle cx=\"70\" cy=\"52\" r=\"18\" fill=\"#94A3B8\" stroke=\"currentColor\" /><path d=\"M52 52 V86 M88 52 V86\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><rect x=\"46\" y=\"86\" width=\"48\" height=\"24\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M115 100 H295\" stroke=\"#16A34A\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M210 100 L195 128 H225 Z\" fill=\"#94A3B8\" stroke=\"currentColor\" /><text x=\"125\" y=\"88\" font-size=\"10\" fill=\"currentColor\">Lever</text><text x=\"15\" y=\"144\" font-size=\"10\" fill=\"currentColor\">Combined input work = 1,000 J</text><text x=\"15\" y=\"158\" font-size=\"10\" fill=\"currentColor\">Overall efficiency = 60%</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "400 J, 60 W"
+      },
+      {
+        "key": "B",
+        "text": "600 J, 60 W"
+      },
+      {
+        "key": "C",
+        "text": "400 J, 240 W"
+      },
+      {
+        "key": "D",
+        "text": "760 J, 60 W"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Power at constant speed",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_119_09c489",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Spring energy transferred to a moving block",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A spring of constant 500 N/m is compressed by 0.20 m and releases a 4 kg block. During the block's subsequent motion, 2 J of energy is dissipated by friction. Assume no other energy losses. What is the block's speed after the energy loss?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20 100 H300\" stroke=\"currentColor\" stroke-width=\"1.5\" /><path d=\"M28 100 V42 H40 V100\" stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\" /><path d=\"M40 70 L50 60 L60 80 L70 60 L80 80 L90 60 L100 80 L110 70\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><rect x=\"110\" y=\"50\" width=\"42\" height=\"38\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M155 69 H225 M217 61 L225 69 L217 77\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\" /><text x=\"15\" y=\"18\" font-size=\"10\" fill=\"currentColor\">Spring constant = 500 N/m</text><text x=\"15\" y=\"33\" font-size=\"10\" fill=\"currentColor\">Compression = 0.20 m</text><text x=\"160\" y=\"120\" font-size=\"10\" fill=\"currentColor\">Mass = 4 kg</text><text x=\"15\" y=\"136\" font-size=\"10\" fill=\"currentColor\">Energy loss to friction = 2 J</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 m/s"
+      },
+      {
+        "key": "B",
+        "text": "2 m/s"
+      },
+      {
+        "key": "C",
+        "text": "3 m/s"
+      },
+      {
+        "key": "D",
+        "text": "4 m/s"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Work comparison",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_120_18a272",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Multi-stage lifting, stopping and lowering",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "A 5 kg load is lifted from ground level to a height of 8 m, brought to rest, and then lowered slowly to a height of 3 m. Ignore friction and assume the motor regenerates no energy during lowering. What is the net change in the load's gravitational potential energy over the complete process?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 160\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20 135 H300\" stroke=\"currentColor\" stroke-width=\"1.5\" /><rect x=\"35\" y=\"82\" width=\"45\" height=\"40\" fill=\"#60A5FA\" stroke=\"currentColor\" /><path d=\"M80 102 H128 M120 94 L128 102 L120 110\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\" /><rect x=\"132\" y=\"42\" width=\"45\" height=\"40\" fill=\"#F59E0B\" stroke=\"currentColor\" /><path d=\"M178 62 H226 M218 54 L226 62 L218 70\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\" /><rect x=\"230\" y=\"82\" width=\"45\" height=\"40\" fill=\"#DC2626\" stroke=\"currentColor\" /><text x=\"15\" y=\"15\" font-size=\"10\" fill=\"currentColor\">Mass = 5 kg; initial height = 0 m</text><text x=\"135\" y=\"33\" font-size=\"10\" fill=\"currentColor\">Rises to 8 m</text><text x=\"190\" y=\"148\" font-size=\"10\" fill=\"currentColor\">Then lowered to 3 m</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "+150 J"
+      },
+      {
+        "key": "B",
+        "text": "+250 J"
+      },
+      {
+        "key": "C",
+        "text": "+400 J"
+      },
+      {
+        "key": "D",
+        "text": "-250 J"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Energy accounting",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_121_b4a2b8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Inclined plane with friction and a changing speed",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "What is the final speed of the block?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M25 125 L285 35 L285 125 Z\" fill=\"#94A3B8\" fill-opacity=\"0.12\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <rect x=\"115\" y=\"70\" width=\"30\" height=\"21\" rx=\"2\" fill=\"#F59E0B\" stroke=\"currentColor\" transform=\"rotate(-19 130 80)\"/>\n    <path d=\"M140 72 L180 58 M172 52 L180 58 L173 64\" stroke=\"#2563EB\" stroke-width=\"2.5\" fill=\"none\"/>\n    <path d=\"M130 82 L100 93 M108 86 L100 93 L109 96\" stroke=\"#DC2626\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"182\" y=\"53\" font-size=\"10\" fill=\"#2563EB\">F = 60 N</text><text x=\"46\" y=\"96\" font-size=\"10\" fill=\"#DC2626\">Friction</text>\n    <text x=\"17\" y=\"15\" font-size=\"10\" fill=\"currentColor\">Mass = 4 kg; distance along plane = 5 m</text>\n    <text x=\"195\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Height = 3 m</text>\n    <text x=\"17\" y=\"143\" font-size=\"10\" fill=\"currentColor\">Initial speed = 2 m/s; final speed = v</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "√(86) m/s"
+      },
+      {
+        "key": "B",
+        "text": "2√(19) m/s"
+      },
+      {
+        "key": "C",
+        "text": "2√(21) m/s"
+      },
+      {
+        "key": "D",
+        "text": "10 m/s"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Perpendicular force and zero work",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_122_b02679",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Two-stage fall with energy loss",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "What is the kinetic energy of the body just before it reaches the ground?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M30 125 H290\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <circle cx=\"100\" cy=\"20\" r=\"8\" fill=\"#F59E0B\" stroke=\"currentColor\"/>\n    <circle cx=\"100\" cy=\"70\" r=\"8\" fill=\"#2563EB\" stroke=\"currentColor\"/>\n    <path d=\"M125 20 V125 M125 70 V125\" stroke=\"currentColor\" stroke-dasharray=\"3 3\"/>\n    <path d=\"M100 32 V55 M94 47 L100 55 L106 47\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"140\" y=\"24\" font-size=\"10\" fill=\"currentColor\">A: 20 m above ground</text>\n    <text x=\"140\" y=\"74\" font-size=\"10\" fill=\"currentColor\">B: 10 m above ground</text>\n    <text x=\"18\" y=\"143\" font-size=\"10\" fill=\"currentColor\">Mass = 3 kg; released from rest</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "390 J"
+      },
+      {
+        "key": "B",
+        "text": "450 J"
+      },
+      {
+        "key": "C",
+        "text": "510 J"
+      },
+      {
+        "key": "D",
+        "text": "570 J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Ideal movable pulley",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_123_b5fab0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Motor lifting a load with acceleration",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "What is the instantaneous mechanical power delivered by the lifting force at that instant?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"85\" y=\"10\" width=\"150\" height=\"18\" rx=\"3\" fill=\"#64748B\" stroke=\"currentColor\"/>\n    <circle cx=\"160\" cy=\"43\" r=\"15\" fill=\"#94A3B8\" stroke=\"currentColor\"/>\n    <path d=\"M145 43 V98 H175 V43\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/>\n    <rect x=\"135\" y=\"98\" width=\"50\" height=\"29\" fill=\"#F59E0B\" stroke=\"currentColor\"/>\n    <path d=\"M210 102 V76 M204 82 L210 76 L216 82\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"15\" y=\"50\" font-size=\"10\" fill=\"currentColor\">Mass = 20 kg</text>\n    <text x=\"215\" y=\"93\" font-size=\"10\" fill=\"#16A34A\">Upward</text>\n    <text x=\"15\" y=\"141\" font-size=\"10\" fill=\"currentColor\">Acceleration = 2 m/s²; speed at instant = 4 m/s</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "800 W"
+      },
+      {
+        "key": "B",
+        "text": "880 W"
+      },
+      {
+        "key": "C",
+        "text": "960 W"
+      },
+      {
+        "key": "D",
+        "text": "1,200 W"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Average power",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_124_19191f",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Compressed spring, friction and final velocity",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "What is the speed of the block after travelling the 1 m rough section?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 120\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M15 91 H305\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <path d=\"M30 91 V36 H44 V91\" stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\"/>\n    <path d=\"M44 62 L53 52 L62 72 L71 52 L80 72 L89 52 L98 72 L107 62\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/>\n    <rect x=\"107\" y=\"44\" width=\"42\" height=\"35\" fill=\"#F59E0B\" stroke=\"currentColor\"/>\n    <path d=\"M153 61 H216 M208 53 L216 61 L208 69\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"17\" y=\"17\" font-size=\"10\" fill=\"currentColor\">k = 800 N/m; compression = 0.15 m</text>\n    <text x=\"168\" y=\"49\" font-size=\"10\" fill=\"#16A34A\">Motion</text>\n    <text x=\"15\" y=\"111\" font-size=\"10\" fill=\"currentColor\">Block mass = 2 kg; friction = 3 N over 1 m</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "sqrt3 m/s"
+      },
+      {
+        "key": "B",
+        "text": "sqrt6 m/s"
+      },
+      {
+        "key": "C",
+        "text": "3 m/s"
+      },
+      {
+        "key": "D",
+        "text": "2sqrt3 m/s"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Conservation of momentum",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_125_55d0dc",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Pulley efficiency and energy loss",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "How much energy is dissipated in the operation?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M35 15 H285\" stroke=\"currentColor\" stroke-width=\"2\"/>\n    <circle cx=\"150\" cy=\"77\" r=\"24\" fill=\"#94A3B8\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <path d=\"M55 15 V77 A24 24 0 0 0 103 77 V15 M174 77 V15\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/>\n    <path d=\"M150 101 V115\" stroke=\"currentColor\" stroke-width=\"2\"/>\n    <rect x=\"125\" y=\"115\" width=\"50\" height=\"25\" fill=\"#F59E0B\" stroke=\"currentColor\"/>\n    <text x=\"191\" y=\"45\" font-size=\"10\" fill=\"currentColor\">Effort</text>\n    <text x=\"188\" y=\"127\" font-size=\"10\" fill=\"currentColor\">600 N</text>\n    <text x=\"12\" y=\"159\" font-size=\"10\" fill=\"currentColor\">Load rises 3 m; effort moves 6 m</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "600 J"
+      },
+      {
+        "key": "B",
+        "text": "1,200 J"
+      },
+      {
+        "key": "C",
+        "text": "1,800 J"
+      },
+      {
+        "key": "D",
+        "text": "2,400 J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Pump efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_126_6ba81b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Average power from a non-uniform motion",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "What is its average power over the complete operation?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 125\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M25 95 H295\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    <rect x=\"40\" y=\"50\" width=\"55\" height=\"45\" fill=\"#60A5FA\" stroke=\"currentColor\"/>\n    <rect x=\"132\" y=\"30\" width=\"55\" height=\"65\" fill=\"#F59E0B\" stroke=\"currentColor\"/>\n    <rect x=\"224\" y=\"15\" width=\"55\" height=\"80\" fill=\"#16A34A\" fill-opacity=\"0.7\" stroke=\"currentColor\"/>\n    <text x=\"46\" y=\"68\" font-size=\"10\" fill=\"#111827\">Stage 1</text><text x=\"137\" y=\"48\" font-size=\"10\" fill=\"#111827\">Stage 2</text><text x=\"230\" y=\"33\" font-size=\"10\" fill=\"#111827\">Stage 3</text>\n    <text x=\"15\" y=\"112\" font-size=\"10\" fill=\"currentColor\">Work: 200 J, 500 J, 300 J</text>\n    <text x=\"15\" y=\"123\" font-size=\"9\" fill=\"currentColor\">Time: 4 s, 5 s, 1 s respectively</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "80 W"
+      },
+      {
+        "key": "B",
+        "text": "90 W"
+      },
+      {
+        "key": "C",
+        "text": "100 W"
+      },
+      {
+        "key": "D",
+        "text": "125 W"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Power–time graph",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_127_badf9d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Equal momentum and energy loss in a collision",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "What fraction of the initial kinetic energy is lost in the collision?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 125\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"25\" y=\"43\" width=\"48\" height=\"34\" fill=\"#60A5FA\" stroke=\"currentColor\"/>\n    <rect x=\"235\" y=\"43\" width=\"48\" height=\"34\" fill=\"#F59E0B\" stroke=\"currentColor\"/>\n    <path d=\"M75 60 H140 M132 52 L140 60 L132 68\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/>\n    <path d=\"M233 60 H168 M176 52 L168 60 L176 68\" stroke=\"#DC2626\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"20\" y=\"22\" font-size=\"10\" fill=\"currentColor\">A: 2 kg at 6 m/s</text><text x=\"187\" y=\"22\" font-size=\"10\" fill=\"currentColor\">B: 4 kg at rest</text>\n    <text x=\"15\" y=\"102\" font-size=\"10\" fill=\"currentColor\">The bodies stick together after impact</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "frac13"
+      },
+      {
+        "key": "B",
+        "text": "frac12"
+      },
+      {
+        "key": "C",
+        "text": "frac23"
+      },
+      {
+        "key": "D",
+        "text": "frac34"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Screw-jack efficiency",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_128_462e4e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Work done by two forces at different angles",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "What is the total work done by all three forces?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"125\" y=\"70\" width=\"45\" height=\"35\" fill=\"#F59E0B\" stroke=\"currentColor\"/>\n    <path d=\"M148 70 L215 20 M205 21 L215 20 L213 30\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/>\n    <path d=\"M125 88 H45 M53 80 L45 88 L53 96\" stroke=\"#DC2626\" stroke-width=\"2\" fill=\"none\"/>\n    <path d=\"M148 105 V130\" stroke=\"#16A34A\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"217\" y=\"20\" font-size=\"10\" fill=\"#2563EB\">50 N at 60°</text>\n    <text x=\"10\" y=\"75\" font-size=\"10\" fill=\"#DC2626\">20 N opposite</text>\n    <text x=\"15\" y=\"16\" font-size=\"10\" fill=\"currentColor\">Displacement = 10 m horizontally right</text>\n    <text x=\"177\" y=\"123\" font-size=\"10\" fill=\"#16A34A\">Perpendicular force</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "50 J"
+      },
+      {
+        "key": "B",
+        "text": "150 J"
+      },
+      {
+        "key": "C",
+        "text": "250 J"
+      },
+      {
+        "key": "D",
+        "text": "350 J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Percentage change in KE",
+    "concept_name": "Work, Energy and Power",
+    "concept_tag": "work energy power",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_work_energy_power_129_dfd5ec",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Work, Energy and Power",
+    "title": "Efficiency of a motor pumping water uphill",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "complex"
+    ],
+    "question": "What is the efficiency of the pump?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 320 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n    <rect x=\"20\" y=\"80\" width=\"70\" height=\"40\" fill=\"#60A5FA\" fill-opacity=\"0.3\" stroke=\"#2563EB\"/>\n    <path d=\"M90 100 H150 V40 H240\" stroke=\"#2563EB\" stroke-width=\"3\" fill=\"none\"/>\n    <rect x=\"240\" y=\"22\" width=\"60\" height=\"35\" fill=\"#94A3B8\" stroke=\"currentColor\"/>\n    <text x=\"20\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Source</text><text x=\"239\" y=\"16\" font-size=\"10\" fill=\"currentColor\">Tank</text>\n    <text x=\"15\" y=\"135\" font-size=\"10\" fill=\"currentColor\">Water: 100 kg/min; height = 12 m</text>\n    <text x=\"160\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Pump</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "40%"
+      },
+      {
+        "key": "B",
+        "text": "50%"
+      },
+      {
+        "key": "C",
+        "text": "60%"
+      },
+      {
+        "key": "D",
+        "text": "80%"
       }
     ],
     "correct_option": "C",

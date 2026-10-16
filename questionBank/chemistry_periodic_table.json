@@ -3958,5 +3958,2452 @@
     "source_status": "verified",
     "normalized_question_hash": "c52cc0bb8c7e6136cede04d9bfc96e899de37d3da0dce4c4a67e913c2abd3a0d",
     "question_skeleton": "an element x has atomic number 20 consider these statements 1 it belongs to period 4 2 it belongs to group 2 3 it has four occupied shells 4 it commonly forms x 2 which answer is correct"
+  },
+  {
+    "globalId": "Q-VAULT-qpp926n",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Position of an element in the modern periodic table",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "Aluminium has atomic number 13 and electronic configuration 2, 8, 3. Which conclusion correctly combines its shell structure and its position in the modern periodic table?",
+    "diagramSvg": "<svg viewBox=\"0 0 480 220\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #e2e8f0; font-family:system-ui, sans-serif;\">\n    <text x=\"240\" y=\"24\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#0f172a\">Schematic Periodic Table: Aluminium Position</text>\n    <!-- Groups 1-2 (s-block) -->\n    <rect x=\"25\" y=\"45\" width=\"55\" height=\"120\" rx=\"4\" fill=\"#dbeafe\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n    <text x=\"52\" y=\"70\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1e40af\">s-block</text>\n    <text x=\"52\" y=\"90\" text-anchor=\"middle\" font-size=\"10\" fill=\"#3b82f6\">Gr. 1, 2</text>\n    <rect x=\"30\" y=\"105\" width=\"45\" height=\"24\" rx=\"3\" fill=\"#bfdbfe\" stroke=\"#2563eb\"/>\n    <text x=\"52\" y=\"121\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#1e3a8a\">Na, Mg</text>\n    <!-- Groups 3-12 (d-block) -->\n    <rect x=\"90\" y=\"85\" width=\"180\" height=\"80\" rx=\"4\" fill=\"#fef3c7\" stroke=\"#f59e0b\" stroke-width=\"1.5\"/>\n    <text x=\"180\" y=\"115\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#92400e\">d-block (Transition Metals)</text>\n    <text x=\"180\" y=\"135\" text-anchor=\"middle\" font-size=\"10\" fill=\"#b45309\">Groups 3 to 12 (Periods 4 - 7)</text>\n    <!-- Groups 13-18 (p-block) -->\n    <rect x=\"280\" y=\"45\" width=\"175\" height=\"120\" rx=\"4\" fill=\"#d1fae5\" stroke=\"#10b981\" stroke-width=\"1.5\"/>\n    <text x=\"367\" y=\"70\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#065f46\">p-block (Groups 13 to 18)</text>\n    <!-- Period 3 row guide -->\n    <line x1=\"20\" y1=\"117\" x2=\"460\" y2=\"117\" stroke=\"#dc2626\" stroke-width=\"1.5\" stroke-dasharray=\"4,3\"/>\n    <text x=\"12\" y=\"121\" text-anchor=\"end\" font-size=\"10\" font-weight=\"700\" fill=\"#dc2626\">Period 3</text>\n    <!-- Aluminium Box Highlighted -->\n    <rect x=\"288\" y=\"105\" width=\"42\" height=\"36\" rx=\"4\" fill=\"#fef08a\" stroke=\"#ca8a04\" stroke-width=\"2.5\"/>\n    <text x=\"309\" y=\"121\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#854d0e\">Al</text>\n    <text x=\"309\" y=\"134\" text-anchor=\"middle\" font-size=\"9\" font-weight=\"600\" fill=\"#a16207\">Z=13</text>\n    <!-- Labels -->\n    <path d=\"M 309 143 L 309 180 L 260 180\" fill=\"none\" stroke=\"#ca8a04\" stroke-width=\"1.5\"/>\n    <rect x=\"90\" y=\"172\" width=\"165\" height=\"38\" rx=\"4\" fill=\"#ffffff\" stroke=\"#ca8a04\" stroke-width=\"1\"/>\n    <text x=\"172\" y=\"187\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"700\" fill=\"#854d0e\">Al: 2, 8, 3 (3 shells)</text>\n    <text x=\"172\" y=\"201\" text-anchor=\"middle\" font-size=\"9.5\" fill=\"#475569\">Period 3 | Group 13 | p-block</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Period 3, Group 3, s-block"
+      },
+      {
+        "key": "B",
+        "text": "Period 2, Group 13, p-block"
+      },
+      {
+        "key": "C",
+        "text": "Period 3, Group 13, p-block"
+      },
+      {
+        "key": "D",
+        "text": "Period 3, Group 16, p-block"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Three occupied shells establish Period 3. Three valence electrons place aluminium in Group 13, and its last electron enters a p-subshell. Option A incorrectly treats the valence-electron count as the group number.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "d6ded332d0b344eaa5d9325cfe803021324f1614545c58cda989e1a81365f661",
+    "question_skeleton": "figure coloured periodic table section div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display flex flex wrap wrap gap 8px align items center div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b na div div style font size 0 85rem color 64748b margin top 2px group 1 div div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b mg div div style font size 0 85rem color 64748b margin top 2px group 2 div div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b al div div style font size 0 85rem color 64748b margin top 2px group 13 div div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b si div div style font size 0 85rem color 64748b margin top 2px group 14 div div div div style display flex flex wrap wrap gap 8px align items center div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 k div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 ca div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 sc zn div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 ga ge div div div style font size 0 85rem color 64748b margin top 2px blue s block green p block orange d block schematic not to scale div div aluminium has atomic number 13 and electronic configuration 2 8 3 which conclusion correctly combines its shell structure and its position",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_1_d6ded3",
+    "vaultHash": "d6ded332d0b344eaa5d9325cfe803021324f1614545c58cda989e1a81365f661",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-pwo4nox",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Atomic radius across a period",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "Across Period 3 of the periodic table, atomic sizes from sodium (Na) to chlorine (Cl) show a general decreasing trend in radius. Which explanation correctly accounts for this trend?",
+    "diagramSvg": "<svg viewBox=\"0 0 520 200\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #e2e8f0; font-family:system-ui, sans-serif;\">\n    <text x=\"260\" y=\"24\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#0f172a\">Atomic Radius Trend Across Period 3 (Na → Cl)</text>\n    <!-- Atoms Na, Mg, Al, Si, P, S, Cl -->\n    <!-- Na (186 pm) -->\n    <circle cx=\"50\" cy=\"85\" r=\"32\" fill=\"#fed7aa\" stroke=\"#ea580c\" stroke-width=\"2\"/>\n    <text x=\"50\" y=\"89\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#9a3412\">Na</text>\n    <text x=\"50\" y=\"132\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">186 pm</text>\n    <!-- Mg (160 pm) -->\n    <circle cx=\"120\" cy=\"85\" r=\"28\" fill=\"#fed7aa\" stroke=\"#ea580c\" stroke-width=\"2\"/>\n    <text x=\"120\" y=\"89\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#9a3412\">Mg</text>\n    <text x=\"120\" y=\"132\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">160 pm</text>\n    <!-- Al (143 pm) -->\n    <circle cx=\"188\" cy=\"85\" r=\"25\" fill=\"#fed7aa\" stroke=\"#ea580c\" stroke-width=\"2\"/>\n    <text x=\"188\" y=\"89\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#9a3412\">Al</text>\n    <text x=\"188\" y=\"132\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">143 pm</text>\n    <!-- Si (118 pm) -->\n    <circle cx=\"254\" cy=\"85\" r=\"22\" fill=\"#fed7aa\" stroke=\"#ea580c\" stroke-width=\"2\"/>\n    <text x=\"254\" y=\"89\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#9a3412\">Si</text>\n    <text x=\"254\" y=\"132\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">118 pm</text>\n    <!-- P (110 pm) -->\n    <circle cx=\"318\" cy=\"85\" r=\"20\" fill=\"#fed7aa\" stroke=\"#ea580c\" stroke-width=\"2\"/>\n    <text x=\"318\" y=\"89\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#9a3412\">P</text>\n    <text x=\"318\" y=\"132\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">110 pm</text>\n    <!-- S (104 pm) -->\n    <circle cx=\"380\" cy=\"85\" r=\"18\" fill=\"#fed7aa\" stroke=\"#ea580c\" stroke-width=\"2\"/>\n    <text x=\"380\" y=\"89\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#9a3412\">S</text>\n    <text x=\"380\" y=\"132\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">104 pm</text>\n    <!-- Cl (99 pm) -->\n    <circle cx=\"440\" cy=\"85\" r=\"16\" fill=\"#fed7aa\" stroke=\"#ea580c\" stroke-width=\"2\"/>\n    <text x=\"440\" y=\"89\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#9a3412\">Cl</text>\n    <text x=\"440\" y=\"132\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">99 pm</text>\n    <!-- Trend Arrow -->\n    <defs>\n      <marker id=\"arrowP\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\">\n        <path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#dc2626\"/>\n      </marker>\n    </defs>\n    <line x1=\"40\" y1=\"160\" x2=\"460\" y2=\"160\" stroke=\"#dc2626\" stroke-width=\"2.5\" marker-end=\"url(#arrowP)\"/>\n    <text x=\"260\" y=\"182\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#b91c1c\">Atomic size decreases (Nuclear charge increases within same principal shell)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The number of occupied shells decreases at each successive element."
+      },
+      {
+        "key": "B",
+        "text": "Nuclear charge increases while the added electrons enter the same principal shell, increasing the attraction on the electron cloud."
+      },
+      {
+        "key": "C",
+        "text": "The nuclear charge remains constant, but the valence electrons become fewer."
+      },
+      {
+        "key": "D",
+        "text": "Metallic character increases across the period and compresses the atoms."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Na through Cl all have three occupied shells. The nuclear charge increases across the period, pulling the electrons closer. Option A is tempting but incorrect because the number of occupied shells stays constant.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "0f73c1073ceb20770bccfaae5a3e0b8c62b6da06dff3b7b0a7317cbb6ad0f179",
+    "question_skeleton": "figure schematic atomic size comparison across period 3 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 each s na w 64 c e8a34d s mg w 56 c e8a34d s al w 48 c 76b7e5 s si w 41 c 76b7e5 s p w 35 c 76b7e5 s s w 30 c 76b7e5 s cl w 25 c 76b7e5 as e div style display flex flex wrap wrap gap 8px align items center div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span e s span div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span e s span div div each div style font size 0 85rem color 64748b margin top 2px atomic sizes are represented qualitatively not to scale the general trend is decreasing radius from na to cl div div which explanation accounts for the trend",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_2_0f73c1",
+    "vaultHash": "0f73c1073ceb20770bccfaae5a3e0b8c62b6da06dff3b7b0a7317cbb6ad0f179",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-tfl4le5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Atomic size and electron affinity down Group 17",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "In Group 17 (the halogens: fluorine, chlorine, bromine, and iodine), atomic radius increases down the group from F to I. Which statement correctly interprets this trend in relation to their electron affinity?",
+    "diagramSvg": "<svg viewBox=\"0 0 420 240\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #e2e8f0; font-family:system-ui, sans-serif;\">\n    <text x=\"210\" y=\"24\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#0f172a\">Group 17 (Halogens): Atomic Radius Trend</text>\n    <!-- F (2 shells, 72 pm) -->\n    <circle cx=\"100\" cy=\"60\" r=\"16\" fill=\"#ccfbf1\" stroke=\"#0d9488\" stroke-width=\"2\"/>\n    <text x=\"100\" y=\"64\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#0f766e\">F</text>\n    <text x=\"160\" y=\"64\" font-size=\"11\" font-weight=\"600\" fill=\"#334155\">Fluorine (2 shells: 2, 7) — 72 pm</text>\n    <!-- Cl (3 shells, 99 pm) -->\n    <circle cx=\"100\" cy=\"105\" r=\"22\" fill=\"#ccfbf1\" stroke=\"#0d9488\" stroke-width=\"2\"/>\n    <text x=\"100\" y=\"109\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#0f766e\">Cl</text>\n    <text x=\"160\" y=\"109\" font-size=\"11\" font-weight=\"600\" fill=\"#334155\">Chlorine (3 shells: 2, 8, 7) — 99 pm</text>\n    <!-- Br (4 shells, 114 pm) -->\n    <circle cx=\"100\" cy=\"155\" r=\"27\" fill=\"#ccfbf1\" stroke=\"#0d9488\" stroke-width=\"2\"/>\n    <text x=\"100\" y=\"159\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#0f766e\">Br</text>\n    <text x=\"160\" y=\"159\" font-size=\"11\" font-weight=\"600\" fill=\"#334155\">Bromine (4 shells: 2, 8, 18, 7) — 114 pm</text>\n    <!-- I (5 shells, 133 pm) -->\n    <circle cx=\"100\" cy=\"210\" r=\"32\" fill=\"#ccfbf1\" stroke=\"#0d9488\" stroke-width=\"2\"/>\n    <text x=\"100\" y=\"215\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f766e\">I</text>\n    <text x=\"160\" y=\"214\" font-size=\"11\" font-weight=\"600\" fill=\"#334155\">Iodine (5 shells: 2, 8, 18, 18, 7) — 133 pm</text>\n    <!-- Down Arrow -->\n    <defs>\n      <marker id=\"arrowG\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\">\n        <path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#0d9488\"/>\n      </marker>\n    </defs>\n    <line x1=\"30\" y1=\"50\" x2=\"30\" y2=\"220\" stroke=\"#0d9488\" stroke-width=\"2.5\" marker-end=\"url(#arrowG)\"/>\n    <text x=\"24\" y=\"140\" text-anchor=\"middle\" transform=\"rotate(-90 24 140)\" font-size=\"10.5\" font-weight=\"700\" fill=\"#0f766e\">Radius Increases (New shells added) ↓</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Iodine must have the greatest electron affinity because its electron cloud is largest."
+      },
+      {
+        "key": "B",
+        "text": "Fluorine has a larger atomic radius than iodine, making electron acceptance easier."
+      },
+      {
+        "key": "C",
+        "text": "Electron affinity and electronegativity are identical, so their trends must be identical."
+      },
+      {
+        "key": "D",
+        "text": "Atomic radius increases down the group, but chlorine has a more negative electron affinity than fluorine because fluorine's compact shell causes greater repulsion for the added electron."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Added shells increase atomic size down Group 17. Fluorine's very compact valence shell creates greater repulsion for an incoming electron, so chlorine's electron affinity is more negative. Option A wrongly assumes a larger atom must have a greater electron affinity.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "bcf93c60a1d0e659ba2af4f25e16524380e0d49001e6e51240f5bb30ceb5123a",
+    "question_skeleton": "figure coloured halogen column div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 each s f c bce7d4 d 34 s cl c a7d6f2 d 45 s br c f7cb91 d 56 s i c d8c4f1 d 67 as e div style display flex flex wrap wrap gap 8px align items center div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b e s div div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 icon name atom size md color 334155 div span e s f smallest e s i largest span div each icon name arrow down size xl color d97706 span atomic radius increases down the group span div which statement correctly interprets this diagram and the electron affinity trend",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_3_bcf93c",
+    "vaultHash": "bcf93c60a1d0e659ba2af4f25e16524380e0d49001e6e51240f5bb30ceb5123a",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-3qw82jd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Why is a cation smaller than its parent atom?",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "A neutral sodium atom (Na, electronic configuration 2, 8, 1) loses its valence electron to form a sodium cation (Na⁺, electronic configuration 2, 8). Which change correctly explains the smaller size of Na⁺ relative to neutral Na?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 210\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #e2e8f0; font-family:system-ui, sans-serif;\">\n    <text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#0f172a\">Sodium Atom (Na) vs Sodium Cation (Na⁺)</text>\n    <!-- Na Neutral Atom -->\n    <g transform=\"translate(100, 110)\">\n      <circle cx=\"0\" cy=\"0\" r=\"14\" fill=\"#fde68a\" stroke=\"#d97706\" stroke-width=\"1.5\"/>\n      <text x=\"0\" y=\"4\" text-anchor=\"middle\" font-size=\"9\" font-weight=\"700\" fill=\"#92400e\">+11</text>\n      <!-- K shell -->\n      <circle cx=\"0\" cy=\"0\" r=\"28\" fill=\"none\" stroke=\"#94a3b8\" stroke-width=\"1.2\"/>\n      <circle cx=\"0\" cy=\"-28\" r=\"3\" fill=\"#2563eb\"/><circle cx=\"0\" cy=\"28\" r=\"3\" fill=\"#2563eb\"/>\n      <!-- L shell -->\n      <circle cx=\"0\" cy=\"0\" r=\"48\" fill=\"none\" stroke=\"#94a3b8\" stroke-width=\"1.2\"/>\n      <circle cx=\"-48\" cy=\"0\" r=\"3\" fill=\"#2563eb\"/><circle cx=\"48\" cy=\"0\" r=\"3\" fill=\"#2563eb\"/>\n      <circle cx=\"-34\" cy=\"-34\" r=\"3\" fill=\"#2563eb\"/><circle cx=\"34\" cy=\"-34\" r=\"3\" fill=\"#2563eb\"/>\n      <circle cx=\"-34\" cy=\"34\" r=\"3\" fill=\"#2563eb\"/><circle cx=\"34\" cy=\"34\" r=\"3\" fill=\"#2563eb\"/>\n      <circle cx=\"0\" cy=\"-48\" r=\"3\" fill=\"#2563eb\"/><circle cx=\"0\" cy=\"48\" r=\"3\" fill=\"#2563eb\"/>\n      <!-- M shell -->\n      <circle cx=\"0\" cy=\"0\" r=\"68\" fill=\"none\" stroke=\"#d97706\" stroke-width=\"1.5\" stroke-dasharray=\"3,3\"/>\n      <circle cx=\"68\" cy=\"0\" r=\"3.5\" fill=\"#dc2626\"/>\n      <text x=\"0\" y=\"85\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1e293b\">Na Atom (2, 8, 1)</text>\n      <text x=\"0\" y=\"98\" text-anchor=\"middle\" font-size=\"10\" fill=\"#64748b\">Radius: 186 pm (3 shells)</text>\n    </g>\n    <!-- Arrow -1e- -->\n    <g transform=\"translate(230, 110)\">\n      <defs>\n        <marker id=\"arrLoss\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\">\n          <path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#dc2626\"/>\n        </marker>\n      </defs>\n      <line x1=\"-30\" y1=\"0\" x2=\"30\" y2=\"0\" stroke=\"#dc2626\" stroke-width=\"2.5\" marker-end=\"url(#arrLoss)\"/>\n      <text x=\"0\" y=\"-10\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#dc2626\">− 1 e⁻</text>\n      <text x=\"0\" y=\"18\" text-anchor=\"middle\" font-size=\"9\" fill=\"#64748b\">Valence shell lost</text>\n    </g>\n    <!-- Na+ Cation -->\n    <g transform=\"translate(360, 110)\">\n      <circle cx=\"0\" cy=\"0\" r=\"14\" fill=\"#fde68a\" stroke=\"#d97706\" stroke-width=\"1.5\"/>\n      <text x=\"0\" y=\"4\" text-anchor=\"middle\" font-size=\"9\" font-weight=\"700\" fill=\"#92400e\">+11</text>\n      <!-- K shell -->\n      <circle cx=\"0\" cy=\"0\" r=\"28\" fill=\"none\" stroke=\"#94a3b8\" stroke-width=\"1.2\"/>\n      <circle cx=\"0\" cy=\"-28\" r=\"3\" fill=\"#2563eb\"/><circle cx=\"0\" cy=\"28\" r=\"3\" fill=\"#2563eb\"/>\n      <!-- L shell -->\n      <circle cx=\"0\" cy=\"0\" r=\"48\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"1.8\"/>\n      <circle cx=\"-48\" cy=\"0\" r=\"3\" fill=\"#16a34a\"/><circle cx=\"48\" cy=\"0\" r=\"3\" fill=\"#16a34a\"/>\n      <circle cx=\"-34\" cy=\"-34\" r=\"3\" fill=\"#16a34a\"/><circle cx=\"34\" cy=\"-34\" r=\"3\" fill=\"#16a34a\"/>\n      <circle cx=\"-34\" cy=\"34\" r=\"3\" fill=\"#16a34a\"/><circle cx=\"34\" cy=\"34\" r=\"3\" fill=\"#16a34a\"/>\n      <circle cx=\"0\" cy=\"-48\" r=\"3\" fill=\"#16a34a\"/><circle cx=\"0\" cy=\"48\" r=\"3\" fill=\"#16a34a\"/>\n      <text x=\"0\" y=\"85\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#16a34a\">Na⁺ Ion (2, 8)</text>\n      <text x=\"0\" y=\"98\" text-anchor=\"middle\" font-size=\"10\" fill=\"#64748b\">Radius: 99 pm (2 shells)</text>\n    </g>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium loses a proton, reducing the nuclear charge."
+      },
+      {
+        "key": "B",
+        "text": "Sodium loses an electron from its outermost shell; the nucleus retains its charge, and the third shell becomes empty."
+      },
+      {
+        "key": "C",
+        "text": "Sodium gains an electron and increases its nuclear charge."
+      },
+      {
+        "key": "D",
+        "text": "Sodium loses its entire second shell while retaining its third shell."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Na has configuration 2,8,1. Losing one electron produces Na⁺ with configuration 2,8. The occupied outer shell disappears, and the remaining electrons experience attraction from the unchanged nuclear charge. Option A is wrong because ion formation does not remove protons.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "7369619651889b80f1344188abf166b1e70e9fa6b9e096e90360f2f7aacf9fe8",
+    "question_skeleton": "figure sodium atom and sodium ion div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 160 160 width 100 xmlns http www w3 org 2000 svg circle cx 80 cy 80 r 65 fill fde7c7 stroke d97706 strokewidth 2 circle cx 80 cy 80 r 43 fill none stroke e8a34d strokewidth 2 circle cx 80 cy 80 r 22 fill f8caca stroke c24141 strokewidth 2 each 80 15 80 145 15 80 145 80 34 34 126 34 34 126 126 126 80 37 80 123 37 80 123 80 as p circle cx p 0 cy p 1 r 4 fill 2563eb each circle cx 80 cy 80 r 8 fill dc2626 svg na atom div style font size 0 85rem color 64748b margin top 2px 2 8 1 div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 160 160 width 100 xmlns http www w3 org 2000 svg circle cx 80 cy 80 r 45 fill d9eafe stroke 2563eb strokewidth 2 circle cx 80 cy 80 r 24 fill none stroke 60a5fa strokewidth 2 circle cx 80 cy 80 r 10 fill dc2626 each 80 36 80 124 36 80 124 80 49 49 111 49 49 111 111 111 as p circle cx p 0 cy p 1 r 4 fill 2563eb each svg na ion div style font size 0 85rem color 64748b margin top 2px 2 8 div div div div span schematic shell illustration electron dots are illustrative rather than an exact orbital drawing span div which change explains the smaller size of na relative to na",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_4_736961",
+    "vaultHash": "7369619651889b80f1344188abf166b1e70e9fa6b9e096e90360f2f7aacf9fe8",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-3snhpn3",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Mendeleev's prediction of eka-silicon",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "In Mendeleev's periodic table, a gap was left below silicon in Group 14 for an undiscovered element named 'eka-silicon', which was later identified with germanium (Ge). What does this historical prediction demonstrate?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 210\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #e2e8f0; font-family:system-ui, sans-serif;\">\n    <text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#0f172a\">Mendeleev's Prediction: Gap for 'Eka-Silicon'</text>\n    <!-- Group IV column -->\n    <rect x=\"50\" y=\"45\" width=\"160\" height=\"150\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\" stroke-width=\"1.5\"/>\n    <text x=\"130\" y=\"65\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1e293b\">Mendeleev (Group IV)</text>\n    <line x1=\"50\" y1=\"75\" x2=\"210\" y2=\"75\" stroke=\"#cbd5e1\"/>\n    <text x=\"130\" y=\"95\" text-anchor=\"middle\" font-size=\"11\" fill=\"#475569\">Carbon (C = 12)</text>\n    <text x=\"130\" y=\"115\" text-anchor=\"middle\" font-size=\"11\" fill=\"#475569\">Silicon (Si = 28)</text>\n    <!-- Gap Box -->\n    <rect x=\"58\" y=\"125\" width=\"144\" height=\"28\" rx=\"4\" fill=\"#fef2f2\" stroke=\"#ef4444\" stroke-width=\"2\"/>\n    <text x=\"130\" y=\"143\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#dc2626\">[ ? Eka-Silicon ]</text>\n    <text x=\"130\" y=\"175\" text-anchor=\"middle\" font-size=\"11\" fill=\"#475569\">Tin (Sn = 118)</text>\n    <!-- Discovery Callout -->\n    <path d=\"M 210 139 L 260 139\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n    <rect x=\"260\" y=\"55\" width=\"180\" height=\"130\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n    <text x=\"350\" y=\"80\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1e40af\">Later Discovered As:</text>\n    <text x=\"350\" y=\"105\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#2563eb\">Germanium (Ge)</text>\n    <text x=\"350\" y=\"125\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#475569\">Atomic Mass: 72.6</text>\n    <text x=\"350\" y=\"145\" text-anchor=\"middle\" font-size=\"10\" fill=\"#059669\">Predicted Oxide: EsO₂</text>\n    <text x=\"350\" y=\"162\" text-anchor=\"middle\" font-size=\"10\" fill=\"#059669\">Observed Oxide: GeO₂</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendeleev left gaps and predicted the properties of undiscovered elements from periodic patterns; eka-silicon was later associated with germanium."
+      },
+      {
+        "key": "B",
+        "text": "Mendeleev arranged elements strictly by atomic number and predicted germanium's exact proton count."
+      },
+      {
+        "key": "C",
+        "text": "The gap represented a noble gas because every period had to end with an undiscovered element."
+      },
+      {
+        "key": "D",
+        "text": "Mendeleev's table could not accommodate undiscovered elements because all positions were fixed by atomic mass."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Mendeleev deliberately left gaps where the periodic pattern suggested undiscovered elements. He predicted properties of eka-silicon, later identified with germanium. Option B incorrectly attributes the modern atomic-number basis to Mendeleev.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "c7ff07704cccaeb4e3a169c529cf7cc92176b2c4b20a9f7afda29774bfc4cfb4",
+    "question_skeleton": "figure historical table with a predicted gap div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font size 0 85rem color 64748b margin top 2px group 13 div div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b al div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font size 0 85rem color 64748b margin top 2px group 14 div div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b si div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font size 0 85rem color 64748b margin top 2px group 15 div div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b p div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b ga div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b div div style font size 0 85rem color 64748b margin top 2px eka silicon div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b as div div div div div style display flex flex wrap wrap gap 8px align items center icon name arrow down color d97706 size lg span later identified with germanium ge span div div what does this historical prediction demonstrate",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_5_c7ff07",
+    "vaultHash": "c7ff07704cccaeb4e3a169c529cf7cc92176b2c4b20a9f7afda29774bfc4cfb4",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-2377xmn",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Mendeleev's law versus the modern periodic law",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "Mendeleev stated that physical and chemical properties of elements are periodic functions of their atomic masses, whereas Moseley showed they are periodic functions of their atomic numbers. Which statement follows correctly from this comparison?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 210\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #e2e8f0; font-family:system-ui, sans-serif;\">\n    <text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#0f172a\">Comparison of Periodic Laws</text>\n    <!-- Card 1: Mendeleev -->\n    <rect x=\"30\" y=\"45\" width=\"190\" height=\"150\" rx=\"6\" fill=\"#fffbeb\" stroke=\"#f59e0b\" stroke-width=\"1.5\"/>\n    <text x=\"125\" y=\"70\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#92400e\">Mendeleev's Law (1869)</text>\n    <line x1=\"30\" y1=\"80\" x2=\"220\" y2=\"80\" stroke=\"#fde68a\"/>\n    <text x=\"125\" y=\"105\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"600\" fill=\"#b45309\">Periodic function of</text>\n    <rect x=\"45\" y=\"115\" width=\"160\" height=\"30\" rx=\"4\" fill=\"#fde68a\"/>\n    <text x=\"125\" y=\"135\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#78350f\">ATOMIC MASS</text>\n    <text x=\"125\" y=\"165\" text-anchor=\"middle\" font-size=\"9.5\" fill=\"#64748b\">Anomalies: Ar/K, Co/Ni, Te/I</text>\n    <text x=\"125\" y=\"180\" text-anchor=\"middle\" font-size=\"9.5\" fill=\"#64748b\">Isotopes could not be placed</text>\n    <!-- Card 2: Modern (Moseley) -->\n    <rect x=\"240\" y=\"45\" width=\"190\" height=\"150\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n    <text x=\"335\" y=\"70\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1e40af\">Modern Law (Moseley 1913)</text>\n    <line x1=\"240\" y1=\"80\" x2=\"430\" y2=\"80\" stroke=\"#bfdbfe\"/>\n    <text x=\"335\" y=\"105\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"600\" fill=\"#1d4ed8\">Periodic function of</text>\n    <rect x=\"255\" y=\"115\" width=\"160\" height=\"30\" rx=\"4\" fill=\"#bfdbfe\"/>\n    <text x=\"335\" y=\"135\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#1e3a8a\">ATOMIC NUMBER (Z)</text>\n    <text x=\"335\" y=\"165\" text-anchor=\"middle\" font-size=\"9.5\" fill=\"#64748b\">Resolves all mass anomalies</text>\n    <text x=\"335\" y=\"180\" text-anchor=\"middle\" font-size=\"9.5\" fill=\"#64748b\">Root(v) proportional to Z</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both laws use neutron number as the fundamental basis of classification."
+      },
+      {
+        "key": "B",
+        "text": "The modern periodic law is based on atomic mass, whereas Mendeleev's law is based on atomic number."
+      },
+      {
+        "key": "C",
+        "text": "Mendeleev's law relates periodicity to atomic mass, whereas the modern periodic law states that properties are periodic functions of atomic number."
+      },
+      {
+        "key": "D",
+        "text": "The modern periodic law denies that chemical properties repeat periodically."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Moseley's work established atomic number as the fundamental basis of periodic classification. Mendeleev's original law used atomic mass. Option B reverses the two principles.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "ad26fe53f672ac6931fbe6aa52169af9c975a03b971a28aca324ac467833aaa5",
+    "question_skeleton": "figure two periodicity cards div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b historical basis div div style display flex flex wrap wrap gap 8px align items center icon name scale color b45309 size 2xl div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 mendeleev span periodic properties related to atomic mass span div div div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b modern basis div div style display flex flex wrap wrap gap 8px align items center icon name atom color 1d4ed8 size 2xl div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 moseley and the modern law span periodic properties related to atomic number span div div div div which statement follows correctly from the comparison",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_6_ad26fe",
+    "vaultHash": "ad26fe53f672ac6931fbe6aa52169af9c975a03b971a28aca324ac467833aaa5",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-xpp6p1o",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Identifying a halogen from its shell arrangement",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "An atom has 2 electrons in its K shell, 8 electrons in its L shell, and 7 electrons in its M shell (electronic configuration 2, 8, 7). Which conclusion is correct regarding its group, period, and chemical nature?",
+    "diagramSvg": "<svg viewBox=\"0 0 420 220\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #e2e8f0; font-family:system-ui, sans-serif;\">\n    <text x=\"210\" y=\"24\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#0f172a\">Bohr Shell Structure: Chlorine Atom (2, 8, 7)</text>\n    <g transform=\"translate(150, 120)\">\n      <!-- Nucleus -->\n      <circle cx=\"0\" cy=\"0\" r=\"16\" fill=\"#fee2e2\" stroke=\"#ef4444\" stroke-width=\"1.5\"/>\n      <text x=\"0\" y=\"5\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"700\" fill=\"#991b1b\">+17</text>\n      <!-- K Shell -->\n      <circle cx=\"0\" cy=\"0\" r=\"32\" fill=\"none\" stroke=\"#94a3b8\" stroke-width=\"1.2\"/>\n      <circle cx=\"0\" cy=\"-32\" r=\"3\" fill=\"#2563eb\"/><circle cx=\"0\" cy=\"32\" r=\"3\" fill=\"#2563eb\"/>\n      <!-- L Shell -->\n      <circle cx=\"0\" cy=\"0\" r=\"54\" fill=\"none\" stroke=\"#94a3b8\" stroke-width=\"1.2\"/>\n      <circle cx=\"-54\" cy=\"0\" r=\"3\" fill=\"#2563eb\"/><circle cx=\"54\" cy=\"0\" r=\"3\" fill=\"#2563eb\"/>\n      <circle cx=\"-38\" cy=\"-38\" r=\"3\" fill=\"#2563eb\"/><circle cx=\"38\" cy=\"-38\" r=\"3\" fill=\"#2563eb\"/>\n      <circle cx=\"-38\" cy=\"38\" r=\"3\" fill=\"#2563eb\"/><circle cx=\"38\" cy=\"38\" r=\"3\" fill=\"#2563eb\"/>\n      <circle cx=\"0\" cy=\"-54\" r=\"3\" fill=\"#2563eb\"/><circle cx=\"0\" cy=\"54\" r=\"3\" fill=\"#2563eb\"/>\n      <!-- M Shell -->\n      <circle cx=\"0\" cy=\"0\" r=\"76\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"1.8\"/>\n      <circle cx=\"0\" cy=\"-76\" r=\"3.5\" fill=\"#16a34a\"/><circle cx=\"0\" cy=\"76\" r=\"3.5\" fill=\"#16a34a\"/>\n      <circle cx=\"-76\" cy=\"0\" r=\"3.5\" fill=\"#16a34a\"/><circle cx=\"76\" cy=\"0\" r=\"3.5\" fill=\"#16a34a\"/>\n      <circle cx=\"-54\" cy=\"-54\" r=\"3.5\" fill=\"#16a34a\"/><circle cx=\"54\" cy=\"-54\" r=\"3.5\" fill=\"#16a34a\"/>\n      <circle cx=\"-54\" cy=\"54\" r=\"3.5\" fill=\"#16a34a\"/>\n      <!-- empty spot indicating 1 e- needed -->\n      <circle cx=\"54\" cy=\"54\" r=\"4\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"1.5\" stroke-dasharray=\"2,2\"/>\n    </g>\n    <!-- Legend / info box -->\n    <rect x=\"260\" y=\"55\" width=\"140\" height=\"130\" rx=\"6\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/>\n    <text x=\"330\" y=\"78\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1e293b\">Classification</text>\n    <line x1=\"260\" y1=\"88\" x2=\"400\" y2=\"88\" stroke=\"#f1f5f9\"/>\n    <text x=\"270\" y=\"108\" font-size=\"10.5\" fill=\"#475569\">K shell: 2 e⁻</text>\n    <text x=\"270\" y=\"126\" font-size=\"10.5\" fill=\"#475569\">L shell: 8 e⁻</text>\n    <text x=\"270\" y=\"144\" font-size=\"10.5\" font-weight=\"700\" fill=\"#16a34a\">M shell: 7 e⁻</text>\n    <text x=\"270\" y=\"164\" font-size=\"10\" font-weight=\"700\" fill=\"#2563eb\">Period: 3 (3 shells)</text>\n    <text x=\"270\" y=\"178\" font-size=\"10\" font-weight=\"700\" fill=\"#dc2626\">Group: 17 (Halogen)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Period 2, Group 17; it gains two electrons to become stable."
+      },
+      {
+        "key": "B",
+        "text": "Period 3, Group 7; it loses seven electrons to form a stable ion."
+      },
+      {
+        "key": "C",
+        "text": "Period 7, Group 17; its seven valence electrons determine the period."
+      },
+      {
+        "key": "D",
+        "text": "Period 3, Group 17; it can gain one electron to attain the configuration of argon."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Three occupied shells place the atom in Period 3. Seven valence electrons place it in Group 17. Gaining one electron gives 2,8,8, the configuration of argon. Option B confuses the valence-electron count with the group number.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "0134a79fbe4afd30b69acce3767edaabb13aa999c17b8c44844bee30fe1aba0d",
+    "question_skeleton": "figure three shell atom div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 240 220 width 100 xmlns http www w3 org 2000 svg circle cx 120 cy 110 r 85 fill fce7f3 stroke db2777 strokewidth 2 circle cx 120 cy 110 r 55 fill dbeafe stroke 2563eb strokewidth 2 circle cx 120 cy 110 r 25 fill fef3c7 stroke d97706 strokewidth 2 circle cx 120 cy 110 r 12 fill dc2626 each 120 25 120 195 35 110 205 110 60 50 180 50 60 170 180 170 120 55 120 165 65 110 175 110 85 85 155 85 85 135 155 135 120 85 120 135 as p i circle cx p 0 cy p 1 r 4 fill i 2 db2777 i 8 2563eb d97706 each span span svg div style display flex flex wrap wrap gap 8px align items center div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span k shell 2 span div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span l shell 8 span div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span m shell 7 span div div div the atom has electronic configuration 2 8 7 which conclusion is correct",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_7_0134a7",
+    "vaultHash": "0134a79fbe4afd30b69acce3767edaabb13aa999c17b8c44844bee30fe1aba0d",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-fkxt93y",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "First ionisation energy: identifying the two dips",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "Across Period 3 of the periodic table, the first ionisation energy shows an overall increasing trend, but exhibits noticeable dips at aluminium (Al) and sulphur (S). Which explanation correctly accounts for these two dips?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 210\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #e2e8f0; font-family:system-ui, sans-serif;\">\n    <text x=\"230\" y=\"22\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#0f172a\">First Ionisation Energy Across Period 3</text>\n    <!-- Axes -->\n    <line x1=\"50\" y1=\"170\" x2=\"430\" y2=\"170\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n    <line x1=\"50\" y1=\"170\" x2=\"50\" y2=\"35\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n    <text x=\"240\" y=\"195\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"600\" fill=\"#475569\">Element (Period 3) →</text>\n    <text x=\"20\" y=\"30\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">IE (kJ/mol)</text>\n    <!-- Curve Points: Na(70, 145), Mg(115, 115), Al(160, 130 Dip!), Si(205, 110), P(250, 85), S(295, 95 Dip!), Cl(340, 60), Ar(385, 40) -->\n    <polyline points=\"70,145 115,115 160,130 205,110 250,85 295,95 340,60 385,40\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2.5\"/>\n    <!-- Circles and Labels -->\n    <!-- Na -->\n    <circle cx=\"70\" cy=\"145\" r=\"3.5\" fill=\"#2563eb\"/><text x=\"70\" y=\"160\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#1e293b\">Na</text>\n    <!-- Mg -->\n    <circle cx=\"115\" cy=\"115\" r=\"3.5\" fill=\"#2563eb\"/><text x=\"115\" y=\"105\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#1e293b\">Mg</text>\n    <!-- Al DIP -->\n    <circle cx=\"160\" cy=\"130\" r=\"5\" fill=\"#ef4444\"/><text x=\"160\" y=\"150\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"700\" fill=\"#dc2626\">Al (Dip)</text>\n    <!-- Si -->\n    <circle cx=\"205\" cy=\"110\" r=\"3.5\" fill=\"#2563eb\"/><text x=\"205\" y=\"100\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#1e293b\">Si</text>\n    <!-- P -->\n    <circle cx=\"250\" cy=\"85\" r=\"3.5\" fill=\"#2563eb\"/><text x=\"250\" y=\"75\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#1e293b\">P</text>\n    <!-- S DIP -->\n    <circle cx=\"295\" cy=\"95\" r=\"5\" fill=\"#ef4444\"/><text x=\"295\" y=\"115\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"700\" fill=\"#dc2626\">S (Dip)</text>\n    <!-- Cl -->\n    <circle cx=\"340\" cy=\"60\" r=\"3.5\" fill=\"#2563eb\"/><text x=\"340\" y=\"50\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#1e293b\">Cl</text>\n    <!-- Ar -->\n    <circle cx=\"385\" cy=\"40\" r=\"3.5\" fill=\"#2563eb\"/><text x=\"385\" y=\"32\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"700\" fill=\"#1e293b\">Ar</text>\n    <!-- Callout note -->\n    <rect x=\"180\" y=\"160\" width=\"220\" height=\"24\" rx=\"4\" fill=\"#fee2e2\" stroke=\"#f87171\"/>\n    <text x=\"290\" y=\"176\" text-anchor=\"middle\" font-size=\"9\" font-weight=\"600\" fill=\"#991b1b\">Dips: Al (3p¹ vs Mg 3s²) &amp; S (paired 3p⁴ repulsion)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nuclear charge decreases at both aluminium and sulphur."
+      },
+      {
+        "key": "B",
+        "text": "Aluminium's first removed electron is in a higher-energy p-subshell than magnesium's s-electron; sulphur has a paired p-electron, unlike phosphorus's relatively stable half-filled p-subshell."
+      },
+      {
+        "key": "C",
+        "text": "Both dips occur because a new electron shell begins at aluminium and sulphur."
+      },
+      {
+        "key": "D",
+        "text": "The dips show that atomic radius decreases less rapidly at aluminium and sulphur."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Magnesium has a 3s² configuration, while aluminium's first removed electron is a higher-energy 3p electron. Phosphorus has a relatively stable 3p³ arrangement; sulphur's 3p⁴ includes a paired electron whose repulsion makes removal easier. Option A is incorrect because nuclear charge increases across Period 3.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "dcc5ff140cf54cec807ae01bef5cf033690368e9a45b29a404dae19e9a0f9f04",
+    "question_skeleton": "figure qualitative graph across period 3 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 340 210 width 100 xmlns http www w3 org 2000 svg line x1 36 y1 18 x2 36 y2 174 stroke 64748b strokewidth 1 5 line x1 36 y1 174 x2 325 y2 174 stroke 64748b strokewidth 1 5 span ie span polyline points 48 155 85 110 122 125 159 85 196 60 233 74 270 42 307 25 fill none stroke 2563eb strokewidth 3 strokelinejoin round each x 48 y 155 t na x 85 y 110 t mg x 122 y 125 t al x 159 y 85 t si x 196 y 60 t p x 233 y 74 t s x 270 y 42 t cl x 307 y 25 t ar as p circle cx p x cy p y r 4 5 fill p t al p t s ea580c 2563eb span p t span each span dip span span dip span svg div style font size 0 85rem color 64748b margin top 2px qualitative trend only the curve is schematic not a scale graph div div which explanation correctly accounts for the dips at aluminium and sulphur",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_8_dcc5ff",
+    "vaultHash": "dcc5ff140cf54cec807ae01bef5cf033690368e9a45b29a404dae19e9a0f9f04",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-msa3nl2",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Nature of oxides across Period 3",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "Across Period 3 of the periodic table, oxides progress from strongly basic (Na₂O, MgO) to amphoteric (Al₂O₃) and strongly acidic (SiO₂, P₄O₁₀, SO₃). Which conclusion correctly explains this trend?",
+    "diagramSvg": "<svg viewBox=\"0 0 500 200\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #e2e8f0; font-family:system-ui, sans-serif;\">\n    <text x=\"250\" y=\"24\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#0f172a\">Nature of Period 3 Oxides Across the Period</text>\n    <!-- Basic block -->\n    <rect x=\"25\" y=\"55\" width=\"120\" height=\"85\" rx=\"6\" fill=\"#dbeafe\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n    <text x=\"85\" y=\"80\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1e40af\">BASIC</text>\n    <text x=\"85\" y=\"105\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1e3a8a\">Na₂O, MgO</text>\n    <text x=\"85\" y=\"125\" text-anchor=\"middle\" font-size=\"9.5\" fill=\"#475569\">Reacts with acids</text>\n    <!-- Amphoteric block -->\n    <rect x=\"160\" y=\"55\" width=\"115\" height=\"85\" rx=\"6\" fill=\"#fef3c7\" stroke=\"#f59e0b\" stroke-width=\"2\"/>\n    <text x=\"217\" y=\"80\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#92400e\">AMPHOTERIC</text>\n    <text x=\"217\" y=\"105\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#78350f\">Al₂O₃</text>\n    <text x=\"217\" y=\"125\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"600\" fill=\"#b45309\">Reacts with both!</text>\n    <!-- Acidic block -->\n    <rect x=\"290\" y=\"55\" width=\"185\" height=\"85\" rx=\"6\" fill=\"#fee2e2\" stroke=\"#ef4444\" stroke-width=\"1.5\"/>\n    <text x=\"382\" y=\"80\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#991b1b\">ACIDIC</text>\n    <text x=\"382\" y=\"105\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#7f1d1d\">SiO₂, P₄O₁₀, SO₃, Cl₂O₇</text>\n    <text x=\"382\" y=\"125\" text-anchor=\"middle\" font-size=\"9.5\" fill=\"#475569\">Reacts with alkalis</text>\n    <!-- Arrow -->\n    <defs>\n      <marker id=\"arrOx\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\">\n        <path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#ef4444\"/>\n      </marker>\n    </defs>\n    <line x1=\"30\" y1=\"160\" x2=\"470\" y2=\"160\" stroke=\"#ef4444\" stroke-width=\"2.5\" marker-end=\"url(#arrOx)\"/>\n    <text x=\"250\" y=\"180\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#b91c1c\">Electronegativity increases → Oxides become progressively more acidic</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "All the oxides are basic because oxygen is common to each compound."
+      },
+      {
+        "key": "B",
+        "text": "Acidity decreases from sodium oxide to sulphur trioxide."
+      },
+      {
+        "key": "C",
+        "text": "The general change is from basic oxides through amphoteric aluminium oxide to acidic oxides."
+      },
+      {
+        "key": "D",
+        "text": "Aluminium oxide reacts only with acids and therefore is exclusively basic."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metallic character generally decreases across Period 3. The oxides change from basic to amphoteric to acidic. Aluminium oxide reacts with both acids and bases, so it is amphoteric. Option D contradicts this property.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "264dde299441bdc05584be7d615c66d3b61cc40d8e5ec868327b584a8aa99595",
+    "question_skeleton": "figure colour coded sequence of oxides div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b na o div div style font size 0 85rem color 64748b margin top 2px basic div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b mgo div div style font size 0 85rem color 64748b margin top 2px basic div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b al o div div style font size 0 85rem color 64748b margin top 2px amphoteric div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b sio div div style font size 0 85rem color 64748b margin top 2px acidic div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b p o div div style font size 0 85rem color 64748b margin top 2px acidic div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b so div div style font size 0 85rem color 64748b margin top 2px acidic div div div div div style display flex flex wrap wrap gap 8px align items center icon name arrow right color 64748b size xl span generally basic character decreases across the period span div div which conclusion is correct",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_9_264dde",
+    "vaultHash": "264dde299441bdc05584be7d615c66d3b61cc40d8e5ec868327b584a8aa99595",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-48a55qg",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Noble-gas configuration and ion formation",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "An atom X has electronic configuration 2, 8 and an atom Y has electronic configuration 2, 8, 1. An electron is transferred from Y to X. After the transfer, which statement correctly describes the resulting ions and their electronic configurations?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 180\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #e2e8f0; font-family:system-ui, sans-serif;\">\n    <text x=\"220\" y=\"24\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#0f172a\">Electron Transfer: Y (2, 8, 1) → X (2, 8)</text>\n    <!-- Atom Y -->\n    <g transform=\"translate(80, 80)\">\n      <circle cx=\"0\" cy=\"0\" r=\"36\" fill=\"#dcfce7\" stroke=\"#16a34a\" stroke-width=\"2\"/>\n      <text x=\"0\" y=\"-8\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#166534\">Y</text>\n      <text x=\"0\" y=\"8\" text-anchor=\"middle\" font-size=\"10\" fill=\"#166534\">2, 8, 1</text>\n      <!-- Valence electron -->\n      <circle cx=\"48\" cy=\"0\" r=\"5\" fill=\"#dc2626\"/>\n      <text x=\"48\" y=\"-9\" text-anchor=\"middle\" font-size=\"9\" font-weight=\"700\" fill=\"#dc2626\">1 e⁻</text>\n    </g>\n    <!-- Arrow -->\n    <defs>\n      <marker id=\"arrEt\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\">\n        <path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#dc2626\"/>\n      </marker>\n    </defs>\n    <path d=\"M 135 80 Q 185 45 235 75\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\" marker-end=\"url(#arrEt)\"/>\n    <!-- Atom X -->\n    <g transform=\"translate(290, 80)\">\n      <circle cx=\"0\" cy=\"0\" r=\"36\" fill=\"#dbeafe\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n      <text x=\"0\" y=\"-8\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1e40af\">X</text>\n      <text x=\"0\" y=\"8\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1e40af\">2, 8</text>\n    </g>\n    <!-- Resulting states -->\n    <rect x=\"40\" y=\"130\" width=\"160\" height=\"32\" rx=\"4\" fill=\"#ffffff\" stroke=\"#16a34a\"/>\n    <text x=\"120\" y=\"151\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#166534\">Y⁺ : [2, 8] (Stable cation)</text>\n    <rect x=\"240\" y=\"130\" width=\"160\" height=\"32\" rx=\"4\" fill=\"#ffffff\" stroke=\"#2563eb\"/>\n    <text x=\"320\" y=\"151\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#1e40af\">X⁻ : [2, 8, 1] (Anion)</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "X becomes X⁻ with configuration 2,8,1, and Y becomes Y⁺ with configuration 2,8."
+      },
+      {
+        "key": "B",
+        "text": "X becomes X⁺ with configuration 2,7, and Y becomes Y⁻ with configuration 2,8,2."
+      },
+      {
+        "key": "C",
+        "text": "Both ions become positively charged because electron transfer removes electrons from the system."
+      },
+      {
+        "key": "D",
+        "text": "X and Y both attain the configuration 2,8 without acquiring charge."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "X gains one electron, forming X⁻ with 2,8,1; Y loses one, forming Y⁺ with 2,8. The latter is a noble-gas configuration, while the former is not. Option D is wrong because electron transfer produces charged ions.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "b08b37c33861cbde3329fc87a6ee57a796f96be63d8488229694017ac0c8c1ab",
+    "question_skeleton": "figure electron transfer between two shell configurations div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display flex flex wrap wrap gap 8px align items center div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b x div div style font size 0 85rem color 64748b margin top 2px 2 8 div div icon name arrow right size 2xl color d97706 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b y div div style font size 0 85rem color 64748b margin top 2px 2 8 1 div div div span an electron is transferred from y to x span div after transfer which statement correctly describes the ions",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_10_b08b37",
+    "vaultHash": "b08b37c33861cbde3329fc87a6ee57a796f96be63d8488229694017ac0c8c1ab",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-n8wiqto",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Why was the classification of elements necessary?",
+    "question_type": "theoretical",
+    "types_supported": [
+      "theoretical"
+    ],
+    "question": "Why was the classification of elements necessary?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "To prove that all elements have identical chemical properties"
+      },
+      {
+        "key": "B",
+        "text": "To arrange elements according to their physical states alone"
+      },
+      {
+        "key": "C",
+        "text": "To organize elements systematically and reveal relationships among their properties"
+      },
+      {
+        "key": "D",
+        "text": "To eliminate the need to study individual elements"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "As the number of known elements increased, scientists needed a systematic method to organize them and identify similarities, differences, and periodic patterns.\n\n**Tempting distractor:** Option B is too restrictive. Classification considers atomic properties and chemical behaviour, not merely physical state.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "c0c3673bd326d499b11a2ebe301c803cbe099f8050642d1d495385f7030a3a83",
+    "question_skeleton": "why was the classification of elements necessary",
+    "vaultSourceId": "qb_chem_periodic_table_theoretical_1_c0c367",
+    "vaultHash": "c0c3673bd326d499b11a2ebe301c803cbe099f8050642d1d495385f7030a3a83",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-nitx24b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Which statement correctly describes Dobereiner's triads?",
+    "question_type": "theoretical",
+    "types_supported": [
+      "theoretical"
+    ],
+    "question": "Which statement correctly describes Dobereiner's triads?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Elements were arranged in groups of three with related properties, and the middle atomic mass was approximately the mean of the other two"
+      },
+      {
+        "key": "B",
+        "text": "Every third element had exactly the same atomic mass as the first"
+      },
+      {
+        "key": "C",
+        "text": "Elements were arranged in increasing atomic number in groups of eight"
+      },
+      {
+        "key": "D",
+        "text": "All elements in a triad had identical valencies and atomic masses"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Dobereiner grouped certain chemically similar elements into triads. The atomic mass of the middle element was approximately the arithmetic mean of the other two.\n\n**Tempting distractor:** Option C describes a feature associated with Newlands' Law of Octaves, not Dobereiner's triads.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "d5a6c1a6c849e41fa6ae9b8934f5d52cd280fcbf85a5d7dee88c31e546118daf",
+    "question_skeleton": "which statement correctly describes dobereiner s triads",
+    "vaultSourceId": "qb_chem_periodic_table_theoretical_2_d5a6c1",
+    "vaultHash": "d5a6c1a6c849e41fa6ae9b8934f5d52cd280fcbf85a5d7dee88c31e546118daf",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-vvapeuw",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Why did Newlands' Law of Octaves fail for heavier elements?",
+    "question_type": "theoretical",
+    "types_supported": [
+      "theoretical"
+    ],
+    "question": "Why did Newlands' Law of Octaves fail for heavier elements?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It arranged elements according to atomic number"
+      },
+      {
+        "key": "B",
+        "text": "It applied only to noble gases"
+      },
+      {
+        "key": "C",
+        "text": "It required all elements to have the same atomic mass"
+      },
+      {
+        "key": "D",
+        "text": "The resemblance of every eighth element did not hold consistently beyond the lighter elements"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Newlands observed recurring properties when elements were arranged in increasing atomic mass, particularly among lighter elements. The pattern did not work consistently for heavier elements, and his arrangement left no suitable gaps for undiscovered elements.\n\n**Tempting distractor:** Option A is incorrect because Newlands used atomic mass, not atomic number.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "39419aa95811fc3a6ebc6a0125098965de27610e627df160bab29579243eb997",
+    "question_skeleton": "why did newlands law of octaves fail for heavier elements",
+    "vaultSourceId": "qb_chem_periodic_table_theoretical_3_39419a",
+    "vaultHash": "39419aa95811fc3a6ebc6a0125098965de27610e627df160bab29579243eb997",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-d3hvf36",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Which was a major strength of Mendeleev's periodic table?",
+    "question_type": "theoretical",
+    "types_supported": [
+      "theoretical"
+    ],
+    "question": "Which was a major strength of Mendeleev's periodic table?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It placed every element in its modern atomic-number position"
+      },
+      {
+        "key": "B",
+        "text": "It left gaps for undiscovered elements and predicted their properties"
+      },
+      {
+        "key": "C",
+        "text": "It explained the electronic configurations of all elements"
+      },
+      {
+        "key": "D",
+        "text": "It eliminated every anomaly involving isotopes"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Mendeleev deliberately left gaps where he believed undiscovered elements belonged. His predictions for elements later identified as scandium, gallium, and germanium were important successes.\n\n**Tempting distractor:** Option A describes the principle of the modern periodic table, which is based on atomic number.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "8cddd36650993e0e7315e1e18037b7babd4d7dcfb33021b659d11a1412e5f67c",
+    "question_skeleton": "which was a major strength of mendeleev s periodic table",
+    "vaultSourceId": "qb_chem_periodic_table_theoretical_4_8cddd3",
+    "vaultHash": "8cddd36650993e0e7315e1e18037b7babd4d7dcfb33021b659d11a1412e5f67c",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-w9106f8",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "What was the central contribution of Henry Moseley to periodic classification?",
+    "question_type": "theoretical",
+    "types_supported": [
+      "theoretical"
+    ],
+    "question": "What was the central contribution of Henry Moseley to periodic classification?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "He established the Law of Octaves"
+      },
+      {
+        "key": "B",
+        "text": "He grouped elements into triads"
+      },
+      {
+        "key": "C",
+        "text": "He demonstrated the importance of atomic number in determining the correct order of elements"
+      },
+      {
+        "key": "D",
+        "text": "He discovered the noble gases as a group"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Moseley's work on characteristic X-ray spectra established atomic number as the fundamental basis for ordering elements. This helped resolve anomalies in Mendeleev's atomic-mass arrangement.\n\n**Tempting distractor:** Option B refers to Dobereiner, not Moseley.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "c370d988d8340b5fc63b117ef95bb61beea7b89dd2af8e9730c48d7b4b6981c5",
+    "question_skeleton": "what was the central contribution of henry moseley to periodic classification",
+    "vaultSourceId": "qb_chem_periodic_table_theoretical_5_c370d9",
+    "vaultHash": "c370d988d8340b5fc63b117ef95bb61beea7b89dd2af8e9730c48d7b4b6981c5",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.310Z"
+  },
+  {
+    "globalId": "Q-VAULT-6xtevdv",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Board-style Predicting the position of an element",
+    "question_type": "complex",
+    "types_supported": [
+      "complex"
+    ],
+    "question": "An element X has the electronic configuration 2,8,2. Which set of statements is correct? 1. X belongs to Period 3. 2. X belongs to Group 2. 3. X is expected to form X^. 4. Its oxide has the formula XO₂.",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "1, 2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "2, 3 and 4 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Three occupied shells place X in Period 3. Two valence electrons place it in Group 2, and it commonly loses both to form X²⁺. Oxygen forms O²⁻, so the oxide formula is XO, not XO₂.\n\n**Tempting distractor:** Option D overlooks charge balance in the oxide formula.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "9c9284dd709ec6918e931756a877f4aae0cb16cd3d5a4569db12bad727466e86",
+    "question_skeleton": "an element x has the electronic configuration 2 8 2 which set of statements is correct 1 x belongs to period 3 2 x belongs to group 2 3 x is expected to form x 2 4 its oxide has the formula xo 2",
+    "vaultSourceId": "qb_chem_periodic_table_complex_1_9c9284",
+    "vaultHash": "9c9284dd709ec6918e931756a877f4aae0cb16cd3d5a4569db12bad727466e86",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.311Z"
+  },
+  {
+    "globalId": "Q-VAULT-ic7lx0o",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Board-style Identifying an incorrect periodic trend",
+    "question_type": "complex",
+    "types_supported": [
+      "complex"
+    ],
+    "question": "Which arrangement is incorrect?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Atomic size: Na > Mg > Al"
+      },
+      {
+        "key": "B",
+        "text": "Metallic character: Na > Mg > Al"
+      },
+      {
+        "key": "C",
+        "text": "First ionisation energy: Na < Mg < Al"
+      },
+      {
+        "key": "D",
+        "text": "Number of occupied shells: Na = Mg = Al"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Although first ionisation energy generally increases across a period, aluminium's first ionisation energy is slightly lower than magnesium's because aluminium's first removed electron is in a higher-energy 3p subshell.\n\nThe correct order is Na < Al < Mg.\n\n**Tempting distractor:** Option C looks consistent with the broad left-to-right trend but misses the magnesium–aluminium exception.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "f84e8f8bdbe15cf88c8783baa60885bff7016dcaa0c08ea64de8c7a63b03ddb7",
+    "question_skeleton": "which arrangement is incorrect",
+    "vaultSourceId": "qb_chem_periodic_table_complex_2_f84e8f",
+    "vaultHash": "f84e8f8bdbe15cf88c8783baa60885bff7016dcaa0c08ea64de8c7a63b03ddb7",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.311Z"
+  },
+  {
+    "globalId": "Q-VAULT-5k15b3q",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Board-style Comparing elements in the same group",
+    "question_type": "complex",
+    "types_supported": [
+      "complex"
+    ],
+    "question": "Lithium, sodium and potassium belong to Group 1. Which sequence correctly describes their general trend down the group?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Atomic size decreases; electron loss becomes more difficult"
+      },
+      {
+        "key": "B",
+        "text": "Atomic size increases; metallic character decreases"
+      },
+      {
+        "key": "C",
+        "text": "Atomic size increases; the outer electron is generally lost more easily"
+      },
+      {
+        "key": "D",
+        "text": "Atomic size remains constant; ionisation energy increases"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Each successive element has an additional occupied shell. Greater shielding and increased distance of the valence electron from the nucleus generally make electron loss easier, so metallic reactivity increases down Group 1.\n\n**Tempting distractor:** Option B correctly states the size trend but reverses the trend in metallic character.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "533d89527a3bd2b4f4a56fc6af9d729944236191bdc642eb6399aa5a1cde3e04",
+    "question_skeleton": "lithium sodium and potassium belong to group 1 which sequence correctly describes their general trend down the group",
+    "vaultSourceId": "qb_chem_periodic_table_complex_3_533d89",
+    "vaultHash": "533d89527a3bd2b4f4a56fc6af9d729944236191bdc642eb6399aa5a1cde3e04",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.311Z"
+  },
+  {
+    "globalId": "Q-VAULT-8cnp05s",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Board-style Comparing halogens",
+    "question_type": "complex",
+    "types_supported": [
+      "complex"
+    ],
+    "question": "Fluorine, chlorine and bromine are placed in the same group. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fluorine has the largest atomic radius"
+      },
+      {
+        "key": "B",
+        "text": "Bromine attracts an incoming electron more strongly than fluorine in the usual group trend"
+      },
+      {
+        "key": "C",
+        "text": "All three elements have seven valence electrons"
+      },
+      {
+        "key": "D",
+        "text": "Their metallic character increases upward in the group"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Group 17 elements have seven valence electrons. Down the group, atomic size increases and the tendency to attract an incoming electron generally weakens; halogens are nonmetals.\n\n**Tempting distractor:** Option B reverses the usual trend in electron-attracting ability down the halogen group.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "6d772f0babb582a8bb7fa87250987c64eb15925ac0cb5cb3d4815d77cdb26e21",
+    "question_skeleton": "fluorine chlorine and bromine are placed in the same group which statement is correct",
+    "vaultSourceId": "qb_chem_periodic_table_complex_4_6d772f",
+    "vaultHash": "6d772f0babb582a8bb7fa87250987c64eb15925ac0cb5cb3d4815d77cdb26e21",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.311Z"
+  },
+  {
+    "globalId": "Q-VAULT-paql6t5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Board-style Evaluating an ionisation-energy explanation",
+    "question_type": "complex",
+    "types_supported": [
+      "complex"
+    ],
+    "question": "A student claims: “The first ionisation energy of every successive element across a period must be greater than that of the element immediately before it.” Which response is best?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Correct, because atomic number increases"
+      },
+      {
+        "key": "B",
+        "text": "Incorrect, because subshell energies and electron-pair repulsion can produce exceptions"
+      },
+      {
+        "key": "C",
+        "text": "Correct, because atomic radius always decreases without exception"
+      },
+      {
+        "key": "D",
+        "text": "Incorrect, because ionisation energy decreases uniformly across every period"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "First ionisation energy generally rises across a period, but the trend is not perfectly uniform. The Be–B and N–O comparisons illustrate important exceptions due to subshell energy and electron pairing.\n\n**Tempting distractor:** Option A confuses a general relationship with a strict rule.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "4a57e5c571f3a622743301fbb31ccce5fb7c957a4d5f825dd830e1ba66b4e4a2",
+    "question_skeleton": "a student claims the first ionisation energy of every successive element across a period must be greater than that of the element immediately before it which response is best",
+    "vaultSourceId": "qb_chem_periodic_table_complex_5_4a57e5",
+    "vaultHash": "4a57e5c571f3a622743301fbb31ccce5fb7c957a4d5f825dd830e1ba66b4e4a2",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.311Z"
+  },
+  {
+    "globalId": "Q-VAULT-myonmff",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Determining the atomic number from an ion",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical"
+    ],
+    "question": "An element X forms X^, which contains 18 electrons. Its neutral atom has three occupied shells. What are the atomic number and group of X?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Atomic number 16, Group 16"
+      },
+      {
+        "key": "B",
+        "text": "Atomic number 20, Group 2"
+      },
+      {
+        "key": "C",
+        "text": "Atomic number 18, Group 18"
+      },
+      {
+        "key": "D",
+        "text": "Atomic number 16, Group 2"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. X²⁻ has gained two electrons, so the neutral atom contains 18-2=16 electrons.\n2. Therefore, its atomic number is 16, identifying sulphur.\n3. Sulphur has configuration 2,8,6, placing it in Group 16.\n\nOption B incorrectly treats the ion's electron count as its atomic number.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "06f092f5b3614cec0f57ac9a048ac1b680979300c048a25b65e1de5c0e6d96f6",
+    "question_skeleton": "an element x forms x 2 which contains 18 electrons its neutral atom has three occupied shells what are the atomic number and group of x",
+    "vaultSourceId": "qb_chem_periodic_table_numerical_1_06f092",
+    "vaultHash": "06f092f5b3614cec0f57ac9a048ac1b680979300c048a25b65e1de5c0e6d96f6",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.311Z"
+  },
+  {
+    "globalId": "Q-VAULT-eor56t5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Finding the period and group from a configuration",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical"
+    ],
+    "question": "An element has electronic configuration 2,8,18,7. Which position is correct in the modern periodic table?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Period 3, Group 17"
+      },
+      {
+        "key": "B",
+        "text": "Period 4, Group 17"
+      },
+      {
+        "key": "C",
+        "text": "Period 4, Group 7"
+      },
+      {
+        "key": "D",
+        "text": "Period 7, Group 4"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "- Number of occupied shells =4, so Period 4.\n- Valence electrons =7, so Group 10+7=17.\n- The configuration identifies bromine, atomic number 35.\n\nOption C confuses the number of valence electrons with the group numbering used for the d-block.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "11b8392f1024870adfff7e17697db06a236b2e34ce0d2c8b95ee5c78894cc47e",
+    "question_skeleton": "an element has electronic configuration 2 8 18 7 which position is correct in the modern periodic table",
+    "vaultSourceId": "qb_chem_periodic_table_numerical_2_11b839",
+    "vaultHash": "11b8392f1024870adfff7e17697db06a236b2e34ce0d2c8b95ee5c78894cc47e",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.311Z"
+  },
+  {
+    "globalId": "Q-VAULT-8xz1882",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Calculating the number of electrons in a cation",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical"
+    ],
+    "question": "A neutral atom has atomic number 20. It loses two electrons to form a stable ion. How many electrons remain, and which noble gas has the same electronic configuration?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "20 electrons; argon"
+      },
+      {
+        "key": "B",
+        "text": "18 electrons; neon"
+      },
+      {
+        "key": "C",
+        "text": "18 electrons; argon"
+      },
+      {
+        "key": "D",
+        "text": "22 electrons; calcium"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "1. A neutral atom with atomic number 20 contains 20 electrons.\n2. Losing two electrons gives 20-2=18 electrons.\n3. The resulting configuration is 2,8,8, the same as argon.\n\nOption A ignores the electron loss. The number of protons remains 20.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "bdce40817e84cbf6e27a22615f45c073a0e42aecb34fe57b7a614a36783bb0ea",
+    "question_skeleton": "a neutral atom has atomic number 20 it loses two electrons to form a stable ion how many electrons remain and which noble gas has the same electronic configuration",
+    "vaultSourceId": "qb_chem_periodic_table_numerical_3_bdce40",
+    "vaultHash": "bdce40817e84cbf6e27a22615f45c073a0e42aecb34fe57b7a614a36783bb0ea",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.311Z"
+  },
+  {
+    "globalId": "Q-VAULT-z5igz09",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Determining the formula of a compound",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical"
+    ],
+    "question": "Element P has atomic number 12, and element Q has atomic number 17. Assuming they form a compound by electron transfer, what is its simplest formula?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "PQ"
+      },
+      {
+        "key": "B",
+        "text": "P_2Q"
+      },
+      {
+        "key": "C",
+        "text": "PQ₃"
+      },
+      {
+        "key": "D",
+        "text": "PQ₂"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "- P, magnesium, has configuration 2,8,2 and forms P²⁺.\n- Q, chlorine, has configuration 2,8,7 and forms Q⁻.\n- Two Q⁻ ions balance one P²⁺ ion.\n\nThus, the formula is PQ₂, or MgCl₂. Option A fails to balance the ionic charges.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "932209e02bf1bc3537654f141344e3ce1e0830d077b30da4a98c7bed78912abb",
+    "question_skeleton": "element p has atomic number 12 and element q has atomic number 17 assuming they form a compound by electron transfer what is its simplest formula",
+    "vaultSourceId": "qb_chem_periodic_table_numerical_4_932209",
+    "vaultHash": "932209e02bf1bc3537654f141344e3ce1e0830d077b30da4a98c7bed78912abb",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.311Z"
+  },
+  {
+    "globalId": "Q-VAULT-jwyxobb",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Calculating the average atomic mass in a triad",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical"
+    ],
+    "question": "In a hypothetical Dobereiner triad, the atomic masses of the first and third elements are 24 and 64, respectively. If the middle element follows the approximate arithmetic-mean relationship, what is its expected atomic mass?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "40"
+      },
+      {
+        "key": "B",
+        "text": "44"
+      },
+      {
+        "key": "C",
+        "text": "48"
+      },
+      {
+        "key": "D",
+        "text": "88"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Middle mass=(24+64 / 2)\n=(88 / 2)=44\n\n\nThe calculated value is 44, making option B the correct answer.\n\n**Correction:** The answer key letter must be **B**, not C. The arithmetic mean is 44.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "00a588954e33be297c55b2b3b962d93b1ddd787987a9d96fdb41d5298844fd02",
+    "question_skeleton": "in a hypothetical dobereiner triad the atomic masses of the first and third elements are 24 and 64 respectively if the middle element follows the approximate arithmetic mean relationship what is its expected atomic mass",
+    "vaultSourceId": "qb_chem_periodic_table_numerical_5_00a588",
+    "vaultHash": "00a588954e33be297c55b2b3b962d93b1ddd787987a9d96fdb41d5298844fd02",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T19:58:50.311Z",
+    "correct": "B"
+  },
+  {
+    "globalId": "Q-dx9ncze",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Chemistry",
+    "subSubjectName": "",
+    "sectionName": "Subjective",
+    "chapter": "Periodic Table",
+    "title": "Identifying the d-block",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "s-block d-block p-block Central block highlighted; the table fragment is schematic. Iron (Fe, atomic number 26) is highlighted. Which statement is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 480 200\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\">\n      <text x=\"240\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">Schematic Periodic Table: Highlighting the d-block</text>\n      <rect x=\"30\" y=\"45\" width=\"60\" height=\"110\" rx=\"4\" fill=\"#dbeafe\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n      <text x=\"60\" y=\"90\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#1e40af\">s-block</text>\n      <text x=\"60\" y=\"110\" text-anchor=\"middle\" font-size=\"9\" fill=\"#3b82f6\">Gr. 1 - 2</text>\n      \n      <!-- Central d-block highlighted -->\n      <rect x=\"100\" y=\"75\" width=\"200\" height=\"80\" rx=\"4\" fill=\"#fef3c7\" stroke=\"#f59e0b\" stroke-width=\"2\"/>\n      <text x=\"200\" y=\"105\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#92400e\">d-block (Transition Metals)</text>\n      <text x=\"200\" y=\"123\" text-anchor=\"middle\" font-size=\"10\" fill=\"#b45309\">Groups 3 to 12 (Periods 4 - 7)</text>\n      <!-- Fe badge -->\n      <rect x=\"180\" y=\"130\" width=\"40\" height=\"20\" rx=\"3\" fill=\"#ea580c\"/>\n      <text x=\"200\" y=\"144\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"800\" fill=\"#ffffff\">Fe (26)</text>\n      \n      <rect x=\"310\" y=\"45\" width=\"140\" height=\"110\" rx=\"4\" fill=\"#d1fae5\" stroke=\"#10b981\" stroke-width=\"1.5\"/>\n      <text x=\"380\" y=\"90\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#065f46\">p-block</text>\n      <text x=\"380\" y=\"110\" text-anchor=\"middle\" font-size=\"9\" fill=\"#047857\">Gr. 13 - 18</text>\n      \n      <text x=\"240\" y=\"180\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">Iron (Fe) belongs to Period 4, Group 8 in the d-block</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fe is a Group 2 s-block element because its outermost shell contains two electrons."
+      },
+      {
+        "key": "B",
+        "text": "Fe is a Group 16 p-block element because it has six electrons outside its nucleus."
+      },
+      {
+        "key": "C",
+        "text": "Fe is an f-block element because all elements beyond atomic number 20 belong to the f-block."
+      },
+      {
+        "key": "D",
+        "text": "Fe is a Period 4, Group 8 d-block element, positioned between the s-block and p-block."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Iron occupies Period 4, Group 8 in the central d-block. Its classification depends on its position in the modern periodic table, not merely on counting its outermost-shell electrons.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "53a0b172d7f0d8f7947a32793fb38e829ddd6aa8eb079afa2b355de67ace91e9",
+    "question_skeleton": "figure position of iron in the long form periodic table div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display flex flex wrap wrap gap 8px align items center div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span s block span div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span d block span div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span p block span div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 each sc ti v cr mn fe co ni cu zn ga ge as e div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span e span div div each div div style font size 0 85rem color 64748b margin top 2px central block highlighted the table fragment is schematic div div iron fe atomic number 26 is highlighted which statement is correct",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_11_53a0b1",
+    "vaultHash": "53a0b172d7f0d8f7947a32793fb38e829ddd6aa8eb079afa2b355de67ace91e9",
+    "quality_score": 9.5,
+    "createdAt": "2026-10-15T20:23:00.973Z"
+  },
+  {
+    "globalId": "Q-x5v4a50",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Chemistry",
+    "subSubjectName": "",
+    "sectionName": "Subjective",
+    "chapter": "Periodic Table",
+    "title": "Newlands' law of octaves",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "1st and 8th positions: Li and Na Which limitation is most accurately associated with Newlands' law?",
+    "diagramSvg": "<svg viewBox=\"0 0 500 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\">\n      <text x=\"250\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">Newlands' Law of Octaves: Musical Notes Analogy</text>\n      <g transform=\"translate(25, 45)\">\n        <!-- Table Header (Musical Notes) -->\n        <rect x=\"0\" y=\"0\" width=\"450\" height=\"30\" fill=\"#e2e8f0\" rx=\"4\"/>\n        <text x=\"32\" y=\"20\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#334155\">sa (do)</text>\n        <text x=\"96\" y=\"20\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#334155\">re (re)</text>\n        <text x=\"160\" y=\"20\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#334155\">ga (mi)</text>\n        <text x=\"225\" y=\"20\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#334155\">ma (fa)</text>\n        <text x=\"289\" y=\"20\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#334155\">pa (so)</text>\n        <text x=\"353\" y=\"20\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#334155\">dha (la)</text>\n        <text x=\"417\" y=\"20\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#334155\">ni (ti)</text>\n        <!-- 1st Octave -->\n        <rect x=\"0\" y=\"35\" width=\"450\" height=\"30\" fill=\"#ffffff\" stroke=\"#e2e8f0\"/>\n        <text x=\"32\" y=\"55\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#2563eb\">H</text>\n        <text x=\"96\" y=\"55\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#dc2626\">Li (1st)</text>\n        <text x=\"160\" y=\"55\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"600\" fill=\"#334155\">Be</text>\n        <text x=\"225\" y=\"55\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"600\" fill=\"#334155\">B</text>\n        <text x=\"289\" y=\"55\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"600\" fill=\"#334155\">C</text>\n        <text x=\"353\" y=\"55\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"600\" fill=\"#334155\">N</text>\n        <text x=\"417\" y=\"55\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"600\" fill=\"#334155\">O</text>\n        <!-- 2nd Octave -->\n        <rect x=\"0\" y=\"70\" width=\"450\" height=\"30\" fill=\"#ffffff\" stroke=\"#e2e8f0\"/>\n        <text x=\"32\" y=\"90\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"600\" fill=\"#334155\">F</text>\n        <text x=\"96\" y=\"90\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#dc2626\">Na (8th)</text>\n        <text x=\"160\" y=\"90\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"600\" fill=\"#334155\">Mg</text>\n        <text x=\"225\" y=\"90\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"600\" fill=\"#334155\">Al</text>\n        <text x=\"289\" y=\"90\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"600\" fill=\"#334155\">Si</text>\n        <text x=\"353\" y=\"90\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"600\" fill=\"#334155\">P</text>\n        <text x=\"417\" y=\"90\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"600\" fill=\"#334155\">S</text>\n      </g>\n      <text x=\"250\" y=\"172\" text-anchor=\"middle\" font-size=\"10.5\" font-weight=\"600\" fill=\"#b91c1c\">Every 8th element has properties similar to the 1st (Valid only up to Calcium, Ca)</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It was based on atomic number and failed because atomic numbers were unknown."
+      },
+      {
+        "key": "B",
+        "text": "It worked reasonably well for lighter elements but did not satisfactorily accommodate the heavier elements."
+      },
+      {
+        "key": "C",
+        "text": "It left deliberate gaps for undiscovered elements and accurately predicted their properties."
+      },
+      {
+        "key": "D",
+        "text": "It placed all known elements in 18 groups and seven periods."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Newlands arranged elements by increasing atomic mass and proposed that every eighth element had similar properties. The pattern was more successful among lighter elements and failed for many heavier ones. Option C describes a merit associated with Mendeleev's table, not Newlands' law.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "3c1444ae538c792ce47f89c02de60f8d2469bb21fd4dee620a0b618577c87d21",
+    "question_skeleton": "figure historical sequence arranged by increasing atomic mass div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 each n 1 e li c d9eafe n 2 e be c d9eafe n 3 e b c ddf5e5 n 4 e c c ddf5e5 n 5 e n c ddf5e5 n 6 e o c ddf5e5 n 7 e f c fce8cc n 8 e na c fde7c7 as e div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font size 0 85rem color 64748b margin top 2px e n div div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b e e div div div each div div style display flex flex wrap wrap gap 8px align items center icon name repeat size xl color d97706 span 1st and 8th positions li and na span div div which limitation is most accurately associated with newlands law",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_12_3c1444",
+    "vaultHash": "3c1444ae538c792ce47f89c02de60f8d2469bb21fd4dee620a0b618577c87d21",
+    "quality_score": 9.5,
+    "createdAt": "2026-10-15T20:23:00.973Z"
+  },
+  {
+    "globalId": "Q-j5i4o1b",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Chemistry",
+    "subSubjectName": "",
+    "sectionName": "Subjective",
+    "chapter": "Periodic Table",
+    "title": "Distinguishing electron affinity from electronegativity",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "Electron affinity Energy change when an isolated gaseous atom gains an electron. Electronegativity An atom's tendency to attract a shared pair of bonding electrons. Which conclusion follows from the distinction shown?",
+    "diagramSvg": "<svg viewBox=\"0 0 130 100\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\">\n          <circle cx=\"48\" cy=\"50\" r=\"28\" fill=\"#BFDBFE\" stroke=\"#2563EB\" strokeWidth=\"2\"/>\n          <circle cx=\"48\" cy=\"50\" r=\"9\" fill=\"#DC2626\"/>\n          <circle cx=\"48\" cy=\"22\" r=\"4\" fill=\"#2563EB\"/>\n          <circle cx=\"48\" cy=\"78\" r=\"4\" fill=\"#2563EB\"/>\n          <circle cx=\"20\" cy=\"50\" r=\"4\" fill=\"#2563EB\"/>\n          <circle cx=\"76\" cy=\"50\" r=\"4\" fill=\"#2563EB\"/>\n          <circle cx=\"108\" cy=\"50\" r=\"5\" fill=\"#D97706\"/>\n          <path d=\"M98 50 L84 50\" stroke=\"#D97706\" strokeWidth=\"3\" strokeLinecap=\"round\"/>\n          <path d=\"M90 44 L84 50 L90 56\" fill=\"none\" stroke=\"#D97706\" strokeWidth=\"3\" strokeLinecap=\"round\"/>\n        </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both properties measure exactly the same process and must always have identical numerical values."
+      },
+      {
+        "key": "B",
+        "text": "Electron affinity measures attraction for shared electrons, while electronegativity measures the energy released by an isolated atom."
+      },
+      {
+        "key": "C",
+        "text": "Electron affinity concerns electron gain by an isolated gaseous atom, whereas electronegativity concerns attraction for shared electrons in a bond."
+      },
+      {
+        "key": "D",
+        "text": "Electronegativity applies only to metals, while electron affinity applies only to noble gases."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Electron affinity concerns the energy change when an isolated gaseous atom gains an electron. Electronegativity describes an atom's attraction for shared bonding electrons. Option B reverses these definitions.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "30cdc4fe7617e7ef0a5ba31700e17f9fa77003656d95a29db6864cf135b08e47",
+    "question_skeleton": "figure two different ways of describing an atom s attraction for electrons div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 130 100 width 100 xmlns http www w3 org 2000 svg circle cx 48 cy 50 r 28 fill bfdbfe stroke 2563eb strokewidth 2 circle cx 48 cy 50 r 9 fill dc2626 circle cx 48 cy 22 r 4 fill 2563eb circle cx 48 cy 78 r 4 fill 2563eb circle cx 20 cy 50 r 4 fill 2563eb circle cx 76 cy 50 r 4 fill 2563eb circle cx 108 cy 50 r 5 fill d97706 path d m98 50 l84 50 stroke d97706 strokewidth 3 strokelinecap round path d m90 44 l84 50 l90 56 fill none stroke d97706 strokewidth 3 strokelinecap round svg div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b electron affinity div span energy change when an isolated gaseous atom gains an electron span div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 svg viewbox 0 0 130 100 width 100 xmlns http www w3 org 2000 svg circle cx 34 cy 50 r 22 fill bbf7d0 stroke 16a34a strokewidth 2 circle cx 34 cy 50 r 7 fill dc2626 circle cx 90 cy 50 r 22 fill bbf7d0 stroke 16a34a strokewidth 2 circle cx 90 cy 50 r 7 fill dc2626 path d m55 36 l69 36 m63 30 l69 36 l63 42 stroke 16a34a strokewidth 2 5 fill none strokelinecap round path d m69 64 l55 64 m61 58 l55 64 l61 70 stroke 16a34a strokewidth 2 5 fill none strokelinecap round svg div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b electronegativity div span an atom s tendency to attract a shared pair of bonding electrons span div div div div which conclusion follows from the distinction shown",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_13_30cdc4",
+    "vaultHash": "30cdc4fe7617e7ef0a5ba31700e17f9fa77003656d95a29db6864cf135b08e47",
+    "quality_score": 9.5,
+    "createdAt": "2026-10-15T20:23:56.190Z"
+  },
+  {
+    "globalId": "Q-p3ur5ie",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Chemistry",
+    "subSubjectName": "",
+    "sectionName": "Subjective",
+    "chapter": "Periodic Table",
+    "title": "The position of hydrogen",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "Refer to the diagram showing hydrogen's dual resemblance to Group 1 (alkali metals) and Group 17 (halogens). Why is hydrogen assigned an anomalous position in the periodic table?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\">\n      <text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">Dual Chemical Behaviour of Hydrogen (1s¹)</text>\n      <!-- Group 1 Resemblance -->\n      <rect x=\"30\" y=\"45\" width=\"190\" height=\"110\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n      <text x=\"125\" y=\"70\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1e40af\">Resembles Alkali Metals (Gr. 1)</text>\n      <text x=\"125\" y=\"95\" text-anchor=\"middle\" font-size=\"11\" fill=\"#334155\">Forms H⁺ cation (Loses 1 e⁻)</text>\n      <text x=\"125\" y=\"115\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#2563eb\">H → H⁺ + e⁻</text>\n      <text x=\"125\" y=\"138\" text-anchor=\"middle\" font-size=\"10\" fill=\"#64748b\">Like Na → Na⁺ + e⁻</text>\n      <!-- Group 17 Resemblance -->\n      <rect x=\"240\" y=\"45\" width=\"190\" height=\"110\" rx=\"6\" fill=\"#f0fdf4\" stroke=\"#16a34a\" stroke-width=\"1.5\"/>\n      <text x=\"335\" y=\"70\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#166534\">Resembles Halogens (Gr. 17)</text>\n      <text x=\"335\" y=\"95\" text-anchor=\"middle\" font-size=\"11\" fill=\"#334155\">Forms H⁻ hydride (Gains 1 e⁻)</text>\n      <text x=\"335\" y=\"115\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#16a34a\">H + e⁻ → H⁻ (He configuration)</text>\n      <text x=\"335\" y=\"138\" text-anchor=\"middle\" font-size=\"10\" fill=\"#64748b\">Like Cl + e⁻ → Cl⁻</text>\n      <text x=\"230\" y=\"176\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">Hydrogen exhibits anomalous dual position in Mendeleev &amp; Modern Periodic Tables</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It has no electron in its outermost shell."
+      },
+      {
+        "key": "B",
+        "text": "It is a non-metal with one electron and can lose or gain an electron in different chemical situations, so its properties do not fully match those of Group 1."
+      },
+      {
+        "key": "C",
+        "text": "It has two occupied electron shells, unlike all other elements in Period 1."
+      },
+      {
+        "key": "D",
+        "text": "It has a complete outer shell identical to neon."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Hydrogen has the configuration 1, with only one electron. Although it is often placed above Group 1, it is a non-metal and can form both H⁺ and H⁻ in appropriate compounds. Option A is wrong because its only shell contains one electron.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "ffc394ceb9abf53eaebfb903c95412584705aca9dfbae10ccea81c5282029a60",
+    "question_skeleton": "figure hydrogen s position and its two possible chemical similarities div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b h div div style font size 0 85rem color 64748b margin top 2px 1 electron div div style font size 0 85rem color 64748b margin top 2px 1s div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b li div div style font size 0 85rem color 64748b margin top 2px 2 1 div div style font size 0 85rem color 64748b margin top 2px loses 1 e div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b f div div style font size 0 85rem color 64748b margin top 2px 2 7 div div style font size 0 85rem color 64748b margin top 2px gains 1 e div div div div div style display flex flex wrap wrap gap 8px align items center span h resembles group 1 in electron loss span span h can also gain 1 e span div div why is hydrogen often treated as a special case rather than an ordinary alkali metal",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_14_ffc394",
+    "vaultHash": "ffc394ceb9abf53eaebfb903c95412584705aca9dfbae10ccea81c5282029a60",
+    "quality_score": 9.5,
+    "createdAt": "2026-10-15T20:23:56.190Z"
+  },
+  {
+    "globalId": "Q-VAULT-ik3ut23",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Identifying an amphoteric oxide from its reaction pattern",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "A student observes that aluminium oxide reacts with both acids and bases as shown in the diagram. Which conclusion correctly identifies the chemical nature of aluminium oxide?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\">\n      <text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">Amphoteric Nature of Aluminium Oxide (Al₂O₃)</text>\n      <!-- Central Al2O3 circle -->\n      <rect x=\"175\" y=\"65\" width=\"110\" height=\"50\" rx=\"8\" fill=\"#fef3c7\" stroke=\"#f59e0b\" stroke-width=\"2\"/>\n      <text x=\"230\" y=\"95\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#92400e\">Al₂O₃</text>\n      <!-- Reaction with Acid -->\n      <path d=\"M 175 90 L 100 90 L 100 130\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n      <rect x=\"20\" y=\"130\" width=\"160\" height=\"42\" rx=\"4\" fill=\"#eff6ff\" stroke=\"#3b82f6\"/>\n      <text x=\"100\" y=\"147\" text-anchor=\"middle\" font-size=\"10.5\" font-weight=\"700\" fill=\"#1e40af\">+ Acid: 6HCl</text>\n      <text x=\"100\" y=\"163\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">→ 2AlCl₃ + 3H₂O (Acts as Base)</text>\n      <!-- Reaction with Base -->\n      <path d=\"M 285 90 L 360 90 L 360 130\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n      <rect x=\"280\" y=\"130\" width=\"160\" height=\"42\" rx=\"4\" fill=\"#fef2f2\" stroke=\"#ef4444\"/>\n      <text x=\"360\" y=\"147\" text-anchor=\"middle\" font-size=\"10.5\" font-weight=\"700\" fill=\"#991b1b\">+ Alkali: 2NaOH</text>\n      <text x=\"360\" y=\"163\" text-anchor=\"middle\" font-size=\"10\" fill=\"#334155\">→ 2NaAlO₂ + H₂O (Acts as Acid)</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is amphoteric; its behaviour cannot be classified as exclusively basic or exclusively acidic."
+      },
+      {
+        "key": "B",
+        "text": "It is a neutral oxide because it reacts with two different substances."
+      },
+      {
+        "key": "C",
+        "text": "It is exclusively acidic because aluminium is a metal."
+      },
+      {
+        "key": "D",
+        "text": "It is exclusively basic because all metal oxides react only with acids."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "An amphoteric oxide reacts with both acids and bases. Aluminium oxide is a standard example. Option D is an overgeneralisation: metal oxides are not all exclusively basic.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "2fe75d89ed33a11ba6e7110b39e9731731f92e2ad910f927dac5b0bb303bb034",
+    "question_skeleton": "figure aluminium oxide reacting with both an acid and a base div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b al o div span aluminium oxide span div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 icon name arrow down color b91c1c size xl div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b acid div div style font size 0 85rem color 64748b margin top 2px reacts div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 icon name arrow down color 1d4ed8 size xl div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b base div div style font size 0 85rem color 64748b margin top 2px reacts div div div div div a student observes that aluminium oxide reacts with both acids and bases which conclusion is justified",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_15_2fe75d",
+    "vaultHash": "2fe75d89ed33a11ba6e7110b39e9731731f92e2ad910f927dac5b0bb303bb034",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-2vv4kvg",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Comparing atomic size and metallic character",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "Refer to the periodic trends diagram. Which statement correctly describes the general variation of atomic radius and metallic character across a period and down a group?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 200\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\">\n      <text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">Periodic Trends: Atomic Radius &amp; Metallic Character</text>\n      <defs>\n        <marker id=\"arrDec\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\">\n          <path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#dc2626\"/>\n        </marker>\n        <marker id=\"arrInc\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\">\n          <path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#16a34a\"/>\n        </marker>\n      </defs>\n      <!-- Across Period -->\n      <line x1=\"120\" y1=\"65\" x2=\"380\" y2=\"65\" stroke=\"#dc2626\" stroke-width=\"2.5\" marker-end=\"url(#arrDec)\"/>\n      <text x=\"250\" y=\"55\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#dc2626\">Across a Period (Left to Right) →</text>\n      <rect x=\"140\" y=\"75\" width=\"220\" height=\"24\" rx=\"3\" fill=\"#fee2e2\"/>\n      <text x=\"250\" y=\"91\" text-anchor=\"middle\" font-size=\"10.5\" font-weight=\"600\" fill=\"#991b1b\">Both Radius &amp; Metallic Character DECREASE</text>\n      <!-- Down Group -->\n      <line x1=\"80\" y1=\"70\" x2=\"80\" y2=\"175\" stroke=\"#16a34a\" stroke-width=\"2.5\" marker-end=\"url(#arrInc)\"/>\n      <text x=\"75\" y=\"125\" text-anchor=\"middle\" transform=\"rotate(-90 75 125)\" font-size=\"10.5\" font-weight=\"700\" fill=\"#16a34a\">Down Group ↓</text>\n      <rect x=\"140\" y=\"130\" width=\"220\" height=\"42\" rx=\"4\" fill=\"#dcfce7\" stroke=\"#16a34a\"/>\n      <text x=\"250\" y=\"147\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#166534\">Down a Group (Top to Bottom):</text>\n      <text x=\"250\" y=\"163\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#14532d\">Both Radius &amp; Metallic Character INCREASE</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both atomic radius and metallic character increase because nuclear charge increases."
+      },
+      {
+        "key": "B",
+        "text": "Atomic radius decreases, but metallic character increases because atoms hold their electrons more strongly."
+      },
+      {
+        "key": "C",
+        "text": "Atomic radius increases while metallic character decreases because more electrons enter the outermost shell."
+      },
+      {
+        "key": "D",
+        "text": "Atomic radius and metallic character generally decrease because increasing nuclear attraction makes electron loss less favourable."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Across Period 3, increasing nuclear charge pulls electrons closer, reducing atomic radius. The stronger attraction also makes electron loss more difficult, so metallic character generally decreases. Option B reverses the metallic trend.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "59729c0840535b7303923219ef20cff56bca2f191b2c6d2269e485aaa28bc863",
+    "question_skeleton": "figure qualitative trends across period 3 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span atomic radius span div style display flex flex wrap wrap gap 8px align items center each e na w 52 e mg w 45 e al w 38 e si w 32 e p w 27 e s w 23 e cl w 19 as p div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font size 0 85rem color 64748b margin top 2px p e div div each div hr style border 0 border top 1px solid e2e8f0 margin 8px 0 span metallic character span div style display flex flex wrap wrap gap 8px align items center each e na c ea9a35 e mg c ebaa55 e al c f0bf7d e si c b8d6b0 e p c 8ccba2 e s c 5eb78d e cl c 299e70 as p div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span p e span div each div div style font size 0 85rem color 64748b margin top 2px qualitative representation both atomic radius and metallic character generally decrease across period 3 div div which interpretation is correct",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_16_59729c",
+    "vaultHash": "59729c0840535b7303923219ef20cff56bca2f191b2c6d2269e485aaa28bc863",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-p2vg6nr",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Predicting an ion's charge from a Lewis-dot diagram",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "Refer to the electron transfer diagram between magnesium and oxygen. Which explanation correctly follows from the transfer to form Mg²⁺ and O²⁻?",
+    "diagramSvg": "<svg viewBox=\"0 0 440 180\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\">\n      <text x=\"220\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">Electron Transfer: Formation of Magnesium Oxide (MgO)</text>\n      <!-- Mg Atom -->\n      <circle cx=\"80\" cy=\"80\" r=\"30\" fill=\"#dbeafe\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n      <text x=\"80\" y=\"85\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1e40af\">Mg</text>\n      <circle cx=\"118\" cy=\"73\" r=\"4\" fill=\"#dc2626\"/><circle cx=\"118\" cy=\"87\" r=\"4\" fill=\"#dc2626\"/>\n      <text x=\"80\" y=\"126\" text-anchor=\"middle\" font-size=\"10\" fill=\"#475569\">Mg: 2, 8, 2</text>\n      <!-- Arrows -->\n      <defs>\n        <marker id=\"arrMg\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\">\n          <path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#dc2626\"/>\n        </marker>\n      </defs>\n      <path d=\"M 125 73 Q 160 55 195 68\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" marker-end=\"url(#arrMg)\"/>\n      <path d=\"M 125 87 Q 160 100 195 87\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" marker-end=\"url(#arrMg)\"/>\n      <!-- O Atom -->\n      <circle cx=\"230\" cy=\"80\" r=\"30\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n      <text x=\"230\" y=\"85\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#991b1b\">O</text>\n      <text x=\"230\" y=\"126\" text-anchor=\"middle\" font-size=\"10\" fill=\"#475569\">O: 2, 6</text>\n      <!-- Resulting Ions -->\n      <g transform=\"translate(340, 80)\">\n        <rect x=\"-35\" y=\"-30\" width=\"70\" height=\"60\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#2563eb\"/>\n        <text x=\"0\" y=\"0\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1e40af\">[Mg]²⁺</text>\n        <text x=\"0\" y=\"18\" text-anchor=\"middle\" font-size=\"9\" fill=\"#2563eb\">[2, 8]</text>\n      </g>\n      <text x=\"220\" y=\"165\" text-anchor=\"middle\" font-size=\"10.5\" font-weight=\"600\" fill=\"#15803d\">Electrostatic ionic bond formed between Mg²⁺ and O²⁻</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Magnesium gains two electrons, oxygen loses two, and the formula is Mg₂O."
+      },
+      {
+        "key": "B",
+        "text": "Magnesium loses two electrons, oxygen gains two, and the resulting ions have equal and opposite charges, giving MgO."
+      },
+      {
+        "key": "C",
+        "text": "Magnesium loses one electron and oxygen gains one, giving MgO₂."
+      },
+      {
+        "key": "D",
+        "text": "Magnesium and oxygen share three pairs of electrons to form a triple covalent bond."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Magnesium has two valence electrons and forms Mg²⁺ by losing both. Oxygen gains two electrons to form O²⁻. The charges balance in a 1:1 ratio, so the formula is MgO. Option A reverses the direction of electron transfer.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "9b7bae9946f3e532a17c09016083af7403bca0d825b2b5c21796a117da1cffd2",
+    "question_skeleton": "figure electron dot representation of magnesium oxide formation div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b mg div div style display flex flex wrap wrap gap 8px align items center div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div div style font size 0 85rem color 64748b margin top 2px 2 valence e div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 icon name arrow right size 2xl color d97706 div style font size 0 85rem color 64748b margin top 2px transfer div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b o div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 each 1 2 3 4 5 6 as n div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div each div div style font size 0 85rem color 64748b margin top 2px 6 valence e div div div div div style display flex flex wrap wrap gap 8px align items center div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b mg div div icon name plus color 64748b size lg div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b o div div div div which explanation correctly follows from the electron transfer",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_17_9b7bae",
+    "vaultHash": "9b7bae9946f3e532a17c09016083af7403bca0d825b2b5c21796a117da1cffd2",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-qflq0az",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Locating the block from the final subshell",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "An element has the outer electronic configuration 3s² 3p⁵. Which block and group does it belong to in the modern periodic table?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\">\n    <text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">Periodic Properties &amp; Trends: Locating the block from the final subshell</text>\n    <rect x=\"30\" y=\"45\" width=\"400\" height=\"100\" rx=\"6\" fill=\"#ffffff\" stroke=\"#e2e8f0\"/>\n    <text x=\"230\" y=\"75\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#2563eb\">Modern Periodic Table Schematic</text>\n    <g transform=\"translate(50, 95)\">\n      <rect x=\"0\" y=\"0\" width=\"60\" height=\"35\" rx=\"3\" fill=\"#dbeafe\" stroke=\"#3b82f6\"/>\n      <text x=\"30\" y=\"22\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"700\" fill=\"#1e40af\">s-block</text>\n      <rect x=\"75\" y=\"10\" width=\"170\" height=\"25\" rx=\"3\" fill=\"#fef3c7\" stroke=\"#f59e0b\"/>\n      <text x=\"160\" y=\"27\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"700\" fill=\"#92400e\">d-block</text>\n      <rect x=\"260\" y=\"0\" width=\"90\" height=\"35\" rx=\"3\" fill=\"#d1fae5\" stroke=\"#10b981\"/>\n      <text x=\"305\" y=\"22\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"700\" fill=\"#065f46\">p-block</text>\n    </g>\n    <text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Properties recur at regular intervals governed by outer electronic configurations</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "s-block, Group 2"
+      },
+      {
+        "key": "B",
+        "text": "d-block, Group 7"
+      },
+      {
+        "key": "C",
+        "text": "p-block, Group 17"
+      },
+      {
+        "key": "D",
+        "text": "p-block, Group 15"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The last electron enters a p-subshell, so the element belongs to the p-block. Seven valence electrons place it in Group 10+7=17. With three occupied shells, it is in Period 3. Option D incorrectly assigns the group corresponding to five valence electrons.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "b56a1320ea4fae42d9c122669eb81cac56e8f4074cf495d26f4092dc77dfe801",
+    "question_skeleton": "figure colour coded regions of the long form periodic table div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display flex flex wrap wrap gap 8px align items center div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b s div div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b d div div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b p div div div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b f block two detached rows div div div an element has the outer electronic configuration 3s 2 3p 5 which block and group does it belong to",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_18_b56a13",
+    "vaultHash": "b56a1320ea4fae42d9c122669eb81cac56e8f4074cf495d26f4092dc77dfe801",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-j55c1r1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Understanding the relative sizes of an isoelectronic series",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "Refer to the isoelectronic series shown (each ion contains 10 electrons: N³⁻, O²⁻, F⁻, Na⁺, Mg²⁺, Al³⁺). Which statement correctly accounts for their decreasing size?",
+    "diagramSvg": "<svg viewBox=\"0 0 480 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\">\n      <text x=\"240\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">Isoelectronic Series: 10-Electron Ions Size Comparison</text>\n      <!-- N3- (171 pm) -->\n      <circle cx=\"60\" cy=\"85\" r=\"32\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n      <text x=\"60\" y=\"89\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#991b1b\">N³⁻</text>\n      <text x=\"60\" y=\"130\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">171 pm (Z=7)</text>\n      <!-- O2- (140 pm) -->\n      <circle cx=\"145\" cy=\"85\" r=\"27\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n      <text x=\"145\" y=\"89\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#991b1b\">O²⁻</text>\n      <text x=\"145\" y=\"130\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">140 pm (Z=8)</text>\n      <!-- F- (133 pm) -->\n      <circle cx=\"225\" cy=\"85\" r=\"24\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n      <text x=\"225\" y=\"89\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#991b1b\">F⁻</text>\n      <text x=\"225\" y=\"130\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">133 pm (Z=9)</text>\n      <!-- Na+ (102 pm) -->\n      <circle cx=\"300\" cy=\"85\" r=\"20\" fill=\"#dbeafe\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n      <text x=\"300\" y=\"89\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#1e40af\">Na⁺</text>\n      <text x=\"300\" y=\"130\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">102 pm (Z=11)</text>\n      <!-- Mg2+ (72 pm) -->\n      <circle cx=\"370\" cy=\"85\" r=\"16\" fill=\"#dbeafe\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n      <text x=\"370\" y=\"89\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"800\" fill=\"#1e40af\">Mg²⁺</text>\n      <text x=\"370\" y=\"130\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">72 pm (Z=12)</text>\n      <!-- Al3+ (54 pm) -->\n      <circle cx=\"435\" cy=\"85\" r=\"13\" fill=\"#dbeafe\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n      <text x=\"435\" y=\"88\" text-anchor=\"middle\" font-size=\"9\" font-weight=\"800\" fill=\"#1e40af\">Al³⁺</text>\n      <text x=\"435\" y=\"130\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#475569\">54 pm (Z=13)</text>\n      <!-- Arrow -->\n      <defs>\n        <marker id=\"arrIso\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\">\n          <path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#dc2626\"/>\n        </marker>\n      </defs>\n      <line x1=\"50\" y1=\"155\" x2=\"440\" y2=\"155\" stroke=\"#dc2626\" stroke-width=\"2.5\" marker-end=\"url(#arrIso)\"/>\n      <text x=\"240\" y=\"175\" text-anchor=\"middle\" font-size=\"10.5\" font-weight=\"700\" fill=\"#b91c1c\">Size Decreases as Nuclear Charge Z Increases (Same 10 electrons)</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "O²⁻ > F⁻ > Na⁺ > Mg²⁺"
+      },
+      {
+        "key": "B",
+        "text": "Mg²⁺ > Na⁺ > F⁻ > O²⁻"
+      },
+      {
+        "key": "C",
+        "text": "F⁻ > O²⁻ > Mg²⁺ > Na⁺"
+      },
+      {
+        "key": "D",
+        "text": "Na⁺ > Mg²⁺ > O²⁻ > F⁻"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "All four ions are isoelectronic, each containing 10 electrons. As nuclear charge increases from O (8 protons) to Mg (12 protons), the same electron cloud is pulled more strongly inward. Thus O²⁻ is largest and Mg²⁺ is smallest. Option B reverses the correct order.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "f9c1fce4e9251d7e38d14008ffdcb4bdedbddad8cea3bf0b0bcede6b001172fb",
+    "question_skeleton": "figure four ions with the same number of electrons div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span each ion contains 10 electrons span div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 each ion o z 8 c 86efac d 66 ion f z 9 c 93c5fd d 59 ion na z 11 c fdba74 d 48 ion mg z 12 c c4b5fd d 42 as e div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span e ion span div div style font size 0 85rem color 64748b margin top 2px z e z div div div each div div style font size 0 85rem color 64748b margin top 2px illustrative size ranking only all four ions have the ne electron configuration div div which order correctly ranks these ions from largest to smallest",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_19_f9c1fc",
+    "vaultHash": "f9c1fce4e9251d7e38d14008ffdcb4bdedbddad8cea3bf0b0bcede6b001172fb",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-96ri6cy",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Comparing a Mendeleev table with the modern table",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic"
+    ],
+    "question": "In Mendeleev's periodic table, tellurium (127.6) was placed before iodine (126.9). How was this atomic-mass anomaly resolved in the modern periodic table?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\">\n    <text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">Periodic Properties &amp; Trends: Comparing a Mendeleev table with the modern table</text>\n    <rect x=\"30\" y=\"45\" width=\"400\" height=\"100\" rx=\"6\" fill=\"#ffffff\" stroke=\"#e2e8f0\"/>\n    <text x=\"230\" y=\"75\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#2563eb\">Modern Periodic Table Schematic</text>\n    <g transform=\"translate(50, 95)\">\n      <rect x=\"0\" y=\"0\" width=\"60\" height=\"35\" rx=\"3\" fill=\"#dbeafe\" stroke=\"#3b82f6\"/>\n      <text x=\"30\" y=\"22\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"700\" fill=\"#1e40af\">s-block</text>\n      <rect x=\"75\" y=\"10\" width=\"170\" height=\"25\" rx=\"3\" fill=\"#fef3c7\" stroke=\"#f59e0b\"/>\n      <text x=\"160\" y=\"27\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"700\" fill=\"#92400e\">d-block</text>\n      <rect x=\"260\" y=\"0\" width=\"90\" height=\"35\" rx=\"3\" fill=\"#d1fae5\" stroke=\"#10b981\"/>\n      <text x=\"305\" y=\"22\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"700\" fill=\"#065f46\">p-block</text>\n    </g>\n    <text x=\"230\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#64748b\">Properties recur at regular intervals governed by outer electronic configurations</text>\n  </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tellurium has a smaller atomic number than iodine only when neutron numbers are ignored."
+      },
+      {
+        "key": "B",
+        "text": "Iodine is a noble gas, so it must be placed after tellurium regardless of atomic number."
+      },
+      {
+        "key": "C",
+        "text": "Atomic mass is the fundamental basis of the modern periodic table, but iodine's mass is rounded incorrectly."
+      },
+      {
+        "key": "D",
+        "text": "Tellurium has atomic number 52 and iodine 53; modern periodic classification follows atomic number, resolving the apparent mass-order anomaly."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Tellurium has atomic number 52 and iodine has atomic number 53. The modern periodic table follows increasing atomic number, not strictly increasing atomic mass. Option C incorrectly describes atomic mass as the modern basis.\n\n---\n\n**Batch 1 complete: Diagrammatic Questions 1–20.**\n\nReply **YES for the next 20.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table diagrammatic",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "90dc83cdda5521564f731f50f0c0d2ff2b742dfb7d02cdba59c2ec084d23d939",
+    "question_skeleton": "figure an atomic mass anomaly and its modern resolution div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b historical ordering div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span tellurium span div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b 127 6 div div icon name arrow down color 92400e size lg div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span iodine span div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b 126 9 div div div style font size 0 85rem color 64748b margin top 2px atomic mass order conflicts with chemical placement div div div div style display grid grid template columns repeat auto fit minmax 180px 1fr gap 10px margin 8px 0 div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b modern ordering div div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span te span div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b z 52 div div icon name arrow down color 174a8b size lg div style background f8fafc border 1px solid cbd5e1 border radius 8px padding 12px margin 10px 0 span i span div style font weight 700 font size 1 05rem margin bottom 4px color 1e293b z 53 div div div style font size 0 85rem color 64748b margin top 2px atomic number order matches their correct positions div div div div div why does the modern periodic table place tellurium before iodine despite their relative atomic masses",
+    "vaultSourceId": "qb_chem_periodic_table_diagrammatic_20_90dc83",
+    "vaultHash": "90dc83cdda5521564f731f50f0c0d2ff2b742dfb7d02cdba59c2ec084d23d939",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-ogjxlx7",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Which statement best expresses the modern periodic law?",
+    "question_type": "theoretical",
+    "types_supported": [
+      "theoretical"
+    ],
+    "question": "Which statement best expresses the modern periodic law?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The properties of elements are periodic functions of their atomic numbers"
+      },
+      {
+        "key": "B",
+        "text": "The properties of elements are periodic functions of their atomic masses alone"
+      },
+      {
+        "key": "C",
+        "text": "All elements in a period have the same number of valence electrons"
+      },
+      {
+        "key": "D",
+        "text": "All elements in a group have the same number of electron shells"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When elements are arranged in increasing atomic number, their physical and chemical properties recur periodically because of recurring patterns in electronic configuration.\n\n**Tempting distractor:** Option B expresses the older mass-based approach rather than the modern periodic law.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "9d46650f2681617770c79e0d5ff04bca12524a3abddcff80281a564bf6d3af61",
+    "question_skeleton": "which statement best expresses the modern periodic law",
+    "vaultSourceId": "qb_chem_periodic_table_theoretical_6_9d4665",
+    "vaultHash": "9d46650f2681617770c79e0d5ff04bca12524a3abddcff80281a564bf6d3af61",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-gu0xyt1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "An element has the electronic configuration 2,8,3. Which position is correct?",
+    "question_type": "theoretical",
+    "types_supported": [
+      "theoretical"
+    ],
+    "question": "An element has the electronic configuration 2,8,3. Which position is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Period 2, Group 13"
+      },
+      {
+        "key": "B",
+        "text": "Period 3, Group 3"
+      },
+      {
+        "key": "C",
+        "text": "Period 2, Group 3"
+      },
+      {
+        "key": "D",
+        "text": "Period 3, Group 13"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Three occupied shells place the element in Period 3. Its three valence electrons identify it as a Group 13 element. The element is aluminium.\n\n**Tempting distractor:** Option B uses the valence-electron count as a modern group number, which is incorrect for Group 13.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "690fc3b08562c0f463704a4b9612c8958c33ea261218baa1c0f1f63f0a04e568",
+    "question_skeleton": "an element has the electronic configuration 2 8 3 which position is correct",
+    "vaultSourceId": "qb_chem_periodic_table_theoretical_7_690fc3",
+    "vaultHash": "690fc3b08562c0f463704a4b9612c8958c33ea261218baa1c0f1f63f0a04e568",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-opqd1el",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Which statement about periods is correct?",
+    "question_type": "theoretical",
+    "types_supported": [
+      "theoretical"
+    ],
+    "question": "Which statement about periods is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Every period contains exactly eight elements"
+      },
+      {
+        "key": "B",
+        "text": "The period number generally indicates the number of occupied principal electron shells"
+      },
+      {
+        "key": "C",
+        "text": "Elements in the same period always have the same number of valence electrons"
+      },
+      {
+        "key": "D",
+        "text": "The first period contains eight elements"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For ordinary ground-state configurations, the period number corresponds to the highest occupied principal shell. Periods differ in length; the first period has only two elements.\n\n**Tempting distractor:** Option C confuses a period with a group. Elements in the same group generally share similar valence-shell patterns.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "cbbd2a44199b58a09a1f882df74d8303dd633c9b86a26b2a4d87e89252c92dd0",
+    "question_skeleton": "which statement about periods is correct",
+    "vaultSourceId": "qb_chem_periodic_table_theoretical_8_cbbd2a",
+    "vaultHash": "cbbd2a44199b58a09a1f882df74d8303dd633c9b86a26b2a4d87e89252c92dd0",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-mzgt883",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Which element belongs to the p-block?",
+    "question_type": "theoretical",
+    "types_supported": [
+      "theoretical"
+    ],
+    "question": "Which element belongs to the p-block?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium"
+      },
+      {
+        "key": "B",
+        "text": "Magnesium"
+      },
+      {
+        "key": "C",
+        "text": "Chlorine"
+      },
+      {
+        "key": "D",
+        "text": "Calcium"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Chlorine has the outer electronic configuration 3s² 3p^5, so its differentiating electron enters a p-subshell.\n\n**Tempting distractor:** Sodium and magnesium are s-block elements because their outermost electrons occupy an s-subshell.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "72039c7832232c639344ae6c3cc58fd6cc729124d78b29413b3d023fae5431ad",
+    "question_skeleton": "which element belongs to the p block",
+    "vaultSourceId": "qb_chem_periodic_table_theoretical_9_72039c",
+    "vaultHash": "72039c7832232c639344ae6c3cc58fd6cc729124d78b29413b3d023fae5431ad",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-jqaskda",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Which statement about the f-block is correct?",
+    "question_type": "theoretical",
+    "types_supported": [
+      "theoretical"
+    ],
+    "question": "Which statement about the f-block is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It includes the lanthanides and actinides, associated with the filling of f-subshells"
+      },
+      {
+        "key": "B",
+        "text": "It consists exclusively of Group 1 elements"
+      },
+      {
+        "key": "C",
+        "text": "It contains only elements in Periods 1 and 2"
+      },
+      {
+        "key": "D",
+        "text": "It includes all elements whose outermost shell contains exactly eight electrons"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The lanthanide and actinide series are conventionally displayed separately below the main body of the periodic table to keep the table compact. They are associated with the filling of 4f and 5f subshells, respectively.\n\n**Tempting distractor:** Option D describes neither the defining feature nor the membership of the f-block.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table theoretical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "dbffd1a35c9720550f74358825f46a68ddeea674c18b746d6c5d3a3952c7b5cd",
+    "question_skeleton": "which statement about the f block is correct",
+    "vaultSourceId": "qb_chem_periodic_table_theoretical_10_dbffd1",
+    "vaultHash": "dbffd1a35c9720550f74358825f46a68ddeea674c18b746d6c5d3a3952c7b5cd",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-m7sjmb4",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Board-style Atomic number and periodic identity",
+    "question_type": "complex",
+    "types_supported": [
+      "complex"
+    ],
+    "question": "Two neutral atoms have atomic numbers 11 and 17. Which statement correctly compares them?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both are metals because they are in Period 3"
+      },
+      {
+        "key": "B",
+        "text": "The first is a nonmetal and the second is a metal"
+      },
+      {
+        "key": "C",
+        "text": "Both have seven valence electrons"
+      },
+      {
+        "key": "D",
+        "text": "The first is a metal that tends to lose one electron, while the second is a nonmetal that tends to gain one electron"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Atomic number 11 is sodium, with configuration 2,8,1. Atomic number 17 is chlorine, with configuration 2,8,7. Sodium commonly forms Na⁺, while chlorine commonly forms Cl⁻.\n\n**Tempting distractor:** Option A incorrectly assumes all elements in a period share the same metallic character.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "7acc0ed824d23f8be62ada9db5ca135402528e3b2adf8d8403eef023ecb039b7",
+    "question_skeleton": "two neutral atoms have atomic numbers 11 and 17 which statement correctly compares them",
+    "vaultSourceId": "qb_chem_periodic_table_complex_6_7acc0e",
+    "vaultHash": "7acc0ed824d23f8be62ada9db5ca135402528e3b2adf8d8403eef023ecb039b7",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-tsrdmwo",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Board-style Inferring oxide character",
+    "question_type": "complex",
+    "types_supported": [
+      "complex"
+    ],
+    "question": "Across Period 3, the oxides of elements generally change from basic to amphoteric and then acidic. Which sequence best illustrates this pattern?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Na_2O basic; Al_2O₃ amphoteric; SO₃ acidic"
+      },
+      {
+        "key": "B",
+        "text": "Na_2O acidic; Al_2O₃ basic; SO₃ amphoteric"
+      },
+      {
+        "key": "C",
+        "text": "Na_2O amphoteric; Al_2O₃ acidic; SO₃ basic"
+      },
+      {
+        "key": "D",
+        "text": "All three oxides are basic"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Sodium oxide is basic, aluminium oxide is amphoteric, and sulfur trioxide is acidic. This reflects the broad shift from metallic to nonmetallic character across the period.\n\n**Tempting distractor:** Option B reverses the established nature of the oxides.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "cff70af7f1e62c30671ddfb9ca868c7c703cdd5adf252cf523fb4f6e0eeb7c25",
+    "question_skeleton": "across period 3 the oxides of elements generally change from basic to amphoteric and then acidic which sequence best illustrates this pattern",
+    "vaultSourceId": "qb_chem_periodic_table_complex_7_cff70a",
+    "vaultHash": "cff70af7f1e62c30671ddfb9ca868c7c703cdd5adf252cf523fb4f6e0eeb7c25",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-7e28ltx",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Board-style Comparing an atom with its ions",
+    "question_type": "complex",
+    "types_supported": [
+      "complex"
+    ],
+    "question": "Which sequence gives the correct order of size for the species O^, O, and O^?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "O⁺ > O > O²⁻"
+      },
+      {
+        "key": "B",
+        "text": "O > O²⁻ > O⁺"
+      },
+      {
+        "key": "C",
+        "text": "O²⁻ > O > O⁺"
+      },
+      {
+        "key": "D",
+        "text": "O > O⁺ > O²⁻"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Gaining electrons to form O²⁻ increases electron–electron repulsion and expands the electron cloud. Losing an electron to form O⁺ generally contracts it. Thus, O²⁻ is largest and O⁺ is smallest.\n\n**Tempting distractor:** Option A reverses the effect of electron gain and loss on size.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "3e5aaf7c27649d8be7595b43e9bb10e070ab878f4d2aa62e738f674ec8db31e9",
+    "question_skeleton": "which sequence gives the correct order of size for the species o 2 o and o",
+    "vaultSourceId": "qb_chem_periodic_table_complex_8_3e5aaf",
+    "vaultHash": "3e5aaf7c27649d8be7595b43e9bb10e070ab878f4d2aa62e738f674ec8db31e9",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-u54pekm",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Board-style Distinguishing electron affinity and electronegativity",
+    "question_type": "complex",
+    "types_supported": [
+      "complex"
+    ],
+    "question": "Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Both properties have exactly the same definition"
+      },
+      {
+        "key": "B",
+        "text": "Electron affinity concerns the energy change when a gaseous atom gains an electron, while electronegativity describes attraction for shared bonding electrons"
+      },
+      {
+        "key": "C",
+        "text": "Electronegativity is the energy needed to remove an electron from an isolated gaseous atom"
+      },
+      {
+        "key": "D",
+        "text": "Electron affinity is determined only by the number of neutrons"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Electron affinity relates to the energy change accompanying electron gain by an isolated gaseous atom. Electronegativity concerns the relative attraction for shared electrons in a chemical bond.\n\n**Tempting distractor:** Option C defines ionisation energy, not electronegativity.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "a4fb46bfb7dd477d43bf3fc62f464e9b8a8aea6157ad5a13ef518eed3d0d0117",
+    "question_skeleton": "which statement is correct",
+    "vaultSourceId": "qb_chem_periodic_table_complex_9_a4fb46",
+    "vaultHash": "a4fb46bfb7dd477d43bf3fc62f464e9b8a8aea6157ad5a13ef518eed3d0d0117",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-ftm2j7y",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Board-style Explaining the modern periodic law",
+    "question_type": "complex",
+    "types_supported": [
+      "complex"
+    ],
+    "question": "Why is atomic number a more reliable basis for periodic classification than atomic mass?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Atomic number changes when an atom forms an ion"
+      },
+      {
+        "key": "B",
+        "text": "Atomic mass is identical for all isotopes"
+      },
+      {
+        "key": "C",
+        "text": "Atomic number determines only the physical state of an element"
+      },
+      {
+        "key": "D",
+        "text": "Atomic number identifies nuclear charge and, in a neutral atom, the electron count that determines its electronic configuration"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Atomic number equals the number of protons. In a neutral atom, it also equals the number of electrons. This determines the electronic configuration and explains the periodic recurrence of chemical properties. Atomic mass does not always give the correct order for elements with anomalous mass relationships.\n\n**Tempting distractor:** Option B is false because isotopes of the same element have different mass numbers.",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table complex",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "fa4618e0361b6a33260534f1fc0d9f248e90bc08d2ca02c73fae59c716d9f8d7",
+    "question_skeleton": "why is atomic number a more reliable basis for periodic classification than atomic mass",
+    "vaultSourceId": "qb_chem_periodic_table_complex_10_fa4618",
+    "vaultHash": "fa4618e0361b6a33260534f1fc0d9f248e90bc08d2ca02c73fae59c716d9f8d7",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-85t1dyv",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Inferring an element from its shell count and valence electrons",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical"
+    ],
+    "question": "A neutral representative element has four occupied shells and two valence electrons. Which option identifies its period and group correctly?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Period 2, Group 2"
+      },
+      {
+        "key": "B",
+        "text": "Period 4, Group 2"
+      },
+      {
+        "key": "C",
+        "text": "Period 4, Group 14"
+      },
+      {
+        "key": "D",
+        "text": "Period 2, Group 14"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Four occupied shells place the element in Period 4. Two valence electrons place a representative s-block element in Group 2. The element is calcium, with configuration 2,8,8,2.\n\nOption C incorrectly adds 10 to the valence-electron count even though this element belongs to the s-block.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "d150d0f6ef42b5d3535c72c0c689022767bd69963d7d59b58b98cb7cf7deafe5",
+    "question_skeleton": "a neutral representative element has four occupied shells and two valence electrons which option identifies its period and group correctly",
+    "vaultSourceId": "qb_chem_periodic_table_numerical_6_d150d0",
+    "vaultHash": "d150d0f6ef42b5d3535c72c0c689022767bd69963d7d59b58b98cb7cf7deafe5",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-930aszl",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Calculating electrons gained by a halogen",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical"
+    ],
+    "question": "A neutral atom has atomic number 35. How many electrons must it gain to attain the electronic configuration of the nearest noble gas?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "8"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "- Atomic number 35 identifies bromine.\n- Its configuration is 2,8,18,7.\n- Gaining one electron gives 2,8,18,8, the configuration of krypton.\n\nOption D confuses the number of electrons already present in the outer shell with the number that must be gained.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "daaa6d7618ac50eff6feccbf46ff7d3825bd9c34b637d86fba2da517c89b7bd0",
+    "question_skeleton": "a neutral atom has atomic number 35 how many electrons must it gain to attain the electronic configuration of the nearest noble gas",
+    "vaultSourceId": "qb_chem_periodic_table_numerical_7_daaa6d",
+    "vaultHash": "daaa6d7618ac50eff6feccbf46ff7d3825bd9c34b637d86fba2da517c89b7bd0",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-r337gl5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Comparing isoelectronic ions",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical"
+    ],
+    "question": "Consider O^, F⁻, Na⁺, and Mg^. Each has 10 electrons. Which order correctly arranges them from largest to smallest?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mg²⁺>Na⁺>F⁻>O²⁻"
+      },
+      {
+        "key": "B",
+        "text": "F⁻>O²⁻>Na⁺>Mg²⁺"
+      },
+      {
+        "key": "C",
+        "text": "O²⁻>F⁻>Na⁺>Mg²⁺"
+      },
+      {
+        "key": "D",
+        "text": "Na⁺>Mg²⁺>O²⁻>F⁻"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "All four ions have 10 electrons. Their nuclear charges increase in the order O (8), F (9), Na (11), Mg (12). Greater nuclear charge pulls the same number of electrons more strongly inward, giving the stated size order.\n\nOption A reverses the effect of nuclear charge on the size of an isoelectronic series.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "f33417cb6fdaad03297c86c8ef7159a8cef0bcc9ab7c70fbc5095edf5df90d79",
+    "question_skeleton": "consider o 2 f na and mg 2 each has 10 electrons which order correctly arranges them from largest to smallest",
+    "vaultSourceId": "qb_chem_periodic_table_numerical_8_f33417",
+    "vaultHash": "f33417cb6fdaad03297c86c8ef7159a8cef0bcc9ab7c70fbc5095edf5df90d79",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-3n4wlt5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Determining the number of neutrons",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical"
+    ],
+    "question": "An isotope of chlorine is represented as {}^_Cl. How many neutrons does its nucleus contain?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "17"
+      },
+      {
+        "key": "B",
+        "text": "20"
+      },
+      {
+        "key": "C",
+        "text": "37"
+      },
+      {
+        "key": "D",
+        "text": "54"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Neutrons=Mass number-Atomic number\n\n\n\n=37-17=20\n\n\nOption A gives the number of protons, not neutrons. The atomic number remains 17 for every chlorine isotope.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "eb40038ddd0fc465e3a188c57bc9f7999b9d52c489e95d2036927af110b232f5",
+    "question_skeleton": "an isotope of chlorine is represented as 37 17 mathrm cl how many neutrons does its nucleus contain",
+    "vaultSourceId": "qb_chem_periodic_table_numerical_9_eb4003",
+    "vaultHash": "eb40038ddd0fc465e3a188c57bc9f7999b9d52c489e95d2036927af110b232f5",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
+  },
+  {
+    "globalId": "Q-VAULT-07upncm",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "SCIENCE",
+    "subSubjectName": "CHEMISTRY",
+    "sectionName": "SUBJECTIVE",
+    "chapter": "Periodic Table",
+    "title": "Finding the next element in the same group",
+    "question_type": "numerical",
+    "types_supported": [
+      "numerical"
+    ],
+    "question": "Potassium has atomic number 19. Calcium has atomic number 20. The next element after calcium in Period 4 is scandium, atomic number 21. Which element is the next member of Group 1 after potassium, and what is its atomic number?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Calcium, 20"
+      },
+      {
+        "key": "B",
+        "text": "Scandium, 21"
+      },
+      {
+        "key": "C",
+        "text": "Rubidium, 37"
+      },
+      {
+        "key": "D",
+        "text": "Sodium, 11"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Group 1 contains Li (3), Na (11), K (19), and Rb (37). The next Group 1 element after potassium is rubidium, atomic number 37. One must not simply add one to potassium's atomic number because calcium through krypton occupy the intervening positions.\n\n---",
+    "concept_name": "Periodic Table, Periodic Properties and Variations in Properties",
+    "concept_tag": "periodic_table numerical",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Chemistry Master Vault",
+    "source_status": "verified",
+    "normalized_question_hash": "ec8e8f697fb6751690468ddeb28c72dbc5acce47c9928104a924d5545b28bc98",
+    "question_skeleton": "potassium has atomic number 19 calcium has atomic number 20 the next element after calcium in period 4 is scandium atomic number 21 which element is the next member of group 1 after potassium and what is its atomic number",
+    "vaultSourceId": "qb_chem_periodic_table_numerical_10_ec8e8f",
+    "vaultHash": "ec8e8f697fb6751690468ddeb28c72dbc5acce47c9928104a924d5545b28bc98",
+    "quality_score": 9.5,
+    "chapterName": "Periodic Table",
+    "createdAt": "2026-10-15T20:26:38.296Z"
   }
 ]

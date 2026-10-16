@@ -280,6 +280,35 @@ function loadBankForChapter(chapterName, subjectName = '', sectionName = '') {
   }
 }
 
+function getSectionType(sectionName = '', questionType = '') {
+  const rawSec = String(sectionName || '').trim().toUpperCase();
+  const qType = String(questionType || '').trim().toLowerCase();
+  if (rawSec.includes('CASE') || qType === 'case_based') return 'case_based';
+  if (rawSec.includes('ASSERTION') || qType === 'assertion_reasoning') return 'assertion_reasoning';
+  if (rawSec.includes('HOTS') || qType === 'hots') return 'hots';
+  return 'subjective';
+}
+
+function normalizeChapterKey(ch) {
+  const raw = String(ch || '').trim().toLowerCase();
+  if ( raw === 'hydrochlroric acid' || raw === 'hydrochloric acid' || raw === 'hydrogen chloride' ) return 'hydrochloric_acid_group';
+  if ( raw === 'work, energy and power' || raw === 'work energy and power' ) return 'work_energy_power_group';
+  if ( raw === 'refraction of light at plane surfaces' || raw === 'refraction of light' ) return 'refraction_plane_group';
+  if ( raw === 'refraction through a lens' || raw === 'refraction through lens' ) return 'refraction_lens_group';
+  if ( raw === 'household circuits' || raw === 'household electricity' ) return 'household_circuits_group';
+  if ( raw.startsWith('periodic table') || raw === 'periodic properties' ) return 'periodic_table_group';
+  if ( raw.startsWith('mole concept') ) return 'mole_concept_group';
+  return raw;
+}
+
+function isSameChapter(chA, chB) {
+  const rawA = String(chA || '').trim().toLowerCase();
+  const rawB = String(chB || '').trim().toLowerCase();
+  if (!rawA || !rawB) return false;
+  if (rawA === rawB) return true;
+  return normalizeChapterKey(rawA) === normalizeChapterKey(rawB);
+}
+
 /**
  * Assemble questions from the chapter question bank matching the user's counts.
  */
@@ -289,27 +318,36 @@ function assembleFromBank(chapter, requestedCounts, existingQuestions = [], cont
   const isAR = rawSec.includes('ASSERTION');
   const isHOTS = rawSec.includes('HOTS');
   const isCase = rawSec.includes('CASE');
+  const targetSecType = getSectionType(sectionName);
 
   const bank = loadBankForChapter(chapter, context.subjectName, sectionName);
   if (!bank || !Array.isArray(bank) || bank.length === 0) {
     return { available: false, questions: [] };
   }
 
-  // Filter out any questions already present in existingQuestions (check exact hash & skeleton)
+  // Only deduplicate against existing questions in the SAME chapter and SAME section type
+  const sameSectionExisting = (existingQuestions || []).filter(q => {
+    const qCh = q.chapter || q.chapterName || '';
+    const qSecType = getSectionType(q.sectionName, q.question_type || q.type);
+    return isSameChapter(qCh, chapter) && qSecType === targetSecType;
+  });
+
   const existingHashes = new Set(
-    existingQuestions.map(q => q.normalized_question_hash || computeQuestionHash(q.question))
+    sameSectionExisting.map(q => q.normalized_question_hash || computeQuestionHash(q.question))
+  );
+  const existingSourceIds = new Set(
+    sameSectionExisting.map(q => q.vaultSourceId || q.globalId).filter(Boolean)
   );
 
+  // Deduplicate internal bank items as well
+  const seenInPool = new Set();
   const availablePool = bank.filter(q => {
     const qHash = q.normalized_question_hash || computeQuestionHash(q.question);
-    if (existingHashes.has(qHash)) return false;
-
-    // Check near-duplicate Jaccard with existing questions
-    for (const prev of existingQuestions) {
-      if (computeJaccardSimilarity(q.question, prev.question) >= 0.85) {
-        return false;
-      }
-    }
+    const qId = q.globalId || qHash;
+    if (existingSourceIds.has(q.globalId) || existingHashes.has(qHash)) return false;
+    if (seenInPool.has(qId) || seenInPool.has(qHash)) return false;
+    seenInPool.add(qId);
+    seenInPool.add(qHash);
     return true;
   });
 
@@ -326,14 +364,15 @@ function assembleFromBank(chapter, requestedCounts, existingQuestions = [], cont
         ...cand,
         vaultSourceId: cand.globalId,
         vaultHash: cand.normalized_question_hash || computeQuestionHash(cand.question),
-        question_type: cand.question_type || targetType,
-        types_supported: cand.types_supported || [targetType, 'complex'],
+        question_type: targetType,
+        types_supported: cand.types_supported || [targetType],
         sectionName: targetSection,
         className: context.className || cand.className || 'Class 10',
         boardName: context.boardName || cand.boardName || 'ICSE',
-        subjectName: context.subjectName || cand.subjectName || 'Science',
-        subSubjectName: context.subSubjectName || cand.subSubjectName || 'Physics',
+        subjectName: (context.subjectName || cand.subjectName || 'SCIENCE').toUpperCase(),
+        subSubjectName: (context.subSubjectName || cand.subSubjectName || 'PHYSICS').toUpperCase(),
         chapter: chapter || cand.chapter,
+        chapterName: chapter || cand.chapter,
         normalized_question_hash: cand.normalized_question_hash || computeQuestionHash(cand.question),
         question_skeleton: cand.question_skeleton || computeQuestionSkeleton(cand.question),
         verified_by: 'code',
@@ -368,12 +407,17 @@ function assembleFromBank(chapter, requestedCounts, existingQuestions = [], cont
   function pickOfType(type, count) {
     let picked = 0;
     const candidates = availablePool.filter(q => {
-      if (usedIds.has(q.globalId)) return false;
+      const key = q.globalId || q.question;
+      if (usedIds.has(key)) return false;
+      if (type === 'diagrammatic') {
+        return (q.types_supported && q.types_supported.includes('diagrammatic')) || q.question_type === 'diagrammatic' || !!q.diagramSvg;
+      }
       return (q.types_supported && q.types_supported.includes(type)) || q.question_type === type;
     });
 
     for (const cand of candidates) {
       if (picked >= count) break;
+      const key = cand.globalId || cand.question;
       const clone = {
         ...cand,
         vaultSourceId: cand.globalId,
@@ -381,52 +425,27 @@ function assembleFromBank(chapter, requestedCounts, existingQuestions = [], cont
         question_type: type,
         className: context.className || cand.className || 'Class 10',
         boardName: context.boardName || cand.boardName || 'ICSE',
-        subjectName: context.subjectName || cand.subjectName || 'Science',
-        subSubjectName: context.subSubjectName || cand.subSubjectName || 'Physics',
-        sectionName: context.sectionName || cand.sectionName || 'Subjective',
+        subjectName: (context.subjectName || cand.subjectName || 'SCIENCE').toUpperCase(),
+        subSubjectName: (context.subSubjectName || cand.subSubjectName || 'PHYSICS').toUpperCase(),
+        sectionName: 'SUBJECTIVE',
         chapter: chapter || cand.chapter || 'Force',
+        chapterName: chapter || cand.chapter || 'Force',
         normalized_question_hash: cand.normalized_question_hash || computeQuestionHash(cand.question),
         question_skeleton: cand.question_skeleton || computeQuestionSkeleton(cand.question),
         verified_by: cand.verified_by || 'code',
         quality_score: 9.5
       };
       selectedQuestions.push(clone);
-      usedIds.add(cand.globalId);
+      usedIds.add(key);
       picked++;
     }
     return picked;
   }
 
-  const pickedDiagram = pickOfType('diagrammatic', diagramCount);
-  const pickedTheory = pickOfType('theoretical', theoryCount);
-  const pickedComplex = pickOfType('complex', complexCount);
-  const pickedNumerical = pickOfType('numerical', numericalCount);
-
-  let remainingNeeded = totalCount - selectedQuestions.length;
-  if (remainingNeeded > 0) {
-    for (const cand of availablePool) {
-      if (remainingNeeded <= 0) break;
-      if (!usedIds.has(cand.globalId)) {
-        selectedQuestions.push({
-          ...cand,
-          vaultSourceId: cand.globalId,
-          vaultHash: cand.normalized_question_hash || computeQuestionHash(cand.question),
-          className: context.className || 'Class 10',
-          boardName: context.boardName || 'ICSE',
-          subjectName: context.subjectName || 'Science',
-          subSubjectName: context.subSubjectName || 'Physics',
-          sectionName: context.sectionName || 'Subjective',
-          chapter: chapter || 'Force',
-          normalized_question_hash: computeQuestionHash(cand.question),
-          question_skeleton: computeQuestionSkeleton(cand.question),
-          verified_by: 'code',
-          quality_score: 9.5
-        });
-        usedIds.add(cand.globalId);
-        remainingNeeded--;
-      }
-    }
-  }
+  pickOfType('diagrammatic', diagramCount);
+  pickOfType('theoretical', theoryCount);
+  pickOfType('complex', complexCount);
+  pickOfType('numerical', numericalCount);
 
   const questionsPerType = {
     diagrammatic: selectedQuestions.filter(q => q.question_type === 'diagrammatic').length,
@@ -466,7 +485,6 @@ const CHAPTER_LIMITS = {
 };
 
 function getChapterUsage(existingQuestions = [], chapterName, className = 'Class 10', sectionName = 'Subjective') {
-  const normCh = (chapterName || '').trim().toLowerCase();
   const normClass = (className || '').trim().toLowerCase();
   const rawSec = (sectionName || '').trim().toUpperCase();
   const isAR = rawSec.includes('ASSERTION');
@@ -475,33 +493,37 @@ function getChapterUsage(existingQuestions = [], chapterName, className = 'Class
 
   const matchingAll = existingQuestions.filter(q => {
     const qClass = (q.className || '').trim().toLowerCase();
-    const qCh = (q.chapter || q.chapterName || '').trim().toLowerCase();
+    const qCh = q.chapter || q.chapterName || '';
     const matchClass = (!normClass || !qClass || qClass === normClass);
-    const matchCh = (qCh === normCh);
+    const matchCh = isSameChapter(qCh, chapterName);
     return matchClass && matchCh;
   });
 
   let diag = 0, num = 0, theo = 0, comp = 0, arCount = 0, hotsCount = 0, caseCount = 0, subjCount = 0;
 
   matchingAll.forEach(q => {
-    const qSec = (q.sectionName || '').toUpperCase();
+    const secType = getSectionType(q.sectionName, q.question_type || q.type);
     const qType = (q.question_type || q.type || '').toLowerCase();
     const hasSvg = !!q.diagramSvg;
 
-    if (qSec.includes('CASE') || qType === 'case_based') {
+    if (secType === 'case_based') {
       caseCount++;
-    } else if (qSec.includes('ASSERTION') || qType === 'assertion_reasoning') {
+    } else if (secType === 'assertion_reasoning') {
       arCount++;
-    } else if (qSec.includes('HOTS') || qType === 'hots') {
+    } else if (secType === 'hots') {
       hotsCount++;
     } else {
       subjCount++;
-      if (qType === 'diagrammatic' || hasSvg) {
+      if (qType === 'diagrammatic' || (hasSvg && qType !== 'numerical' && qType !== 'theoretical' && qType !== 'complex')) {
         diag++;
       } else if (qType === 'numerical') {
         num++;
       } else if (qType === 'complex') {
         comp++;
+      } else if (qType === 'theoretical') {
+        theo++;
+      } else if (hasSvg) {
+        diag++;
       } else {
         theo++;
       }
@@ -630,8 +652,33 @@ function getVaultStats(chapterName, subjectName = '', existingQuestions = [], cl
     };
   }
 
+  const targetSecType = getSectionType(sectionName);
+  const sameSectionExisting = (existingQuestions || []).filter(q => {
+    const qCh = q.chapter || q.chapterName || '';
+    const qSecType = getSectionType(q.sectionName, q.question_type || q.type);
+    return isSameChapter(qCh, chapterName) && qSecType === targetSecType;
+  });
+
+  const existingHashes = new Set(
+    sameSectionExisting.map(q => q.normalized_question_hash || computeQuestionHash(q.question))
+  );
+  const existingSourceIds = new Set(
+    sameSectionExisting.map(q => q.vaultSourceId || q.globalId).filter(Boolean)
+  );
+
+  const seenInPool = new Set();
+  const availablePool = bank.filter(q => {
+    const qHash = q.normalized_question_hash || computeQuestionHash(q.question);
+    const qId = q.globalId || qHash;
+    if (existingSourceIds.has(q.globalId) || existingHashes.has(qHash)) return false;
+    if (seenInPool.has(qId) || seenInPool.has(qHash)) return false;
+    seenInPool.add(qId);
+    seenInPool.add(qHash);
+    return true;
+  });
+
   let diag = 0, theo = 0, comp = 0, num = 0;
-  bank.forEach(q => {
+  availablePool.forEach(q => {
     const types = q.types_supported || [q.question_type || 'diagrammatic'];
     if (types.includes('diagrammatic') || q.diagramSvg) diag++;
     if (types.includes('theoretical')) theo++;
@@ -642,8 +689,8 @@ function getVaultStats(chapterName, subjectName = '', existingQuestions = [], cl
   return {
     chapter: chapterName,
     sectionName: sectionName || 'Subjective',
-    available: true,
-    total: bank.length,
+    available: availablePool.length > 0,
+    total: availablePool.length,
     diagrammatic: diag,
     theoretical: theo,
     complex: comp,
@@ -701,7 +748,7 @@ function storeFromVault({
     }
   }
 
-  // 2. Quota Enforcement for AR
+  // 2. Quota Enforcement for AR (Limit 30)
   if (isAR) {
     const needed = count || 10;
     if (chapterUsage.allLimitsReached || chapterUsage.remainingAllowed <= 0) {
@@ -800,15 +847,6 @@ function storeFromVault({
     }
   }
 
-  // Filter existing questions for context
-  const existingForContext = existingList.filter(q => {
-    return (!className || q.className === className) &&
-           (!subjectName || q.subjectName === subjectName) &&
-           (!boardName || !q.boardName || q.boardName === boardName) &&
-           (!subSubjectName || !q.subSubjectName || q.subSubjectName === subSubjectName) &&
-           (!chapter || q.chapter === chapter || q.chapterName === chapter);
-  });
-
   const totalCount = (isAR || isHOTS || isCase) ? (count || 10) : (diagramCount + theoryCount + complexCount + numericalCount);
 
   const assembled = assembleFromBank(chapter, {
@@ -818,7 +856,7 @@ function storeFromVault({
     numericalCount,
     count: totalCount,
     totalCount
-  }, existingForContext, {
+  }, existingList, {
     className,
     subjectName,
     subSubjectName,
@@ -837,16 +875,17 @@ function storeFromVault({
 
   if (!currentData.questions) currentData.questions = [];
   const saved = [];
+  const canonicalSection = isCase ? 'CASE BASED STUDIES' : isAR ? 'ASSERTION REASONING' : isHOTS ? 'HOTS' : 'SUBJECTIVE';
 
   for (const q of assembled.questions) {
     const record = {
       ...q,
       globalId: 'Q-VAULT-' + Math.random().toString(36).substring(2, 9),
       className: className || q.className || 'Class 10',
-      subjectName: subjectName || q.subjectName || 'Science',
-      subSubjectName: subSubjectName || q.subSubjectName || 'Physics',
-      boardName: boardName || q.boardName || 'ICSE',
-      sectionName: sectionName || q.sectionName || 'Subjective',
+      subjectName: (subjectName || q.subjectName || 'SCIENCE').toUpperCase(),
+      subSubjectName: (subSubjectName || q.subSubjectName || 'PHYSICS').toUpperCase(),
+      boardName: (boardName || q.boardName || 'ICSE').toUpperCase(),
+      sectionName: canonicalSection,
       chapter: chapter || q.chapter,
       chapterName: chapter || q.chapter,
       createdAt: new Date().toISOString()
@@ -857,37 +896,14 @@ function storeFromVault({
 
   saveLocalData(currentData);
 
-  // Consume questions from the hidden vault file on disk
-  let remainingInVault = Math.max(0, assembled.totalAvailableInBank - saved.length);
-  const bankFilePath = getBankFilePath(chapter, subSubjectName || subjectName, sectionName);
-  if (bankFilePath && fs.existsSync(bankFilePath)) {
-    try {
-      const fullBank = JSON.parse(fs.readFileSync(bankFilePath, 'utf8'));
-      const generatedIds = new Set(saved.map(s => s.vaultSourceId).filter(Boolean));
-      const generatedHashes = new Set(
-        saved.map(s => s.vaultHash || s.normalized_question_hash || computeQuestionHash(s.question))
-      );
-
-      const remainingBank = fullBank.filter(q => {
-        if (q.globalId && generatedIds.has(q.globalId)) return false;
-        const qHash = q.normalized_question_hash || computeQuestionHash(q.question);
-        if (generatedHashes.has(qHash)) return false;
-        return true;
-      });
-
-      fs.writeFileSync(bankFilePath, JSON.stringify(remainingBank, null, 2), 'utf8');
-      remainingInVault = remainingBank.length;
-      console.log(`[VAULT CONSUMPTION] Chapter "${chapter}" (${sectionName}): removed ${fullBank.length - remainingBank.length} questions from hidden vault. Remaining in vault: ${remainingInVault}`);
-    } catch (e) {
-      console.error(`[VAULT CONSUMPTION ERROR] Failed to remove generated questions from vault file:`, e);
-    }
-  }
+  const remainingInVault = Math.max(0, assembled.unusedInPool - saved.length);
 
   return {
     success: true,
     savedCount: saved.length,
+    count: saved.length,
     chapter,
-    sectionName,
+    sectionName: canonicalSection,
     breakdown: isCase ? { case_based: saved.length } : isAR ? { assertion_reasoning: saved.length } : isHOTS ? { hots: saved.length } : {
       diagrammatic: saved.filter(q => q.question_type === 'diagrammatic').length,
       theoretical: saved.filter(q => q.question_type === 'theoretical').length,

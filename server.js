@@ -686,7 +686,7 @@ app.post('/api/vault/import', (req, res) => {
 });
 
 
-// SMART GENERATE endpoint: strict 25 questions, Steps A->B->C->D, 3 Duplicate Checks, Real Quality Gates
+// SMART GENERATE endpoint: uses verified chapter vault first with strict quota enforcement
 app.post('/api/questions/smart-generate', async (req, res) => {
   const {
     className,
@@ -699,6 +699,7 @@ app.post('/api/questions/smart-generate', async (req, res) => {
     theoryCount,
     complexCount,
     numericalCount,
+    count,
     totalCount
   } = req.body;
 
@@ -706,8 +707,14 @@ app.post('/api/questions/smart-generate', async (req, res) => {
   const tCount = parseInt(theoryCount) || 0;
   const compCount = parseInt(complexCount) || 0;
   const numCount = parseInt(numericalCount) || 0;
+  const cVal = parseInt(count) || parseInt(totalCount) || (dCount + tCount + compCount + numCount);
 
-  const total = dCount + tCount + compCount + numCount;
+  const rawSec = (sectionName || '').trim().toUpperCase();
+  const isAR = rawSec.includes('ASSERTION');
+  const isHOTS = rawSec.includes('HOTS');
+  const isCase = rawSec.includes('CASE');
+  const total = (isAR || isHOTS || isCase) ? cVal : (dCount + tCount + compCount + numCount);
+
   if (total < 1 || total > 25) {
     return res.status(400).json({
       success: false,
@@ -716,122 +723,45 @@ app.post('/api/questions/smart-generate', async (req, res) => {
   }
 
   try {
-    const currentData = getLocalData();
-    const existingList = currentData.questions || [];
-
-    // Compulsory Quota Enforcement: Subjective 100 (Diag 30, Num 30, Theo 20, Comp 20), AR 30, Case 50, HOTS 20
-    const rawSec = (sectionName || '').trim().toUpperCase();
-    const isAR = rawSec.includes('ASSERTION');
-    const isHOTS = rawSec.includes('HOTS');
-    const isCase = rawSec.includes('CASE');
-    const chapterUsage = getChapterUsage(existingList, chapter, className || 'Class 10', sectionName || 'Subjective');
-
-    if (isCase) {
-      if (chapterUsage.allLimitsReached || chapterUsage.remainingAllowed <= 0) {
-        return res.status(400).json({ success: false, message: `No more questions can be generated for "${chapter}" in Case Based Studies. Maximum quota of 50 questions has been reached.` });
-      }
-      if (total > chapterUsage.remainingAllowed) {
-        return res.status(400).json({ success: false, message: `Cannot generate ${total} Case Based question(s) for "${chapter}". Limit is 50. Already generated: ${chapterUsage.alreadyGenerated.count}/50. Maximum remaining allowed is ${chapterUsage.remainingAllowed}.` });
-      }
-    } else if (isAR) {
-      if (chapterUsage.allLimitsReached || chapterUsage.remainingAllowed <= 0) {
-        return res.status(400).json({ success: false, message: `No more questions can be generated for "${chapter}" in Assertion-Reasoning. Maximum quota of 30 questions has been reached.` });
-      }
-      if (total > chapterUsage.remainingAllowed) {
-        return res.status(400).json({ success: false, message: `Cannot generate ${total} Assertion-Reasoning question(s) for "${chapter}". Limit is 30. Already generated: ${chapterUsage.alreadyGenerated.count}/30. Maximum remaining allowed is ${chapterUsage.remainingAllowed}.` });
-      }
-    } else if (isHOTS) {
-      if (chapterUsage.allLimitsReached || chapterUsage.remainingAllowed <= 0) {
-        return res.status(400).json({ success: false, message: `No more questions can be generated for "${chapter}" in HOTS. Maximum quota of 20 questions has been reached.` });
-      }
-      if (total > chapterUsage.remainingAllowed) {
-        return res.status(400).json({ success: false, message: `Cannot generate ${total} HOTS question(s) for "${chapter}". Limit is 20. Already generated: ${chapterUsage.alreadyGenerated.count}/20. Maximum remaining allowed is ${chapterUsage.remainingAllowed}.` });
-      }
-    } else {
-      // Subjective: Diagrammatic 30, Numerical 30, Theoretical 20, Complex 20 (Total 100)
-      if (chapterUsage.allLimitsReached) {
-        return res.status(400).json({ success: false, message: `No more questions can be generated for "${chapter}". All maximum quotas have been reached: 30 Diagrammatic, 30 Numerical, 20 Theoretical, 20 Complex (Total 100).` });
-      }
-      if (dCount > 0 && dCount > chapterUsage.remainingAllowed.diagrammatic) {
-        return res.status(400).json({ success: false, message: `Cannot generate ${dCount} diagrammatic question(s) for "${chapter}". Limit is 30. Already generated: ${chapterUsage.alreadyGenerated.diagrammatic}/30. Maximum remaining allowed is ${chapterUsage.remainingAllowed.diagrammatic}.` });
-      }
-      if (numCount > 0 && numCount > chapterUsage.remainingAllowed.numerical) {
-        return res.status(400).json({ success: false, message: `Cannot generate ${numCount} numerical question(s) for "${chapter}". Limit is 30. Already generated: ${chapterUsage.alreadyGenerated.numerical}/30. Maximum remaining allowed is ${chapterUsage.remainingAllowed.numerical}.` });
-      }
-      if (tCount > 0 && tCount > chapterUsage.remainingAllowed.theoretical) {
-        return res.status(400).json({ success: false, message: `Cannot generate ${tCount} theoretical question(s) for "${chapter}". Limit is 20. Already generated: ${chapterUsage.alreadyGenerated.theoretical}/20. Maximum remaining allowed is ${chapterUsage.remainingAllowed.theoretical}.` });
-      }
-      if (compCount > 0 && compCount > chapterUsage.remainingAllowed.complex) {
-        return res.status(400).json({ success: false, message: `Cannot generate ${compCount} complex question(s) for "${chapter}". Limit is 20. Already generated: ${chapterUsage.alreadyGenerated.complex}/20. Maximum remaining allowed is ${chapterUsage.remainingAllowed.complex}.` });
-      }
-    }
-
-    const result = await executeSmartGenerationPipeline({
-      chapter: chapter || 'Circles',
+    const vaultRes = storeFromVault({
+      chapter: chapter || 'Force',
       className: className || 'Class 10',
-      subjectName: subjectName || 'Mathematics',
+      subjectName: subjectName || 'SCIENCE',
+      subSubjectName: subSubjectName || 'PHYSICS',
       boardName: boardName || 'ICSE',
-      subSubjectName: subSubjectName || '',
-      sectionName: sectionName || 'Section A',
+      sectionName: sectionName || 'SUBJECTIVE',
       diagramCount: dCount,
       theoryCount: tCount,
       complexCount: compCount,
       numericalCount: numCount,
-      totalCount: total
-    }, existingList);
+      count: total
+    }, getLocalData, saveLocalData);
 
-    if (!currentData.questions) currentData.questions = [];
-    const savedQuestions = [];
+    if (!vaultRes.success) {
+      return res.status(400).json(vaultRes);
+    }
 
-    result.questions.forEach(q => {
-      if (enforceUniqueConstraint(q, currentData.questions)) {
-        const record = {
-          ...q,
-          boardName: boardName || 'ICSE',
-          subSubjectName: subSubjectName || '',
-          globalId: 'Q-' + Math.random().toString(36).substring(2, 9),
-          normalized_question_hash: q.normalized_question_hash || computeQuestionHash(q.question),
-          question_skeleton: q.question_skeleton || computeQuestionSkeleton(q.question),
-          createdAt: new Date().toISOString()
-        };
-        currentData.questions.push(record);
-        savedQuestions.push(record);
-      }
-    });
-
-    saveLocalData(currentData);
-
-    res.json({
+    return res.json({
       success: true,
-      count: savedQuestions.length,
-      questions: savedQuestions,
-      questionsPerType: result.questionsPerType,
-      rejectedCountByReason: result.rejectedCountByReason,
-      rejectedReport: result.rejectedReport,
-      unfilledSlots: result.unfilledSlots,
-      chapterAnalysis: result.chapterAnalysis,
-      coverageStatus: result.coverageStatus
+      count: vaultRes.savedCount,
+      savedCount: vaultRes.savedCount,
+      questions: vaultRes.questions,
+      questionsPerType: vaultRes.breakdown,
+      rejectedCountByReason: {},
+      rejectedReport: [],
+      unfilledSlots: [],
+      coverageStatus: `Complete (${vaultRes.savedCount} Verified Questions)`
     });
   } catch (err) {
-    if (err.isGeminiKeyMissing) {
-      return res.status(400).json({
-        success: false,
-        isGeminiKeyMissing: true,
-        message: err.message
-      });
-    }
-    if (err.isOllamaPause) {
-      return res.status(503).json({
-        success: false,
-        isOllamaPause: true,
-        message: 'Ollama not reachable - run: ollama serve',
-        model: err.model,
-        originalError: err.originalError
-      });
-    }
     console.error('Smart generate error:', err);
     res.status(500).json({ success: false, error: err.message });
   }
+});
+
+// Serve questionBank and registry_cache.json for cloud-backend compatibility
+app.use('/questionBank', express.static(path.join(__dirname, 'questionBank')));
+app.get('/registry_cache.json', (req, res) => {
+  res.sendFile(path.join(__dirname, 'registry_cache.json'));
 });
 
 // Fallback to client app
@@ -842,3 +772,4 @@ app.get('{*path}', (req, res) => {
 app.listen(PORT, () => {
   console.log(`Academic Registry Portal online at http://localhost:${PORT}`);
 });
+

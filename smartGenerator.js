@@ -714,48 +714,6 @@ async function analyzeAndFrameChapter(chapter, className, subjectName, boardName
     };
   }
 
-  const prompt = `You are a Senior Academic Author and Master Examiner for ${boardName} ${className}.
-Deeply research and analyze the curriculum guidelines and board exam patterns for:
-CHAPTER: ${chapter}
-SUBJECT: ${subjectName}
-BOARD: ${boardName}
-SECTION: ${sectionName}
-
-Task:
-1. Extract official ${boardName} syllabus topics, core theorems, and learning outcomes.
-2. Extract common student misconception traps and tricky board exam pitfalls.
-3. List testable concepts for diagrammatic, theoretical, complex, and numerical problems.
-
-Output strictly valid JSON:
-{
-  "chapter": "${chapter}",
-  "curriculum": "${boardName} ${className} ${subjectName}",
-  "syllabus_topics": ["topic1", "topic2", "topic3", "topic4"],
-  "board_traps": ["trap1", "trap2", "trap3"],
-  "suitable_concepts": {
-    "diagrammatic": ["conceptA", "conceptB"],
-    "theoretical": ["conceptC", "conceptD"],
-    "complex": ["conceptE", "conceptF"],
-    "numerical": ["conceptG", "conceptH"]
-  }
-}`;
-
-  try {
-    const res = await generateWithRole('generator', prompt, '{"chapter": "..."}');
-    if (res?.data?.syllabus_topics) {
-      return {
-        success: true,
-        chapter,
-        className,
-        boardName,
-        subjectName,
-        sectionName,
-        ...res.data,
-        concept_matrix_count: Object.values(res.data.suitable_concepts || {}).flat().length
-      };
-    }
-  } catch (e) {}
-
   return {
     success: true,
     chapter,
@@ -763,13 +721,22 @@ Output strictly valid JSON:
     boardName,
     subjectName,
     sectionName,
-    syllabus_topics: [`${chapter} Core Principles`, `${chapter} Board Formulas`, `${chapter} Experimental Analysis`],
-    board_traps: ['Sign convention errors', 'Unit conversion errors', 'Formula misapplication'],
+    syllabus_topics: [
+      `${chapter} — Core Laws, Definitions & Physical Principles`,
+      `${chapter} — Standard ${boardName} Mathematical Formulations & Derivations`,
+      `${chapter} — Experimental Setups, Schematic Diagrams & Analytical Graphs`,
+      `${chapter} — High-Order Application & Multi-Step Problem Solving`
+    ],
+    board_traps: [
+      'Sign convention and SI unit conversion oversights in multi-step calculations',
+      'Confusing cause-effect directionality in Assertion-Reasoning statements',
+      'Formula misapplication under non-standard boundary conditions'
+    ],
     suitable_concepts: {
-      diagrammatic: [`${chapter} Setup & Trajectories`],
-      theoretical: [`${chapter} Conceptual Derivation`],
-      complex: [`${chapter} Combined Multi-Theorem Synthesis`],
-      numerical: [`${chapter} Multi-Step Calculation`]
+      diagrammatic: [`${chapter} Setup, Ray/Circuit/Vector Schematics`],
+      theoretical: [`${chapter} Conceptual Laws & Physical Justifications`],
+      complex: [`${chapter} Combined Multi-Concept Synthesis`],
+      numerical: [`${chapter} Multi-Step Quantitative Calculation`]
     },
     concept_matrix_count: 4
   };

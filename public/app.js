@@ -691,7 +691,7 @@ let qSelectedBoard = '';
 let qSelectedSection = '';
 let qSelectedChapter = '';
 
-async function loadQuestionsView() {
+async function loadQuestionsView(autoLoad = false) {
   const content = document.getElementById('workspaceContent');
   content.innerHTML = '<p style="color:var(--text-light); font-size:0.9rem;">Loading options...</p>';
 
@@ -713,6 +713,9 @@ async function loadQuestionsView() {
     qAvailableChapters = chRes.data || [];
 
     renderQuestionsInterface();
+    if (autoLoad) {
+      await loadQuestionsForSelectedCombination();
+    }
   } catch (err) {
     console.error('Error loading questions options:', err);
   }
@@ -788,7 +791,7 @@ function renderQuestionsInterface() {
   let chapterOptions = '<option value="">-- Select Chapter --</option>';
   matchingChapters.forEach(ch => {
     const title = ch.title || ch.name;
-    const sel = qSelectedChapter === title ? 'selected' : '';
+    const sel = (qSelectedChapter || '').toLowerCase() === (title || '').toLowerCase() ? 'selected' : '';
     chapterOptions += `<option value="${title}" ${sel}>${title}</option>`;
   });
 
@@ -900,6 +903,27 @@ window.onQuestionFilterChange = function(type, val) {
 
 let latestGenReport = null;
 
+function resolveCanonicalSectionType(secName = '', qType = '') {
+  const rawSec = String(secName || '').trim().toUpperCase();
+  const rawType = String(qType || '').trim().toLowerCase();
+  if (rawSec.includes('CASE') || rawType === 'case_based') return 'case_based';
+  if (rawSec.includes('ASSERTION') || rawType === 'assertion_reasoning') return 'assertion_reasoning';
+  if (rawSec.includes('HOTS') || rawType === 'hots') return 'hots';
+  return 'subjective';
+}
+
+function normalizeChapterAlias(ch) {
+  const raw = String(ch || '').trim().toLowerCase();
+  if (raw === 'hydrochlroric acid' || raw === 'hydrochloric acid' || raw === 'hydrogen chloride') return 'hydrochloric_acid_group';
+  if (raw === 'work, energy and power' || raw === 'work energy and power') return 'work_energy_power_group';
+  if (raw === 'refraction of light at plane surfaces' || raw === 'refraction of light') return 'refraction_plane_group';
+  if (raw === 'refraction through a lens' || raw === 'refraction through lens') return 'refraction_lens_group';
+  if (raw === 'household circuits' || raw === 'household electricity') return 'household_circuits_group';
+  if (raw.startsWith('periodic table') || raw === 'periodic properties') return 'periodic_table_group';
+  if (raw.startsWith('mole concept')) return 'mole_concept_group';
+  return raw;
+}
+
 async function loadQuestionsForSelectedCombination() {
   const container = document.getElementById('questionsAreaContainer');
   if (!container) return;
@@ -907,35 +931,26 @@ async function loadQuestionsForSelectedCombination() {
   container.innerHTML = '<p style="color:var(--text-light); font-size:0.88rem; padding: 15px 0;">Loading questions...</p>';
 
   try {
-    const res = await fetch('/api/data/questions');
+    const res = await fetch('/api/data/questions?_t=' + Date.now());
     const result = await res.json();
     const allQuestions = result.data || [];
 
     const isScience = (qSelectedSubject || '').trim().toUpperCase() === 'SCIENCE';
 
-    // Strictly match selected combination: class, subject, subsubject (if science), board, section, chapter
+    // Match selected combination consistently with getChapterUsage
     const normQClass = (qSelectedClass || '').trim().toLowerCase();
-    const normQSub = (qSelectedSubject || '').trim().toUpperCase();
-    const normQSubSub = (qSelectedSubSubject || '').trim().toUpperCase();
-    const normQBrd = (qSelectedBoard || '').trim().toUpperCase();
-    const normQSec = (qSelectedSection || '').trim().toUpperCase();
-    const normQCh = (qSelectedChapter || '').trim().toLowerCase();
+    const targetSecType = resolveCanonicalSectionType(qSelectedSection);
+    const targetChKey = normalizeChapterAlias(qSelectedChapter);
 
     const filtered = allQuestions.filter(q => {
       const qClass = (q.className || '').trim().toLowerCase();
-      const qSub = (q.subjectName || '').trim().toUpperCase();
-      const qSubSub = (q.subSubjectName || '').trim().toUpperCase();
-      const qBrd = (q.boardName || '').trim().toUpperCase();
-      const qSec = (q.sectionName || '').trim().toUpperCase();
-      const qCh = (q.chapter || q.chapterName || '').trim().toLowerCase();
+      const qSecType = resolveCanonicalSectionType(q.sectionName, q.question_type || q.type);
+      const qChKey = normalizeChapterAlias(q.chapter || q.chapterName);
 
       const matchClass = (!normQClass || !qClass || qClass === normQClass);
-      const matchSub = (!normQSub || !qSub || qSub === normQSub);
-      const matchSubSubject = (!isScience || !normQSubSub || (qSubSub === normQSubSub));
-      const matchBoard = (!normQBrd || !qBrd || qBrd === normQBrd);
-      const matchSec = (!normQSec || !qSec || qSec === normQSec);
-      const matchCh = (qCh === normQCh);
-      return matchClass && matchSub && matchSubSubject && matchBoard && matchSec && matchCh;
+      const matchSec = (qSecType === targetSecType);
+      const matchCh = (qChKey === targetChKey);
+      return matchClass && matchSec && matchCh;
     });
 
     let diagCount = 0;
@@ -947,12 +962,16 @@ async function loadQuestionsForSelectedCombination() {
       const qType = (q.question_type || q.type || '').toLowerCase();
       const hasSvg = !!q.diagramSvg;
 
-      if (qType === 'diagrammatic' || hasSvg) {
+      if (qType === 'diagrammatic' || (hasSvg && qType !== 'numerical' && qType !== 'theoretical' && qType !== 'complex')) {
         diagCount++;
       } else if (qType === 'numerical') {
         numCount++;
       } else if (qType === 'complex') {
         compCount++;
+      } else if (qType === 'theoretical') {
+        theoCount++;
+      } else if (hasSvg) {
+        diagCount++;
       } else {
         theoCount++;
       }
@@ -1400,40 +1419,42 @@ window.openQuestionConfigModal = async function() {
   modal.classList.remove('hidden');
 
   try {
-    const res = await fetch(`/api/generator/vault-stats?chapter=${encodeURIComponent(qSelectedChapter)}&subjectName=${encodeURIComponent(qSelectedSubject)}&className=${encodeURIComponent(qSelectedClass)}`);
+    const res = await fetch(`/api/generator/vault-stats?chapter=${encodeURIComponent(qSelectedChapter)}&subjectName=${encodeURIComponent(qSelectedSubject)}&className=${encodeURIComponent(qSelectedClass)}&sectionName=${encodeURIComponent(qSelectedSection)}&_t=${Date.now()}`);
     const data = await res.json();
     const stats = data.stats || {};
     window._modalChapterStats = stats;
 
-    const remDiag = stats.remainingAllowed?.diagrammatic !== undefined ? stats.remainingAllowed.diagrammatic : 30;
-    const remNum = stats.remainingAllowed?.numerical !== undefined ? stats.remainingAllowed.numerical : 30;
-    const remTheo = stats.remainingAllowed?.theoretical !== undefined ? stats.remainingAllowed.theoretical : 20;
-    const remComp = stats.remainingAllowed?.complex !== undefined ? stats.remainingAllowed.complex : 20;
+    if (!stats.sectionType || stats.sectionType === 'subjective') {
+      const remDiag = stats.remainingAllowed?.diagrammatic !== undefined ? stats.remainingAllowed.diagrammatic : 30;
+      const remNum = stats.remainingAllowed?.numerical !== undefined ? stats.remainingAllowed.numerical : 30;
+      const remTheo = stats.remainingAllowed?.theoretical !== undefined ? stats.remainingAllowed.theoretical : 20;
+      const remComp = stats.remainingAllowed?.complex !== undefined ? stats.remainingAllowed.complex : 20;
 
-    const diagInput = document.getElementById('qCountDiagram');
-    const numInput = document.getElementById('qCountNumerical');
-    const theoryInput = document.getElementById('qCountTheory');
-    const compInput = document.getElementById('qCountComplex');
+      const diagInput = document.getElementById('qCountDiagram');
+      const numInput = document.getElementById('qCountNumerical');
+      const theoryInput = document.getElementById('qCountTheory');
+      const compInput = document.getElementById('qCountComplex');
 
-    if (diagInput) {
-      diagInput.max = remDiag;
-      diagInput.value = Math.min(parseInt(diagInput.value) || 0, remDiag);
-      diagInput.disabled = remDiag === 0;
-    }
-    if (numInput) {
-      numInput.max = remNum;
-      numInput.value = Math.min(parseInt(numInput.value) || 0, remNum);
-      numInput.disabled = remNum === 0;
-    }
-    if (theoryInput) {
-      theoryInput.max = remTheo;
-      theoryInput.value = Math.min(parseInt(theoryInput.value) || 0, remTheo);
-      theoryInput.disabled = remTheo === 0;
-    }
-    if (compInput) {
-      compInput.max = remComp;
-      compInput.value = Math.min(parseInt(compInput.value) || 0, remComp);
-      compInput.disabled = remComp === 0;
+      if (diagInput) {
+        diagInput.max = remDiag;
+        diagInput.value = Math.min(parseInt(diagInput.value) || 0, remDiag);
+        diagInput.disabled = remDiag === 0;
+      }
+      if (numInput) {
+        numInput.max = remNum;
+        numInput.value = Math.min(parseInt(numInput.value) || 0, remNum);
+        numInput.disabled = remNum === 0;
+      }
+      if (theoryInput) {
+        theoryInput.max = remTheo;
+        theoryInput.value = Math.min(parseInt(theoryInput.value) || 0, remTheo);
+        theoryInput.disabled = remTheo === 0;
+      }
+      if (compInput) {
+        compInput.max = remComp;
+        compInput.value = Math.min(parseInt(compInput.value) || 0, remComp);
+        compInput.disabled = remComp === 0;
+      }
     }
   } catch (e) {
     console.warn('Could not load modal limits:', e);
@@ -1591,7 +1612,7 @@ function updateTotalCounter() {
   const alertBox = document.getElementById('configAlert');
 
   const stats = window._modalChapterStats;
-  if (stats && stats.remainingAllowed) {
+  if (stats && (!stats.sectionType || stats.sectionType === 'subjective') && stats.remainingAllowed && typeof stats.remainingAllowed === 'object') {
     const remDiag = stats.remainingAllowed.diagrammatic !== undefined ? stats.remainingAllowed.diagrammatic : 30;
     const remNum = stats.remainingAllowed.numerical !== undefined ? stats.remainingAllowed.numerical : 30;
     const remTheo = stats.remainingAllowed.theoretical !== undefined ? stats.remainingAllowed.theoretical : 20;
@@ -1637,6 +1658,21 @@ function updateTotalCounter() {
     if (compCount > remComp) {
       if (alertBox) {
         alertBox.innerHTML = `⚠️ <strong>Complex Limit Exceeded:</strong> Chapter limit is 20 (${already.complex}/20 already generated). Maximum remaining allowed is ${remComp}.`;
+        alertBox.classList.remove('hidden');
+      }
+      if (startBtn) {
+        startBtn.disabled = true;
+        startBtn.style.opacity = '0.5';
+        startBtn.style.cursor = 'not-allowed';
+      }
+      return;
+    }
+  } else if (stats && stats.sectionType && stats.sectionType !== 'subjective' && typeof stats.remainingAllowed === 'number') {
+    const limit = stats.limit || (stats.sectionType === 'case_based' ? 50 : stats.sectionType === 'hots' ? 20 : 30);
+    const alreadyCount = stats.alreadyGenerated?.count || stats.alreadyGenerated?.total || 0;
+    if (total > stats.remainingAllowed) {
+      if (alertBox) {
+        alertBox.innerHTML = `⚠️ <strong>Section Limit Exceeded:</strong> Chapter limit is ${limit} (${alreadyCount}/${limit} already generated). Maximum remaining allowed is ${stats.remainingAllowed}.`;
         alertBox.classList.remove('hidden');
       }
       if (startBtn) {
@@ -2471,6 +2507,7 @@ window.startThirtySecondResearch = function() {
   }
 
   genActivePhase = 'RESEARCH_30SEC';
+  genAnalysisResult = null;
   let remainingSeconds = 30; // Exactly 30 seconds as requested!
   let elapsedSeconds = 0;
 
@@ -2557,7 +2594,9 @@ window.startThirtySecondResearch = function() {
       if (data.vaultStats.sectionType === 'assertion_reasoning') {
         addFeedLine(`[Vault Connected] Pre-provided Assertion-Reasoning Bank: ${data.vaultStats.total} verified questions ready (Max cap: 30)`, 'success');
       } else if (data.vaultStats.sectionType === 'hots') {
-        addFeedLine(`[Vault Connected] Pre-provided HOTS Bank: ${data.vaultStats.total} verified questions ready (Max cap: 30)`, 'success');
+        addFeedLine(`[Vault Connected] Pre-provided HOTS Bank: ${data.vaultStats.total} verified questions ready (Max cap: 20)`, 'success');
+      } else if (data.vaultStats.sectionType === 'case_based') {
+        addFeedLine(`[Vault Connected] Pre-provided Case-Based Bank: ${data.vaultStats.total} verified questions ready (Max cap: 50)`, 'success');
       } else {
         addFeedLine(`[Vault Connected] Pre-provided Question Bank: ${data.vaultStats.total} verified questions ready (${data.vaultStats.diagrammatic} diagrammatic, ${data.vaultStats.numerical} numerical, ${data.vaultStats.complex} complex, ${data.vaultStats.theoretical} theoretical)`, 'success');
       }
@@ -2632,16 +2671,17 @@ async function renderFramingOptionsScreen(analysis) {
 
   genActivePhase = 'FRAMING_OPTIONS';
 
-  // Ensure vaultStats is loaded with current database chapter usage and section awareness
-  let stats = analysis?.vaultStats || null;
-  if (!stats || stats.sectionType === undefined) {
-    try {
-      const res = await fetch(`/api/generator/vault-stats?chapter=${encodeURIComponent(genSelectedChapter)}&subjectName=${encodeURIComponent(genSelectedSubject)}&className=${encodeURIComponent(genSelectedClass)}&sectionName=${encodeURIComponent(genSelectedSection)}`);
-      const data = await res.json();
-      stats = data.stats;
-    } catch (e) {
-      stats = { available: false, total: 0, diagrammatic: 0, theoretical: 0, complex: 0, numerical: 0 };
-    }
+  // Always fetch fresh vault-stats with current database chapter usage and section awareness
+  let stats = null;
+  try {
+    const res = await fetch(`/api/generator/vault-stats?chapter=${encodeURIComponent(genSelectedChapter)}&subjectName=${encodeURIComponent(genSelectedSubject)}&className=${encodeURIComponent(genSelectedClass)}&sectionName=${encodeURIComponent(genSelectedSection)}&_t=${Date.now()}`);
+    const data = await res.json();
+    stats = data.stats;
+  } catch (e) {
+    stats = analysis?.vaultStats || { available: false, total: 0, diagrammatic: 0, theoretical: 0, complex: 0, numerical: 0 };
+  }
+  if (!stats) {
+    stats = { available: false, total: 0, diagrammatic: 0, theoretical: 0, complex: 0, numerical: 0 };
   }
 
   const rawSec = (genSelectedSection || '').trim().toUpperCase();
@@ -3395,15 +3435,15 @@ window.startVaultStoring = async function() {
     feedEl.scrollTop = feedEl.scrollHeight;
   }
 
-  setTimeout(() => {
-    if (progEl) progEl.style.width = '40%';
-    addFeedLine(`[00:01] Retrieved ${feedDesc}...`, 'accent');
-  }, 500);
+  const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
-  setTimeout(() => {
-    if (progEl) progEl.style.width = '75%';
-    addFeedLine('[00:02] Validating multi-step explanations, answer keys, and database deduplication constraints...', '');
-  }, 1000);
+  await wait(350);
+  if (progEl) progEl.style.width = '40%';
+  addFeedLine(`[00:01] Retrieved ${feedDesc}...`, 'accent');
+
+  await wait(350);
+  if (progEl) progEl.style.width = '75%';
+  addFeedLine('[00:02] Validating multi-step explanations, answer keys, and database deduplication constraints...', '');
 
   try {
     const res = await fetch('/api/generator/store-from-vault', {
@@ -3419,23 +3459,30 @@ window.startVaultStoring = async function() {
         progEl.style.background = '#dc2626';
       }
       addFeedLine(`[00:02] ❌ Generation Blocked: ${result.message}`, 'error');
-      setTimeout(() => {
-        alert(result.message || 'Generation limit exceeded for this chapter.');
-        renderFramingOptionsScreen();
-      }, 1500);
+      await wait(1200);
+      alert(result.message || 'Generation limit exceeded for this chapter.');
+      await renderFramingOptionsScreen();
       return;
     }
 
-    setTimeout(() => {
-      if (progEl) progEl.style.width = '100%';
-      addFeedLine(`[00:02] Successfully committed ${result.savedCount} questions into database registry!`, 'success');
+    await wait(350);
+    if (progEl) progEl.style.width = '100%';
+    addFeedLine(`[00:02] Successfully committed ${result.savedCount} questions into database registry!`, 'success');
 
-      setTimeout(() => {
-        renderGenerationCompleteScreen(result);
-      }, 600);
-    }, 1500);
+    await wait(500);
+    renderGenerationCompleteScreen(result);
   } catch (err) {
+    if (progEl) {
+      progEl.style.width = '100%';
+      progEl.style.background = '#dc2626';
+    }
     addFeedLine(`[Error] Failed to store questions: ${err.message}`, 'error');
+    if (feedEl) {
+      const btnDiv = document.createElement('div');
+      btnDiv.style.marginTop = '12px';
+      btnDiv.innerHTML = `<button type="button" class="btn-outline" onclick="renderFramingOptionsScreen()" style="padding:8px 16px; color:#fff; border-color:#64748b;">← Back to Quota Selection</button>`;
+      feedEl.appendChild(btnDiv);
+    }
   }
 };
 
@@ -3508,17 +3555,16 @@ window.openGeneratedQuestionsDirectly = function() {
   qSelectedSection = genSelectedSection;
   qSelectedChapter = genSelectedChapter;
 
-  // Switch navigation to questions view and load questions
+  // Switch navigation to questions view and load questions immediately without race condition
   const navButtons = document.querySelectorAll('.sidebar-menu .menu-item');
   navButtons.forEach(b => {
     b.classList.remove('active');
     if (b.getAttribute('data-view') === 'questions') b.classList.add('active');
   });
 
-  switchView('questions');
-  setTimeout(() => {
-    loadQuestionsForSelectedCombination();
-  }, 200);
+  const title = document.getElementById('currentViewTitle');
+  if (title) title.textContent = 'Questions';
+  loadQuestionsView(true);
 };
 
 

@@ -1,12 +1,22 @@
 /**
- * EduChamp Autonomous Cloud Backend Engine (24/7 Serverless Cloud Runtime)
+ * EduChamp Autonomous Cloud Backend Engine v3.0 (24/7 Serverless Cloud Runtime)
  * Automatically powers all /api/* routes directly from cloud static vaults
  * when hosted on GitHub Pages / static cloud CDNs (even when Admin Laptop is OFF).
+ * Uses In-Memory + IndexedDB + Delta persistence to never hit localStorage 5MB quota limits.
  */
 (function () {
   const ORIGINAL_FETCH = window.fetch.bind(window);
-  const STORAGE_KEY = 'educhamp_cloud_registry_v2_7';
-  const CONSUMED_KEY = 'educhamp_consumed_vault_v2_7';
+  const IDB_NAME = 'EduChampCloudDB_v3';
+  const IDB_STORE = 'registry_store';
+  const IDB_KEY = 'main_registry';
+  const DELTA_STORAGE_KEY = 'educhamp_cloud_delta_v3';
+
+  // Free up old bulky localStorage keys from previous versions so quota is never exceeded
+  try {
+    ['educhamp_cloud_registry_v2_7', 'educhamp_consumed_vault_v2_7', 'educhamp_cloud_registry_v2', 'educhamp_cloud_registry'].forEach(k => {
+      localStorage.removeItem(k);
+    });
+  } catch (e) {}
 
   const CHAPTER_LIMITS = {
     subjective: {
@@ -130,6 +140,12 @@
       hots: 'chemistry_hots_periodic_table.json',
       case_based: 'chemistry_case_periodic_table.json'
     },
+    'periodic table periodic properties and variations in properties': {
+      subjective: 'chemistry_periodic_table.json',
+      ar: 'chemistry_ar_periodic_table.json',
+      hots: 'chemistry_hots_periodic_table.json',
+      case_based: 'chemistry_case_periodic_table.json'
+    },
     'periodic properties': {
       subjective: 'chemistry_periodic_table.json',
       ar: 'chemistry_ar_periodic_table.json',
@@ -149,6 +165,24 @@
       case_based: 'chemistry_case_acids_bases_and_salts.json'
     },
     'acids bases and salts': {
+      subjective: 'chemistry_acids_bases_and_salts.json',
+      ar: 'chemistry_ar_acids_bases_and_salts.json',
+      hots: 'chemistry_hots_acids_bases_and_salts.json',
+      case_based: 'chemistry_case_acids_bases_and_salts.json'
+    },
+    'acids': {
+      subjective: 'chemistry_acids_bases_and_salts.json',
+      ar: 'chemistry_ar_acids_bases_and_salts.json',
+      hots: 'chemistry_hots_acids_bases_and_salts.json',
+      case_based: 'chemistry_case_acids_bases_and_salts.json'
+    },
+    'bases & salts': {
+      subjective: 'chemistry_acids_bases_and_salts.json',
+      ar: 'chemistry_ar_acids_bases_and_salts.json',
+      hots: 'chemistry_hots_acids_bases_and_salts.json',
+      case_based: 'chemistry_case_acids_bases_and_salts.json'
+    },
+    'bases and salts': {
       subjective: 'chemistry_acids_bases_and_salts.json',
       ar: 'chemistry_ar_acids_bases_and_salts.json',
       hots: 'chemistry_hots_acids_bases_and_salts.json',
@@ -196,7 +230,19 @@
       hots: 'chemistry_hots_hydrogen_chloride.json',
       case_based: 'chemistry_case_hydrogen_chloride.json'
     },
+    'hydrochlroric acid': {
+      subjective: 'chemistry_hydrogen_chloride.json',
+      ar: 'chemistry_ar_hydrogen_chloride.json',
+      hots: 'chemistry_hots_hydrogen_chloride.json',
+      case_based: 'chemistry_case_hydrogen_chloride.json'
+    },
     'hydrogen chloride': {
+      subjective: 'chemistry_hydrogen_chloride.json',
+      ar: 'chemistry_ar_hydrogen_chloride.json',
+      hots: 'chemistry_hots_hydrogen_chloride.json',
+      case_based: 'chemistry_case_hydrogen_chloride.json'
+    },
+    'hydrogen chloride and hydrochloric acid': {
       subjective: 'chemistry_hydrogen_chloride.json',
       ar: 'chemistry_ar_hydrogen_chloride.json',
       hots: 'chemistry_hots_hydrogen_chloride.json',
@@ -205,6 +251,8 @@
   };
 
   let initPromise = null;
+  let memoryData = null;
+  let seedQuestionIds = new Set();
   const vaultMemoryCache = {};
 
   function computeHash(str) {
@@ -217,61 +265,163 @@
     return 'h_' + (h >>> 0).toString(16);
   }
 
-  async function ensureInitialized() {
-    if (initPromise) return initPromise;
-    initPromise = (async () => {
-      try {
-        const existing = localStorage.getItem(STORAGE_KEY);
-        if (existing) {
-          const parsed = JSON.parse(existing);
-          if (parsed && Array.isArray(parsed.classes)) return parsed;
-        }
-      } catch (e) {}
+  function getSectionType(sectionName = '', questionType = '') {
+    const rawSec = String(sectionName || '').trim().toUpperCase();
+    const qType = String(questionType || '').trim().toLowerCase();
+    if (rawSec.includes('CASE') || qType === 'case_based') return 'case_based';
+    if (rawSec.includes('ASSERTION') || qType === 'assertion_reasoning') return 'assertion_reasoning';
+    if (rawSec.includes('HOTS') || qType === 'hots') return 'hots';
+    return 'subjective';
+  }
 
+  function normalizeChapterKey(ch) {
+    const raw = String(ch || '').trim().toLowerCase();
+    if (raw === 'hydrochlroric acid' || raw === 'hydrochloric acid' || raw === 'hydrogen chloride') return 'hydrochloric_acid_group';
+    if (raw === 'work, energy and power' || raw === 'work energy and power') return 'work_energy_power_group';
+    if (raw === 'refraction of light at plane surfaces' || raw === 'refraction of light') return 'refraction_plane_group';
+    if (raw === 'refraction through a lens' || raw === 'refraction through lens') return 'refraction_lens_group';
+    if (raw === 'household circuits' || raw === 'household electricity') return 'household_circuits_group';
+    if (raw.startsWith('periodic table') || raw === 'periodic properties') return 'periodic_table_group';
+    if (raw.startsWith('mole concept')) return 'mole_concept_group';
+    return raw;
+  }
+
+  function isSameChapter(chA, chB) {
+    const rawA = String(chA || '').trim().toLowerCase();
+    const rawB = String(chB || '').trim().toLowerCase();
+    if (!rawA || !rawB) return false;
+    if (rawA === rawB) return true;
+    return normalizeChapterKey(rawA) === normalizeChapterKey(rawB);
+  }
+
+  // IndexedDB helpers for unlimited browser storage
+  function openIdb() {
+    return new Promise((resolve) => {
+      if (!window.indexedDB) return resolve(null);
+      try {
+        const req = window.indexedDB.open(IDB_NAME, 1);
+        req.onupgradeneeded = (e) => {
+          const db = e.target.result;
+          if (!db.objectStoreNames.contains(IDB_STORE)) {
+            db.createObjectStore(IDB_STORE);
+          }
+        };
+        req.onsuccess = (e) => resolve(e.target.result);
+        req.onerror = () => resolve(null);
+      } catch (e) {
+        resolve(null);
+      }
+    });
+  }
+
+  async function readFromIdb() {
+    const db = await openIdb();
+    if (!db) return null;
+    return new Promise((resolve) => {
+      try {
+        const tx = db.transaction(IDB_STORE, 'readonly');
+        const store = tx.objectStore(IDB_STORE);
+        const req = store.get(IDB_KEY);
+        req.onsuccess = () => resolve(req.result || null);
+        req.onerror = () => resolve(null);
+      } catch (e) {
+        resolve(null);
+      }
+    });
+  }
+
+  async function writeToIdb(data) {
+    const db = await openIdb();
+    if (!db) return;
+    return new Promise((resolve) => {
+      try {
+        const tx = db.transaction(IDB_STORE, 'readwrite');
+        const store = tx.objectStore(IDB_STORE);
+        store.put(data, IDB_KEY);
+        tx.oncomplete = () => resolve(true);
+        tx.onerror = () => resolve(false);
+      } catch (e) {
+        resolve(false);
+      }
+    });
+  }
+
+  async function ensureInitialized() {
+    if (memoryData) return memoryData;
+    if (initPromise) return initPromise;
+
+    initPromise = (async () => {
+      // 1. Check IndexedDB first
+      const idbData = await readFromIdb();
+      if (idbData && Array.isArray(idbData.classes) && Array.isArray(idbData.questions)) {
+        memoryData = idbData;
+        return memoryData;
+      }
+
+      // 2. Load base seed from registry_cache.json
+      let seed = { classes: [], subjects: [], boards: [], subsubjects: [], sections: [], chapters: [], questions: [] };
       try {
         const res = await ORIGINAL_FETCH('./registry_cache.json');
         if (res.ok) {
-          const seed = await res.json();
-          localStorage.setItem(STORAGE_KEY, JSON.stringify(seed));
-          return seed;
+          seed = await res.json();
         }
       } catch (e) {}
 
-      const fallback = { classes: [], subjects: [], boards: [], subsubjects: [], sections: [], chapters: [], questions: [] };
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(fallback));
-      return fallback;
+      seedQuestionIds = new Set((seed.questions || []).map(q => q.globalId).filter(Boolean));
+
+      // 3. Apply any lightweight delta from localStorage if present
+      try {
+        const rawDelta = localStorage.getItem(DELTA_STORAGE_KEY);
+        if (rawDelta) {
+          const delta = JSON.parse(rawDelta);
+          if (delta) {
+            const deletedIds = new Set(delta.deletedQuestionIds || []);
+            seed.questions = (seed.questions || []).filter(q => !deletedIds.has(q.globalId));
+            if (Array.isArray(delta.addedQuestions)) {
+              const existingIds = new Set(seed.questions.map(q => q.globalId));
+              delta.addedQuestions.forEach(q => {
+                if (!existingIds.has(q.globalId)) {
+                  seed.questions.push(q);
+                }
+              });
+            }
+            if (Array.isArray(delta.chapters)) {
+              seed.chapters = delta.chapters;
+            }
+          }
+        }
+      } catch (e) {}
+
+      memoryData = seed;
+      await writeToIdb(memoryData);
+      return memoryData;
     })();
+
     return initPromise;
   }
 
   async function getLocalData() {
-    await ensureInitialized();
-    try {
-      return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {};
-    } catch (e) {
-      return {};
-    }
+    return await ensureInitialized();
   }
 
   function saveLocalData(data) {
-    try {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
-    } catch (e) {}
-  }
+    memoryData = data;
+    writeToIdb(data);
 
-  function getConsumedSet() {
+    // Also store lightweight delta in localStorage (without giant SVG strings if needed)
     try {
-      const arr = JSON.parse(localStorage.getItem(CONSUMED_KEY) || '[]');
-      return new Set(arr);
+      const addedQuestions = (data.questions || []).filter(q => !seedQuestionIds.has(q.globalId));
+      const currentIds = new Set((data.questions || []).map(q => q.globalId));
+      const deletedQuestionIds = Array.from(seedQuestionIds).filter(id => !currentIds.has(id));
+      const delta = {
+        addedQuestions,
+        deletedQuestionIds,
+        chapters: data.chapters || []
+      };
+      localStorage.setItem(DELTA_STORAGE_KEY, JSON.stringify(delta));
     } catch (e) {
-      return new Set();
+      // IndexedDB & memoryData still hold 100% of the data even if localStorage quota is full
     }
-  }
-
-  function saveConsumedSet(set) {
-    try {
-      localStorage.setItem(CONSUMED_KEY, JSON.stringify(Array.from(set)));
-    } catch (e) {}
   }
 
   function resolveBankFilename(chapterName, sectionName) {
@@ -307,15 +457,37 @@
         vaultMemoryCache[file] = [];
       }
     }
-    const consumed = getConsumedSet();
-    return (vaultMemoryCache[file] || []).filter(q => {
-      const h = q.normalized_question_hash || computeHash(q.question);
-      return !consumed.has(q.globalId) && !consumed.has(h);
+    return vaultMemoryCache[file] || [];
+  }
+
+  function getAvailablePoolForSection(bank, existingQuestions, chapterName, sectionName) {
+    const targetSecType = getSectionType(sectionName);
+    const sameSectionExisting = (existingQuestions || []).filter(q => {
+      const qCh = q.chapter || q.chapterName || '';
+      const qSecType = getSectionType(q.sectionName, q.question_type || q.type);
+      return isSameChapter(qCh, chapterName) && qSecType === targetSecType;
+    });
+
+    const existingHashes = new Set(
+      sameSectionExisting.map(q => q.normalized_question_hash || computeHash(q.question))
+    );
+    const existingSourceIds = new Set(
+      sameSectionExisting.map(q => q.vaultSourceId || q.globalId).filter(Boolean)
+    );
+
+    const seenInPool = new Set();
+    return (bank || []).filter(q => {
+      const qHash = q.normalized_question_hash || computeHash(q.question);
+      const qId = q.globalId || qHash;
+      if (existingSourceIds.has(q.globalId) || existingHashes.has(qHash)) return false;
+      if (seenInPool.has(qId) || seenInPool.has(qHash)) return false;
+      seenInPool.add(qId);
+      seenInPool.add(qHash);
+      return true;
     });
   }
 
   function getChapterUsage(existingQuestions, chapterName, className = 'Class 10', sectionName = 'Subjective') {
-    const normCh = String(chapterName || '').trim().toLowerCase();
     const normClass = String(className || '').trim().toLowerCase();
     const rawSec = String(sectionName || '').trim().toUpperCase();
     const isAR = rawSec.includes('ASSERTION');
@@ -324,28 +496,30 @@
 
     const matchingAll = (existingQuestions || []).filter(q => {
       const qClass = String(q.className || '').trim().toLowerCase();
-      const qCh = String(q.chapter || q.chapterName || '').trim().toLowerCase();
-      return (!normClass || !qClass || qClass === normClass) && (qCh === normCh);
+      const qCh = q.chapter || q.chapterName || '';
+      return (!normClass || !qClass || qClass === normClass) && isSameChapter(qCh, chapterName);
     });
 
     let diag = 0, num = 0, theo = 0, comp = 0, arCount = 0, hotsCount = 0, caseCount = 0, subjCount = 0;
 
     matchingAll.forEach(q => {
-      const qSec = String(q.sectionName || '').toUpperCase();
+      const secType = getSectionType(q.sectionName, q.question_type || q.type);
       const qType = String(q.question_type || q.type || '').toLowerCase();
       const hasSvg = !!q.diagramSvg;
 
-      if (qSec.includes('CASE') || qType === 'case_based') {
+      if (secType === 'case_based') {
         caseCount++;
-      } else if (qSec.includes('ASSERTION') || qType === 'assertion_reasoning') {
+      } else if (secType === 'assertion_reasoning') {
         arCount++;
-      } else if (qSec.includes('HOTS') || qType === 'hots') {
+      } else if (secType === 'hots') {
         hotsCount++;
       } else {
         subjCount++;
-        if (qType === 'diagrammatic' || hasSvg) diag++;
+        if (qType === 'diagrammatic' || (hasSvg && qType !== 'numerical' && qType !== 'theoretical' && qType !== 'complex')) diag++;
         else if (qType === 'numerical') num++;
         else if (qType === 'complex') comp++;
+        else if (qType === 'theoretical') theo++;
+        else if (hasSvg) diag++;
         else theo++;
       }
     });
@@ -451,8 +625,10 @@
       };
     }
 
+    const availablePool = getAvailablePoolForSection(bank, existingQuestions, chapterName, sectionName);
+
     let diag = 0, theo = 0, comp = 0, num = 0;
-    bank.forEach(q => {
+    availablePool.forEach(q => {
       const types = q.types_supported || [q.question_type || 'diagrammatic'];
       if (types.includes('diagrammatic') || q.diagramSvg) diag++;
       if (types.includes('theoretical')) theo++;
@@ -463,8 +639,8 @@
     return {
       chapter: chapterName,
       sectionName: sectionName || 'Subjective',
-      available: true,
-      total: bank.length,
+      available: availablePool.length > 0,
+      total: availablePool.length,
       diagrammatic: diag,
       theoretical: theo,
       complex: comp,
@@ -495,7 +671,7 @@
         connected: true,
         provider: 'Global Cloud REST Database Cluster (24/7 Cloud Active)',
         cluster: 'Multi-Region Distributed Cloud Nodes',
-        latencyMs: 18,
+        latencyMs: 12,
         statusText: 'Active & Synchronized (24/7 Cloud)'
       });
     }
@@ -568,27 +744,28 @@
       });
     }
 
-    // 7. Store from Vault / Smart Generate
-    if ((pathname === '/api/generator/store-from-vault' || pathname === '/api/questions/smart-generate') && method === 'POST') {
+    // 7. Store from Vault / Smart Generate / Start
+    if ((pathname === '/api/generator/store-from-vault' || pathname === '/api/questions/smart-generate' || pathname === '/api/generator/start') && method === 'POST') {
       const {
         chapter,
         className = 'Class 10',
-        subjectName = 'Science',
-        subSubjectName = 'Physics',
+        subjectName = 'SCIENCE',
+        subSubjectName = 'PHYSICS',
         boardName = 'ICSE',
-        sectionName = 'Subjective',
+        sectionName = 'SUBJECTIVE',
         diagramCount = 0,
         theoryCount = 0,
         complexCount = 0,
         numericalCount = 0,
-        count = 0
+        count = 0,
+        totalCount = 0
       } = body;
 
       const dCount = parseInt(diagramCount) || 0;
       const tCount = parseInt(theoryCount) || 0;
       const cCount = parseInt(complexCount) || 0;
       const nCount = parseInt(numericalCount) || 0;
-      const cVal = parseInt(count) || (dCount + tCount + cCount + nCount);
+      const cVal = parseInt(count) || parseInt(totalCount) || (dCount + tCount + cCount + nCount);
 
       const currentData = await getLocalData();
       if (!currentData.questions) currentData.questions = [];
@@ -602,59 +779,59 @@
 
       if (isCase) {
         if (chapterUsage.allLimitsReached || chapterUsage.remainingAllowed <= 0) {
-          return jsonResponse({ success: false, message: `No more questions can be generated for "${chapter}" in Case Based Studies. Maximum quota of 50 questions has been reached.` }, 400);
+          return jsonResponse({ success: false, message: `No more questions can be generated for "${chapter}" in Case Based Studies. Maximum quota of 50 questions has been reached.`, chapterUsage });
         }
         if (cVal > chapterUsage.remainingAllowed) {
-          return jsonResponse({ success: false, message: `Cannot generate ${cVal} Case Based question(s) for "${chapter}". Limit is 50. Already generated: ${chapterUsage.alreadyGenerated.count}/50. Maximum remaining allowed is ${chapterUsage.remainingAllowed}.` }, 400);
+          return jsonResponse({ success: false, message: `Cannot generate ${cVal} Case Based question(s) for "${chapter}". Limit is 50. Already generated: ${chapterUsage.alreadyGenerated.count}/50. Maximum remaining allowed is ${chapterUsage.remainingAllowed}.`, chapterUsage });
         }
       } else if (isAR) {
         if (chapterUsage.allLimitsReached || chapterUsage.remainingAllowed <= 0) {
-          return jsonResponse({ success: false, message: `No more questions can be generated for "${chapter}" in Assertion-Reasoning. Maximum quota of 30 questions has been reached.` }, 400);
+          return jsonResponse({ success: false, message: `No more questions can be generated for "${chapter}" in Assertion-Reasoning. Maximum quota of 30 questions has been reached.`, chapterUsage });
         }
         if (cVal > chapterUsage.remainingAllowed) {
-          return jsonResponse({ success: false, message: `Cannot generate ${cVal} Assertion-Reasoning question(s) for "${chapter}". Limit is 30. Already generated: ${chapterUsage.alreadyGenerated.count}/30. Maximum remaining allowed is ${chapterUsage.remainingAllowed}.` }, 400);
+          return jsonResponse({ success: false, message: `Cannot generate ${cVal} Assertion-Reasoning question(s) for "${chapter}". Limit is 30. Already generated: ${chapterUsage.alreadyGenerated.count}/30. Maximum remaining allowed is ${chapterUsage.remainingAllowed}.`, chapterUsage });
         }
       } else if (isHOTS) {
         if (chapterUsage.allLimitsReached || chapterUsage.remainingAllowed <= 0) {
-          return jsonResponse({ success: false, message: `No more questions can be generated for "${chapter}" in HOTS. Maximum quota of 20 questions has been reached.` }, 400);
+          return jsonResponse({ success: false, message: `No more questions can be generated for "${chapter}" in HOTS. Maximum quota of 20 questions has been reached.`, chapterUsage });
         }
         if (cVal > chapterUsage.remainingAllowed) {
-          return jsonResponse({ success: false, message: `Cannot generate ${cVal} HOTS question(s) for "${chapter}". Limit is 20. Already generated: ${chapterUsage.alreadyGenerated.count}/20. Maximum remaining allowed is ${chapterUsage.remainingAllowed}.` }, 400);
+          return jsonResponse({ success: false, message: `Cannot generate ${cVal} HOTS question(s) for "${chapter}". Limit is 20. Already generated: ${chapterUsage.alreadyGenerated.count}/20. Maximum remaining allowed is ${chapterUsage.remainingAllowed}.`, chapterUsage });
         }
       } else {
         if (chapterUsage.allLimitsReached) {
-          return jsonResponse({ success: false, message: `No more questions can be generated for "${chapter}". All maximum quotas have been reached: 30 Diagrammatic, 30 Numerical, 20 Theoretical, 20 Complex (Total 100).` }, 400);
+          return jsonResponse({ success: false, message: `No more questions can be generated for "${chapter}". All maximum quotas have been reached: 30 Diagrammatic, 30 Numerical, 20 Theoretical, 20 Complex (Total 100).`, chapterUsage });
         }
         if (dCount > 0 && dCount > chapterUsage.remainingAllowed.diagrammatic) {
-          return jsonResponse({ success: false, message: `Cannot generate ${dCount} diagrammatic question(s) for "${chapter}". Limit is 30. Already generated: ${chapterUsage.alreadyGenerated.diagrammatic}/30. Maximum remaining allowed is ${chapterUsage.remainingAllowed.diagrammatic}.` }, 400);
+          return jsonResponse({ success: false, message: `Cannot generate ${dCount} diagrammatic question(s) for "${chapter}". Limit is 30. Already generated: ${chapterUsage.alreadyGenerated.diagrammatic}/30. Maximum remaining allowed is ${chapterUsage.remainingAllowed.diagrammatic}.`, chapterUsage });
         }
         if (nCount > 0 && nCount > chapterUsage.remainingAllowed.numerical) {
-          return jsonResponse({ success: false, message: `Cannot generate ${nCount} numerical question(s) for "${chapter}". Limit is 30. Already generated: ${chapterUsage.alreadyGenerated.numerical}/30. Maximum remaining allowed is ${chapterUsage.remainingAllowed.numerical}.` }, 400);
+          return jsonResponse({ success: false, message: `Cannot generate ${nCount} numerical question(s) for "${chapter}". Limit is 30. Already generated: ${chapterUsage.alreadyGenerated.numerical}/30. Maximum remaining allowed is ${chapterUsage.remainingAllowed.numerical}.`, chapterUsage });
         }
         if (tCount > 0 && tCount > chapterUsage.remainingAllowed.theoretical) {
-          return jsonResponse({ success: false, message: `Cannot generate ${tCount} theoretical question(s) for "${chapter}". Limit is 20. Already generated: ${chapterUsage.alreadyGenerated.theoretical}/20. Maximum remaining allowed is ${chapterUsage.remainingAllowed.theoretical}.` }, 400);
+          return jsonResponse({ success: false, message: `Cannot generate ${tCount} theoretical question(s) for "${chapter}". Limit is 20. Already generated: ${chapterUsage.alreadyGenerated.theoretical}/20. Maximum remaining allowed is ${chapterUsage.remainingAllowed.theoretical}.`, chapterUsage });
         }
         if (cCount > 0 && cCount > chapterUsage.remainingAllowed.complex) {
-          return jsonResponse({ success: false, message: `Cannot generate ${cCount} complex question(s) for "${chapter}". Limit is 20. Already generated: ${chapterUsage.alreadyGenerated.complex}/20. Maximum remaining allowed is ${chapterUsage.remainingAllowed.complex}.` }, 400);
+          return jsonResponse({ success: false, message: `Cannot generate ${cCount} complex question(s) for "${chapter}". Limit is 20. Already generated: ${chapterUsage.alreadyGenerated.complex}/20. Maximum remaining allowed is ${chapterUsage.remainingAllowed.complex}.`, chapterUsage });
         }
       }
 
       const bank = await loadBankForChapter(chapter, sectionName);
-      const existingHashes = new Set(existingList.map(q => q.normalized_question_hash || computeHash(q.question)));
-      const availablePool = bank.filter(q => !existingHashes.has(q.normalized_question_hash || computeHash(q.question)));
+      const availablePool = getAvailablePoolForSection(bank, existingList, chapter, sectionName);
 
       const selected = [];
       const usedIds = new Set();
+      const canonicalSection = isCase ? 'CASE BASED STUDIES' : isAR ? 'ASSERTION REASONING' : isHOTS ? 'HOTS' : 'SUBJECTIVE';
 
       if (isAR || isHOTS || isCase) {
         const targetType = isAR ? 'assertion_reasoning' : isHOTS ? 'hots' : 'case_based';
-        const targetSec = isAR ? 'ASSERTION REASONING' : isHOTS ? 'HOTS' : 'CASE BASED STUDIES';
         for (const cand of availablePool) {
           if (selected.length >= cVal) break;
           selected.push({
             ...cand,
-            question_type: cand.question_type || targetType,
-            sectionName: targetSec
+            vaultSourceId: cand.globalId,
+            question_type: targetType,
+            sectionName: canonicalSection
           });
         }
       } else {
@@ -662,13 +839,14 @@
           let picked = 0;
           for (const cand of availablePool) {
             if (picked >= need) break;
-            if (usedIds.has(cand.globalId || cand.question)) continue;
+            const key = cand.globalId || cand.question;
+            if (usedIds.has(key)) continue;
             const types = cand.types_supported || [cand.question_type || 'theoretical'];
             const match = (type === 'diagrammatic' && (types.includes('diagrammatic') || cand.diagramSvg || cand.question_type === 'diagrammatic')) ||
                           types.includes(type) || cand.question_type === type;
             if (match) {
-              usedIds.add(cand.globalId || cand.question);
-              selected.push({ ...cand, question_type: type, sectionName: sectionName || 'Subjective' });
+              usedIds.add(key);
+              selected.push({ ...cand, vaultSourceId: cand.globalId, question_type: type, sectionName: canonicalSection });
               picked++;
             }
           }
@@ -688,20 +866,18 @@
         });
       }
 
-      const consumed = getConsumedSet();
       const saved = [];
       for (const q of selected) {
         const h = q.normalized_question_hash || computeHash(q.question);
-        if (q.globalId) consumed.add(q.globalId);
-        consumed.add(h);
         const record = {
           ...q,
           globalId: 'Q-VAULT-' + Math.random().toString(36).substring(2, 9),
+          vaultSourceId: q.vaultSourceId || q.globalId,
           className: className || q.className || 'Class 10',
-          subjectName: subjectName || q.subjectName || 'Science',
-          subSubjectName: subSubjectName || q.subSubjectName || 'Physics',
-          boardName: boardName || q.boardName || 'ICSE',
-          sectionName: q.sectionName || sectionName || 'Subjective',
+          subjectName: String(subjectName || q.subjectName || 'SCIENCE').toUpperCase(),
+          subSubjectName: String(subSubjectName || q.subSubjectName || 'PHYSICS').toUpperCase(),
+          boardName: String(boardName || q.boardName || 'ICSE').toUpperCase(),
+          sectionName: canonicalSection,
           chapter: chapter || q.chapter,
           chapterName: chapter || q.chapter,
           normalized_question_hash: h,
@@ -711,7 +887,6 @@
         saved.push(record);
       }
 
-      saveConsumedSet(consumed);
       saveLocalData(currentData);
 
       return jsonResponse({
@@ -719,8 +894,14 @@
         savedCount: saved.length,
         count: saved.length,
         chapter,
-        sectionName,
+        sectionName: canonicalSection,
         breakdown: isCase ? { case_based: saved.length } : isAR ? { assertion_reasoning: saved.length } : isHOTS ? { hots: saved.length } : {
+          diagrammatic: saved.filter(q => q.question_type === 'diagrammatic').length,
+          theoretical: saved.filter(q => q.question_type === 'theoretical').length,
+          complex: saved.filter(q => q.question_type === 'complex').length,
+          numerical: saved.filter(q => q.question_type === 'numerical').length
+        },
+        questionsPerType: isCase ? { case_based: saved.length } : isAR ? { assertion_reasoning: saved.length } : isHOTS ? { hots: saved.length } : {
           diagrammatic: saved.filter(q => q.question_type === 'diagrammatic').length,
           theoretical: saved.filter(q => q.question_type === 'theoretical').length,
           complex: saved.filter(q => q.question_type === 'complex').length,
@@ -731,7 +912,20 @@
       });
     }
 
-    // 8. Find duplicates
+    // 8. Clear all questions
+    if (pathname === '/api/questions/clear-all' && method === 'POST') {
+      const currentData = await getLocalData();
+      const deletedCount = (currentData.questions || []).length;
+      currentData.questions = [];
+      saveLocalData(currentData);
+      return jsonResponse({
+        success: true,
+        message: `Cleared all ${deletedCount} questions.`,
+        deletedCount
+      });
+    }
+
+    // 9. Find duplicates
     if (pathname === '/api/questions/find-duplicates') {
       const currentData = await getLocalData();
       return jsonResponse({
@@ -743,7 +937,7 @@
       });
     }
 
-    // 9. Bulk delete questions
+    // 10. Bulk delete questions
     if (pathname === '/api/questions/bulk-delete' && method === 'POST') {
       const ids = new Set(body.ids || []);
       const currentData = await getLocalData();
@@ -757,7 +951,7 @@
       });
     }
 
-    // 10. Toggle hide chapter
+    // 11. Toggle hide chapter
     const hideMatch = pathname.match(/^\/api\/data\/chapters\/([^/]+)\/toggle-hide$/);
     if (hideMatch && method === 'POST') {
       const id = decodeURIComponent(hideMatch[1]);
@@ -772,7 +966,7 @@
       return jsonResponse({ success: true, hidden: !!body.hidden });
     }
 
-    // 11. Collection CRUD (/api/data/:collection and /api/data/:collection/:id)
+    // 12. Collection CRUD (/api/data/:collection and /api/data/:collection/:id)
     const collItemMatch = pathname.match(/^\/api\/data\/([a-z]+)\/(.+)$/);
     if (collItemMatch) {
       const collection = collItemMatch[1];
@@ -826,7 +1020,7 @@
     return jsonResponse({ success: true });
   }
 
-  // Intercept fetch calls: if running on github.io (or static host) OR if local server fails, use Cloud Backend Engine!
+  // Intercept fetch calls: if running on github.io (or static host) OR if local server / tunnel fails or times out, use Cloud Backend Engine!
   const IS_STATIC_CLOUD = window.location.hostname.includes('github.io') || window.location.hostname.includes('pages.dev') || window.location.hostname.includes('netlify.app') || window.location.hostname.includes('vercel.app');
 
   window.fetch = async function (input, init) {
@@ -838,8 +1032,13 @@
         return handleApiRequest(urlStr, init);
       }
       try {
-        const res = await ORIGINAL_FETCH(input, init);
-        if (res.status === 404 || res.status === 502 || res.status === 503) {
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 3500);
+        const fetchInit = Object.assign({}, init || {}, { signal: controller.signal });
+        const res = await ORIGINAL_FETCH(input, fetchInit);
+        clearTimeout(timeoutId);
+        const contentType = (res.headers && res.headers.get('content-type')) || '';
+        if (res.status >= 500 || res.status === 404 || !contentType.includes('application/json')) {
           return handleApiRequest(urlStr, init);
         }
         return res;

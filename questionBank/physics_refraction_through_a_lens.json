@@ -1,5 +1,261 @@
 [
   {
+    "globalId": "qb_refraction_lens_1_138d68",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Object and image on the same side",
+    "question_type": "theoretical",
+    "types_supported": [
+      "theoretical"
+    ],
+    "question": "A lens forms a virtual image of a real object on the same side as the object. Which conclusion is necessarily correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The lens must be convex."
+      },
+      {
+        "key": "B",
+        "text": "The image must be inverted."
+      },
+      {
+        "key": "C",
+        "text": "The image distance is positive under the New Cartesian convention."
+      },
+      {
+        "key": "D",
+        "text": "The image distance is negative under the New Cartesian convention."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "With light travelling from left to right, the object lies on the left and has negative object distance. A virtual image on the same side also has negative image distance. A concave lens always produces this type of image for a real object in air; a convex lens can do so when the object is inside its focal length.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_2_c3389d",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Lens power and magnification",
+    "question_type": "theoretical",
+    "types_supported": [
+      "theoretical"
+    ],
+    "question": "A convex lens has power +2.5 D. An object of height 4 cm is placed 60 cm in front of it. What is the image height?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "+8 cm"
+      },
+      {
+        "key": "B",
+        "text": "-8 cm"
+      },
+      {
+        "key": "C",
+        "text": "+2 cm"
+      },
+      {
+        "key": "D",
+        "text": "-2 cm"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "f=frac1{2.5}=0.4 m=40 cm\n\n\nWith u=-60 cm,\n\n\nfrac1v-frac1{-60}=frac1{40}\n\n\n\nfrac1v=frac1{40}-frac1{60}=frac1{120}\n\n\nTherefore, v=+120 cm, and\n\n\nm=frac vu=(120 / -60)=-2.\n\n\nHence h_i=mh_o=-2(4)=-8 cm.\n\n**Correct Answer: B**, not D. The image is inverted and twice the object's height.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_3_3189cd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Lensmaker reasoning",
+    "question_type": "complex",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex"
+    ],
+    "question": "Two convex lenses are made from the same glass. Lens A has more strongly curved surfaces than lens B. Assuming comparable surface shapes and the same surrounding medium, which statement is generally correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 480 200\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\">\n        <text x=\"240\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">Ray Diagram: Convex Lens (Real &amp; Inverted Image)</text>\n        <!-- Principal Axis -->\n        <line x1=\"20\" y1=\"110\" x2=\"460\" y2=\"110\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n        <!-- Convex Lens -->\n        <ellipse cx=\"220\" cy=\"110\" rx=\"8\" ry=\"70\" fill=\"#bae6fd\" stroke=\"#0284c7\" stroke-width=\"2\"/>\n        <text x=\"220\" y=\"35\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"700\" fill=\"#0284c7\">Convex Lens</text>\n        <!-- Optical Centre O -->\n        <circle cx=\"220\" cy=\"110\" r=\"2.5\" fill=\"#0f172a\"/>\n        <text x=\"215\" y=\"125\" font-size=\"10\" font-weight=\"700\">O</text>\n        <!-- Focal Points: F1(150), 2F1(80), F2(290), 2F2(360) -->\n        <circle cx=\"150\" cy=\"110\" r=\"2.5\" fill=\"#334155\"/><text x=\"150\" y=\"125\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"700\">F₁</text>\n        <circle cx=\"80\" cy=\"110\" r=\"2.5\" fill=\"#334155\"/><text x=\"80\" y=\"125\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"700\">2F₁</text>\n        <circle cx=\"290\" cy=\"110\" r=\"2.5\" fill=\"#334155\"/><text x=\"290\" y=\"125\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"700\">F₂</text>\n        <circle cx=\"360\" cy=\"110\" r=\"2.5\" fill=\"#334155\"/><text x=\"360\" y=\"125\" text-anchor=\"middle\" font-size=\"9.5\" font-weight=\"700\">2F₂</text>\n        <!-- Object AB at 2F1 -->\n        <line x1=\"80\" y1=\"110\" x2=\"80\" y2=\"60\" stroke=\"#dc2626\" stroke-width=\"3\"/>\n        <polygon points=\"80,55 76,64 84,64\" fill=\"#dc2626\"/>\n        <text x=\"65\" y=\"55\" font-size=\"10\" font-weight=\"800\" fill=\"#dc2626\">Object</text>\n        <!-- Ray 1: Parallel to axis -> Passes through F2 -->\n        <line x1=\"80\" y1=\"60\" x2=\"220\" y2=\"60\" stroke=\"#dc2626\" stroke-width=\"1.8\"/>\n        <line x1=\"220\" y1=\"60\" x2=\"360\" y2=\"160\" stroke=\"#dc2626\" stroke-width=\"1.8\"/>\n        <!-- Ray 2: Through Optical Centre O undeviated -->\n        <line x1=\"80\" y1=\"60\" x2=\"360\" y2=\"160\" stroke=\"#16a34a\" stroke-width=\"1.8\"/>\n        <!-- Inverted Image A'B' at 2F2 -->\n        <line x1=\"360\" y1=\"110\" x2=\"360\" y2=\"160\" stroke=\"#2563eb\" stroke-width=\"3\"/>\n        <polygon points=\"360,165 356,156 364,156\" fill=\"#2563eb\"/>\n        <text x=\"375\" y=\"165\" font-size=\"10\" font-weight=\"800\" fill=\"#2563eb\">Image (Real, Inverted)</text>\n        <text x=\"240\" y=\"190\" text-anchor=\"middle\" font-size=\"10\" font-weight=\"600\" fill=\"#334155\">Object at 2F₁ produces real, inverted image of same size at 2F₂ (Magnification m = −1)</text>\n      </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Lens A has greater power and a shorter focal-length magnitude."
+      },
+      {
+        "key": "B",
+        "text": "Lens A has smaller power and a longer focal-length magnitude."
+      },
+      {
+        "key": "C",
+        "text": "Both must have equal focal lengths because they are made from the same glass."
+      },
+      {
+        "key": "D",
+        "text": "The focal lengths depend only on the masses of the lenses."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "ing\n\nTwo convex lenses are made from the same glass. Lens A has more strongly curved surfaces than lens B. Assuming comparable surface shapes and the same surrounding medium, which statement is generally correct?\n\nA) Lens A has greater power and a shorter focal-length magnitude.\n\nB) Lens A has smaller power and a longer focal-length magnitude.\n\nC) Both must have equal focal lengths because they are made from the same glass.\n\nD) The focal lengths depend only on the masses of the lenses.\n\n**Correct Answer: A**\n\n**Reason:** For the same refractive index and surrounding medium, stronger surface curvature generally gives greater optical power. Since P=1/f, greater power corresponds to a shorter focal-length magnitude.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_4_49d078",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Correcting a misconception",
+    "question_type": "theoretical",
+    "types_supported": [
+      "theoretical"
+    ],
+    "question": "A student says, “A convex lens always forms a real image because it is a converging lens.” Which response is best?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Correct, because a converging lens cannot form a virtual image."
+      },
+      {
+        "key": "B",
+        "text": "Incorrect, because a convex lens forms a virtual, erect and magnified image when the object is inside its focal length."
+      },
+      {
+        "key": "C",
+        "text": "Correct, except when the object is at 2F₁."
+      },
+      {
+        "key": "D",
+        "text": "Incorrect, because a convex lens forms only virtual images."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A convex lens normally forms real images when the object is beyond its principal focus. When the object is between the optical centre and focus, the refracted rays diverge and their backward extensions form a virtual, erect, magnified image.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_5_082d37",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Equivalent lens power",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "Three thin lenses in contact have powers +4 D, -1.5 D and -1.0 D. Which is the equivalent power and focal length?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "+1.5 D, +66.7 cm"
+      },
+      {
+        "key": "B",
+        "text": "+6.5 D, +15.4 cm"
+      },
+      {
+        "key": "C",
+        "text": "-1.5 D, -66.7 cm"
+      },
+      {
+        "key": "D",
+        "text": "+3.5 D, +28.6 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "P_{net}=4-1.5-1.0=+1.5 D\n\n\n\nf=frac1{1.5} m=+0.667 m\n\n\nSo the focal length is approximately +66.7 cm.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_6_f5bf31",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Image size and orientation",
+    "question_type": "theoretical",
+    "types_supported": [
+      "theoretical"
+    ],
+    "question": "An object of height 5 cm produces an image of height -15 cm. Which statement follows directly from the image-height information?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The image is virtual and diminished."
+      },
+      {
+        "key": "B",
+        "text": "The image is real and three times the object's size, assuming the usual thin-lens setup for a real object."
+      },
+      {
+        "key": "C",
+        "text": "The lens must be concave."
+      },
+      {
+        "key": "D",
+        "text": "The focal length must be 15 cm."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The negative image height indicates inversion relative to the upright object, and the magnitude ratio is\n\n\n|m|=≤ft|(-15 / 5)right|=3.\n\n\nThus, the image is inverted and three times the object's size. For a real object in the usual lens arrangement, this corresponds to a real image formed by a convex lens. The image height alone does not determine the focal length.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
     "globalId": "qb_refraction_lens_7_1c7e96",
     "className": "Class 10",
     "boardName": "ICSE",
@@ -42,6 +298,180 @@
     "source_status": "verified"
   },
   {
+    "globalId": "qb_refraction_lens_8_8f92e9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "A focal-length measurement setup",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "In an ideal convex-lens experiment, an object is placed at the principal focus and a plane mirror is placed behind the lens. Which condition helps the rays return to the object point after reflection and a second passage through the lens?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The object must be at 2F₁."
+      },
+      {
+        "key": "B",
+        "text": "The mirror must be placed at the optical centre."
+      },
+      {
+        "key": "C",
+        "text": "The lens must be concave."
+      },
+      {
+        "key": "D",
+        "text": "The object must be at the principal focus, so the outgoing rays are parallel before reflection."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "When the object is at the principal focus, rays emerging from the convex lens are parallel. A plane mirror reflects the parallel beam back, and the lens focuses the returning rays at the original focal point.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_9_b723cd",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Power and direction of convergence",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A lens has focal length +80 cm. Which statement is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Its power is -1.25 D, and it is diverging."
+      },
+      {
+        "key": "B",
+        "text": "Its power is +1.25 D, and it is converging."
+      },
+      {
+        "key": "C",
+        "text": "Its power is +80 D, and it is converging."
+      },
+      {
+        "key": "D",
+        "text": "Its power is -80 D, and it is diverging."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "f=+0.80 m,quad P=frac1{0.80}=+1.25 D.\n\n\nThe positive focal length and power indicate a converging lens in air.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_10_df4fff",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Integrated image-formation problem",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A convex lens forms a real image at +40 cm when the object is at -20 cm. Which combination gives the focal length, magnification and image orientation?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "f=+13.3 cm, m=-2, inverted"
+      },
+      {
+        "key": "B",
+        "text": "f=+20 cm, m=+2, erect"
+      },
+      {
+        "key": "C",
+        "text": "f=+13.3 cm, m=+2, erect"
+      },
+      {
+        "key": "D",
+        "text": "f=+60 cm, m=-0.5, inverted"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "frac1f=frac1v-frac1u\n=frac1{40}-frac1{-20}\n\n\n\nfrac1f=frac1{40}+frac1{20}=frac3{40}\n\n\n\nf=(40 / 3)≈+13.3 cm.\n\n\nMagnification:\n\n\nm=frac vu=(40 / -20)=-2.\n\n\nThe image is real, inverted and twice the object's size.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_11_df41d9",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Board-style Multiple statements about image formation",
+    "question_type": "complex",
+    "types_supported": [
+      "theoretical",
+      "complex"
+    ],
+    "question": "Consider the following statements about a convex lens forming an image of a real object. I. An object beyond 2F₁ produces a real, inverted and diminished image between F₂ and 2F₂. II. An object at 2F₁ produces a real, inverted image of the same size at 2F₂. III. An object between F₁ and the optical centre produces a real, inverted and magnified image. Which statements are correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I only"
+      },
+      {
+        "key": "B",
+        "text": "I and II only"
+      },
+      {
+        "key": "C",
+        "text": "II and III only"
+      },
+      {
+        "key": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Statements I and II are standard convex-lens cases. Statement III is false: an object inside the focal length produces a **virtual, erect and magnified** image on the object's side.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
     "globalId": "qb_refraction_lens_12_1e7add",
     "className": "Class 10",
     "boardName": "ICSE",
@@ -76,6 +506,50 @@
     ],
     "correct_option": "B",
     "explanation": "For a real object, a concave lens forms a virtual, erect and diminished image. Its magnification is positive but less than one. It cannot produce a two-times enlarged image in this situation.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_13_a1d73c",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Board-style Power and focal length",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A lens has a focal length of -40 cm. Which pair correctly gives its power and nature in air?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "+2.5 D, converging"
+      },
+      {
+        "key": "B",
+        "text": "-4.0 D, diverging"
+      },
+      {
+        "key": "C",
+        "text": "-2.5 D, diverging"
+      },
+      {
+        "key": "D",
+        "text": "+4.0 D, converging"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "f=-0.40 m,qquad P=frac1f\n\n\n\nP=frac1{-0.40}=-2.5 D.\n\n\nNegative power identifies a diverging lens in air.",
     "concept_name": "Refraction through a Lens",
     "concept_tag": "refraction lens",
     "difficulty": "hard",
@@ -169,6 +643,138 @@
     "source_status": "verified"
   },
   {
+    "globalId": "qb_refraction_lens_16_51415e",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Board-style Two lenses in contact",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A convex lens of power +5 D is placed in contact with a concave lens of power -8 D. What is the equivalent focal length of the combination?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "+33.3 cm"
+      },
+      {
+        "key": "B",
+        "text": "-33.3 cm"
+      },
+      {
+        "key": "C",
+        "text": "-76.9 cm"
+      },
+      {
+        "key": "D",
+        "text": "+76.9 cm"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "P_{net}=+5-8=-3 D\n\n\n\nf=frac1{-3} m=-0.333 m\n\n\nThe equivalent focal length is approximately -33.3 cm, so the combination is diverging.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_17_cf3737",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Board-style Finding focal length from magnification",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "An object is placed 30 cm in front of a convex lens. The image is real and inverted, with magnification -2. What is the focal length?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10 cm"
+      },
+      {
+        "key": "B",
+        "text": "15 cm"
+      },
+      {
+        "key": "C",
+        "text": "20 cm"
+      },
+      {
+        "key": "D",
+        "text": "30 cm"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "m=frac vu=-2,quad u=-30 cm\n\n\nThus v=+60 cm. Using the lens formula,\n\n\nfrac1f=frac1v-frac1u\n=frac1{60}+frac1{30}=frac1{20}.\n\n\nTherefore, f=+20 cm.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_18_1579b6",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Board-style A virtual image from a convex lens",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A convex lens forms a virtual image three times the height of a real object. If the focal length is +24 cm, which object distance is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "-8 cm"
+      },
+      {
+        "key": "B",
+        "text": "-12 cm"
+      },
+      {
+        "key": "C",
+        "text": "-16 cm"
+      },
+      {
+        "key": "D",
+        "text": "-32 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For a virtual, erect image, m=+3, so\n\n\nv=3u.\n\n\nUsing the lens formula,\n\n\nfrac1{3u}-frac1u=frac1{24}\n\n\n\n-frac2{3u}=frac1{24}\nRightarrow u=-16 cm.\n\n\nTherefore, **the correct answer is C, not A**. This correction illustrates why the sign convention must be applied consistently.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
     "globalId": "qb_refraction_lens_19_061b77",
     "className": "Class 10",
     "boardName": "ICSE",
@@ -203,6 +809,50 @@
     ],
     "correct_option": "D",
     "explanation": "f_X=frac1{2}=+0.50 m\n\n\n\nf_Y=frac1{-5}=-0.20 m.\n\n\nLens Y has the shorter focal-length magnitude and negative power, so it is diverging.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_20_e9deac",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Board-style Image characteristics from distances",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A convex lens has focal length 15 cm. An object is placed 10 cm in front of it. Which description is correct?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Real, inverted, diminished"
+      },
+      {
+        "key": "B",
+        "text": "Virtual, erect, magnified"
+      },
+      {
+        "key": "C",
+        "text": "Real, erect, magnified"
+      },
+      {
+        "key": "D",
+        "text": "Virtual, inverted, diminished"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "u=-10 cm,quad f=+15 cm\n\n\n\nfrac1v-frac1{-10}=frac1{15}\n\n\n\nfrac1v=frac1{15}-frac1{10}=-frac1{30}\n\n\nHence v=-30 cm and m=v/u=+3. The image is virtual, erect and magnified.",
     "concept_name": "Refraction through a Lens",
     "concept_tag": "refraction lens",
     "difficulty": "hard",
@@ -414,6 +1064,50 @@
     ],
     "correct_option": "C",
     "explanation": "As the object moves from beyond 2F₁ towards F₁, the real image moves farther from the lens, from between F₂ and 2F₂ to beyond 2F₂. Its size increases. It becomes virtual only when the object moves inside the focal length.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_26_f26f17",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Board-style Image position from focal length and object distance",
+    "question_type": "complex",
+    "types_supported": [
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "A convex lens has focal length 12 cm. An object is placed 18 cm in front of it. What is the image distance and nature?",
+    "diagramSvg": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "+36 cm, real and inverted"
+      },
+      {
+        "key": "B",
+        "text": "-36 cm, virtual and erect"
+      },
+      {
+        "key": "C",
+        "text": "+7.2 cm, real and diminished"
+      },
+      {
+        "key": "D",
+        "text": "-7.2 cm, virtual and erect"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "u=-18 cm,quad f=+12 cm\n\n\n\nfrac1v-frac1{-18}=frac1{12}\nRightarrow frac1v=frac1{12}-frac1{18}=frac1{36}.\n\n\nThus v=+36 cm. A positive image distance means a real image on the opposite side.",
     "concept_name": "Refraction through a Lens",
     "concept_tag": "refraction lens",
     "difficulty": "hard",
@@ -3624,6 +4318,404 @@
     "source_status": "verified"
   },
   {
+    "globalId": "qb_refraction_lens_101_f97050",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Correcting a wrongly drawn ray",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex"
+    ],
+    "question": "The red emergent ray is deliberately shown incorrectly. Which correction is necessary?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"8\" y1=\"88\" x2=\"332\" y2=\"88\" stroke=\"currentColor\" stroke-width=\"1\" /><path d=\"M160 25 Q140 88 160 135 Q180 88 160 25\" fill=\"#B9DDF7\" fill-opacity=\"0.55\" stroke=\"#2878B8\" stroke-width=\"2\" /><line x1=\"45\" y1=\"128\" x2=\"160\" y2=\"88\" stroke=\"#D97706\" stroke-width=\"2.5\" /><path d=\"M160 88 L270 48\" stroke=\"#DC2626\" stroke-width=\"2.5\" /><path d=\"M270 48 L260 48 L264 57 Z\" fill=\"#DC2626\" /><circle cx=\"160\" cy=\"88\" r=\"2.5\" fill=\"currentColor\" /><text x=\"163\" y=\"102\" font-size=\"11\" fill=\"currentColor\">O</text><text x=\"115\" y=\"105\" font-size=\"11\" fill=\"currentColor\">F₁</text><text x=\"278\" y=\"45\" font-size=\"10\" fill=\"#DC2626\">Incorrect</text><line x1=\"115\" y1=\"84\" x2=\"115\" y2=\"92\" stroke=\"currentColor\" /><line x1=\"205\" y1=\"84\" x2=\"205\" y2=\"92\" stroke=\"currentColor\" /><text x=\"108\" y=\"78\" font-size=\"10\" fill=\"currentColor\">F₁</text><text x=\"199\" y=\"78\" font-size=\"10\" fill=\"currentColor\">F₂</text><text x=\"10\" y=\"18\" font-size=\"10\" fill=\"currentColor\">Incident ray through F₁</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The emergent ray must pass through F₂."
+      },
+      {
+        "key": "B",
+        "text": "The emergent ray must be parallel to the principal axis."
+      },
+      {
+        "key": "C",
+        "text": "The emergent ray must retrace the incident path."
+      },
+      {
+        "key": "D",
+        "text": "The emergent ray must pass through 2F₂."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A ray directed through the first principal focus of a convex lens emerges parallel to the principal axis. Option A describes a ray incident parallel to the principal axis, not one passing through F₁.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_102_c8776a",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Comparing the image formed at twice the focal length",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "Which statement correctly describes the image?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"8\" y1=\"94\" x2=\"332\" y2=\"94\" stroke=\"currentColor\" stroke-width=\"1\" /><path d=\"M170 22 Q145 94 170 132 Q195 94 170 22\" fill=\"#B9DDF7\" fill-opacity=\"0.55\" stroke=\"#2878B8\" stroke-width=\"2\" /><line x1=\"75\" y1=\"94\" x2=\"75\" y2=\"52\" stroke=\"#D97706\" stroke-width=\"2\" /><path d=\"M75 48 L70 57 L80 57 Z\" fill=\"#D97706\" /><line x1=\"265\" y1=\"94\" x2=\"265\" y2=\"136\" stroke=\"#16A34A\" stroke-width=\"2\" /><path d=\"M265 140 L260 131 L270 131 Z\" fill=\"#16A34A\" /><line x1=\"122\" y1=\"88\" x2=\"122\" y2=\"100\" stroke=\"currentColor\" /><line x1=\"218\" y1=\"88\" x2=\"218\" y2=\"100\" stroke=\"currentColor\" /><text x=\"57\" y=\"43\" font-size=\"11\" fill=\"#D97706\">Object</text><text x=\"242\" y=\"42\" font-size=\"11\" fill=\"#16A34A\">Image</text><text x=\"108\" y=\"81\" font-size=\"10\" fill=\"currentColor\">F₁</text><text x=\"207\" y=\"81\" font-size=\"10\" fill=\"currentColor\">F₂</text><text x=\"59\" y=\"110\" font-size=\"10\" fill=\"currentColor\">2F₁</text><text x=\"249\" y=\"110\" font-size=\"10\" fill=\"currentColor\">2F₂</text><text x=\"176\" y=\"107\" font-size=\"10\" fill=\"currentColor\">O</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is virtual, erect and equal in size to the object."
+      },
+      {
+        "key": "B",
+        "text": "It is real, erect and twice the object's size."
+      },
+      {
+        "key": "C",
+        "text": "It is real, inverted and equal in size to the object."
+      },
+      {
+        "key": "D",
+        "text": "It is virtual, inverted and diminished."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "An object at 2F₁ forms a real, inverted image at 2F₂, with magnification m=-1. Option B incorrectly assigns both an erect orientation and magnification of two.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_103_ebf9d5",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Concave lens: Parallel ray and its backward extension",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex"
+    ],
+    "question": "Which statement is correct?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"8\" y1=\"85\" x2=\"332\" y2=\"85\" stroke=\"currentColor\" stroke-width=\"1\" /><path d=\"M160 20 Q190 85 160 135 Q130 85 160 20\" fill=\"#B9DDF7\" fill-opacity=\"0.55\" stroke=\"#2878B8\" stroke-width=\"2\" /><line x1=\"22\" y1=\"55\" x2=\"160\" y2=\"55\" stroke=\"#D97706\" stroke-width=\"2.3\" /><path d=\"M160 55 L153 51 L153 59 Z\" fill=\"#D97706\" /><line x1=\"160\" y1=\"55\" x2=\"295\" y2=\"20\" stroke=\"#DC2626\" stroke-width=\"2.3\" /><path d=\"M295 20 L286 20 L289 28 Z\" fill=\"#DC2626\" /><line x1=\"160\" y1=\"55\" x2=\"75\" y2=\"85\" stroke=\"#DC2626\" stroke-width=\"1.7\" stroke-dasharray=\"5 4\" /><text x=\"14\" y=\"45\" font-size=\"10\" fill=\"#D97706\">Incident ray</text><text x=\"210\" y=\"14\" font-size=\"10\" fill=\"#DC2626\">Refracted ray</text><text x=\"33\" y=\"101\" font-size=\"10\" fill=\"#DC2626\">Backward extension</text><text x=\"69\" y=\"79\" font-size=\"10\" fill=\"currentColor\">F₁</text><text x=\"165\" y=\"99\" font-size=\"10\" fill=\"currentColor\">O</text><text x=\"245\" y=\"101\" font-size=\"10\" fill=\"currentColor\">F₂</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The actual refracted ray passes through F₁."
+      },
+      {
+        "key": "B",
+        "text": "The ray converges through F₂."
+      },
+      {
+        "key": "C",
+        "text": "The ray is reflected by the lens."
+      },
+      {
+        "key": "D",
+        "text": "The backward extension passes through F₁, but the actual refracted ray diverges."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A concave lens makes a parallel incident ray diverge as though it originated at the first principal focus. The dashed line is an extension, not the actual path of light. Option A confuses the two.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_104_181608",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Opposing lenses in contact",
+    "question_type": "complex",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "What is the equivalent focal length?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\">\n      <text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">Optics: Refraction Through Lens (Opposing lenses in contact)</text>\n      <line x1=\"20\" y1=\"100\" x2=\"440\" y2=\"100\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n      <ellipse cx=\"230\" cy=\"100\" rx=\"8\" ry=\"60\" fill=\"#bae6fd\" stroke=\"#0284c7\" stroke-width=\"2\"/>\n      <circle cx=\"160\" cy=\"100\" r=\"2.5\" fill=\"#334155\"/><text x=\"160\" y=\"115\" text-anchor=\"middle\" font-size=\"9\">F₁</text>\n      <circle cx=\"300\" cy=\"100\" r=\"2.5\" fill=\"#334155\"/><text x=\"300\" y=\"115\" text-anchor=\"middle\" font-size=\"9\">F₂</text>\n      <rect x=\"50\" y=\"130\" width=\"360\" height=\"35\" rx=\"4\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/>\n      <text x=\"230\" y=\"152\" text-anchor=\"middle\" font-size=\"10.5\" font-weight=\"700\" fill=\"#1e293b\">Lens Formula: 1/f = 1/v − 1/u | Power P = 1/f(m) dioptres</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "+60 cm"
+      },
+      {
+        "key": "B",
+        "text": "+12 cm"
+      },
+      {
+        "key": "C",
+        "text": "-60 cm"
+      },
+      {
+        "key": "D",
+        "text": "+50 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Add the powers, not the focal lengths:\n\n\nP=frac1{0.20}-frac1{0.30}\n=5-3.33=1.67 D.\n\n\nTherefore f≈+0.60 m=+60 cm. Option C has the wrong sign.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_105_7179ec",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Covered aperture and image formation",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex"
+    ],
+    "question": "Which outcome is expected?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"8\" y1=\"102\" x2=\"332\" y2=\"102\" stroke=\"currentColor\" stroke-width=\"1\" /><path d=\"M150 20 Q125 102 150 140 Q175 102 150 20\" fill=\"#B9DDF7\" fill-opacity=\"0.55\" stroke=\"#2878B8\" stroke-width=\"2\" /><rect x=\"124\" y=\"22\" width=\"52\" height=\"40\" fill=\"#777777\" stroke=\"#444444\" /><line x1=\"35\" y1=\"102\" x2=\"35\" y2=\"62\" stroke=\"#D97706\" stroke-width=\"2\" /><path d=\"M35 58 L30 67 L40 67 Z\" fill=\"#D97706\" /><line x1=\"35\" y1=\"62\" x2=\"150\" y2=\"80\" stroke=\"#DC2626\" stroke-width=\"1.7\" /><line x1=\"35\" y1=\"62\" x2=\"150\" y2=\"120\" stroke=\"#DC2626\" stroke-width=\"1.7\" /><line x1=\"150\" y1=\"80\" x2=\"300\" y2=\"102\" stroke=\"#DC2626\" stroke-width=\"1.7\" /><line x1=\"150\" y1=\"120\" x2=\"300\" y2=\"102\" stroke=\"#DC2626\" stroke-width=\"1.7\" /><line x1=\"300\" y1=\"102\" x2=\"300\" y2=\"127\" stroke=\"#16A34A\" stroke-width=\"2\" /><path d=\"M300 131 L295 122 L305 122 Z\" fill=\"#16A34A\" /><text x=\"10\" y=\"48\" font-size=\"10\" fill=\"#D97706\">Object</text><text x=\"181\" y=\"39\" font-size=\"10\" fill=\"currentColor\">Covered</text><text x=\"270\" y=\"143\" font-size=\"10\" fill=\"#16A34A\">Image</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Only half the image forms."
+      },
+      {
+        "key": "B",
+        "text": "The image becomes virtual."
+      },
+      {
+        "key": "C",
+        "text": "The complete image remains at the same position and size but becomes dimmer."
+      },
+      {
+        "key": "D",
+        "text": "The focal length doubles."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The uncovered part still refracts rays from every object point and contributes to the complete image. Covering the aperture reduces light intensity, not the ideal image position or size. Option A incorrectly treats each half of the lens as forming only half the image.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_106_57a558",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "A convex lens cut along its principal axis",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex"
+    ],
+    "question": "Which statement is correct in the ideal thin-lens model?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 155\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"8\" y1=\"77\" x2=\"332\" y2=\"77\" stroke=\"currentColor\" stroke-width=\"1\" /><path d=\"M160 12 Q125 44 160 77 Q195 44 160 12 Z\" fill=\"#B9DDF7\" fill-opacity=\"0.65\" stroke=\"#2878B8\" stroke-width=\"2\" /><path d=\"M160 77 Q125 110 160 143 Q195 110 160 77 Z\" fill=\"#B9DDF7\" fill-opacity=\"0.65\" stroke=\"#2878B8\" stroke-width=\"2\" /><line x1=\"122\" y1=\"77\" x2=\"198\" y2=\"77\" stroke=\"#D97706\" stroke-width=\"2\" stroke-dasharray=\"4 3\" /><text x=\"206\" y=\"71\" font-size=\"10\" fill=\"#D97706\">Cut plane</text><text x=\"168\" y=\"29\" font-size=\"10\" fill=\"currentColor\">Upper half</text><text x=\"168\" y=\"128\" font-size=\"10\" fill=\"currentColor\">Lower half</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Each half has half the original focal length."
+      },
+      {
+        "key": "B",
+        "text": "Each half retains the same focal length but has a smaller aperture."
+      },
+      {
+        "key": "C",
+        "text": "Each half has twice the original focal length."
+      },
+      {
+        "key": "D",
+        "text": "Both halves become concave lenses."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Cutting along the principal axis reduces aperture without changing the original surface curvatures in the thin-lens model. Hence the focal length is unchanged. Option A wrongly assumes that focal length depends directly on aperture.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_107_75b943",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "A convex lens immersed in a liquid",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex"
+    ],
+    "question": "Why does the convex-shaped lens behave as a diverging lens?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 145\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"5\" y=\"8\" width=\"330\" height=\"128\" rx=\"8\" fill=\"#D9F1FA\" fill-opacity=\"0.45\" stroke=\"#60A5C9\" stroke-width=\"1\" /><line x1=\"8\" y1=\"75\" x2=\"332\" y2=\"75\" stroke=\"currentColor\" stroke-width=\"1\" /><path d=\"M160 20 Q130 75 160 130 Q190 75 160 20\" fill=\"#FFFFFF\" fill-opacity=\"0.75\" stroke=\"#2878B8\" stroke-width=\"2\" /><line x1=\"15\" y1=\"43\" x2=\"160\" y2=\"43\" stroke=\"#D97706\" stroke-width=\"1.8\" /><line x1=\"15\" y1=\"75\" x2=\"160\" y2=\"75\" stroke=\"#D97706\" stroke-width=\"1.8\" /><line x1=\"15\" y1=\"107\" x2=\"160\" y2=\"107\" stroke=\"#D97706\" stroke-width=\"1.8\" /><path d=\"M160 43 L292 18\" stroke=\"#DC2626\" stroke-width=\"1.8\" /><path d=\"M160 75 L295 75\" stroke=\"#DC2626\" stroke-width=\"1.8\" /><path d=\"M160 107 L292 132\" stroke=\"#DC2626\" stroke-width=\"1.8\" /><path d=\"M292 18 L282 18 L286 26 Z\" fill=\"#DC2626\" /><text x=\"12\" y=\"23\" font-size=\"10\" fill=\"currentColor\">Liquid: n greater than lens</text><text x=\"184\" y=\"58\" font-size=\"10\" fill=\"#DC2626\">Diverging rays</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The lens changes its physical shape on immersion."
+      },
+      {
+        "key": "B",
+        "text": "The liquid absorbs the converging rays."
+      },
+      {
+        "key": "C",
+        "text": "Every convex lens has negative power in a liquid."
+      },
+      {
+        "key": "D",
+        "text": "The lens has a lower refractive index than the surrounding liquid, reversing its usual optical behaviour."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Lens power depends on the refractive index of the lens relative to the surrounding medium. If the lens has a lower refractive index than the liquid, a convex lens can behave as a diverging lens. Option C incorrectly claims that every convex lens has negative power in a liquid.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_108_f4f4f0",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Signed distances in the lens formula",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex"
+    ],
+    "question": "Which signed distances must be used?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 130\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"8\" y1=\"88\" x2=\"332\" y2=\"88\" stroke=\"currentColor\" stroke-width=\"1\" /><path d=\"M170 20 Q145 88 170 120 Q195 88 170 20\" fill=\"#B9DDF7\" fill-opacity=\"0.55\" stroke=\"#2878B8\" stroke-width=\"2\" /><line x1=\"75\" y1=\"88\" x2=\"75\" y2=\"43\" stroke=\"#D97706\" stroke-width=\"2\" /><path d=\"M75 39 L70 48 L80 48 Z\" fill=\"#D97706\" /><line x1=\"265\" y1=\"88\" x2=\"265\" y2=\"128\" stroke=\"#16A34A\" stroke-width=\"2\" /><path d=\"M265 132 L260 123 L270 123 Z\" fill=\"#16A34A\" /><line x1=\"75\" y1=\"111\" x2=\"170\" y2=\"111\" stroke=\"#D97706\" stroke-width=\"1\" /><line x1=\"170\" y1=\"111\" x2=\"265\" y2=\"111\" stroke=\"#16A34A\" stroke-width=\"1\" /><text x=\"87\" y=\"123\" font-size=\"10\" fill=\"#D97706\">u = −30 cm</text><text x=\"193\" y=\"123\" font-size=\"10\" fill=\"#16A34A\">v = +60 cm</text><text x=\"177\" y=\"101\" font-size=\"10\" fill=\"currentColor\">O</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "u=-30 cm, v=+60 cm"
+      },
+      {
+        "key": "B",
+        "text": "u=+30 cm, v=-60 cm"
+      },
+      {
+        "key": "C",
+        "text": "u=+30 cm, v=+60 cm"
+      },
+      {
+        "key": "D",
+        "text": "u=-30 cm, v=-60 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The object is on the side opposite to the positive direction of incident light, so u<0. The real image is on the positive side, so v>0. Option C incorrectly assigns a positive sign to the object distance.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_109_285cad",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Reading magnification from an image diagram",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex"
+    ],
+    "question": "What is the signed linear magnification?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 140\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"8\" y1=\"80\" x2=\"332\" y2=\"80\" stroke=\"currentColor\" stroke-width=\"1\" /><path d=\"M160 18 Q135 80 160 125 Q185 80 160 18\" fill=\"#B9DDF7\" fill-opacity=\"0.55\" stroke=\"#2878B8\" stroke-width=\"2\" /><line x1=\"45\" y1=\"80\" x2=\"45\" y2=\"55\" stroke=\"#D97706\" stroke-width=\"2\" /><path d=\"M45 51 L40 60 L50 60 Z\" fill=\"#D97706\" /><line x1=\"285\" y1=\"80\" x2=\"285\" y2=\"130\" stroke=\"#16A34A\" stroke-width=\"2\" /><path d=\"M285 134 L280 125 L290 125 Z\" fill=\"#16A34A\" /><text x=\"15\" y=\"43\" font-size=\"10\" fill=\"#D97706\">2 cm</text><text x=\"292\" y=\"120\" font-size=\"10\" fill=\"#16A34A\">6 cm</text><text x=\"167\" y=\"95\" font-size=\"10\" fill=\"currentColor\">O</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "+3"
+      },
+      {
+        "key": "B",
+        "text": "-3"
+      },
+      {
+        "key": "C",
+        "text": "+1/3"
+      },
+      {
+        "key": "D",
+        "text": "-1/3"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The image is inverted, so its signed height is negative:\n\n\nm=(h_i / h_o)=(-6 / 2)=-3.\n\n\nOption A gives the correct magnitude but ignores the inversion.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
     "globalId": "qb_refraction_lens_110_1afea8",
     "className": "Class 10",
     "boardName": "ICSE",
@@ -3924,6 +5016,50 @@
     ],
     "correct_option": "A",
     "explanation": "With u=-30 cm and v=+60 cm,\n\n\nfrac1f=frac1v-frac1u\n=frac1{60}+frac1{30}\n=frac1{20}.\n\n\nTherefore f=+20 cm. Option B incorrectly assigns a negative focal length to a converging lens forming a real image in air.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_117_395fc1",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Separated lenses: Why the contact formula fails",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "theoretical",
+      "complex"
+    ],
+    "question": "Which statement is correct?",
+    "diagramSvg": "<svg class=\"q-diagram-svg\" viewBox=\"0 0 340 150\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"8\" y1=\"90\" x2=\"332\" y2=\"90\" stroke=\"currentColor\" stroke-width=\"1\" /><path d=\"M95 24 Q70 90 95 136 Q120 90 95 24\" fill=\"#B9DDF7\" fill-opacity=\"0.55\" stroke=\"#2878B8\" stroke-width=\"2\" /><path d=\"M225 24 Q250 90 225 136 Q200 90 225 24\" fill=\"#D9EAF8\" fill-opacity=\"0.55\" stroke=\"#2878B8\" stroke-width=\"2\" /><line x1=\"20\" y1=\"58\" x2=\"95\" y2=\"58\" stroke=\"#D97706\" stroke-width=\"1.7\" /><line x1=\"95\" y1=\"58\" x2=\"175\" y2=\"90\" stroke=\"#DC2626\" stroke-width=\"1.7\" /><line x1=\"95\" y1=\"122\" x2=\"175\" y2=\"90\" stroke=\"#DC2626\" stroke-width=\"1.7\" /><line x1=\"175\" y1=\"90\" x2=\"225\" y2=\"58\" stroke=\"#DC2626\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\" /><line x1=\"175\" y1=\"90\" x2=\"225\" y2=\"122\" stroke=\"#DC2626\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\" /><text x=\"80\" y=\"18\" font-size=\"10\" fill=\"currentColor\">L₁</text><text x=\"215\" y=\"18\" font-size=\"10\" fill=\"currentColor\">L₂</text><text x=\"130\" y=\"110\" font-size=\"10\" fill=\"#DC2626\">Intermediate image</text><text x=\"147\" y=\"43\" font-size=\"10\" fill=\"currentColor\">Gap d</text></svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "Equivalent power is always zero when the lenses are separated."
+      },
+      {
+        "key": "B",
+        "text": "The equivalent focal length is always the sum of their focal lengths."
+      },
+      {
+        "key": "C",
+        "text": "The powers can be added algebraically without regard to separation."
+      },
+      {
+        "key": "D",
+        "text": "The simple sum of powers applies directly to lenses in contact; for separated lenses, the gap must be considered."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "With a gap, the image formed by the first lens becomes the object for the second lens. The contact-lens power formula alone is insufficient. Option C ignores the effect of separation.",
     "concept_name": "Refraction through a Lens",
     "concept_tag": "refraction lens",
     "difficulty": "hard",
@@ -4762,6 +5898,51 @@
     ],
     "correct_option": "D",
     "explanation": "Using u=-30 cm and v=+60 cm,\n\n\nfrac1f=frac1v-frac1u\n=frac1{60}+frac1{30}\n=frac1{20}.\n\n\nThus f=+20 cm. Option A results from a sign error that treats the real image as lying on the incident side.",
+    "concept_name": "Refraction through a Lens",
+    "concept_tag": "refraction lens",
+    "difficulty": "hard",
+    "verified_by": "code",
+    "source": "ICSE Class 10 Physics Master Vault",
+    "source_status": "verified"
+  },
+  {
+    "globalId": "qb_refraction_lens_137_e84029",
+    "className": "Class 10",
+    "boardName": "ICSE",
+    "subjectName": "Science",
+    "subSubjectName": "Physics",
+    "sectionName": "Subjective",
+    "chapter": "Refraction through a Lens",
+    "title": "Two thin lenses separated by a gap",
+    "question_type": "diagrammatic",
+    "types_supported": [
+      "diagrammatic",
+      "numerical",
+      "theoretical",
+      "complex"
+    ],
+    "question": "Which statement is correct?",
+    "diagramSvg": "<svg viewBox=\"0 0 460 190\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"background:#f8fafc; border-radius:8px; border:1px solid #cbd5e1; font-family:system-ui, sans-serif;\">\n      <text x=\"230\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#0f172a\">Optics: Refraction Through Lens (Two thin lenses separated by a gap)</text>\n      <line x1=\"20\" y1=\"100\" x2=\"440\" y2=\"100\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n      <ellipse cx=\"230\" cy=\"100\" rx=\"8\" ry=\"60\" fill=\"#bae6fd\" stroke=\"#0284c7\" stroke-width=\"2\"/>\n      <circle cx=\"160\" cy=\"100\" r=\"2.5\" fill=\"#334155\"/><text x=\"160\" y=\"115\" text-anchor=\"middle\" font-size=\"9\">F₁</text>\n      <circle cx=\"300\" cy=\"100\" r=\"2.5\" fill=\"#334155\"/><text x=\"300\" y=\"115\" text-anchor=\"middle\" font-size=\"9\">F₂</text>\n      <rect x=\"50\" y=\"130\" width=\"360\" height=\"35\" rx=\"4\" fill=\"#ffffff\" stroke=\"#cbd5e1\"/>\n      <text x=\"230\" y=\"152\" text-anchor=\"middle\" font-size=\"10.5\" font-weight=\"700\" fill=\"#1e293b\">Lens Formula: 1/f = 1/v − 1/u | Power P = 1/f(m) dioptres</text>\n    </svg>",
+    "options": [
+      {
+        "key": "A",
+        "text": "The simple algebraic sum of powers gives the equivalent power only for lenses in contact; separation must be considered for a general combination."
+      },
+      {
+        "key": "B",
+        "text": "The equivalent power is always the sum of the two powers, regardless of separation."
+      },
+      {
+        "key": "C",
+        "text": "The equivalent power is always zero when a convex and a concave lens are separated."
+      },
+      {
+        "key": "D",
+        "text": "The focal length of the combination is always the sum of the individual focal lengths."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For thin lenses in contact, equivalent powers add algebraically. When the lenses are separated, the intermediate image formed by the first lens affects the second lens, so the simple contact formula cannot generally be used without accounting for the separation. Option B incorrectly applies the contact formula to all arrangements.",
     "concept_name": "Refraction through a Lens",
     "concept_tag": "refraction lens",
     "difficulty": "hard",
